@@ -1,0 +1,800 @@
+{
+  "batch_session": {
+    "date": "2026-02-19",
+    "batch_name": "batch1_gold_sprinkled",
+    "description": "Comprehensive search for gold-sprinkled (and silver-sprinkled) paper across all spelling variants in kagit_ozellikleri and genel_notlar fields.",
+    "portal_note": "Portal shows 'Test Yayinidrir' banner. Total database: 640,112 records.",
+    "searches": [
+      {
+        "search_number": 1,
+        "term_searched": "serpme",
+        "field_searched": "genel_notlar",
+        "operator": "Iceren",
+        "raw_result_count": 6,
+        "results": [
+          {
+            "yek_id": "121027",
+            "title": "es-Sema'ilu'n-Nebeviyye ve'l-Hasa'ilu'l-Mustafaviyye",
+            "author": "Tirmizi",
+            "collection": "Yusuf Aga Kutuphanesi",
+            "shelfmark": "YY00006636/2",
+            "library": "Konya Yusuf Aga Kutuphanesi",
+            "date_ah": "978",
+            "notes_field": "yaldiz serpmeli kenarlar",
+            "classification": "gold_sprinkled",
+            "is_false_positive": false,
+            "false_positive_reason": null,
+            "has_digitized_images": true,
+            "confidence": 0.90,
+            "notes": "Margins described as 'yaldiz serpmeli'. Part of mecmua YY00006636. Confirmed genuine gold-sprinkled margins."
+          },
+          {
+            "yek_id": "121026",
+            "title": "Enisu'l-Munkata'in fi'l-Hadis",
+            "author": null,
+            "collection": "Yusuf Aga Kutuphanesi",
+            "shelfmark": "YY00006636/1",
+            "library": "Konya Yusuf Aga Kutuphanesi",
+            "notes_field": "yaldiz serpmelidir",
+            "classification": "gold_sprinkled",
+            "is_false_positive": false,
+            "false_positive_reason": null,
+            "has_digitized_images": true,
+            "confidence": 0.90,
+            "notes": "Same mecmua as 121027. Notes state 'yaldiz serpmelidir'. Genuine gold-sprinkled."
+          },
+          {
+            "yek_id": "155197",
+            "title": "Karalama Kit'asi",
+            "author": "Seyh Hamdullah",
+            "collection": "Ali Emiri Belge",
+            "shelfmark": "86",
+            "library": "Millet Kutuphanesi",
+            "notes_field": "siyah serpme boyali",
+            "classification": "none",
+            "is_false_positive": true,
+            "false_positive_reason": "'siyah serpme boyali' = black sprinkled paint, not gold-sprinkled paper. Different technique entirely.",
+            "has_digitized_images": false,
+            "confidence": 0.95,
+            "notes": "Calligraphic practice sheet. Black sprinkled paint on paper, not gold sprinkling."
+          },
+          {
+            "yek_id": "71373",
+            "title": "Tip",
+            "author": null,
+            "collection": "Konya Bolge",
+            "shelfmark": "BY0000001267",
+            "library": "Konya Bolge Yazma Eser Kutuphanesi",
+            "notes_field": "Serpme tezhiplidir",
+            "classification": "gold_sprinkled",
+            "is_false_positive": false,
+            "false_positive_reason": null,
+            "has_digitized_images": true,
+            "confidence": 0.62,
+            "notes": "QC correction (confidence lowered): 'Serpme tezhiplidir' is ambiguous -- may mean scattered illumination rather than gold-sprinkled paper. Classification retained pending detail page check."
+          },
+          {
+            "yek_id": "88335",
+            "title": "Mizanu'l-Hakk fi Ihtiyari'l-Ahakk",
+            "author": "Katib Celebi",
+            "collection": "Konya Bolge",
+            "shelfmark": "BY00008884/3",
+            "library": "Konya Bolge Yazma Eser Kutuphanesi",
+            "notes_field": "kenarlari serpme oksitlenmis yaldiz",
+            "classification": "gold_sprinkled",
+            "is_false_positive": false,
+            "false_positive_reason": null,
+            "has_digitized_images": true,
+            "confidence": 0.90,
+            "notes": "'Kenarlari serpme oksitlenmis yaldiz' = margins with sprinkled oxidized gold. Genuine gold-sprinkled with noted oxidation."
+          },
+          {
+            "yek_id": "281399",
+            "title": "Gunye",
+            "author": null,
+            "collection": "Ismihan Sultan",
+            "shelfmark": "00186",
+            "library": null,
+            "notes_field": "serpme sekilde",
+            "classification": "none",
+            "is_false_positive": true,
+            "false_positive_reason": "'serpme sekilde' = in a scattered manner. Describes scattered writing of prayers, not gold-sprinkled decoration.",
+            "has_digitized_images": false,
+            "confidence": 0.95,
+            "notes": "FP: 'serpme' used in non-decorative sense (scattered manner of writing)."
+          }
+        ],
+        "false_positive_count": 2,
+        "genuine_count": 4,
+        "false_positive_rate": 0.333
+      },
+      {
+        "search_number": 2,
+        "term_searched": "zerefsan",
+        "field_searched": "kagit_ozellikleri",
+        "operator": "Iceren",
+        "raw_result_count": 2,
+        "note": "Diacritics normalized: zerefsan = zerefsan = zerefsan. Searches 4 and 6 (with diacritics) return identical results.",
+        "results": [
+          {
+            "yek_id": "182368",
+            "title": "Risale fi Tefsiri Kelimeteyn",
+            "author": "Hamid b. Imadu'd-Din",
+            "collection": "Esad Efendi",
+            "shelfmark": "00155",
+            "library": "Suleymaniye Kutuphanesi",
+            "date_ah": "15 Rebiulevvel 1136",
+            "paper_field": "zerefsanli",
+            "classification": "gold_sprinkled",
+            "is_false_positive": false,
+            "false_positive_reason": null,
+            "has_digitized_images": true,
+            "confidence": 0.90,
+            "notes": "Paper field contains 'zerefsanli'. Genuine gold-sprinkled paper."
+          },
+          {
+            "yek_id": "175337",
+            "title": "Tuhfetu'l-Vuzera",
+            "author": null,
+            "collection": "Nuruosmaniye",
+            "shelfmark": "02295",
+            "library": "Nuruosmaniye Kutuphanesi",
+            "paper_field": "farkli renklerde, ebrulu, zerefsanli yaldiz cetvelli",
+            "classification": "mixed",
+            "is_false_positive": false,
+            "false_positive_reason": null,
+            "has_digitized_images": true,
+            "confidence": 0.90,
+            "notes": "Paper described as multi-colored, marbled, gold-sprinkled with gold ruling. Multiple decoration types: gold_sprinkled + marbled + colored + framing_system."
+          }
+        ],
+        "false_positive_count": 0,
+        "genuine_count": 2,
+        "false_positive_rate": 0.0
+      },
+      {
+        "search_number": 3,
+        "term_searched": "zerefsan",
+        "field_searched": "genel_notlar",
+        "operator": "Iceren",
+        "raw_result_count": 17,
+        "note": "Diacritics normalized. Includes 1 registry duplicate (177740). Results include Ali Emiri Belge berats, Kastamonu Buhari set, and individual manuscripts.",
+        "results": [
+          {
+            "yek_id": "616781",
+            "title": "Divance",
+            "author": "Muhammed Ismeti Celebi (d. 1075/1664)",
+            "collection": "Milli Kutuphane Yazmalar",
+            "shelfmark": "06 Mil Yz FB 375",
+            "library": "Milli Kutuphane",
+            "classification": "gold_sprinkled",
+            "is_false_positive": false,
+            "false_positive_reason": null,
+            "has_digitized_images": true,
+            "confidence": 0.85,
+            "notes": "Confirmed from detail page: 'Zerefsan tacli salkim filigranli' = gold-sprinkled with crown-bunch watermark."
+          },
+          {
+            "yek_id": "155152",
+            "title": "Sultan II. Mahmud: Berat",
+            "author": null,
+            "collection": "Ali Emiri Belge",
+            "shelfmark": "38",
+            "library": "Millet Kutuphanesi",
+            "date_ce": "1833",
+            "notes_field": "Satir zeminleri dendanli olarak zer-efsanlidir. Zemini zer-efsanli hilal ve sekizli yildizlarla bezenmis berat sekli mevcuttur.",
+            "classification": "gold_sprinkled",
+            "is_false_positive": false,
+            "false_positive_reason": null,
+            "has_digitized_images": false,
+            "confidence": 0.95,
+            "notes": "Ottoman imperial berat. Line backgrounds described as 'dendanli olarak zer-efsanlidir' (scalloped gold-sprinkled). Ground decorated with zer-efsan crescent and eight-pointed stars. Confirmed genuine. Celi Divani script."
+          },
+          {
+            "yek_id": "155136",
+            "title": "Sultan IV. Mehmed: Berat",
+            "author": null,
+            "collection": "Ali Emiri Belge",
+            "shelfmark": "22",
+            "library": "Millet Kutuphanesi",
+            "date_ce": "1671",
+            "classification": "gold_sprinkled",
+            "is_false_positive": false,
+            "false_positive_reason": null,
+            "has_digitized_images": false,
+            "confidence": 0.72,
+            "notes": "QC correction (confidence lowered): Ottoman imperial berat (1671). Classification by analogy with 155152. Detail page not checked."
+          },
+          {
+            "yek_id": "155183",
+            "title": "Sulus-Nesih Kit'a",
+            "author": "Hafiz Yusuf Efendi",
+            "collection": "Ali Emiri Belge",
+            "shelfmark": "72",
+            "library": "Millet Kutuphanesi",
+            "classification": "gold_sprinkled",
+            "is_false_positive": false,
+            "false_positive_reason": null,
+            "has_digitized_images": false,
+            "confidence": 0.90,
+            "notes": "Confirmed from detail page: 'dis pervazi kalbur zer-efsanlidir' = outer border is sieve gold-sprinkled. Calligraphic specimen (kit'a)."
+          },
+          {
+            "yek_id": "177740",
+            "title": "Divan (Ali Sir Neva'i)",
+            "author": "Ali Sir Neva'i",
+            "collection": "Nuruosmaniye",
+            "shelfmark": "03880",
+            "library": "Nuruosmaniye Kutuphanesi",
+            "date_ah": "956",
+            "classification": "gold_sprinkled",
+            "is_false_positive": false,
+            "false_positive_reason": null,
+            "has_digitized_images": true,
+            "confidence": 0.95,
+            "is_registry_duplicate": true,
+            "registry_note": "Already in registry from serpme x kagit_ozellikleri (2026-02-18). found_by updated to include zerefsan x genel_notlar.",
+            "notes": "REGISTRY DUPLICATE. Confirmed gold-sprinkled. Notes contain 'sahife kenarlar zerefsan'."
+          },
+          {
+            "yek_id": "155146",
+            "title": "Sultan II. Mahmud: Berat",
+            "author": null,
+            "collection": "Ali Emiri Belge",
+            "shelfmark": "32",
+            "library": "Millet Kutuphanesi",
+            "date_ce": "1824",
+            "classification": "gold_sprinkled",
+            "is_false_positive": false,
+            "false_positive_reason": null,
+            "has_digitized_images": false,
+            "confidence": 0.72,
+            "notes": "QC correction (confidence lowered): Ottoman imperial berat (1824). Classification by analogy with 155152. Detail page not checked."
+          },
+          {
+            "yek_id": "155124",
+            "title": "Sultan III. Mehmed: Berat",
+            "author": null,
+            "collection": "Ali Emiri Belge",
+            "shelfmark": "10",
+            "library": "Millet Kutuphanesi",
+            "classification": "gold_sprinkled",
+            "is_false_positive": false,
+            "false_positive_reason": null,
+            "has_digitized_images": false,
+            "confidence": 0.72,
+            "notes": "QC correction (confidence lowered): Ottoman imperial berat (Sultan III. Mehmed). Classification by analogy with 155152. Detail page not checked."
+          },
+          {
+            "yek_id": "107",
+            "title": "Mefatihu'l-Gayb",
+            "author": "Ebu Abdullah Fahreddin Muhammed b. Omer b. Huseyin er-Razi (d. 606/1210)",
+            "collection": "Ragip Pasa",
+            "shelfmark": "00088",
+            "library": "Ragip Pasa Kutuphanesi",
+            "date_ah": "20 Receb 1157",
+            "notes_field": "Ilk formalarin derkenlari zerefsan teknigiyle suslenmistir.",
+            "classification": "gold_sprinkled",
+            "is_false_positive": false,
+            "false_positive_reason": null,
+            "has_digitized_images": true,
+            "confidence": 0.95,
+            "notes": "Confirmed genuine. 'Ilk formalarin derkenlari zerefsan teknigiyle suslenmistir' = margins of first gatherings decorated with zerefsan technique. Ragip Pasa vakif (Mehmed Ragib Pasa, 1175 AH). Also has muzehheb cedvel (illuminated ruling). Cataloguer: Nimet Ipek."
+          },
+          {
+            "yek_id": "614152",
+            "title": "Tarikat-i Naksibendiye Risalesi",
+            "author": null,
+            "collection": "Milli Kutuphane Yazmalar",
+            "shelfmark": "06 Mil Yz A 468",
+            "library": "Milli Kutuphane",
+            "date_ah": "[18--]",
+            "classification": "gold_sprinkled",
+            "is_false_positive": false,
+            "false_positive_reason": null,
+            "has_digitized_images": true,
+            "confidence": 0.87,
+            "notes": "Confirmed from detail page: 'Saykalli zerefsan sarimtirak filigranli kagit' = burnished gold-sprinkled yellowish watermarked paper."
+          },
+          {
+            "yek_id": "458695",
+            "title": "el-Cami'u's-Sahih (c.5)",
+            "author": "Buhari",
+            "collection": "Kastamonu Halk Kutuphanesi",
+            "shelfmark": "2986",
+            "library": "Kastamonu Yazma Eser Kutuphanesi",
+            "notes_field": "Kismen zerefsan selcuk semse ve kosebendli, mikleli, kahverengi mesin cildler.",
+            "classification": "none",
+            "is_false_positive": true,
+            "false_positive_reason": "'Zerefsan' describes the binding (cilt) not the paper: 'kismen zerefsan selcuk semse ve kosebendli ... mesin cildler' = partially gold-sprinkled Seljuk medallion bindings. Binding context FP.",
+            "has_digitized_images": true,
+            "confidence": 0.95,
+            "notes": "FP: Zerefsan here refers to gold-sprinkled binding medallions (selcuk semse), not paper decoration. All 5 Kastamonu Buhari volumes (2956, 2957, 2978, 2979, 2986) share this binding description."
+          },
+          {
+            "yek_id": "459737",
+            "title": "Mesnevi-i Serif",
+            "author": "Mevlana Celaleddin-i Rumi",
+            "collection": "Kastamonu Halk Kutuphanesi",
+            "shelfmark": "3656",
+            "library": "Kastamonu Yazma Eser Kutuphanesi",
+            "classification": "none",
+            "is_false_positive": true,
+            "false_positive_reason": "Confirmed FP from detail page. 'Iran isi zerefsan kahverengi deri mikleli cilt' = Iranian-style gold-sprinkled brown leather binding. Same pattern as Buhari set from same collection.",
+            "has_digitized_images": true,
+            "confidence": 0.95,
+            "notes": "Confirmed false positive. Removed from registry."
+          },
+          {
+            "yek_id": "458680",
+            "title": "el-Cami'u's-Sahih (c.4)",
+            "author": "Buhari",
+            "collection": "Kastamonu Halk Kutuphanesi",
+            "shelfmark": "2979",
+            "library": "Kastamonu Yazma Eser Kutuphanesi",
+            "classification": "none",
+            "is_false_positive": true,
+            "false_positive_reason": "Same binding description as 458695. Zerefsan refers to binding medallions, not paper.",
+            "has_digitized_images": true,
+            "confidence": 0.90,
+            "notes": "FP by analogy with 458695 (same multi-volume Buhari set, same cataloguer, same binding description)."
+          },
+          {
+            "yek_id": "458679",
+            "title": "el-Cami'u's-Sahih (c.3)",
+            "author": "Buhari",
+            "collection": "Kastamonu Halk Kutuphanesi",
+            "shelfmark": "2978",
+            "library": "Kastamonu Yazma Eser Kutuphanesi",
+            "classification": "none",
+            "is_false_positive": true,
+            "false_positive_reason": "Same binding description as 458695. Zerefsan refers to binding medallions, not paper.",
+            "has_digitized_images": true,
+            "confidence": 0.90,
+            "notes": "FP by analogy with 458695."
+          },
+          {
+            "yek_id": "458651",
+            "title": "el-Cami'u's-Sahih (c.2)",
+            "author": "Buhari",
+            "collection": "Kastamonu Halk Kutuphanesi",
+            "shelfmark": "2957",
+            "library": "Kastamonu Yazma Eser Kutuphanesi",
+            "classification": "none",
+            "is_false_positive": true,
+            "false_positive_reason": "Same binding description as 458695. Zerefsan refers to binding medallions, not paper.",
+            "has_digitized_images": true,
+            "confidence": 0.90,
+            "notes": "FP by analogy with 458695."
+          },
+          {
+            "yek_id": "458650",
+            "title": "el-Cami'u's-Sahih (c.1)",
+            "author": "Buhari",
+            "collection": "Kastamonu Halk Kutuphanesi",
+            "shelfmark": "2956",
+            "library": "Kastamonu Yazma Eser Kutuphanesi",
+            "classification": "none",
+            "is_false_positive": true,
+            "false_positive_reason": "Same binding description as 458695. Zerefsan refers to binding medallions, not paper.",
+            "has_digitized_images": true,
+            "confidence": 0.90,
+            "notes": "FP by analogy with 458695."
+          },
+          {
+            "yek_id": "605167",
+            "title": "Conk",
+            "author": null,
+            "collection": "Milli Kutuphane Yazmalar",
+            "shelfmark": "06 Mil Yz Conk 163",
+            "library": "Milli Kutuphane",
+            "date_ce": "[1700?]",
+            "classification": "gold_sprinkled",
+            "is_false_positive": false,
+            "false_positive_reason": null,
+            "has_digitized_images": true,
+            "confidence": 0.93,
+            "notes": "Confirmed from detail page: 'Zerefsan kagit' = gold-sprinkled paper (unambiguous). Conk (commonplace book)."
+          },
+          {
+            "yek_id": "547179",
+            "title": "Tehzibu'l-Luga",
+            "author": "Ebu Mansur Muhammed b. Ahmed b. Ezher el-Herevi el-Ezheri (d. 370/980)",
+            "collection": "Veliyyuddin Efendi",
+            "shelfmark": "V3099",
+            "library": "Beyazit Kutuphanesi",
+            "date_ah": "6 Cemaziyelevvel 1192",
+            "classification": "gold_sprinkled",
+            "is_false_positive": false,
+            "false_positive_reason": null,
+            "has_digitized_images": false,
+            "confidence": 0.88,
+            "notes": "Confirmed from detail page: 'zerefsan kagitla kaplanmistir' = covered with gold-sprinkled paper (endpapers)."
+          }
+        ],
+        "false_positive_count": 5,
+        "genuine_count": 11,
+        "registry_duplicates": 1,
+        "false_positive_rate": 0.294
+      },
+      {
+        "search_number": 4,
+        "term_searched": "zerefsan",
+        "field_searched": "kagit_ozellikleri",
+        "operator": "Iceren",
+        "raw_result_count": 2,
+        "note": "REDUNDANT: Diacritics normalized by portal. Returns identical results to search 2 (zerefsan x kagit_ozellikleri).",
+        "results": "See search 2. Identical result set.",
+        "false_positive_count": 0,
+        "genuine_count": 0,
+        "false_positive_rate": null
+      },
+      {
+        "search_number": 5,
+        "term_searched": "zerefsan",
+        "field_searched": "genel_notlar",
+        "operator": "Iceren",
+        "raw_result_count": 17,
+        "note": "REDUNDANT: Diacritics normalized. Returns identical results to search 3.",
+        "results": "See search 3. Identical result set.",
+        "false_positive_count": 0,
+        "genuine_count": 0,
+        "false_positive_rate": null
+      },
+      {
+        "search_number": 6,
+        "term_searched": "zerefsan",
+        "field_searched": "kagit_ozellikleri",
+        "operator": "Iceren",
+        "raw_result_count": 2,
+        "note": "REDUNDANT: Diacritics normalized. Returns identical results to search 2.",
+        "results": "See search 2. Identical result set.",
+        "false_positive_count": 0,
+        "genuine_count": 0,
+        "false_positive_rate": null
+      },
+      {
+        "search_number": 7,
+        "term_searched": "zerefsan",
+        "field_searched": "genel_notlar",
+        "operator": "Iceren",
+        "raw_result_count": 17,
+        "note": "REDUNDANT: Diacritics normalized. Returns identical results to search 3.",
+        "results": "See search 3. Identical result set.",
+        "false_positive_count": 0,
+        "genuine_count": 0,
+        "false_positive_rate": null
+      },
+      {
+        "search_number": 8,
+        "term_searched": "zer-efsan",
+        "field_searched": "kagit_ozellikleri",
+        "operator": "Iceren",
+        "raw_result_count": 29,
+        "note": "INFLATED by hyphen tokenization. Iceren splits 'zer-efsan' into 'zer' + 'efsan', matching each independently. The 2 genuine zerefsan results are included within the 29, but 27 are noise from partial token matches. Not individually examined -- superseded by search 2 which returns the clean 2-result set.",
+        "results": "Superseded by search 2. The 29 results contain the same 2 genuine results (182368, 175337) plus 27 false matches from token splitting.",
+        "false_positive_count": 27,
+        "genuine_count": 2,
+        "false_positive_rate": 0.931
+      },
+      {
+        "search_number": 9,
+        "term_searched": "zer-efsan",
+        "field_searched": "genel_notlar",
+        "operator": "Iceren",
+        "raw_result_count": 14656,
+        "note": "UNUSABLE. Hyphen tokenization causes 'zer' and 'efsan' to be matched independently in the long genel_notlar field. 14,656 results are almost all noise.",
+        "results": "Not examined. Result count too high to be useful.",
+        "false_positive_count": null,
+        "genuine_count": null,
+        "false_positive_rate": null
+      },
+      {
+        "search_number": 10,
+        "term_searched": "zer efsan",
+        "field_searched": "kagit_ozellikleri",
+        "operator": "Iceren",
+        "raw_result_count": 2,
+        "note": "Space-separated variant returns same 2 results as search 2. Iceren matches both tokens which appear together in 'zerefsanli'.",
+        "results": "See search 2. Identical result set (182368, 175337).",
+        "false_positive_count": 0,
+        "genuine_count": 0,
+        "false_positive_rate": null
+      },
+      {
+        "search_number": 11,
+        "term_searched": "zer efsan",
+        "field_searched": "genel_notlar",
+        "operator": "Iceren",
+        "raw_result_count": 27,
+        "note": "Returns 27 results vs 17 for 'zerefsan'. The extra 10 results may contain records where 'zer' and 'efsan' appear separately in the notes but not as compound 'zerefsan'. The 17 from search 3 are a strict subset. Not individually examined -- search 3 covers the core results.",
+        "results": "Superset of search 3. 10 additional results not individually examined -- likely contain both genuine and FP hits from separate token matching.",
+        "false_positive_count": null,
+        "genuine_count": null,
+        "false_positive_rate": null
+      },
+      {
+        "search_number": 12,
+        "term_searched": "altin serpme",
+        "field_searched": "kagit_ozellikleri",
+        "operator": "Iceren",
+        "raw_result_count": 0,
+        "note": "No results. This compound term is not used by cataloguers in the paper field.",
+        "results": [],
+        "false_positive_count": 0,
+        "genuine_count": 0,
+        "false_positive_rate": null
+      },
+      {
+        "search_number": 13,
+        "term_searched": "altin serpme",
+        "field_searched": "genel_notlar",
+        "operator": "Iceren",
+        "raw_result_count": 1,
+        "note": "Single result is 121027 (already found in search 1). Duplicate.",
+        "results": [
+          {
+            "yek_id": "121027",
+            "title": "es-Sema'ilu'n-Nebeviyye",
+            "collection": "Yusuf Aga Kutuphanesi",
+            "shelfmark": "YY00006636/2",
+            "classification": "gold_sprinkled",
+            "is_false_positive": false,
+            "is_cross_search_duplicate": true,
+            "notes": "Duplicate of search 1 result. Same manuscript."
+          }
+        ],
+        "false_positive_count": 0,
+        "genuine_count": 0,
+        "false_positive_rate": null
+      },
+      {
+        "search_number": 14,
+        "term_searched": "gumus yaldiz serpmeli",
+        "field_searched": "kagit_ozellikleri",
+        "operator": "Iceren",
+        "raw_result_count": 1,
+        "note": "Single result is registry duplicate 187961 (Esad Efendi 03292-001, already in registry from serpme x kagit_ozellikleri 2026-02-18).",
+        "results": [
+          {
+            "yek_id": "187961",
+            "title": "Munse'at-i Unsi",
+            "collection": "Esad Efendi",
+            "shelfmark": "03292-001",
+            "classification": "silver_sprinkled",
+            "is_false_positive": false,
+            "is_registry_duplicate": true,
+            "notes": "REGISTRY DUPLICATE. Already catalogued. found_by updated."
+          }
+        ],
+        "false_positive_count": 0,
+        "genuine_count": 0,
+        "false_positive_rate": null
+      },
+      {
+        "search_number": 15,
+        "term_searched": "gumus yaldiz serpmeli",
+        "field_searched": "genel_notlar",
+        "operator": "Iceren",
+        "raw_result_count": 0,
+        "results": [],
+        "false_positive_count": 0,
+        "genuine_count": 0,
+        "false_positive_rate": null
+      },
+      {
+        "search_number": 16,
+        "term_searched": "kalbur zerefsani",
+        "field_searched": "kagit_ozellikleri",
+        "operator": "Iceren",
+        "raw_result_count": 0,
+        "results": [],
+        "false_positive_count": 0,
+        "genuine_count": 0,
+        "false_positive_rate": null
+      },
+      {
+        "search_number": 17,
+        "term_searched": "kalbur zerefsani",
+        "field_searched": "genel_notlar",
+        "operator": "Iceren",
+        "raw_result_count": 0,
+        "results": [],
+        "false_positive_count": 0,
+        "genuine_count": 0,
+        "false_positive_rate": null
+      },
+      {
+        "search_number": 18,
+        "term_searched": "firca zerefsani",
+        "field_searched": "kagit_ozellikleri",
+        "operator": "Iceren",
+        "raw_result_count": 0,
+        "results": [],
+        "false_positive_count": 0,
+        "genuine_count": 0,
+        "false_positive_rate": null
+      },
+      {
+        "search_number": 19,
+        "term_searched": "firca zerefsani",
+        "field_searched": "genel_notlar",
+        "operator": "Iceren",
+        "raw_result_count": 0,
+        "results": [],
+        "false_positive_count": 0,
+        "genuine_count": 0,
+        "false_positive_rate": null
+      }
+    ],
+    "session_summary": {
+      "total_searches_executed": 19,
+      "redundant_searches": 6,
+      "effective_searches": 13,
+      "unusable_searches": 2,
+      "zero_result_searches": 6,
+      "total_raw_results_across_effective_searches": 56,
+      "total_unique_yek_ids_found": 22,
+      "registry_duplicates": 2,
+      "cross_search_duplicates": 1,
+      "false_positives_identified": 7,
+      "genuine_new_results": 12,
+      "false_positive_rate_overall": 0.318,
+      "new_yek_ids": [
+        "121027", "121026", "71373", "88335",
+        "182368", "175337",
+        "616781", "155152", "155136", "155183", "155146", "155124",
+        "107", "614152", "459737", "605167", "547179"
+      ],
+      "false_positive_yek_ids": [
+        "155197", "281399",
+        "458695", "458680", "458679", "458651", "458650"
+      ],
+      "registry_duplicate_yek_ids": [
+        "177740", "187961"
+      ],
+      "portal_behavior_discoveries": {
+        "diacritic_normalization": "Confirmed: Iceren normalizes diacritics. zerefsan/zerefsan/zerefsan all return identical results. This makes searches 4-7 redundant with 2-3.",
+        "hyphen_tokenization": "Confirmed: Iceren splits hyphenated terms. 'zer-efsan' becomes 'zer' AND 'efsan' matched independently. In kagit_ozellikleri (short field), this inflates from 2 to 29 results. In genel_notlar (long field), this inflates to 14,656 results. Hyphenated variants should be avoided.",
+        "space_tokenization": "Confirmed: 'zer efsan' (space) tokenizes similarly to hyphen in kagit_ozellikleri (2 results, same as compound), but in genel_notlar returns 27 vs 17 for compound form. Partial overlap."
+      },
+      "new_false_positive_patterns": [
+        {
+          "pattern": "zerefsan in binding context: 'zerefsan selcuk semse', 'zerefsan ... cilt/cildler'",
+          "what_it_means": "Gold-sprinkled binding medallions (selcuk semse), not paper decoration",
+          "frequency": "5 of 17 (29.4%) in zerefsan x genel_notlar",
+          "collections_affected": ["Kastamonu Halk Kutuphanesi"]
+        }
+      ],
+      "collection_clusters": {
+        "Ali Emiri Belge": {
+          "count": 5,
+          "type": "Ottoman imperial berats with zer-efsan paper/decoration",
+          "note": "All are single-sheet imperial documents (berats). Zerefsan is a standard feature of Ottoman berats."
+        },
+        "Kastamonu Halk Kutuphanesi": {
+          "count": 6,
+          "type": "5 false positives (Buhari set with zerefsan binding) + 1 Mesnevi (needs verification)",
+          "note": "The 5-volume Buhari set shares a binding description with 'kismen zerefsan selcuk semse'. The Mesnevi (459737) may or may not be the same pattern -- needs detail check."
+        },
+        "Milli Kutuphane Yazmalar": {
+          "count": 3,
+          "type": "Diverse: Divance, Naksibendiye risale, Conk",
+          "note": "All need detail page verification."
+        },
+        "Konya collections": {
+          "count": 4,
+          "type": "From serpme search: 2 from Yusuf Aga (mecmua), 2 from Konya Bolge",
+          "note": "All confirmed genuine gold-sprinkled."
+        }
+      },
+      "recommended_next_steps": [
+        "All detail page checks and extra result examination complete (see supplementary_searches below).",
+        "Next: visual confirmation on all 'awaiting-visual-confirmation' results with digitized images.",
+        "Then: Batch 2 searches (gold-worked family: zerkari, zer-endud, etc.)."
+      ]
+    }
+  },
+  "supplementary_searches": {
+    "date": "2026-02-19",
+    "description": "Post-batch supplementary work: examination of 10 extra 'zer efsan' results and detail page verification for 5 awaiting-detail-check results.",
+    "task_a_extra_zer_efsan": {
+      "method": "zer efsan (space-separated) x genel_notlar -- 27 total results vs 17 from compound zerefsan. 10 extra results examined.",
+      "total_results": 27,
+      "already_examined": 17,
+      "extra_results_examined": 10,
+      "new_genuine": [
+        {
+          "yek_id": "155118",
+          "collection": "Ali Emiri Belge",
+          "title": "Ottoman imperial berat (1569)",
+          "classification": "gold_sprinkled",
+          "is_false_positive": false,
+          "confidence": 0.82,
+          "notes": "Gold-sprinkled berat. Shelfmark not captured during search -- verify on detail page. document_type: berat"
+        },
+        {
+          "yek_id": "155133",
+          "collection": "Ali Emiri Belge",
+          "title": "Ottoman imperial berat (1612)",
+          "classification": "silver_sprinkled",
+          "is_false_positive": false,
+          "confidence": 0.85,
+          "notes": "Silver-sprinkled ('sim efsan'). Second silver-sprinkled berat. Shelfmark not captured -- verify on detail page. document_type: berat"
+        },
+        {
+          "yek_id": "155116",
+          "collection": "Ali Emiri Belge",
+          "title": "Ottoman imperial berat (1617)",
+          "classification": "silver_sprinkled",
+          "is_false_positive": false,
+          "confidence": 0.85,
+          "notes": "Silver-sprinkled ('sim efsan'). Third silver-sprinkled berat. Shelfmark not captured -- verify on detail page. document_type: berat"
+        }
+      ],
+      "false_positives": [
+        { "yek_id": "457279", "reason": "Token-split noise: 'zer' and 'efsan' match independently in unrelated text" },
+        { "yek_id": "186833", "reason": "Matched 'efsanevi' (legendary/mythical) -- unrelated to zerefsan" },
+        { "yek_id": "663808", "reason": "Matched 'efsaneler' (legends) -- unrelated to zerefsan" },
+        { "yek_id": "280697", "reason": "Matched 'efsanevi' in a Matbu (printed) book description -- unrelated" },
+        { "yek_id": "248319", "reason": "Token-split noise" },
+        { "yek_id": "663809", "reason": "Matched 'efsaneler' -- unrelated to zerefsan" },
+        { "yek_id": "164406", "reason": "Matched 'Bezm-efsan' (a maqam name) -- unrelated to zerefsan" }
+      ],
+      "new_false_positive_patterns": [
+        "'efsanevi' (legendary) matched by space-separated 'zer efsan' token split",
+        "'efsaneler' (legends/tales) matched by token split",
+        "'Bezm-efsan' (musical maqam name) matched by token split"
+      ]
+    },
+    "task_b_detail_verification": {
+      "459737": {
+        "verdict": "false_positive",
+        "reason": "Detail page text: 'Iran isi zerefsan kahverengi deri mikleli cilt' = Iranian-style gold-sprinkled brown leather binding. Removed from registry.",
+        "full_notes_excerpt": "Iran isi zerefsan kahverengi deri mikleli cilt"
+      },
+      "614152": {
+        "verdict": "genuine",
+        "reason": "Detail page text: 'Saykalli zerefsan sarimtirak filigranli kagit' = burnished gold-sprinkled yellowish watermarked paper. Unambiguous paper description.",
+        "full_notes_excerpt": "Saykalli zerefsan sarimtirak filigranli kagit"
+      },
+      "605167": {
+        "verdict": "genuine",
+        "reason": "Detail page text: 'Zerefsan kagit' = gold-sprinkled paper. Most direct possible confirmation.",
+        "full_notes_excerpt": "Zerefsan kagit"
+      },
+      "547179": {
+        "verdict": "genuine",
+        "reason": "Detail page text: 'zerefsan kagitla kaplanmistir' = covered with gold-sprinkled paper (describes endpaper lining).",
+        "full_notes_excerpt": "zerefsan kagitla kaplanmistir"
+      },
+      "616781": {
+        "verdict": "genuine",
+        "reason": "Detail page text: 'Zerefsan tacli salkim filigranli' = gold-sprinkled with crown-bunch watermark. Paper description confirmed.",
+        "full_notes_excerpt": "Zerefsan tacli salkim filigranli"
+      },
+      "155183": {
+        "verdict": "genuine_confirmed",
+        "reason": "Detail page text: 'dis pervazi kalbur zer-efsanlidir' = outer border is sieve gold-sprinkled. Also confirms kalbur technique in wild.",
+        "full_notes_excerpt": "dis pervazi kalbur zer-efsanlidir"
+      }
+    },
+    "qc_corrections_applied": {
+      "confidence_adjustments": [
+        { "yek_id": "71373", "old": 0.85, "new": 0.62, "reason": "Ambiguous 'serpme tezhiplidir' -- needs detail page" },
+        { "yek_id": "155136", "old": 0.85, "new": 0.72, "reason": "Analogy-based classification only" },
+        { "yek_id": "155146", "old": 0.85, "new": 0.72, "reason": "Analogy-based classification only" },
+        { "yek_id": "155124", "old": 0.85, "new": 0.72, "reason": "Analogy-based classification only" },
+        { "yek_id": "155183", "old": 0.80, "new": 0.90, "reason": "Upgraded: confirmed from detail page" },
+        { "yek_id": "459737", "old": 0.65, "new": 0.95, "reason": "Confirmed FP; confidence now reflects certainty of FP classification" },
+        { "yek_id": "614152", "old": 0.70, "new": 0.87, "reason": "Upgraded: confirmed from detail page" },
+        { "yek_id": "605167", "old": 0.70, "new": 0.93, "reason": "Upgraded: confirmed from detail page (most direct text)" },
+        { "yek_id": "547179", "old": 0.70, "new": 0.88, "reason": "Upgraded: confirmed from detail page" },
+        { "yek_id": "616781", "old": 0.75, "new": 0.85, "reason": "Upgraded: confirmed from detail page" }
+      ],
+      "false_positive_reclassifications": [
+        { "yek_id": "459737", "old_classification": "gold_sprinkled", "new_classification": "none", "is_false_positive_changed_to": true }
+      ]
+    }
+  }
+}

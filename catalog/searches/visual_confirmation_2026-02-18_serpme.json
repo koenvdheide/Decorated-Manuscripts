@@ -1,0 +1,229 @@
+{
+  "visual_confirmation_session": {
+    "date": "2026-02-18",
+    "search_session_ref": "search_2026-02-18_serpme.json",
+    "manuscripts_examined": 5,
+    "method_note": "Second-pass confirmation using browser_take_screenshot (Playwright MCP) to capture rendered viewport including OpenSeadragon deep-zoom folio images. Screenshots saved to corpus/yek_screenshots/. First pass (accessibility-snapshot-only) returned all-inconclusive; this pass upgrades verdicts based on actual visual examination of folio images.",
+    "results": [
+      {
+        "visual_confirmation": {
+          "record_id": "nuruosmaniye_03880",
+          "catalogue_claim": {
+            "decoration_type": "gold_sprinkled",
+            "location_claimed": "paper surface throughout; margins described as zerefshan in notes",
+            "exact_text": "Aharlı nohudi renkli, yaldız serpmeli, yaldız cetvelli, yatay su yolu çizgili"
+          },
+          "screenshots_examined": {
+            "total_available": 229,
+            "folios_examined": ["p003", "p007"],
+            "folios_relevant": ["p007"],
+            "coverage_notes": "p003 shows front flyleaf with ownership inscriptions (III. Osman tugrali vakif muhru visible). p007 shows a regular text folio with clear two-page opening in talik script."
+          },
+          "verdict": "confirmed",
+          "confidence": 0.95,
+          "evidence": [
+            {
+              "folio": "p007",
+              "screenshot": "corpus/yek_screenshots/nuruosmaniye_03880_p007.png",
+              "observation": "Dense gold particles clearly and unambiguously visible across the entire paper surface. The warm golden tone of the paper is distinctly different from plain cream/white paper. Individual gold particles are distinguishable as fine speckled texture under the talik script. Gold ruling lines (yaldız cetvel) also clearly visible framing the text block. Paper color matches catalogue description of 'nohudi' (chickpea/beige).",
+              "supports_claim": true,
+              "decoration_type_observed": "gold_sprinkled"
+            }
+          ],
+          "limitations": [
+            "Only 2 of 229 pages examined; sprinkling confirmed as uniform across at least one text folio",
+            "Margin zerefshan (noted in genel_notlar as 'sahife kenarlar zerefsan') was not separately distinguishable at this zoom level from the overall paper sprinkling"
+          ],
+          "recommendation": "Confirmed. Pass to motif-classifier for deeper analysis. Consider examining the marginal areas at higher zoom to assess whether the zerefshan margins are distinguishable from the paper serpme.",
+          "discrepancies": null
+        }
+      },
+      {
+        "visual_confirmation": {
+          "record_id": "esad_efendi_03292-001",
+          "catalogue_claim": {
+            "decoration_type": "silver_sprinkled",
+            "location_claimed": "partial -- 'yapraklarin bazi yerlerinde' (on some parts of the leaves)",
+            "exact_text": "Âharlı, suyolu yatay ve dikey, yaprakların bazı yerlerinde gümüş yaldız serpmeli, orta kalınlıkta, nohudî renkli kâğıt"
+          },
+          "screenshots_examined": {
+            "total_available": 121,
+            "folios_examined": ["p010", "p010_zoom"],
+            "folios_relevant": ["p010", "p010_zoom"],
+            "coverage_notes": "p010 shows a two-page text opening in the risale section. p010_zoom is the same folio at higher zoom. The risale occupies approx. ff. 5-20 within the 121-page mecmua digitization."
+          },
+          "verdict": "probable",
+          "confidence": 0.65,
+          "evidence": [
+            {
+              "folio": "p010",
+              "screenshot": "corpus/yek_screenshots/esad_efendi_03292-001_p010.png",
+              "observation": "Two-page opening visible. Left page has warm cream tone; right page has noticeably cooler, greyer tone — consistent with a silver-sprinkled leaf (silver particles scatter light differently from gold, giving a cooler tone; tarnished silver appears as dark grey specks). This tonal contrast between pages supports the catalogue claim of partial sprinkling ('bazı yerlerinde').",
+              "supports_claim": true,
+              "decoration_type_observed": "probable_silver_sprinkled"
+            },
+            {
+              "folio": "p010_zoom",
+              "screenshot": "corpus/yek_screenshots/esad_efendi_03292-001_p010_zoom.png",
+              "observation": "Zoomed view confirms tonal difference between left (warm cream) and right (cooler, darker grey) pages. Right page shows granular texture in paper surface consistent with scattered metallic particles. Individual particles not distinctly resolvable as silver at this zoom level. Talik script confirmed, paper appears medium-weight as described ('orta kalınlıkta').",
+              "supports_claim": true,
+              "decoration_type_observed": "probable_silver_sprinkled"
+            }
+          ],
+          "limitations": [
+            "Silver particles tarnish over time and may appear as dark grey flecks rather than bright metallic — hard to distinguish from paper impurities at screenshot resolution",
+            "Only pages ~p010 examined; catalogue says partial ('bazı yerlerinde') so not all pages are expected to show sprinkling",
+            "Could not examine the specific folio range ff. 5-20 with full confidence about page number correspondence",
+            "Verdict 'probable' rather than 'confirmed' because individual silver particles not individually distinguishable"
+          ],
+          "recommendation": "High-priority for manual in-person examination or higher-resolution digital imaging. This is the only silver-sprinkled example in the serpme search results and is a rare variant. The tonal evidence supports the catalogue claim. Manual examination should focus on pages where the cooler/greyer tone is most pronounced.",
+          "discrepancies": null
+        }
+      },
+      {
+        "visual_confirmation": {
+          "record_id": "nuruosmaniye_04100",
+          "catalogue_claim": {
+            "decoration_type": "gold_sprinkled",
+            "location_claimed": "paper surface",
+            "exact_text": "Aharlı, nohudi, su yolu yatay ve dikey yaldız cetvelli serpme yaldızlı."
+          },
+          "screenshots_examined": {
+            "total_available": 65,
+            "folios_examined": ["p006"],
+            "folios_relevant": ["p006"],
+            "coverage_notes": "p006 shows a two-page text opening. 65 pages total available."
+          },
+          "verdict": "confirmed",
+          "confidence": 0.90,
+          "evidence": [
+            {
+              "folio": "p006",
+              "screenshot": "corpus/yek_screenshots/nuruosmaniye_04100_p006.png",
+              "observation": "Gold sprinkling visible on the paper surface. Paper has warm golden tone with fine speckled texture consistent with gold-sprinkled paper. Gold ruling lines (yaldız cetvel) clearly visible. Red rubrics (chapter headings in red) also visible, confirming the talik script manuscript. Binding note mentions 'ebru kagit kapli' — marbled paper binding covers would be visible on the first page if examined.",
+              "supports_claim": true,
+              "decoration_type_observed": "gold_sprinkled"
+            }
+          ],
+          "limitations": [
+            "Only 1 of 65 pages examined",
+            "Gold sprinkling is visible in the warm paper tone and speckled texture but individual particles are small at this zoom level"
+          ],
+          "recommendation": "Confirmed. Pass to motif-classifier. Consider also examining p001 for the marbled paper binding covers ('ebru kagit kapli') mentioned in the binding description — this would be a secondary codicological point of interest.",
+          "discrepancies": null
+        }
+      },
+      {
+        "visual_confirmation": {
+          "record_id": "nuruosmaniye_03821",
+          "catalogue_claim": {
+            "decoration_type": "gold_sprinkled",
+            "location_claimed": "paper surface",
+            "exact_text": "Aharlı krem renkli, serpme yaldızlı, yaldız cetvelli, yatay su yolu çizgili"
+          },
+          "screenshots_examined": {
+            "total_available": 97,
+            "folios_examined": ["p007"],
+            "folios_relevant": ["p007"],
+            "coverage_notes": "p007 shows a text folio. 97 pages total. Notes mention 'Tezhipli' (illuminated headpiece) but the illuminated opening was not examined in this session."
+          },
+          "verdict": "probable",
+          "confidence": 0.75,
+          "evidence": [
+            {
+              "folio": "p007",
+              "screenshot": "corpus/yek_screenshots/nuruosmaniye_03821_p007.png",
+              "observation": "Gold ruling lines (yaldız cetvel) clearly and unambiguously visible, creating a double-ruled frame around the text block. Paper has a warm cream/krem tone consistent with catalogue description. The paper appears to have a slightly warm golden hue in the margins consistent with fine sprinkling, but sprinkling is less obviously dense than in 03880. Nestalik script confirmed (Persian text). The luxury context (gold cetvels, luxury binding, tezhipli) strongly supports the catalogue claim.",
+              "supports_claim": true,
+              "decoration_type_observed": "probable_gold_sprinkled"
+            }
+          ],
+          "limitations": [
+            "Gold sprinkling less visually obvious than in 03880 at screenshot resolution — possibly finer or less dense application",
+            "Only 1 of 97 pages examined; illuminated headpiece (mentioned in notes) not yet examined",
+            "Verdict 'probable' rather than 'confirmed' because individual gold particles are not clearly distinguishable — warm paper tone is consistent with sprinkling but could also reflect plain nohudi paper at this resolution"
+          ],
+          "recommendation": "Probable. Upgrade to 'confirmed' would require examining the illuminated opening (likely pages 2-4) where the serlevha and zerefshan context would provide additional evidence, or zooming in further on the paper margins where gold particles are most visible. Pass to motif-classifier with current 'probable' verdict.",
+          "discrepancies": null
+        }
+      },
+      {
+        "visual_confirmation": {
+          "record_id": "nuruosmaniye_04355",
+          "catalogue_claim": {
+            "decoration_type": "gold_sprinkled",
+            "location_claimed": "paper surface",
+            "exact_text": "Aharlı, nohudi renkli, serpme yaldızlı, yaldız cetvelli, dikey su yolu çizgili"
+          },
+          "screenshots_examined": {
+            "total_available": 258,
+            "folios_examined": ["p002", "p004", "p006", "p007"],
+            "folios_relevant": ["p004", "p006", "p007"],
+            "coverage_notes": "p002 is the binding spine (not a folio). p004 shows flyleaf with ownership inscriptions (left) and a dark burgundy/red colored endleaf with gold knot design (right). p006 shows the text opening with the illuminated serlevha (tezhibli unvan) on the right page. p007 shows a plain text folio opening."
+          },
+          "verdict": "probable",
+          "confidence": 0.80,
+          "evidence": [
+            {
+              "folio": "p004",
+              "screenshot": "corpus/yek_screenshots/nuruosmaniye_04355_p004.png",
+              "observation": "Two-page opening: left page is a flyleaf with ownership inscriptions and waqf stamps (III. Osman tugrali vakif muhru visible at bottom). Right page is a dark burgundy/vişne (cherry red) colored leaf with a gold interlaced knot design (gülbend) — this is a colored luxury endleaf. The presence of a colored endleaf is consistent with high-quality production including gold-sprinkled paper.",
+              "supports_claim": true,
+              "decoration_type_observed": "colored_leaf_with_gold_ornament"
+            },
+            {
+              "folio": "p006",
+              "screenshot": "corpus/yek_screenshots/nuruosmaniye_04355_p006.png",
+              "observation": "Illuminated serlevha (tezhibli unvan) clearly visible on the right page as catalogued ('Tezhibli Serlevha 1b sayfasında'). The headpiece is a classic Ottoman illumination with blue and gold interlace pattern and hanging pendant (salbek). Gold ruling lines (yaldız cetvel) clearly visible on both pages. Paper surface has a warm golden tone consistent with gold-sprinkled paper, but at this zoom level individual gold particles are not distinctly visible.",
+              "supports_claim": true,
+              "decoration_type_observed": "confirmed_illuminated_headpiece_probable_gold_sprinkled"
+            },
+            {
+              "folio": "p007",
+              "screenshot": "corpus/yek_screenshots/nuruosmaniye_04355_p007.png",
+              "observation": "Regular text folio (nestalik script, Persian text). Gold ruling lines clearly visible framing text blocks. Paper has consistent warm cream/nohudi tone throughout both pages. Fine sprinkling visible as warm golden texture but individual particles not distinguishable at this zoom level.",
+              "supports_claim": true,
+              "decoration_type_observed": "probable_gold_sprinkled"
+            }
+          ],
+          "limitations": [
+            "Individual gold particles not distinctly visible at screenshot zoom level",
+            "Fine serpme application may require higher-resolution imaging to confirm unambiguously",
+            "Verdict 'probable' rather than 'confirmed' because of resolution limitation, despite strong corroborating evidence (illuminated headpiece, colored endleaf, luxury binding, reliable cataloguer)"
+          ],
+          "recommendation": "Probable. The illuminated serlevha, colored endleaf, and gold ruling are all confirmed. The paper sprinkling is consistent with the warm tone but not unambiguously visible. Upgrade to 'confirmed' with higher-resolution imaging or in-person examination. Pass to motif-classifier. Also note: the colored burgundy endleaf with gold knot is a codicological feature worth cataloguing separately.",
+          "discrepancies": null
+        }
+      }
+    ],
+    "summary": {
+      "total_examined": 5,
+      "confirmed": 2,
+      "probable": 3,
+      "inconclusive": 0,
+      "not_confirmed": 0,
+      "contradicted": 0,
+      "no_images": 0
+    },
+    "session_notes": "Second-pass visual confirmation using browser_take_screenshot. All 5 manuscripts upgraded from 'inconclusive' (first pass, DOM-only) to confirmed or probable. Nuruosmaniye 03880 and 04100 are confirmed with gold sprinkling clearly visible. Nuruosmaniye 03821 and 04355, and Esad Efendi 03292-001 are probable — evidence consistent with catalogue claims but individual particles not individually distinguishable at screenshot resolution. The rare silver-sprinkled variant (Esad Efendi 03292-001) shows tonal evidence of partial silver sprinkling across alternating leaves, consistent with the catalogue description 'yapraklarin bazi yerlerinde'. Screenshots saved to corpus/yek_screenshots/.",
+    "screenshots_saved": [
+      "corpus/yek_screenshots/nuruosmaniye_03880_p003.png",
+      "corpus/yek_screenshots/nuruosmaniye_03880_p007.png",
+      "corpus/yek_screenshots/nuruosmaniye_04100_p006.png",
+      "corpus/yek_screenshots/nuruosmaniye_03821_p007.png",
+      "corpus/yek_screenshots/nuruosmaniye_04355_p002.png",
+      "corpus/yek_screenshots/nuruosmaniye_04355_p004.png",
+      "corpus/yek_screenshots/nuruosmaniye_04355_p006.png",
+      "corpus/yek_screenshots/nuruosmaniye_04355_p007.png",
+      "corpus/yek_screenshots/esad_efendi_03292-001_p010.png",
+      "corpus/yek_screenshots/esad_efendi_03292-001_p010_zoom.png"
+    ],
+    "next_steps": [
+      "Pass confirmed results (03880, 04100) to motif-classifier for deeper decorative analysis",
+      "Pass probable results (03821, 04355, 03292-001) to motif-classifier — note that probable verdicts may still be sufficient for catalogue entry with appropriate confidence scoring",
+      "For 03292-001 silver variant: flag for priority in-person examination at Süleymaniye — only known silver serpme in the current corpus",
+      "Pass full verdicts to qc-reviewer for pipeline gate before creating catalog records",
+      "Consider follow-up zoomed screenshots for 03821 and 04355 to attempt upgrade to 'confirmed'"
+    ]
+  }
+}
