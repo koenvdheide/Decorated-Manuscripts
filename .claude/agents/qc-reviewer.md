@@ -90,3 +90,12 @@ Produce a `qc_review` JSON object with: `record_reviewed`, `review_date`, `statu
 - Focus especially hard on false positive leakage from YEK searches — this is the most common source of errors in the pipeline.
 - When reviewing comparative-analyst output, verify that stated parallels are actually comparable (same period, same tradition) and that attribution claims are supported by the evidence cited.
 - After review, do NOT write to `MEMORY.md` directly (you have read-only access intentionally). Instead, include a clearly labelled `## MEMORY.md Updates` section at the end of your QC report listing any new Known Issues, false positive patterns, or terminology discoveries that the user or `metadata-generator` should add to `MEMORY.md`.
+- If you discover a new false positive pattern not yet in `yek-playbook.md`, include a `## Playbook Updates` section at the end of your report with the proposed row in the exact format used by the FP Detection Rules table:
+
+  ```text
+  | Pattern | What it actually means | Action |
+  |---|---|---|
+  | "new pattern" | Explanation of what this actually describes | Mark false positive |
+  ```
+
+  This creates a clear handoff: you identify it, the user adds it to `.claude/skills/yek-playbook.md`. Do not attempt to write to that file directly.

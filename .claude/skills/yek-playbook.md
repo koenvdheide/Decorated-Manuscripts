@@ -215,6 +215,9 @@ After retrieving results, apply these filters:
 | "zerefşan" near "şemse", "cilt", "ciltler", "mesin", "mukavva", or "köşebend" without a separate paper description | Gold-sprinkled binding medallions or cover, not paper decoration (confirmed pattern: Kastamonu Buharî set 5 vols, Kastamonu Mesnevî) | Mark false positive |
 | "efsanevi", "efsaneler", or "Bezm-efşan" matched by space-separated "zer efşan" search | Token-split noise — these words contain the substring "efşan" but are grammatically and semantically unrelated to zerefşan | Mark false positive |
 | "serpme tezhiplidir" or "serpme tarzında tezhip" | "serpme" modifies "tezhip" (illumination), meaning *scattered illumination motifs* between text sections — NOT gold-sprinkled paper. Confirmed by visual examination of Konya Bölge BY0000001267: plain paper with illuminated palmettes/rosettes scattered in text, no gold particles on paper surface | Mark false positive |
+| "siyah serpme boyalı" | Black sprinkled paint — *siyah* (black) distinguishes this from gold/silver sprinkling; describes a painting technique, not decorated paper | Mark false positive |
+| "serpme şekilde" | "in a scattered/dispersed manner" — *şekilde* means "in the manner of"; the phrase describes writing arrangement or layout, not physical gold sprinkling | Mark false positive |
+| "İran işi zerefşân" near "mıkleli cilt" or "deri cilt" | Iranian-style gold-sprinkled leather binding — confirms a gold-sprinkled cover, not paper decoration. Confirmed: Kastamonu 459737 ("İran işi zerefşân kahverengi deri mıkleli cilt") | Mark false positive |
 
 **Expected false positive rates by term:**
 - Tier 1 terms: ~5–10%

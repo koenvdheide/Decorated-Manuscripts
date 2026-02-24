@@ -30,7 +30,11 @@ Consult the `visual-identification-guide` skill for what each decoration type lo
 1. **Parse the catalogue claim** — extract what decoration is claimed, where, and with what details.
 2. **Assess screenshot coverage** — check which folios are available and whether they're likely to contain the claimed decoration. See `visual-identification-guide` for coverage gap patterns.
 3. **Examine each screenshot** — use the identification guide to match what you see against the claimed type. Note the resolution sensitivity for each type.
-4. **Produce verdict** — use the output schema from `output-schemas`.
+4. **Produce verdict** — use the output schema from `output-schemas`. Always populate `confidence_breakdown` when your overall `confidence` is below 0.9:
+   - `resolution_quality`: 1.0 for IIIF native; ~0.5 for viewer screenshots (~1536 px)
+   - `folio_coverage`: fraction of relevant folios examined (e.g. 0.3 if only 3 of 10 opening folios were available)
+   - `visual_match`: how clearly the expected decoration signature appears
+   - `limiting_factor`: whichever of the above is lowest — `resolution`, `coverage`, `visual_ambiguity`, or `inherent_uncertainty`
 
 ## Acquiring Folio Images
 

@@ -116,7 +116,7 @@ The primary output for the `catalog/` directory. One record per manuscript (not 
     },
     "folio_analyses": {
       "type": "array",
-      "description": "Per-folio decoration analyses from motif-classifier. One entry per examined folio.",
+      "description": "Per-folio decoration analyses from motif-classifier. One entry per examined folio. When motif-classifier is called with multiple images in one batch, it returns an array of these objects directly — pass that array here. A single-folio call returns one object; wrap it in an array.",
       "items": {
         "type": "object",
         "required": ["folio", "decoration_type"],
@@ -327,6 +327,29 @@ The primary output for the `catalog/` directory. One record per manuscript (not 
           "enum": ["confirmed", "probable", "inconclusive", "not_confirmed", "contradicted", "no_images"]
         },
         "confidence": { "type": "number", "minimum": 0, "maximum": 1 },
+        "confidence_breakdown": {
+          "type": "object",
+          "description": "Optional decomposition of confidence score to help qc-reviewer identify which factor limits certainty",
+          "properties": {
+            "resolution_quality": {
+              "type": ["number", "null"], "minimum": 0, "maximum": 1,
+              "description": "Quality of available images — 1.0 = IIIF native resolution, ~0.5 = viewer screenshot only"
+            },
+            "folio_coverage": {
+              "type": ["number", "null"], "minimum": 0, "maximum": 1,
+              "description": "Proportion of relevant folios actually examined vs. total folios in the manuscript"
+            },
+            "visual_match": {
+              "type": ["number", "null"], "minimum": 0, "maximum": 1,
+              "description": "Strength of visual match between screenshot evidence and the catalogue claim"
+            },
+            "limiting_factor": {
+              "type": ["string", "null"],
+              "enum": ["resolution", "coverage", "visual_ambiguity", "inherent_uncertainty", null],
+              "description": "Primary factor preventing score from reaching 0.9+"
+            }
+          }
+        },
         "evidence": {
           "type": "array",
           "items": {

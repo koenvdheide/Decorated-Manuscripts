@@ -82,7 +82,8 @@ The Ottoman framing system uses layered borders around the text block:
 | Term | Language | Meaning |
 |---|---|---|
 | halkâr / halkârî | Ott./Pers. | Shaded gold floral painting, typically in margins. Subtypes: **taramalı halkârî** (hatched/lined shading), **tahrirli halkârî** (outlined with darker gold/ink) |
-| zerefşân / serpme / yaldız serpme | Pers./Ott. | Gold-sprinkled (particles scattered on paper surface). Subtypes: **kalbur zerefşanı** (sieve-sprinkled, finer), **fırça zerefşanı** (brush-sprinkled, coarser) |
+| zerefşân / serpme / yaldız serpme | Pers./Ott. | Gold-sprinkled (particles scattered on paper surface). Subtypes: **kalbur zerefşanı** (sieve-sprinkled, finer), **fırça zerefşanı** (brush-sprinkled, coarser). Surface variant: **şâykâllı zerefşân** (burnished/polished gold-sprinkled — particles compressed and polished, harder to read at low resolution; confirmed: Milli Kütüphane 614152) |
+| sim efşan / sim-efşan | Ott. | Silver-sprinkled (silver equivalent of zer-efşan; *sim* = silver). Distinct from *gümüş yaldız serpmeli* (the more common Ottoman term); found in Ali Emiri Belge berats (155133, 155116) |
 | zer-endûd | Pers. | Gold-painted / gold-applied surface |
 | zer-ender-zer | Pers. | Gold-on-gold: layered gold effects (gold motifs on gold ground) |
 | zerkâri | Pers. | Gold-worked (motifs worked into paper surface in gold) |
@@ -98,10 +99,18 @@ The Ottoman framing system uses layered borders around the text block:
 
 ### Gold-decorated papers
 - **serpme / zerefşân / yaldız serpme** — gold-sprinkled: fine metallic particles hand-scattered on paper surface
+- **şâykâllı zerefşân** — burnished/polished gold-sprinkled paper: particles compressed and polished after application; harder to detect at low image resolution (confirmed: Milli Kütüphane 614152 "saykalli zerefsan")
+- **sim efşan / sim-efşan** — silver-sprinkled; *sim* (silver) parallels *zer* (gold) in zer-efşan; found in Ottoman berat documents (Ali Emiri Belge 155133, 155116). Synonym: *gümüş yaldız serpmeli*
+- **dendanlı olarak zer-efşanlıdır** — scalloped/crenellated gold-sprinkled (berat-specific phrase; *dendanlı* = toothed/crenellated, describing the edge or border treatment of the gold sprinkling)
+- **kenarları serpme oksitlenmiş yaldız** — margins with sprinkled oxidized gold (notes both application technique and oxidation state; confirmed: Konya Bölge BY00008884/3)
+- **ilk formaların derkenarları zerefşan tekniğiyle süslenmiştir** — margins of the first gatherings decorated with zerefşan technique (location-specific phrase; *forma* = quire/gathering; *derkenar* = margin; confirmed: Ragıp Paşa 00088)
+- **zerefşân kâğıtla kaplanmıştır** — (endpapers) covered/lined with gold-sprinkled paper (*kaplanmıştır* = is covered/lined; distinguishes applied gold-sprinkled paper from paper that received decoration directly; confirmed: Veliyyuddin Efendi 547179)
+- **dış pervazı kalbur zer-efşanlıdır** — outer border/frame is sieve-sprinkled gold (confirms **kalbur** sieve-technique in wild; *dış pervaz* = outer border/frame; confirmed: Ali Emiri Belge 155183)
+- **zerefşân taçlı salkım filigranı** — gold-sprinkled with a crown-bunch watermark; cataloguing phrase combining paper decoration type with watermark description in one field (confirmed: Milli Kütüphane 616781)
 - **zerkâri** — gold-worked: motifs (floral, geometric, chevron, medallion) worked in gold on paper
 - **zer-endûd** — gold-applied / gold-painted surfaces
 - **altınlı kağıt / yaldızlı kağıt** — gilded paper (general cataloguing term)
-- **gümüş yaldız serpmeli** — silver-sprinkled
+- **gümüş yaldız serpmeli** — silver-sprinkled (see also *sim efşan* above)
 
 ### Marbled papers
 - **ebrî / ebrulu** — marbled (general)
@@ -221,3 +230,7 @@ These describe features OTHER than decorated paper:
 - **ebrulu mukavva** — marbled board covers (not marbled paper)
 - **ebrulu cilt** — marbled binding (not marbled paper)
 - **filigran** — watermark description (not paper decoration)
+- **serpme tezhiplidir / serpme tarzında tezhip** — "*serpme*" here modifies "*tezhip*" (illumination), meaning illumination motifs scattered between text sections, NOT gold-sprinkled paper. Confirmed by visual examination: Konya Bölge BY0000001267 has plain paper with illuminated palmettes/rosettes scattered in text columns
+- **İran işi zerefşân ... mıkleli cilt / deri cilt** — Iranian-style gold-sprinkled leather binding; the full phrase confirms a gold-sprinkled cover, not paper decoration. Formula: "İran işi zerefşân [colour] deri mıkleli cilt" (confirmed: Kastamonu 459737)
+- **siyah serpme boyalı** — black sprinkled paint (*siyah* = black); a painting technique on covers or other surfaces, not gold-sprinkled decorated paper
+- **serpme şekilde** — "in a scattered/dispersed manner"; *şekilde* = "in the manner of"; describes arrangement or layout, not physical gold sprinkling
