@@ -22,3 +22,8 @@ desktop.ini
 # Agent working memory — operational state file updated every session
 # Research output is captured in catalog/ and .claude/skills/ instead
 MEMORY.md
+
+# Logs and temporary files
+logs/
+catalog/temp/
+temp/
