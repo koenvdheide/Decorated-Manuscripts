@@ -1,6 +1,6 @@
 {
   "description": "Master deduplication registry for all genuine results found across YEK search batches. Before queuing any result for visual confirmation, check its yek_id here. If already present, merge found_by only.",
-  "last_updated": "2026-02-19",
+  "last_updated": "2026-02-25",
   "yek_ids": {
     "177740": {
       "record_id": "nuruosmaniye_03880",
@@ -125,7 +125,9 @@
       "categories": ["gold_sprinkled"],
       "visual_confirmation": "pending",
       "internal_iiif_id": null,
-      "pipeline_stage": "awaiting-visual-confirmation",
+      "pipeline_stage": "excluded",
+      "excluded": true,
+      "exclusion_reason": "document_type_berat",
       "notes": "Ottoman imperial berat (1833). Confirmed from detail page: 'Satir zeminleri dendanli olarak zer-efsanlidir'. document_type: berat. No digitized images on YEK."
     },
     "155136": {
@@ -137,7 +139,9 @@
       "categories": ["gold_sprinkled"],
       "visual_confirmation": "pending",
       "internal_iiif_id": null,
-      "pipeline_stage": "awaiting-visual-confirmation",
+      "pipeline_stage": "excluded",
+      "excluded": true,
+      "exclusion_reason": "document_type_berat",
       "notes": "Ottoman imperial berat (1671). Classification by analogy with 155152. document_type: berat. No digitized images on YEK."
     },
     "155183": {
@@ -149,7 +153,9 @@
       "categories": ["gold_sprinkled"],
       "visual_confirmation": "pending",
       "internal_iiif_id": null,
-      "pipeline_stage": "awaiting-visual-confirmation",
+      "pipeline_stage": "excluded",
+      "excluded": true,
+      "exclusion_reason": "document_type_berat",
       "notes": "Confirmed from detail page: 'dis pervazi kalbur zer-efsanlidir' = outer border is sieve gold-sprinkled. Calligraphic specimen (kit'a). document_type: kit'a. No digitized images on YEK."
     },
     "155146": {
@@ -161,7 +167,9 @@
       "categories": ["gold_sprinkled"],
       "visual_confirmation": "pending",
       "internal_iiif_id": null,
-      "pipeline_stage": "awaiting-visual-confirmation",
+      "pipeline_stage": "excluded",
+      "excluded": true,
+      "exclusion_reason": "document_type_berat",
       "notes": "Ottoman imperial berat (1824). Classification by analogy with 155152. document_type: berat. No digitized images on YEK."
     },
     "155124": {
@@ -173,7 +181,9 @@
       "categories": ["gold_sprinkled"],
       "visual_confirmation": "pending",
       "internal_iiif_id": null,
-      "pipeline_stage": "awaiting-visual-confirmation",
+      "pipeline_stage": "excluded",
+      "excluded": true,
+      "exclusion_reason": "document_type_berat",
       "notes": "Ottoman imperial berat. Classification by analogy with 155152. document_type: berat. No digitized images on YEK."
     },
     "107": {
@@ -245,7 +255,9 @@
       "categories": ["gold_sprinkled"],
       "visual_confirmation": "pending",
       "internal_iiif_id": null,
-      "pipeline_stage": "awaiting-visual-confirmation",
+      "pipeline_stage": "excluded",
+      "excluded": true,
+      "exclusion_reason": "document_type_berat",
       "notes": "Found in 10 extra 'zer efsan' results. Shelfmark not captured -- verify on detail page. document_type: berat. No digitized images on YEK."
     },
     "155133": {
@@ -257,7 +269,9 @@
       "categories": ["silver_sprinkled"],
       "visual_confirmation": "pending",
       "internal_iiif_id": null,
-      "pipeline_stage": "awaiting-visual-confirmation",
+      "pipeline_stage": "excluded",
+      "excluded": true,
+      "exclusion_reason": "document_type_berat",
       "notes": "Silver-sprinkled ('sim efsan'). Third silver-sprinkled document in corpus. Shelfmark not captured -- verify on detail page. document_type: berat. No digitized images on YEK."
     },
     "155116": {
@@ -269,7 +283,9 @@
       "categories": ["silver_sprinkled"],
       "visual_confirmation": "pending",
       "internal_iiif_id": null,
-      "pipeline_stage": "awaiting-visual-confirmation",
+      "pipeline_stage": "excluded",
+      "excluded": true,
+      "exclusion_reason": "document_type_berat",
       "notes": "Silver-sprinkled ('sim efsan'). Fourth silver-sprinkled document in corpus. Shelfmark not captured -- verify on detail page. document_type: berat. No digitized images on YEK."
     }
   },

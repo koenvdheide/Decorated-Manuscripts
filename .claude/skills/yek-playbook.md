@@ -2,7 +2,7 @@
 
 Procedural reference for searching portal.yek.gov.tr. Used by `yek-search` and `visual-confirmation` agents.
 
-**Scope**: Decorated paper (gold-sprinkled, marbled, colored, gold-worked) and page/margin ornamentation (halkâr, illuminated margins, framing systems). Binding features are tracked as false positive patterns only.
+**Scope**: Decorated paper (gold-sprinkled, marbled, colored, gold-worked) and page/margin ornamentation (halkâr, illuminated margins, framing systems) in **codex manuscripts only**. Binding features and berat/ferman document types are excluded.
 
 ## Portal Overview
 
@@ -249,6 +249,9 @@ After retrieving results, apply these filters:
 - Tier 2 terms: ~30–50%
 - "ebrulu" in notes field: ~85% (binding covers)
 - "tezhipli" alone: ~60% (headpieces)
+
+**Document type exclusions (genuinely decorated but out of scope):**
+Berat and ferman (Ottoman imperial decrees, single-sheet format) — exclude any result where the title or notes field identifies the item as a berat or ferman, even when genuine decoration is present. Key markers: "berat", "ferman", "tuğra", "nishan cümlesi" in combination with zer-endud. Do not mark as false positive — mark as `excluded` with `exclusion_reason: document_type_berat`.
 
 ## Result Categorization
 
