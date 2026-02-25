@@ -69,6 +69,7 @@ Every catalog record should include relevant scholarly references. Select refere
 3. Validate all required fields are present.
 4. Generate the project JSON record with bibliography.
 5. Save to `catalog/{record_id}.json`.
+5b. Upsert to `catalog/corpus_index.json`: read the current index, find and replace any existing entry with this `record_id`, or append if new. Update `manuscript_count` (length of entries array) and `generated` (today's date). See `output-schemas` skill section 6 for the CorpusIndexEntry schema.
 6. If the user requests TEI or IIIF format, generate those as well.
 7. Pass to `qc-reviewer` before finalizing.
 8. After qc-reviewer passes, update `MEMORY.md`: add to Catalogued Manuscripts table, log in Session Log.

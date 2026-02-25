@@ -71,6 +71,14 @@ Check metadata-generator output for:
 - Check for the same manuscript appearing under different shelfmarks or transliterations
 - Flag composite manuscripts (mecmû'a) where sub-records might be counted separately
 
+### 8. Corpus Index Consistency
+
+- Does `catalog/corpus_index.json` contain an entry for this `record_id` after cataloguing?
+- Does the index entry's `record_id` exactly match the catalog record filename stem?
+- Are the index entry's `decoration_types` consistent with `paper_decoration.types` in the full catalog record?
+- Is the index entry's `visual_confirmation` value consistent with `visual_confirmation.verdict` in the full catalog record?
+- Does `manuscript_count` in the index file match the actual number of entries in the array?
+
 ## Output Format
 
 Produce a `qc_review` JSON object with: `record_reviewed`, `review_date`, `status` (pass | pass_with_warnings | fail), `issues` array (each with severity, check_type, description, agents_involved, field_affected, suggested_fix), and `summary` (error/warning/info counts, passed_checks list). See `output-schemas` skill for the full schema.

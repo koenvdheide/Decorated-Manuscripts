@@ -479,6 +479,49 @@ The primary output for the `catalog/` directory. One record per manuscript (not 
 }
 ```
 
+## 6. Corpus Index Entry (metadata-generator → corpus_index.json)
+
+One entry per catalogued manuscript. Lightweight summary for comparative-analyst
+pre-filtering. The full record lives in `catalog/{record_id}.json`.
+
+```json
+{
+  "title": "CorpusIndexEntry",
+  "type": "object",
+  "required": ["record_id", "collection", "shelfmark", "decoration_types", "catalogued_date"],
+  "properties": {
+    "record_id": { "type": "string", "description": "Matches catalog/{record_id}.json filename stem" },
+    "collection": { "type": "string" },
+    "shelfmark": { "type": "string" },
+    "title": { "type": ["string", "null"] },
+    "author": { "type": ["string", "null"] },
+    "date_ah": { "type": ["string", "null"], "description": "AH date range (e.g. '10th–11th c. AH')" },
+    "date_ce": { "type": ["string", "null"], "description": "CE date range (e.g. '16th–17th c. CE')" },
+    "decoration_types": {
+      "type": "array",
+      "items": { "type": "string" },
+      "description": "Values from decoration_types enum"
+    },
+    "paper_categories": {
+      "type": "array",
+      "items": { "type": "string" },
+      "description": "2–4 Ottoman/Persian term keys describing paper decoration technique"
+    },
+    "key_features": {
+      "type": "array",
+      "items": { "type": "string" },
+      "description": "2–4 brief phrases highlighting the most distinctive features for comparison"
+    },
+    "visual_confirmation": {
+      "type": "string",
+      "enum": ["confirmed", "probable", "inconclusive", "not_confirmed", "contradicted", "no_images"]
+    },
+    "confidence": { "type": "number", "minimum": 0, "maximum": 1 },
+    "catalogued_date": { "type": "string", "format": "date" }
+  }
+}
+```
+
 ## Shared Enums
 
 ### Decoration categories
