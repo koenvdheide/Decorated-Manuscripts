@@ -234,3 +234,76 @@ These describe features OTHER than decorated paper:
 - **İran işi zerefşân ... mıkleli cilt / deri cilt** — Iranian-style gold-sprinkled leather binding; the full phrase confirms a gold-sprinkled cover, not paper decoration. Formula: "İran işi zerefşân [colour] deri mıkleli cilt" (confirmed: Kastamonu 459737)
 - **siyah serpme boyalı** — black sprinkled paint (*siyah* = black); a painting technique on covers or other surfaces, not gold-sprinkled decorated paper
 - **serpme şekilde** — "in a scattered/dispersed manner"; *şekilde* = "in the manner of"; describes arrangement or layout, not physical gold sprinkling
+
+## Workshop Attribution Vocabulary
+
+Terms for identifying production context from preface, colophon, and dedication pages. Used by the `motif-classifier` when populating `workshop_attribution`.
+
+### Craftsperson Roles
+
+| Ottoman / Arabic / Persian | Transliteration | English | Notes |
+|---|---|---|---|
+| مذهّب / müzehhib | müzehhib | illuminator, gilder | Craftsperson who applies tezhip/taẕhīb decoration |
+| نقاش / nakkaş | nakkaş | designer, pattern-draughtsman | Designs illumination patterns; overlaps with müzehhib in Ottoman usage |
+| كاتب / kâtib | kâtib | scribe | Also: müstensih (copyist) |
+| مجلّد / mücellid | mücellid | bookbinder | Distinct trade from illumination |
+| رسّام / ressam | ressam | painter, draughtsman | Used for miniature painters |
+| استاد / ustâ | ustâ | master (craftsperson) | Honorific preceding a name; signals senior rank |
+| شاگرد / şakird | şakird | apprentice | Member of a workshop hierarchy |
+
+### Workshop Terms
+
+| Term | Transliteration | Language | Meaning |
+|---|---|---|---|
+| نقاشخانۀ همایون | nakkaşhâne-i hümâyun | Ottoman | Imperial design and illumination workshop, Istanbul |
+| نقاشخانه | nakkaşhane | Ottoman/Persian | Design workshop (generic) |
+| کارخانه | kârhâne | Ottoman/Persian | Workshop, manufactory |
+
+### Colophon and Preface Indicators
+
+| Term | Language | Meaning | Notes |
+|---|---|---|---|
+| كتبه / ketebe | Arabic | "he wrote" | Standard scribal formula; names the kâtib |
+| حرّره / ḥarrerahu | Arabic/Ottoman | "he wrote / composed" | Also ḥarrara; variant of ketebe formula |
+| ذهّبه / zehhebehû | Arabic | "he gilded it" | Names the illuminator/gilder in the colophon |
+| مذهّب کلّه / müzehheb küllühâ | Arabic/Ottoman | "all of it was gilded" | Indicates full gilding; may follow zehhebehû |
+| تمّ / tamme | Arabic | "it is finished" | Standard completion formula |
+| خُتِم / hutimeh | Arabic | "it was completed" | Alternative completion formula |
+| دیباچه / dibâce | Ottoman/Persian | preface, introduction | Opening prose section before the text proper |
+| مقدّمه / mukaddime | Arabic/Ottoman | introduction, preface | Interchangeable with dibâce |
+| خاتمه / hâtime | Ottoman/Arabic | conclusion, colophon section | End section containing scribal and production notes |
+| اهداء / ithâf | Ottoman | dedication | Dedication to a patron |
+| سنولدی / sunuldu | Ottoman | "was presented" | Presentation formula: "was presented to [patron]" |
+| امر / emr ile | Ottoman/Arabic | "by order of" | Commission formula naming the patron |
+| بنام / be-nâm-ı | Persian | "in the name of" | Dedication formula |
+| در زمان / der zamân-ı | Persian/Ottoman | "in the time of" | Names the reigning patron or sultan |
+| لحضرت / li-ḥaḍrat | Arabic | "for the presence of" | Formal dedication to a high-ranking patron |
+
+### Workshop Attribution Patterns
+
+These textual patterns signal production context with varying confidence:
+
+| Pattern in text | Interpretation | Confidence |
+|---|---|---|
+| "nakkaşhane-i hümayun" explicit | Imperial workshop, Istanbul | very high |
+| City name explicit (Herat, Tabriz, İstanbul / Dârü's-selâm, İsfahan, Şiraz, Kahire) | Workshop city directly stated | very high |
+| Date + place at colophon | Direct production evidence | very high |
+| Named müzehhib with ketebe by same scribe | Same workshop, cross-verifiable | very high |
+| Named sultan as patron (emr ile / be-nâm-ı) | Istanbul court production (Ottoman period) | high |
+| Named vizier or beylerbeyi as patron | High-level Ottoman commission; city inferred from patron's posting | high |
+| Named provincial ruler or şah as patron | Non-Istanbul workshop; city inferred from patron's court | high |
+| Patron name without city | Workshop inferred from patron's known location | medium |
+| "Dârü's-selâm" or "Kostantiniyye" | Istanbul production stated | very high |
+
+### Historical Workshops and Schools
+
+| Workshop / School | Period (approx.) | Distinctive features |
+|---|---|---|
+| Nakkaşhane-i hümayun, Istanbul | c. 1453 onwards | Rūmī-hatāyī synthesis, bulut bands, controlled palette; Bâki Nakkaş era c. 1550s; zerefşân paper standard in luxury production |
+| Herat school (Timurid) | c. 1400–1507 | Blue-and-gold palette, delicate hatāyī scrolls, lajvardina; Baysunghur's workshop c. 1420s |
+| Tabriz school (Safavid) | c. 1501–1555 | Intense lapis, more naturalistic hatāyī, Timurid synthesis; Shah Tahmāsp era peak |
+| Isfahan school (Safavid) | c. 1555 onwards | Post-Tabriz floral naturalism, polychrome margins, zer-ender-zer technique |
+| Qazvin school (Safavid) | c. 1555–1598 | Transitional Safavid, sparser decoration, elongated figures |
+| Shiraz school | 15th–17th c. | Commercial Timurid/Safavid production, quicker execution, wide export |
+| Mamluk Cairo | c. 1250–1517 | Geometric interlace, carpet-page Qurans, gold-and-black palette, angular kufic |
+| Ottoman Bursa / Edirne | c. 1400–1453 | Pre-Istanbul court production, strong Timurid influence |

@@ -152,7 +152,48 @@ The primary output for the `catalog/` directory. One record per manuscript (not 
             }
           },
           "condition_notes": { "type": ["string", "null"] },
-          "analysis_limitations": { "type": ["string", "null"] }
+          "analysis_limitations": { "type": ["string", "null"] },
+          "workshop_attribution": {
+            "type": ["object", "null"],
+            "description": "Workshop attribution from textual sources (preface, colophon, dedication, catalogue text). Distinct from style_attribution.workshop which records visual/stylistic inference only.",
+            "properties": {
+              "source": {
+                "type": "string",
+                "enum": ["preface", "colophon", "dedication", "artisan_signature", "waqf_inscription", "catalogue_text"],
+                "description": "Textual source type"
+              },
+              "text_evidence": {
+                "type": "string",
+                "description": "Verbatim quote or close paraphrase in original language"
+              },
+              "workshop_name": {
+                "type": ["string", "null"],
+                "description": "Standardized English name (e.g. 'Imperial Ottoman workshop')"
+              },
+              "workshop_name_ottoman": {
+                "type": ["string", "null"],
+                "description": "Ottoman/Persian name as found in source (e.g. 'nakkaşhâne-i hümâyun')"
+              },
+              "city": { "type": ["string", "null"] },
+              "artisans": {
+                "type": "array",
+                "items": {
+                  "type": "object",
+                  "properties": {
+                    "role": {
+                      "type": "string",
+                      "enum": ["müzehhib", "kâtib", "nakkaş", "mücellid", "ressam", "unknown"]
+                    },
+                    "name": { "type": "string" },
+                    "source_term": { "type": ["string", "null"], "description": "Original-language role term from source" }
+                  }
+                }
+              },
+              "patron": { "type": ["string", "null"] },
+              "date_stated": { "type": ["string", "null"], "description": "Date stated in the source (AH or CE)" },
+              "confidence": { "type": "number", "minimum": 0, "maximum": 1 }
+            }
+          }
         }
       }
     },

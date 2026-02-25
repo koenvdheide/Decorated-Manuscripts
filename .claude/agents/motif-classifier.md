@@ -69,6 +69,19 @@ When presented with a manuscript image, systematically identify:
    - Characteristic features pointing to specific workshops, periods, or artists
    - Comparative parallels with known dated examples
 
+7. **Workshop attribution from preface and text sources**
+
+   When preface pages (dibâce/mukaddime) or colophon pages (hâtime/ketebe) are among the input images, or when catalogue text (genel_notlar excerpts, YEK notes) containing preface or scribal information is supplied alongside images:
+
+   - Look for: patron name or title (sultan, vezir, emir, şah), place of production, named craftspeople (kâtib, müzehhib, nakkaş, mücellid), dates
+   - Key scribal formulas: **ketebe** / **ḥarrerahu** = identifies scribe; **zehhebehû** / **müzehheb küllühâ** = identifies illuminator; **tamme** / **hutimeh** = completion formula
+   - Dedication patterns: "be-nâm-ı…", "der zamân-ı…", "li-ḥaḍrat…", "emriyle" — all name the patron
+   - Workshop signals: "nakkaşhane-i hümayun" = imperial Istanbul workshop; city names (Herat, Tabriz, İstanbul / Dârü's-selâm, İsfahan, Şiraz, Kahire) = direct production evidence
+   - When textual evidence is found, populate `workshop_attribution` (structured object) in addition to `style_attribution`
+   - When only visual/stylistic evidence is available, use `style_attribution.workshop` (free text) as before — simply omit `workshop_attribution` in that case
+
+   Consult the `terminology-reference` skill — see the **Workshop Attribution Vocabulary** section.
+
 ## Output Format
 
 Return your analysis as JSON. When analyzing a single folio, return one analysis object. When analyzing multiple folios from the same manuscript in one call (preferred when multiple confirmed images are available — Claude supports up to 20 images per message), return an array of folio analysis objects, one per image. The `metadata-generator` will use these as the `folio_analyses` array in the manuscript-level record.
@@ -118,5 +131,6 @@ Return your analysis as JSON. When analyzing a single folio, return one analysis
 - Always flag if an image is too low-resolution or poorly lit for reliable analysis.
 - Never invent terminology. If you cannot find a standard term, say so.
 - Note when terms are contested or vary between scholarly traditions.
+- When catalogue text (genel_notlar, YEK fields, or other transcriptions) is provided alongside images, analyze it for workshop, scribal, and patronage evidence in addition to performing visual analysis.
 - After completing your analysis, pass results directly to `metadata-generator`.
 - Read `MEMORY.md` at the start of each session for project state and known issues.
