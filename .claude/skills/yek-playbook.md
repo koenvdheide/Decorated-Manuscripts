@@ -34,6 +34,20 @@ The advanced search form has:
 
 Multiple filter rows can be added for AND-combined searches.
 
+**Default form state** (as of 2026-02-25): The form loads with **5 pre-populated rows**: Eser adi, Muellif adi, Tasnif numarasi/Konu, Koleksiyonlar (combobox, default "Hepsi"), Koleksiyon numarasi. All have Iceren operator selected and empty values. The form also persists session state across page navigations.
+
+**Connectors**: Ve (AND) / Veya (OR) toggle at the top. Ve (AND) is the default.
+
+⚠️ **Empty row behavior** (empirically tested 2026-02-25):
+
+- **Rows with a field selected but empty value**: The portal **ignores** these. A search with one filled row + one empty row (field selected, value blank) returns identical results to the same search with only the filled row. The 5 default empty rows do NOT affect results.
+- **Rows with "------" (no field selected)**: These cause a **JavaScript TypeError** and the search returns **zero results** with a stuck loading mask. The "+\ Kural Ekle" (Add Rule) button creates rows with "------" as default. Always select a field before submitting, or delete newly added rows that have no field selected.
+
+For safety:
+- For **single-term searches**: the default form with its 5 pre-populated empty rows is safe — no need to delete them. Just fill your target row and submit.
+- For **multi-row AND searches** (Protocol D): every filled row must have both a field selected AND a non-empty value. Empty rows with selected fields are harmless.
+- **Never submit** with a row whose field selector shows "------" — this crashes the search.
+
 ### Key searchable fields
 
 | Field ID | Turkish label | Best for |
