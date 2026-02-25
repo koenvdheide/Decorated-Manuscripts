@@ -27,3 +27,4 @@ MEMORY.md
 logs/
 catalog/temp/
 temp/
+temp_snapshot*.md
