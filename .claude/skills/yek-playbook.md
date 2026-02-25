@@ -2,6 +2,8 @@
 
 Procedural reference for searching portal.yek.gov.tr. Used by `yek-search` and `visual-confirmation` agents.
 
+**Scope**: Decorated paper (gold-sprinkled, marbled, colored, gold-worked) and page/margin ornamentation (halkâr, illuminated margins, framing systems). Binding features are tracked as false positive patterns only.
+
 ## Portal Overview
 
 **URL**: https://portal.yek.gov.tr
@@ -54,9 +56,11 @@ The İçeren (contains) operator **tokenizes multi-word queries** and matches ea
 - ✅ "yaldız serpmeli" also matches "serpme yaldızlı" (catches variant word orders)
 - ⚠️ "yaldızlı kağıt" also matches "cetvelleri yaldızlı ... kağıt" (false positive)
 - ⚠️ "tezhipli" matches "başlığı tezhipli" (false positive — headpiece only)
-- ⚠️ **Hyphens are tokenized**: "zer-efşan" splits into "zer" + "efşan" matched independently → 29 results in kagit_ozellikleri (inflated) and 14,656 results in genel_notlar (completely unusable). **Never search hyphenated variants in genel_notlar.**
-- ⚠️ **Spaces behave differently from hyphens**: "zer efşan" (space-separated) in genel_notlar returns 27 results vs 14,656 for the hyphenated form. The space form uses proximity or phrase-level matching. Results are a superset of the compound "zerefşan" (17 results) — the 10 extra results often contain token-split noise ("efsanevi", "efsaneler", "Bezm-efşan") unrelated to zerefşan.
-- ✅ **Diacritics are normalized**: "zerefşan", "zerefşân", and "zerefsan" all return identical results. **Do not waste search slots on diacritic variant searches** — confirmed by Batch 1 (6 of 19 searches were redundant).
+- ⚠️ **Hyphens are tokenized**: "zer-efşan" splits into "zer" + "efşan" matched independently — results inflate to unusable levels, especially in long fields. **Never search hyphenated variants.**
+- ⚠️ **Spaces behave differently from hyphens**: space-separated forms use proximity or phrase-level matching and return far fewer results than hyphenated forms. The space form `zer efşan` is a superset of the compound `zerefşan` — the extra results often contain token-split noise ("efsanevi", "efsaneler", "Bezm-efşan") unrelated to zerefşan.
+- ⚠️ **"ender" contamination**: Turkish "ender" (rare/scarce) inflates space-separated "zer ender zer" because "ender" alone matches independently. Always use the compound form "zerenderzer" instead.
+- ✅ **Diacritics are normalized**: "zerefşan", "zerefşân", and "zerefsan" all return identical results. **Do not search diacritic variants separately** — one form suffices.
+- ℹ️ **Search hits are candidates, not evidence.** Every result must be validated against the full field text and, for ambiguous cases, against digitized images.
 
 This behavior cannot be changed. Plan for false positives and filter them after retrieval.
 
@@ -68,10 +72,10 @@ Low false positive rate — almost always genuine decorated paper or margin deco
 | Term | Meaning | Best field |
 |---|---|---|
 | serpme | gold-sprinkled | kagit_ozellikleri |
-| zerefşan / zerefşân | gold-sprinkled (Persian). Also try: zerefsan, zer-efşan, zer efşan | kagit_ozellikleri |
-| altın serpme | gold-sprinkled (Turkish descriptive) | kagit_ozellikleri, genel_notlar |
+| zerefşan | gold-sprinkled (Persian). Diacritics normalized — one form suffices. Also try space form `zer efşan` (superset with some noise). Never use hyphen form `zer-efşan` (causes tokenization inflation). | kagit_ozellikleri |
+| altın serpme | gold-sprinkled (Turkish descriptive) | genel_notlar |
 | zerkâri / zerkari | gold-worked | kagit_ozellikleri, genel_notlar |
-| zer-endûd | gold-applied | kagit_ozellikleri |
+| zer endud (space form) | gold-applied — describes berat calligraphic decoration (tughra, nisan inscriptions), not book paper. Never use hyphen form. | genel_notlar only |
 | halkâr / halkar / halkârî / halkari | shaded gold floral painting | all three fields, prioritize genel_notlar |
 | ebrulu | marbled (in paper field only) | kagit_ozellikleri |
 | mülevven | colored paper | kagit_ozellikleri |
@@ -119,9 +123,9 @@ Produce genuine results but also many false positives:
 | tamamı yaldız bezemeli | entirely gold-decorated | very rare, high value |
 | vassale | window-mounting | codicological technique |
 | yan kağıtları ebrulu | marbled side papers | specific location |
-| zer-ender-zer | gold-on-gold | rare, signals luxury |
-| kalbur zerefşanı | sieve-sprinkled gold | technical subtype |
-| fırça zerefşanı | brush-sprinkled gold | technical subtype |
+| zerenderzer (compound only) | gold-on-gold | genel_notlar only — space and hyphen forms unusable |
+| kalbur zerefşanı | sieve-sprinkled gold | technical subtype — not used by YEK cataloguers |
+| fırça zerefşanı | brush-sprinkled gold | technical subtype — not used by YEK cataloguers |
 | yaldızlı kenar / ağız yaldızlı | gilt edges | edge gilding, inconsistently recorded |
 
 ### Tier 3b: Paratext handles (indicate margin-heavy manuscripts)
@@ -157,7 +161,7 @@ Not decoration terms per se, but records containing these often have elaborate f
 1. Review which term × field combinations were already searched
 2. Identify gaps in the search matrix
 3. Execute missing combinations
-4. Deduplicate against existing results
+4. Deduplicate against existing results — use the YEK record ID as the primary key; for cross-search deduplication also normalize shelfmarks (strip spaces, standardize slashes)
 5. Report only net new finds
 
 ### Protocol D: Precision multiplier strategy
@@ -168,7 +172,7 @@ Use script type and language fields as AND-filters to dramatically increase prec
 - Ottoman evidence explicitly links taʿlîk script with zerefşan paper and halkâr margins
 
 **Persian manuscripts:**
-- Combine yazi_turu: **nestalik** (also try nesta'lik, nasta'lik) with decoration terms (zerefşan, zer-efşan)
+- Combine yazi_turu: **nestalik** (also try nesta'lik, nasta'lik) with decoration terms (zerefşan, zer efşan)
 - Add dili: **Farsça** for further narrowing
 - Gold-sprinkled paper clusters around 15th–16th century Timurid–Safavid production
 
@@ -180,10 +184,10 @@ Use script type and language fields as AND-filters to dramatically increase prec
 - Marbled paper is disproportionately associated with albums (came into vogue 17th century)
 
 ### Protocol E: Spelling variant rotation
-Always rotate through diacritic/spelling variants for key terms. Cataloguer inconsistency is a major recall issue.
+Rotate through **form variants** (compound vs. space) for key terms — cataloguer inconsistency is a major recall issue. **Do not rotate through diacritic variants** — YEK normalizes diacritics server-side, so they return identical results.
 
-For each core term, run searches with ALL variants listed in the `terminology-reference` spelling variants table. Key rotations:
-- zerefşân → zerefşan → zerefsan → zer-efşan → zer efşan
+For each core term, try the usable form variants only. Key rotations:
+- zerefşan → zer efşan (space form, superset)
 - ebrî → ebri → ebrû → ebru → ebrulu
 - halkârî → halkari → halkâr → halkar
 - zencirek → zencerek
@@ -194,10 +198,30 @@ For each core term, run searches with ALL variants listed in the `terminology-re
 - teşʿîr → teşir → teş'ir
 
 ### Protocol F: Process vocabulary over motif vocabulary
+
 When you need precision, prefer terms that name a **production process** over terms that name a **motif**:
 - HIGH precision: zerefşan, ebrulu, cetvelli, zencirek (process/structure terms)
 - LOW precision: bulut, rûmî, hataî (motif terms — too many non-margin uses)
 - EXCEPTION: bulut and hataî become useful when combined with margin/border terms as co-anchors
+
+### Protocol G: Escalation to visual confirmation
+
+Text analysis alone is sufficient when:
+
+- The matched term appears as a standalone, unambiguous phrase in the paper field (kagit_ozellikleri)
+- No binding keywords (cilt, kapak, mukavva, mesin, köşebend) appear in the same field
+- All false positive rules below are negative
+
+Visual confirmation is required when:
+
+- The match is in genel_notlar only (not also in kagit_ozellikleri)
+- A binding FP rule fires but the manuscript has digitized images
+- Text-based confidence is below 0.70
+- The catalogue uses a Tier 2 or Tier 3 term
+
+Visual confirmation is not possible when:
+
+- No digitized images are available — record as `awaiting-visual-confirmation`
 
 ## False Positive Detection Rules
 
@@ -218,6 +242,7 @@ After retrieving results, apply these filters:
 | "siyah serpme boyalı" | Black sprinkled paint — *siyah* (black) distinguishes this from gold/silver sprinkling; describes a painting technique, not decorated paper | Mark false positive |
 | "serpme şekilde" | "in a scattered/dispersed manner" — *şekilde* means "in the manner of"; the phrase describes writing arrangement or layout, not physical gold sprinkling | Mark false positive |
 | "İran işi zerefşân" near "mıkleli cilt" or "deri cilt" | Iranian-style gold-sprinkled leather binding — confirms a gold-sprinkled cover, not paper decoration. Confirmed: Kastamonu 459737 ("İran işi zerefşân kahverengi deri mıkleli cilt") | Mark false positive |
+| Short multi-word term (e.g. "zer endud") matched in a long genel_notlar field where the phrase does not appear as a contiguous unit | Token-split noise — İçeren matches each word independently; "zer" is a common Ottoman prefix and may appear far from "endud" in long scholarly notes. Read the full field text to confirm. | Mark false positive if phrase is not contiguous |
 
 **Expected false positive rates by term:**
 - Tier 1 terms: ~5–10%
@@ -290,7 +315,6 @@ Turkish government portals can be intermittently slow. If a page fails to load:
 
 - Wait 5 seconds and retry
 - If viewer fails, try refreshing the detail page first
-- Peak hours (Turkish business hours, UTC+3) may be slower
 
 ### Responsible Querying
 
@@ -300,7 +324,7 @@ Turkish government portals can be intermittently slow. If a page fails to load:
 
 ## IIIF Direct Image Access
 
-The YEK portal uses **IIIF Image API Level 2**. Every folio image is accessible as a plain JPEG URL — no viewer, no iframe, no OpenSeadragon wait. IIIF delivers higher native resolution (up to 4524×3297 px) than viewer screenshots (~1536×864 px) and should be used for **all image capture**. Use the viewer only when you need to navigate pages sequentially to discover which page numbers are relevant; once the target pages are identified, fetch them via IIIF.
+The YEK portal uses **IIIF Image API Level 2**. Every folio image is accessible as a plain JPEG URL — no viewer, no iframe, no OpenSeadragon wait. IIIF delivers higher native resolution than viewer screenshots and should be used for all **analysis-quality captures**. Use the viewer only when you need to navigate pages sequentially to discover which page numbers are relevant; once the target pages are identified, fetch them via IIIF.
 
 ### Image URL pattern
 
@@ -318,7 +342,7 @@ https://portal.yek.gov.tr/iiif/webservice/ShowImage/{internal_iiif_id}/{page}/fu
 https://portal.yek.gov.tr/iiif/webservice/ShowImage/0000000660191/7/full/full/0/default.jpg
 ```
 
-Native resolution varies by scan: 03880 is 4524×3297 px; 03292-001 is 1600×1200 px.
+Native resolution varies by scan (typically 1600–4500 px wide).
 
 ### Extracting the internal IIIF ID
 
