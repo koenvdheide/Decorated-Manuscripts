@@ -108,7 +108,13 @@ The Ottoman framing system uses layered borders around the text block:
 - **dış pervazı kalbur zer-efşanlıdır** — outer border/frame is sieve-sprinkled gold (confirms **kalbur** sieve-technique in wild; *dış pervaz* = outer border/frame; confirmed: Ali Emiri Belge 155183)
 - **zerefşân taçlı salkım filigranı** — gold-sprinkled with a crown-bunch watermark; cataloguing phrase combining paper decoration type with watermark description in one field (confirmed: Milli Kütüphane 616781)
 - **zerkâri** — gold-worked: motifs (floral, geometric, chevron, medallion) worked in gold on paper
+- **çeşitli zerkâri kâğıt** — various gold-worked paper (cataloguing phrase used when a volume contains assorted gold-worked papers)
+- **zerkâri-bordurlu** — with gold-worked border (combined descriptor for paper with gold-worked border treatment)
+- **ilk iki sayfa zerkâri** — first two pages gold-worked (location-specific cataloguing phrase)
 - **zer-endûd** — gold-applied / gold-painted surfaces
+- **zerendûddur / sûre isimleri zerendûddur** — "are gold-painted" / "surah titles are gold-painted" (Quran surah-header and colophon context)
+- **zer-ender-zer tekniği kullanılmıştır** — "gold-on-gold technique was used" (explicit genel_notlar phrasing for the zer-ender-zer technique)
+- **tamamı yaldız bezemeli** — entirely gold-decorated (high-precision paper field term; also listed in Gold Techniques table)
 - **altınlı kağıt / yaldızlı kağıt** — gilded paper (general cataloguing term)
 - **gümüş yaldız serpmeli** — silver-sprinkled (see also *sim efşan* above)
 
