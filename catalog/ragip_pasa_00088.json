@@ -1,0 +1,321 @@
+{
+  "record_id": "ragip_pasa_00088",
+  "collection": {
+    "institution": "Ragıp Paşa Kütüphanesi",
+    "city": "Istanbul",
+    "country": "Turkey",
+    "shelfmark": "00088",
+    "yek_url": null
+  },
+  "manuscript": {
+    "title": "Mafātīḥ al-Ghayb (Tefsîr-i Kebîr)",
+    "author": "Fakhr al-Dīn Muḥammad ibn ʿUmar al-Rāzī (544–606 AH / 1149–1209 CE)",
+    "date_ah": null,
+    "date_ce": "16th–17th century (undated; terminus ante quem 1763 CE / 1176 AH)",
+    "format": "tefsir (Quran commentary)",
+    "dimensions_mm": {
+      "height": null,
+      "width": null
+    },
+    "folio_count": null
+  },
+  "paper_decoration": {
+    "types": ["gold_sprinkled", "framing_system"],
+    "summary": "Zerefşân (gold-sprinkled) decoration is confined to the margins (derkenarlar) of the first gatherings (formaların derkenarları) only — it is a localised marginal application on the early quires of the manuscript, not a full paper stock decoration throughout. The zerefşân is subtle at viewer resolution, presenting as a warm golden cast on aged cream paper rather than individually resolvable particles. The text incipit opening (p005) displays an illuminated headpiece (serlevha) in lapis blue and gold with hatāyī-rūmī floral scrollwork, and a multi-line gold ruling system (müzehheb cedvel) framing all text pages of the first gatherings. The combination of zerefşân margins and müzehheb cedvel on the opening quires is consistent with Ottoman luxury manuscript production for a prestigious Quran commentary text.",
+    "technique_terms": {
+      "ottoman": "zerefşân / serpme (ilk formaların derkenarlarında)",
+      "persian": "zarafshān / afshān",
+      "arabic": "dhahab marshūsh (ذهب مرشوش)"
+    },
+    "catalogue_description": {
+      "paper_field": "İlk formaların derkenarları zerefşân tekniğiyle süslenmiştir.",
+      "notes_field": null,
+      "decoration_field": "Müzehheb cedvel; serlevha"
+    }
+  },
+  "workshop_attribution": {
+    "primary_tradition": "ottoman",
+    "workshop_centre": "Istanbul (inferred; not explicitly attested)",
+    "date_range_ce": "16th–17th century",
+    "confidence": 0.45,
+    "key_indicators": [
+      "Serlevha with lapis blue ground and hatāyī-rūmī floral program",
+      "Multi-line müzehheb cedvel (gold, red, blue, black ruling system) extending throughout text pages",
+      "Zerefşân margins on first gatherings — characteristic Ottoman luxury treatment for prestigious texts",
+      "Naskh script for Arabic Quran commentary consistent with Ottoman scholarly manuscript production"
+    ],
+    "cross_tradition_caveats": [
+      "Only two openings examined; deeper quires not available for comparison",
+      "Zerefşân on first gatherings only may indicate later refurbishment or rebinding rather than original production decoration",
+      "Image resolution insufficient to confirm fırça vs. kalbur zerefşanı subtype",
+      "Without colophon evidence, date range is based on stylistic impression only; confidence remains low-moderate"
+    ]
+  },
+  "codicology": null,
+  "visual_confirmation": {
+    "verdict": "probable",
+    "confidence": 0.45,
+    "screenshots_examined": 2,
+    "limitations": [
+      "YEK viewer screenshots at moderate resolution (~1536 px); individual gold particles in zerefşân not resolvable",
+      "Zerefşân on aged, darkened cream paper is particularly difficult to distinguish from natural paper tone at this resolution",
+      "Only preliminary leaf (p003, with vakıf stamp) and incipit opening (p005) examined; no mid-text or final gatherings visible",
+      "The catalogue description is the primary positive evidence; visual evidence is supportive but not independently confirmatory"
+    ]
+  },
+  "folio_analyses": [
+    {
+      "folio": "p003",
+      "source_image": "corpus/visual_confirmation_batch1/ragip_pasa_00088_p003_iiif.png",
+      "decoration_type": "paper_decoration",
+      "elements": [
+        {
+          "element_type": "gold-sprinkled margins (first gatherings)",
+          "element_type_ottoman": "zerefşân derkenar",
+          "element_type_persian": "zarafshān",
+          "motifs": [],
+          "colors": ["gold particles on aged cream/light brown paper"],
+          "gold_technique": "serpme / zerefşân",
+          "position": "margins (derkenarlar) of the first gatherings"
+        },
+        {
+          "element_type": "library stamp",
+          "element_type_ottoman": "vakıf mühürü",
+          "element_type_persian": null,
+          "motifs": [],
+          "colors": ["dark ink"],
+          "gold_technique": null,
+          "position": "center of right-hand page; large circular seal visible"
+        }
+      ],
+      "paper_decoration": {
+        "type": "gold_sprinkled",
+        "technique_terms": {
+          "ottoman": "zerefşân / serpme",
+          "persian": "zarafshān",
+          "arabic": "dhahab marshūsh"
+        },
+        "details": "This appears to be a flyleaf or early page from the first gatherings. The page shows an aged cream/light brown surface. A large circular library or vakıf stamp dominates the center of the right-hand page. The catalogue states: 'İlk formaların derkenarları zerefşan tekniğiyle süslenmiştir.' At the current resolution, the zerefşân is subtle — the paper surface shows a slight warm golden cast that could indicate gold sprinkling, but individual particles are not resolvable. The page lacks text block framing or ruling on this particular leaf, suggesting it is a preliminary leaf (flyleaf/endpaper) rather than a text page. The zerefşân would be expected primarily on these early non-text leaves of the first gatherings."
+      },
+      "style_attribution": {
+        "tradition": "Ottoman",
+        "period": "16th–18th century [undated]",
+        "workshop": "Unknown; the Ragıp Paşa collection was assembled by Mehmed Rāġıb Paşa (d. 1176 AH / 1763 CE), providing a terminus ante quem for the manuscript's acquisition",
+        "confidence": 0.35,
+        "justification": "The zerefşân decoration is limited to the first gatherings' margins, which could indicate either original production decoration or later refurbishment when the manuscript was rebound or acquired for the Ragıp Paşa library. The Ragıp Paşa vakfı (endowed 1175 AH) provides a latest possible acquisition date. Without visible illumination or distinctive motifs on this folio, style-based dating is not possible."
+      },
+      "condition_notes": "Paper shows significant aging and darkening. Large library/vakıf stamp on the right page. The zerefşân, if present, has mellowed with age, blending with the darkened paper surface.",
+      "analysis_limitations": "YEK viewer screenshot at moderate resolution. The page shows a preliminary leaf with stamps rather than decorated text pages. Zerefşân on aged, darkened paper is especially difficult to detect at this resolution. The catalogue note specifically states zerefşân is on the first gatherings' margins, and this page appears to be from that zone, but visual confirmation at this resolution remains tentative."
+    },
+    {
+      "folio": "p005",
+      "source_image": "corpus/visual_confirmation_batch1/ragip_pasa_00088_p005_iiif.png",
+      "decoration_type": "paper_decoration",
+      "elements": [
+        {
+          "element_type": "gold-sprinkled margins",
+          "element_type_ottoman": "zerefşân derkenar",
+          "element_type_persian": "zarafshān",
+          "motifs": [],
+          "colors": ["gold particles on cream paper (subtle)"],
+          "gold_technique": "serpme / zerefşân",
+          "position": "margins of the text block (first gatherings)"
+        },
+        {
+          "element_type": "illuminated headpiece",
+          "element_type_ottoman": "serlevha",
+          "element_type_persian": "sarlawḥ",
+          "motifs": ["hatāyī", "rūmī", "penç"],
+          "colors": ["lapis blue (lacivert)", "gold leaf (altın varak)", "red/vermillion", "white", "green", "black"],
+          "gold_technique": "altın varak / sıvama altın",
+          "position": "top of right-hand page text block, rectangular illuminated panel"
+        },
+        {
+          "element_type": "illuminated ruling / gold cedvel",
+          "element_type_ottoman": "müzehheb cedvel",
+          "element_type_persian": "jadval-e muẕahhab",
+          "motifs": [],
+          "colors": ["gold (yaldız)", "red", "blue", "black"],
+          "gold_technique": "altın cedvel",
+          "position": "framing the text block on both pages; multi-line ruling system"
+        },
+        {
+          "element_type": "text block",
+          "element_type_ottoman": "metin sahası",
+          "element_type_persian": null,
+          "motifs": [],
+          "colors": ["black ink", "red ink (rubrics/headings)"],
+          "gold_technique": null,
+          "position": "central text area, written in naskh with Arabic text (Mafātīḥ al-Ghayb / Tefsîr-i Kebîr)"
+        }
+      ],
+      "paper_decoration": {
+        "type": "gold_sprinkled",
+        "technique_terms": {
+          "ottoman": "zerefşân / serpme",
+          "persian": "zarafshān",
+          "arabic": "dhahab marshūsh"
+        },
+        "details": "This opening shows the text incipit with an illuminated headpiece (serlevha) at the top of the right-hand page. The serlevha features a rectangular panel with a densely illuminated field in lapis blue and gold with hatāyī floral scrollwork and rūmī palmettes. Polychrome details in red, white, green, and black are visible within the headpiece. The text block is framed with an elaborate multi-line ruling system (müzehheb cedvel) in gold, red, blue, and black — confirming the catalogue note. The margins show a subtle warm tone consistent with zerefşân on the first gatherings. The left-hand page shows dense Arabic text in naskh script with interlinear and marginal glosses, also within the gold cedvel framing system."
+      },
+      "style_attribution": {
+        "tradition": "Ottoman classical",
+        "period": "16th–17th century [undated]",
+        "workshop": "Competent professional production, possibly court-adjacent or high-level provincial workshop; no colophon attribution available",
+        "confidence": 0.50,
+        "justification": "The illuminated headpiece with lapis blue ground and hatāyī-rūmī program, combined with the elaborate gold ruling system, indicates high-quality Ottoman manuscript production. The Mafātīḥ al-Ghayb (Fakhr al-Dīn al-Rāzī's major Quran commentary) is a prestigious text warranting luxury treatment. The serlevha style with its rectangular format and dense floral program is consistent with Ottoman illumination of the 16th–17th centuries. The gold cedvel extending through the text pages confirms sustained investment in the manuscript's decoration."
+      },
+      "condition_notes": "The illuminated headpiece appears well preserved with intact gold and pigments. Paper shows some aging but is in generally good condition. The müzehheb cedvel system appears continuous and intact.",
+      "analysis_limitations": "YEK viewer screenshot at moderate resolution. The serlevha is small in the image but its general composition and color scheme are identifiable. The zerefşân on the margins remains subtle and not individually resolvable at this resolution — the warm margin tone is suggestive but not conclusive. Only two openings examined; deeper folios would be expected to show the transition point where zerefşân ceases at the end of the first gatherings."
+    }
+  ],
+  "terminology": {
+    "terms_used": [
+      {
+        "concept": "gold-sprinkled paper / margins",
+        "ottoman": "zerefşân / serpme (ilk formaların derkenarlarında)",
+        "arabic": "dhahab marshūsh (ذهب مرشوش)",
+        "persian": "zarafshān / afshān (افشان)",
+        "english": "gold-sprinkled (confined to margins of first gatherings)"
+      },
+      {
+        "concept": "gathering / quire",
+        "ottoman": "forma",
+        "arabic": "kurrāsa (كرّاسة)",
+        "persian": "daftar / kurrāsa",
+        "english": "gathering / quire"
+      },
+      {
+        "concept": "margin",
+        "ottoman": "derkenar / hâşiye",
+        "arabic": "hāmiš (هامش) / ḥāshiya (حاشية)",
+        "persian": "dar-kanār / ḥāshiya",
+        "english": "margin"
+      },
+      {
+        "concept": "illuminated headpiece",
+        "ottoman": "serlevha",
+        "arabic": "ʿunwān (عنوان)",
+        "persian": "sarlawḥ (سرلوح)",
+        "english": "illuminated headpiece at text opening"
+      },
+      {
+        "concept": "gold ruling / frame lines",
+        "ottoman": "müzehheb cedvel / altın cedvel",
+        "arabic": "jadwal muẕahhab (جدول مذهّب)",
+        "persian": "jadval-e muẕahhab (جدول مذهّب)",
+        "english": "gold-illuminated ruling / frame lines"
+      },
+      {
+        "concept": "split-leaf palmette",
+        "ottoman": "rūmī",
+        "arabic": null,
+        "persian": "rūmī",
+        "english": "rūmī: split-leaf palmette, characteristic of Ottoman illumination"
+      },
+      {
+        "concept": "Chinese-derived floral scroll",
+        "ottoman": "hatāyī",
+        "arabic": null,
+        "persian": "khatāʾī (ختایی)",
+        "english": "hatāyī: Chinese-derived lotus and peony floral form"
+      },
+      {
+        "concept": "five-petalled rosette",
+        "ottoman": "penç",
+        "arabic": null,
+        "persian": "panj (پنج)",
+        "english": "penç: five-petalled rosette motif"
+      },
+      {
+        "concept": "endowment / waqf stamp",
+        "ottoman": "vakıf mühürü",
+        "arabic": "khatm al-waqf (ختم الوقف)",
+        "persian": null,
+        "english": "waqf (endowment) stamp identifying library ownership"
+      }
+    ]
+  },
+  "bibliography": [
+    {
+      "citation": "Blair, Sheila S. 'Color and Gold: The Decorated Papers Used in Manuscripts in Later Islamic Times.' Muqarnas 17 (2000): 24–36.",
+      "relevance": "Foundational study of gold-sprinkled and decorated papers in Islamic manuscripts, directly relevant to the zerefşân technique on first-gathering margins.",
+      "relevance_score": 0.95,
+      "access_notes": "Available via JSTOR."
+    },
+    {
+      "citation": "Bloom, Jonathan M. Paper Before Print: The History and Impact of Paper in the Islamic World. New Haven: Yale University Press, 2001.",
+      "relevance": "Essential reference on the history of paper in the Islamic world, including decorated paper techniques.",
+      "relevance_score": 0.80,
+      "access_notes": null
+    },
+    {
+      "citation": "Gacek, Adam. The Arabic Manuscript Tradition: A Glossary of Technical Terms and Bibliography. Leiden: Brill, 2001.",
+      "relevance": "Standard reference for Arabic and Ottoman manuscript terminology, codicological conventions, and quire/gathering structure.",
+      "relevance_score": 0.78,
+      "access_notes": null
+    },
+    {
+      "citation": "Gacek, Adam. Arabic Manuscripts: A Vademecum for Readers. Leiden: Brill, 2009.",
+      "relevance": "Comprehensive vademecum covering manuscript production terminology including ruling, decoration, and paper; essential for contextualising the müzehheb cedvel and serlevha.",
+      "relevance_score": 0.82,
+      "access_notes": null
+    },
+    {
+      "citation": "Tanındı, Zeren. 'Bibliophile Aghas (Eunuchs) at Topkapı Sarayı.' Muqarnas 21 (2004): 333–343.",
+      "relevance": "Examines Ottoman luxury manuscript production and library culture, relevant to understanding high-quality manuscripts with zerefşân and elaborate ruling systems in Istanbul collections.",
+      "relevance_score": 0.65,
+      "access_notes": "Available via JSTOR."
+    },
+    {
+      "citation": "Tanındı, Zeren. 'Manuscript Production in the Ottoman Palace Workshop.' Manuscripts of the Middle East 5 (1990–91): 67–98.",
+      "relevance": "Documents the nakkaşhane-i hümayun's production of illuminated manuscripts including tefsir texts, providing comparative context for the serlevha and cedvel program.",
+      "relevance_score": 0.70,
+      "access_notes": null
+    },
+    {
+      "citation": "Hillenbrand, Robert. Islamic Art and Architecture. London: Thames and Hudson, 1999.",
+      "relevance": "Survey reference for Ottoman illumination traditions and manuscript arts; provides comparative context for the hatāyī-rūmī headpiece program.",
+      "relevance_score": 0.60,
+      "access_notes": null
+    },
+    {
+      "citation": "Bağcı, Serpil, Filiz Çağman, Günsel Renda, and Zeren Tanındı. Osmanlı Resim Sanatı. Ankara: Kültür ve Turizm Bakanlığı, 2006. [In Turkish]",
+      "relevance": "Standard reference for Ottoman manuscript illumination and painting, with extensive coverage of serlevha programs and decorated paper practices in the imperial library.",
+      "relevance_score": 0.72,
+      "access_notes": "In Turkish. Published by the Turkish Ministry of Culture and Tourism."
+    },
+    {
+      "citation": "Rāzī, Fakhr al-Dīn Muḥammad ibn ʿUmar al-. Mafātīḥ al-Ghayb (al-Tafsīr al-Kabīr). 32 vols. Beirut: Dār Iḥyāʾ al-Turāth al-ʿArabī, 1420 AH.",
+      "relevance": "Modern edition of the text — useful for establishing the canonical form and volume structure of this major Quran commentary, which conditions the likely multi-volume format of the manuscript.",
+      "relevance_score": 0.55,
+      "access_notes": "In Arabic."
+    }
+  ],
+  "suggested_collections": [
+    {
+      "institution": "Süleymaniye Yazma Eser Kütüphanesi (multiple collections)",
+      "reason": "The Süleymaniye holds numerous Ottoman Mafātīḥ al-Ghayb copies with comparable decoration programs; direct comparison of zerefşân on first-gathering margins would clarify whether this is a standard Ottoman binding practice for this text.",
+      "digital_access": "https://portal.yek.gov.tr"
+    },
+    {
+      "institution": "Topkapı Sarayı Müzesi Kütüphanesi",
+      "reason": "Imperial library holds high-quality Ottoman tefsir manuscripts with documented nakkaşhane-i hümayun provenance for comparative serlevha and cedvel analysis.",
+      "digital_access": "https://kutuphane.tsmk.gov.tr"
+    }
+  ],
+  "provenance": {
+    "donor": "Mehmed Rāġıb Paşa (محمد راغب پاشا), Grand Vizier of the Ottoman Empire",
+    "waqf": "Ragıp Paşa Vakfı — library endowed 1175 AH / 1762 CE in Istanbul (Koca Mustafa Paşa / Fatih district). Ragıp Paşa died 1176 AH / 1763 CE; his library contains manuscripts acquired during his career as statesman and bibliophile.",
+    "previous_shelfmarks": [],
+    "notes": "Terminus ante quem for the manuscript's acquisition: 1176 AH / 1763 CE (death of Ragıp Paşa). The presence of the vakıf mühürü (endowment stamp) on p003 confirms the manuscript's entry into the waqf library. The zerefşân on the first gatherings' margins may post-date original production — possible later refurbishment at the time of rebinding or incorporation into the library — but this cannot be confirmed without in-person examination."
+  },
+  "analysis_metadata": {
+    "analyzed_date": "2026-02-26",
+    "analyzer": "claude-code-manuscript-pipeline",
+    "image_source": "YEK portal viewer screenshots (portal.yek.gov.tr)",
+    "image_quality_notes": "Viewer screenshots at approximately 1536 px horizontal resolution. Gold sprinkling (zerefşân) on aged cream paper is at the limit of detectability at this resolution; individual particles not resolvable. The catalogue description is the primary positive evidence; visual examination provides supportive (warm margin tone) but not independently confirmatory evidence.",
+    "folios_examined": ["p003", "p005"],
+    "folios_not_examined": "Bulk of manuscript not examined. Folios beyond the first gatherings expected to show plain (non-zerefşân) margins per the catalogue description; no images of mid-text or final quires were available."
+  }
+}

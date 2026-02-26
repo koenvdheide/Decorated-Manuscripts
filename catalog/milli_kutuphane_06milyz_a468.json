@@ -1,0 +1,243 @@
+{
+  "record_id": "milli_kutuphane_06milyz_a468",
+  "collection": {
+    "institution": "Milli Kütüphane",
+    "city": "Ankara",
+    "country": "Turkey",
+    "shelfmark": "06 Mil Yz A 468",
+    "yek_url": null
+  },
+  "manuscript": {
+    "title": "Tarikat-i Nakşibendiye",
+    "author": null,
+    "date_ah": null,
+    "date_ce": "17th–18th century [?]",
+    "format": null,
+    "dimensions_mm": {
+      "height": null,
+      "width": null
+    },
+    "folio_count": null
+  },
+  "paper_decoration": {
+    "types": ["gold_sprinkled"],
+    "summary": "The manuscript is written on burnished gold-sprinkled paper (şâykâllı zerefşân kâğıt). In this technique, fine gold particles are applied to the paper surface and then burnished with a polishing stone (mühre), compressing and integrating the particles into the surface. The result is a subtly lustrous, uniform sheen rather than the raised glitter characteristic of standard serpme. At viewer resolution (~1536 px), the burnished finish is visually indistinguishable from plain cream paper; the identification rests primarily on the YEK catalogue description ('saykalli zerefsan kagit'). The visual confirmation verdict is therefore 'probable' and is explicitly resolution-limited. Higher-resolution imaging (native IIIF tile access or physical examination) is required for definitive confirmation.",
+    "technique_terms": {
+      "ottoman": "şâykâllı zerefşân kâğıt / saykallı zerefşan kağıt",
+      "persian": "zarafshān-e ṣayqalī",
+      "arabic": "dhahab marsūsh maṣqūl"
+    },
+    "catalogue_description": {
+      "paper_field": "saykalli zerefsan kagit",
+      "notes_field": null,
+      "decoration_field": null
+    }
+  },
+  "workshop_attribution": {
+    "primary_tradition": "ottoman",
+    "workshop_centre": null,
+    "date_range_ce": "17th–18th century",
+    "confidence": 0.30,
+    "key_indicators": [
+      "Burnished zerefşân paper, a technique documented in Ottoman manuscript production from at least the 16th century onward",
+      "Naskh script, the standard Ottoman copying hand for prose texts",
+      "Content (Tarikat-i Nakşibendiye) is a Sufi text whose transmission was centred in Ottoman Anatolia and the Balkans from the 16th century"
+    ],
+    "cross_tradition_caveats": [
+      "Burnished gold-sprinkled paper (şâykâllı zerefşân) also appears in Persian and Central Asian production; the technique itself does not unambiguously identify Ottoman origin",
+      "No colophon, illumination, or distinctive codicological features are visible in the examined folio to anchor the attribution more precisely",
+      "Without physical examination or full digitisation, a 17th–18th-century date range is a working hypothesis only"
+    ]
+  },
+  "codicology": null,
+  "visual_confirmation": {
+    "verdict": "probable",
+    "confidence": 0.40,
+    "screenshots_examined": 1,
+    "limitations": [
+      "Only one folio examined (p003); full extent of decorated paper throughout the manuscript is unverified",
+      "YEK viewer resolution (~1536×864 px) is insufficient to resolve burnished gold particles, which are compressed into the paper surface and produce no raised sparkle; the burnished zerefşân subtype is the hardest to detect visually at this resolution",
+      "Identification relies primarily on the YEK catalogue description ('saykalli zerefsan kagit') rather than independent visual evidence",
+      "Direct IIIF tile download was not possible due to HTTP/2 / CORS restrictions; screenshot fallback is the current imaging ceiling for this manuscript",
+      "Higher-resolution imaging (native IIIF at full tile resolution, or physical examination at Milli Kütüphane, Ankara) is required to upgrade verdict from 'probable' to 'confirmed'"
+    ]
+  },
+  "folio_analyses": [
+    {
+      "folio": "p003",
+      "source_image": "corpus/visual_confirmation_batch1/milli_kutuphane_06milyz_a468_p003_iiif.png",
+      "decoration_type": "paper_decoration",
+      "elements": [
+        {
+          "element_type": "burnished gold-sprinkled paper",
+          "element_type_ottoman": "şâykâllı zerefşân kâğıt",
+          "element_type_persian": "zarafshān-e ṣayqalī",
+          "motifs": [],
+          "colors": ["burnished gold particles on cream paper"],
+          "gold_technique": "şâykâllı zerefşân (burnished/polished serpme)",
+          "position": "full page surface"
+        },
+        {
+          "element_type": "text block",
+          "element_type_ottoman": "metin sahası",
+          "element_type_persian": null,
+          "motifs": [],
+          "colors": ["black ink on cream paper"],
+          "gold_technique": null,
+          "position": "central text area, written in naskh script"
+        }
+      ],
+      "paper_decoration": {
+        "type": "gold_sprinkled",
+        "technique_terms": {
+          "ottoman": "şâykâllı zerefşân / saykallı zerefşan",
+          "persian": "zarafshān-e ṣayqalī",
+          "arabic": "dhahab marsūsh maṣqūl"
+        },
+        "details": "The opening shows two pages of text in naskh script. The catalogue describes this as 'saykalli zerefsan kagit' — burnished/polished gold-sprinkled paper. In this technique, gold particles are applied to the paper surface and then burnished with a polishing stone (mühre), compressing and smoothing the particles into the paper surface. This produces a more uniform, subtly lustrous surface rather than the scattered sparkle of standard serpme. At the screenshot resolution, the burnished zerefşân is extremely difficult to detect visually. The paper surface appears as a uniform warm cream, which could be consistent with burnished gold particles integrated into the surface, but the visual evidence alone is insufficient for confident confirmation. The manuscript (Tarikat-i Nakşibendiye) is a Sufi text. No elaborate illumination or ruling system is visible on this folio."
+      },
+      "style_attribution": {
+        "tradition": "Ottoman",
+        "period": "17th–18th century [?]",
+        "workshop": "Unknown; a Nakşibendi-related text, possibly produced in or for a tekke/lodge context",
+        "confidence": 0.30,
+        "justification": "The burnished zerefşân technique on a Sufi text suggests Ottoman production, as zerefşân paper was used across a range of Ottoman manuscript types. Nakşibendi texts circulated widely from the 16th century onward. Without visible illumination, colophon data, or distinctive codicological features, style-based dating is highly uncertain. The use of saykallı (burnished) zerefşân may suggest a somewhat refined production context."
+      },
+      "condition_notes": "Paper appears in fair condition with moderate aging/yellowing. No obvious damage, tears, or repairs visible. The burnished zerefşân, if present, has likely mellowed further with age.",
+      "analysis_limitations": "This is the most resolution-dependent case in the batch. Burnished (şâykâllı) zerefşân is inherently the hardest gold-sprinkled variant to detect, as the burnishing process compresses gold particles into the paper surface, eliminating the raised sparkle that aids identification. At YEK viewer resolution, visual confirmation is essentially impossible for this subtype. The 'probable' verdict relies primarily on the catalogue description rather than independent visual verification. Higher-resolution imaging (native IIIF or physical examination) would be needed for definitive confirmation."
+    }
+  ],
+  "terminology": {
+    "terms_used": [
+      {
+        "concept": "burnished gold-sprinkled paper",
+        "ottoman": "şâykâllı zerefşân kâğıt",
+        "arabic": "dhahab marsūsh maṣqūl",
+        "persian": "zarafshān-e ṣayqalī",
+        "english": "burnished/polished gold-sprinkled paper — gold particles applied then compressed and polished with a burnishing stone (mühre)"
+      },
+      {
+        "concept": "gold-sprinkled paper (general)",
+        "ottoman": "zerefşân / serpme kâğıt / yaldız serpme",
+        "arabic": "dhahab marsūsh (ذهب مرشوش)",
+        "persian": "zarafshān / afshān (افشان)",
+        "english": "gold-sprinkled paper: fine metallic particles hand-scattered on the paper surface"
+      },
+      {
+        "concept": "burnishing / polishing",
+        "ottoman": "şaykâl / şâykâllı",
+        "arabic": "ṣayqal (صَيْقَل)",
+        "persian": "ṣayqalī",
+        "english": "burnishing/polishing; in paper decoration, refers to the compression of gold particles with a mühre (burnishing stone)"
+      },
+      {
+        "concept": "burnishing stone",
+        "ottoman": "mühre",
+        "arabic": null,
+        "persian": null,
+        "english": "polishing / burnishing stone used to compress and smooth gold particles into the paper surface"
+      },
+      {
+        "concept": "text block",
+        "ottoman": "metin sahası",
+        "arabic": null,
+        "persian": null,
+        "english": "text area / text block"
+      },
+      {
+        "concept": "naskh script",
+        "ottoman": "nesih",
+        "arabic": "naskh (نسخ)",
+        "persian": "naskh",
+        "english": "naskh — standard rounded Arabic script used for prose copying in Ottoman manuscripts"
+      }
+    ]
+  },
+  "bibliography": [
+    {
+      "citation": "Blair, Sheila S. 'Color and Gold: The Decorated Papers Used in Manuscripts in Later Islamic Times.' Muqarnas XVII (2000): 24–36.",
+      "relevance": "Foundational survey of decorated paper techniques in Islamic manuscripts, including gold-sprinkled (zerefşân) papers and their production and use in Ottoman and Persianate contexts. Essential reference for the burnished zerefşân technique.",
+      "relevance_score": 0.95,
+      "access_notes": "Peer-reviewed; published in Muqarnas (Brill). Check institutional access."
+    },
+    {
+      "citation": "Bloom, Jonathan M. Paper Before Print: The History and Impact of Paper in the Islamic World. New Haven: Yale University Press, 2001.",
+      "relevance": "Comprehensive history of paper in the Islamic world, covering paper production, treatment, and decoration techniques including gilding and surface finishing. Contextualises the burnished paper tradition.",
+      "relevance_score": 0.80,
+      "access_notes": null
+    },
+    {
+      "citation": "Gacek, Adam. The Arabic Manuscript Tradition: A Glossary of Technical Terms and Bibliography. Leiden: Brill, 2001.",
+      "relevance": "Standard reference for Arabic and Islamic manuscript terminology, including paper and decoration vocabulary. Relevant for term standardisation of dhahab marsūsh and related concepts.",
+      "relevance_score": 0.75,
+      "access_notes": null
+    },
+    {
+      "citation": "Gacek, Adam. Arabic Manuscripts: A Vademecum for Readers. Leiden: Brill, 2009.",
+      "relevance": "Expanded edition of the glossary; essential reference for manuscript terminology, paper types, and production techniques across the Islamic manuscript tradition.",
+      "relevance_score": 0.75,
+      "access_notes": null
+    },
+    {
+      "citation": "Déroche, François. Islamic Codicology: An Introduction to the Study of Manuscripts in Arabic Script. Translated by Deke Dusinberre and David Radzinowicz. London: Al-Furqan Islamic Heritage Foundation, 2005.",
+      "relevance": "Comprehensive codicological reference covering paper, script, layout, and decoration in Arabic-script manuscripts. Provides framework for classifying paper types and decoration in Ottoman manuscripts.",
+      "relevance_score": 0.72,
+      "access_notes": null
+    },
+    {
+      "citation": "Tanındı, Zeren. [Unverified title — to be confirmed against Yapı Kredi Yayınları catalogue or WorldCat] 'Osmanlı Döneminde Zerefşan Kâğıt Kullanımı.' In Osmanlı Sanatında Tezhip ve Minyatür, edited by Zeren Tanındı. Istanbul: Yapı Kredi Yayınları, various editions.",
+      "relevance": "Zeren Tanındı's scholarship on Ottoman illumination and paper decoration is central to understanding zerefşân paper use in the Ottoman court context. Specific reference to be verified against available editions. [Citation in Turkish]",
+      "relevance_score": 0.85,
+      "access_notes": "In Turkish. Verify exact publication details against Yapı Kredi Yayınları catalogue or WorldCat before finalising."
+    },
+    {
+      "citation": "Sturkenboom, Ilse. Chinese Decorated Paper in Persianate Manuscripts. ERC GlobalDecoPaper Project, LMU Munich (forthcoming).",
+      "relevance": "Forthcoming monograph on decorated paper in Persianate manuscripts, including cross-tradition transfer of gold-working and burnishing techniques. Directly relevant to the şâykâllı zerefşân technique and its possible Chinese-paper origins.",
+      "relevance_score": 0.80,
+      "access_notes": "Forthcoming as of 2025–26. Monitor LMU Munich GlobalDecoPaper ERC project outputs: https://www.en.islamicarthistory.uni-muenchen.de/research/globaldecoper/index.html"
+    },
+    {
+      "citation": "Loveday, Helen. Islamic Paper: A Study of the Ancient Craft. London: Archetype Publications, 2001.",
+      "relevance": "Technical study of Islamic paper production including surface treatments, sizing (âhar), and burnishing. Relevant to understanding the mühre burnishing process central to şâykâllı zerefşân.",
+      "relevance_score": 0.78,
+      "access_notes": null
+    },
+    {
+      "citation": "Öngören, Reşat. Osmanlılarda Tasavvuf: Anadolu'da Sûfîler, Devlet ve Ulemâ (XVI. Yüzyıl). Istanbul: İz Yayıncılık, 2000.",
+      "relevance": "Study of Sufism in the Ottoman period, covering the Nakşibendiyye order and its institutional and textual culture. Relevant for contextualising the Tarikat-i Nakşibendiye text type and its manuscript transmission. [In Turkish]",
+      "relevance_score": 0.55,
+      "access_notes": "In Turkish."
+    }
+  ],
+  "suggested_collections": [
+    {
+      "institution": "Milli Kütüphane, Ankara — YEK Portal",
+      "reason": "Holding institution. Higher-resolution imaging of this manuscript should be requested directly from Milli Kütüphane to confirm the burnished zerefşân identification. The YEK portal record provides the catalogue basis for this entry.",
+      "digital_access": "https://portal.yek.gov.tr"
+    },
+    {
+      "institution": "Süleymaniye Kütüphanesi, Istanbul — digitized Sufi text manuscripts",
+      "reason": "Largest Ottoman manuscript collection with strong holdings of Nakşibendi and related Sufi texts. Comparative material for this manuscript type and paper decoration tradition.",
+      "digital_access": "https://portal.yek.gov.tr"
+    },
+    {
+      "institution": "Topkapı Sarayı Müzesi Kütüphanesi, Istanbul",
+      "reason": "Major Ottoman court collection with comparable burnished and decorated paper manuscripts; digitized holdings accessible via YEK.",
+      "digital_access": "https://kutuphane.tsmk.gov.tr"
+    }
+  ],
+  "provenance": {
+    "donor": null,
+    "waqf": null,
+    "previous_shelfmarks": [],
+    "notes": "No provenance information recoverable from the examined folio or available catalogue record. The manuscript is held at Milli Kütüphane, Ankara, under shelfmark 06 Mil Yz A 468. No waqf seal or owner's note visible in the examined screenshot."
+  },
+  "analysis_metadata": {
+    "analyzed_date": "2026-02-26",
+    "analyzer": "claude-code-manuscript-pipeline",
+    "image_source": "YEK portal viewer screenshot (corpus/visual_confirmation_batch1/milli_kutuphane_06milyz_a468_p003_iiif.png)",
+    "image_quality_notes": "Viewer screenshot at approximately 1536×864 px. This resolution is insufficient to resolve burnished gold particles compressed into the paper surface (şâykâllı zerefşân subtype). The burnished technique produces no raised sparkle, making it the most resolution-sensitive decoration type in this batch. The identification is accordingly rated 'probable' and is based primarily on the YEK catalogue description rather than independent visual evidence. Direct IIIF tile download was unavailable due to HTTP/2 / CORS restrictions.",
+    "folios_examined": ["p003"],
+    "folios_not_examined": "All folios other than p003 were not examined. The extent of decorated paper throughout the manuscript — whether all folios, gatherings, or select openings carry the şâykâllı zerefşân — is unknown."
+  }
+}

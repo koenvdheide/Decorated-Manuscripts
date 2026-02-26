@@ -1,0 +1,343 @@
+{
+  "record_id": "esad_efendi_03292-001",
+  "collection": {
+    "institution": "Süleymaniye Kütüphanesi — Esad Efendi Koleksiyonu",
+    "city": "Istanbul",
+    "country": "Turkey",
+    "shelfmark": "Esad Efendi 3292",
+    "yek_url": null
+  },
+  "manuscript": {
+    "title": "Münşeʾât-ı Ünsî",
+    "author": "Ünsî (attributed; uncertain)",
+    "date_ah": null,
+    "date_ce": null,
+    "format": "mecmûʿa (inşâ / epistolary collection)",
+    "dimensions_mm": {
+      "height": null,
+      "width": null
+    },
+    "folio_count": null
+  },
+  "paper_decoration": {
+    "types": ["silver_sprinkled"],
+    "summary": "The manuscript's paper pages exhibit a distinctly cool, grey-blue tonal quality visible across multiple folios, consistent with tarnished silver sprinkling (gümüş yaldız serpmeli). The decoration is attested by the YEK catalogue description ('gümüş yaldız serpmeli kâğıtlar') and corroborated by tonal evidence from viewer screenshots and IIIF imagery, though individual silver particles cannot be resolved at available image resolutions. A striking tonal asymmetry between facing pages in the IIIF view — one cream, one blue-grey — suggests differential density of silver application or differential tarnishing across the gathering. If confirmed, this is currently the only silver-sprinkled manuscript in the corpus. No gold cetvels, halkâr, or other framing decoration is visible. The script throughout is nastaʿlîq.",
+    "technique_terms": {
+      "ottoman": "gümüş yaldız serpmeli",
+      "persian": "sim-efşan (سیم افشان)",
+      "arabic": null
+    },
+    "catalogue_description": {
+      "paper_field": "gümüş yaldız serpmeli kâğıtlar",
+      "notes_field": null,
+      "decoration_field": null
+    }
+  },
+  "workshop_attribution": {
+    "primary_tradition": "ottoman",
+    "workshop_centre": null,
+    "date_range_ce": null,
+    "confidence": 0.25,
+    "key_indicators": [
+      "Ottoman collection (Süleymaniye / Esad Efendi) and nastaʿlîq script consistent with Ottoman literary production",
+      "Münşeʾât (inşâ / letter-collection) format is common in Ottoman courtly and administrative contexts",
+      "Silver-sprinkled paper, if confirmed, is an extremely rare luxury treatment in the Ottoman tradition"
+    ],
+    "cross_tradition_caveats": [
+      "Silver-sprinkled paper (sim-efşan) is better attested in Persian and Persianate contexts; Ottoman use is poorly documented and the technique may indicate Persian-influenced paper stock",
+      "No colophon, scribal signature, patron name, or dated inscription has been identified from available images",
+      "The mecmûʿa format and inşâ content make dating from decoration alone impossible without further evidence",
+      "Physical examination required before any confident attribution is possible"
+    ]
+  },
+  "codicology": null,
+  "visual_confirmation": {
+    "verdict": "probable",
+    "confidence": 0.35,
+    "screenshots_examined": 3,
+    "limitations": [
+      "Viewer screenshot resolution (~1536 × 864 px) insufficient to resolve individual silver particles",
+      "Silver sprinkling is harder to detect than gold sprinkling at low resolution: lower reflectivity and post-tarnishing reduce particle contrast",
+      "Tonal evidence (cool grey-blue cast) is consistent with tarnished silver but cannot exclude colored paper or differential paper stock within the mecmûʿa",
+      "IIIF direct download was unavailable (HTTP/2 / CORS); screenshots are the only imaging source",
+      "Verdict is based on tonal evidence combined with explicit YEK catalogue field ('gümüş yaldız serpmeli kâğıtlar'); no particle-level confirmation achieved"
+    ]
+  },
+  "folio_analyses": [
+    {
+      "folio": "p010",
+      "source_image": "corpus/yek_screenshots/esad_efendi_03292-001_p010.png",
+      "decoration_type": "paper_decoration",
+      "elements": [
+        {
+          "element_type": "silver-sprinkled paper",
+          "element_type_ottoman": "gümüş yaldız serpmeli",
+          "element_type_persian": null,
+          "motifs": [],
+          "colors": ["grey/silver particles on cream-toned paper"],
+          "gold_technique": "gümüş yaldız serpme (silver sprinkling)",
+          "position": "across the paper surface of the text pages"
+        }
+      ],
+      "paper_decoration": {
+        "type": "silver_sprinkled",
+        "technique_terms": {
+          "ottoman": "gümüş yaldız serpmeli",
+          "persian": null,
+          "arabic": null
+        },
+        "details": "Viewer screenshot showing a double-page opening of the Münşeʾât-ı Ünsî. The paper has a slightly muted, greyish tone that could be consistent with tarnished silver sprinkling. Unlike gold-sprinkled manuscripts which show a warm golden tonal quality, this manuscript's margins and paper surface appear cooler in tone. However, at this viewer resolution, individual silver particles are not resolved. The text is in nastaʿlîq script. The left page appears slightly different in tone from the right, possibly indicating different paper stocks or differential tarnishing. No gold cetvels or other framing elements are clearly visible, suggesting the silver sprinkling may be the primary decorative treatment."
+      },
+      "style_attribution": {
+        "tradition": "Ottoman",
+        "period": "uncertain — münşeʾât collections span a wide date range [?]",
+        "workshop": "Cannot be determined from these images",
+        "confidence": 0.30,
+        "justification": "Silver-sprinkled paper (gümüş yaldız serpmeli) is extremely rare in the corpus — this is currently the only candidate example. The technique itself does not strongly indicate a specific workshop or period. The münşeʾât (epistolary collection) format suggests an administrative or literary context. Style attribution requires higher-resolution imaging or physical examination."
+      },
+      "condition_notes": "The paper appears aged with some browning. If silver sprinkling is present, tarnishing of the silver particles over time would darken them and reduce their visibility, which is consistent with the muted grey tone observed.",
+      "analysis_limitations": "Viewer screenshot resolution is insufficient to resolve individual silver particles. Silver sprinkling is harder to detect than gold sprinkling at low resolution due to lower reflectivity and tarnishing. The verdict of 'probable' is based on tonal evidence combined with the explicit catalogue description ('gümüş yaldız serpmeli kâğıtlar'). Physical examination at Süleymaniye Kütüphanesi is strongly recommended to confirm."
+    },
+    {
+      "folio": "p010_zoom",
+      "source_image": "corpus/yek_screenshots/esad_efendi_03292-001_p010_zoom.png",
+      "decoration_type": "paper_decoration",
+      "elements": [
+        {
+          "element_type": "silver-sprinkled paper",
+          "element_type_ottoman": "gümüş yaldız serpmeli",
+          "element_type_persian": null,
+          "motifs": [],
+          "colors": ["grey/silver tarnished particles — tarnished"],
+          "gold_technique": "gümüş yaldız serpme (silver sprinkling)",
+          "position": "paper surface, visible in zoomed view"
+        }
+      ],
+      "paper_decoration": {
+        "type": "silver_sprinkled",
+        "technique_terms": {
+          "ottoman": "gümüş yaldız serpmeli",
+          "persian": null,
+          "arabic": null
+        },
+        "details": "Zoomed viewer screenshot of the same folio. At this closer view, the paper texture is more visible. The surface appears to have a slightly granular or speckled quality that could be consistent with metallic particles, though it remains ambiguous. The paper has a distinctly cool/grey undertone compared to typical warm cream Ottoman paper, which is consistent with tarnished silver particles scattered across the surface. Some areas show slightly lighter speckling against the background, which may represent silver particles that have not fully tarnished. The text in nastaʿlîq is more legible at this zoom. No ruling lines are evident."
+      },
+      "style_attribution": {
+        "tradition": "Ottoman",
+        "period": "uncertain [?]",
+        "workshop": "Cannot be determined",
+        "confidence": 0.30,
+        "justification": "Same assessment as the wider view. The zoomed image provides slightly more textural evidence but remains inconclusive for definitive particle identification."
+      },
+      "condition_notes": "At the zoomed level, the paper shows age-related browning and possible tarnishing of silver particles. The cool grey undertone is more clearly visible at this zoom level.",
+      "analysis_limitations": "Even at the zoomed viewer level, individual silver particles cannot be definitively resolved. The granular texture of the paper surface could represent silver particles, paper fiber texture, or digital compression artifacts. This is the most resolution-sensitive decoration type in the corpus. Physical examination remains essential."
+    },
+    {
+      "folio": "p010_iiif",
+      "source_image": "corpus/yek_screenshots/esad_efendi_03292-001_p010_iiif.png",
+      "decoration_type": "paper_decoration",
+      "elements": [
+        {
+          "element_type": "silver-sprinkled paper",
+          "element_type_ottoman": "gümüş yaldız serpmeli",
+          "element_type_persian": null,
+          "motifs": [],
+          "colors": ["grey/silver tarnished particles on cream paper; distinct blue-grey toned paper on right page"],
+          "gold_technique": "gümüş yaldız serpme (silver sprinkling)",
+          "position": "paper surface"
+        },
+        {
+          "element_type": "colored paper (possible alternative interpretation)",
+          "element_type_ottoman": "mülevven / renkli yaprak",
+          "element_type_persian": null,
+          "motifs": [],
+          "colors": ["blue-grey (mavi-gri)"],
+          "gold_technique": null,
+          "position": "right page appears distinctly blue-grey in color"
+        }
+      ],
+      "paper_decoration": {
+        "type": "silver_sprinkled",
+        "technique_terms": {
+          "ottoman": "gümüş yaldız serpmeli",
+          "persian": null,
+          "arabic": null
+        },
+        "details": "IIIF-sourced image providing the best available resolution for this manuscript. This image reveals a striking tonal difference between the two visible pages: the left page appears to be standard cream/ivory paper with nastaʿlîq text, while the right page has a distinctly blue-grey cast. This blue-grey coloration could represent: (1) the tarnishing effect of dense silver sprinkling darkening the paper overall, (2) a colored (mülevven) paper stock used for the silver-sprinkled leaves, or (3) a different paper stock entirely within this mecmûʿa. The right page also shows a page number '10' in the upper margin. The text on both pages is in nastaʿlîq. The tonal difference between the two pages is the strongest visual evidence for silver sprinkling — if silver particles were densely applied and subsequently tarnished, they would produce exactly this kind of cool grey-blue tone shift compared to untreated paper."
+      },
+      "style_attribution": {
+        "tradition": "Ottoman",
+        "period": "uncertain — the mecmûʿa format and münşeʾât content make dating from decoration alone difficult [?]",
+        "workshop": "Cannot be determined from available images",
+        "confidence": 0.35,
+        "justification": "The IIIF image provides the strongest evidence yet for the silver sprinkling claim. The distinct blue-grey tone of the right page is consistent with densely applied, tarnished silver particles. However, the same visual effect could be produced by colored paper. The rarity of this technique (currently unique in the corpus) makes comparison impossible. The combination of tonal evidence and explicit catalogue description supports a 'probable' verdict."
+      },
+      "condition_notes": "The tonal difference between left and right pages is notable. If this represents differential tarnishing of silver, it suggests the right page may have been more densely sprinkled or exposed to different environmental conditions. Alternatively, the mecmûʿa may contain papers from different sources.",
+      "analysis_limitations": "Even at IIIF resolution, individual silver particles are not definitively resolved. The blue-grey tonal shift is the strongest available evidence but remains open to alternative interpretations (colored paper, different paper stock within mecmûʿa). This manuscript remains the highest-priority candidate for in-person examination at Süleymaniye Kütüphanesi."
+    }
+  ],
+  "terminology": {
+    "terms_used": [
+      {
+        "concept": "silver-sprinkled paper",
+        "ottoman": "gümüş yaldız serpmeli",
+        "arabic": null,
+        "persian": "sim-efşan (سیم افشان)",
+        "english": "silver-sprinkled paper — metallic silver particles scattered on the paper surface; equivalent to gold-sprinkled (zerefşân) but using silver rather than gold"
+      },
+      {
+        "concept": "silver-sprinkled (Persian/Ottoman variant term)",
+        "ottoman": "sim efşan / sim-efşan",
+        "arabic": null,
+        "persian": "sim-efşan (سیم افشان)",
+        "english": "silver-sprinkled; sim (silver) parallels zer (gold) in zer-efşan; found in Ottoman berat documents"
+      },
+      {
+        "concept": "nastaʿlîq script",
+        "ottoman": "nestaʿlîk",
+        "arabic": null,
+        "persian": "nastaʿlīq (نستعلیق)",
+        "english": "hanging script style associated with Persian literary manuscripts; predominant in Ottoman munsha'at and divan manuscripts"
+      },
+      {
+        "concept": "composite manuscript / anthology",
+        "ottoman": "mecmûʿa",
+        "arabic": "majmūʿa (مجموعة)",
+        "persian": null,
+        "english": "composite manuscript or anthology; may contain mixed paper stocks from different sources"
+      },
+      {
+        "concept": "letter collection / inshâ",
+        "ottoman": "münşeʾât / inşâ",
+        "arabic": "munsha'āt (منشآت) / inshāʾ (إنشاء)",
+        "persian": "munsha'āt",
+        "english": "collection of model letters or epistolary pieces; a prestigious literary genre in Ottoman and Persian tradition"
+      },
+      {
+        "concept": "colored paper",
+        "ottoman": "mülevven / renkli yaprak",
+        "arabic": "mulauwwan (ملوّن)",
+        "persian": "mulavvan",
+        "english": "colored / tinted paper (alternative interpretation of the blue-grey tone)"
+      }
+    ]
+  },
+  "bibliography": [
+    {
+      "citation": "Blair, Sheila S. 'Color and Gold: The Decorated Papers Used in Manuscripts in Later Islamic Times.' Muqarnas 17 (2000): 24–36.",
+      "relevance": "Foundational study of decorated papers in Islamic manuscripts, including gold- and silver-sprinkled techniques, distribution across periods and regions, and production methods. Essential reference for contextualizing gümüş yaldız serpmeli paper.",
+      "relevance_score": 0.95,
+      "access_notes": "JSTOR stable URL: https://www.jstor.org/stable/1523296"
+    },
+    {
+      "citation": "Bloom, Jonathan M. Paper Before Print: The History and Impact of Paper in the Islamic World. New Haven: Yale University Press, 2001.",
+      "relevance": "Comprehensive history of paper in the Islamic world, covering manufacture, trade, surface treatment, and the cultural contexts in which decorated papers were produced and used.",
+      "relevance_score": 0.80,
+      "access_notes": null
+    },
+    {
+      "citation": "Loveday, Helen. Islamic Paper: A Study of the Ancient Craft. London: Don Baker Memorial Fund / Archetype, 2001.",
+      "relevance": "Technical study of Islamic paper manufacture, sizing, surface treatment, and decoration methods. Provides technical grounding for understanding silver and gold sprinkling as paper surface treatments.",
+      "relevance_score": 0.78,
+      "access_notes": null
+    },
+    {
+      "citation": "Roxburgh, David J. The Persian Album, 1400–1600: From Dispersal to Collection. New Haven: Yale University Press, 2005.",
+      "relevance": "Detailed study of Timurid and early Safavid album production, including the use of decorated papers (gold- and silver-sprinkled) in murakkaʿ compilation. Provides comparative context for Persianate silver-sprinkled paper traditions that may have influenced Ottoman practice.",
+      "relevance_score": 0.70,
+      "access_notes": null
+    },
+    {
+      "citation": "Sturkenboom, Ilse. 'Chinese Decorated Papers in Persianate Manuscripts.' GlobalDecoPaper ERC Project, LMU Munich (forthcoming).",
+      "relevance": "Forthcoming study of decorated paper transmission in Persianate manuscript traditions; directly relevant for understanding silver-sprinkled (sim-efşan) paper as part of the broader decorated paper trade and practice.",
+      "relevance_score": 0.72,
+      "access_notes": "Project homepage: https://www.globaldecopaper.uni-muenchen.de/ (forthcoming publication; check project website for current status)"
+    },
+    {
+      "citation": "Gacek, Adam. The Arabic Manuscript Tradition: A Glossary of Technical Terms and Bibliography. Leiden: Brill, 2001. Supplement, 2008.",
+      "relevance": "Standard reference for Arabic and Ottoman manuscript terminology; relevant for establishing correct transliteration and classification of the mecmûʿa format and decoration terms.",
+      "relevance_score": 0.65,
+      "access_notes": null
+    },
+    {
+      "citation": "Déroche, François. Islamic Codicology: An Introduction to the Study of Manuscripts in Arabic Script. London: Al-Furqan Islamic Heritage Foundation, 2005. Translated by Deke Dusinberre and David Radzinowicz.",
+      "relevance": "Standard reference for Islamic manuscript codicology; classification of paper types, decoration, and physical description conventions used in this project.",
+      "relevance_score": 0.65,
+      "access_notes": null
+    },
+    {
+      "citation": "Tanındı, Zeren. 'Bibliophile Aghas (Eunuchs) at Topkapı Sarayı.' Muqarnas 21 (2004): 333–343.",
+      "relevance": "Documents the production and commissioning of luxury manuscripts at the Ottoman court, including the use of decorated papers in high-prestige manuscripts. Provides context for understanding when silver-sprinkled paper might appear in Ottoman production.",
+      "relevance_score": 0.58,
+      "access_notes": "JSTOR stable URL: https://www.jstor.org/stable/1523376"
+    },
+    {
+      "citation": "Raby, Julian, and Zeren Tanındı. Turkish Bookbinding in the 15th Century: The Foundation of an Ottoman Court Style. London: Azimuth Editions, 1993.",
+      "relevance": "Documents the establishment of Ottoman court manuscript production conventions, including the adoption of luxury paper treatments. Provides comparative context for the period in which silver-sprinkled paper might have been used in Ottoman manuscript production.",
+      "relevance_score": 0.55,
+      "access_notes": null
+    },
+    {
+      "citation": "Scheper, Karin. The Technique of Islamic Bookbinding: Methods, Materials and Regional Varieties. Leiden: Brill, 2015.",
+      "relevance": "Reference for distinguishing paper decoration from binding decoration in catalogue descriptions; relevant for correctly interpreting the Esad Efendi 3292 YEK record and avoiding false positive confusion between decorated paper and marbled/decorated bindings.",
+      "relevance_score": 0.50,
+      "access_notes": null
+    }
+  ],
+  "suggested_collections": [
+    {
+      "institution": "Süleymaniye Kütüphanesi — Esad Efendi Koleksiyonu (in-person access)",
+      "reason": "The manuscript is held here. Physical examination is the only way to confirm silver sprinkling; direct inspection under raking light or with macro photography would resolve the identification definitively.",
+      "digital_access": "https://portal.yek.gov.tr"
+    },
+    {
+      "institution": "Topkapı Sarayı Müzesi Kütüphanesi",
+      "reason": "Holdings include Ottoman luxury manuscripts with documented decorated papers; comparison with securely identified silver-sprinkled examples in the Topkapı collection (if any) would be highly informative.",
+      "digital_access": "https://kutuphane.tsmk.gov.tr"
+    },
+    {
+      "institution": "Chester Beatty Library, Dublin",
+      "reason": "Major collection of Islamic manuscripts including Ottoman inşâ / münşeʾât volumes with decorated papers; potential for comparative material with silver-sprinkled or sim-efşan paper.",
+      "digital_access": "https://viewer.cbl.ie"
+    },
+    {
+      "institution": "Bibliothèque nationale de France (Gallica)",
+      "reason": "BnF holds Ottoman manuscripts including mecmûʿa volumes that may provide comparative context for decorated paper use in inşâ collections.",
+      "digital_access": "https://gallica.bnf.fr"
+    }
+  ],
+  "provenance": {
+    "donor": "Esad Efendi (collection founder)",
+    "waqf": "Esad Efendi Kütüphanesi vakfı (collection incorporated into Süleymaniye Kütüphanesi)",
+    "previous_shelfmarks": [],
+    "notes": "Esad Efendi (d. 1848) was a prominent Ottoman statesman and collector. His library, now part of the Süleymaniye Kütüphanesi collection system, contains significant Ottoman literary and administrative manuscripts. The collection number '3292' places this manuscript within the Esad Efendi section. The suffix '-001' in the record ID indicates this is the first sub-unit of a composite shelfmark or a cataloguing disambiguation."
+  },
+  "follow_up_items": [
+    {
+      "priority": "HIGH",
+      "action": "In-person examination at Süleymaniye Kütüphanesi — Esad Efendi 3292",
+      "detail": "This is the only known silver-sprinkled manuscript (gümüş yaldız serpmeli) in the corpus. The visual confirmation verdict is 'probable' based on tonal evidence only; individual silver particles cannot be resolved at available image resolutions (~1536 × 864 px screenshots). Physical examination is required to: (1) confirm silver sprinkling via raking-light inspection and/or macro photography; (2) distinguish silver particles from colored paper (mülevven) as the cause of the blue-grey tonal effect; (3) examine the full manuscript for extent of decoration (all leaves or selective); (4) identify any colophon, dating, or scribal notes; (5) assess condition of silver particles (degree of tarnishing, any conservation treatment). REQUEST: Contact Süleymaniye Kütüphanesi reader services to arrange in-person access.",
+      "status": "open"
+    },
+    {
+      "priority": "medium",
+      "action": "Attempt higher-resolution digital imaging",
+      "detail": "If in-person access is delayed, request higher-resolution scan from the YEK digitization team via portal.yek.gov.tr contact form. A resolution of at least 300 dpi at full page (or macro imaging at 600+ dpi) would potentially allow particle identification. Note that IIIF direct download is currently failing (HTTP/2 / CORS issue logged in MEMORY.md Known Issues).",
+      "status": "open"
+    },
+    {
+      "priority": "medium",
+      "action": "Search for comparanda: sim-efşan / gümüş yaldız serpmeli in other collections",
+      "detail": "Silver-sprinkled paper is poorly documented in the literature relative to gold-sprinkled paper. A targeted search in Topkapı, Chester Beatty, BnF, and Bodleian catalogues for 'silver-sprinkled', 'sim-efşan', 'gümüş yaldız', or equivalent terms would establish whether this is truly a corpus rarity or a cataloguing gap. The GlobalDecoPaper ERC project (LMU Munich) may have relevant data.",
+      "status": "open"
+    }
+  ],
+  "analysis_metadata": {
+    "analyzed_date": "2026-02-26",
+    "analyzer": "claude-code-manuscript-pipeline",
+    "image_source": "YEK portal viewer screenshots + IIIF (screenshot fallback due to IIIF direct download failure)",
+    "image_quality_notes": "Three screenshots examined: standard viewer (double-page spread), zoomed viewer, and IIIF-sourced image. All are screenshot captures at approximately 1536 × 864 px. This resolution is insufficient to resolve individual silver particles. The IIIF direct download (which would have provided higher-resolution tiles) failed due to HTTP/2 / CORS issues. The tonal analysis is accordingly limited to chromatic evidence. This is the most resolution-sensitive classification in the corpus; the 'probable' verdict reflects this constraint.",
+    "folios_examined": ["p010", "p010_zoom", "p010_iiif"],
+    "folios_not_examined": "Only p010 (in three capture variants) was available for analysis. The manuscript is a mecmûʿa of unknown total folio count; the extent of silver-sprinkled paper across the full manuscript is unknown. In-person examination should assess all leaves."
+  }
+}

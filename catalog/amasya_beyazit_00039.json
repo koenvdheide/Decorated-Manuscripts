@@ -1,0 +1,223 @@
+{
+  "record_id": "amasya_beyazit_00039",
+  "collection": {
+    "institution": "Amasya Beyazıt Kütüphanesi",
+    "city": "Amasya",
+    "country": "Turkey",
+    "shelfmark": "39",
+    "yek_url": "https://portal.yek.gov.tr/yekis/index.xhtml?yek_id=385846"
+  },
+  "manuscript": {
+    "title": "ʿUmdetu'l-Ḥuffāẓ fî Tefsîri Eşrefi'l-Elfāẓ (عمدة الحفاظ في تفسير أشرف الألفاظ)",
+    "author": "Aḥmad b. Yūsuf al-Ḥalabī, known as Samīn al-Ḥalabī (d. 756/1355)",
+    "date_ah": "1177",
+    "date_ce": "1763–1764",
+    "format": "single manuscript volume",
+    "dimensions_mm": {
+      "height": null,
+      "width": null
+    },
+    "folio_count": null
+  },
+  "paper_decoration": {
+    "types": ["gold_worked", "framing_system"],
+    "summary": "The first two pages (ff. 1b–2a) bear gold-worked (zerkâri) borders and gold-worked margins. The colophon section (hâtime) is similarly zerkâri-decorated. All pages carry gold cetvels (ruling lines). The decoration programme concentrates luxury treatment on the opening leaves and at the terminal colophon — a characteristic pattern of later Ottoman tafsīr manuscripts. The full extent of the margin zerkâri is not confirmable from the digitized portion alone (only 112 of approximately 952 pages are digitized), but the catalogue description by Ahmet Ali Balcı, a reliable recorder of this collection, explicitly documents 'ilk iki sayfa zerkâri-bordürlü, kenarları, hâtime zerkâri'.",
+    "technique_terms": {
+      "ottoman": "zerkâri; zerkâri-bordürlü; hâtime zerkâri; altın cedvel",
+      "persian": "zarkārī (زرکاری)",
+      "arabic": null
+    },
+    "catalogue_description": {
+      "paper_field": null,
+      "notes_field": "ilk iki sayfa zerkârî-bordürlü, kenarları, hâtime zerkârî",
+      "decoration_field": null
+    }
+  },
+  "workshop_attribution": {
+    "primary_tradition": "ottoman",
+    "workshop_centre": "Amasya or Istanbul — uncertain (provincial versus capital production)",
+    "date_range_ce": "1763–1764",
+    "confidence": 0.60,
+    "key_indicators": [
+      "Dated AH 1177 / CE 1763–64: late Ottoman period, consistent with continued luxury tafsīr production",
+      "Zerkâri-bordürlü on opening pages and hâtime: characteristic concentration at liminal zones of the codex",
+      "Gold cetvels throughout: standard late Ottoman framing system",
+      "Amasya Beyazıt collection context: manuscripts range from locally produced to Istanbul-made and later deposited in Amasya"
+    ],
+    "cross_tradition_caveats": [
+      "No colophon copying-place notation survives in the digitized portion; Istanbul versus provincial Amasya production cannot be resolved visually",
+      "The 18th-century date places this in a period of diffuse Ottoman luxury production — regional workshops were capable of equivalent programmes",
+      "Zerkâri limited to opening bifolio and hâtime (not throughout) may indicate a provincial or modest-budget commission rather than full court-level production"
+    ]
+  },
+  "codicology": null,
+  "visual_confirmation": {
+    "verdict": "probable",
+    "confidence": 0.65,
+    "screenshots_examined": 4,
+    "limitations": [
+      "Colophon (hâtime zerkâri) not capturable — digitization covers only pages 1–112 of approximately 952 total pages",
+      "Margin zerkâri decoration not clearly distinguishable from plain aged margins at current resolution",
+      "p003 shows very worn cover with stamps — no decoration visible",
+      "Gold-worked border detail on opening pages is consistent with 'zerkâri-bordürlü' but fine pattern structure is not fully resolved at screenshot resolution"
+    ]
+  },
+  "folio_analyses": [
+    {
+      "folio": "ff. 1b–2a (IIIF p004)",
+      "source_image": "corpus/visual_confirmation_batch2/amasya_beyazit_00039_p004_iiif.png",
+      "decoration_types": ["gold_worked", "framing_system"],
+      "elements": [
+        {
+          "type": "gold_worked_borders",
+          "description": "Gold cetvels (frame lines) and geometric border patterns visible around both text blocks on the double-page opening. The gold frames are consistent with 'zerkâri-bordürlü' (gold-worked borders). A geometric pattern is discernible in the gutter between the two pages. Detailed gold-worked border motifs not fully resolved at current screenshot resolution.",
+          "location": "outer borders and inner frame of ff. 1b–2a",
+          "confidence": 0.65
+        },
+        {
+          "type": "framing_system",
+          "description": "Multi-line cetvels (jadwal) in gold framing both text blocks. The ruling system is consistent with late Ottoman luxury production of religious texts.",
+          "location": "full text block on both pages",
+          "confidence": 0.85
+        }
+      ],
+      "script": "naskh (Arabic lexicographic text)",
+      "notes": "First text opening of a large Arabic lexicographic work (approximately 952 pages). Gold frame lines clearly present; fine zerkâri motif structure requires higher resolution or in-person examination for full characterisation."
+    },
+    {
+      "folio": "f. [mid-text] (IIIF p005)",
+      "source_image": "corpus/visual_confirmation_batch2/amasya_beyazit_00039_p005_iiif.png",
+      "decoration_types": ["framing_system"],
+      "elements": [
+        {
+          "type": "framing_system",
+          "description": "Gold cetvels with continued ruling lines framing the text block. No zerkâri or other margin decoration visible on this subsequent page, consistent with the 'ilk iki sayfa' (first two pages) scope of the decorative programme.",
+          "location": "text block frame",
+          "confidence": 0.85
+        }
+      ],
+      "script": "naskh",
+      "notes": "Subsequent page confirms that gold ruling continues throughout but zerkâri decoration is confined to the opening leaves."
+    }
+  ],
+  "terminology": {
+    "terms_used": [
+      {
+        "concept": "gold-worked decoration / borders",
+        "ottoman": "zerkâri-bordürlü (زرکاری بوردورلو)",
+        "arabic": null,
+        "persian": "zarkārī (زرکاری)",
+        "english": "gold-worked with border treatment: motifs in gold applied to the border zone of the page"
+      },
+      {
+        "concept": "first two pages [scope specification]",
+        "ottoman": "ilk iki sayfa",
+        "arabic": null,
+        "persian": null,
+        "english": "first two pages — Ottoman catalogue phrase specifying that zerkâri is limited to the opening bifolio"
+      },
+      {
+        "concept": "colophon / conclusion section",
+        "ottoman": "hâtime",
+        "arabic": "khātima (خاتمة)",
+        "persian": "khātima",
+        "english": "conclusion section, often containing scribal and production notes; here also bearing zerkâri decoration"
+      },
+      {
+        "concept": "ruling lines / frame",
+        "ottoman": "cedvel / cetvel",
+        "arabic": "jadwal (جدول)",
+        "persian": "jadval",
+        "english": "ruling lines framing the text block"
+      },
+      {
+        "concept": "margin / side decoration",
+        "ottoman": "kenar",
+        "arabic": "hāmish (هامش)",
+        "persian": "dar-kanār",
+        "english": "margin; in this catalogue context refers to margin decoration zone"
+      }
+    ]
+  },
+  "bibliography": [
+    {
+      "citation": "Balcı, Ahmet Ali (cataloguer). YEK Portal catalogue record for Amasya Beyazıt Kütüphanesi MS 39 (YEK ID 385846). portal.yek.gov.tr.",
+      "relevance": "Primary source: catalogue entry documenting 'ilk iki sayfa zerkârî-bordürlü, kenarları, hâtime zerkârî'. Ahmet Ali Balcı is the principal cataloguer for the Amasya Beyazıt collection in YEK.",
+      "relevance_score": 1.0,
+      "access_notes": "Accessible at https://portal.yek.gov.tr/yekis/index.xhtml?yek_id=385846"
+    },
+    {
+      "citation": "Samīn al-Ḥalabī, Aḥmad b. Yūsuf (d. 756/1355). ʿUmdat al-Ḥuffāẓ fī Tafsīr Ashraf al-Alfāẓ. Ed. Muḥammad Bāsil ʿUyūn al-Sūd. 4 vols. Beirut: Dār al-Kutub al-ʿIlmiyya, 1996.",
+      "relevance": "Critical edition of the primary text: a major Arabic Quranic lexicographic work. Understanding the text's madrasa-curriculum status explains the frequency of luxury manuscript production of this title.",
+      "relevance_score": 0.75,
+      "access_notes": "Available in research libraries."
+    },
+    {
+      "citation": "Blair, Sheila S. 'Color and Gold: The Decorated Papers Used in Manuscripts in Later Islamic Times.' Muqarnas 17 (2000): 24–36.",
+      "relevance": "Key reference on decorated paper techniques including zerkâri, with comparative examples from Ottoman and Persian manuscripts. Essential for situating this manuscript's gold-worked opening pages within the broader tradition.",
+      "relevance_score": 0.90,
+      "access_notes": "Available via JSTOR."
+    },
+    {
+      "citation": "Tanındı, Zeren. 'Some Problems of Ottoman Manuscript Illumination.' Manuscripts of the Middle East 4 (1989): 54–59.",
+      "relevance": "Foundational study on Ottoman manuscript illumination, addressing the relationship between Istanbul court production and provincial copies, directly relevant to the attribution question for this Amasya manuscript.",
+      "relevance_score": 0.75,
+      "access_notes": "Available in research libraries; open-access via Leiden University."
+    },
+    {
+      "citation": "Tanındı, Zeren. 'Bibliophile Aghas (Eunuchs) at Topkapı Sarayı.' Muqarnas 21 (2004): 333–343.",
+      "relevance": "Addresses 18th-century Ottoman manuscript culture, patronage networks, and production centres outside the court proper — relevant to contextualising a dated 1763–64 luxury tafsīr copy from Amasya.",
+      "relevance_score": 0.65,
+      "access_notes": "Available via JSTOR."
+    },
+    {
+      "citation": "Gacek, Adam. Arabic Manuscripts: A Vademecum for Readers. Brill, Leiden/Boston, 2009.",
+      "relevance": "Standard reference for Arabic manuscript codicology and terminology, including colophon conventions (hâtime), ruling systems, and decoration programme vocabulary.",
+      "relevance_score": 0.70,
+      "access_notes": "Available in research libraries."
+    },
+    {
+      "citation": "Déroche, François. The Abbasid Tradition: Qurʾāns of the 8th to the 10th Centuries AD. Nasser D. Khalili Collection of Islamic Art, Vol. I. London: The Nour Foundation / Azimuth Editions / Oxford University Press, 1992.",
+      "relevance": "Reference for Arabic manuscript decoration conventions and the typology of decorated openings; contextualises the treatment of the opening bifolio and colophon as privileged zones for luxury decoration.",
+      "relevance_score": 0.50,
+      "access_notes": "Available in major research libraries."
+    },
+    {
+      "citation": "Hillenbrand, Robert. Islamic Art and Architecture. London: Thames and Hudson, 1999.",
+      "relevance": "Broad survey providing context for Ottoman manuscript production within the wider Islamic arts tradition; includes discussion of the role of religious texts in generating luxury book arts.",
+      "relevance_score": 0.45,
+      "access_notes": "Available in research libraries."
+    }
+  ],
+  "suggested_collections": [
+    {
+      "institution": "YEK Portal — Amasya Beyazıt Kütüphanesi cluster",
+      "reason": "Six further manuscripts in the Amasya Beyazıt collection (shelfmarks 1, 50, 41, 53, 270, 1884) share the same zerkâri decoration family per cataloguer Ahmet Ali Balcı; comparative examination is recommended to establish the range of the programme.",
+      "digital_access": "https://portal.yek.gov.tr"
+    },
+    {
+      "institution": "Süleymaniye Kütüphanesi",
+      "reason": "Major repository of Ottoman religious manuscripts with luxury decoration programmes; comparable zerkâri-decorated tafsīr copies are likely held in multiple Süleymaniye collections.",
+      "digital_access": "https://portal.yek.gov.tr"
+    }
+  ],
+  "provenance": {
+    "donor": null,
+    "waqf": null,
+    "previous_shelfmarks": [],
+    "notes": "Held in the Amasya Beyazıt Kütüphanesi, a major provincial Ottoman library founded by Sultan Bayezid II in Amasya. The collection preserves manuscripts originally in Amasya's madrasas and institutions, associated with the city's long history as an Ottoman provincial centre and seat of şehzade education. No vakıf inscription is documented in the YEK catalogue entry for this manuscript. Catalogued by Ahmet Ali Balcı as part of the Amasya Beyazıt digitisation programme. IIIF identifier: 0000000381545. Digitised pages: approximately 112 of approximately 952 total pages (c. 12% coverage)."
+  },
+  "analysis_metadata": {
+    "analyzed_date": "2026-02-26",
+    "analyzer": "claude-code-manuscript-pipeline / metadata-generator (claude-sonnet-4-6)",
+    "image_source": "YEK portal IIIF viewer — Amasya Beyazıt Kütüphanesi digitized images (IIIF ID 0000000381545)",
+    "image_quality_notes": "Four screenshots examined (p003, p004, p005, p111) at moderate resolution (approximately 1600 px width). Gold cetvels and frame borders clearly resolved on opening pages. Fine zerkâri motif structure in borders and margins not fully resolvable at this resolution. Hatime (colophon) pages not digitized.",
+    "folios_examined": [
+      "Cover / preliminary pages (IIIF p003)",
+      "ff. 1b–2a first text opening (IIIF p004)",
+      "ff. 2b–3a (IIIF p005)",
+      "Mid-text spread (IIIF p111)"
+    ],
+    "folios_not_examined": "Hatime (colophon section with zerkâri) not digitized — approximately 840 pages (pp. 113–952) unavailable in the digitized sequence. Full extent of margin decoration not examinable."
+  }
+}

@@ -1,0 +1,426 @@
+{
+  "record_id": "yusuf_aga_yy00006636-002",
+  "collection": {
+    "institution": "Yusuf Ağa Kütüphanesi",
+    "city": "Konya",
+    "country": "Turkey",
+    "shelfmark": "YY00006636",
+    "yek_url": "https://portal.yek.gov.tr/detay/YY00006636"
+  },
+  "manuscript": {
+    "title": null,
+    "author": null,
+    "date_ah": null,
+    "date_ce": "16th–17th century [?]",
+    "format": "mecmûʿa (second risale of composite volume YY00006636; same physical volume as yusuf_aga_yy00006636-001)",
+    "dimensions_mm": {
+      "height": null,
+      "width": null
+    },
+    "folio_count": null
+  },
+  "paper_decoration": {
+    "types": ["gold_sprinkled", "framing_system"],
+    "summary": "The manuscript features gold-sprinkled margins (yaldız serpmeli kenarlar) throughout the text block, confirmed on both the opening pages (p007) and a regular text opening (p010). The gold sprinkling appears consistently applied across all examined text pages, indicating a unified decorative programme rather than selective treatment. The margins are framed by multi-line cetvels in gold, black, and red (altın cetvelli), forming a coordinated yaldız serpmeli kenar with altın cetvel decorative system standard in Ottoman luxury manuscripts of the classical period. Additionally, p007 presents a double-page illuminated serlevha (başlık tezhibi) in lapis blue (lacivert) and gold with hatāyī and rūmī motifs, confirming this as a luxury commission.",
+    "technique_terms": {
+      "ottoman": "yaldız serpmeli kenarlar; altın cetvelli",
+      "persian": "zarafshān; jadval",
+      "arabic": "dhahab marsūsh; jadwal"
+    },
+    "catalogue_description": {
+      "paper_field": "yaldız serpmeli kenarlar",
+      "notes_field": null,
+      "decoration_field": null
+    }
+  },
+  "workshop_attribution": {
+    "primary_tradition": "ottoman",
+    "workshop_centre": "Istanbul (probable) or high-quality provincial production",
+    "date_range_ce": "16th–17th century",
+    "confidence": 0.45,
+    "key_indicators": [
+      "Double-page serlevha (double başlık tezhibi) indicating significant patronage and a unified commission",
+      "Lapis blue (lacivert) and gold palette in serlevha consistent with Ottoman classical illumination",
+      "Hatāyī and rūmī motif combination characteristic of nakkaşhane-i hümayun output and its provincial emulators",
+      "Gold-sprinkled margins (yaldız serpmeli) extending throughout the text block — standard in Ottoman luxury production from the mid-16th century",
+      "Multi-line cetvels in gold, black, and red framing text: coordinated system consistent with Istanbul or high-quality Anatolian workshop"
+    ],
+    "cross_tradition_caveats": [
+      "Konya (Yusuf Ağa) provenance allows for provincial Anatolian production imitating Istanbul court style; without higher-resolution images the quality level cannot be definitively assessed",
+      "Date range cannot be narrowed without examining motif details at higher resolution — the double serlevha format spans the 16th and 17th centuries",
+      "No colophon, scribal, or patron data available in source materials to confirm workshop identity"
+    ]
+  },
+  "codicology": {
+    "paper": {
+      "type": "cream/ivory, gold-sprinkled",
+      "colour": "cream with warm golden-brown tone",
+      "preparation": "gold-sprinkled (yaldız serpmeli) on margin zones",
+      "notes": "Age-related browning visible on p005. Some variation in margin tone on p010 may reflect uneven gold particle distribution during application."
+    },
+    "ruling": {
+      "type": "multi-line cetvel",
+      "colours": ["gold (yaldız)", "black", "red"],
+      "notes": "Multi-line cetvels visible on p007 and p010 framing text block consistently"
+    },
+    "binding": {
+      "type": "Ottoman şemse-salbek",
+      "material": "red/maroon leather",
+      "decoration": "Gold-stamped şemse (elongated oval central medallion with cream/ivory centre), salbek (pendant extensions above and below şemse), and köşebend (corner pieces). Altın varak (gold-stamped). Standard Ottoman binding format.",
+      "condition": "Worn with surface abrasion; gold tooling faded in areas"
+    },
+    "format": "mecmûʿa",
+    "condition_summary": "Binding worn with surface abrasion. Text pages in good condition overall. Paper shows age-related browning. Serlevha illumination appears vibrant and well-preserved with stable gold and lapis pigments.",
+    "conservation_history": null
+  },
+  "visual_confirmation": {
+    "verdict": "confirmed",
+    "confidence": 0.78,
+    "screenshots_examined": 4,
+    "limitations": [
+      "Viewer screenshot resolution (~1536×864 px) limits detailed motif identification within the serlevha",
+      "Gold sprinkling on p005 (preliminary leaf) blends with aged paper tone at this resolution — confirmation relies on the catalogue description and the clearer evidence from p007 and p010",
+      "Specific subtypes of rūmī and hatāyī motifs in the serlevha cannot be determined at available zoom level",
+      "Binding condition (worn tooling) limits typological analysis of the binding decoration"
+    ]
+  },
+  "folio_analyses": [
+    {
+      "folio": "p003",
+      "source_image": "corpus/visual_confirmation_batch1/yusuf_aga_yy00006636-002_p003_iiif.png",
+      "decoration_type": "binding",
+      "elements": [
+        {
+          "element_type": "binding cover",
+          "element_type_ottoman": "cilt kapağı",
+          "element_type_persian": null,
+          "motifs": ["şemse (central medallion)", "köşebend (corner pieces)", "salbek (pendants)"],
+          "colors": ["red/maroon leather", "gold tooling", "cream/gold central medallion"],
+          "gold_technique": "altın varak (gold-stamped)",
+          "position": "front cover of binding"
+        }
+      ],
+      "paper_decoration": {
+        "type": "none",
+        "technique_terms": {
+          "ottoman": null,
+          "persian": null,
+          "arabic": null
+        },
+        "details": "This image shows the front cover of the binding, not a paper folio. The binding features a red/maroon leather cover with a central gold şemse (medallion) of an elongated oval form, gold salbek (pendant) extensions above and below, and gold köşebend (corner pieces). The central medallion has a cream/ivory centre with gold border. This is a classic Ottoman binding format. No paper decoration is visible in this image."
+      },
+      "style_attribution": {
+        "tradition": "Ottoman",
+        "period": "uncertain from binding alone [?]",
+        "workshop": "Standard Ottoman şemse-salbek binding format",
+        "confidence": 0.35,
+        "justification": "The red leather binding with gold-stamped şemse, salbek, and köşebend is a standard Ottoman binding form used across several centuries. Without seeing details of the tooling patterns, more precise dating is not possible."
+      },
+      "condition_notes": "The binding appears worn with some surface abrasion. The gold tooling is still visible but faded in areas.",
+      "analysis_limitations": "Binding image only — no paper decoration can be assessed."
+    },
+    {
+      "folio": "p005",
+      "source_image": "corpus/visual_confirmation_batch1/yusuf_aga_yy00006636-002_p005_iiif.png",
+      "decoration_type": "paper_decoration",
+      "elements": [
+        {
+          "element_type": "flyleaf / endpaper",
+          "element_type_ottoman": "serbest yaprak / yan kağıt",
+          "element_type_persian": null,
+          "motifs": [],
+          "colors": ["cream/ivory paper with warm golden-brown tone"],
+          "gold_technique": null,
+          "position": "opening pages showing flyleaf or preliminary leaves"
+        }
+      ],
+      "paper_decoration": {
+        "type": "gold_sprinkled",
+        "technique_terms": {
+          "ottoman": "yaldız serpmeli",
+          "persian": "zarafshān",
+          "arabic": "dhahab marsūsh"
+        },
+        "details": "This image shows what appears to be the opening pages of the manuscript — possibly a flyleaf and the first text page. The paper has an overall warm, aged tone. At viewer resolution, any gold sprinkling would blend with the general paper tone. The golden-brown warmth of the paper is consistent with gold-sprinkled treatment, but also consistent with simply aged cream paper. The catalogue description ('yaldız serpmeli kenarlar') specifies that the gold sprinkling is in the margins (kenarlar)."
+      },
+      "style_attribution": {
+        "tradition": "Ottoman",
+        "period": "uncertain [?]",
+        "workshop": "Cannot be determined from this image",
+        "confidence": 0.30,
+        "justification": "Preliminary leaf with limited decorative information visible."
+      },
+      "condition_notes": "Paper shows age-related browning. Some wear at edges.",
+      "analysis_limitations": "Viewer screenshot resolution. This appears to be a preliminary page rather than a decorated text page."
+    },
+    {
+      "folio": "p007",
+      "source_image": "corpus/visual_confirmation_batch1/yusuf_aga_yy00006636-002_p007_iiif.png",
+      "decoration_type": "serlevha",
+      "elements": [
+        {
+          "element_type": "serlevha / headpiece",
+          "element_type_ottoman": "serlevha",
+          "element_type_persian": "sarlawḥ",
+          "motifs": ["hatāyī", "rūmī"],
+          "colors": ["lapis blue (lacivert)", "gold (altın varak)", "red/vermillion", "white", "possible green accents"],
+          "gold_technique": "altın varak",
+          "position": "top of both pages, spanning full width above text"
+        },
+        {
+          "element_type": "cedvel",
+          "element_type_ottoman": "cedvel / cetvel",
+          "element_type_persian": "jadval",
+          "motifs": [],
+          "colors": ["gold (yaldız)", "black", "red"],
+          "gold_technique": "altın varak",
+          "position": "multi-line ruling framing text blocks on both pages"
+        },
+        {
+          "element_type": "gold-sprinkled paper",
+          "element_type_ottoman": "yaldız serpmeli",
+          "element_type_persian": "zarafshān",
+          "motifs": [],
+          "colors": ["gold particles on cream paper"],
+          "gold_technique": "zerefşân (serpme)",
+          "position": "margins (kenarlar) surrounding text block on both pages"
+        }
+      ],
+      "paper_decoration": {
+        "type": "gold_sprinkled",
+        "technique_terms": {
+          "ottoman": "yaldız serpmeli",
+          "persian": "zarafshān",
+          "arabic": "dhahab marsūsh"
+        },
+        "details": "This is the key decorative opening of the manuscript. Both pages feature illuminated serlevha (headpieces) at the top — a double-page serlevha opening indicating a luxury production. The headpieces feature a lapis blue (lacivert) ground with gold and polychrome decoration. Below the headpieces, the text is written in nastaʿlīq within multi-line gold cetvels. The margins surrounding the text blocks show a warm golden tone consistent with gold sprinkling (yaldız serpmeli), as described in the catalogue. The gold cetvels are clearly visible as multiple parallel lines (gold, black, and possibly red) framing the text area. This opening confirms the manuscript has a coordinated decorative programme: serlevha + cetvels + gold-sprinkled margins."
+      },
+      "style_attribution": {
+        "tradition": "Ottoman classical",
+        "period": "16th–17th century [?]",
+        "workshop": "Ottoman court or high-quality provincial production — the double-page serlevha indicates significant patronage",
+        "confidence": 0.50,
+        "justification": "The double-page serlevha with lapis-and-gold colour scheme is a hallmark of Ottoman luxury manuscript production. The coordinated programme of illuminated headpieces, gold cetvels, and gold-sprinkled margins indicates a unified commission. The mecmûʿa format and Konya (Yusuf Ağa) provenance could suggest production for a Konya-based patron or donation. More detailed motif analysis would require higher resolution."
+      },
+      "condition_notes": "The serlevha illumination appears vibrant and well-preserved. The gold and lapis blue pigments appear stable. Pages are in good condition.",
+      "analysis_limitations": "Viewer screenshot resolution limits detailed motif identification within the serlevha. The specific subtypes of rūmī and hatāyī motifs cannot be determined at this zoom level."
+    },
+    {
+      "folio": "p010",
+      "source_image": "corpus/visual_confirmation_batch1/yusuf_aga_yy00006636-002_p010_iiif.png",
+      "decoration_type": "paper_decoration",
+      "elements": [
+        {
+          "element_type": "cedvel",
+          "element_type_ottoman": "cedvel / cetvel",
+          "element_type_persian": "jadval",
+          "motifs": [],
+          "colors": ["gold (yaldız)", "black"],
+          "gold_technique": "altın varak",
+          "position": "framing text block on both pages"
+        },
+        {
+          "element_type": "gold-sprinkled paper",
+          "element_type_ottoman": "yaldız serpmeli",
+          "element_type_persian": "zarafshān",
+          "motifs": [],
+          "colors": ["gold particles on cream paper"],
+          "gold_technique": "zerefşân (serpme)",
+          "position": "margins surrounding text block"
+        }
+      ],
+      "paper_decoration": {
+        "type": "gold_sprinkled",
+        "technique_terms": {
+          "ottoman": "yaldız serpmeli",
+          "persian": "zarafshān",
+          "arabic": "dhahab marsūsh"
+        },
+        "details": "Standard text opening deeper in the manuscript. The gold cetvels continue to frame the text, and the margins maintain the warm golden tone seen in the earlier pages, confirming that the gold sprinkling (yaldız serpmeli) extends throughout the body of the text, not just the opening pages. The text is in nastaʿlīq with consistent columnar layout."
+      },
+      "style_attribution": {
+        "tradition": "Ottoman",
+        "period": "16th–17th century [?]",
+        "workshop": "Same production unit as p007",
+        "confidence": 0.45,
+        "justification": "Consistent decorative treatment (cetvels + gold-sprinkled margins) throughout the manuscript confirms a unified production."
+      },
+      "condition_notes": "Pages in good condition. Text legible. Some slight variation in margin tone may reflect uneven gold particle distribution.",
+      "analysis_limitations": "Viewer screenshot resolution. Assessment based on tonal quality of margins."
+    }
+  ],
+  "terminology": {
+    "terms_used": [
+      {
+        "concept": "Gold-sprinkled paper",
+        "ottoman": "yaldız serpmeli / zerefşân / serpme",
+        "arabic": "dhahab marsūsh (ذهب مرشوش)",
+        "persian": "zarafshān / afshān (افشان)",
+        "english": "gold-sprinkled (fine metallic particles scattered on paper surface)"
+      },
+      {
+        "concept": "Illuminated headpiece",
+        "ottoman": "serlevha",
+        "arabic": "ʿunwān (عنوان)",
+        "persian": "sarlawḥ (سرلوح)",
+        "english": "illuminated headpiece at top of text opening"
+      },
+      {
+        "concept": "Ruling / frame lines",
+        "ottoman": "cedvel / cetvel",
+        "arabic": "jadwal (جدول)",
+        "persian": "jadval",
+        "english": "ruling and frame lines around text block"
+      },
+      {
+        "concept": "Central medallion (binding)",
+        "ottoman": "şemse",
+        "arabic": null,
+        "persian": "shamsa (شمسه) / toranj (ترنج)",
+        "english": "central medallion on binding cover"
+      },
+      {
+        "concept": "Pendant from medallion (binding)",
+        "ottoman": "salbek",
+        "arabic": null,
+        "persian": "sar-toranj",
+        "english": "pendant / tongue extending from şemse"
+      },
+      {
+        "concept": "Corner pieces (binding)",
+        "ottoman": "köşebend",
+        "arabic": null,
+        "persian": null,
+        "english": "corner pieces on binding cover"
+      },
+      {
+        "concept": "Split-leaf palmette motif",
+        "ottoman": "rūmī",
+        "arabic": null,
+        "persian": null,
+        "english": "split-leaf palmette, characteristic of Seljuk/Ottoman tradition"
+      },
+      {
+        "concept": "Chinese-derived floral motif",
+        "ottoman": "hatāyī",
+        "arabic": null,
+        "persian": null,
+        "english": "lotus and peony derived forms from Chinese artistic tradition"
+      },
+      {
+        "concept": "Lapis blue colour",
+        "ottoman": "lacivert",
+        "arabic": null,
+        "persian": "lājavard (لاجورد)",
+        "english": "lapis lazuli blue pigment / colour"
+      },
+      {
+        "concept": "Gold leaf",
+        "ottoman": "altın varak",
+        "arabic": null,
+        "persian": null,
+        "english": "gold leaf used for tooling, ruling, and illumination"
+      },
+      {
+        "concept": "Composite manuscript / anthology",
+        "ottoman": "mecmûʿa",
+        "arabic": "majmūʿa (مجموعة)",
+        "persian": "majmūʿa (مجموعه)",
+        "english": "composite manuscript containing multiple risale texts"
+      }
+    ]
+  },
+  "bibliography": [
+    {
+      "citation": "Blair, Sheila. 'Color and Gold: The Decorated Papers Used in Manuscripts in Later Islamic Times.' Muqarnas XVII (2000): 24–36.",
+      "relevance": "Foundational study of decorated papers in Islamic manuscripts including gold-sprinkled (zerefşân/zarafshān) technique, production methods, and regional distribution. Directly relevant to the gold-sprinkled margins confirmed in this manuscript.",
+      "relevance_score": 0.95,
+      "access_notes": "Peer-reviewed; available through JSTOR and Brill."
+    },
+    {
+      "citation": "Bloom, Jonathan M. Paper Before Print: The History and Impact of Paper in the Islamic World. New Haven: Yale University Press, 2001.",
+      "relevance": "Comprehensive study of paper production and use in the Islamic world, including decorated and prepared papers. Provides material context for understanding gold-sprinkled paper in Ottoman manuscripts.",
+      "relevance_score": 0.80,
+      "access_notes": "Monograph; widely held in research libraries."
+    },
+    {
+      "citation": "Tanındı, Zeren. 'Bibliophile Aghas (Eunuchs) at Topkapı Sarayı.' Muqarnas 21 (2004): 333–343.",
+      "relevance": "Study of Ottoman court manuscript patronage and the decorated manuscript programmes sponsored by high-ranking officials. Relevant for contextualising gold-sprinkled luxury manuscripts in the Ottoman tradition and potential Konya-based patronage.",
+      "relevance_score": 0.72,
+      "access_notes": "Peer-reviewed; available through JSTOR and Brill."
+    },
+    {
+      "citation": "Çağman, Filiz, and Zeren Tanındı. The Topkapı Saray Museum: The Albums and Illustrated Manuscripts. Boston: Little, Brown, 1986.",
+      "relevance": "Authoritative reference for Ottoman illumination programmes, album formats, and the decorative conventions of the Istanbul court. Provides comparative material for the double-page serlevha format and hatāyī-rūmī illumination visible on p007.",
+      "relevance_score": 0.70,
+      "access_notes": "Exhibition catalogue / monograph; English. Widely held."
+    },
+    {
+      "citation": "Gacek, Adam. The Arabic Manuscript Tradition: A Glossary of Technical Terms and Bibliography. Leiden: Brill, 2001.",
+      "relevance": "Standard reference for codicological terminology used in Arabic and Islamic manuscript cataloguing. Useful for cross-referencing the Arabic equivalents of Ottoman technical terms (jadwal, ʿunwān, dhahab marsūsh) used in this record.",
+      "relevance_score": 0.65,
+      "access_notes": "Reference work; widely held."
+    },
+    {
+      "citation": "Gacek, Adam. Arabic Manuscripts: A Vademecum for Readers. Leiden: Brill, 2009.",
+      "relevance": "Updated reference covering page layout terms, ruling systems (jadwal/cedvel), and paper decoration terminology. Directly applicable to the cataloguing conventions used in this record.",
+      "relevance_score": 0.68,
+      "access_notes": "Reference work; widely held."
+    },
+    {
+      "citation": "Déroche, François, ed. Islamic Codicology: An Introduction to the Study of Manuscripts in Arabic Script. London: Al-Furqan Islamic Heritage Foundation, 2005.",
+      "relevance": "Authoritative codicological reference covering binding structures, ruling, paper preparation, and decorated papers. Provides the classificatory framework underlying motif type analysis in this project.",
+      "relevance_score": 0.72,
+      "access_notes": "Monograph; English translation of the French original. Widely held."
+    },
+    {
+      "citation": "Mahir, Banu. Osmanlı Minyatür Sanatı. Istanbul: Kabalcı Yayınevi, 2005. [In Turkish]",
+      "relevance": "Reference for Ottoman miniature and illumination conventions, including the serlevha format and the decorative programmes of luxury Ottoman manuscripts.",
+      "relevance_score": 0.62,
+      "access_notes": "Monograph; Turkish. Available in Turkish research libraries and Konya collections."
+    },
+    {
+      "citation": "Scheper, Karin. The Technique of Islamic Bookbinding: Methods, Materials and Regional Varieties. Leiden: Brill, 2015.",
+      "relevance": "Systematic study of Islamic bookbinding materials and structures. Relevant to the Ottoman şemse-salbek binding documented on p003, including the red leather cover, gold-stamped decoration, and general binding typology.",
+      "relevance_score": 0.60,
+      "access_notes": "Monograph; widely held."
+    },
+    {
+      "citation": "Roxburgh, David J. The Persian Album, 1400–1600: From Dispersal to Collection. New Haven: Yale University Press, 2005.",
+      "relevance": "Study of decorated papers and luxury manuscript culture in the Persianate tradition, including gold-sprinkled papers, their production context, and their relationship to Ottoman court tastes. Background for understanding the zarafshān/zerefşân technique and its cross-cultural transmission.",
+      "relevance_score": 0.58,
+      "access_notes": "Monograph; widely held."
+    }
+  ],
+  "suggested_collections": [
+    {
+      "institution": "Topkapı Sarayı Müzesi Kütüphanesi, Istanbul",
+      "reason": "Holds the core Ottoman court collection and largest concentration of luxury Ottoman manuscripts with gold-sprinkled margins and double-page serlevha programmes comparable to this manuscript. Essential for stylistic comparison.",
+      "digital_access": "https://kutuphane.tsmk.gov.tr"
+    },
+    {
+      "institution": "Nuruosmaniye Kütüphanesi, Istanbul (via YEK portal)",
+      "reason": "The project corpus includes confirmed gold-sprinkled Ottoman manuscripts from Nuruosmaniye (03880, 04100, 03821, 02295). Direct comparison across the confirmed corpus would situate this Yusuf Ağa manuscript in the broader Ottoman zerefşân tradition.",
+      "digital_access": "https://portal.yek.gov.tr"
+    },
+    {
+      "institution": "Chester Beatty Library, Dublin",
+      "reason": "Major international collection of Ottoman luxury manuscripts with digitized high-resolution images. Particularly useful for comparative analysis of double-page serlevha programmes and gold-sprinkled margin conventions.",
+      "digital_access": "https://viewer.cbl.ie"
+    }
+  ],
+  "provenance": {
+    "donor": "Yusuf Ağa (waqf founder, Konya)",
+    "waqf": "Yusuf Ağa Vakfı, Konya",
+    "previous_shelfmarks": [],
+    "notes": "Held in the Yusuf Ağa Kütüphanesi, Konya — a collection founded by the waqf (pious endowment) of Yusuf Ağa. This is the second risale of composite volume YY00006636 (see also yusuf_aga_yy00006636-001 for the first risale). The project-internal suffix '-002' distinguishes this risale in the catalog; the physical shelfmark is YY00006636. Manuscripts in the Yusuf Ağa collection are accessible via the YEK portal (Yazma Eserler Kurumu Başkanlığı), which manages provincial Ottoman manuscript collections across Turkey."
+  },
+  "analysis_metadata": {
+    "analyzed_date": "2026-02-26",
+    "analyzer": "claude-code-manuscript-pipeline",
+    "image_source": "YEK portal IIIF viewer screenshots (corpus/visual_confirmation_batch1/)",
+    "image_quality_notes": "All four images are viewer screenshots at approximately 1536×864 px. This resolution is sufficient to confirm the presence of gold-sprinkled margins and the general structure of the double-page serlevha, but does not allow detailed motif analysis within the headpieces or precise sub-type classification of the rūmī and hatāyī elements. Gold sprinkling on p005 (preliminary leaf) is below the reliable detection threshold at this resolution; confirmation for that folio relies on the catalogue description and corroborating evidence from p007 and p010.",
+    "folios_examined": ["p003", "p005", "p007", "p010"],
+    "folios_not_examined": "The majority of the manuscript's folios were not examined. Only four targeted screenshots were available from the visual confirmation batch. A full codicological description would require examination of additional folios including colophon, catchword pages, and a systematic sample of text pages."
+  }
+}

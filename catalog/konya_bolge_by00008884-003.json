@@ -1,0 +1,264 @@
+{
+  "record_id": "konya_bolge_by00008884-003",
+  "collection": {
+    "institution": "Konya Bölge Yazma Eser Kütüphanesi",
+    "city": "Konya",
+    "country": "Turkey",
+    "shelfmark": "BY00008884/3",
+    "yek_url": "https://portal.yek.gov.tr/kutuphane/eser/88335"
+  },
+  "manuscript": {
+    "title": "Mîzânü'l-Hakk fî İhtiyâri'l-Ahakk (Mīzān al-Ḥaqq fī Ikhtiyār al-Aḥaqq)",
+    "author": "Kâtib Çelebi (Ḥājjī Khalīfa; Muṣṭafā b. ʿAbdullāh, d. 1067/1657)",
+    "date_ah": null,
+    "date_ce": "17th–18th century (estimated)",
+    "format": "risale (within mecmûʿa; BY00008884 is a composite volume; this is text unit /3)",
+    "dimensions_mm": {
+      "height": null,
+      "width": null
+    },
+    "folio_count": null
+  },
+  "paper_decoration": {
+    "types": ["gold_sprinkled", "framing_system"],
+    "summary": "Margins throughout the manuscript are decorated with gold-sprinkled paper (zerefşân) that has oxidized over time, producing a distinctive brownish-golden or greenish-grey tone rather than bright gold. The gold sprinkling is consistent across both examined openings (p003, p007), confirming a manuscript-wide decoration programme. The text block is framed with a polychrome ruling system (cedvel) in green, red, and black — a moderate-quality framing without gold ruling.",
+    "technique_terms": {
+      "ottoman": "serpme oksitlenmiş yaldız (kenarlar zerefşân)",
+      "persian": "zarafshān (oxidized)",
+      "arabic": "dhahab marshūsh [constructed form; oxidized gold-sprinkled has no established Arabic technical term in standard references]"
+    },
+    "catalogue_description": {
+      "paper_field": null,
+      "notes_field": "Kenarları serpme oksitlenmiş yaldız",
+      "decoration_field": null
+    }
+  },
+  "workshop_attribution": {
+    "primary_tradition": "ottoman",
+    "workshop_centre": "Anatolian provincial (Konya region probable)",
+    "date_range_ce": "17th–18th century",
+    "confidence": 0.35,
+    "key_indicators": [
+      "Gold-sprinkled margins (zerefşân) now oxidized to brownish-golden/greenish-grey tone",
+      "Polychrome cedvel (green, red, black) without gold ruling — characteristic of moderate-quality provincial production",
+      "Naskh script, neat but without court-level refinement",
+      "Konya Bölge provenance consistent with Anatolian provincial production",
+      "Oxidation of gold particles may indicate higher copper content in the gold alloy, consistent with non-court workshops"
+    ],
+    "cross_tradition_caveats": [
+      "Attribution to provincial vs. Istanbul production based on absence of gold ruling alone is insufficient — gold ruling was sometimes omitted in court manuscripts for functional texts",
+      "Without full manuscript examination (binding, watermarks, colophon), workshop location cannot be confirmed",
+      "Date range is estimated from stylistic grounds only; no colophon date recorded in YEK entry",
+      "Oxidation state of the gold is not a reliable dating indicator on its own — it depends on alloy composition, storage conditions, and handling history"
+    ]
+  },
+  "codicology": null,
+  "visual_confirmation": {
+    "verdict": "probable",
+    "confidence": 0.75,
+    "screenshots_examined": 2,
+    "limitations": [
+      "Oxidized gold loses its metallic reflectivity, making it difficult to distinguish from other paper discolorations (foxing, water staining) at viewer resolution",
+      "Individual gold particles not resolvable at YEK viewer screenshot resolution (~1536×864 px)",
+      "Verdict rests on tonal pattern (greenish-grey margin discoloration) matching catalogue description 'oksitlenmiş yaldız' rather than direct visual confirmation of gold particles",
+      "Greenish margin toning could theoretically be attributable to mould foxing or localized water damage, though the catalogue specifically identifies the cause as oxidized gold",
+      "Physical examination under magnification recommended to confirm presence of gold particles and rule out non-metallic discoloration"
+    ]
+  },
+  "folio_analyses": [
+    {
+      "folio": "p003",
+      "source_image": "corpus/visual_confirmation_batch1/konya_bolge_by00008884-003_p003_iiif.png",
+      "decoration_type": "paper_decoration",
+      "elements": [
+        {
+          "element_type": "oxidized gold-sprinkled paper",
+          "element_type_ottoman": "serpme oksitlenmiş yaldız",
+          "element_type_persian": "zarafshān (oxidized)",
+          "motifs": [],
+          "colors": ["brownish-golden to greenish-grey oxidized gold particles on light cream paper"],
+          "gold_technique": "serpme (oxidized / oksitlenmiş)",
+          "position": "margins (kenarlar), both pages of the opening"
+        },
+        {
+          "element_type": "ruling / frame lines",
+          "element_type_ottoman": "cedvel",
+          "element_type_persian": "jadval",
+          "motifs": [],
+          "colors": ["green", "red", "black"],
+          "gold_technique": null,
+          "position": "framing the text block on both pages"
+        }
+      ],
+      "paper_decoration": {
+        "type": "gold_sprinkled",
+        "technique_terms": {
+          "ottoman": "serpme oksitlenmiş yaldız",
+          "persian": "zarafshān",
+          "arabic": "dhahab marshūsh"
+        },
+        "details": "Both pages of the opening show margins with a subtle warm brownish-golden to greenish-grey tone in the margin areas outside the text frames. The catalogue specifies 'kenarları serpme oksitlenmiş yaldız' — indicating gold sprinkling that has oxidized over time, producing a tarnished brownish-golden rather than bright gold appearance. The margins have a discernible warmth compared to the text block paper. The text block is framed with multi-colored ruling lines (green, red, black) creating a relatively simple framing system. The text is written in a neat naskh hand."
+      },
+      "style_attribution": {
+        "tradition": "Ottoman provincial or Anatolian",
+        "period": "17th–18th century [estimated]",
+        "workshop": "Provincial production; the colored ruling without gold and oxidized gold sprinkling suggest a non-court manuscript",
+        "confidence": 0.35,
+        "justification": "The combination of gold-sprinkled margins (now oxidized) with polychrome cedvel (green, red, black but no gold ruling) suggests a manuscript of moderate quality, likely from a provincial Anatolian workshop rather than the Istanbul court. The oxidation of the gold indicates either age, environmental conditions, or the use of a gold alloy with higher copper content. The Konya Bölge provenance is consistent with Anatolian provincial production."
+      },
+      "condition_notes": "The gold sprinkling has oxidized, producing a brownish-golden to greenish-grey rather than bright gold appearance. This is a natural aging process for gold alloys with copper content, not damage per se. Paper otherwise appears in reasonable condition with moderate yellowing.",
+      "analysis_limitations": "Image is a YEK viewer screenshot at moderate resolution. Oxidized gold sprinkling is inherently harder to detect than bright gold, and at this resolution individual particles cannot be resolved. The brownish-golden margin tone is consistent with oxidized serpme but could also be attributable to overall paper aging. Verdict remains 'probable' pending higher-resolution imaging."
+    },
+    {
+      "folio": "p007",
+      "source_image": "corpus/visual_confirmation_batch1/konya_bolge_by00008884-003_p007_iiif.png",
+      "decoration_type": "paper_decoration",
+      "elements": [
+        {
+          "element_type": "oxidized gold-sprinkled paper",
+          "element_type_ottoman": "serpme oksitlenmiş yaldız",
+          "element_type_persian": "zarafshān (oxidized)",
+          "motifs": [],
+          "colors": ["brownish-golden to greenish-grey oxidized gold particles on light cream paper"],
+          "gold_technique": "serpme (oxidized / oksitlenmiş)",
+          "position": "margins (kenarlar), both pages of the opening"
+        },
+        {
+          "element_type": "ruling / frame lines",
+          "element_type_ottoman": "cedvel",
+          "element_type_persian": "jadval",
+          "motifs": [],
+          "colors": ["green", "red", "black"],
+          "gold_technique": null,
+          "position": "framing the text block on both pages"
+        }
+      ],
+      "paper_decoration": {
+        "type": "gold_sprinkled",
+        "technique_terms": {
+          "ottoman": "serpme oksitlenmiş yaldız",
+          "persian": "zarafshān",
+          "arabic": "dhahab marshūsh"
+        },
+        "details": "Consistent with p003 observation. Both pages show the same warm brownish-golden to greenish-grey margin tone from oxidized gold sprinkling. The same polychrome ruling system (green, red, black) frames the text block. The consistency of the margin treatment across these two different openings strengthens the identification of zerefşân throughout the manuscript. On this opening, some text with larger script or headings is visible, but no illuminated elements beyond the cedvel framing."
+      },
+      "style_attribution": {
+        "tradition": "Ottoman provincial or Anatolian",
+        "period": "17th–18th century [estimated]",
+        "workshop": "Provincial production; consistent with p003 assessment",
+        "confidence": 0.35,
+        "justification": "Same assessment as p003. The consistency of the oxidized gold-sprinkled margins across multiple openings confirms a deliberate, manuscript-wide paper decoration programme rather than localized treatment."
+      },
+      "condition_notes": "Same oxidation pattern as p003. Paper in comparable condition. No additional damage or repairs noted on this opening.",
+      "analysis_limitations": "Same resolution constraints as p003. The consistent appearance across two openings increases confidence in the gold-sprinkled identification despite the oxidation making individual particles unresolvable."
+    }
+  ],
+  "terminology": {
+    "terms_used": [
+      {
+        "concept": "gold-sprinkled paper",
+        "ottoman": "zerefşân / serpme / yaldız serpme",
+        "arabic": "dhahab marshūsh (ذهب مرشوش)",
+        "persian": "zarafshān / afshān (افشان)",
+        "english": "gold-sprinkled paper; fine metallic particles scattered on paper surface"
+      },
+      {
+        "concept": "oxidized gold-sprinkled paper",
+        "ottoman": "serpme oksitlenmiş yaldız",
+        "arabic": null,
+        "persian": "zarafshān (oxidized variant; no distinct Persian technical term attested)",
+        "english": "gold-sprinkled paper with oxidized gold; characteristic brownish-golden or greenish-grey discoloration depending on alloy composition and degree of oxidation. Term 'oksitlenmiş yaldız' is the cataloguer's descriptive Turkish, not a standard Ottoman technical term."
+      },
+      {
+        "concept": "ruling / frame lines",
+        "ottoman": "cedvel",
+        "arabic": "jadwal (جدول)",
+        "persian": "jadval",
+        "english": "ruling lines framing the text block"
+      },
+      {
+        "concept": "margin",
+        "ottoman": "kenar / hâşiye",
+        "arabic": "ḥāshiya (حاشية)",
+        "persian": "ḥāshiya",
+        "english": "margin; area outside the text block"
+      }
+    ]
+  },
+  "bibliography": [
+    {
+      "citation": "Blair, Sheila S. 'Color and Gold: The Decorated Papers Used in Manuscripts in Later Islamic Times.' Muqarnas 17 (2000): 24–36.",
+      "relevance": "Foundational survey of decorated paper techniques in Islamic manuscripts, including gold-sprinkled (zerefşân) paper. Essential reference for contextualizing the oxidized gold-sprinkling technique and its geographic/chronological distribution.",
+      "relevance_score": 0.95,
+      "access_notes": "Published in Muqarnas vol. 17. Available via JSTOR."
+    },
+    {
+      "citation": "Bloom, Jonathan M. Paper Before Print: The History and Impact of Paper in the Islamic World. New Haven: Yale University Press, 2001.",
+      "relevance": "Comprehensive history of paper in the Islamic world; relevant to understanding paper production, preparation, and decoration practices in Ottoman Anatolia.",
+      "relevance_score": 0.75,
+      "access_notes": null
+    },
+    {
+      "citation": "Kâtib Çelebi (Ḥājjī Khalīfa). Mīzān al-Ḥaqq fī Ikhtiyār al-Aḥaqq. Translated by G. L. Lewis. London: Allen & Unwin, 1957.",
+      "relevance": "English translation of the text contained in this manuscript; essential for establishing the work's identity and intellectual context. Kâtib Çelebi (d. 1067/1657) was the foremost Ottoman bibliographer and encyclopaedist; copies of his works circulated widely across Ottoman Anatolia throughout the 17th–18th centuries.",
+      "relevance_score": 0.85,
+      "access_notes": "Reprinted multiple times. Original Ottoman Turkish edition: Mîzânü'l-Hakk fî İhtiyâri'l-Ahakk (Istanbul, 1280/1863)."
+    },
+    {
+      "citation": "Gökyay, Orhan Şaik. 'Kâtib Çelebi.' In Encyclopaedia of Islam, 2nd ed., vol. IV, 760–762. Leiden: Brill, 1978.",
+      "relevance": "Standard biographical and bibliographical reference for Kâtib Çelebi; identifies the Mîzânü'l-Hakk as a work on theological controversy in Ottoman society and documents the wide circulation of his manuscripts.",
+      "relevance_score": 0.75,
+      "access_notes": "Available in print; some volumes accessible via Brill Online."
+    },
+    {
+      "citation": "Gacek, Adam. Arabic Manuscripts: A Vademecum for Readers. Leiden: Brill, 2009.",
+      "relevance": "Comprehensive vademecum for reading and describing Arabic manuscripts; relevant to layout terminology (cedvel, kenar) and condition description conventions used throughout this record.",
+      "relevance_score": 0.65,
+      "access_notes": null
+    },
+    {
+      "citation": "Déroche, François. Islamic Codicology: An Introduction to the Study of Manuscripts in Arabic Script. Translated by Deke Dusinberre and David Radzinowicz. London: Al-Furqan Islamic Heritage Foundation, 2005.",
+      "relevance": "Standard reference work on Islamic manuscript codicology; provides the classification framework for paper decoration, ruling systems, and script identification used throughout this project.",
+      "relevance_score": 0.70,
+      "access_notes": "Translated from the French by Deke Dusinberre and David Radzinowicz. Available from Al-Furqan."
+    },
+    {
+      "citation": "Tanındı, Zeren. 'Bibliophile Aghas (Eunuchs) at Topkapı Sarayı.' Muqarnas 21 (2004): 333–343.",
+      "relevance": "Discusses Ottoman manuscript patronage and the production of decorated manuscripts outside the imperial workshop; provides comparative context for provincial Ottoman manuscript production with zerefşân paper.",
+      "relevance_score": 0.50,
+      "access_notes": "Published in Muqarnas vol. 21. Available via JSTOR."
+    },
+    {
+      "citation": "Gacek, Adam. The Arabic Manuscript Tradition: A Glossary of Technical Terms and Bibliography. Leiden: Brill, 2001.",
+      "relevance": "Standard reference for Arabic and Islamic manuscript terminology; clarifies cedvel (ruling) terminology and paper description conventions used in cataloguing.",
+      "relevance_score": 0.60,
+      "access_notes": null
+    }
+  ],
+  "suggested_collections": [
+    {
+      "institution": "Konya Yusuf Ağa Kütüphanesi (YEK Portal)",
+      "reason": "Same city collection with confirmed gold-sprinkled manuscripts (YY00006636/1, YY00006636/2). Comparative examination would establish whether the oxidized gold-sprinkled paper in BY00008884/3 shares the same preparation technique as the brighter zerefşân in the Yusuf Ağa mecmua — if so, it suggests the same local supply of decorated paper.",
+      "digital_access": "https://portal.yek.gov.tr"
+    },
+    {
+      "institution": "Topkapı Sarayı Müzesi Kütüphanesi",
+      "reason": "Holds court-produced Ottoman manuscripts with well-documented zerefşân paper for comparison; allows contrast between court and provincial zerefşân production quality and alloy characteristics.",
+      "digital_access": "https://kutuphane.tsmk.gov.tr"
+    }
+  ],
+  "provenance": {
+    "donor": null,
+    "waqf": null,
+    "previous_shelfmarks": ["BY00008884/3"],
+    "notes": "Held at Konya Bölge Yazma Eser Kütüphanesi (Konya Regional Manuscript Library). The shelfmark BY00008884/3 indicates the third text unit within a composite volume (mecmûʿa); the full volume's composition is not documented in the YEK entry. No waqf or donor information recorded. The Konya Bölge collection was assembled from regional mosque and medrese libraries; the manuscript's acquisition history prior to deposit is unknown."
+  },
+  "analysis_metadata": {
+    "analyzed_date": "2026-02-26",
+    "analyzer": "claude-code-manuscript-pipeline",
+    "image_source": "YEK portal viewer screenshots (corpus/visual_confirmation_batch1/); YEK ID 88335; IIIF internal ID 0000000676808; direct IIIF download unavailable due to HTTP/2 CORS restriction",
+    "image_quality_notes": "All images are YEK viewer screenshots at approximately 1536×864 px. At this resolution, individual gold particles cannot be resolved. Oxidized gold-sprinkled paper is the most challenging subtype to confirm remotely because the metallic reflectivity is lost, leaving only a tonal shift. Verdict 'probable' reflects this inherent limitation. Physical examination under magnification is required to definitively confirm gold particles vs. non-metallic discoloration.",
+    "folios_examined": ["p003", "p007"],
+    "folios_not_examined": "21 of 23 available viewer pages not examined. The two examined openings (p003, p007) are representative of early and mid-manuscript sections; interior pages were not sampled. The decoration pattern appears consistent across both examined openings, supporting a manuscript-wide application."
+  }
+}

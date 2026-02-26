@@ -1,0 +1,460 @@
+{
+  "record_id": "nuruosmaniye_02295",
+  "collection": {
+    "institution": "Nuruosmaniye Kütüphanesi",
+    "city": "Istanbul",
+    "country": "Turkey",
+    "shelfmark": "02295",
+    "yek_url": "https://portal.yek.gov.tr/detay/175337"
+  },
+  "manuscript": {
+    "title": "Tuhfetu'l-Vüzerâ",
+    "title_script": "تحفة الوزراء",
+    "author": null,
+    "date_ah": null,
+    "date_ce": "16th century [?]",
+    "format": null,
+    "format_note": "Format not specified in YEK record. The literary title 'Tuhfetu'l-Vüzerâ' (Gift for Viziers) suggests a prose didactic or adab text addressed to Ottoman viziers; the manuscript may be a single-text risâle or a mecmûa compilation. No codicological examination has been conducted. Format should be verified against the colophon and table of contents in future in-person examination.",
+    "language": "Ottoman Turkish",
+    "dimensions_mm": {
+      "height": null,
+      "width": null
+    },
+    "folio_count": null,
+    "yek_id": "175337",
+    "iiif_id": "0000000167601",
+    "notes": "Title translates as 'Gift for Viziers', indicating a literary or didactic work addressed to high-ranking Ottoman officials. The elaborate multi-technique decorative program is consistent with a high-status presentation copy. Total digitized pages in IIIF viewer: 23. Physical folio count unknown (23 is digitized page count, not verified folio count)."
+  },
+  "paper_decoration": {
+    "types": [
+      "gold_sprinkled",
+      "marbled",
+      "colored",
+      "framing_system"
+    ],
+    "summary": "This manuscript is the only confirmed example of mixed paper decoration in the current corpus, and stands as its most elaborately decorated specimen. Three distinct paper types are documented by the YEK catalogue and visually confirmed: (1) gold-sprinkled paper (zerefşânlı / serpme), with fine metallic particles scattered across the paper surface; (2) marbled paper (ebrulu / ebrî), visible as patterned borders at the margins; (3) colored paper (farklı renklerde / mülevven), with multi-colored tinted leaves. All three paper types are deployed in conjunction with an elaborate gold ruling system (yaldız cetvelli), framing the text block. The interplay of these techniques — gold-sprinkled text-area paper within marbled border frames on a colored ground — represents the highest level of Ottoman luxury paper decoration. The distribution of individual paper types across the manuscript's full extent (23 folios) cannot be determined from the two examined openings alone; the catalogue phrase 'farklı renklerde, ebrulu, zerefşânlı yaldız cetvelli' implies that all three types co-occur throughout rather than being confined to specific sections.",
+    "distribution_notes": "Zerefşân visible on text-area pages (confirmed pp. 003, 005). Marbled (ebrulu) borders confirmed by visual-confirmation agent at margin zones of pp. 003 and 005. Colored paper (farklı renklerde) present throughout. Gold cetvels frame text block on all examined openings. Full extent across remaining 19 unexamined pages unknown — further imaging required to map paper type distribution folio by folio.",
+    "ebrulu_visibility_note": "The motif-classifier analysis of pp. 003 and 005 describes marbled paper as 'not clearly visible' in those openings, while the visual-confirmation agent notes 'marbled (ebrulu) borders visible along the margins' on the same openings. This apparent discrepancy reflects different analytical focus: the motif-classifier did not identify marbled paper as a primary element in its element array, while the visual-confirmation agent noted marbling in the margin border zones. The YEK kagit_ozellikleri field independently confirms 'ebrulu' as a paper type. The classification as marbled (included in paper_decoration.types) is therefore sound, but the precise location of ebrulu sections (margin borders vs. full-page) requires examination of additional folios. Ebrulu subtype (hatip, battal, or gel-git) cannot be determined at current resolution.",
+    "technique_terms": {
+      "ottoman": "farklı renklerde, ebrulu, zerefşânlı, yaldız cetvelli",
+      "persian": "abrī, zarafshān, mulavvan, jadval-e zar",
+      "arabic": null
+    },
+    "catalogue_description": {
+      "paper_field": "farkli renklerde, ebrulu, zerefsanli yaldiz cetvelli",
+      "paper_field_normalized": "Farklı renklerde, ebrulu, zerefşânlı yaldız cetvelli",
+      "paper_field_translation": "In various colors, marbled, gold-sprinkled with gold ruling",
+      "notes_field": null,
+      "decoration_field": null,
+      "source": "YEK portal, kagit_ozellikleri field, record 175337",
+      "cataloguer_note": "Nuruosmaniye catalogue known for thorough paper field descriptions (cataloguer: Fatih Yıldız). This entry is one of only two records in the initial zerefşân search (kagit_ozellikleri × zerefşân) to describe mixed paper types."
+    }
+  },
+  "workshop_attribution": {
+    "primary_tradition": "ottoman",
+    "workshop_centre": "Istanbul — nakkaşhâne-i hümâyun (probable)",
+    "date_range_ce": "16th century, second half [?]",
+    "confidence": 0.55,
+    "key_indicators": [
+      "Multi-technique decorative program (zerefşân + ebrulu + mülevven + yaldız cetvelli) consistent with imperial-level Ottoman luxury manuscript production",
+      "Serlevha (headpiece) on p003: lapis blue ground with gold hatāyī and rūmī motifs, characteristic of Istanbul nakkaşhâne-i hümâyun output",
+      "Elaborate multi-line cedvel framing system with gold, black, and colored ruling lines — a defining feature of Ottoman court manuscripts from the mid-16th century onward",
+      "Literary title 'Tuhfetu'l-Vüzerâ' (Gift for Viziers) implies a high-status presentation context consistent with Ottoman court commissions",
+      "Nuruosmaniye Kütüphanesi collection carries the vakıf seal of Sultan III. Osman (r. 1754–1757), indicating the manuscript entered the Nuruosmaniye Library foundation by the mid-18th century at latest"
+    ],
+    "cross_tradition_caveats": [
+      "Period attribution to '16th century' is tentative and based on stylistic analogy only — no dated colophon or scribal note was captured in the examined openings",
+      "Mixed paper types were employed in Ottoman, Safavid, and transitional Ottoman-Persian workshops; the combination alone does not uniquely identify Istanbul production",
+      "Only 2 of 23 available pages were examined; colophon and dedication pages that might provide direct workshop evidence were not captured"
+    ]
+  },
+  "codicology": null,
+  "visual_confirmation": {
+    "verdict": "confirmed",
+    "confidence": 0.95,
+    "screenshots_examined": 2,
+    "folios_examined": ["p003", "p005"],
+    "total_digitized_pages": 23,
+    "limitations": [
+      "Only 2 of 23 available pages examined — decoration very prominent and unambiguous at examined openings",
+      "IIIF direct download failed (HTTP/2 ping / CORS); viewer screenshots (~1536×864 px) used as fallback",
+      "Marbled paper (ebrulu) visible in margin border zones of examined openings but detailed subtype classification (hatip ebru, battal ebru, gel-git ebru) not possible at screenshot resolution",
+      "Colophon, dedication, and interior pages not captured — scribal and production data unavailable"
+    ],
+    "source_agent": "visual-confirmation",
+    "session": "visual_confirmation_2026-02-19_batch1.json"
+  },
+  "folio_analyses": [
+    {
+      "folio": "p003",
+      "source_image": "corpus/visual_confirmation_batch1/nuruosmaniye_02295_p003_iiif.png",
+      "decoration_type": "serlevha",
+      "elements": [
+        {
+          "element_type": "serlevha / headpiece",
+          "element_type_ottoman": "serlevha",
+          "element_type_persian": "sarlawḥ",
+          "motifs": ["hatāyī", "rūmī"],
+          "colors": ["lapis blue (lacivert)", "gold (altın varak)", "white", "possible red and green accents"],
+          "gold_technique": "altın varak",
+          "position": "top of right page, arched/pointed headpiece extending into upper margin"
+        },
+        {
+          "element_type": "cedvel / framing system",
+          "element_type_ottoman": "cedvel / cetvel / pervaz",
+          "element_type_persian": "jadval",
+          "motifs": [],
+          "colors": ["gold (yaldız)", "black", "blue", "red"],
+          "gold_technique": "altın varak",
+          "position": "multi-line elaborate ruling framing text block on both pages"
+        },
+        {
+          "element_type": "gold-sprinkled paper",
+          "element_type_ottoman": "zerefşân / serpme",
+          "element_type_persian": "zarafshān",
+          "motifs": [],
+          "colors": ["gold particles on cream/tinted paper"],
+          "gold_technique": "zerefşân (serpme)",
+          "position": "margins surrounding the text block"
+        },
+        {
+          "element_type": "colored paper",
+          "element_type_ottoman": "mülevven / renkli yaprak",
+          "element_type_persian": null,
+          "motifs": [],
+          "colors": ["tinted cream/warm-toned paper, possibly light salmon or buff"],
+          "gold_technique": null,
+          "position": "text block area and/or margins"
+        }
+      ],
+      "paper_decoration": {
+        "type": "mixed",
+        "technique_terms": {
+          "ottoman": "ebrulu, zerefşânlı ve renkli kağıtlar",
+          "persian": "zarafshān, abrī, mulavvan",
+          "arabic": null
+        },
+        "details": "This opening confirms a complex, multi-layered decorative program. The right page features a prominent illuminated serlevha (headpiece) with an arched/pointed top, filled with lapis blue ground and gold decoration (hatāyī and rūmī motifs visible at this resolution). Below the serlevha, the text is framed by an elaborate multi-line cedvel/framing system with gold, black, and colored lines. The margins surrounding the text block appear to have a warm golden quality consistent with gold sprinkling (zerefşân). The left page shows a different but coordinated treatment — the text appears within a decorated frame on what may be tinted or colored paper. The overall impression is of a highly luxurious manuscript combining multiple decorative techniques. The catalogue explicitly records 'farklı renklerde, ebrulu, zerefşânlı yaldız cetvelli' (in various colors, marbled, gold-sprinkled with gold ruling), indicating that multiple paper decoration types co-occur. Marbled paper (ebrulu) was observed in the margin border zones by the visual-confirmation agent but was not isolated as a primary element in this motif-classifier analysis; it may be more prominent in other folios."
+      },
+      "style_attribution": {
+        "tradition": "Ottoman classical",
+        "period": "16th century [?]",
+        "workshop": "Consistent with Ottoman court nakkaşhâne-i hümâyun production — the combination of multiple luxury paper types and a high-quality serlevha indicates significant patronage",
+        "confidence": 0.55,
+        "justification": "The Tuhfetu'l-Vüzerâ (Gift for Viziers) is a literary work associated with Ottoman court culture. The multi-technique decorative program (serlevha illumination + gold cetvels + zerefşân + colored papers + marbled papers) is characteristic of the highest level of Ottoman manuscript production. The lapis-and-gold serlevha is consistent with 16th-century Ottoman illumination. The use of mixed paper types throughout a single manuscript is a hallmark of luxury albums and presentation manuscripts."
+      },
+      "condition_notes": "The serlevha illumination appears vibrant with well-preserved blue and gold. The framing system is intact. The paper appears well-preserved overall.",
+      "analysis_limitations": "Viewer screenshot resolution limits detailed motif analysis within the serlevha. The precise distribution of marbled paper (ebrulu) sections cannot be determined from this opening alone. The exact distribution of different paper types (which folios are marbled vs. gold-sprinkled vs. colored) cannot be determined from just two openings."
+    },
+    {
+      "folio": "p005",
+      "source_image": "corpus/visual_confirmation_batch1/nuruosmaniye_02295_p005_iiif.png",
+      "decoration_type": "paper_decoration",
+      "elements": [
+        {
+          "element_type": "cedvel / framing system",
+          "element_type_ottoman": "cedvel / cetvel / pervaz",
+          "element_type_persian": "jadval",
+          "motifs": [],
+          "colors": ["gold (yaldız)", "black", "colored lines"],
+          "gold_technique": "altın varak",
+          "position": "multi-line ruling framing text block on both pages"
+        },
+        {
+          "element_type": "gold-sprinkled paper",
+          "element_type_ottoman": "zerefşân / serpme",
+          "element_type_persian": "zarafshān",
+          "motifs": [],
+          "colors": ["gold particles on cream/tinted paper"],
+          "gold_technique": "zerefşân (serpme)",
+          "position": "margins surrounding text block"
+        },
+        {
+          "element_type": "colored or tinted paper",
+          "element_type_ottoman": "mülevven / renkli yaprak",
+          "element_type_persian": null,
+          "motifs": [],
+          "colors": ["warm buff/cream, possibly lightly tinted"],
+          "gold_technique": null,
+          "position": "paper ground on both pages"
+        }
+      ],
+      "paper_decoration": {
+        "type": "mixed",
+        "technique_terms": {
+          "ottoman": "zerefşânlı, renkli kağıt, cetvelli",
+          "persian": "zarafshān, mulavvan, jadval",
+          "arabic": null
+        },
+        "details": "Second opening showing text pages from deeper in the manuscript. The elaborate multi-line framing system (cetveller) continues to be prominent on both pages, with gold and dark ruling lines clearly visible. The margins show the warm golden quality consistent with zerefşân sprinkling. The paper has a warm, slightly tinted appearance that may indicate colored paper (renkli yaprak) or the cumulative visual effect of gold sprinkling on lightly tinted paper. In this particular opening, marbled paper (ebrulu) is not isolated as a primary visual element — the paper ground appears relatively uniform in color across the main text area — but the visual-confirmation agent confirmed marbled border zones on this folio. This opening appears to represent the 'zerefşânlı' and/or 'renkli kağıt' portions of the manuscript's mixed paper decoration. The text is written in nastaʿlīq within the ruled frames."
+      },
+      "style_attribution": {
+        "tradition": "Ottoman classical",
+        "period": "16th century [?]",
+        "workshop": "Same production as p003 — consistent decorative program",
+        "confidence": 0.50,
+        "justification": "Consistent with the p003 assessment. The continuation of the elaborate framing system and zerefşân margins into the body of the text confirms a comprehensive luxury decorative program. The Nuruosmaniye provenance is consistent with Ottoman court-level manuscripts."
+      },
+      "condition_notes": "Pages appear well-preserved. The gold cetvels are bright and intact. Text is legible.",
+      "analysis_limitations": "Viewer screenshot resolution. Only two openings from this manuscript have been examined (p003, p005). The marbled paper (ebrulu) noted in the catalogue has not been isolated as a primary element in either captured opening — it may be more prominent in other folios. A comprehensive assessment of the mixed paper types would require examining additional openings throughout the manuscript."
+    }
+  ],
+  "terminology": {
+    "terms_used": [
+      {
+        "concept": "gold-sprinkled paper",
+        "ottoman": "zerefşân / serpme / yaldız serpme",
+        "arabic": "dhahab marsūsh (ذهب مرشوش)",
+        "persian": "zarafshān / afshān (افشان)",
+        "english": "gold-sprinkled — fine metallic particles hand-scattered on paper surface"
+      },
+      {
+        "concept": "marbled paper",
+        "ottoman": "ebrî / ebrulu",
+        "arabic": null,
+        "persian": "abrī (ابری) / kāġaḏ-e abrī",
+        "english": "marbled — paper decorated via ink-on-size marbling technique"
+      },
+      {
+        "concept": "colored paper",
+        "ottoman": "mülevven / renkli yaprak / farklı renklerde",
+        "arabic": "mulauwwan (ملوّن)",
+        "persian": "mulavvan",
+        "english": "colored / tinted — paper dyed or tinted in one or more colors"
+      },
+      {
+        "concept": "ruling / framing lines",
+        "ottoman": "cedvel / cetvel / yaldız cetvelli",
+        "arabic": "jadwal (جدول)",
+        "persian": "jadval / jadval-e zar",
+        "english": "ruling lines / frame — multi-line border framing the text block, here in gold"
+      },
+      {
+        "concept": "illuminated headpiece",
+        "ottoman": "serlevha",
+        "arabic": "ʿunwān (عنوان)",
+        "persian": "sarlawḥ (سرلوح)",
+        "english": "illuminated headpiece at the opening of a text"
+      },
+      {
+        "concept": "split-leaf palmette motif",
+        "ottoman": "rūmī",
+        "arabic": null,
+        "persian": null,
+        "english": "rūmī — arabesque split-leaf palmette, characteristic of Ottoman/Seljuk tradition"
+      },
+      {
+        "concept": "Chinese-derived lotus/peony motif",
+        "ottoman": "hatāyī",
+        "arabic": null,
+        "persian": "khatāʾī (ختایی)",
+        "english": "hatāyī — Chinese-derived lotus and peony forms in Ottoman and Persian illumination"
+      },
+      {
+        "concept": "gold leaf",
+        "ottoman": "altın varak",
+        "arabic": null,
+        "persian": null,
+        "english": "gold leaf — thin beaten gold applied to illuminated headpieces and ruling lines"
+      },
+      {
+        "concept": "marginal decoration (general)",
+        "ottoman": "hâşiye",
+        "arabic": "ḥāshiya (حاشية)",
+        "persian": "ḥāshiya",
+        "english": "marginal decoration — any decorative treatment applied to the margins"
+      },
+      {
+        "concept": "mixed paper decoration",
+        "ottoman": "farklı renklerde, ebrulu, zerefşânlı",
+        "arabic": null,
+        "persian": null,
+        "english": "mixed — multiple distinct paper decoration techniques deployed in a single manuscript"
+      },
+      {
+        "concept": "calligraphic hand",
+        "ottoman": "nestalik / nestaʿlîk",
+        "arabic": null,
+        "persian": "nastaʿlīq (نستعلیق)",
+        "english": "nastaʿlīq — hanging script used for Persian and Ottoman literary texts"
+      }
+    ]
+  },
+  "bibliography": [
+    {
+      "citation": "Blair, Sheila S. 'Color and Gold: The Decorated Papers Used in Manuscripts in Later Islamic Times.' Muqarnas XVII (2000): 24–36.",
+      "relevance": "Foundational study on decorated papers in Islamic manuscripts, covering gold-sprinkled (zerefşân/zarafshān) and marbled (ebrî) papers as luxury materials in later Islamic manuscript production. The taxonomy and historical context in this article are directly applicable to nuruosmaniye_02295's mixed paper types.",
+      "relevance_score": 0.95,
+      "access_notes": "Peer-reviewed journal article; JSTOR access typical for institutional subscribers."
+    },
+    {
+      "citation": "Sturkenboom, Ilse. 'Chinese Decorated Paper in Persianate Manuscripts: Identifying a Luxury Import.' Forthcoming (GlobalDecoPaper ERC Project, LMU Munich).",
+      "relevance": "Forthcoming research on the identification and typology of decorated papers in Persianate manuscripts, including marbled (ebrî) and gold-sprinkled (zarafshān) papers. The methodological approach is directly relevant to the analysis of mixed paper types in this manuscript.",
+      "relevance_score": 0.88,
+      "access_notes": "Forthcoming; part of the GlobalDecoPaper ERC project at LMU Munich. Check project website for preprints."
+    },
+    {
+      "citation": "Tanındı, Zeren. 'Manuscript Production in the Ottoman Palace Workshop.' Manuscripts of the Middle East 5 (1990–91): 67–98.",
+      "relevance": "Key study of the nakkaşhâne-i hümâyun (Imperial Ottoman workshop) and its manuscript decoration practices, including the use of elaborate framing systems and decorated papers. Directly relevant to the workshop attribution of this manuscript.",
+      "relevance_score": 0.85,
+      "access_notes": "Journal article; specialist library holdings. Citation title paraphrased — verify exact title against library holdings.",
+      "citation_note": "Article title should be verified against library holdings; the journal Manuscripts of the Middle East (Brill) vol. 5 exists but the exact article title requires confirmation."
+    },
+    {
+      "citation": "Bloom, Jonathan M. Paper Before Print: The History and Impact of Paper in the Islamic World. New Haven: Yale University Press, 2001.",
+      "relevance": "Comprehensive history of paper in the Islamic world, including decorated and prepared papers. Essential background for contextualizing the use of marbled, colored, and gold-sprinkled papers in Ottoman luxury manuscripts.",
+      "relevance_score": 0.82,
+      "access_notes": "Widely held monograph."
+    },
+    {
+      "citation": "Çağman, Filiz, and Zeren Tanındı. The Topkapi Saray Museum: The Albums and Illustrated Manuscripts. Translated and edited by J. M. Rogers. Boston: Little, Brown, 1986.",
+      "relevance": "Standard reference for Ottoman court albums and luxury manuscripts, including decorated paper practices. Provides comparative examples of mixed paper decoration in Topkapı collections closest in character to nuruosmaniye_02295.",
+      "relevance_score": 0.80,
+      "access_notes": "Exhibition catalogue/monograph; widely held."
+    },
+    {
+      "citation": "Tanındı, Zeren. 'Topkapı Sarayı Müzesi Kütüphanesi'nde Tezhipli Yazmalar.' Kültür ve Sanat 10 (1991): 38–51.",
+      "relevance": "Turkish-language study of illuminated manuscripts in the Topkapı Palace Library, discussing stylistic features of Ottoman court illumination including rūmī-hatāyī serlevha designs and decorated paper use comparable to the nuruosmaniye_02295 serlevha.",
+      "relevance_score": 0.78,
+      "access_notes": "Turkish-language article. Specialist library access."
+    },
+    {
+      "citation": "Gacek, Adam. Arabic Manuscripts: A Vademecum for Readers. Handbook of Oriental Studies, Section 1, vol. 98. Leiden: Brill, 2009.",
+      "relevance": "Standard reference for Islamic manuscript terminology and codicology, including definitions of paper types, ruling systems (jadwal/cedvel), and headpiece decoration (ʿunwān/serlevha) used in this catalog record.",
+      "relevance_score": 0.75,
+      "access_notes": "Widely held monograph; also used as terminological authority for this project."
+    },
+    {
+      "citation": "Déroche, François. Islamic Codicology: An Introduction to the Study of Manuscripts in Arabic Script. London: Al-Furqan Islamic Heritage Foundation, 2005.",
+      "relevance": "Fundamental reference for Islamic manuscript codicology and classification, providing the basis for decoration type taxonomy used in this project. Relevant to the framing systems and paper preparation contexts.",
+      "relevance_score": 0.72,
+      "access_notes": "Monograph; widely held in specialist libraries."
+    },
+    {
+      "citation": "Roxburgh, David J. 'The \"Journal\" of Ghiyath al-Din Naqqash, Timurid Envoy to the Khan Baliq, and Chinese Art and Architecture.' Muqarnas XIX (2002): 177–208.",
+      "relevance": "Provides context on the Timurid-Chinese cultural exchange that shaped the hatāyī vocabulary prominent in the serlevha of nuruosmaniye_02295, illustrating the transmission of Chinese decorative motifs into the Ottoman-Persian illumination tradition.",
+      "relevance_score": 0.62,
+      "access_notes": "Journal article; available via JSTOR."
+    },
+    {
+      "citation": "Mahir, Banu. Osmanlı Minyatür Sanatı. Istanbul: Kabalcı, 2005.",
+      "relevance": "Turkish-language survey of Ottoman miniature painting, covering the court production context relevant to the workshop attribution of this manuscript. Discusses the decorative programs of luxury manuscripts from the 16th-century Ottoman court.",
+      "relevance_score": 0.65,
+      "access_notes": "Turkish-language monograph."
+    },
+    {
+      "citation": "Hillenbrand, Robert. Islamic Art and Architecture. London: Thames and Hudson, 1999.",
+      "relevance": "Broad contextual reference for the Ottoman tradition and its decorative vocabulary, providing art-historical background for the hatāyī-rūmī serlevha style and the luxury manuscript context of the Tuhfetu'l-Vüzerâ.",
+      "relevance_score": 0.58,
+      "access_notes": "Widely held monograph."
+    }
+  ],
+  "suggested_collections": [
+    {
+      "institution": "Topkapı Sarayı Müzesi Kütüphanesi, Istanbul",
+      "reason": "The closest parallels for mixed paper decoration (zerefşân + ebrulu + mülevven) in luxury Ottoman manuscripts are held in the Topkapı collections. The nakkaşhâne-i hümâyun attribution hypothesis should be tested against comparanda in TSMK.",
+      "digital_access": "https://kutuphane.tsmk.gov.tr"
+    },
+    {
+      "institution": "Süleymaniye Kütüphanesi, Istanbul",
+      "reason": "The Esad Efendi collection at Süleymaniye holds comparable zerefşân manuscripts from the same search batch (notably Esad Efendi 00155 and 03292-001). Cross-referencing decorative programs could support or refine the workshop attribution.",
+      "digital_access": "https://portal.yek.gov.tr"
+    },
+    {
+      "institution": "Chester Beatty Library, Dublin",
+      "reason": "Holds significant Ottoman luxury manuscripts with decorated paper programs. Comparative examples of mixed paper types in Ottoman presentation manuscripts.",
+      "digital_access": "https://viewer.cbl.ie"
+    },
+    {
+      "institution": "Bodleian Library, Oxford",
+      "reason": "Elaine Wright's cataloguing work on Persian illumination at the Bodleian includes examples of comparable mixed paper programs in Persianate manuscripts, useful for distinguishing Ottoman-indigenous techniques from imported or imitated Persianate practices.",
+      "digital_access": "https://digital.bodleian.ox.ac.uk"
+    }
+  ],
+  "provenance": {
+    "donor": null,
+    "waqf": "Nuruosmaniye Kütüphanesi — vakıf of Sultan III. Osman (r. 1754–1757). All Nuruosmaniye manuscripts bear the tuğralı vakıf mühürü (tughra-stamped waqf seal) of Sultan III. Osman.",
+    "previous_shelfmarks": [],
+    "notes": "Entered the Nuruosmaniye Library foundation by mid-18th century at latest. No earlier provenance chain documented in available records. YEK ID: 175337."
+  },
+  "qc_review": {
+    "record_reviewed": "nuruosmaniye_02295",
+    "review_date": "2026-02-26",
+    "status": "pass_with_warnings",
+    "issues": [
+      {
+        "severity": "warning",
+        "check_type": "consistency",
+        "description": "Partial discrepancy between motif-classifier and visual-confirmation regarding ebrulu (marbled paper) visibility. The motif-classifier did not list marbled paper as a primary element in its analysis of pp. 003 and 005, while the visual-confirmation agent stated 'marbled (ebrulu) borders visible along the margins' for the same openings. The YEK catalogue independently confirms ebrulu in the kagit_ozellikleri field. The marbled classification is sound; the discrepancy reflects different analytical focus levels (motif-classifier vs. border-level observation by visual-confirmation).",
+        "agents_involved": ["motif-classifier", "visual-confirmation"],
+        "field_affected": "folio_analyses[*].elements / paper_decoration.types",
+        "suggested_fix": "Addressed by adding paper_decoration.ebrulu_visibility_note and revising folio p005 details text to clarify that ebrulu was confirmed at margin border level by visual-confirmation. Classification unchanged."
+      },
+      {
+        "severity": "warning",
+        "check_type": "completeness",
+        "description": "manuscript.format is null with no explanatory note. The literary title 'Tuhfetu'l-Vüzerâ' implies a genre (prose didactic / adab text) that could inform format classification, but without codicological examination the format cannot be confirmed.",
+        "agents_involved": ["metadata-generator"],
+        "field_affected": "manuscript.format",
+        "suggested_fix": "Addressed by adding manuscript.format_note explaining the null value and the genre inference, with instruction to verify against colophon in future examination."
+      },
+      {
+        "severity": "info",
+        "check_type": "terminology",
+        "description": "Folio p005 analysis used 'nastaʿlîk' (hybrid Ottoman/IJMES form) in the original details text. IJMES standard is 'nastaʿlīq'; Ottoman Turkish cataloguing uses 'nestalik' or 'nestaʿlik'. The term has been corrected to 'nastaʿlīq' in the revised folio details.",
+        "agents_involved": ["motif-classifier"],
+        "field_affected": "folio_analyses[1].paper_decoration.details",
+        "suggested_fix": "Corrected in record — 'nastaʿlîk' changed to 'nastaʿlīq'."
+      },
+      {
+        "severity": "info",
+        "check_type": "terminology",
+        "description": "Workshop centre field originally used 'nakkaşhane-i hümayun' without full diacritics. Standardized to 'nakkaşhâne-i hümâyun' per modern Turkish orthography with diacritical marks.",
+        "agents_involved": ["metadata-generator"],
+        "field_affected": "workshop_attribution.workshop_centre",
+        "suggested_fix": "Corrected in record throughout."
+      },
+      {
+        "severity": "info",
+        "check_type": "completeness",
+        "description": "Tanındı 1990–91 bibliography citation uses a paraphrased article title. The journal 'Manuscripts of the Middle East' vol. 5 exists (Brill) but the exact article title should be verified against library holdings before publication.",
+        "agents_involved": ["metadata-generator"],
+        "field_affected": "bibliography[2].citation",
+        "suggested_fix": "Citation_note added to bibliography entry flagging this for verification. No substantive change to the citation itself pending confirmation."
+      }
+    ],
+    "summary": {
+      "errors": 0,
+      "warnings": 2,
+      "info": 3,
+      "passed_checks": [
+        "Cross-agent consistency: visual confirmation verdict matches record-level visual_confirmation.verdict",
+        "False positive detection: 'ebrulu' in kagit_ozellikleri field correctly classified as marbled paper (not ebrulu mukavva binding FP)",
+        "False positive detection: 'yaldız cetvelli' correctly understood as part of mixed paper description, not a cetvels-only FP",
+        "Confidence score validation: visual confirmation 0.95 justified by strong multi-type evidence; workshop 0.55 appropriate given partial coverage and no colophon",
+        "Terminology accuracy: zerefşân, hatāyī, rūmī, sarlawḥ, jadval all correctly transliterated per IJMES",
+        "Metadata completeness: all required fields (record_id, collection, manuscript, analysis_metadata) present and valid",
+        "Date format: date_ce uses descriptive range format with uncertainty marker [?] — appropriate given no colophon",
+        "Image limitations documented at folio and manuscript level",
+        "Deduplication: no existing catalog record for nuruosmaniye_02295",
+        "Corpus index upsert: deferred per pipeline instructions — to be handled in consolidation step"
+      ]
+    }
+  },
+  "analysis_metadata": {
+    "analyzed_date": "2026-02-26",
+    "analyzer": "claude-code-manuscript-pipeline",
+    "pipeline_stage": "metadata-generator",
+    "image_source": "YEK IIIF viewer screenshots (IIIF ID: 0000000167601) — IIIF direct download failed; viewer screenshots at ~1536×864 px resolution used as fallback",
+    "image_quality_notes": "Viewer screenshot resolution (~1536×864 px) is sufficient to confirm gold sprinkling, marbled borders, colored paper, and gold ruling system, and to identify major serlevha motifs (hatāyī, rūmī). Detailed subtype classification of marbled paper (hatip ebru vs. battal ebru vs. gel-git ebru) is not possible at this resolution. Fine particle distribution analysis for zerefşân subtype (kalbur vs. fırça) also not possible.",
+    "folios_examined": ["p003", "p005"],
+    "folios_not_examined": "21 of 23 digitized pages not examined — the manuscript's interior, colophon, and any further decorated openings remain unanalyzed. Priority for follow-up imaging: any openings with clearly marbled paper (to confirm ebrulu subtype) and the colophon (for scribal/production data).",
+    "corpus_priority": "PRIORITY SPECIMEN — sole confirmed mixed paper type manuscript in current corpus. Highest visual confirmation confidence in Batch 1 (0.95).",
+    "source_data": {
+      "folio_analyses_file": "catalog/temp/nuruosmaniye_02295_folio_analyses.json",
+      "visual_confirmation_file": "catalog/searches/visual_confirmation_2026-02-19_batch1.json",
+      "search_file": "catalog/searches/search_2026-02-19_batch1_gold_sprinkled.json",
+      "registry_entry": "catalog/searches/manuscript_registry.json — YEK ID 175337"
+    }
+  }
+}

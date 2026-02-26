@@ -1,0 +1,239 @@
+{
+  "record_id": "nuruosmaniye_03821",
+  "collection": {
+    "institution": "Nuruosmaniye Kütüphanesi",
+    "city": "Istanbul",
+    "country": "Turkey",
+    "shelfmark": "03821",
+    "yek_url": "https://portal.yek.gov.tr/birim/nuruosmaniye-kutuphanesi"
+  },
+  "manuscript": {
+    "title": "İntihâb-ı Dîvân-ı Mevlânâ",
+    "author": "Jalāl al-Dīn Rūmī (Mevlânâ) [selections compiled by unknown anthologist]",
+    "date_ah": null,
+    "date_ce": "16th–18th century [undetermined; broad range based on decoration evidence]",
+    "format": "mecmû'a / dîvân intihâbı (anthology of selected poetry)",
+    "dimensions_mm": {
+      "height": null,
+      "width": null
+    },
+    "folio_count": null
+  },
+  "paper_decoration": {
+    "types": ["gold_sprinkled", "framing_system"],
+    "summary": "Margins throughout the examined opening are decorated with the zerefşân (serpme) technique: fine gold particles sprinkled across the page margins, producing a warm golden tone against a cream/off-white paper ground. Individual gold particles are not resolved at the available screenshot resolution, but the warm margin tone is consistent with zerefşân application and is confirmed by the YEK catalogue entry. Gold and black ruling lines (altın cedvel) frame the text block. The catalogue also records an illuminated headpiece (başlığı tezhipli) not visible on the examined folio. The visual confirmation verdict is 'probable.'",
+    "technique_terms": {
+      "ottoman": "zerefşân / serpme / yaldız serpme",
+      "persian": "zarafshān / afshān",
+      "arabic": "dhahab marsūsh (ذهب مرشوش)"
+    },
+    "catalogue_description": {
+      "paper_field": "Sahife kenarları zerefşan tekniğiyle süslenmiştir.",
+      "notes_field": null,
+      "decoration_field": "Başlığı tezhiplidir."
+    }
+  },
+  "workshop_attribution": {
+    "primary_tradition": "ottoman",
+    "workshop_centre": "Istanbul (probable; nakkaşhane-i hümayun or affiliated workshop)",
+    "date_range_ce": "16th–18th century",
+    "confidence": 0.40,
+    "key_indicators": [
+      "Gold-sprinkled (zerefşân) margins: standard feature of Istanbul luxury manuscript production from the mid-16th century onwards",
+      "Gold and black cedvel ruling system (altın cedvel) consistent with Ottoman court ateliers",
+      "Naskh script with ta'lik / nestaʿlîk headings: characteristic of later Ottoman literary anthologies",
+      "Nuruosmaniye collection context: associated with Sultan III. Osman vakıf (d. 1757); most holdings are 16th–18th-century Ottoman commissions"
+    ],
+    "cross_tradition_caveats": [
+      "Zerefşân paper technique is shared across Ottoman, Safavid, and Mughal luxury production; without seeing the headpiece illumination style, tradition cannot be isolated on paper decoration alone",
+      "The Mevlana anthology format is common across Anatolian, Azerbaijani, and Central Asian Ottoman-influenced contexts",
+      "No colophon data or explicit attribution is available from the examined folio; date range remains broad (16th–18th century)"
+    ]
+  },
+  "codicology": null,
+  "visual_confirmation": {
+    "verdict": "probable",
+    "confidence": 0.60,
+    "screenshots_examined": 1,
+    "limitations": [
+      "Single folio opening examined (p007); headpiece folio and colophon not examined",
+      "YEK viewer screenshot at approximately 1536 px width; gold particles not individually resolved",
+      "Warm golden margin tone is consistent with zerefşân but cannot be confirmed at particle level at this resolution",
+      "YEK viewer chrome (toolbars, interface elements) reduces effective image area"
+    ]
+  },
+  "folio_analyses": [
+    {
+      "folio": "p007",
+      "source_image": "corpus/yek_screenshots/nuruosmaniye_03821_p007.png",
+      "decoration_type": "paper_decoration",
+      "elements": [
+        {
+          "element_type": "gold-sprinkled paper",
+          "element_type_ottoman": "zerefşân kâğıt",
+          "element_type_persian": "zarafshān",
+          "motifs": [],
+          "colors": ["gold particles on cream/off-white paper"],
+          "gold_technique": "serpme / zerefşân",
+          "position": "margins (sahife kenarları), both pages of the opening"
+        },
+        {
+          "element_type": "ruling / frame lines",
+          "element_type_ottoman": "cedvel",
+          "element_type_persian": "jadval",
+          "motifs": [],
+          "colors": ["gold (yaldız)", "black"],
+          "gold_technique": "altın cedvel",
+          "position": "framing the text block on both pages"
+        },
+        {
+          "element_type": "text block",
+          "element_type_ottoman": "metin sahası",
+          "element_type_persian": null,
+          "motifs": [],
+          "colors": ["black ink on cream paper", "red ink (rubrics/headings)"],
+          "gold_technique": null,
+          "position": "central text area, written in naskh script with ta'lik / nestaʿlîk headings"
+        }
+      ],
+      "paper_decoration": {
+        "type": "gold_sprinkled",
+        "technique_terms": {
+          "ottoman": "zerefşân / serpme",
+          "persian": "zarafshān",
+          "arabic": "dhahab marsūsh"
+        },
+        "details": "Both pages of the opening show margins with a warm golden tone consistent with gold-sprinkled treatment. The margins appear slightly warmer/more golden than the text area paper, suggesting zerefşân application. However, individual gold particles are not resolved at this resolution. The paper ground is a light cream color. Gold and black ruling lines frame the text block. The catalogue confirms: 'Sahife kenarları zerefşan tekniğiyle süslenmiştir.' The manuscript is noted to have an illuminated headpiece (başlığı tezhipli) which is not visible on this page opening. The text appears to be an anthology of Mevlana selections (İntihâb-ı Dîvân-ı Mevlânâ)."
+      },
+      "style_attribution": {
+        "tradition": "Ottoman",
+        "period": "16th–18th century [undetermined]",
+        "workshop": "Standard Ottoman luxury manuscript production",
+        "confidence": 0.40,
+        "justification": "Gold-sprinkled margins with gold cedvel are a standard feature across several centuries of Ottoman manuscript production. Without seeing the illuminated headpiece or having colophon data, the dating range remains broad. The Mevlana anthology content is consistent with Ottoman literary taste across a wide period."
+      },
+      "condition_notes": "Paper appears in stable condition. Some overall yellowing/aging visible. No obvious damage, repairs, or losses visible in the screenshot.",
+      "analysis_limitations": "Image is a YEK viewer screenshot at moderate resolution (~1536 px width). The zerefşân is not individually resolved at particle level — the verdict is 'probable' based on the warm golden margin tone and catalogue confirmation. The illuminated headpiece mentioned in the catalogue is not visible on this folio; a separate examination of the headpiece pages would strengthen the analysis. YEK viewer chrome reduces effective image area."
+    }
+  ],
+  "terminology": {
+    "terms_used": [
+      {
+        "concept": "gold-sprinkled paper",
+        "ottoman": "zerefşân kâğıt / serpme / yaldız serpme",
+        "arabic": "dhahab marsūsh (ذهب مرشوش)",
+        "persian": "zarafshān / afshān (افشان)",
+        "english": "gold-sprinkled paper"
+      },
+      {
+        "concept": "ruling / frame lines",
+        "ottoman": "cedvel / altın cedvel",
+        "arabic": "jadwal (جدول)",
+        "persian": "jadval",
+        "english": "gold ruling lines / frame"
+      },
+      {
+        "concept": "illuminated headpiece",
+        "ottoman": "serlevha / başlığı tezhipli",
+        "arabic": "ʿunwān (عنوان)",
+        "persian": "sarlawḥ (سرلوح)",
+        "english": "illuminated headpiece"
+      },
+      {
+        "concept": "anthology / composite manuscript",
+        "ottoman": "mecmû'a / intihâb",
+        "arabic": "majmūʿa (مجموعة) / intihāb (انتخاب)",
+        "persian": "majmūʿa / muntakhab",
+        "english": "anthology / selection"
+      },
+      {
+        "concept": "page margins",
+        "ottoman": "sahife kenarları / hâşiye",
+        "arabic": "ḥāshiya (حاشية)",
+        "persian": "ḥāshiya",
+        "english": "page margins"
+      }
+    ]
+  },
+  "bibliography": [
+    {
+      "citation": "Blair, Sheila S. 'Color and Gold: The Decorated Papers Used in Manuscripts in Later Islamic Times.' Muqarnas XVII (2000): 24–36.",
+      "relevance": "Foundational study of gold-sprinkled and decorated papers in Islamic manuscripts; directly relevant to the zerefşân technique present in this manuscript.",
+      "relevance_score": 0.95,
+      "access_notes": "Peer-reviewed journal article; available through JSTOR and institutional subscriptions."
+    },
+    {
+      "citation": "Bloom, Jonathan M. Paper Before Print: The History and Impact of Paper in the Islamic World. New Haven: Yale University Press, 2001.",
+      "relevance": "Comprehensive history of paper in the Islamic world, including the development of decorated paper techniques and their spread through Ottoman and Persianate manuscript production.",
+      "relevance_score": 0.80,
+      "access_notes": "Standard reference monograph; widely available."
+    },
+    {
+      "citation": "Gacek, Adam. The Arabic Manuscript Tradition: A Glossary of Technical Terms and Bibliography. Leiden: Brill, 2001.",
+      "relevance": "Standard terminology reference for codicological description; useful for cross-referencing Ottoman and Arabic terms for ruling, paper, and decoration features in this record.",
+      "relevance_score": 0.70,
+      "access_notes": "Reference work; available through library collections."
+    },
+    {
+      "citation": "Gacek, Adam. Arabic Manuscripts: A Vademecum for Readers. Leiden: Brill, 2009.",
+      "relevance": "Complementary glossary covering page layout, ruling systems (jadwal/cedvel), and manuscript format terms relevant to this record's framing system.",
+      "relevance_score": 0.68,
+      "access_notes": "Reference work; widely available."
+    },
+    {
+      "citation": "Tanındı, Zeren. 'Bibliophile Aghas (Eunuchs) at Topkapı Sarayı.' Muqarnas 21 (2004): 333–343.",
+      "relevance": "Addresses Ottoman luxury manuscript production and the circulation of decorated manuscripts through court and waqf channels; relevant context for Nuruosmaniye collection holdings.",
+      "relevance_score": 0.62,
+      "access_notes": "Peer-reviewed journal article; available through JSTOR."
+    },
+    {
+      "citation": "Déroche, François. The Abbasid Tradition: Qur'ans of the 8th to the 10th Centuries AD. The Nasser D. Khalili Collection of Islamic Art, vol. I. London: Nour Foundation / Azimuth Editions / Oxford University Press, 1992.",
+      "relevance": "Standard codicological reference for manuscript description conventions; provides framework for ruling systems and scribal practice terminology used in this record.",
+      "relevance_score": 0.55,
+      "access_notes": "Foundational reference; available in major research libraries."
+    },
+    {
+      "citation": "Mahir, Banu. Osmanlı Minyatür Sanatı. Istanbul: Kabalcı Yayınevi, 2005. [Turkish]",
+      "relevance": "Survey of Ottoman manuscript arts including luxury book production context; relevant for situating the Mevlana anthology within the Ottoman literary manuscript tradition.",
+      "relevance_score": 0.52,
+      "access_notes": "In Turkish. Available in Turkish research libraries and through TÜBITAK resources."
+    },
+    {
+      "citation": "Raby, Julian, and Zeren Tanındı. Turkish Bookbinding in the 15th Century: The Foundation of an Ottoman Court Style. London: Azimuth Editions, 1993.",
+      "relevance": "Documents early Ottoman court manuscript production conventions including decorated paper use and ruling systems; provides comparative framework for Ottoman luxury manuscripts in Nuruosmaniye-type collections.",
+      "relevance_score": 0.58,
+      "access_notes": "Exhibition/scholarly catalog; available in major Islamic art research libraries."
+    }
+  ],
+  "suggested_collections": [
+    {
+      "institution": "YEK Portal (Yazma Eserler Kurumu)",
+      "reason": "Central Turkish manuscript catalogue; the source catalogue record for this manuscript. Search additional Nuruosmaniye zerefşân manuscripts for comparative study.",
+      "digital_access": "https://portal.yek.gov.tr"
+    },
+    {
+      "institution": "Topkapı Sarayı Müzesi Kütüphanesi",
+      "reason": "Parallel Ottoman luxury manuscript holdings with zerefşân paper; imperial collections directly comparable to waqf collections like Nuruosmaniye.",
+      "digital_access": "https://kutuphane.tsmk.gov.tr"
+    },
+    {
+      "institution": "Chester Beatty Library",
+      "reason": "Major holding of Ottoman and Persianate manuscripts with digitized images; useful for comparative zerefşân and cedvel examples.",
+      "digital_access": "https://viewer.cbl.ie"
+    }
+  ],
+  "provenance": {
+    "donor": "Nuruosmaniye Vakfı (waqf of Sultan III. Osman, r. 1754–1757)",
+    "waqf": "Nuruosmaniye Camii Kütüphanesi vakfı, Istanbul",
+    "previous_shelfmarks": [],
+    "notes": "All Nuruosmaniye holdings bear the tuğralı vakıf mühürü (sultanic seal) of III. Osman. The collection was founded in 1755 with the completion of the Nuruosmaniye Mosque complex. Manuscripts were likely acquired or transferred from earlier Ottoman collections. The catalogue was compiled by Fatih Yıldız; catalogue descriptions for this collection are thorough regarding paper decoration."
+  },
+  "analysis_metadata": {
+    "analyzed_date": "2026-02-26",
+    "analyzer": "claude-code-manuscript-pipeline",
+    "image_source": "YEK portal viewer screenshot (portal.yek.gov.tr), folio p007",
+    "image_quality_notes": "Single YEK viewer screenshot at approximately 1536 px width. Moderate resolution; sufficient for identifying broad paper decoration type (zerefşân) but insufficient to resolve individual gold particles. Verdict is 'probable' accordingly. The illuminated headpiece recorded in the catalogue was not captured in the examined screenshot and remains unexamined.",
+    "folios_examined": ["p007"],
+    "folios_not_examined": "All folios except p007 were not examined visually. The illuminated headpiece (başlığı tezhipli) documented in the YEK catalogue record requires examination of the opening folio(s). Colophon and endpapers not examined."
+  }
+}

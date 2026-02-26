@@ -1,0 +1,251 @@
+{
+  "record_id": "veliyyuddin_efendi_v3099",
+  "collection": {
+    "institution": "Veliyyuddin Efendi Kütüphanesi",
+    "city": "Istanbul",
+    "country": "Turkey",
+    "shelfmark": "V 3099",
+    "yek_url": "https://portal.yek.gov.tr/yekis/index.xhtml?yek_id=547179"
+  },
+  "manuscript": {
+    "title": "Tehzibu'l-Luga (Tahdhīb al-Lugha / تهذيب اللغة)",
+    "author": "Ebû Mansûr Muhammed ibn Ahmed el-Ezherî (Abū Manṣūr Muḥammad ibn Aḥmad al-Azharī, d. 980 CE / 370 AH)",
+    "date_ah": null,
+    "date_ce": null,
+    "format": null,
+    "dimensions_mm": {
+      "height": null,
+      "width": null
+    },
+    "folio_count": null
+  },
+  "paper_decoration": {
+    "types": ["gold_sprinkled"],
+    "summary": "Gold-sprinkled paper (zerefşân) is attested on the endpapers. The YEK catalogue records 'zerefşân kâğıtla kaplanmıştır': the endpapers are covered/lined with gold-sprinkled paper, which serves as the ground for an elaborate painted floral decoration (şükûfe) in naturalistic Ottoman style. Only the endpaper opening (p001) was visually examined; interior text folios were not inspected, so it cannot be confirmed whether zerefşân extends to the text paper stock. On present evidence, zerefşân is recorded as an endpaper feature only. This use of luxury decorated paper as endpaper lining is consistent with well-attested Ottoman binding practice, in which gold-sprinkled, marbled, or painted sheets are applied to inside covers as doublure linings.",
+    "technique_terms": {
+      "ottoman": "zerefşân kâğıtla kaplanmıştır",
+      "persian": "zarafshān / kāġaḏ-i afshān",
+      "arabic": "dhahab marsūsh (ذهب مرشوش)"
+    },
+    "catalogue_description": {
+      "paper_field": "zerefsan kagitla kaplanmistir",
+      "notes_field": null,
+      "decoration_field": null
+    }
+  },
+  "workshop_attribution": {
+    "primary_tradition": "ottoman",
+    "workshop_centre": "Istanbul",
+    "date_range_ce": "18th century (tentative)",
+    "confidence": 0.4,
+    "key_indicators": [
+      "Naturalistic şükûfe floral painting on endpapers characteristic of 18th-century Ottoman decorative practice",
+      "Dense compositional field with large rose (gül) and peony sprays typical of late Ottoman flower painting",
+      "Zerefşân paper used as endpaper lining consistent with Ottoman luxury binding conventions",
+      "Veliyyuddin Efendi collection established 1769 CE provides a terminus ante quem for acquisition"
+    ],
+    "cross_tradition_caveats": [
+      "Endpapers may not be coeval with the manuscript text — rebinding could introduce later decorative papers from a different production context",
+      "The zerefşân ground layer cannot be independently verified at viewer screenshot resolution; attribution rests primarily on the YEK catalogue entry",
+      "Al-Azharī's Tahdhīb al-Lugha is a 10th-century Arabic lexicographic work; the manuscript copy itself could date from any subsequent century of production"
+    ]
+  },
+  "codicology": null,
+  "visual_confirmation": {
+    "verdict": "probable",
+    "confidence": 0.55,
+    "screenshots_examined": 1,
+    "limitations": [
+      "Only the endpaper opening (p001) was examined — no interior text folios were checked",
+      "YEK viewer screenshot at moderate resolution (~1536 × 864 px); IIIF direct download not available",
+      "The zerefşân gold particles beneath the floral paint layer cannot be individually distinguished at this resolution",
+      "Classification relies substantially on the YEK catalogue phrase 'zerefsan kagitla kaplanmistir' rather than independent visual confirmation of gold particles"
+    ]
+  },
+  "folio_analyses": [
+    {
+      "folio": "p001",
+      "source_image": "corpus/visual_confirmation_batch1/veliyyuddin_efendi_v3099_p001_iiif.png",
+      "decoration_type": "paper_decoration",
+      "elements": [
+        {
+          "element_type": "decorated endpaper with floral painting",
+          "element_type_ottoman": "çiçekli iç kapak kâğıdı",
+          "element_type_persian": null,
+          "motifs": [
+            "naturalistic flowers (şükûfe)",
+            "roses (gül)",
+            "peonies",
+            "leafy branches",
+            "composite floral sprays"
+          ],
+          "colors": [
+            "pink/rose",
+            "red",
+            "green (leaves/stems)",
+            "cream/off-white ground",
+            "touches of blue"
+          ],
+          "gold_technique": "possible zerefşân ground beneath floral painting [?]",
+          "position": "both inside covers / doublures visible in the opening; dense floral painting covers the full surface"
+        },
+        {
+          "element_type": "gold-sprinkled paper (endpaper ground)",
+          "element_type_ottoman": "zerefşân kâğıtla kaplanmış",
+          "element_type_persian": "zarafshān",
+          "motifs": [],
+          "colors": [
+            "gold particles beneath/between floral motifs"
+          ],
+          "gold_technique": "serpme / zerefşân (as ground layer)",
+          "position": "underlying paper surface of the endpapers"
+        }
+      ],
+      "paper_decoration": {
+        "type": "gold_sprinkled",
+        "technique_terms": {
+          "ottoman": "zerefşân kâğıtla kaplanmıştır",
+          "persian": "zarafshān",
+          "arabic": "dhahab marsūsh"
+        },
+        "details": "The screenshot shows what appears to be the inside front and back covers (or endpaper opening) of the manuscript, featuring elaborate floral painted decoration. Both surfaces display dense naturalistic floral compositions with large rose and peony sprays, leaves, stems, and smaller blossoms in pink, red, green, and cream tones. The painting style shows naturalistic Ottoman flower painting (şükûfe) with a generous, spreading composition. The catalogue entry states 'zerefsan kagitla kaplanmistir': the endpapers are covered/lined with gold-sprinkled paper. The zerefşân serves as the ground layer beneath or between the floral painting, though at this resolution the gold particles cannot be individually distinguished from the painted surface. The floral endpaper decoration is a well-attested Ottoman binding tradition, where decorated papers (gold-sprinkled, marbled, or painted) are used to line the inside covers. The quality and density of the floral painting suggest high-level production. Critically, only the endpaper opening was examined; the main text paper stock should be checked separately to determine whether zerefşân extends beyond the endpapers."
+      },
+      "style_attribution": {
+        "tradition": "Ottoman",
+        "period": "18th century [tentative]",
+        "workshop": "Naturalistic floral painting style consistent with 18th-century Ottoman şükûfe traditions; could be original binding production or a later re-endpapering",
+        "confidence": 0.45,
+        "justification": "The naturalistic, spreading floral compositions with large roses and peonies on endpapers are characteristic of the 18th-century Ottoman decorative tradition. This style of painted endpaper became increasingly popular from the late 17th century onward, with particularly fine examples in 18th-century bindings. Endpapers can, however, be replaced during rebinding, so the floral decoration may not be coeval with the manuscript text (Tahdhīb al-Lugha is a classical 10th-century Arabic lexicographic work). The zerefşân ground beneath the painting adds a layer of luxury consistent with high-quality Ottoman binding practice. The Veliyyuddin Efendi collection was established in 1769 CE, providing a terminus ante quem for at least the acquisition of this volume."
+      },
+      "condition_notes": "The floral painted endpapers appear well-preserved with vivid colours intact. Some slight wear or rubbing may be visible at the edges where the endpapers meet the binding boards. Overall condition appears good.",
+      "analysis_limitations": "Image is a YEK viewer screenshot at moderate resolution. The floral painting is clearly visible and identifiable, but the zerefşân ground layer beneath it cannot be independently verified at this resolution — gold particles are likely obscured by the overlying paint. The catalogue's specification of 'zerefsan kagitla kaplanmistir' is the primary evidence for the gold-sprinkled substrate. It is also possible that 'zerefsan' in the catalogue refers to gold elements within the floral painting rather than a separately prepared sprinkled ground, though the phrasing 'kagitla kaplanmistir' (covered/lined with paper) strongly suggests prepared zerefşân paper sheets were applied. Only the endpaper opening was examined; the main text pages were not checked.",
+      "workshop_attribution": null
+    }
+  ],
+  "terminology": {
+    "terms_used": [
+      {
+        "concept": "gold-sprinkled paper (endpaper lining)",
+        "ottoman": "zerefşân kâğıtla kaplanmıştır",
+        "arabic": "dhahab marsūsh (ذهب مرشوش)",
+        "persian": "zarafshān / kāġaḏ-i afshān",
+        "english": "endpapers covered/lined with gold-sprinkled paper"
+      },
+      {
+        "concept": "gold-sprinkling technique",
+        "ottoman": "serpme / zerefşân",
+        "arabic": "rassh (رش)",
+        "persian": "zarafshān / afshān (افشان)",
+        "english": "gold-sprinkled (particles scattered on paper surface)"
+      },
+      {
+        "concept": "naturalistic flower painting",
+        "ottoman": "şükûfe",
+        "arabic": null,
+        "persian": "shukūfa (شکوفه)",
+        "english": "naturalistic flower painting; Ottoman decorative genre common in endpapers and bindings"
+      },
+      {
+        "concept": "rose",
+        "ottoman": "gül",
+        "arabic": "ward (ورد)",
+        "persian": "gul (گل)",
+        "english": "rose"
+      },
+      {
+        "concept": "endpaper / inside cover lining",
+        "ottoman": "iç kapak kâğıdı",
+        "arabic": null,
+        "persian": "āstar-e badraqa (آستر بدرقه)",
+        "english": "endpaper; doublure lining"
+      }
+    ]
+  },
+  "bibliography": [
+    {
+      "citation": "Blair, Sheila S. 'Color and Gold: The Decorated Papers Used in Manuscripts in Later Islamic Times.' Muqarnas XVII (2000): 24–36.",
+      "relevance": "Foundational study of decorated paper techniques in Islamic manuscripts, including gold-sprinkled (zerefşân) paper and its role in Ottoman and Persianate book arts. Directly relevant to the endpaper decoration in this record.",
+      "relevance_score": 0.95,
+      "access_notes": "Available through JSTOR (Brill). Peer-reviewed."
+    },
+    {
+      "citation": "Scheper, Karin. The Technique of Islamic Bookbinding: Methods, Materials and Regional Varieties. Leiden: Brill, 2015.",
+      "relevance": "Detailed technical study of Islamic bookbinding methods, including the use of decorated papers (marbled, gold-sprinkled, painted) as doublure and endpaper materials. Directly relevant to the endpaper binding context of this manuscript.",
+      "relevance_score": 0.88,
+      "access_notes": "Monograph. Available through Brill and major academic libraries."
+    },
+    {
+      "citation": "Tanındı, Zeren. 'Osmanlı Döneminde Elyazması Kitabın Süslenmesi.' In Osmanlı Uygarlığı, edited by Halil İnalcık and Günsel Renda, 2: 866–895. Istanbul: Kültür Bakanlığı, 2003. [In Turkish]",
+      "relevance": "Overview of Ottoman manuscript decoration practices, including the role of decorated endpapers and the integration of zerefşân paper into binding programmes. Directly relevant to the Ottoman şükûfe floral endpaper tradition.",
+      "relevance_score": 0.85,
+      "access_notes": "Turkish-language. Available in major Turkish academic libraries."
+    },
+    {
+      "citation": "Bloom, Jonathan M. Paper Before Print: The History and Impact of Paper in the Islamic World. New Haven: Yale University Press, 2001.",
+      "relevance": "Comprehensive history of paper in the Islamic world, including decorated paper production and use in manuscript culture. Essential background for understanding zerefşân paper as a material practice.",
+      "relevance_score": 0.82,
+      "access_notes": "Monograph. Wide library availability."
+    },
+    {
+      "citation": "Gacek, Adam. Arabic Manuscripts: A Vademecum for Readers. Handbook of Oriental Studies, Section 1, Near and Middle East 98. Leiden: Brill, 2009.",
+      "relevance": "Standard reference for Arabic manuscript codicology and terminology. Relevant as the text (Tahdhīb al-Lugha) is an Arabic lexicographic work and for understanding binding/endpaper conventions in the Arabic manuscript tradition.",
+      "relevance_score": 0.72,
+      "access_notes": "Monograph. Wide library availability."
+    },
+    {
+      "citation": "Déroche, François. Islamic Codicology: An Introduction to the Study of Manuscripts in Arabic Script. Translated by Deke Dusinberre and David Radzinowicz. London: Al-Furqan Islamic Heritage Foundation, 2005.",
+      "relevance": "Authoritative guide to Arabic manuscript codicology. Relevant for understanding the production context and codicological conventions of an Arabic lexicographic manuscript in Ottoman collection.",
+      "relevance_score": 0.70,
+      "access_notes": "Monograph. English translation of Manuel de codicologie des manuscrits en écriture arabe (Paris, 2000). Wide library availability."
+    },
+    {
+      "citation": "Loveday, Helen. Islamic Paper: A Study of the Ancient Craft. London: Archetype Publications, 2001.",
+      "relevance": "Technical study of Islamic paper-making traditions. Relevant for understanding the substrate properties of zerefşân paper and its preparation for gold-sprinkling.",
+      "relevance_score": 0.65,
+      "access_notes": "Monograph. Library availability."
+    },
+    {
+      "citation": "Mahir, Banu. Osmanlı Minyatür Sanatı. Istanbul: Kabalcı Yayınevi, 2005. [In Turkish]",
+      "relevance": "Survey of Ottoman miniature painting including floral decoration traditions. The naturalistic şükûfe genre found on the endpapers is placed in its broader Ottoman pictorial context.",
+      "relevance_score": 0.60,
+      "access_notes": "Turkish-language monograph."
+    },
+    {
+      "citation": "Çağman, Filiz, and Zeren Tanındı. Topkapı Sarayı Müzesi İslâm Minyatürleri. Istanbul: Tercüman Sanat ve Kültür Yayınları, 1979. [In Turkish]",
+      "relevance": "Collection catalogue of Islamic miniatures in the Topkapı Palace Museum, with material on Ottoman binding decoration and decorated endpapers. Reference point for the Ottoman şükûfe floral painting tradition.",
+      "relevance_score": 0.58,
+      "access_notes": "Turkish-language collection catalogue. Available in major Turkish and international Islamic art libraries."
+    }
+  ],
+  "suggested_collections": [
+    {
+      "institution": "Süleymaniye Kütüphanesi, Istanbul (YEK Portal)",
+      "reason": "Major repository of Ottoman Arabic manuscripts including numerous copies of al-Azharī's Tahdhīb al-Lugha. Comparative material for text dating and binding conventions.",
+      "digital_access": "https://portal.yek.gov.tr"
+    },
+    {
+      "institution": "Topkapı Sarayı Müzesi Kütüphanesi, Istanbul",
+      "reason": "Holds Ottoman luxury bindings with painted şükûfe endpapers comparable to this specimen. Reference collection for 18th-century Ottoman binding and endpaper decoration.",
+      "digital_access": "https://kutuphane.tsmk.gov.tr"
+    },
+    {
+      "institution": "Chester Beatty Library, Dublin",
+      "reason": "Significant holdings of Ottoman manuscripts with luxury bindings, including decorated endpapers and zerefşân paper. Useful for comparative binding typology.",
+      "digital_access": "https://viewer.cbl.ie"
+    }
+  ],
+  "provenance": {
+    "donor": "Veliyyuddin Efendi (likely Mehmed Veliyyüddin Efendi, şeyhülislam, d. 1768)",
+    "waqf": "Veliyyuddin Efendi Vakfı (waqf collection established c. 1769 CE)",
+    "previous_shelfmarks": [],
+    "notes": "The Veliyyuddin Efendi Kütüphanesi was established in Istanbul as a pious foundation (vakıf) library. The collection shelfmark V 3099 places this manuscript within the Veliyyuddin Efendi collection. The YEK internal record ID is 547179. The terminus ante quem for acquisition is the foundation date of the library (c. 1769 CE), though the manuscript and its binding may be earlier. The donor is traditionally identified as Mehmed Veliyyüddin Efendi, who served as şeyhülislam (chief Ottoman religious jurist); the collection was endowed after his death and now forms part of the Süleymaniye Kütüphanesi holdings accessible via the YEK portal."
+  },
+  "analysis_metadata": {
+    "analyzed_date": "2026-02-26",
+    "analyzer": "claude-code-manuscript-pipeline",
+    "image_source": "YEK portal viewer screenshot (IIIF fallback; direct IIIF download not available due to HTTP/2 / CORS restrictions)",
+    "image_quality_notes": "Single viewer screenshot at approximately 1536 × 864 px. Sufficient to identify the şükûfe floral painting and the general character of the endpaper decoration, but insufficient to independently confirm gold particles in the zerefşân ground layer beneath the paint. The classification as gold_sprinkled relies substantially on the YEK catalogue description ('zerefsan kagitla kaplanmistir'). Interior text folios were not examined.",
+    "folios_examined": ["p001"],
+    "folios_not_examined": "All interior text folios were not examined. Only the endpaper opening (p001) was available in the visual confirmation batch. The text paper stock should be checked to determine whether zerefşân decoration extends beyond the endpapers."
+  }
+}

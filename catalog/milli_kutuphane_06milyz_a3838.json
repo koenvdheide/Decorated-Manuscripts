@@ -1,0 +1,337 @@
+{
+  "record_id": "milli_kutuphane_06milyz_a3838",
+  "collection": {
+    "institution": "Milli Kütüphane Yazmalar",
+    "city": "Ankara",
+    "country": "Turkey",
+    "shelfmark": "06 Mil Yz A 3838",
+    "yek_url": "https://portal.yek.gov.tr/yekis/index.xhtml?yek_id=609578"
+  },
+  "manuscript": {
+    "title": "Külliyât (كليات)",
+    "author": "Rüşenî Dede Ömer Aydınî (Ottoman Sufi poet, d. c. 892/1486–87)",
+    "date_ah": "1030",
+    "date_ce": "1620–1621",
+    "format": "külliyât (collected works) / dîvân",
+    "dimensions_mm": {
+      "height": null,
+      "width": null
+    },
+    "folio_count": null
+  },
+  "paper_decoration": {
+    "types": ["gold_worked", "colored", "illuminated_margins", "framing_system"],
+    "summary": "The opening two pages (ff. 1b–2a) carry spectacular floral gold-worked (çiçek motifli zerkâri) decoration: large botanical motifs — scrolling vines (islîmî), peony-like blossoms (hatâyî gül), and lotus-like flowers in the hatāyī family — painted in gold cover the full margin area of both opening pages. Folio 1b additionally bears a polychrome illuminated serlevha (ʿunwân) headpiece in a pointed arch form with deep blue (lacivert) ground, gold hatāyî scrollwork, and red, green, and pink floral ornament. Gold cetvels (jadval) frame the two-column text blocks throughout the manuscript. From f. 2b onward the margins are plain, confirming the 'ilk iki sayfa' (first two pages) scope of the zerkâri programme, a sharp transition that precisely matches the catalogue description. The paper throughout is described as renkli (colored), saykallı (burnished/polished), and ince âbâdî (thin abadi paper). Six tezhip headpieces mark the divisions of the Külliyât at ff. 1b, 41b, 65b, 100b, 104b, and 152b.",
+    "technique_terms": {
+      "ottoman": "çiçek motifli zerkâri; renkli, saykallı, ince âbâdî kâğıt; altın cetvelli; tezhip serlevha",
+      "persian": "zarkārī-yi gul-dār (زرکاری گل‌دار); kāġaz-i āḇādī-yi ṣayqalī (کاغذ آبادی صیقلی)",
+      "arabic": null
+    },
+    "catalogue_description": {
+      "paper_field": null,
+      "notes_field": "İlk iki sayfa çiçek motifli zerkârî, cetveller yaldızlıdır; Renkli, saykallı, ince abadî kâğıt; Tezhip on folios 1b, 41b, 65b, 100b, 104b, 152b",
+      "decoration_field": null
+    }
+  },
+  "workshop_attribution": {
+    "primary_tradition": "ottoman",
+    "workshop_centre": "Istanbul or major provincial centre — uncertain without colophon",
+    "date_range_ce": "1620–1621",
+    "confidence": 0.70,
+    "key_indicators": [
+      "Dated AH 1030 / CE 1620–21: early 17th century, falling in the reign of Osman II (r. 1618–1622) — a period of continued Ottoman luxury book production",
+      "Floral zerkâri vocabulary dominated by hatāyî peonies, scrolling islîmî vines, and lotus forms — canonical Ottoman nakkaşhâne-i hümâyun motif repertoire",
+      "Polychrome serlevha in pointed arch form with deep blue (lacivert) ground, gold, and red-green-pink accents: consistent with Istanbul court tezhip of the early 17th century",
+      "Six tezhip headpieces marking textual divisions (ff. 1b, 41b, 65b, 100b, 104b, 152b): a structured programme requiring coordinated workshop execution across the full volume",
+      "Saykallı (burnished) colored âbâdî paper: a high-quality imported or specially prepared support associated with prestige commissions"
+    ],
+    "cross_tradition_caveats": [
+      "No colophon naming the place of copying, scribe, or müzehhib is documented in the available catalogue data; Istanbul versus provincial workshop attribution cannot be resolved from visual evidence alone",
+      "Rüşenî Dede was associated with Aydın in western Anatolia; a commission from a provincial Sufi establishment or wealthy patron in western Anatolia cannot be ruled out, though the quality of the decoration implies a professionally trained müzehhib",
+      "The hatāyî-islîmî floral vocabulary is shared across Istanbul, Bursa, and major provincial Ottoman workshops of the early 17th century and does not by itself distinguish capital from regional production"
+    ]
+  },
+  "codicology": {
+    "paper": {
+      "description": "Renkli (colored), saykallı (burnished/polished), ince (thin) âbâdî kâğıt. Âbâdî paper is a refined Eastern paper type, typically thin and smooth, associated with high-quality Persianate and Ottoman manuscript production. The saykallı (burnished) treatment — applying a mühre burnishing tool after coloring — produces a compressed, smooth, and reflective surface that enhances adhesion and sheen of gold and pigment. The specific color of the paper is not recorded in the catalogue text and was not fully evaluable from digital images.",
+      "color": "colored (hue not specified in catalogue; not evaluable from available digital images)",
+      "burnishing": "saykallı — paper burnished after coloring",
+      "watermark": null,
+      "provenance_type": "âbâdî (Eastern paper, named for a production centre; associated with Persia and Anatolia)"
+    },
+    "ruling": {
+      "description": "Altın cetvelli (gold cetvels) framing the two-column text blocks throughout the manuscript, confirmed visible on both the decorated opening (ff. 1b–2a) and the plain-margined pages immediately following (f. 2b onward).",
+      "ink_colors": ["gold"],
+      "lines_per_page": null
+    },
+    "binding": null,
+    "format": "külliyât / dîvân",
+    "condition_summary": "Paper appears well-preserved in the digitized opening. Floral zerkâri gold retains strong color without visible oxidation. The manuscript was in private ownership (Feride Erkal family) before its 1962 acquisition, with no conservation interventions recorded.",
+    "conservation_history": "Acquired by Milli Kütüphane on 27 July 1962, purchased from the Feride Erkal family. No conservation campaigns recorded in available catalogue data."
+  },
+  "visual_confirmation": {
+    "verdict": "confirmed",
+    "confidence": 0.95,
+    "screenshots_examined": 5,
+    "limitations": [
+      "Tezhip headpieces at ff. 41b, 65b, 100b, 104b, and 152b not examined — only the opening (ff. 1b–2a) and the immediately following pages were checked in the targeted folio navigation session",
+      "Paper color and burnishing quality ('renkli, saykallı') are not fully evaluable from digital images alone; physical examination would provide a fuller codicological characterization",
+      "Total folio count not available in catalogue data"
+    ]
+  },
+  "folio_analyses": [
+    {
+      "folio": "ff. 1b–2a (IIIF p004)",
+      "source_image": "corpus/visual_confirmation_batch2/milli_kutuphane_06milyz_a3838_targeted_p4_iiif.png",
+      "decoration_types": ["gold_worked", "illuminated_margins", "framing_system"],
+      "elements": [
+        {
+          "type": "gold_worked_margins",
+          "description": "Large-scale floral zerkâri covering the full margin area of both opening pages (ff. 1b and 2a). Botanical motifs in the hatāyī family: scrolling vines (islîmî), peony-like blossoms (hatâyî gül), and lotus-form flowers arranged in a flowing scroll composition. Gold application is dense; motifs are large and cover the outer, head, and foot margins of both pages. The catalogue term 'çiçek motifli' (floral motif) accurately reflects the dominantly botanical rather than geometric character of the programme. Gold retains strong color with no apparent oxidation at the examined resolution. Folio number '1' visible at the top right of the page confirms this is f. 1b.",
+          "location": "All four margins of ff. 1b and 2a (outer, inner gutter, head, foot)",
+          "confidence": 0.99
+        },
+        {
+          "type": "illuminated_headpiece",
+          "description": "Polychrome serlevha (ʿunwân) on f. 1b in classic Ottoman pointed arch form. Ground: deep blue (lacivert / lāzaward). Decoration incorporates gold hatāyî scrollwork with red, green, and pink floral infill. Blue pendant ornaments hang from the arch shoulders — a characteristic Ottoman serlevha feature. A gold central cartouche contains the opening text. The headpiece is set within the gold cedvel frame system with tığ finials extending upward into the head margin.",
+          "location": "f. 1b head",
+          "confidence": 0.95
+        },
+        {
+          "type": "framing_system",
+          "description": "Gold cetvels framing the two-column text blocks on both ff. 1b and 2a. The ruling clearly delineates the two hemistich columns of the dîvân format.",
+          "location": "Text block frame, ff. 1b and 2a",
+          "confidence": 0.95
+        }
+      ],
+      "script": "Ottoman taʿlîk or nesih (dîvân format, two columns of verse per page)",
+      "notes": "The visual effect of large gold botanical motifs against the colored burnished âbâdî paper is striking. The opening constitutes the most elaborate decorative statement of the manuscript, functioning as the formal dedication opening of the Külliyât. The two-column verse layout is the standard format for Ottoman dîvân and külliyât manuscripts."
+    },
+    {
+      "folio": "ff. 2b–3a (IIIF p005)",
+      "source_image": "corpus/visual_confirmation_batch2/milli_kutuphane_06milyz_a3838_targeted_p5_iiif.png",
+      "decoration_types": ["framing_system"],
+      "elements": [
+        {
+          "type": "framing_system",
+          "description": "Gold cetvels framing the two-column text blocks on both pages. No zerkâri or other margin decoration present on either page. The transition from the decorated opening to plain-margined body text is immediate and deliberate.",
+          "location": "Text block frame, ff. 2b and 3a",
+          "confidence": 0.95
+        }
+      ],
+      "script": "Ottoman taʿlîk or nesih; two-column verse format continuous from ff. 1b–2a",
+      "notes": "Plain margins from f. 2b onward, confirming that the zerkâri programme is strictly confined to 'ilk iki sayfa' (the first two pages). The sharp transition is deliberate: concentrating luxury paper decoration on the opening bifolio is standard practice in Ottoman manuscript production. Gold cetvels continue unchanged, providing visual continuity with the decorated opening."
+    }
+  ],
+  "terminology": {
+    "terms_used": [
+      {
+        "concept": "floral-motif gold-worked decoration",
+        "ottoman": "çiçek motifli zerkâri",
+        "arabic": null,
+        "persian": "zarkārī-yi gul-dār (زرکاری گل‌دار)",
+        "english": "floral-motif gold-worked: gold botanical forms (peonies, scrolling vines, lotus flowers) worked onto the paper or margin surface. The Ottoman qualifier 'çiçek motifli' specifies botanical rather than geometric zerkâri patterning."
+      },
+      {
+        "concept": "gold-worked paper / margin decoration",
+        "ottoman": "zerkâri (زرکاری)",
+        "arabic": null,
+        "persian": "zarkārī (زرکاری)",
+        "english": "gold-worked: motifs applied in gold to the paper or margin surface, distinct from gold-sprinkled (zerefşân) which scatters fine particles"
+      },
+      {
+        "concept": "collected works (of a poet)",
+        "ottoman": "külliyât (كليات)",
+        "arabic": "kulliyyāt (كليات)",
+        "persian": "kulliyyāt (کلیات)",
+        "english": "collected works: the complete poetic output of an author gathered in a single volume; in Ottoman usage, typically encompasses a poet's full dîvân production"
+      },
+      {
+        "concept": "burnished paper",
+        "ottoman": "saykallı kâğıt",
+        "arabic": null,
+        "persian": "kāġaz-i ṣayqalī (کاغذ صیقلی)",
+        "english": "burnished/polished paper: paper processed with a mühre burnishing tool after coloring, producing a smooth, compressed, reflective surface; enhances adhesion and visual quality of gold and pigment applications"
+      },
+      {
+        "concept": "abadi paper",
+        "ottoman": "âbâdî kâğıt",
+        "arabic": null,
+        "persian": "kāġaz-i āḇādī (کاغذ آبادی)",
+        "english": "abadi paper: a high-quality Eastern paper type, typically thin and smooth, named for a production centre (Ābādī); associated with luxury manuscript production in the Ottoman and Safavid traditions"
+      },
+      {
+        "concept": "first two pages [scope specification]",
+        "ottoman": "ilk iki sayfa",
+        "arabic": null,
+        "persian": null,
+        "english": "first two pages — standard Ottoman catalogue phrase (YEK conventions) specifying that the zerkâri programme is confined to the opening bifolio (ff. 1b–2a)"
+      },
+      {
+        "concept": "illuminated headpiece",
+        "ottoman": "serlevha",
+        "arabic": "ʿunwān (عنوان)",
+        "persian": "sarlawḥ (سرلوح)",
+        "english": "illuminated headpiece at the top of the text opening; in this manuscript in classic Ottoman pointed arch form with lacivert ground"
+      },
+      {
+        "concept": "illumination / gilded manuscript decoration",
+        "ottoman": "tezhip",
+        "arabic": "tadhdhīb (تذهيب)",
+        "persian": "taẕhīb (تذهیب)",
+        "english": "illumination: the art of decorating manuscripts with gold and pigments; applied here to the six headpieces at divisional openings throughout the Külliyât"
+      },
+      {
+        "concept": "ruling lines / frame",
+        "ottoman": "cedvel / cetvel",
+        "arabic": "jadwal (جدول)",
+        "persian": "jadval",
+        "english": "ruling lines framing the text block; in this manuscript executed in gold (altın cetvelli) throughout"
+      },
+      {
+        "concept": "hatāyī scroll motifs",
+        "ottoman": "hatâyî (ختایی)",
+        "arabic": null,
+        "persian": "khatāyī (ختایی)",
+        "english": "Chinese-derived floral scrollwork: peony, lotus, and composite flower forms in arabesque scroll; dominant motif family in the zerkâri opening"
+      },
+      {
+        "concept": "arabesque scroll",
+        "ottoman": "islîmî",
+        "arabic": null,
+        "persian": "islīmī (اسلیمی)",
+        "english": "arabesque: curling vegetal scroll, characteristically paired with hatāyî motifs in Ottoman tezhip and zerkâri decoration"
+      },
+      {
+        "concept": "lapis / deep blue ground",
+        "ottoman": "lacivert",
+        "arabic": null,
+        "persian": "lāzaward (لازورد)",
+        "english": "lapis-blue ground color; the standard high-prestige ground for Ottoman luxury serlevha headpieces"
+      },
+      {
+        "concept": "finials / spike extensions from headpiece",
+        "ottoman": "tığ",
+        "arabic": null,
+        "persian": null,
+        "english": "tığ: spike-like or flame-like finials extending upward from a serlevha headpiece or medallion into the margin; a characteristic Ottoman illumination convention visible on the f. 1b headpiece"
+      }
+    ]
+  },
+  "bibliography": [
+    {
+      "citation": "YEK Portal catalogue record for Milli Kütüphane MS 06 Mil Yz A 3838 (YEK ID 609578). portal.yek.gov.tr.",
+      "relevance": "Primary source: the YEK catalogue entry provides the core decoration description ('İlk iki sayfa çiçek motifli zerkârî, cetveller yaldızlıdır; Renkli, saykallı, ince abadî kâğıt; Tezhip on folios 1b, 41b, 65b, 100b, 104b, 152b') and acquisition data (purchased from Feride Erkal family, 27.7.1962).",
+      "relevance_score": 1.0,
+      "access_notes": "Accessible at https://portal.yek.gov.tr/yekis/index.xhtml?yek_id=609578"
+    },
+    {
+      "citation": "Blair, Sheila S. 'Color and Gold: The Decorated Papers Used in Manuscripts in Later Islamic Times.' Muqarnas 17 (2000): 24–36.",
+      "relevance": "The foundational study on decorated paper techniques in Islamic manuscripts, with analysis of zerkâri (gold-worked paper) and gold-sprinkled paper traditions in Ottoman and Persian contexts, including how botanical motifs are rendered in gold. Essential for situating the çiçek motifli zerkâri of ff. 1b–2a within the wider tradition.",
+      "relevance_score": 0.95,
+      "access_notes": "Available via JSTOR. Open access through Brill."
+    },
+    {
+      "citation": "Tanındı, Zeren. 'Some Problems of Ottoman Manuscript Illumination.' Manuscripts of the Middle East 4 (1989): 54–59.",
+      "relevance": "Foundational study of Ottoman manuscript illumination addressing the Istanbul nakkaşhâne's decorative vocabulary and its relationship to provincial workshops — directly relevant to the workshop attribution question for this 1620–21 Külliyât.",
+      "relevance_score": 0.85,
+      "access_notes": "Available in research libraries; accessible via Leiden University."
+    },
+    {
+      "citation": "Çağman, Filiz, and Zeren Tanındı. The Topkapı Saray Museum: The Albums and Illustrated Manuscripts. Translated and edited by J. M. Rogers. Boston: Little, Brown, 1986.",
+      "relevance": "Authoritative study of Topkapı manuscripts covering the decorative types and serlevha programmes of luxury dîvân and külliyât manuscripts from the Ottoman court tradition, including material from the early 17th century relevant to the period of this manuscript's production.",
+      "relevance_score": 0.75,
+      "access_notes": "Available in major research libraries."
+    },
+    {
+      "citation": "Bağcı, Serpil, Filiz Çağman, Günsel Renda, and Zeren Tanındı. Ottoman Painting. Ankara: Ministry of Culture and Tourism, 2010. [Turkish edition: Osmanlı Resim Sanatı. Istanbul: Kültür ve Turizm Bakanlığı Yayınları, 2006.]",
+      "relevance": "Comprehensive survey of Ottoman visual arts including book decoration, with coverage of the early 17th-century period, tezhip conventions in Sufi and literary manuscript production, and the hatāyî-islîmî floral vocabulary visible in this manuscript.",
+      "relevance_score": 0.72,
+      "access_notes": "English edition widely available; Turkish edition available in Turkish research libraries."
+    },
+    {
+      "citation": "Mahir, Banu. Osmanlı Minyatür Sanatı. Istanbul: Kabalcı Yayınevi, 2005. [In Turkish]",
+      "relevance": "Survey of Ottoman miniature painting and decoration with coverage of the early 17th-century period, including the decoration programmes of dîvân and külliyât manuscripts and the role of the nakkaşhâne in setting stylistic norms.",
+      "relevance_score": 0.70,
+      "access_notes": "Available in Turkish research libraries. Turkish-language."
+    },
+    {
+      "citation": "Bloom, Jonathan M. Paper Before Print: The History and Impact of Paper in the Islamic World. New Haven and London: Yale University Press, 2001.",
+      "relevance": "Essential survey of Islamic paper history including abâdî and other Eastern paper types, burnishing techniques (saykallı), and the role of decorated paper in luxury Ottoman and Persian manuscript production.",
+      "relevance_score": 0.80,
+      "access_notes": "Available in research libraries and university library networks."
+    },
+    {
+      "citation": "Déroche, François. Islamic Codicology: An Introduction to the Study of Manuscripts in Arabic Script. Translated by Deke Dusinberre and David Radzinowicz. London: Al-Furqan Islamic Heritage Foundation, 2005.",
+      "relevance": "Standard reference on Islamic manuscript codicology including paper types and treatments (burnishing, sizing, colored papers), ruling systems (jadwal/cedvel), and physical description conventions applicable to this Ottoman manuscript.",
+      "relevance_score": 0.78,
+      "access_notes": "Available in research libraries."
+    },
+    {
+      "citation": "Gacek, Adam. Arabic Manuscripts: A Vademecum for Readers. Brill, Leiden/Boston, 2009.",
+      "relevance": "Reference for manuscript codicological and layout terminology including paper burnishing (ṣaqlī), ruling conventions (jadwal), and dîvân manuscript formats. Provides standardized Arabic-origin terms cross-referenced in this record.",
+      "relevance_score": 0.70,
+      "access_notes": "Available in research libraries."
+    },
+    {
+      "citation": "Andrews, Walter G. Poetry's Voice, Society's Song: Ottoman Lyric Poetry. Seattle: University of Washington Press, 1985.",
+      "relevance": "Study of Ottoman lyric poetry traditions and the circulation of dîvân and külliyât manuscripts, providing context for understanding why Rüşenî Dede's Külliyât — compiled more than a century after his death (d. c. 892/1486) — would be commissioned in luxury format in AH 1030/CE 1620–21.",
+      "relevance_score": 0.65,
+      "access_notes": "Available in research libraries."
+    },
+    {
+      "citation": "Karamustafa, Ahmet T. God's Unruly Friends: Dervish Groups in the Islamic Later Middle Period 1200–1550. Salt Lake City: University of Utah Press, 1994.",
+      "relevance": "Contextual reference for Ottoman Sufi literary culture and the devotional manuscript traditions associated with Sufi orders. Rüşenî Dede was a leading figure in the Halvetiyye-Rüşeniyye tradition; luxury copies of Sufi poets' collected works were a standard element of Sufi institutional culture.",
+      "relevance_score": 0.60,
+      "access_notes": "Available in research libraries."
+    },
+    {
+      "citation": "Kut, Günay. 'Rüşenî.' Türkiye Diyanet Vakfı İslâm Ansiklopedisi, vol. 35, pp. 279–280. Istanbul: TDV, 2008. [In Turkish]",
+      "relevance": "Biographical and literary reference for Rüşenî Dede Ömer Aydınî (d. c. 892/1486–87): life, works, order affiliation (Halvetiyye-Rüşeniyye), and manuscript tradition of his Külliyât. Essential for contextualizing the textual content and identifying the major section divisions marked by the six tezhip headpieces.",
+      "relevance_score": 0.85,
+      "access_notes": "Available in major Turkish research libraries and via TDV Islam Ansiklopedisi online (islamansiklopedisi.org.tr). Turkish-language."
+    }
+  ],
+  "suggested_collections": [
+    {
+      "institution": "Milli Kütüphane Yazmalar — related zerkâri and zerefşân manuscripts in corpus",
+      "reason": "Milli Kütüphane holds further manuscripts with related decoration programmes already in this corpus: milli_kutuphane_06milyz_a468 (burnished zerefşân) and milli_kutuphane_06milyz_conk163 (zerefşân + mülevven). In-corpus comparison would establish collection-level patterns in Milli Kütüphane acquisitions and identify any shared paper suppliers.",
+      "digital_access": "https://portal.yek.gov.tr"
+    },
+    {
+      "institution": "Amasya Beyazıt Kütüphanesi — 'ilk iki sayfa zerkâri' cluster",
+      "reason": "Multiple Amasya Beyazıt manuscripts share the 'ilk iki sayfa zerkâri' programme: shelfmarks 39, 50, 1884 (already catalogued), and 41, 53, 270 (no images). The çiçek motifli floral vocabulary of this manuscript should be compared with the Amasya examples to assess whether the same workshop or paper supplier was involved across different collections and regions.",
+      "digital_access": "https://portal.yek.gov.tr"
+    },
+    {
+      "institution": "Topkapı Palace Museum Library",
+      "reason": "Major repository of early 17th-century Ottoman luxury dîvân and külliyât manuscripts produced at or near the nakkaşhâne-i hümâyun. Comparison with dated Topkapı copies from AH 1020–1040 would help determine whether the floral zerkâri vocabulary of this Külliyât reflects court production or a distinctive provincial atelier.",
+      "digital_access": "https://kutuphane.tsmk.gov.tr"
+    },
+    {
+      "institution": "Süleymaniye Kütüphanesi",
+      "reason": "Holds the largest cluster of Ottoman Sufi literary manuscripts in Turkey, including numerous külliyât and dîvân copies with luxury decoration programmes. The Mesih Paşa 00001 Quran (zerendûd surah titles, AH 973) already in this corpus offers a point of comparison; further Süleymaniye Sufi dîvân copies from the same period would provide a direct stylistic reference group.",
+      "digital_access": "https://portal.yek.gov.tr"
+    }
+  ],
+  "provenance": {
+    "donor": "Purchased from Feride Erkal family",
+    "waqf": null,
+    "previous_shelfmarks": [],
+    "notes": "Acquired by Milli Kütüphane (National Library of Turkey, Ankara) on 27 July 1962, purchased from the Feride Erkal family. No vakıf inscription is documented in the available catalogue data. The Feride Erkal family provenance indicates private ownership immediately prior to 1962; the earlier provenance chain — Ottoman-period waqf affiliation, institutional or private ownership — is not recorded. IIIF identifier: 0000000559891."
+  },
+  "analysis_metadata": {
+    "analyzed_date": "2026-02-26",
+    "analyzer": "claude-code-manuscript-pipeline / metadata-generator (claude-sonnet-4-6)",
+    "image_source": "YEK portal IIIF viewer — Milli Kütüphane digitized images (IIIF ID 0000000559891)",
+    "image_quality_notes": "Five screenshots examined across two rounds of visual confirmation (initial round + targeted folio check, 2026-02-26). Targeted check resolution approximately 1600 px width. Floral zerkâri motifs clearly resolved — scrolling vines, peonies, and lotus forms legible in detail. Individual gold particle or brushwork microstructure not resolvable at this resolution. Serlevha headpiece colors, arch form, and pendant ornaments clearly legible. Paper color and burnishing quality ('renkli, saykallı') are not fully evaluable from digital images alone.",
+    "folios_examined": [
+      "Preliminary pages — IIIF p003 (acquisition stamps, flyleaves, no decoration confirmed)",
+      "IIIF p005 (first-round screenshot, showed post-opening text with gold cetvels only — confirmed plain margins from f. 2b)",
+      "IIIF p003 (targeted check — flyleaf / preliminary pages)",
+      "IIIF p004 (targeted check — ff. 1b–2a: decorated opening with full floral zerkâri + polychrome serlevha)",
+      "IIIF p005 (targeted check — ff. 2b–3a: plain margins confirming 'ilk iki sayfa' boundary)"
+    ],
+    "folios_not_examined": "Tezhip headpieces at ff. 41b, 65b, 100b, 104b, and 152b (marking the divisions of the Külliyât) have not been visually examined and would require further targeted IIIF navigation. Total folio count is not available in the catalogue data. The colophon page and any ownership inscriptions have not been examined."
+  }
+}

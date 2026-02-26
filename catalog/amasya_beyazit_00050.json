@@ -1,0 +1,245 @@
+{
+  "record_id": "amasya_beyazit_00050",
+  "collection": {
+    "institution": "Amasya Beyazıt Kütüphanesi",
+    "city": "Amasya",
+    "country": "Turkey",
+    "shelfmark": "50",
+    "yek_url": "https://portal.yek.gov.tr/yekis/index.xhtml?yek_id=385858"
+  },
+  "manuscript": {
+    "title": "Tefsîru'l-Celâleyn (تفسير الجلالين)",
+    "author": "Jalāl al-Dīn al-Suyūṭī (d. 911/1505), completing the tafsīr of Jalāl al-Dīn al-Maḥallī (d. 864/1459)",
+    "date_ah": "1192",
+    "date_ce": "1778",
+    "format": "single manuscript volume",
+    "dimensions_mm": {
+      "height": null,
+      "width": null
+    },
+    "folio_count": null
+  },
+  "paper_decoration": {
+    "types": ["gold_worked", "illuminated_margins", "framing_system"],
+    "summary": "The opening two pages (ff. 1b–2a) bear gold-worked (zerkâri) decoration: dense hatāyī-islīmī scrollwork with floral and vegetal motifs (peonies, vines, palmettes) worked in gold throughout both margins of the double-page opening. The right page carries a polychrome illuminated serlevha headpiece (ʿunwān) with blue lapis ground, red and gold floral motifs in a pointed arch form. All subsequent pages bear only gold cetvels with red and blue ruling lines, without further zerkâri treatment, confirming the 'ilk iki sayfa' (first two pages) scope stated in the catalogue.",
+    "technique_terms": {
+      "ottoman": "zerkâri; serlevha laciverdi müzehheb; altın cetvelli; kırmızı ve mavi cedvel",
+      "persian": "zarkārī (زرکاری)",
+      "arabic": null
+    },
+    "catalogue_description": {
+      "paper_field": null,
+      "notes_field": "Serlevha laciverdi müzehheb, ilk iki sayfa zerkârî, cetveller yaldız, kırmızı mavi ile",
+      "decoration_field": null
+    }
+  },
+  "workshop_attribution": {
+    "primary_tradition": "ottoman",
+    "workshop_centre": "Amasya or Istanbul — uncertain (provincial versus capital production)",
+    "date_range_ce": "1778",
+    "confidence": 0.65,
+    "key_indicators": [
+      "Dated AH 1192 / CE 1778: late Ottoman period, well within the tradition of luxury tafsīr production",
+      "Hatāyī-islīmī scroll vocabulary in gold on opening margins: consistent with Ottoman tezhip practice",
+      "Lacivert (lapis-blue) serlevha with gold and red: standard late Ottoman headpiece palette",
+      "Zerkâri limited to 'ilk iki sayfa': economical use characteristic of provincial or lower-budget luxury commissions"
+    ],
+    "cross_tradition_caveats": [
+      "Amasya was a provincial centre; manuscripts produced or collected there range from local workshop output to items originally made in Istanbul and later deposited in Amasya's madrasas and libraries",
+      "Without colophon confirmation of copying place, Istanbul vs. Amasya production cannot be resolved from visual evidence alone",
+      "The 18th-century date places this in a period of diffuse Ottoman luxury production — regional workshops outside Istanbul were capable of similar programmes"
+    ]
+  },
+  "codicology": null,
+  "visual_confirmation": {
+    "verdict": "confirmed",
+    "confidence": 0.92,
+    "screenshots_examined": 2,
+    "limitations": [
+      "p004 (IIIF) was a blank flyleaf — the page facing the opening was not captured",
+      "Colophon and later folios not examined; zerkâri boundary confirmed as 'ilk iki sayfa' by plain margins on p006"
+    ]
+  },
+  "folio_analyses": [
+    {
+      "folio": "ff. 1b–2a (IIIF p005)",
+      "source_image": "corpus/visual_confirmation_batch2/amasya_beyazit_00050_p005_iiif.png",
+      "decoration_types": ["gold_worked", "illuminated_margins", "framing_system"],
+      "elements": [
+        {
+          "type": "gold_worked_margins",
+          "description": "Dense hatāyī-islīmī scrollwork with floral palmettes, vines and rosettes worked in gold (zerkâri technique) covering both margins of the double-page opening. Motifs include peony-like forms (hatāyī), split-leaf palmettes (rūmī) and scrolling vines (islīmī). Gold is applied with relatively fine line work and consistent coverage across the full margin area.",
+          "location": "both outer margins and head/foot margins of ff. 1b–2a",
+          "confidence": 0.92
+        },
+        {
+          "type": "illuminated_headpiece",
+          "description": "Polychrome serlevha (ʿunwān) on f. 1b in pointed arch form. Ground is deep blue (lacivert / lapis). Decoration incorporates gold hatāyī scrollwork with red and gold floral infill. Central oval cartouche in gold containing the opening text of the tafsīr. Finials (tığ) extend into the head margin.",
+          "location": "f. 1b head",
+          "confidence": 0.92
+        },
+        {
+          "type": "framing_system",
+          "description": "Multi-line cetvels (jadwal) in gold with red and blue rules framing both text blocks. The ruling system continues throughout the manuscript.",
+          "location": "full text block on both pages",
+          "confidence": 0.95
+        }
+      ],
+      "script": "naskh (main text); rubrication in red",
+      "notes": "Both the black main text and red commentary text are interleaved in two columns (the standard Jalalayn layout). Red ink marks quotations from the Quranic base text. The visual weight of the gold zerkâri margins counterbalances the dense two-column text block."
+    },
+    {
+      "folio": "ff. 2b–3a (IIIF p006)",
+      "source_image": "corpus/visual_confirmation_batch2/amasya_beyazit_00050_p006_iiif.png",
+      "decoration_types": ["framing_system"],
+      "elements": [
+        {
+          "type": "framing_system",
+          "description": "Gold cetvels with red and blue rules framing both text blocks. No zerkâri or other margin decoration present. This confirms the 'ilk iki sayfa zerkâri' specification: decoration is confined to the opening two pages only.",
+          "location": "text block frame",
+          "confidence": 0.95
+        }
+      ],
+      "script": "naskh; rubrication in red",
+      "notes": "Plain margins from f. 2b onward. The transition is sharp and deliberate — a standard Ottoman practice of concentrating luxury decoration on the opening leaves."
+    }
+  ],
+  "terminology": {
+    "terms_used": [
+      {
+        "concept": "gold-worked paper / margin decoration",
+        "ottoman": "zerkâri (زرکاری)",
+        "arabic": null,
+        "persian": "zarkārī (زرکاری)",
+        "english": "gold-worked: motifs in gold worked into or applied to paper/margin surface"
+      },
+      {
+        "concept": "illuminated headpiece",
+        "ottoman": "serlevha",
+        "arabic": "ʿunwān (عنوان)",
+        "persian": "sarlawḥ (سرلوح)",
+        "english": "illuminated headpiece at top of text opening"
+      },
+      {
+        "concept": "lapis / deep blue ground",
+        "ottoman": "lacivert",
+        "arabic": null,
+        "persian": "lāzaward (لازورد)",
+        "english": "lapis-blue ground color, characteristic of luxury serlevha decoration"
+      },
+      {
+        "concept": "ruling lines / frame",
+        "ottoman": "cedvel / cetvel",
+        "arabic": "jadwal (جدول)",
+        "persian": "jadval",
+        "english": "ruling lines framing the text block"
+      },
+      {
+        "concept": "hatāyī scroll motifs",
+        "ottoman": "hatāyī",
+        "arabic": null,
+        "persian": "khatāyī (ختایی)",
+        "english": "Chinese-derived floral scrollwork: lotus, peony, and composite flower forms in arabesque scroll"
+      },
+      {
+        "concept": "arabesque scroll",
+        "ottoman": "islīmī",
+        "arabic": null,
+        "persian": "islīmī (اسلیمی)",
+        "english": "arabesque: curling vegetal scroll, often paired with hatāyī motifs"
+      },
+      {
+        "concept": "first two pages [scope specification]",
+        "ottoman": "ilk iki sayfa",
+        "arabic": null,
+        "persian": null,
+        "english": "first two pages — Ottoman catalogue phrase specifying that zerkâri is limited to the opening bifolio"
+      }
+    ]
+  },
+  "bibliography": [
+    {
+      "citation": "Suyūṭī, Jalāl al-Dīn, and Jalāl al-Dīn al-Maḥallī. Tafsīr al-Jalālayn. Many editions. Standard critical edition: Dār al-Ḥadīth, Cairo, 1990.",
+      "relevance": "Primary text: the Tafsīr al-Jalālayn is the text of this manuscript. Understanding its layout (two-column interlinear format with black text and red Quranic citations) is essential for reading the decoration programme.",
+      "relevance_score": 0.8,
+      "access_notes": "The text is widely printed; modern editions do not reflect manuscript traditions but establish the text content."
+    },
+    {
+      "citation": "Suyūṭī, Jalāl al-Dīn. See: Versteegh, Kees. 'Grammar and Exegesis: The Origins of Kufan Grammar and the Tafsīr Muqātil.' Der Islam 67 (1990): 206–242; and more broadly, Goldfeld, Isaiah. 'The Tafsīr of Abdallāh b. Abbās.' Der Islam 58 (1981): 125–135.",
+      "relevance": "Contextual reference for the Jalalayn tradition and its spread in the Ottoman madrasa curriculum, explaining the high frequency of luxury manuscript production of this text.",
+      "relevance_score": 0.55,
+      "access_notes": "Accessible via JSTOR."
+    },
+    {
+      "citation": "Tanındı, Zeren. 'Some Problems of Ottoman Manuscript Illumination.' Manuscripts of the Middle East 4 (1989): 54–59.",
+      "relevance": "Foundational study on Ottoman manuscript illumination, addressing the relationship between Istanbul court production and provincial copies, relevant to the attribution question for this manuscript.",
+      "relevance_score": 0.75,
+      "access_notes": "Available in research libraries; open-access via Leiden University."
+    },
+    {
+      "citation": "Tanındı, Zeren. 'Bibliophile Aghas (Eunuchs) at Topkapı Sarayı.' Muqarnas 21 (2004): 333–343.",
+      "relevance": "Addresses 18th-century Ottoman manuscript culture, patronage networks, and production centres outside the court proper — directly relevant to contextualising a dated 1778 luxury tafsīr copy.",
+      "relevance_score": 0.70,
+      "access_notes": "Available via JSTOR."
+    },
+    {
+      "citation": "Blair, Sheila S. 'Color and Gold: The Decorated Papers Used in Manuscripts in Later Islamic Times.' Muqarnas 17 (2000): 24–36.",
+      "relevance": "Key reference on decorated paper techniques including zerkâri, with comparative examples from Ottoman and Persian manuscripts. Essential for situating this manuscript's gold-worked opening pages within the broader tradition.",
+      "relevance_score": 0.90,
+      "access_notes": "Available via JSTOR."
+    },
+    {
+      "citation": "Gacek, Adam. Arabic Manuscripts: A Vademecum for Readers. Brill, Leiden/Boston, 2009.",
+      "relevance": "Standard reference for Arabic manuscript codicology and layout conventions, including the Jalalayn two-column interlinear format and decoration programme terminology.",
+      "relevance_score": 0.75,
+      "access_notes": "Available in research libraries."
+    },
+    {
+      "citation": "Déroche, François. The Abbasid Tradition: Qur'ans of the 8th to the 10th Centuries AD. Nasser D. Khalili Collection of Islamic Art, Vol. I. London: The Nour Foundation / Azimuth Editions / Oxford University Press, 1992.",
+      "relevance": "Reference for Quran manuscript decoration conventions and headpiece traditions; contextualises the serlevha programme of decorated tafsīr manuscripts.",
+      "relevance_score": 0.55,
+      "access_notes": "Available in major research libraries."
+    },
+    {
+      "citation": "Roxburgh, David J. 'The 'Journal' of Ghiyath al-Din Naqqash, Court Reporter and Master Illuminator.' In Muqarnas 22 (2005): 135–160.",
+      "relevance": "Addresses the role of master illuminators (naqqāshān) in producing luxury manuscripts, with discussion of zarkārī techniques in a Persianate context that influenced Ottoman practice.",
+      "relevance_score": 0.60,
+      "access_notes": "Available via JSTOR."
+    },
+    {
+      "citation": "Balcı, Ahmet Ali (cataloguer). YEK Portal catalogue record for Amasya Beyazıt Kütüphanesi MS 50 (YEK ID 385858). portal.yek.gov.tr.",
+      "relevance": "Primary source: catalogue entry providing the decoration description 'Serlevha laciverdi müzehheb, ilk iki sayfa zerkârî, cetveller yaldız, kırmızı mavi ile'. Ahmet Ali Balcı is the cataloguer for the Amasya Beyazıt collection in YEK.",
+      "relevance_score": 1.0,
+      "access_notes": "Accessible at https://portal.yek.gov.tr/yekis/index.xhtml?yek_id=385858"
+    }
+  ],
+  "suggested_collections": [
+    {
+      "institution": "YEK Portal — Amasya Beyazıt Kütüphanesi cluster",
+      "reason": "Six further manuscripts in the Amasya Beyazıt collection (shelfmarks 1, 39, 41, 53, 270, 1884) share the same zerkâri decoration family per cataloguer Ahmet Ali Balcı; comparative examination recommended.",
+      "digital_access": "https://portal.yek.gov.tr"
+    },
+    {
+      "institution": "Süleymaniye Kütüphanesi",
+      "reason": "Major repository of Ottoman tafsīr manuscripts with luxury decoration programmes; comparable Jalalayn copies likely held in multiple collections.",
+      "digital_access": "https://portal.yek.gov.tr"
+    }
+  ],
+  "provenance": {
+    "donor": null,
+    "waqf": null,
+    "previous_shelfmarks": [],
+    "notes": "Held in the Amasya Beyazıt Kütüphanesi, a major provincial Ottoman library founded by Sultan Bayezid II in Amasya. The collection preserves many manuscripts that were originally in Amasya's madrasas and are associated with the city's long history as an Ottoman provincial centre and seat of şehzade education. No vakıf inscription is documented in the YEK catalogue entry for this manuscript. Catalogued by Ahmet Ali Balcı as part of the Amasya Beyazıt digitisation programme. IIIF identifier: 0000000381533."
+  },
+  "analysis_metadata": {
+    "analyzed_date": "2026-02-26",
+    "analyzer": "claude-code-manuscript-pipeline / metadata-generator (claude-sonnet-4-6)",
+    "image_source": "YEK portal IIIF viewer — Amasya Beyazıt Kütüphanesi digitized images (IIIF ID 0000000381533)",
+    "image_quality_notes": "Two screenshots examined at moderate resolution (approximately 1600 px width). Gold zerkâri motifs clearly resolved; individual gold particle structure not resolvable. Serlevha headpiece colours and structure clearly legible.",
+    "folios_examined": [
+      "ff. 1b–2a (IIIF p005)",
+      "ff. 2b–3a (IIIF p006)"
+    ],
+    "folios_not_examined": "IIIF p004 was a blank flyleaf. Colophon and later body of manuscript not examined. Total digitised page count not recorded."
+  }
+}

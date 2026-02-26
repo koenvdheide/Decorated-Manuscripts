@@ -1,0 +1,325 @@
+{
+  "record_id": "mesih_pasa_00001",
+  "collection": {
+    "institution": "Süleymaniye Kütüphanesi — Mesih Paşa Koleksiyonu",
+    "city": "Istanbul",
+    "country": "Turkey",
+    "shelfmark": "00001",
+    "yek_url": "https://portal.yek.gov.tr/yazmaeser/eser-detay/307588"
+  },
+  "manuscript": {
+    "title": "Kur'ân-ı Kerîm",
+    "author": null,
+    "date_ah": "973",
+    "date_ce": "1565–1566",
+    "format": "muṣḥaf",
+    "dimensions_mm": {
+      "height": null,
+      "width": null
+    },
+    "folio_count": null
+  },
+  "paper_decoration": {
+    "types": ["gold_worked", "illuminated_margins", "framing_system"],
+    "summary": "The surah titles (sûre başlıkları) throughout the manuscript are executed in zerendûd (gold-painted/gold-worked) script within blue-ground cartouches, a characteristically Ottoman Quran convention. The colophon inscription (ketebe kaydı) is likewise zerendûd. The opening double-page spread (ff. 1b–2a) carries a richly illuminated serlevha with polychrome headpieces in lapis blue, red, and gold, featuring geometric-floral interlace with what appears to be a halkâr-type outer gold border. Gold cetvels (jadval) frame the text block throughout. Regular text pages carry gold round verse dividers (durak, گل) and red marginal ʿushr/hizb markers. The paper itself is plain cream — the gold-worked technique is applied specifically to surah title cartouches and the colophon, not distributed across the paper ground as zerefşân.",
+    "technique_terms": {
+      "ottoman": "zerendûd sûre başlıkları; müzehheb serlevha; altın cetvelli; altın duraklı",
+      "persian": "zer-endūd (زراندود)",
+      "arabic": "tadhdhīb al-ʿunwānāt (تذهيب العنوانات)"
+    },
+    "catalogue_description": {
+      "paper_field": null,
+      "notes_field": "Sure isimleri zerenduddur. … yine zerendud bir ketebe kaydı mevcuttur. İlk iki sayfa nakışlı ve tezhipli.",
+      "decoration_field": null
+    }
+  },
+  "workshop_attribution": {
+    "primary_tradition": "ottoman",
+    "workshop_centre": "Istanbul — nakkaşhâne-i hümâyun (probable)",
+    "date_range_ce": "1565–1566",
+    "confidence": 0.88,
+    "key_indicators": [
+      "Dated colophon AH 973 / CE 1565–1566: falls in the late Suleiman / early Selim II period of peak Ottoman court Quran production",
+      "Polychrome serlevha headpieces with lapis-blue ground, gold geometric-floral interlace, and pointed-arch form — consistent with nakkaşhâne-i hümâyun Quran production of the 1550s–1570s",
+      "Zerendûd surah-title cartouche convention: a well-established Ottoman Quran format associated with court-level manuscript workshops",
+      "Mesih Paşa vakıf affiliation: high-level Ottoman patronage context consistent with Istanbul court production",
+      "Gold cetvels throughout and gold verse dividers (durak): luxury framing system standard in court-commissioned Qurans"
+    ],
+    "cross_tradition_caveats": [
+      "No explicit workshop city stated in colophon (colophon page not digitized)",
+      "Istanbul attribution is inferred from date, patron status, and stylistic consistency — direct confirmation would require examination of the colophon"
+    ]
+  },
+  "codicology": null,
+  "visual_confirmation": {
+    "verdict": "confirmed",
+    "confidence": 0.88,
+    "screenshots_examined": 3,
+    "limitations": [
+      "Colophon page (zerendûd ketebe kaydı) not digitized — colophon inscription itself not visually confirmed",
+      "Only 3 pages examined; the full extent of zerendûd surah titles across the manuscript not individually checked"
+    ]
+  },
+  "folio_analyses": [
+    {
+      "folio": "ff. 1b–2a — double-page serlevha opening (IIIF p002)",
+      "source_image": "corpus/visual_confirmation_batch2/mesih_pasa_00001_p002_iiif.png",
+      "decoration_present": true,
+      "decoration_types": ["gold_worked", "illuminated_margins", "framing_system"],
+      "elements": [
+        {
+          "motif": "zerendûd surah title cartouches",
+          "description": "Gold-worked cartouches at the top of each page containing the Basmala and surah name in gold script on lapis-blue ground. Framed in gold borders. This is the zerendûd technique applied to the 'ʿunwān al-sūra' (surah headpiece).",
+          "location": "top of each text page, within the serlevha headpiece zone",
+          "confidence": 0.92
+        },
+        {
+          "motif": "polychrome illuminated serlevha headpiece",
+          "description": "Rectangular headpiece panels with pointed-arch lower profile in deep lapis blue ground decorated with geometric-floral interlace in red, gold, and white. Contains the zerendûd surah title cartouche. Borders in gold and black banding. Classic mid-Ottoman Quran format.",
+          "location": "top of each opening page (ff. 1b and 2a)",
+          "confidence": 0.95
+        },
+        {
+          "motif": "outer gold border band",
+          "description": "Wide decorative gold border framing the full text block on the outer margins of the serlevha pages. Appears to be a halkâr-type or gold-wash outer frame. Adds to the overall luxury presentation of the opening.",
+          "location": "outer margin, serlevha opening only",
+          "confidence": 0.80
+        },
+        {
+          "motif": "altın cetveller (gold frame lines)",
+          "description": "Multi-line cedvel system framing the text block with gold ruling lines, clearly visible on both pages of the opening and continuing throughout the manuscript.",
+          "location": "frame lines around text block throughout",
+          "confidence": 0.95
+        }
+      ],
+      "confidence": 0.92,
+      "notes": "The double-page serlevha is the most decorated section of the manuscript. The zerendûd surah title cartouches are clearly visible, confirming the catalogue claim 'sure isimleri zerenduddur.' The polychrome headpiece is consistent with Istanbul court Quran production of the 1560s."
+    },
+    {
+      "folio": "Regular text pages — early quire (IIIF p003)",
+      "source_image": "corpus/visual_confirmation_batch2/mesih_pasa_00001_p003_iiif.png",
+      "decoration_present": true,
+      "decoration_types": ["gold_worked", "framing_system"],
+      "elements": [
+        {
+          "motif": "altın durak (gold verse dividers)",
+          "description": "Round gold rosettes used as verse separators (durak / gül) between Quranic verses, visible at regular intervals throughout the text. Executed in gold on plain cream paper.",
+          "location": "inter-verse position throughout text",
+          "confidence": 0.95
+        },
+        {
+          "motif": "marginal ʿushr / hizb markers",
+          "description": "Red-ink marginal annotations marking the ʿushr (tenth-part) and possibly hizb (half-juzʾ) divisions. Written in the outer margin in red ink alongside the text column.",
+          "location": "outer margin at regular Quran divisions",
+          "confidence": 0.90
+        },
+        {
+          "motif": "altın cetveller",
+          "description": "Gold ruling lines framing the text block, continuous from the serlevha opening.",
+          "location": "frame lines around text block",
+          "confidence": 0.95
+        }
+      ],
+      "confidence": 0.90,
+      "notes": "Regular text pages show the standard luxury Quran framing: gold verse dividers and red marginal division markers. No margin decoration beyond gold cetvels. Paper is plain cream/off-white with no zerefşân or zerkâri treatment."
+    },
+    {
+      "folio": "Regular text pages — later quire (IIIF p006)",
+      "source_image": "corpus/visual_confirmation_batch2/mesih_pasa_00001_p006_iiif.png",
+      "decoration_present": true,
+      "decoration_types": ["gold_worked", "framing_system"],
+      "elements": [
+        {
+          "motif": "altın durak (gold verse dividers)",
+          "description": "Gold round verse dividers continuing throughout the main text body, consistent with p003.",
+          "location": "inter-verse position throughout text",
+          "confidence": 0.95
+        },
+        {
+          "motif": "marginal ʿushr markers (عشر)",
+          "description": "Arabic numeral/word annotations in red marking Quran reading divisions. The word 'عشر' (ʿashr / tenth) clearly visible in the margin.",
+          "location": "outer margin",
+          "confidence": 0.92
+        },
+        {
+          "motif": "altın cetveller",
+          "description": "Gold ruling lines framing text block, consistent throughout.",
+          "location": "frame lines around text block",
+          "confidence": 0.95
+        }
+      ],
+      "confidence": 0.90,
+      "notes": "Confirms the pattern established in p003: gold verse dividers and red marginal markers throughout, with plain paper margins. No surah title visible on this spread — the zerendûd surah cartouches would appear at the opening of each surah."
+    }
+  ],
+  "terminology": {
+    "terms_used": [
+      {
+        "concept": "Gold-worked surah titles",
+        "ottoman": "zerendûd sûre başlıkları / zerendûd ʿunvânlar",
+        "arabic": "ʿunwān al-sūra mudhahhab (عنوان السورة مذهّب)",
+        "persian": "zer-endūd-i sarlawḥ-i sūra (زراندود سرلوح سوره)",
+        "english": "gold-painted surah headpiece / zerendûd surah title — the surah name written in gold script or applied gold within a coloured cartouche at the start of each Quranic surah; a standard Ottoman luxury Quran convention"
+      },
+      {
+        "concept": "Gold-painted / gold-applied surface",
+        "ottoman": "zerendûd",
+        "arabic": "mudhahhab / muzahhar (مذهّب)",
+        "persian": "zer-endūd (زراندود)",
+        "english": "gold-painted; gold-applied; lit. 'covered in gold' — applied to text inscriptions, cartouches, and headings rather than paper ground"
+      },
+      {
+        "concept": "Illuminated headpiece",
+        "ottoman": "serlevha / ser-levha",
+        "arabic": "ʿunwān (عنوان)",
+        "persian": "sarlawḥ (سرلوح)",
+        "english": "illuminated headpiece at the top of the text opening"
+      },
+      {
+        "concept": "Ruling / frame lines",
+        "ottoman": "cedvel / cetvel",
+        "arabic": "jadwal (جدول)",
+        "persian": "jadval (جدول)",
+        "english": "ruling lines framing the text block; gold ruling (altın cedvel) in luxury manuscripts"
+      },
+      {
+        "concept": "Verse divider",
+        "ottoman": "durak / dûrak",
+        "arabic": "fāṣila (فاصلة) / ghayr (غير)",
+        "persian": "nishān-i āyat (نشان آیت)",
+        "english": "round gold rosette used to mark the end of individual Quranic verses"
+      },
+      {
+        "concept": "Gold-worked / gold-wrought",
+        "ottoman": "zerkâri",
+        "arabic": null,
+        "persian": "zarkārī (زرکاری)",
+        "english": "gold-worked: motifs worked in gold on paper or other surfaces"
+      },
+      {
+        "concept": "Quran manuscript",
+        "ottoman": "muṣḥaf (مصحف)",
+        "arabic": "muṣḥaf (مصحف)",
+        "persian": "muṣḥaf (مصحف)",
+        "english": "Quran manuscript (physical codex of the Quran)"
+      },
+      {
+        "concept": "Pious endowment / donation",
+        "ottoman": "vakıf / vakfiye",
+        "arabic": "waqf (وقف)",
+        "persian": "waqf (وقف)",
+        "english": "Islamic pious endowment; the act of dedicating a manuscript or property for religious/charitable use"
+      }
+    ]
+  },
+  "bibliography": [
+    {
+      "citation": "Tanındı, Zeren. 'Türk Minyatür Sanatı.' In Topkapı Sarayı Müzesi: Osmanlı Sanatı, edited by J. M. Rogers and R. M. Ward. Istanbul: Topkapı Sarayı Müzesi, 1988.",
+      "relevance": "Foundational reference for Ottoman court manuscript arts at the period of this Quran's production (AH 973 / 1565–66); covers illumination conventions of the Suleiman/Selim II era nakkaşhâne.",
+      "relevance_score": 0.80,
+      "access_notes": "In Turkish and English. Available at major research libraries."
+    },
+    {
+      "citation": "Tanındı, Zeren. 'Bibliophile Aghas (Eunuchs) at Topkapı Sarayı.' Muqarnas 21 (2004): 333–343.",
+      "relevance": "Examines the patronage of luxury Quran manuscripts and decorated books in the Ottoman court milieu, directly relevant to a court-produced muṣḥaf of 1565–66.",
+      "relevance_score": 0.75,
+      "access_notes": "Peer-reviewed. JSTOR access."
+    },
+    {
+      "citation": "Çağman, Filiz, and Zeren Tanındı. The Topkapı Saray Museum: The Albums and Illustrated Manuscripts. Translated and edited by J. M. Rogers. Boston: Little, Brown, 1986.",
+      "relevance": "Standard reference for Ottoman court illumination conventions of the 16th century, including Quran manuscripts, serlevha formats, and zerendûd surah headpiece traditions.",
+      "relevance_score": 0.82,
+      "access_notes": "Exhibition catalogue; available at major research libraries."
+    },
+    {
+      "citation": "James, David. The Master Scribes: Qur'ans of the 10th to 14th Centuries AD. Nasser D. Khalili Collection of Islamic Art, Vol. 2. London: The Nour Foundation / Azimuth Editions / Oxford University Press, 1992.",
+      "relevance": "Comparative reference for Quran manuscript conventions including surah headpiece formats, verse dividers, and marginal markers. Contextualizes the Ottoman Quran within the broader Islamic tradition.",
+      "relevance_score": 0.65,
+      "access_notes": "Available at major research libraries."
+    },
+    {
+      "citation": "James, David. After Timur: Qur'ans of the 15th and 16th Centuries. Nasser D. Khalili Collection of Islamic Art, Vol. 3. London: The Nour Foundation / Azimuth Editions / Oxford University Press, 1992.",
+      "relevance": "Essential for the Timurid-to-Ottoman transition in Quran decoration, covering the period immediately prior to and including this manuscript's production date; discusses zerendûd surah title conventions.",
+      "relevance_score": 0.78,
+      "access_notes": "Available at major research libraries."
+    },
+    {
+      "citation": "Déroche, François. The Abbasid Tradition: Qur'ans of the 8th to 10th Centuries AD. Nasser D. Khalili Collection of Islamic Art, Vol. 1. London: The Nour Foundation / Azimuth Editions / Oxford University Press, 1992.",
+      "relevance": "Foundational codicological framework for Quran manuscripts, including classification of surah headpiece formats and marginal notation systems used throughout the Islamic world.",
+      "relevance_score": 0.60,
+      "access_notes": "Available at major research libraries."
+    },
+    {
+      "citation": "Déroche, François. Islamic Codicology: An Introduction to the Study of Manuscripts in Arabic Script. Translated by Deke Dusinberre and David Radzinowicz. London: Al-Furqan Islamic Heritage Foundation, 2005.",
+      "relevance": "Standard codicological reference for Islamic manuscripts including Qurans; covers paper, ruling, cedvel systems, and marginal notation conventions used throughout the Islamic manuscript tradition, including Ottoman examples.",
+      "relevance_score": 0.72,
+      "access_notes": "Available at major research libraries and partially online."
+    },
+    {
+      "citation": "Gacek, Adam. The Arabic Manuscript Tradition: A Glossary of Technical Terms and Bibliography. Handbuch der Orientalistik, Erste Abteilung, Bd. 58. Leiden: Brill, 2001.",
+      "relevance": "Defines technical terminology used in this record including ʿunwān (surah headpiece), jadwal (ruling), fāṣila (verse divider), and related codicological terms; useful for standardizing descriptions of Quran manuscript features.",
+      "relevance_score": 0.68,
+      "access_notes": "Available at major research libraries."
+    },
+    {
+      "citation": "Blair, Sheila S., and Jonathan Bloom. The Grove Encyclopedia of Islamic Art and Architecture. 3 vols. Oxford: Oxford University Press, 2009.",
+      "relevance": "Survey reference covering Ottoman Quran production, nakkaşhâne-i hümâyun workshops, and the development of zerendûd and zerkâri techniques in 16th-century Islamic manuscripts.",
+      "relevance_score": 0.65,
+      "access_notes": "Oxford University Press. Online edition available with library access."
+    },
+    {
+      "citation": "Blair, Sheila S. 'Color and Gold: The Decorated Papers Used in Manuscripts in Later Islamic Times.' Muqarnas 17 (2000): 24–36.",
+      "relevance": "Key reference on gold-applied and gold-worked paper techniques in Islamic manuscripts, including the distinction between zerefşân (gold-sprinkled), zerkâri (gold-worked patterns), and zerendûd (gold-painted) techniques directly relevant to this manuscript's decoration.",
+      "relevance_score": 0.88,
+      "access_notes": "Peer-reviewed. JSTOR access. Open access likely via institutional repositories."
+    },
+    {
+      "citation": "Rogers, J. M. 'The Gorgeous East: Trade and Tribute in the Islamic Empires.' In Circa 1492: Art in the Age of Exploration, edited by Jay A. Levenson. Washington, DC: National Gallery of Art, 1991.",
+      "relevance": "Provides art-historical context for Ottoman court Quran production in the 16th century, situating luxury manuscripts within the broader Ottoman court gift and patronage economy relevant to a Mesih Paşa vakıf Quran.",
+      "relevance_score": 0.55,
+      "access_notes": "Exhibition catalogue."
+    },
+    {
+      "citation": "Raby, Julian, and Zeren Tanındı. Turkish Bookbinding in the 15th Century: The Foundation of an Ottoman Court Style. London: Azimuth Editions, 1993.",
+      "relevance": "Covers the development of Ottoman court manuscript arts in the period immediately preceding this Quran; relevant for understanding the workshop conventions and decorative grammar visible in the serlevha and framing system.",
+      "relevance_score": 0.62,
+      "access_notes": "Available at major research libraries."
+    }
+  ],
+  "suggested_collections": [
+    {
+      "institution": "Topkapı Sarayı Müzesi Kütüphanesi, Istanbul",
+      "reason": "Holds the largest collection of 16th-century Ottoman court Quran manuscripts; direct comparanda for zerendûd surah titles, serlevha formats, and cedvel systems of the Suleiman/Selim II period.",
+      "digital_access": "https://kutuphane.tsmk.gov.tr"
+    },
+    {
+      "institution": "Chester Beatty Library, Dublin",
+      "reason": "Major holding of Ottoman Qurans including multiple 16th-century examples; digitized images allow direct stylistic comparison with the Mesih Paşa muṣḥaf.",
+      "digital_access": "https://viewer.cbl.ie"
+    },
+    {
+      "institution": "YEK Portal — Süleymaniye Kütüphanesi Mesih Paşa Koleksiyonu",
+      "reason": "Other manuscripts in the Mesih Paşa collection may share provenance and help reconstruct the patron's library.",
+      "digital_access": "https://portal.yek.gov.tr"
+    },
+    {
+      "institution": "Bibliothèque nationale de France (BnF), Paris — Gallica",
+      "reason": "BnF holds important 16th-century Ottoman Qurans; Gallica digitization allows comparative study of serlevha conventions and zerendûd surah headpiece formats.",
+      "digital_access": "https://gallica.bnf.fr"
+    }
+  ],
+  "provenance": {
+    "donor": "Mesih Paşa (d. c. 908/1501)",
+    "waqf": "Vakfedildi: Mesih Paşa — the manuscript was dedicated as a pious endowment (vakıf) by Mesih Paşa. Mesih Paşa served as Ottoman Grand Vizier briefly under Sultan Bayezid II (r. 1481–1512) and held multiple provincial governorships. He was of Byzantine (Palaiologos family) origin and converted to Islam, rising through the Ottoman devşirme system. His library vakıf at the Süleymaniye complex is now the Mesih Paşa Koleksiyonu. Note: the manuscript is dated AH 973 (1565–66), which postdates Mesih Paşa's death by over 60 years — the vakıf was either constituted posthumously from funds he endowed, or later manuscripts were added to the collection by his successors.",
+    "previous_shelfmarks": [],
+    "notes": "Cataloguer: Murat Serdar Saykal (YEK record 307588). The date discrepancy between patron death (c. 1501) and manuscript date (1565–66) warrants further archival investigation. Possible explanations: (1) the vakıf endowment was constituted or augmented after Mesih Paşa's death by his heirs or the Süleymaniye foundation; (2) the manuscript entered the collection through later donation attributed to the original vakıf; (3) a different Mesih Paşa or namesake is involved. The colophon (not yet digitized) may clarify."
+  },
+  "analysis_metadata": {
+    "analyzed_date": "2026-02-26",
+    "analyzer": "claude-code-manuscript-pipeline",
+    "image_source": "YEK Portal IIIF — Süleymaniye Kütüphanesi (portal.yek.gov.tr, yek_id 307588); screenshots via visual-confirmation agent",
+    "image_quality_notes": "Three screenshots at moderate IIIF resolution. p002 (serlevha): sufficient for headpiece and surah cartouche identification; decoration clearly legible. p003 and p006 (text pages): sufficient for verse dividers and marginal markers; paper grain not resolvable. Colophon page not available in digitized sequence.",
+    "folios_examined": ["p002 (ff. 1b–2a, double-page serlevha)", "p003 (regular text pages, early quire)", "p006 (regular text pages, later quire)"],
+    "folios_not_examined": "Colophon (zerendûd ketebe kaydı) — digitization does not extend to end of manuscript. Individual surah headpiece pages throughout the body of the text not examined."
+  }
+}

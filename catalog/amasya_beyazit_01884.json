@@ -1,0 +1,259 @@
+{
+  "record_id": "amasya_beyazit_01884",
+  "collection": {
+    "institution": "Amasya Beyazıt Kütüphanesi",
+    "city": "Amasya",
+    "country": "Turkey",
+    "shelfmark": "1884",
+    "yek_url": "https://portal.yek.gov.tr/yekis/index.xhtml?yek_id=389555"
+  },
+  "manuscript": {
+    "title": "İḥyāʾ ʿUlūmi'd-Dīn (إحياء علوم الدين)",
+    "author": "Abū Ḥāmid Muḥammad al-Ghazālī (d. 505/1111)",
+    "date_ah": null,
+    "date_ce": null,
+    "format": "single manuscript volume",
+    "dimensions_mm": {
+      "height": null,
+      "width": null
+    },
+    "folio_count": null
+  },
+  "paper_decoration": {
+    "types": ["gold_worked", "illuminated_margins", "framing_system"],
+    "summary": "The manuscript bears a polychrome illuminated serlevha (ʿunwān) at the opening, described in the catalogue as 'serlevha mülevven tezhibli' (serlevha polychrome-illuminated). More significantly, the catalogue records 'yaprak kenarları zerkârî' — the margins of all leaves (yaprak = leaf/folio; kenar = margin) are gold-worked — indicating that zerkâri decoration extends throughout the entire manuscript, not only the opening. Visual confirmation on IIIF p007 shows a magnificent polychrome serlevha headpiece in a portal arch form with blue, gold, red, and green floral and vegetal motifs, a gold title cartouche below, and clearly visible gold-worked (zerkâri) floral and vegetal scrollwork in the margins of both opening pages. A multi-line framing system (gold cetveller with coloured borders) is present throughout. This is an unusually ambitious decoration programme for a text manuscript: full-margin zerkâri on every leaf of a large-format Islamic compendium marks this as a prestige commission.",
+    "technique_terms": {
+      "ottoman": "zerkâri; yaprak kenarları zerkârî; serlevha mülevven tezhibli; altın cetvelli",
+      "persian": "zarkārī (زرکاری); sarlawḥ (سرلوح)",
+      "arabic": "zarkār; ʿunwān (عنوان)"
+    },
+    "catalogue_description": {
+      "paper_field": null,
+      "notes_field": "Serlevha mülevven tezhibli, yaprak kenarları zerkârî",
+      "decoration_field": null
+    }
+  },
+  "workshop_attribution": {
+    "primary_tradition": "ottoman",
+    "workshop_centre": "Amasya or Istanbul — uncertain",
+    "date_range_ce": "undated; Ottoman period (post-16th century probable)",
+    "confidence": 0.55,
+    "key_indicators": [
+      "Polychrome serlevha in portal arch form with blue, gold, red, green palette: consistent with late Ottoman tezhip practice",
+      "Zerkâri throughout all leaf margins ('yaprak kenarları zerkârî'): programme scale exceeds standard provincial output and suggests either Istanbul or high-end provincial commission",
+      "Gold title cartouche below headpiece and multi-line gold cetveller framing: standard luxury Ottoman manuscript apparatus",
+      "Emîr İmamzâde Kütüphanesi (Amasya) waqf provenance: indicates the manuscript was in Amasya by the time of donation, but does not rule out Istanbul origin",
+      "Amasya Beyazıt Kütüphanesi cluster: six other manuscripts in this collection share zerkâri decoration per same cataloguer (Ahmet Ali Balcı)"
+    ],
+    "cross_tradition_caveats": [
+      "Manuscript is undated; without a colophon date or scribal attribution the production period cannot be fixed",
+      "Amasya was an important Ottoman provincial centre (şehzade education seat), hosting its own scribal and artistic activity; locally produced luxury manuscripts are documented alongside items deposited from Istanbul",
+      "The Emîr İmamzâde waqf is a local Amasya endowment: the manuscript could have been produced locally, or produced in Istanbul and later donated to the provincial library",
+      "Without in-person examination of the colophon (hâtime), which is unexamined in the digitized sequence, the production place and date cannot be confirmed"
+    ]
+  },
+  "codicology": null,
+  "visual_confirmation": {
+    "verdict": "confirmed",
+    "confidence": 0.93,
+    "screenshots_examined": 2,
+    "limitations": [
+      "Only the opening pages were examined — catalogue states 'yaprak kenarları zerkârî' (all leaf margins), but only the opening double-page spread (p007) was confirmed visually",
+      "IIIF p005 was a blank flyleaf and did not contribute to decoration assessment",
+      "The colophon (hâtime) and later text sections were not examined; the manuscript is fully digitized (795 pages) so in-principle accessible, but not captured in the visual confirmation pass",
+      "Resolution approximately 1600 px width; gold motif structure clearly visible but individual gold particle detail not resolvable"
+    ]
+  },
+  "folio_analyses": [
+    {
+      "folio": "ff. 1b–2a (IIIF p007, first text opening)",
+      "source_image": "corpus/visual_confirmation_batch2/amasya_beyazit_01884_p007_iiif.png",
+      "decoration_types": ["gold_worked", "illuminated_margins", "framing_system"],
+      "elements": [
+        {
+          "type": "illuminated_headpiece",
+          "description": "Magnificent polychrome serlevha (ʿunwān) in a pointed portal arch (kemer) form on the right page of the opening. The arch ground is deep blue (lacivert), filled with dense hatāyī-islīmī scrollwork in gold, red, and green. Floral motifs include peony-like hatāyī forms and composite rosettes. Pendant finials (tığ) extend into the head margin. Below the arch, a rectangular gold cartouche contains the opening text in white or gold script. The overall palette — blue, gold, red, green — is characteristic of late Ottoman polychrome tezhip production.",
+          "location": "f. 1b head (right page of opening)",
+          "confidence": 0.93
+        },
+        {
+          "type": "gold_worked_margins",
+          "description": "Gold-worked (zerkâri) floral and vegetal scrollwork clearly visible in the margins of both pages of the opening double-page spread. On the right page (f. 1b), gold scrollwork extends into the outer and lower margins. On the left page, the margins also show gold decorative patterns. The motif vocabulary includes scrolling vines (islīmī) with composite floral terminals (hatāyī type). The gold is applied with confident line-work and consistent coverage. The catalogue description 'yaprak kenarları zerkârî' — margins of all leaves — indicates this treatment extends throughout the manuscript; the opening confirms the presence and character of this programme.",
+          "location": "outer, head, and foot margins of both opening pages",
+          "confidence": 0.91
+        },
+        {
+          "type": "framing_system",
+          "description": "Elaborate multi-line cetvels (jadwal) framing the text block on both opening pages. Gold ruling lines are combined with coloured borders (red and/or blue). The ruling system forms a complete frame around the text block and appears consistent with a continuation throughout the manuscript.",
+          "location": "text block frame, both opening pages",
+          "confidence": 0.95
+        }
+      ],
+      "script": "naskh (main text); rubrication likely present",
+      "notes": "The Iḥyāʾ ʿUlūm al-Dīn is typically copied in naskh script in multiple volumes or as a single large codex. The visual confirmation pass confirmed the decoration programme but did not capture sufficient detail to determine the number of text columns or the precise script variety. The 795-page count suggests a single-volume copy of the complete text, which is large."
+    },
+    {
+      "folio": "IIIF p005 (preliminary flyleaf)",
+      "source_image": "corpus/visual_confirmation_batch2/amasya_beyazit_01884_p005_iiif.png",
+      "decoration_types": [],
+      "elements": [],
+      "script": null,
+      "notes": "Blank flyleaf; no decoration present. Provided no useful data for decoration assessment."
+    }
+  ],
+  "terminology": {
+    "terms_used": [
+      {
+        "concept": "gold-worked margin decoration",
+        "ottoman": "zerkâri (زرکاری); yaprak kenarları zerkârî",
+        "arabic": "zarkār",
+        "persian": "zarkārī (زرکاری)",
+        "english": "gold-worked: floral and vegetal motifs worked in gold throughout margin areas. 'Yaprak kenarları' (leaf margins) specifies that the treatment covers the margins of all folios."
+      },
+      {
+        "concept": "polychrome illuminated headpiece",
+        "ottoman": "serlevha mülevven tezhibli",
+        "arabic": "ʿunwān mulauwwan (عنوان ملوّن)",
+        "persian": "sarlawḥ-i muẕahḥab",
+        "english": "polychrome illuminated headpiece at the opening of the text. Mülevven = multicoloured; tezhibli = bearing tezhip illumination."
+      },
+      {
+        "concept": "ruling lines / frame",
+        "ottoman": "cedvel / cetvel; altın cetvelli",
+        "arabic": "jadwal (جدول)",
+        "persian": "jadval",
+        "english": "ruling lines framing the text block; altın = gold"
+      },
+      {
+        "concept": "hatāyī scroll motifs",
+        "ottoman": "hatāyī",
+        "arabic": null,
+        "persian": "khatāyī (ختایی)",
+        "english": "Chinese-derived floral scrollwork: lotus, peony, and composite flower forms in arabesque scroll. Core motif family of Ottoman zerkâri programmes."
+      },
+      {
+        "concept": "arabesque scroll",
+        "ottoman": "islīmī",
+        "arabic": null,
+        "persian": "islīmī (اسلیمی)",
+        "english": "arabesque: curling vegetal scroll, typically combined with hatāyī flowers"
+      },
+      {
+        "concept": "portal arch headpiece form",
+        "ottoman": "kemer / kemerli serlevha",
+        "arabic": null,
+        "persian": null,
+        "english": "portal arch form for the illuminated headpiece — pointed arch framing the opening text panel"
+      },
+      {
+        "concept": "endowment / waqf library",
+        "ottoman": "vakıf kütüphanesi; kütüphane-i mevkûfe",
+        "arabic": "waqf (وقف); maktaba mawqūfa",
+        "persian": null,
+        "english": "Islamic pious endowment library. The Emîr İmamzâde Kütüphanesi is an endowed library in Amasya associated with a local dignitary."
+      }
+    ]
+  },
+  "bibliography": [
+    {
+      "citation": "Balcı, Ahmet Ali (cataloguer). YEK Portal catalogue record for Amasya Beyazıt Kütüphanesi MS 1884 (YEK ID 389555). portal.yek.gov.tr.",
+      "relevance": "Primary source: catalogue entry providing the decoration description 'Serlevha mülevven tezhibli, yaprak kenarları zerkârî' and the vakıf inscription attribution to İbrâhim b. Mahmûd Boluvî and the Emîr İmamzâde Kütüphanesi. Ahmet Ali Balcı is the cataloguer for the Amasya Beyazıt collection in YEK.",
+      "relevance_score": 1.0,
+      "access_notes": "Accessible at https://portal.yek.gov.tr/yekis/index.xhtml?yek_id=389555"
+    },
+    {
+      "citation": "al-Ghazālī, Abū Ḥāmid Muḥammad. Iḥyāʾ ʿUlūm al-Dīn. Ed. Badawī Ṭabāna. Cairo, 1957.",
+      "relevance": "Primary text of this manuscript. The Iḥyāʾ ʿUlūm al-Dīn is one of the most widely copied works in Islamic history; understanding its structure (four quarters: ʿibādāt, ʿādāt, muhlikāt, munjiyāt) informs the likely layout and volume organisation of the manuscript.",
+      "relevance_score": 0.80,
+      "access_notes": "Widely available in print and digitally via Islamic digital libraries."
+    },
+    {
+      "citation": "Griffel, Frank. Al-Ghazālī's Philosophical Theology. Oxford: Oxford University Press, 2009.",
+      "relevance": "Standard English-language scholarly treatment of al-Ghazālī's thought and legacy, contextualising the extraordinary importance of the Iḥyāʾ in Islamic intellectual history and explaining why luxury manuscript copies were regularly commissioned across the Ottoman Empire.",
+      "relevance_score": 0.60,
+      "access_notes": "Available in research libraries."
+    },
+    {
+      "citation": "Blair, Sheila S. 'Color and Gold: The Decorated Papers Used in Manuscripts in Later Islamic Times.' Muqarnas 17 (2000): 24–36.",
+      "relevance": "Key reference on decorated paper techniques including zerkâri, with comparative examples from Ottoman and Persian manuscripts. Essential for situating the full-margin zerkâri programme of this manuscript within the broader tradition of gold-worked paper.",
+      "relevance_score": 0.95,
+      "access_notes": "Available via JSTOR."
+    },
+    {
+      "citation": "Tanındı, Zeren. 'Some Problems of Ottoman Manuscript Illumination.' Manuscripts of the Middle East 4 (1989): 54–59.",
+      "relevance": "Foundational study on Ottoman manuscript illumination addressing the development of the serlevha headpiece tradition, polychrome tezhip programmes, and the relationship between Istanbul court production and provincial copying. Directly relevant to attributing this undated manuscript.",
+      "relevance_score": 0.80,
+      "access_notes": "Available in research libraries; open-access via Leiden University."
+    },
+    {
+      "citation": "Tanındı, Zeren. 'Bibliophile Aghas (Eunuchs) at Topkapı Sarayı.' Muqarnas 21 (2004): 333–343.",
+      "relevance": "Addresses Ottoman manuscript patronage networks in the 17th–18th centuries, including commissions of luxury copies of major Islamic texts. Useful for contextualising prestige copies of the Iḥyāʾ in the late Ottoman period.",
+      "relevance_score": 0.65,
+      "access_notes": "Available via JSTOR."
+    },
+    {
+      "citation": "Gacek, Adam. Arabic Manuscripts: A Vademecum for Readers. Leiden/Boston: Brill, 2009.",
+      "relevance": "Standard reference for Arabic manuscript codicology and terminology, including conventions for multi-volume texts such as the Iḥyāʾ ʿUlūm al-Dīn and the vocabulary of Ottoman Arabic manuscript decoration. Essential reference for interpreting the catalogue description.",
+      "relevance_score": 0.75,
+      "access_notes": "Available in research libraries."
+    },
+    {
+      "citation": "Déroche, François. Islamic Codicology: An Introduction to the Study of Manuscripts in Arabic Script. Trans. Deke Dusinberre and David Radzinowicz. London: Al-Furqan Islamic Heritage Foundation, 2005.",
+      "relevance": "Comprehensive codicological reference covering the physical structure of Arabic manuscripts, including description conventions, quire structure, and the material support of illuminated texts. Applicable to a large single-volume Iḥyāʾ copy.",
+      "relevance_score": 0.70,
+      "access_notes": "Available in research libraries."
+    },
+    {
+      "citation": "Bloom, Jonathan M. Paper Before Print: The History and Impact of Paper in the Islamic World. New Haven: Yale University Press, 2001.",
+      "relevance": "Foundational study on paper in the Islamic world, covering paper production, decorated paper techniques, and the role of paper quality in luxury manuscript commissions. Provides historical context for the Ottoman use of zerkâri paper in prestige copies.",
+      "relevance_score": 0.70,
+      "access_notes": "Available in research libraries."
+    },
+    {
+      "citation": "Mahir, Banu. Osmanlı Minyatür Sanatı. Istanbul: Kabalcı Yayınevi, 2004. [In Turkish]",
+      "relevance": "Survey of Ottoman painting and illumination including discussion of manuscript production centres in Amasya and other Anatolian cities, contextualising the provincial luxury manuscript tradition to which this copy may belong.",
+      "relevance_score": 0.60,
+      "access_notes": "Turkish. Available in major Turkish research libraries."
+    },
+    {
+      "citation": "Hillenbrand, Robert. Islamic Art and Architecture. London: Thames and Hudson, 1999.",
+      "relevance": "Broad survey reference for Islamic manuscript arts, useful for comparative context of gold-worked paper manuscripts across the Persian and Ottoman traditions.",
+      "relevance_score": 0.50,
+      "access_notes": "Widely available in research libraries."
+    }
+  ],
+  "suggested_collections": [
+    {
+      "institution": "YEK Portal — Amasya Beyazıt Kütüphanesi cluster",
+      "reason": "Six further manuscripts in the Amasya Beyazıt collection (shelfmarks 1, 39, 41, 50, 53, 270) share the zerkâri decoration family per cataloguer Ahmet Ali Balcı. Comparative examination recommended to establish the range and consistency of zerkâri programmes in this collection.",
+      "digital_access": "https://portal.yek.gov.tr"
+    },
+    {
+      "institution": "Süleymaniye Kütüphanesi",
+      "reason": "Major repository of Ottoman luxury manuscript production with numerous Ghazali Iḥyāʾ copies. Comparable manuscripts with illuminated serlevha and margin decoration programmes are likely held in multiple sub-collections.",
+      "digital_access": "https://portal.yek.gov.tr"
+    },
+    {
+      "institution": "Chester Beatty Library (Dublin)",
+      "reason": "Holds important examples of Ottoman and Persian luxury manuscript production, including manuscripts with full-margin gold-worked decoration programmes. Useful for comparative workshop attribution.",
+      "digital_access": "https://viewer.cbl.ie"
+    }
+  ],
+  "provenance": {
+    "donor": "İbrâhim b. Mahmûd Boluvî",
+    "waqf": "Emîr İmamzâde Kütüphanesi, Amasya",
+    "previous_shelfmarks": [],
+    "notes": "A vakıf (waqf / pious endowment) inscription records the donation by İbrâhim b. Mahmûd Boluvî to the Emîr İmamzâde Kütüphanesi in Amasya. The Emîr İmamzâde Kütüphanesi is an endowed library in Amasya associated with a local dignitary (emîr imamzâde = 'son of the imām of the emîr'), indicating provincial Ottoman patronage and a local endowment network. The manuscript subsequently passed to the Amasya Beyazıt Kütüphanesi, the main civic manuscript library of Amasya, which holds the surviving waqf library collections of the city. The Boluvî nisba (نسبت) indicates connection to Bolu, an Anatolian town, suggesting the donor had roots in northwestern Anatolia. IIIF identifier: 0000000377836. Fully digitized (795 pages available via YEK IIIF)."
+  },
+  "analysis_metadata": {
+    "analyzed_date": "2026-02-26",
+    "analyzer": "claude-code-manuscript-pipeline / metadata-generator (claude-sonnet-4-6)",
+    "image_source": "YEK portal IIIF viewer — Amasya Beyazıt Kütüphanesi digitized images (IIIF ID 0000000377836)",
+    "image_quality_notes": "Two screenshots examined (IIIF p005 blank flyleaf; IIIF p007 first text opening). Resolution approximately 1600 px width. Gold zerkâri motifs in margins clearly resolved; individual gold particle structure not resolvable. Polychrome serlevha headpiece colours and arch structure clearly legible. Visual confirmation confidence 0.93.",
+    "folios_examined": [
+      "IIIF p005 (blank flyleaf)",
+      "IIIF p007 (first text opening, ff. 1b–2a)"
+    ],
+    "folios_not_examined": "The manuscript is fully digitized (795 IIIF pages). The visual confirmation pass examined only the opening folios. The colophon (hâtime), remaining body text, and all subsequent folios with their claimed zerkâri margins have not been examined. The catalogue claim 'yaprak kenarları zerkârî' (all leaf margins gold-worked) is confirmed at the opening but not verified throughout the full manuscript."
+  }
+}

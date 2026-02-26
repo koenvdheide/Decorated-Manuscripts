@@ -1,0 +1,387 @@
+{
+  "record_id": "ali_nihat_tarlan_00075",
+  "collection": {
+    "institution": "Süleymaniye Kütüphanesi — Ali Nihat Tarlan Koleksiyonu",
+    "city": "Istanbul",
+    "country": "Turkey",
+    "shelfmark": "00075",
+    "yek_url": "https://portal.yek.gov.tr/yazmaeser/eser-detay/181822"
+  },
+  "manuscript": {
+    "title": "Mecmûʿa-i Nefîse (مجموعهٔ نفیسه)",
+    "author": null,
+    "date_ah": "1135",
+    "date_ce": "1722–1723",
+    "format": "mecmûʿa",
+    "dimensions_mm": {
+      "height": null,
+      "width": null
+    },
+    "folio_count": null
+  },
+  "component_texts": [
+    {
+      "risale_number": 1,
+      "yek_id": "181822",
+      "shelfmark": "00075-001",
+      "title": "Mecmûʿa-i Nefîse",
+      "title_arabic": "مجموعهٔ نفیسه",
+      "author": null,
+      "language": null,
+      "date_ah": "1135",
+      "notes": "Title risale of the volume; risale 1 of 9. Date AH 1135 applies to the physical volume as a whole."
+    },
+    {
+      "risale_number": 2,
+      "yek_id": null,
+      "shelfmark": "00075-002",
+      "title": null,
+      "author": null,
+      "language": null,
+      "date_ah": null,
+      "notes": "Risale 2 of 9. Not retrieved in Batch 2 zerkâri search (shelfmark 00075-002). YEK ID not confirmed. May lack decorated-paper field entry in catalogue or may be undigitized. Requires direct YEK portal check."
+    },
+    {
+      "risale_number": 3,
+      "yek_id": "181824",
+      "shelfmark": "00075-003",
+      "title": "Mecmûʿa-i Nefîse",
+      "title_arabic": "مجموعهٔ نفیسه",
+      "author": null,
+      "language": null,
+      "date_ah": null,
+      "notes": "Risale 3 of 9. Paper description 'Çeşitli zerkâri kâğıt' applies to entire volume."
+    },
+    {
+      "risale_number": 4,
+      "yek_id": "181825",
+      "shelfmark": "00075-004",
+      "title": "Muʿammayāt",
+      "title_arabic": "معماییات",
+      "author": "Naṣrullāh-ı Şīrāzī",
+      "language": "Persian",
+      "date_ah": null,
+      "notes": "Persian-language risale. Muʿammayāt (enigma verses / riddle poems). Risale 4 of 9."
+    },
+    {
+      "risale_number": 5,
+      "yek_id": "181826",
+      "shelfmark": "00075-005",
+      "title": "Mecmûʿa-i Eşʿār",
+      "title_arabic": "مجموعهٔ اشعار",
+      "author": null,
+      "language": null,
+      "date_ah": null,
+      "notes": "Poetry collection (anthology of verse). Risale 5 of 9."
+    },
+    {
+      "risale_number": 6,
+      "yek_id": "181827",
+      "shelfmark": "00075-006",
+      "title": "Zikru Fetḥi Somnāt",
+      "title_arabic": "ذكر فتح سومنات",
+      "author": null,
+      "language": "Arabic",
+      "date_ah": null,
+      "notes": "Arabic-language text on the conquest of Somnath (Somanātha, Gujarat). Risale 6 of 9."
+    },
+    {
+      "risale_number": 7,
+      "yek_id": "181828",
+      "shelfmark": "00075-007",
+      "title": "Fevāʾid",
+      "title_arabic": "فوائد",
+      "author": null,
+      "language": null,
+      "date_ah": null,
+      "notes": "Miscellany of useful notes / benefits (fevāʾid). Risale 7 of 9."
+    },
+    {
+      "risale_number": 8,
+      "yek_id": null,
+      "shelfmark": "00075-008",
+      "title": null,
+      "author": null,
+      "language": null,
+      "date_ah": null,
+      "notes": "Risale 8 of 9. Not retrieved in Batch 2 zerkâri search (shelfmark 00075-008). YEK ID not confirmed. May lack decorated-paper field entry in catalogue or may be undigitized. Requires direct YEK portal check."
+    },
+    {
+      "risale_number": 9,
+      "yek_id": "181830",
+      "shelfmark": "00075-009",
+      "title": "Fevāʾid",
+      "title_arabic": "فوائد",
+      "author": null,
+      "language": null,
+      "date_ah": null,
+      "notes": "Miscellany of useful notes / benefits (fevāʾid). Risale 9 of 9. Risales 2 and 8 are not represented in the Batch 2 zerkâri search results; they may lack the decorated paper field entry or may be undigitized."
+    }
+  ],
+  "paper_decoration": {
+    "types": ["gold_worked", "marbled", "framing_system"],
+    "summary": "The volume uses 'çeşitli zerkâri kâğıt' (various/mixed gold-worked paper) throughout — implying that different types of zerkâri papers were assembled from disparate sources to produce the volume, a common practice in Ottoman mecmûʿa production of the 18th century. Zerkâri (zarkārī) paper carries gold motifs worked directly into the paper surface, typically floral, geometric, or chevron patterns applied before binding. The variety of papers in a single volume suggests the scribe or compiler drew on a stock of assorted luxury papers rather than a single commissioned batch. Folio pages 4a–4b (IIIF p007) carry ebrî (marbled) paper in blue marbling, clearly confirmed at visual examination — this introduces decorative variety at what may be the opening of a risale or a preliminary leaf. A further marbled leaf is recorded at page 16a. The zerkâri decoration itself was not visually distinguished from plain aged paper at available digital resolution, likely due to oxidation of the gold, which commonly darkens to a brownish-grey tone on Ottoman zerkâri papers. IIIF p004 shows a heavily darkened preliminary page consistent with oxidized gold-worked paper. The catalogue claim of 'çeşitli zerkâri kâğıt' is assessed as probable pending in-person examination under raking light.",
+    "technique_terms": {
+      "ottoman": "çeşitli zerkâri kâğıt; ebrî / ebrulu kâğıt",
+      "persian": "zarkārī-yi gūnāgūn (زرکاری گوناگون); kāġaḏ-e abrī (کاغذ ابری)",
+      "arabic": null
+    },
+    "catalogue_description": {
+      "paper_field": "Çeşitli zerkâri kâğıt.",
+      "notes_field": "Ebru on pages 4a-b and 16a.",
+      "decoration_field": null
+    }
+  },
+  "workshop_attribution": {
+    "primary_tradition": "ottoman",
+    "workshop_centre": "Istanbul (probable)",
+    "date_range_ce": "1722–1723",
+    "confidence": 0.70,
+    "key_indicators": [
+      "Dated AH 1135 / CE 1722–23: falls squarely in the Tulip Period (Lâle Devri, 1718–1730) under Sultan Ahmed III, a period of intensified luxury book production and conspicuous decorative arts in Istanbul",
+      "Mixed zerkâri paper assembled from varied sources: a characteristic practice of 18th-century Istanbul mecmûʿa production, where booksellers and compilers assembled volumes from available luxury stocks",
+      "Ebru (marbled paper) inserts at specific leaves: the use of ebrî paper as decorative variety leaves is well-documented in Ottoman Istanbul luxury mecmûʿas of the early 18th century",
+      "The Ali Nihat Tarlan Koleksiyonu provenance at Süleymaniye Kütüphanesi is consistent with an Istanbul-based provenance chain for the volume",
+      "Persian and Arabic component risales alongside Ottoman Turkish texts: typical of Istanbul mecmûʿa culture, where learned compiler-scribes assembled multilingual anthologies"
+    ],
+    "cross_tradition_caveats": [
+      "No explicit workshop city stated in the surviving catalogue records; Istanbul attribution is inferred from date, technique, and collection context",
+      "Zerkâri paper itself may have been produced outside Istanbul (Iranian or Central Asian import papers were common in Ottoman luxury trade) — the volume's assembly in Istanbul does not preclude imported paper",
+      "Visual confirmation is only probable (0.70) due to oxidation obscuring the gold-worked patterns; attribution confidence accordingly limited"
+    ]
+  },
+  "codicology": null,
+  "visual_confirmation": {
+    "verdict": "probable",
+    "confidence": 0.70,
+    "screenshots_examined": 4,
+    "limitations": [
+      "Gold-worked (zerkâri) paper not visually distinguishable from age-darkened plain paper at available digital resolution",
+      "Possible oxidation of the gold making zerkâri patterns invisible in IIIF images; darkened pages (e.g. p004) are consistent with but do not confirm oxidized zerkâri",
+      "Only 4 IIIF screenshots examined (p004, p007, p010, p014); folio coverage is low relative to total volume",
+      "In-person examination under raking or UV light required for definitive confirmation of zerkâri technique"
+    ]
+  },
+  "folio_analyses": [
+    {
+      "folio": "Preliminary leaf — possibly f. 1b or pastedown area (IIIF p004)",
+      "source_image": "corpus/visual_confirmation_batch2/ali_nihat_tarlan_00075_p004_iiif.png",
+      "decoration_present": null,
+      "decoration_types": ["gold_worked"],
+      "elements": [
+        {
+          "motif": "Darkened preliminary page — possible oxidized zerkâri",
+          "description": "Page appears heavily darkened, significantly darker than the body text pages. This tonal shift is consistent with oxidized gold-worked paper, where gold particles or worked gold motifs darken over time to a brownish-grey or greenish-grey tone. However, the visual evidence is ambiguous: age darkening of plain paper, heavy sizing, or other causes could produce a similar effect.",
+          "location": "Full page",
+          "confidence": 0.45
+        }
+      ],
+      "confidence": 0.45,
+      "notes": "Inconclusive at digital resolution. In-person examination required for definitive assessment."
+    },
+    {
+      "folio": "Pages 4a–4b — ebrî leaf (IIIF p007)",
+      "source_image": "corpus/visual_confirmation_batch2/ali_nihat_tarlan_00075_p007_iiif.png",
+      "decoration_present": true,
+      "decoration_types": ["marbled"],
+      "elements": [
+        {
+          "motif": "Ebrî (marbled paper) — blue marbling",
+          "description": "Clear blue marbled paper (ebrî / ebrulu) visible across the page spread. The marbling pattern is characteristic of battal ebru (stone/spot marbling) or gel-git ebru (combed marbling) — specific subtype not determinable at screenshot resolution. The dominant colour is blue, with lighter veining or wave patterns. This precisely corresponds to the catalogue note 'ebru on pages 4a-b'.",
+          "location": "Full page spread (both recto and verso)",
+          "confidence": 0.92
+        }
+      ],
+      "confidence": 0.92,
+      "notes": "Ebru (marbled paper) definitively confirmed on this page spread. This is the primary visual evidence supporting the 'probable' verdict. The blue marbled leaf likely functions as a decorative divider between risales or a luxury endpaper/flyleaf within the mecmûʿa structure."
+    },
+    {
+      "folio": "Body text pages — mid-volume (IIIF p010)",
+      "source_image": "corpus/visual_confirmation_batch2/ali_nihat_tarlan_00075_p010_iiif.png",
+      "decoration_present": null,
+      "decoration_types": ["framing_system"],
+      "elements": [
+        {
+          "motif": "Body text with ruling",
+          "description": "Regular text pages examined. Cedvel (frame lines) visible around text block. Paper appears aged; no zerkâri patterns distinguishable at this resolution. Cannot confirm or exclude gold-worked paper ground from this view.",
+          "location": "Text block and margins",
+          "confidence": 0.50
+        }
+      ],
+      "confidence": 0.50,
+      "notes": "No distinctive decorative evidence at available resolution. Consistent with either plain paper or oxidized/faded zerkâri."
+    },
+    {
+      "folio": "Body text pages — later in volume (IIIF p014)",
+      "source_image": "corpus/visual_confirmation_batch2/ali_nihat_tarlan_00075_p014_iiif.png",
+      "decoration_present": null,
+      "decoration_types": ["framing_system"],
+      "elements": [
+        {
+          "motif": "Body text with ruling",
+          "description": "Regular text pages. Similar appearance to p010 — aged paper with ruling lines around text block. No zerkâri patterns discernible. The second marbled leaf (page 16a) is in the adjacent sequence but was not captured in the examined screenshots.",
+          "location": "Text block and margins",
+          "confidence": 0.50
+        }
+      ],
+      "confidence": 0.50,
+      "notes": "The marbled leaf at page 16a would be approximately two IIIF pages after this spread but was not captured. No distinctive decoration visible at this page."
+    }
+  ],
+  "terminology": {
+    "terms_used": [
+      {
+        "concept": "Gold-worked paper",
+        "ottoman": "zerkâri kâğıt (زرکاری کاغذ)",
+        "arabic": null,
+        "persian": "kāġaḏ-e zarkārī (کاغذ زرکاری)",
+        "english": "Gold-worked paper: paper decorated with gold motifs (floral, geometric, chevron, or medallion patterns) worked directly onto the paper surface; distinct from zerefşân (scattered gold particles)"
+      },
+      {
+        "concept": "Various/mixed gold-worked paper",
+        "ottoman": "çeşitli zerkâri kâğıt",
+        "arabic": null,
+        "persian": "kāġaḏ-e zarkārī-yi gūnāgūn",
+        "english": "Various/mixed gold-worked paper: a cataloguing phrase indicating that a manuscript volume uses assorted gold-worked papers of different patterns or origins, rather than a single uniform stock"
+      },
+      {
+        "concept": "Marbled paper",
+        "ottoman": "ebrî kâğıt / ebrulu kâğıt (ابری)",
+        "arabic": null,
+        "persian": "kāġaḏ-e abrī (کاغذ ابری)",
+        "english": "Marbled paper: paper decorated by floating pigments on a size medium and transferring the pattern to the paper surface; various subtypes (battal, gel-git, hatip) distinguished by technique"
+      },
+      {
+        "concept": "Composite manuscript / anthology",
+        "ottoman": "mecmûʿa (مجموعه)",
+        "arabic": "majmūʿa (مجموعة)",
+        "persian": "majmūʿa (مجموعه)",
+        "english": "Composite manuscript: a bound volume containing multiple independent texts (risales); a common format in Ottoman literary and scholarly culture"
+      },
+      {
+        "concept": "Component text / treatise",
+        "ottoman": "risâle (رساله)",
+        "arabic": "risāla (رسالة)",
+        "persian": "risāla (رساله)",
+        "english": "Individual treatise or text within a mecmûʿa; each risale is catalogued separately in YEK but belongs to one physical volume"
+      },
+      {
+        "concept": "Ruling / frame lines",
+        "ottoman": "cedvel / cetvel",
+        "arabic": "jadwal (جدول)",
+        "persian": "jadval (جدول)",
+        "english": "Ruling lines framing the text block; altın cedvel = gold ruling in luxury manuscripts"
+      },
+      {
+        "concept": "Precious miscellany",
+        "ottoman": "mecmûʿa-i nefîse (مجموعهٔ نفیسه)",
+        "arabic": null,
+        "persian": "majmūʿa-i nafīsa (مجموعهٔ نفیسه)",
+        "english": "Precious/splendid miscellany: the title given to this volume, self-referentially describing the compilation as a luxury collection"
+      }
+    ]
+  },
+  "bibliography": [
+    {
+      "citation": "Blair, Sheila S. 'Color and Gold: The Decorated Papers Used in Manuscripts in Later Islamic Times.' Muqarnas 17 (2000): 24–36.",
+      "relevance": "Foundational reference on gold-worked (zerkâri) and gold-sprinkled (zerefşân) decorated papers in later Islamic manuscripts, directly addressing the çeşitli zerkâri kâğıt that characterizes this volume. Discusses the range of gold-applied techniques and their distribution across Ottoman, Safavid, and Mughal production contexts.",
+      "relevance_score": 0.95,
+      "access_notes": "Peer-reviewed. JSTOR access. Open access likely via institutional repositories."
+    },
+    {
+      "citation": "Bloom, Jonathan M. Paper Before Print: The History and Impact of Paper in the Islamic World. New Haven: Yale University Press, 2001.",
+      "relevance": "Comprehensive history of Islamic papermaking and paper decoration, covering the spread of decorated paper production across the Islamic world, including the Ottoman context relevant to an AH 1135 / CE 1722–23 mecmûʿa.",
+      "relevance_score": 0.80,
+      "access_notes": "Available at major research libraries."
+    },
+    {
+      "citation": "Tanındı, Zeren. 'Bibliophile Aghas (Eunuchs) at Topkapı Sarayı.' Muqarnas 21 (2004): 333–343.",
+      "relevance": "Examines luxury book production and manuscript culture in the early 18th-century Ottoman court (Ahmed III / Tulip Period), the precise historical context of this mecmûʿa; discusses the patronage of mecmûʿa compilation and decorated paper use in Istanbul.",
+      "relevance_score": 0.78,
+      "access_notes": "Peer-reviewed. JSTOR access."
+    },
+    {
+      "citation": "Mahir, Banu. Osmanlı Minyatür Sanatı. Istanbul: Kabalcı Yayınevi, 2005.",
+      "relevance": "Reference for Ottoman decorative arts broadly in the Tulip Period and subsequent 18th-century production; contextualizes the luxury manuscript culture in which this mecmûʿa was produced. In Turkish.",
+      "relevance_score": 0.65,
+      "access_notes": "In Turkish. Available at Turkish research libraries and major Islamic art collections."
+    },
+    {
+      "citation": "Roxburgh, David J. The Persian Album 1400–1600: From Dispersal to Collection. New Haven: Yale University Press, 2005.",
+      "relevance": "Although focused on Persian and Timurid album-making, provides the intellectual framework for mecmûʿa compilation as a cultural practice; the multi-text mecmûʿa format of Ali Nihat Tarlan 00075, with its assembled luxury papers, is directly comparable to the album-making tradition discussed.",
+      "relevance_score": 0.60,
+      "access_notes": "Available at major research libraries."
+    },
+    {
+      "citation": "Déroche, François. Islamic Codicology: An Introduction to the Study of Manuscripts in Arabic Script. Translated by Deke Dusinberre and David Radzinowicz. London: Al-Furqan Islamic Heritage Foundation, 2005.",
+      "relevance": "Standard codicological reference covering Ottoman manuscript formats, mecmûʿa structure, and paper decoration conventions. The framework for describing risale composition and physical volume structure used in this record.",
+      "relevance_score": 0.70,
+      "access_notes": "Available at major research libraries and partially online."
+    },
+    {
+      "citation": "Gacek, Adam. The Arabic Manuscript Tradition: A Glossary of Technical Terms and Bibliography. Handbuch der Orientalistik, Erste Abteilung, Bd. 58. Leiden: Brill, 2001.",
+      "relevance": "Defines technical terminology relevant to mecmûʿa structure, risale composition, paper description, and ruling conventions; essential reference for standardized description of multi-text volumes.",
+      "relevance_score": 0.65,
+      "access_notes": "Available at major research libraries."
+    },
+    {
+      "citation": "Tarlan, Ali Nihat. Edebiyat Meseleleri. Istanbul: Ötüken Yayınevi, 1981.",
+      "relevance": "Ali Nihat Tarlan (1898–1978) was a prominent Turkish literary historian and Ottoman literature scholar at Istanbul University; this publication represents his scholarly legacy. Understanding the collector is directly relevant to provenance research for the Ali Nihat Tarlan Koleksiyonu at Süleymaniye.",
+      "relevance_score": 0.55,
+      "access_notes": "In Turkish. Available at Turkish university libraries."
+    },
+    {
+      "citation": "Sturkenboom, Ilse. 'Identifying Chinese Decorated Paper in Persianate Manuscripts: Methodological Challenges.' GlobalDecoPaper ERC Project, LMU Munich (forthcoming).",
+      "relevance": "Forthcoming research from the GlobalDecoPaper project on the identification and classification of imported decorated papers in Persianate (and by extension Ottoman) manuscripts — directly relevant to the question of whether the çeşitli zerkâri kâğıt in this mecmûʿa includes imported Iranian or Central Asian papers alongside Istanbul-produced examples.",
+      "relevance_score": 0.70,
+      "access_notes": "Forthcoming. GlobalDecoPaper ERC Project, LMU Munich. Monitor project outputs at globaldecoratedpaper.eu."
+    },
+    {
+      "citation": "Wright, Elaine. Islam: Faith, Art, Culture — Manuscripts of the Chester Beatty Library. London: Scala Publishers / Chester Beatty Library, 2009.",
+      "relevance": "Survey of Islamic manuscript arts including extensive treatment of decorated paper, marbled papers, and gold-worked papers in Ottoman and Persianate contexts; provides visual comparanda for ebrî and zerkâri paper types of the type found in this mecmûʿa.",
+      "relevance_score": 0.68,
+      "access_notes": "Exhibition catalogue. Available at major research libraries and the Chester Beatty Library shop."
+    }
+  ],
+  "suggested_collections": [
+    {
+      "institution": "Süleymaniye Kütüphanesi — Ali Nihat Tarlan Koleksiyonu, Istanbul",
+      "reason": "The home collection. Other volumes in the Ali Nihat Tarlan Koleksiyonu may share provenance and help reconstruct the collector's manuscript library and acquisition patterns.",
+      "digital_access": "https://portal.yek.gov.tr"
+    },
+    {
+      "institution": "Topkapı Sarayı Müzesi Kütüphanesi, Istanbul",
+      "reason": "Holds major holdings of early 18th-century Ottoman luxury manuscripts (Tulip Period / Ahmed III era), including mecmûʿas assembled on zerkâri and ebrî papers; direct comparanda for the paper stock and compilation format of this volume.",
+      "digital_access": "https://kutuphane.tsmk.gov.tr"
+    },
+    {
+      "institution": "Chester Beatty Library, Dublin",
+      "reason": "Significant holdings of Ottoman mecmûʿas with decorated papers, including 18th-century examples; digitized images facilitate comparative study of zerkâri paper types and marbled paper inserts.",
+      "digital_access": "https://viewer.cbl.ie"
+    },
+    {
+      "institution": "Bodleian Library, Oxford",
+      "reason": "Persian and Ottoman manuscript collection includes examples of zarkārī (zerkâri) papers; Elaine Wright's cataloguing work on decorated papers in the Bodleian collection provides additional comparanda.",
+      "digital_access": "https://digital.bodleian.ox.ac.uk"
+    }
+  ],
+  "provenance": {
+    "donor": "Ali Nihat Tarlan (1898–1978)",
+    "waqf": null,
+    "previous_shelfmarks": [],
+    "notes": "The Ali Nihat Tarlan Koleksiyonu was donated by Prof. Dr. Ali Nihat Tarlan (1898–1978), a prominent Turkish literary historian and scholar of Ottoman and classical Turkish literature at Istanbul University. Tarlan was one of the foremost authorities on classical Ottoman poetry (divan edebiyatı) and Persian literary influence on Ottoman letters; his scholarly focus on precisely this type of multilingual literary mecmûʿa makes the presence of Mecmûʿa-i Nefîse in his collection particularly significant. The collection is held at Süleymaniye Kütüphanesi, Istanbul. The physical volume (shelfmark 00075) was catalogued in YEK as nine separate risale entries (00075-001 through 00075-009); only 7 of the 9 risales carry the 'çeşitli zerkâri kâğıt' paper description and were retrieved in the Batch 2 zerkâri search. The volume as a whole is dated AH 1135 / CE 1722–23, placing it firmly in the Tulip Period (Lâle Devri) of Sultan Ahmed III (r. 1703–1730)."
+  },
+  "analysis_metadata": {
+    "analyzed_date": "2026-02-26",
+    "analyzer": "claude-code-manuscript-pipeline",
+    "image_source": "YEK Portal IIIF — Süleymaniye Kütüphanesi (portal.yek.gov.tr); screenshots via visual-confirmation agent (Batch 2, 2026-02-26). Primary yek_id for IIIF access: 181822.",
+    "image_quality_notes": "Four IIIF screenshots examined (p004, p007, p010, p014). p007 (marbled pages 4a–4b): sufficient quality for ebru identification; blue marbling clearly legible. p004 (darkened preliminary page): sufficient to note tonal anomaly but insufficient to confirm zerkâri pattern detail. p010 and p014 (body text pages): sufficient for general assessment; paper grain and gold particle identification not possible at available resolution. Possible oxidation of gold-worked surfaces reduces visual detectability across all pages. Resolution noted as approximately 0.7 quality rating in confidence breakdown.",
+    "folios_examined": [
+      "p004 (darkened preliminary leaf — possible oxidized zerkâri)",
+      "p007 (pages 4a–4b, ebrî marbled leaf — ebru confirmed)",
+      "p010 (body text pages, mid-volume)",
+      "p014 (body text pages, later in volume — adjacent to page 16a marbled leaf)"
+    ],
+    "folios_not_examined": "Pages 16a (second marbled leaf, per catalogue); all opening pages of individual risales; all colophon/hâtime pages; the full extent of zerkâri paper throughout the volume. Risales 2 and 8 (shelfmarks 00075-002 and 00075-008) not represented in Batch 2 search results — their paper characteristics are unconfirmed."
+  }
+}

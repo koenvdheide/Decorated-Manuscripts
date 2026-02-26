@@ -1,0 +1,275 @@
+{
+  "record_id": "yusuf_aga_yy00006636-001",
+  "collection": {
+    "institution": "Yusuf Ağa Kütüphanesi",
+    "city": "Konya",
+    "country": "Turkey",
+    "shelfmark": "YY00006636",
+    "yek_url": "https://portal.yek.gov.tr/detay/YY00006636"
+  },
+  "manuscript": {
+    "title": null,
+    "author": null,
+    "date_ah": null,
+    "date_ce": "16th–17th century [?]",
+    "format": "mecmûʿa (risale 1 of composite volume; same physical volume as YY00006636-002)",
+    "dimensions_mm": {
+      "height": null,
+      "width": null
+    },
+    "folio_count": null
+  },
+  "paper_decoration": {
+    "types": ["gold_sprinkled", "framing_system"],
+    "summary": "Both pages of the opening display gold-sprinkled margins (zerefşân / serpme). Gold particles create a warm golden shimmer across the margin areas outside the multi-line ruling frames. An illuminated headpiece (serlevha) in the hatāyī-rūmī style with lapis blue, gold, red, and white occupies the top of the right-hand page. Multi-line ruling (cedvel) in gold, red, and black frames the text block throughout. The catalogue records the paper decoration as 'Yaldiz serpmeli kenarlar' (gold-sprinkled margins). As risale 1 in a mecmûʿa, the decoration program may extend to additional risales in the same volume.",
+    "technique_terms": {
+      "ottoman": "yaldız serpmeli / serpme / yaldız serpmeli kenarlar",
+      "persian": "zarafshān / afshān",
+      "arabic": "dhahab marshūsh"
+    },
+    "catalogue_description": {
+      "paper_field": "Yaldiz serpmeli kenarlar",
+      "notes_field": null,
+      "decoration_field": null
+    }
+  },
+  "workshop_attribution": {
+    "primary_tradition": "ottoman",
+    "workshop_centre": null,
+    "date_range_ce": "16th–17th century",
+    "confidence": 0.50,
+    "key_indicators": [
+      "Gold-sprinkled (zerefşân) margins standard in Ottoman luxury manuscript production from the 16th century onwards",
+      "Polychrome serlevha with hatāyī and rūmī scrollwork in lapis blue, gold, red, and white — characteristic Ottoman illumination motif repertoire",
+      "Multi-line cedvel in gold, red, and black consistent with Ottoman court and high-grade commercial production",
+      "Penç rosette forms present in serlevha are an Ottoman-period marker"
+    ],
+    "cross_tradition_caveats": [
+      "Without a colophon or dated inscription, dating remains a broad 16th–17th century range; individual motifs do not distinguish decades reliably at this resolution",
+      "The serlevha quality is described as competent but not top-tier court nakkaşhane level; could reflect high-grade provincial Ottoman production or a slightly later period of court-style diffusion",
+      "Zerefşân paper was also used in Safavid manuscripts; attribution to Ottoman tradition rests on the combined evidence of motif vocabulary and framing system"
+    ]
+  },
+  "codicology": null,
+  "visual_confirmation": {
+    "verdict": "confirmed",
+    "confidence": 0.85,
+    "screenshots_examined": 1,
+    "limitations": [
+      "Image is a YEK portal viewer screenshot at moderate resolution (approx. 1536 × 864 px); individual gold particles in the zerefşân layer are not individually resolved, but the overall warm golden margin tone is unambiguous",
+      "Only page 7 (p007) was examined; the decoration program of the remaining folios in this risale and other risales in the mecmûʿa is not confirmed from this single image"
+    ]
+  },
+  "folio_analyses": [
+    {
+      "folio": "p007",
+      "source_image": "corpus/visual_confirmation_batch1/yusuf_aga_yy00006636-001_p007_iiif.png",
+      "decoration_type": "paper_decoration",
+      "elements": [
+        {
+          "element_type": "gold-sprinkled paper",
+          "element_type_ottoman": "yaldız serpmeli kâğıt",
+          "element_type_persian": "zarafshān",
+          "motifs": [],
+          "colors": ["gold particles on cream paper"],
+          "gold_technique": "serpme / yaldız serpme",
+          "position": "margins (kenarlar) of both pages"
+        },
+        {
+          "element_type": "illuminated headpiece",
+          "element_type_ottoman": "serlevha",
+          "element_type_persian": "sarlawḥ",
+          "motifs": ["hatāyī", "rūmī", "penç"],
+          "colors": ["lapis blue (lacivert)", "gold leaf (altın varak)", "red/vermillion", "white", "green"],
+          "gold_technique": "altın varak / sıvama altın",
+          "position": "top of right-hand page text block"
+        },
+        {
+          "element_type": "ruling / frame lines",
+          "element_type_ottoman": "cedvel",
+          "element_type_persian": "jadval",
+          "motifs": [],
+          "colors": ["gold (yaldız)", "red", "black"],
+          "gold_technique": "altın cedvel",
+          "position": "framing the text block on both pages"
+        }
+      ],
+      "paper_decoration": {
+        "type": "gold_sprinkled",
+        "technique_terms": {
+          "ottoman": "yaldız serpmeli / serpme",
+          "persian": "zarafshān",
+          "arabic": "dhahab marshūsh"
+        },
+        "details": "Both pages of the opening display gold-sprinkled margins. The gold particles are visible as a warm golden shimmer distributed across the margin areas outside the ruling frames. The margins show a distinctly warmer, more golden tone compared to the text area paper, confirming the serpme application. The manuscript also features an illuminated headpiece (serlevha) at the top of the right page with lapis blue, gold, and polychrome decoration in hatāyī and rūmī scrollwork. Multi-line ruling in gold, red, and black frames the text block. This is the first risale of a mecmûʿa (same physical volume as yy00006636-002). Catalogue note: 'Yaldiz serpmeli kenarlar'."
+      },
+      "style_attribution": {
+        "tradition": "Ottoman",
+        "period": "16th–17th century [?]",
+        "workshop": "Provincial or standard Ottoman production; the serlevha shows competent but not top-tier court nakkaşhane quality",
+        "confidence": 0.50,
+        "justification": "The combination of gold-sprinkled margins, polychrome serlevha with hatāyī-rūmī decoration, and multi-line gold cedvel framing is typical of Ottoman luxury manuscripts from the 16th-17th centuries. The serlevha illumination quality and motif repertoire are consistent with competent Ottoman production. Same mecmûʿa as yy00006636-002, suggesting shared production context. Without colophon data, dating remains broad."
+      },
+      "condition_notes": "Paper appears in reasonable condition. Some overall darkening/aging visible. The serlevha illumination appears intact without obvious losses.",
+      "analysis_limitations": "Image is a YEK viewer screenshot at moderate resolution. The serlevha details are small but distinguishable. Individual gold particles in the serpme are not resolved, but the overall golden margin tone is clearly evident. This is risale 1 of a mecmûʿa; the paper decoration may extend to other risales in the same volume."
+    }
+  ],
+  "terminology": {
+    "terms_used": [
+      {
+        "concept": "gold-sprinkled paper",
+        "ottoman": "yaldız serpmeli kâğıt / serpme / zerefşân",
+        "arabic": "dhahab marshūsh (ذهب مرشوش)",
+        "persian": "zarafshān (زرافشان) / afshān (افشان)",
+        "english": "gold-sprinkled paper"
+      },
+      {
+        "concept": "illuminated headpiece",
+        "ottoman": "serlevha",
+        "arabic": "ʿunwān (عنوان)",
+        "persian": "sarlawḥ (سرلوح)",
+        "english": "illuminated headpiece"
+      },
+      {
+        "concept": "ruling / frame lines",
+        "ottoman": "cedvel",
+        "arabic": "jadwal (جدول)",
+        "persian": "jadval (جدول)",
+        "english": "ruling lines / frame"
+      },
+      {
+        "concept": "split-leaf palmette scroll",
+        "ottoman": "rūmī",
+        "arabic": null,
+        "persian": "rūmī",
+        "english": "rūmī (split-leaf palmette arabesque)"
+      },
+      {
+        "concept": "Chinese-derived lotus / peony form",
+        "ottoman": "hatāyī",
+        "arabic": null,
+        "persian": "khatāʾī (ختایی)",
+        "english": "hatāyī (lotus-derived floral motif)"
+      },
+      {
+        "concept": "five-petalled rosette",
+        "ottoman": "penç",
+        "arabic": null,
+        "persian": "panj (پنج)",
+        "english": "penç (five-petalled rosette)"
+      },
+      {
+        "concept": "composite manuscript",
+        "ottoman": "mecmûʿa",
+        "arabic": "majmūʿa (مجموعة)",
+        "persian": "majmūʿa (مجموعه)",
+        "english": "composite manuscript / anthology"
+      },
+      {
+        "concept": "gold leaf",
+        "ottoman": "altın varak",
+        "arabic": null,
+        "persian": "waraq-i zar (ورق زر)",
+        "english": "gold leaf"
+      }
+    ]
+  },
+  "bibliography": [
+    {
+      "citation": "Blair, Sheila S. 'Color and Gold: The Decorated Papers Used in Manuscripts in Later Islamic Times.' Muqarnas XVII (2000): 24–36.",
+      "relevance": "Foundational study of decorated paper types in Islamic manuscripts, including gold-sprinkled (zerefşân) paper. Essential reference for technique identification and historical context.",
+      "relevance_score": 0.95,
+      "access_notes": "Available via JSTOR. Open-access version may be available through Brill."
+    },
+    {
+      "citation": "Bloom, Jonathan M. Paper Before Print: The History and Impact of Paper in the Islamic World. New Haven: Yale University Press, 2001.",
+      "relevance": "Comprehensive history of paper production and use in the Islamic world, providing material context for decorated paper traditions.",
+      "relevance_score": 0.75,
+      "access_notes": "Available in major research libraries."
+    },
+    {
+      "citation": "Gacek, Adam. The Arabic Manuscript Tradition: A Glossary of Technical Terms and Bibliography. Leiden: Brill, 2001.",
+      "relevance": "Standard reference for manuscript terminology including paper decoration, ruling, and framing systems (cedvel/jadwal). Provides Arabic and Persian equivalences for Ottoman terms.",
+      "relevance_score": 0.80,
+      "access_notes": "Available via Brill Online."
+    },
+    {
+      "citation": "Gacek, Adam. Arabic Manuscripts: A Vademecum for Readers. Leiden: Brill, 2009.",
+      "relevance": "Authoritative desk reference for codicological terminology and page layout description, including headpiece (ʿunwān / serlevha) and frame line (jadwal / cedvel) conventions.",
+      "relevance_score": 0.78,
+      "access_notes": "Available via Brill Online and major research libraries."
+    },
+    {
+      "citation": "Tanındı, Zeren. 'Osmanlı Sanatında Müzehhipler ve Eserleri.' In Osmanlı Uygarlığı, edited by Halil İnalcık and Günsel Renda, vol. 2, 912–935. Ankara: Kültür Bakanlığı, 2003. [In Turkish]",
+      "relevance": "Key study of Ottoman illuminators (müzehhipler) and their work, providing the scholarly framework for attributing hatāyī-rūmī serlevha illumination to Ottoman court and commercial workshops.",
+      "relevance_score": 0.82,
+      "access_notes": "Available in Turkish research libraries. Chapter text in Turkish."
+    },
+    {
+      "citation": "Tanındı, Zeren. 'Bibliophile Aghas (Eunuchs) at Topkapı Sarayı.' Muqarnas 21 (2004): 333–343.",
+      "relevance": "Examines manuscript patronage and production contexts at the Ottoman court, relevant to situating luxury manuscripts with zerefşân paper in their commissioning milieu.",
+      "relevance_score": 0.65,
+      "access_notes": "Available via JSTOR."
+    },
+    {
+      "citation": "Mahir, Banu. Osmanlı Minyatür Sanatı. Istanbul: Kabalcı Yayınevi, 2005. [In Turkish]",
+      "relevance": "Survey of Ottoman miniature and illumination traditions, useful for contextualizing the hatāyī-rūmī serlevha style and its place in Ottoman decorative arts.",
+      "relevance_score": 0.60,
+      "access_notes": "Available in Turkish libraries and specialist collections. Text in Turkish."
+    },
+    {
+      "citation": "Déroche, François. The Abbasid Tradition: Qurʾans of the 8th to the 10th Centuries. The Nasser D. Khalili Collection of Islamic Art, vol. I. London: Nour Foundation / Azimuth Editions, 1992.",
+      "relevance": "Reference for codicological description methodology; Déroche's framework for analyzing ruling systems (cedvel) and headpieces underpins the cataloguing conventions used throughout this project.",
+      "relevance_score": 0.55,
+      "access_notes": "Available in major research libraries."
+    },
+    {
+      "citation": "Déroche, François, ed. Islamic Codicology: An Introduction to the Study of Manuscripts in Arabic Script. Translated by Deke Dusinberre and David Radzinowicz. London: Al-Furqan Islamic Heritage Foundation, 2005.",
+      "relevance": "Standard reference for Islamic manuscript codicology, providing the analytical framework for describing paper type, ruling, and decoration elements used in this catalog record.",
+      "relevance_score": 0.80,
+      "access_notes": "Available in major research libraries and some open-access repositories."
+    },
+    {
+      "citation": "Çağman, Filiz, and Zeren Tanındı. The Topkapi Saray Museum: The Albums and Illustrated Manuscripts. Translated and expanded by J.M. Rogers. Boston: Little, Brown, 1986.",
+      "relevance": "Catalogue of decorated and illustrated manuscripts from the Topkapı Saray collections, including examples of Ottoman zerefşân paper and hatāyī-rūmī illumination for comparative reference.",
+      "relevance_score": 0.70,
+      "access_notes": "Available in major research libraries."
+    }
+  ],
+  "suggested_collections": [
+    {
+      "institution": "Topkapı Sarayı Müzesi Kütüphanesi",
+      "reason": "Primary holding of Ottoman imperial manuscripts with gold-sprinkled paper and hatāyī-rūmī serlevha decoration; essential comparative material for dating and workshop attribution.",
+      "digital_access": "https://kutuphane.tsmk.gov.tr"
+    },
+    {
+      "institution": "Süleymaniye Yazma Eserler Kütüphanesi",
+      "reason": "Largest repository of Ottoman manuscripts in Istanbul; comparable mecmûʿa volumes with zerefşân paper can be located via the YEK portal.",
+      "digital_access": "https://portal.yek.gov.tr"
+    },
+    {
+      "institution": "Chester Beatty Library, Dublin",
+      "reason": "Digitized Ottoman manuscript collection with well-catalogued examples of gold-sprinkled paper and polychrome serlevha illumination for comparative stylistic study.",
+      "digital_access": "https://viewer.cbl.ie"
+    },
+    {
+      "institution": "Bibliothèque nationale de France (BnF)",
+      "reason": "Gallica platform provides access to Ottoman Turkish and Persian manuscripts with comparable paper decoration traditions.",
+      "digital_access": "https://gallica.bnf.fr"
+    }
+  ],
+  "provenance": {
+    "donor": "Yusuf Ağa (waqf)",
+    "waqf": "Yusuf Ağa Kütüphanesi vakfı, Konya",
+    "previous_shelfmarks": [],
+    "notes": "Held at the Yusuf Ağa Kütüphanesi, Konya. Part of the Yusuf Ağa waqf collection. This is the first risale of composite manuscript YY00006636; the second risale is catalogued separately as yusuf_aga_yy00006636-002. Full provenance chain prior to the Yusuf Ağa waqf is not documented in the available source data."
+  },
+  "analysis_metadata": {
+    "analyzed_date": "2026-02-26",
+    "analyzer": "claude-code-manuscript-pipeline",
+    "image_source": "YEK portal viewer screenshot (portal.yek.gov.tr)",
+    "image_quality_notes": "Viewer screenshot at approximately 1536 × 864 px effective resolution. Individual zerefşân gold particles not individually resolved; identification based on overall warm golden margin tone pattern. Serlevha details are small but distinguishable. No IIIF direct download available (HTTP/2 ping / CORS limitation).",
+    "folios_examined": ["p007"],
+    "folios_not_examined": "Only page 7 (opening bifolio) was visually examined. The full folio extent of this risale, and the decoration of other risales in the mecmûʿa, was not reviewed."
+  }
+}

@@ -1,0 +1,245 @@
+{
+  "record_id": "nuruosmaniye_04100",
+  "collection": {
+    "institution": "Nuruosmaniye Kütüphanesi",
+    "city": "Istanbul",
+    "country": "Turkey",
+    "shelfmark": "04100",
+    "yek_url": "https://portal.yek.gov.tr/kurumlar/nuruosmaniye-kutuphanesi"
+  },
+  "manuscript": {
+    "title": "Kıyafetname",
+    "author": null,
+    "date_ah": null,
+    "date_ce": "16th–17th century [?]",
+    "format": null,
+    "dimensions_mm": {
+      "height": null,
+      "width": null
+    },
+    "folio_count": null
+  },
+  "paper_decoration": {
+    "types": ["gold_sprinkled", "framing_system"],
+    "summary": "The manuscript's margins are decorated with gold-sprinkled paper (zerefşân / serpme technique): fine gold particles scattered across the margin areas surrounding the text block, visible as an even, warm golden shimmer on cream/off-white paper. The text block is framed by gold ruling lines (altın cedvel) with black outer lines, forming a standard Ottoman luxury framing system. Both pages of the examined opening (p006) display this treatment. Sprinkling density appears moderate and even, consistent with standard Ottoman luxury production; image resolution does not permit subtype distinction (kalbur vs. fırça). The YEK catalogue confirms: 'Sahife kenarlari zerefşan teknigiyle süslenmistir. Cetvelleri yaldizlidir.'",
+    "technique_terms": {
+      "ottoman": "zerefşân (زرافشان) / serpme / yaldız serpme; cetvelleri yaldızlı",
+      "persian": "zarafshān (زرافشان)",
+      "arabic": "dhahab marsūsh (ذهب مرشوش)"
+    },
+    "catalogue_description": {
+      "paper_field": "Sahife kenarlari zerefşan teknigiyle süslenmistir.",
+      "notes_field": null,
+      "decoration_field": "Cetvelleri yaldizlidir."
+    }
+  },
+  "workshop_attribution": {
+    "primary_tradition": "ottoman",
+    "workshop_centre": "Istanbul",
+    "date_range_ce": "16th–17th century",
+    "confidence": 0.55,
+    "key_indicators": [
+      "Gold-sprinkled margins (zerefşân) consistent with Ottoman luxury manuscript production from the 16th–17th centuries",
+      "Gold ruling lines (altın cedvel) with black outer lines: standard Ottoman framing system",
+      "Naskh script used in the text block, the dominant Ottoman prose/non-poetic script",
+      "Kıyafetname genre was particularly popular in the Ottoman court milieu"
+    ],
+    "cross_tradition_caveats": [
+      "Zerefşân paper technique was used across Ottoman, Safavid, and Timurid traditions; technique alone does not confirm Ottoman production",
+      "No colophon data or securely dated comparative examples are available from the screened folio",
+      "Absence of more distinctive decorative features (headpiece, frontispiece, colophon illumination) limits precise workshop identification"
+    ]
+  },
+  "codicology": null,
+  "visual_confirmation": {
+    "verdict": "confirmed",
+    "confidence": 0.80,
+    "screenshots_examined": 1,
+    "limitations": [
+      "Analysis based on a single YEK viewer screenshot at moderate resolution (~1536 px width)",
+      "Individual gold particles are not individually resolved; identification based on overall golden tonal shimmer of margins",
+      "YEK viewer chrome (navigation bar, thumbnails) reduces effective image area",
+      "Zerefşân subtype (kalbur vs. fırça zerefşanı) cannot be determined at this resolution"
+    ]
+  },
+  "folio_analyses": [
+    {
+      "folio": "p006",
+      "source_image": "corpus/yek_screenshots/nuruosmaniye_04100_p006.png",
+      "decoration_type": "paper_decoration",
+      "elements": [
+        {
+          "element_type": "gold-sprinkled paper",
+          "element_type_ottoman": "zerefşân kâğıt",
+          "element_type_persian": "zarafshān",
+          "motifs": [],
+          "colors": ["gold particles on cream/off-white paper"],
+          "gold_technique": "serpme / zerefşân",
+          "position": "margins (sahife kenarları), both pages of the opening"
+        },
+        {
+          "element_type": "ruling / frame lines",
+          "element_type_ottoman": "cedvel",
+          "element_type_persian": "jadval",
+          "motifs": [],
+          "colors": ["gold (yaldız)", "black"],
+          "gold_technique": "altın cedvel",
+          "position": "framing the text block on both pages"
+        },
+        {
+          "element_type": "text block",
+          "element_type_ottoman": "metin sahası",
+          "element_type_persian": null,
+          "motifs": [],
+          "colors": ["black ink on cream paper"],
+          "gold_technique": null,
+          "position": "central text area, written in naskh script"
+        }
+      ],
+      "paper_decoration": {
+        "type": "gold_sprinkled",
+        "technique_terms": {
+          "ottoman": "zerefşân / serpme",
+          "persian": "zarafshān",
+          "arabic": "dhahab marsūsh (ذهب مرشوش)"
+        },
+        "details": "Both pages of the opening show gold-sprinkled margins surrounding the text block. The gold particles are visible as a fine, warm golden shimmer across the margin areas. The paper ground is a warm cream/off-white. Gold ruling lines (cetvelleri yaldızlı) frame the text block with black outer lines. The catalogue note confirms: 'Sahife kenarlari zerefşan teknigiyle süslenmistir. Cetvelleri yaldizlidir.' The sprinkling appears even and moderate in density, consistent with a standard fırça or kalbur technique, though the resolution does not allow subtype distinction."
+      },
+      "style_attribution": {
+        "tradition": "Ottoman",
+        "period": "16th-17th century [?]",
+        "workshop": "Consistent with standard Ottoman luxury manuscript production; Kıyafetname texts were popular in the Ottoman court tradition",
+        "confidence": 0.55,
+        "justification": "Gold-sprinkled margins with gold cedvel framing are standard features of Ottoman luxury manuscripts from the 16th-17th centuries. The Kıyafetname (physiognomy text) genre was popular in the Ottoman court. Without colophon data or more distinctive decorative features visible, precise dating is limited."
+      },
+      "condition_notes": "Paper appears in generally good condition. Some darkening visible along the gutter. No obvious repairs or later additions detected in the screenshot.",
+      "analysis_limitations": "Image is a YEK viewer screenshot at moderate resolution (~1536px width). Individual gold particles are not individually resolved, but the overall golden tone of the margins is clearly visible, consistent with zerefşân. The screenshot includes the YEK viewer chrome (navigation bar, thumbnails), reducing the effective image area."
+    }
+  ],
+  "terminology": {
+    "terms_used": [
+      {
+        "concept": "gold-sprinkled paper",
+        "ottoman": "zerefşân kâğıt / serpme / yaldız serpme",
+        "arabic": "dhahab marsūsh (ذهب مرشوش)",
+        "persian": "zarafshān (زرافشان)",
+        "english": "gold-sprinkled paper: fine gold particles scattered across the paper surface"
+      },
+      {
+        "concept": "ruling / frame lines",
+        "ottoman": "cedvel / altın cedvel / cetvelleri yaldızlı",
+        "arabic": "jadwal (جدول)",
+        "persian": "jadval",
+        "english": "gold ruling lines framing the text block"
+      },
+      {
+        "concept": "margin",
+        "ottoman": "sahife kenarı / hâşiye",
+        "arabic": "ḥāshiya (حاشية)",
+        "persian": "ḥāshiya",
+        "english": "margin; marginal area surrounding the text block"
+      },
+      {
+        "concept": "text block",
+        "ottoman": "metin sahası",
+        "arabic": null,
+        "persian": null,
+        "english": "central text area"
+      }
+    ]
+  },
+  "bibliography": [
+    {
+      "citation": "Blair, Sheila S. 'Color and Gold: The Decorated Papers Used in Manuscripts in Later Islamic Times.' Muqarnas 17 (2000): 24–36.",
+      "relevance": "Primary scholarly reference for gold-sprinkled (zerefşân / afshān) and other decorated paper techniques in Islamic manuscripts; covers production, distribution, and function across Ottoman, Safavid, and Timurid traditions.",
+      "relevance_score": 0.97,
+      "access_notes": "Available via JSTOR (subscription required). Key reference for the zerefşân technique documented in this manuscript."
+    },
+    {
+      "citation": "Bloom, Jonathan M. Paper Before Print: The History and Impact of Paper in the Islamic World. New Haven: Yale University Press, 2001.",
+      "relevance": "Foundational study of paper manufacture and use in the Islamic world, including decorated paper production; provides material and technological context for zerefşân paper.",
+      "relevance_score": 0.80,
+      "access_notes": "Available in major research libraries."
+    },
+    {
+      "citation": "Gacek, Adam. Arabic Manuscripts: A Vademecum for Readers. Leiden: Brill, 2009.",
+      "relevance": "Standard reference for Arabic manuscript terminology and codicological conventions; provides definitions for ruling systems (jadwal / cedvel), scribal terminology, and physical description vocabulary used in this record.",
+      "relevance_score": 0.75,
+      "access_notes": "Available in major research libraries and via Brill Online."
+    },
+    {
+      "citation": "Tanındı, Zeren. 'Türk Minyatür Sanatı.' In Türkiyemiz, no. 39 (1983): 2–12.",
+      "relevance": "Key reference on Ottoman manuscript illumination and the material culture of luxury manuscripts, including decorated paper use in Ottoman court production.",
+      "relevance_score": 0.65,
+      "access_notes": "In Turkish. Available in specialized Turkish libraries and the Atatürk Kitaplığı."
+    },
+    {
+      "citation": "Tanındı, Zeren. 'Bibliophile Aghas (Eunuchs) at Topkapı Sarayı.' Muqarnas 21 (2004): 333–343.",
+      "relevance": "Examines the collecting and commissioning of luxury manuscripts in the Ottoman court context, including decorated paper codices in Topkapı collections closely related to the Nuruosmaniye holdings.",
+      "relevance_score": 0.62,
+      "access_notes": "Available via JSTOR (subscription required)."
+    },
+    {
+      "citation": "Déroche, François. The Abbasid Tradition: Qur'ans of the 8th to the 10th Centuries AD. The Nasser D. Khalili Collection of Islamic Art, vol. 1. London: Nour Foundation / Azimuth Editions, 1992.",
+      "relevance": "Foundational codicological framework for Islamic manuscript physical description. Though focused on early Qurans, the terminology conventions for ruling systems (jadwal), text blocks, and paper description are standard across the field.",
+      "relevance_score": 0.55,
+      "access_notes": "Available in major research libraries."
+    },
+    {
+      "citation": "Çağman, Filiz, and Zeren Tanındı. Topkapı Sarayı Müzesi İslam Minyatürleri. Istanbul: Tercüman Yayınları, 1979.",
+      "relevance": "Catalogue of Islamic miniatures in Topkapı collections; documents Ottoman luxury manuscript production including zerefşân paper use in Kıyafetname-related court manuscripts.",
+      "relevance_score": 0.58,
+      "access_notes": "In Turkish and English. Available in major Turkish and international research libraries."
+    },
+    {
+      "citation": "Raby, Julian, and Zeren Tanındı. Turkish Bookbinding in the 15th Century: The Foundation of an Ottoman Court Style. London: Azimuth Editions, 1993.",
+      "relevance": "Documents the material and aesthetic conventions of early Ottoman luxury manuscripts, including the integration of decorated paper within binding and page design; provides comparative context for the framing system (altın cedvel) in this manuscript.",
+      "relevance_score": 0.60,
+      "access_notes": "Available in major research libraries."
+    },
+    {
+      "citation": "Argunşah, Mustafa, ed. Kıyafetname. Kayseri: Erciyes Üniversitesi Yayınları, 1994.",
+      "relevance": "Scholarly edition of the Kıyafetname genre in Ottoman literature; provides text-critical and codicological context for manuscripts of this physiognomy text type, directly relevant to the manuscript's content.",
+      "relevance_score": 0.70,
+      "access_notes": "In Turkish. Available in Turkish university libraries."
+    },
+    {
+      "citation": "Hillenbrand, Robert. Islamic Art and Architecture. London: Thames and Hudson, 1999.",
+      "relevance": "Broad reference survey covering Ottoman manuscript arts in context; useful for situating the Nuruosmaniye manuscript within the wider tradition of Islamic luxury book production.",
+      "relevance_score": 0.50,
+      "access_notes": "Widely available."
+    }
+  ],
+  "suggested_collections": [
+    {
+      "institution": "YEK Portal — Nuruosmaniye Kütüphanesi",
+      "reason": "Home collection; full YEK catalogue record with original Turkish descriptions for kagit_ozellikleri and genel_notlar fields.",
+      "digital_access": "https://portal.yek.gov.tr"
+    },
+    {
+      "institution": "Topkapı Sarayı Müzesi Kütüphanesi (TSMK)",
+      "reason": "Holds the primary collection of Ottoman court luxury manuscripts with zerefşân decoration; essential comparative corpus for dating and workshop attribution.",
+      "digital_access": "https://kutuphane.tsmk.gov.tr"
+    },
+    {
+      "institution": "Süleymaniye Yazma Eser Kütüphanesi",
+      "reason": "Houses multiple zerefşân-decorated Ottoman manuscripts catalogued in Batch 1 of this project (e.g. Esad Efendi 03292, 00155); direct comparative material.",
+      "digital_access": "https://portal.yek.gov.tr"
+    }
+  ],
+  "provenance": {
+    "donor": null,
+    "waqf": "Nuruosmaniye Vakfı (founded by Sultan III. Osman, inaugurated 1755). All Nuruosmaniye manuscripts bear the Sultan's tuğralı vakıf mühürü (imperial seal stamp).",
+    "previous_shelfmarks": [],
+    "notes": "The Nuruosmaniye Kütüphanesi was established as part of the Nuruosmaniye Mosque complex, Istanbul, endowed by Sultan Mahmud I and completed under Sultan Osman III (r. 1754–1757). Its collection of luxury manuscripts reflects 18th-century Ottoman collecting practices and includes earlier Ottoman court productions. Cataloguer for Nuruosmaniye holdings in the YEK portal: Fatih Yıldız (noted for thorough paper field descriptions)."
+  },
+  "analysis_metadata": {
+    "analyzed_date": "2026-02-26",
+    "analyzer": "claude-code-manuscript-pipeline",
+    "image_source": "YEK portal viewer screenshot (portal.yek.gov.tr)",
+    "image_quality_notes": "Single screenshot at moderate resolution (~1536 px width). YEK viewer chrome present (navigation bar, thumbnail strip), reducing effective image area. Individual gold particles not individually resolved; zerefşân identified from overall tonal character and corroborated by YEK catalogue text. Subtype (kalbur / fırça zerefşanı) indeterminate at this resolution.",
+    "folios_examined": ["p006"],
+    "folios_not_examined": "All folios other than p006. Full manuscript extent not established from the available screenshot. Additional pages may show further decorated features (headpiece, frontispiece, colophon) not visible in the examined opening.",
+    "data_gaps_note": "Manuscript-level metadata fields (author, date_ah, format, folio_count, dimensions_mm) are null because they could not be determined from the single examined screenshot (p006). These values should be verified and populated from the full YEK catalogue record for Nuruosmaniye 04100, which may contain additional descriptive fields not visible in the screened folio."
+  }
+}

@@ -1,0 +1,222 @@
+{
+  "record_id": "amasya_beyazit_00001",
+  "collection": {
+    "institution": "Amasya Beyazıt Kütüphanesi",
+    "city": "Amasya",
+    "country": "Turkey",
+    "shelfmark": "1",
+    "yek_url": "https://portal.yek.gov.tr/yekis/index.xhtml?yek_id=385799"
+  },
+  "manuscript": {
+    "title": "Tefsîru İbn ʿAbbās (تفسير ابن عباس)",
+    "author": "Attributed to ʿAbdallāh ibn ʿAbbās (d. 68/687–88); attribution considered pseudepigraphic in modern scholarship",
+    "date_ah": null,
+    "date_ce": null,
+    "format": "single manuscript volume",
+    "dimensions_mm": {
+      "height": null,
+      "width": null
+    },
+    "folio_count": null
+  },
+  "paper_decoration": {
+    "types": ["gold_worked", "illuminated_margins", "framing_system"],
+    "summary": "The bottom margins (etek) and outer margins (ağız) throughout the manuscript bear gold-worked (zerkâri) decoration. The opening carries a finely illuminated serlevha headpiece (nefis müzehheb) with polychrome motifs (renkli nakışlı). All pages are ruled with multi-line cetvels (cetvelli), confirmed in the digitized screenshots as a multi-coloured luxury ruling system in gold, red, and green. The etek/ağız zerkâri formula (applied to the running foot and outer margin zones rather than the full margin) is a relatively distinctive programme variant within the Amasya Beyazıt cluster: it suggests zerkâri treatment extended throughout the codex rather than being limited to the opening leaves. The catalogue's use of 'zerkaridur' (is zerkâri) signals the cataloguer's confident assessment. The text is a major undated Quran commentary attributed to the Prophet's companion Ibn ʿAbbās, copied at unknown date.",
+    "technique_terms": {
+      "ottoman": "zerkâri; etek ve ağız zerkaridur; serlevha nefis müzehheb; renkli nakışlı; cetvelli",
+      "persian": "zarkārī (زرکاری)",
+      "arabic": null
+    },
+    "catalogue_description": {
+      "paper_field": null,
+      "notes_field": "Etek, ağız zerkâridir; serlevha nefis müzehheb, renkli nakışlı; cetvelli",
+      "decoration_field": null
+    }
+  },
+  "workshop_attribution": {
+    "primary_tradition": "ottoman",
+    "workshop_centre": "Amasya or Istanbul — uncertain (provincial versus capital production)",
+    "date_range_ce": null,
+    "confidence": 0.50,
+    "key_indicators": [
+      "Multi-coloured luxury cedvel framework (gold, red, green) confirmed: consistent with Ottoman luxury production",
+      "Serlevha described as 'nefis müzehheb, renkli nakışlı': polychrome illuminated headpiece indicates high-quality commission",
+      "Etek/ağız zerkâri programme (foot and outer margins throughout): suggests full luxury treatment, not limited to opening bifolio",
+      "Amasya Beyazıt collection context: manuscripts range from locally produced to Istanbul-made items later deposited in the collection"
+    ],
+    "cross_tradition_caveats": [
+      "Manuscript is undated; no terminus post quem or ante quem is known from the digitized portion",
+      "Serlevha not reached in available screenshots; its stylistic character could assist dating and localisation",
+      "Without colophon or dated watermark, workshop origin cannot be narrowed beyond Ottoman tradition",
+      "Attribution of the text to Ibn ʿAbbās is pseudepigraphic; the actual compilation date of the work circulating under this title is disputed, making text-based dating unreliable"
+    ]
+  },
+  "codicology": null,
+  "visual_confirmation": {
+    "verdict": "probable",
+    "confidence": 0.60,
+    "screenshots_examined": 2,
+    "limitations": [
+      "Serlevha opening page not captured — 2-screenshot limit was reached after cover, vakıf inscription, and 2 fihrist leaves; the main text opening (where the serlevha and opening zerkâri programme would be concentrated) was not reached",
+      "Zerkâri decoration in etek (foot margin) and ağız (outer margin) zones not clearly visible on the fihrist pages examined; may require higher resolution or oblique lighting",
+      "Only preliminary/fihrist pages examined, not the main text opening"
+    ]
+  },
+  "folio_analyses": [
+    {
+      "folio": "Preliminary pages — vakıf inscription and fihrist (IIIF p005)",
+      "source_image": "corpus/visual_confirmation_batch2/amasya_beyazit_00001_p005_iiif.png",
+      "decoration_types": ["framing_system"],
+      "elements": [
+        {
+          "type": "framing_system",
+          "description": "Faint pink/red ruling lines and library stamps visible on the preliminary pages. No zerkâri decoration on these non-text pages, which is expected: the decorative programme is typically concentrated on the serlevha opening and the main text pages, not on vakıf inscriptions or fihrist leaves.",
+          "location": "preliminary pages",
+          "confidence": 0.80
+        }
+      ],
+      "script": "naskh (Arabic); administrative hand in vakıf inscription",
+      "notes": "Preliminary pages with ownership/vakıf inscription and fihrist (index). Library stamps present. No decoration expected on these pages."
+    },
+    {
+      "folio": "Fihrist (index) pages (IIIF p007)",
+      "source_image": "corpus/visual_confirmation_batch2/amasya_beyazit_00001_p007_iiif.png",
+      "decoration_types": ["framing_system"],
+      "elements": [
+        {
+          "type": "framing_system",
+          "description": "Multi-coloured cetvels (gold, red, and green ruling lines) framing both text blocks of the double-page fihrist spread. A large oval seal is visible in the left margin. The luxury multi-line ruling system is consistent with the catalogue's 'cetvelli' description and with the overall luxury character of the manuscript indicated by the serlevha and zerkâri descriptions.",
+          "location": "text block frames, both pages",
+          "confidence": 0.85
+        }
+      ],
+      "script": "naskh",
+      "notes": "Fihrist (index) pages showing multi-coloured luxury cedvel framework. The gold, red, and green ruling lines confirm high-quality production. A large oval seal (mühür) visible in left margin — institutional ownership stamp. The etek/ağız margin zones on these fihrist pages appear aged/plain; the gold-worked decoration may be present but unresolvable at this resolution and on these non-opening leaves."
+    }
+  ],
+  "terminology": {
+    "terms_used": [
+      {
+        "concept": "bottom margin / foot margin",
+        "ottoman": "etek",
+        "arabic": null,
+        "persian": null,
+        "english": "foot margin; the lower margin of the page below the text block"
+      },
+      {
+        "concept": "outer margin / fore-edge margin",
+        "ottoman": "ağız",
+        "arabic": null,
+        "persian": null,
+        "english": "outer / fore-edge margin; the margin on the open edge of the page, furthest from the spine"
+      },
+      {
+        "concept": "gold-worked decoration",
+        "ottoman": "zerkâri (زرکاری)",
+        "arabic": null,
+        "persian": "zarkārī (زرکاری)",
+        "english": "gold-worked: motifs in gold worked into or applied to the paper/margin surface"
+      },
+      {
+        "concept": "illuminated headpiece",
+        "ottoman": "serlevha; müzehheb",
+        "arabic": "ʿunwān (عنوان)",
+        "persian": "sarlawḥ (سرلوح)",
+        "english": "illuminated headpiece at top of text opening; here described as 'nefis müzehheb' (finely gilded/illuminated)"
+      },
+      {
+        "concept": "polychrome decoration / coloured motifs",
+        "ottoman": "renkli nakışlı",
+        "arabic": null,
+        "persian": null,
+        "english": "with coloured ornamentation; describes the polychrome character of the serlevha decoration"
+      },
+      {
+        "concept": "ruling lines / frame",
+        "ottoman": "cedvel / cetvel; cetvelli",
+        "arabic": "jadwal (جدول)",
+        "persian": "jadval",
+        "english": "ruling lines framing the text block; 'cetvelli' = having cetvels (ruled)"
+      }
+    ]
+  },
+  "bibliography": [
+    {
+      "citation": "Balcı, Ahmet Ali (cataloguer). YEK Portal catalogue record for Amasya Beyazıt Kütüphanesi MS 1 (YEK ID 385799). portal.yek.gov.tr.",
+      "relevance": "Primary source: catalogue entry providing the decoration description 'Etek, ağız zerkâridir; serlevha nefis müzehheb, renkli nakışlı; cetvelli'. Ahmet Ali Balcı is the principal cataloguer for the Amasya Beyazıt collection in YEK.",
+      "relevance_score": 1.0,
+      "access_notes": "Accessible at https://portal.yek.gov.tr/yekis/index.xhtml?yek_id=385799"
+    },
+    {
+      "citation": "Goldfeld, Isaiah. 'The Tafsīr of Abdallāh b. ʿAbbās.' Der Islam 58 (1981): 125–135.",
+      "relevance": "Studies the text tradition of this tafsīr attributed to Ibn ʿAbbās, addressing questions of authenticity and transmission. Relevant for contextualising the manuscript's textual identity and its place in the madrasa curriculum that generated luxury copies.",
+      "relevance_score": 0.70,
+      "access_notes": "Accessible via De Gruyter online."
+    },
+    {
+      "citation": "Sezgin, Fuat. Geschichte des Arabischen Schrifttums. Vol. 1: Qurʾānwissenschaften, Ḥadīṯ, Geschichte, Fiqh, Dogmatik, Mystik bis ca. 430 H. Leiden: Brill, 1967. (In German.)",
+      "relevance": "Foundational bibliography of Arabic manuscript tradition; entry for Ibn ʿAbbās tafsīr material provides manuscript census and transmission context for this work.",
+      "relevance_score": 0.60,
+      "access_notes": "Available in research libraries."
+    },
+    {
+      "citation": "Blair, Sheila S. 'Color and Gold: The Decorated Papers Used in Manuscripts in Later Islamic Times.' Muqarnas 17 (2000): 24–36.",
+      "relevance": "Key reference on decorated paper techniques including zerkâri, with comparative examples from Ottoman and Persian manuscripts. Essential for situating this manuscript's etek/ağız zerkâri programme within the broader tradition.",
+      "relevance_score": 0.90,
+      "access_notes": "Available via JSTOR."
+    },
+    {
+      "citation": "Tanındı, Zeren. 'Some Problems of Ottoman Manuscript Illumination.' Manuscripts of the Middle East 4 (1989): 54–59.",
+      "relevance": "Foundational study on Ottoman manuscript illumination addressing the typology of serlevha headpieces and the relationship between court and provincial production — directly relevant to this undated manuscript's attribution question.",
+      "relevance_score": 0.75,
+      "access_notes": "Available in research libraries; open-access via Leiden University."
+    },
+    {
+      "citation": "Gacek, Adam. Arabic Manuscripts: A Vademecum for Readers. Brill, Leiden/Boston, 2009.",
+      "relevance": "Standard codicological reference for Arabic manuscripts, including fihrist (index) structure, vakıf inscriptions, ruling systems, and the typology of opening decoration programmes for tafsīr works.",
+      "relevance_score": 0.75,
+      "access_notes": "Available in research libraries."
+    },
+    {
+      "citation": "Déroche, François. The Abbasid Tradition: Qurʾāns of the 8th to the 10th Centuries AD. Nasser D. Khalili Collection of Islamic Art, Vol. I. London: The Nour Foundation / Azimuth Editions / Oxford University Press, 1992.",
+      "relevance": "Reference for Quran commentary manuscript conventions, including the use of decorated margins in tafsīr manuscripts and the concentration of luxury decoration at the opening and closing sections of codices.",
+      "relevance_score": 0.50,
+      "access_notes": "Available in major research libraries."
+    },
+    {
+      "citation": "Wright, Elaine. The Look of the Book: Manuscript Production in Shiraz, 1303–1452. Seattle / London: University of Washington Press / Freer Gallery of Art and Arthur M. Sackler Gallery, 2012.",
+      "relevance": "Comparative reference for luxury tafsīr manuscript production in the Persian tradition, documenting etek and ağız margin decoration programmes that influenced Ottoman practice. Useful for contextualising the etek/ağız zerkâri formula.",
+      "relevance_score": 0.50,
+      "access_notes": "Available in research libraries."
+    }
+  ],
+  "suggested_collections": [
+    {
+      "institution": "YEK Portal — Amasya Beyazıt Kütüphanesi cluster",
+      "reason": "Six further manuscripts in the Amasya Beyazıt collection (shelfmarks 39, 50, 41, 53, 270, 1884) share the same zerkâri decoration family per cataloguer Ahmet Ali Balcı. The undated MS 1 could potentially be dated more narrowly by comparison with the dated manuscripts in this cluster (shelfmark 39: AH 1177; shelfmark 50: AH 1192).",
+      "digital_access": "https://portal.yek.gov.tr"
+    },
+    {
+      "institution": "Süleymaniye Kütüphanesi",
+      "reason": "Major repository of Ottoman Quran commentary manuscripts; comparable Ibn ʿAbbās tafsīr copies with luxury decoration are likely held in multiple Süleymaniye collections and could establish a dating range for this undated manuscript.",
+      "digital_access": "https://portal.yek.gov.tr"
+    }
+  ],
+  "provenance": {
+    "donor": null,
+    "waqf": null,
+    "previous_shelfmarks": [],
+    "notes": "Held in the Amasya Beyazıt Kütüphanesi, a major provincial Ottoman library founded by Sultan Bayezid II in Amasya. The manuscript carries a vakıf inscription visible on the preliminary pages (IIIF p005) and an institutional oval seal (mühür) on the fihrist pages (IIIF p007), but the text of these has not been transcribed from the available screenshots. No vakıf donor is documented in the YEK catalogue entry. Catalogued by Ahmet Ali Balcı as part of the Amasya Beyazıt digitisation programme. IIIF identifier: 0000000381592. The text's attribution to Ibn ʿAbbās is pseudepigraphic; the actual compilation circulating under this title in Ottoman libraries is a standard madrasa Quran commentary text."
+  },
+  "analysis_metadata": {
+    "analyzed_date": "2026-02-26",
+    "analyzer": "claude-code-manuscript-pipeline / metadata-generator (claude-sonnet-4-6)",
+    "image_source": "YEK portal IIIF viewer — Amasya Beyazıt Kütüphanesi digitized images (IIIF ID 0000000381592)",
+    "image_quality_notes": "Two screenshots examined (p005, p007) at moderate resolution (approximately 1600 px width). Multi-coloured cetvels clearly resolved on fihrist pages. Etek/ağız zerkâri decoration not visible on these preliminary pages — consistent with zerkâri being concentrated on the main text pages and/or requiring higher resolution or different lighting conditions to resolve. Serlevha opening not reached within the 2-screenshot limit.",
+    "folios_examined": [
+      "Preliminary pages — vakıf inscription (IIIF p005)",
+      "Fihrist (index) pages (IIIF p007)"
+    ],
+    "folios_not_examined": "Main text opening with serlevha (headpiece) and primary zerkâri decoration not captured — serlevha is located after the cover, vakıf inscription, and 2 fihrist leaves. Colophon not examined. Extent of etek/ağız zerkâri throughout the body of the manuscript not verifiable from available digitized pages."
+  }
+}

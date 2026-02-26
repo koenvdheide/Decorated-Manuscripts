@@ -1,0 +1,408 @@
+{
+  "record_id": "nuruosmaniye_04355",
+  "collection": {
+    "institution": "Nuruosmaniye Kütüphanesi",
+    "city": "Istanbul",
+    "country": "Turkey",
+    "shelfmark": "04355",
+    "yek_url": null
+  },
+  "manuscript": {
+    "title": "Nigāristān (نگارستان)",
+    "author": "Kemālpaşazāde (Ibn Kemāl / Şemseddin Ahmed ibn Süleyman, d. 940/1534)",
+    "date_ah": null,
+    "date_ce": "16th century [undated; probable second or third quarter, post-1534]",
+    "format": "prose literary work (adab)",
+    "dimensions_mm": {
+      "height": null,
+      "width": null
+    },
+    "folio_count": null
+  },
+  "paper_decoration": {
+    "types": ["gold_sprinkled", "framing_system"],
+    "summary": "The manuscript is written on gold-sprinkled (zerefşân / serpme) paper throughout. Gold particles are visible in the margins of the text openings examined (p006, p007), giving the paper a warm golden tonal quality consistent with a unified decorative program applied across the entire manuscript. Gold-ruled cetvels (altın cetvelli) frame the text block on both pages of every opening examined. An illuminated serlevha (headpiece) is present at the opening of the text (p006), with a lapis blue (lacivert) ground and gold hatāyī and rūmī decoration. A frontispiece (zahriye) with a dark red (bordo) ground and gold is present on p004. The combination of zerefşân paper, gold cetvels, zahriye, and illuminated serlevha indicates a luxury production of the Nigāristān. Assessment is at tonal/viewer-screenshot resolution only; zerefşân is probable (verdict: probable) pending higher-resolution imaging.",
+    "technique_terms": {
+      "ottoman": "zerefşân / serpme / altın cetvelli",
+      "persian": "zarafshān / afshān",
+      "arabic": "dhahab marsūsh"
+    },
+    "catalogue_description": {
+      "paper_field": null,
+      "notes_field": null,
+      "decoration_field": null
+    }
+  },
+  "workshop_attribution": {
+    "primary_tradition": "ottoman",
+    "workshop_centre": "Istanbul (nakkaşhane or high-quality commercial production)",
+    "date_range_ce": "c. 1534–1600",
+    "confidence": 0.50,
+    "key_indicators": [
+      "Lapis blue (lacivert) and gold serlevha with hatāyī and rūmī motifs consistent with Ottoman classical illumination",
+      "Gold-ruled cetvels (altın cetvelli) applied uniformly throughout the manuscript",
+      "Gold-sprinkled (zerefşân) paper used as standard in Ottoman luxury manuscript production",
+      "Dark red (bordo) zahriye with gold cartouche — color combination well attested in mid-16th century Ottoman production",
+      "Nastaʿlīq script, appropriate for a literary work of Persian-influenced Ottoman court culture"
+    ],
+    "cross_tradition_caveats": [
+      "Resolution of YEK viewer screenshots (~1536 px) prevents definitive identification of serlevha motif vocabulary (rūmī subtypes, hatāyī forms); Safavid-influenced Ottoman production cannot be excluded",
+      "No colophon data available to identify scribe, illuminator, or date of production",
+      "Zerefşân assessed tonally only; particle density and method (kalbur vs. fırça) not determinable at this resolution",
+      "The Nigāristān was copied in multiple centres; provincial Ottoman production (e.g., Edirne, Bursa) is possible"
+    ]
+  },
+  "codicology": null,
+  "visual_confirmation": {
+    "verdict": "probable",
+    "confidence": 0.55,
+    "screenshots_examined": 4,
+    "limitations": [
+      "YEK viewer screenshots at approximately 1536×864 px — insufficient for particle-level zerefşân confirmation",
+      "p002 is a binding edge/spine view; no paper decoration assessable from this angle",
+      "No colophon or date folio examined",
+      "Interior folios beyond p007 not examined; decorative program extent unknown"
+    ]
+  },
+  "folio_analyses": [
+    {
+      "folio": "p002",
+      "source_image": "corpus/yek_screenshots/nuruosmaniye_04355_p002.png",
+      "decoration_type": "binding",
+      "elements": [
+        {
+          "element_type": "binding edge view",
+          "element_type_ottoman": "cilt kenarı",
+          "element_type_persian": null,
+          "motifs": [],
+          "colors": ["brown leather", "gold (ağız yaldızlı)"],
+          "gold_technique": null,
+          "position": "fore-edge/spine view of closed or partially open volume"
+        }
+      ],
+      "paper_decoration": {
+        "type": "none",
+        "technique_terms": {
+          "ottoman": null,
+          "persian": null,
+          "arabic": null
+        },
+        "details": "This image shows the fore-edge or spine of the volume, not an opening. A circular gold stamp (vakıf mührü) is visible. The binding appears to be brown leather. No paper decoration is visible in this view. A partially visible illuminated opening (zahriye or serlevha) can be glimpsed at the top of the volume."
+      },
+      "style_attribution": {
+        "tradition": "Ottoman",
+        "period": null,
+        "workshop": null,
+        "confidence": 0.20,
+        "justification": "Only the binding edge and a gold vakıf seal are visible. No decorative elements can be assessed from this angle."
+      },
+      "condition_notes": "Binding appears worn. Vakıf stamp visible. The volume edge shows some darkening from handling.",
+      "analysis_limitations": "Image shows the volume from an edge/spine perspective, not a folio opening. No paper decoration can be assessed."
+    },
+    {
+      "folio": "p004",
+      "source_image": "corpus/yek_screenshots/nuruosmaniye_04355_p004.png",
+      "decoration_type": "zahriye",
+      "elements": [
+        {
+          "element_type": "zahriye / frontispiece",
+          "element_type_ottoman": "zahriye",
+          "element_type_persian": null,
+          "motifs": [],
+          "colors": ["dark red/maroon (bordo)", "gold (altın)"],
+          "gold_technique": "altın varak",
+          "position": "right page — full-page illuminated frontispiece panel"
+        },
+        {
+          "element_type": "ownership note",
+          "element_type_ottoman": "temellük kaydı",
+          "element_type_persian": null,
+          "motifs": [],
+          "colors": ["black ink"],
+          "gold_technique": null,
+          "position": "left page — handwritten ownership or endowment note"
+        }
+      ],
+      "paper_decoration": {
+        "type": "none",
+        "technique_terms": {
+          "ottoman": null,
+          "persian": null,
+          "arabic": null
+        },
+        "details": "The right page shows what appears to be an illuminated frontispiece (zahriye) with a dark red/maroon ground and gold decoration. At this viewer resolution the details are difficult to discern precisely, but the overall composition suggests a rectangular illuminated panel with a gold central cartouche or medallion on the dark red field. The left page contains handwritten text (ownership or endowment inscription). No zerefşân is visible on these pages — the zahriye page is fully decorated, and the left page appears to be plain paper."
+      },
+      "style_attribution": {
+        "tradition": "Ottoman",
+        "period": "16th century [?]",
+        "workshop": "Ottoman court production — the quality of the zahriye suggests a high-level patron",
+        "confidence": 0.40,
+        "justification": "The dark red/maroon ground with gold is a common color scheme in Ottoman zahriye pages. The presence of a zahriye frontispiece indicates a luxury manuscript. The Nigāristān is a literary work that would warrant decorated production. Limited detail visible at this resolution."
+      },
+      "condition_notes": "The zahriye page appears well-preserved. The dark red pigment appears stable. The left page shows some discoloration.",
+      "analysis_limitations": "Viewer screenshot resolution limits assessment of the zahriye motif details. The illumination program may include rūmī, hatāyī, or other motifs that cannot be identified at this zoom level."
+    },
+    {
+      "folio": "p006",
+      "source_image": "corpus/yek_screenshots/nuruosmaniye_04355_p006.png",
+      "decoration_type": "serlevha",
+      "elements": [
+        {
+          "element_type": "serlevha / headpiece",
+          "element_type_ottoman": "serlevha",
+          "element_type_persian": "sarlawḥ",
+          "motifs": ["hatāyī", "rūmī"],
+          "colors": ["lapis blue (lacivert)", "gold (altın varak)", "white", "possible red/vermillion accents"],
+          "gold_technique": "altın varak",
+          "position": "top of right page, spanning full width of text block and extending into upper margin"
+        },
+        {
+          "element_type": "cedvel",
+          "element_type_ottoman": "cedvel / cetvel",
+          "element_type_persian": "jadval",
+          "motifs": [],
+          "colors": ["gold (yaldız)", "black"],
+          "gold_technique": "altın varak",
+          "position": "framing text block on both pages"
+        },
+        {
+          "element_type": "gold-sprinkled paper",
+          "element_type_ottoman": "zerefşân / serpme",
+          "element_type_persian": "zarafshān",
+          "motifs": [],
+          "colors": ["gold particles on cream paper"],
+          "gold_technique": "zerefşân (serpme)",
+          "position": "margins surrounding text block"
+        }
+      ],
+      "paper_decoration": {
+        "type": "gold_sprinkled",
+        "technique_terms": {
+          "ottoman": "zerefşân / serpme",
+          "persian": "zarafshān",
+          "arabic": "dhahab marsūsh"
+        },
+        "details": "This is the most informative image for this manuscript. The right page features a prominent illuminated serlevha (headpiece) at the top, with a lapis blue (lacivert) ground and gold decoration in what appears to be hatāyī and rūmī motifs. The serlevha has an arched or pointed top extending into the upper margin. Below it, the text begins in nastaʿlīq script within gold-ruled frames. Both pages show gold cetvels framing the text. The margins appear to have a warm golden tonal quality consistent with zerefşân, particularly visible against the cream paper ground. The serlevha confirms this is a luxury manuscript with a full illumination program."
+      },
+      "style_attribution": {
+        "tradition": "Ottoman classical",
+        "period": "16th century [?]",
+        "workshop": "Consistent with Ottoman court nakkaşhane or high-quality commercial production",
+        "confidence": 0.55,
+        "justification": "The lapis-and-gold color scheme of the serlevha, the arched headpiece form, and the combination with gold cetvels and zerefşân margins are characteristic of Ottoman classical manuscript illumination. The Nigāristān by Kemālpaşazāde (d. 1534) provides a terminus post quem. The quality of the serlevha suggests court or court-adjacent production."
+      },
+      "condition_notes": "The serlevha appears well-preserved with vibrant blue and gold. Pages are in good condition.",
+      "analysis_limitations": "Viewer screenshot resolution limits detailed motif analysis of the serlevha. The specific motif vocabulary (rūmī subtypes, hatāyī forms) cannot be conclusively identified at this zoom level. Zerefşân assessment remains tonal rather than particle-level."
+    },
+    {
+      "folio": "p007",
+      "source_image": "corpus/yek_screenshots/nuruosmaniye_04355_p007.png",
+      "decoration_type": "paper_decoration",
+      "elements": [
+        {
+          "element_type": "cedvel",
+          "element_type_ottoman": "cedvel / cetvel",
+          "element_type_persian": "jadval",
+          "motifs": [],
+          "colors": ["gold (yaldız)", "black"],
+          "gold_technique": "altın varak",
+          "position": "framing text block on both pages"
+        },
+        {
+          "element_type": "gold-sprinkled paper",
+          "element_type_ottoman": "zerefşân / serpme",
+          "element_type_persian": "zarafshān",
+          "motifs": [],
+          "colors": ["gold particles on cream paper"],
+          "gold_technique": "zerefşân (serpme)",
+          "position": "margins surrounding text block"
+        }
+      ],
+      "paper_decoration": {
+        "type": "gold_sprinkled",
+        "technique_terms": {
+          "ottoman": "zerefşân / serpme",
+          "persian": "zarafshān",
+          "arabic": "dhahab marsūsh"
+        },
+        "details": "Double-page text opening showing the standard text layout of the manuscript. Both pages have gold-ruled cetvels framing the text in nastaʿlīq. The margins show the same warm golden tonal quality observed on p006, consistent with zerefşân application throughout the manuscript. This confirms that the gold sprinkling extends beyond just the opening pages into the body of the text."
+      },
+      "style_attribution": {
+        "tradition": "Ottoman",
+        "period": "16th century [?]",
+        "workshop": "Same production as p006 — consistent gold cetvels and zerefşân throughout",
+        "confidence": 0.50,
+        "justification": "The consistent application of gold cetvels and zerefşân across multiple folios indicates a unified decorative program applied to the entire manuscript, not just the opening pages."
+      },
+      "condition_notes": "Pages in good condition. Text legible. Ruling lines intact.",
+      "analysis_limitations": "Viewer screenshot resolution. Gold sprinkling assessed by tonal quality."
+    }
+  ],
+  "terminology": {
+    "terms_used": [
+      {
+        "concept": "gold-sprinkled paper",
+        "ottoman": "zerefşân / serpme / yaldız serpme",
+        "arabic": "dhahab marsūsh (ذهب مرشوش)",
+        "persian": "zarafshān / afshān (افشان)",
+        "english": "gold-sprinkled paper — fine metallic particles hand-scattered on the paper surface"
+      },
+      {
+        "concept": "illuminated headpiece",
+        "ottoman": "serlevha",
+        "arabic": "ʿunwān (عنوان)",
+        "persian": "sarlawḥ (سرلوح)",
+        "english": "illuminated headpiece at the opening of the text"
+      },
+      {
+        "concept": "frontispiece",
+        "ottoman": "zahriye",
+        "arabic": null,
+        "persian": null,
+        "english": "full-page or double-page illuminated frontispiece opening"
+      },
+      {
+        "concept": "frame ruling",
+        "ottoman": "cedvel / cetvel",
+        "arabic": "jadwal (جدول)",
+        "persian": "jadval",
+        "english": "ruling lines framing the text block; gold cetvels (altın cetvelli) indicate gold-ruled frames"
+      },
+      {
+        "concept": "palmette motif — split-leaf",
+        "ottoman": "rūmī",
+        "arabic": null,
+        "persian": "rūmī",
+        "english": "split-leaf palmette motif characteristic of Seljuk/Ottoman tradition"
+      },
+      {
+        "concept": "lotus/peony scroll motif",
+        "ottoman": "hatāyī",
+        "arabic": null,
+        "persian": "khatāʾī",
+        "english": "Chinese-derived lotus and peony scroll motifs"
+      },
+      {
+        "concept": "lapis blue",
+        "ottoman": "lacivert",
+        "arabic": "lāzaward (لازورد)",
+        "persian": "lāzhuward",
+        "english": "lapis lazuli blue pigment used in illumination grounds"
+      },
+      {
+        "concept": "gold leaf",
+        "ottoman": "altın varak",
+        "arabic": "waraq al-dhahab (ورق الذهب)",
+        "persian": "waraq-i zar",
+        "english": "gold leaf applied in illumination and ruling"
+      },
+      {
+        "concept": "ownership inscription",
+        "ottoman": "temellük kaydı",
+        "arabic": "qīd al-tamalluq",
+        "persian": null,
+        "english": "ownership or endowment inscription recording transfer of the manuscript"
+      },
+      {
+        "concept": "endowment seal",
+        "ottoman": "vakıf mührü",
+        "arabic": "khatm al-waqf",
+        "persian": null,
+        "english": "circular stamp indicating the manuscript is a waqf (pious endowment)"
+      }
+    ]
+  },
+  "bibliography": [
+    {
+      "citation": "Blair, Sheila S. 'Color and Gold: The Decorated Papers Used in Manuscripts in Later Islamic Times.' Muqarnas 17 (2000): 24–36.",
+      "relevance": "Foundational study of gold-sprinkled and other decorated paper types in the later Islamic manuscript tradition; directly relevant to zerefşân technique and its use in Ottoman and Persianate luxury production.",
+      "relevance_score": 0.95,
+      "access_notes": "Available through JSTOR. Open access via Brill Online."
+    },
+    {
+      "citation": "Bloom, Jonathan M. Paper Before Print: The History and Impact of Paper in the Islamic World. New Haven: Yale University Press, 2001.",
+      "relevance": "Essential reference for the history of papermaking in the Islamic world; provides context for the use of decorated paper in Ottoman manuscript production.",
+      "relevance_score": 0.80,
+      "access_notes": null
+    },
+    {
+      "citation": "Tanındı, Zeren. 'Bibliophile Aghas (Eunuchs) at Topkapı Sarayı.' Muqarnas 21 (2004): 333–343.",
+      "relevance": "Discusses luxury manuscript production and patronage at the Ottoman court, including the decorative programs typical of manuscripts produced for or acquired by high-ranking Ottoman officials — directly relevant to the likely patronage context of this Nigāristān copy.",
+      "relevance_score": 0.75,
+      "access_notes": "Available via JSTOR."
+    },
+    {
+      "citation": "Tanındı, Zeren. 'Manuscript Production in the Ottoman Palace Workshop.' Manuscripts of the Middle East 5 (1990–91): 67–98.",
+      "relevance": "Overview of Ottoman court manuscript workshops (nakkaşhane-i hümayun) and their decorative conventions, including serlevha design, zerefşân application, and gold-ruled framing systems of the type visible in this manuscript.",
+      "relevance_score": 0.85,
+      "access_notes": null
+    },
+    {
+      "citation": "Gacek, Adam. Arabic Manuscripts: A Vademecum for Readers. Handbook of Oriental Studies, Section 1, vol. 98. Leiden: Brill, 2009.",
+      "relevance": "Standard reference for codicological terminology applied to Islamic manuscripts; relevant for ruling systems (cedvel/jadwal), layout terminology, and manuscript format classification.",
+      "relevance_score": 0.70,
+      "access_notes": null
+    },
+    {
+      "citation": "Déroche, François. Islamic Codicology: An Introduction to the Study of Manuscripts in Arabic Script. London: Al-Furqan Islamic Heritage Foundation, 2005.",
+      "relevance": "Comprehensive codicological guide establishing the classification framework for Islamic manuscript decoration used in this project; directly relevant for serlevha, zahriye, and cedvel terminology.",
+      "relevance_score": 0.75,
+      "access_notes": null
+    },
+    {
+      "citation": "Bağcı, Serpil, Filiz Çağman, Günsel Renda, and Zeren Tanındı. Ottoman Painting. Ankara: Republic of Turkey Ministry of Culture and Tourism, 2006.",
+      "relevance": "Survey of Ottoman visual culture including manuscript illumination traditions; provides comparative typologies for serlevha forms, decorative palette, and the relationship between paper decoration and the Ottoman court aesthetic in the 16th century.",
+      "relevance_score": 0.80,
+      "access_notes": "Available in Turkish as Osmanlı Resim Sanatı (2006)."
+    },
+    {
+      "citation": "Mahir, Banu. Osmanlı Minyatür Sanatı. Istanbul: Kabalcı Yayınevi, 2005.",
+      "relevance": "Study of Ottoman miniature painting and manuscript decoration; provides context for the decorative programs of Ottoman literary manuscripts (adab genre) including works like the Nigāristān. [In Turkish]",
+      "relevance_score": 0.65,
+      "access_notes": "In Turkish."
+    },
+    {
+      "citation": "Atsız, Nihal. 'Kemal Paşa-Zade'nin Eserleri.' Şarkiyat Mecmuası 7 (1972): 83–135.",
+      "relevance": "Bibliographic study of Kemālpaşazāde's works including the Nigāristān; essential for establishing the terminus post quem (d. 1534) and understanding the textual tradition of the work across surviving manuscript copies. [In Turkish]",
+      "relevance_score": 0.70,
+      "access_notes": "In Turkish. Available through Turkish university library databases."
+    },
+    {
+      "citation": "Roxburgh, David J. 'The Persian Album, 1400–1600: From Dispersal to Collection.' PhD dissertation, University of Pennsylvania, 1996.",
+      "relevance": "Relevant for understanding the broader Persianate manuscript culture within which Ottoman luxury production of literary texts like the Nigāristān was situated; discusses zerefşân paper and its role in album-making and luxury book arts.",
+      "relevance_score": 0.60,
+      "access_notes": "Available via ProQuest Dissertations."
+    }
+  ],
+  "suggested_collections": [
+    {
+      "institution": "Topkapı Sarayı Müzesi Kütüphanesi (Topkapı Palace Library)",
+      "reason": "Holds the largest collection of Ottoman court manuscripts; likely to contain comparable copies of the Nigāristān and parallel examples of 16th-century Ottoman zerefşân paper and serlevha illumination programs.",
+      "digital_access": "https://kutuphane.tsmk.gov.tr"
+    },
+    {
+      "institution": "Süleymaniye Yazma Eser Kütüphanesi",
+      "reason": "Major repository of Ottoman manuscript production; likely holds additional copies of the Nigāristān for comparative dating and workshop attribution.",
+      "digital_access": "https://portal.yek.gov.tr"
+    },
+    {
+      "institution": "Chester Beatty Library, Dublin",
+      "reason": "Holds important examples of Ottoman and Safavid luxury manuscripts with zerefşân paper for comparative analysis of paper preparation techniques and illumination programs.",
+      "digital_access": "https://viewer.cbl.ie"
+    }
+  ],
+  "provenance": {
+    "donor": null,
+    "waqf": "Nuruosmaniye Camii vakfı (endowed to Nuruosmaniye Mosque library, founded by Sultan Mahmud I and completed under Sultan Osman III, r. 1754–1757)",
+    "previous_shelfmarks": [],
+    "notes": "A circular gold vakıf mührü (endowment seal) is visible on p002 (fore-edge view). The Nuruosmaniye collection as a whole bears III. Osman tuğralı vakıf mühürü (endowment stamps with the tughra of Osman III). The manuscript was therefore in the collection by the mid-18th century at the latest, though it may have been produced considerably earlier. Ownership/endowment inscription visible on p004 (left page) — content not deciphered at current resolution."
+  },
+  "analysis_metadata": {
+    "analyzed_date": "2026-02-26",
+    "analyzer": "claude-code-manuscript-pipeline",
+    "image_source": "YEK portal viewer screenshots (portal.yek.gov.tr)",
+    "image_quality_notes": "Viewer screenshots at approximately 1536×864 px. This resolution is sufficient for identifying major decorative programs (zahriye, serlevha, cedvel system) and for tonal assessment of zerefşân, but insufficient for particle-level confirmation of gold sprinkling technique (kalbur vs. fırça) or for detailed motif vocabulary analysis of the serlevha. The visual confirmation verdict of 'probable' reflects this limitation.",
+    "folios_examined": ["p002", "p004", "p006", "p007"],
+    "folios_not_examined": "All folios beyond p007 not examined; colophon folio not identified or examined. Decorative program beyond the opening pages (zahriye, serlevha) not verified — zerefşân on p007 provides evidence of extension into the text block but total extent is unknown."
+  }
+}

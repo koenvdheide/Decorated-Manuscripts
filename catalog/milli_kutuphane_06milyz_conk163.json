@@ -1,0 +1,228 @@
+{
+  "record_id": "milli_kutuphane_06milyz_conk163",
+  "collection": {
+    "institution": "Milli Kütüphane",
+    "city": "Ankara",
+    "country": "Turkey",
+    "shelfmark": "06 Mil Yz Conk 163",
+    "yek_url": null
+  },
+  "manuscript": {
+    "title": null,
+    "author": null,
+    "date_ah": null,
+    "date_ce": "17th–19th century (uncertain)",
+    "format": "conk",
+    "dimensions_mm": {
+      "height": null,
+      "width": null
+    },
+    "folio_count": null
+  },
+  "paper_decoration": {
+    "types": ["gold_sprinkled", "colored"],
+    "summary": "The catalogue describes zerefşân kâğıt (gold-sprinkled paper) throughout this conk-format manuscript. Visual examination of p003 reveals a paper surface with a distinct pale-green / sage tint that may indicate a mülevven (colored/tinted) ground combined with, or underlying, the zerefşân application. At the available viewer resolution, individual gold particles are not resolved; the narrow conk format further reduces the effective image area. The 'probable' verdict is therefore based primarily on the catalogue description rather than independent visual confirmation. The thumbnail strip shows varied page colors across the 124 digitized pages, suggesting the paper stock may not be uniform throughout.",
+    "technique_terms": {
+      "ottoman": "zerefşân kâğıt / serpme; mülevven kâğıt",
+      "persian": "zarafshān / afshān",
+      "arabic": "dhahab marsūsh"
+    },
+    "catalogue_description": {
+      "paper_field": "zerefşan kağıt",
+      "notes_field": null,
+      "decoration_field": null
+    }
+  },
+  "workshop_attribution": {
+    "primary_tradition": "ottoman",
+    "workshop_centre": null,
+    "date_range_ce": "17th–19th century",
+    "confidence": 0.25,
+    "key_indicators": [
+      "Conk format characteristic of Ottoman personal almanacs and practical miscellanies",
+      "Zerefşân paper documented by YEK catalogue description",
+      "Possible mülevven (colored) paper ground with sage/green tint visible in digitized images"
+    ],
+    "cross_tradition_caveats": [
+      "Conk format is not period-specific within the Ottoman tradition; the format spans the 17th through 19th centuries",
+      "Use of gold-sprinkled paper in a conk is somewhat unusual and could indicate reuse of luxury paper stock, a more refined production context, or an atypically elevated commission for this format",
+      "Without content analysis, script identification, or codicological examination, dating remains highly uncertain"
+    ]
+  },
+  "codicology": {
+    "paper": {
+      "type": "zerefşân kâğıt (gold-sprinkled paper)",
+      "color": "pale-green / sage-tinted (possibly mülevven ground); aged cream with green cast",
+      "notes": "The greenish tint visible in digitized images may indicate intentionally colored paper (mülevven), age-related discoloration, or a photographic artifact from digitization. This requires in-person examination to resolve."
+    },
+    "ruling": {
+      "notes": null
+    },
+    "binding": {
+      "notes": null
+    },
+    "format": "conk",
+    "format_notes": "Conk (from Turkish conk, also müsenna or concertina/leporello in Western description) is an accordion-folded or zigzag-folded manuscript format, characteristic of Ottoman almanacs (takvim), calendrical tables, and practical miscellanies. The format produces narrow, tall folios when folded; the elongated pages are visible in the YEK digital viewer. Conk manuscripts were typically personal compilations rather than luxury court productions, making the presence of gold-sprinkled paper somewhat unusual in this context.",
+    "condition_summary": "Paper shows aging and wear consistent with practical use. Edges appear worn. Some pages in the thumbnail strip display varying paper colors, which may indicate composite assembly, differential oxidation, or multiple paper stocks.",
+    "conservation_history": null
+  },
+  "visual_confirmation": {
+    "verdict": "probable",
+    "confidence": 0.35,
+    "screenshots_examined": 1,
+    "limitations": [
+      "The conk format's narrow, tall proportions result in a very small effective image area within the viewer screenshot, reducing the ability to resolve fine gold particles",
+      "At the available viewer resolution (approximately 1536 × 864 px for the screenshot), zerefşân particles are not independently resolvable",
+      "Warm/gold quality is faintly visible on the paper surface but is not diagnostic at this resolution",
+      "Verdict relies primarily on the YEK catalogue field 'zerefşan kağıt'; visual evidence is supportive but not conclusive",
+      "Only a single page (p003) was examined; the 124 digitized pages would benefit from targeted examination of additional openings"
+    ]
+  },
+  "folio_analyses": [
+    {
+      "folio": "p003",
+      "source_image": "corpus/visual_confirmation_batch1/milli_kutuphane_06milyz_conk163_p003_iiif.png",
+      "decoration_type": "paper_decoration",
+      "elements": [
+        {
+          "element_type": "gold-sprinkled paper",
+          "element_type_ottoman": "zerefşân kâğıt",
+          "element_type_persian": "zarafshān",
+          "motifs": [],
+          "colors": ["gold particles on aged cream/green-tinted paper"],
+          "gold_technique": "serpme / zerefşân",
+          "position": "full page surface"
+        },
+        {
+          "element_type": "colored/tinted paper",
+          "element_type_ottoman": "mülevven / boyalı kâğıt",
+          "element_type_persian": null,
+          "motifs": [],
+          "colors": ["pale green / sage tint"],
+          "gold_technique": null,
+          "position": "visible on the page surface; the paper appears to have a distinct greenish tint"
+        }
+      ],
+      "paper_decoration": {
+        "type": "gold_sprinkled",
+        "technique_terms": {
+          "ottoman": "zerefşân / serpme",
+          "persian": "zarafshān",
+          "arabic": "dhahab marshūsh"
+        },
+        "details": "This is a conk (almanac/miscellany) in a distinctive narrow, tall format. The screenshot shows a single narrow page (characteristic conk format) with the viewer displaying the elongated folio. The paper appears to have a distinct greenish or sage tint, which could indicate colored paper (mülevven) or simply aged/oxidized paper. The catalogue describes this as 'zerefşan kagit' (gold-sprinkled paper), suggesting the entire paper is gold-sprinkled rather than just the margins. At the available resolution, a subtle warm quality is visible on the paper surface, but individual gold particles are not resolved. The narrow format makes the page particularly small in the viewer, further reducing effective resolution. The left thumbnail panel shows varied page colors across the manuscript, with some pages appearing darker or more distinctly tinted than others."
+      },
+      "style_attribution": {
+        "tradition": "Ottoman",
+        "period": "17th-19th century [?]",
+        "workshop": "Unknown; conk format suggests a personal or practical compilation rather than a luxury court production",
+        "confidence": 0.25,
+        "justification": "Conk manuscripts were typically personal almanacs, recipe collections, or miscellanies assembled over time. The use of zerefşân paper in a conk is somewhat unusual, as it suggests either the reuse of luxury paper stock for a practical compilation or a more refined production context than typical for this format. Without further examination of content, script, or codicological features, dating is highly uncertain. The narrow format is distinctive but not period-specific."
+      },
+      "condition_notes": "Paper shows aging and possibly some discoloration. The edges appear worn, consistent with the practical use typical of conk manuscripts. Some pages in the thumbnail strip appear to have different paper colors, suggesting possible composite assembly over time.",
+      "analysis_limitations": "The conk's narrow format results in a very small effective image area within the viewer screenshot. At this resolution, zerefşân is not independently verifiable. The greenish paper tint is an additional feature that the catalogue does not mention, and it may warrant further investigation -- it could be colored paper with zerefşân overlay, age-related discoloration, or a photographic artifact from the digitization. The 'probable' verdict relies primarily on the catalogue description. 124 total digitized pages suggest a substantial manuscript that could be further examined at targeted openings."
+    }
+  ],
+  "terminology": {
+    "terms_used": [
+      {
+        "concept": "Gold-sprinkled paper",
+        "ottoman": "zerefşân kâğıt / serpme",
+        "arabic": "dhahab marsūsh (ذهب مرشوش)",
+        "persian": "zarafshān / afshān (زرافشان / افشان)",
+        "english": "gold-sprinkled paper — fine metallic particles hand-scattered on paper surface"
+      },
+      {
+        "concept": "Colored paper",
+        "ottoman": "mülevven kâğıt / boyalı kâğıt",
+        "arabic": "mulauwwan (ملوّن)",
+        "persian": "mulavvan",
+        "english": "colored / tinted paper"
+      },
+      {
+        "concept": "Conk format",
+        "ottoman": "conk / müsenna",
+        "arabic": null,
+        "persian": null,
+        "english": "accordion-folded / concertina / leporello manuscript format; characteristic of Ottoman almanacs and practical miscellanies"
+      },
+      {
+        "concept": "Composite manuscript / miscellany",
+        "ottoman": "mecmû'a",
+        "arabic": "majmūʿa (مجموعة)",
+        "persian": "majmūʿa",
+        "english": "composite manuscript / anthology; applied broadly to mixed-content compilations including conk-format almanacs"
+      }
+    ]
+  },
+  "bibliography": [
+    {
+      "citation": "Blair, Sheila S. 'Color and Gold: The Decorated Papers Used in Manuscripts in Later Islamic Times.' Muqarnas XVII (2000): 24–36.",
+      "relevance": "Foundational survey of decorated paper techniques in Islamic manuscripts, including gold-sprinkled (zerefşân/zarafshān) paper; establishes terminology and contextualizes Ottoman practice within the broader Persianate tradition.",
+      "relevance_score": 0.9,
+      "access_notes": "Peer-reviewed article in Muqarnas (Brill). May be available via JSTOR or institutional access."
+    },
+    {
+      "citation": "Bloom, Jonathan M. Paper Before Print: The History and Impact of Paper in the Islamic World. New Haven: Yale University Press, 2001.",
+      "relevance": "Comprehensive history of paper in the Islamic world; covers manufacture, trade, decoration, and use from early Islamic period through the Ottoman era. Contextualizes the paper stock used in conk-format manuscripts.",
+      "relevance_score": 0.75,
+      "access_notes": "Monograph. Widely held in research libraries."
+    },
+    {
+      "citation": "Gacek, Adam. Arabic Manuscripts: A Vademecum for Readers. Leiden: Brill, 2009.",
+      "relevance": "Standard reference for Arabic manuscript codicology; terminology and physical description conventions consulted for paper, ruling, and format terms.",
+      "relevance_score": 0.65,
+      "access_notes": "Monograph. Also available as Handbook of Oriental Studies series vol. 98."
+    },
+    {
+      "citation": "Déroche, François. Islamic Codicology: An Introduction to the Study of Manuscripts in Arabic Script. Translated by Deke Dusinberre and David Radzinowicz. London: Al-Furqan Islamic Heritage Foundation, 2005.",
+      "relevance": "Core reference for Islamic manuscript codicology; describes physical formats, paper types, and decoration categories that inform classification in this project.",
+      "relevance_score": 0.65,
+      "access_notes": "Monograph. English translation of La tradition manuscrite en Islam (Paris: BnF, 2000)."
+    },
+    {
+      "citation": "Tanındı, Zeren. 'Bibliophile Aghas (Eunuchs) at Topkapı Sarayı.' Muqarnas 21 (2004): 333–343.",
+      "relevance": "Discusses Ottoman luxury manuscript culture and the circulation of decorated paper among court and educated elite contexts; relevant for assessing the unusual presence of zerefşân paper in a practical conk-format manuscript.",
+      "relevance_score": 0.55,
+      "access_notes": "Peer-reviewed article in Muqarnas (Brill)."
+    },
+    {
+      "citation": "Mahir, Banu. Osmanlı Minyatür Sanatı. Istanbul: Kabalcı Yayınevi, 2005.",
+      "relevance": "Overview of Ottoman manuscript art and production contexts; discusses the range of manuscript types produced within the Ottoman tradition, from luxury court commissions to practical compilations.",
+      "relevance_score": 0.45,
+      "access_notes": "Monograph. In Turkish."
+    },
+    {
+      "citation": "Sturkenboom, Ilse. 'Chinese Decorated Paper in Persianate Manuscripts: A Preliminary Survey.' Forthcoming, GlobalDecoPaper ERC Project (LMU Munich).",
+      "relevance": "Addresses the use of decorated papers — including colored and gold-sprinkled stocks — in Persianate and Ottoman manuscripts; methodologically relevant for identifying paper types from digitized images at low resolution.",
+      "relevance_score": 0.6,
+      "access_notes": "Forthcoming publication. See GlobalDecoPaper ERC Project, LMU Munich for project updates."
+    }
+  ],
+  "suggested_collections": [
+    {
+      "institution": "Milli Kütüphane (YEK Portal)",
+      "reason": "Holding institution; additional conk manuscripts in the Milli Kütüphane collection may offer comparative material for the format and paper type",
+      "digital_access": "https://portal.yek.gov.tr"
+    },
+    {
+      "institution": "Topkapı Sarayı Müzesi Kütüphanesi",
+      "reason": "Houses Ottoman conk-format and practical manuscript compilations; zerefşân paper appears in court-level productions and could illuminate the production context of gold-sprinkled conk manuscripts",
+      "digital_access": "https://kutuphane.tsmk.gov.tr"
+    }
+  ],
+  "provenance": {
+    "donor": null,
+    "waqf": null,
+    "previous_shelfmarks": [],
+    "notes": "Held at Milli Kütüphane (National Library of Turkey), Ankara. Shelfmark prefix '06 Mil Yz' denotes the Yazma Eserler (manuscripts) collection of the Milli Kütüphane. No waqf or donor information available from the YEK catalogue record."
+  },
+  "analysis_metadata": {
+    "analyzed_date": "2026-02-26",
+    "analyzer": "claude-code-manuscript-pipeline",
+    "image_source": "YEK portal digital viewer screenshots (IIIF viewer; direct IIIF download unavailable due to HTTP/2 ping / CORS restrictions)",
+    "image_quality_notes": "Single screenshot of p003 examined at approximately 1536 × 864 px viewer resolution. The conk format's narrow, tall proportions further reduce the effective image area per folio. At this resolution, individual zerefşân particles are not resolvable; the subtle warm surface quality and the catalogue field 'zerefşan kağıt' are the basis for the 'probable' classification. The greenish paper tint (possibly mülevven ground) is an additional feature not mentioned in the catalogue and warrants in-person examination. 124 pages are digitized and available for further targeted examination.",
+    "folios_examined": ["p003"],
+    "folios_not_examined": "123 of 124 digitized pages not examined; only p003 was captured in the visual confirmation screenshot batch."
+  }
+}
