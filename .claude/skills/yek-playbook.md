@@ -417,3 +417,84 @@ async (page) => {
 ```
 
 Then call `browser_take_screenshot` (not `page.screenshot()` inside `browser_run_code` — that times out).
+
+---
+
+## Browser Tool Efficiency
+
+### browser_snapshot vs. browser_run_code
+
+`browser_snapshot` returns the full accessibility tree as text — typically 5,000–30,000 tokens
+per call. For a session with 5 searches and navigation, naive snapshot usage can consume
+100,000–200,000 tokens before any analysis work begins.
+
+**Default rule**: use `browser_run_code` for any state check that can be answered with a small
+JSON object. Reserve `browser_snapshot` for cases where you genuinely cannot determine the page
+state from a targeted query.
+
+### Checking that the search form loaded
+
+```js
+async (page) => {
+  return await page.evaluate(() => ({
+    url: location.href,
+    selects_found: document.querySelectorAll('select').length,
+    inputs_found: document.querySelectorAll('input[type="text"], input[type="search"]').length
+  }));
+}
+```
+
+If `selects_found > 0` and `inputs_found > 0`, the form is present and ready.
+
+### Extracting search result count and first results
+
+```js
+async (page) => {
+  return await page.evaluate(() => {
+    // Result count — try common Turkish portal patterns
+    const countCandidates = [
+      document.querySelector('.result-count'),
+      document.querySelector('[class*="total"]'),
+      document.querySelector('[class*="count"]'),
+      document.querySelector('[class*="sonuc"]'),   // sonuç = result
+      document.querySelector('[class*="kayit"]')    // kayıt = record
+    ].filter(Boolean);
+    const countText = countCandidates.length > 0 ? countCandidates[0].innerText : null;
+
+    // Result rows — first 20, truncated to 300 chars each
+    const rows = Array.from(
+      document.querySelectorAll('tr[class*="result"], .result-item, .search-result, tbody tr')
+    ).slice(0, 20).map(r => r.innerText.replace(/\s+/g, ' ').trim().substring(0, 300));
+
+    return { count_text: countText, rows, url: location.href };
+  });
+}
+```
+
+Parse `count_text` to get the integer result count. Use `rows` to read titles, shelfmarks, and
+collection names without a full snapshot.
+
+**If the selectors above return empty rows**, fall back to a broader extraction:
+
+```js
+async (page) => {
+  return await page.evaluate(() => {
+    const allText = document.body.innerText.substring(0, 3000);
+    return { text_preview: allText, url: location.href };
+  });
+}
+```
+
+This returns the first 3,000 characters of visible page text — still far cheaper than
+`browser_snapshot`.
+
+### When to still use browser_snapshot
+
+- After a search returns 0 results when you expected results — the full tree may reveal an error
+  message, CAPTCHA, session timeout, or form mis-submission
+- When `browser_run_code` returns unexpected results and you cannot diagnose the issue from
+  the data
+- The first time you encounter a portal page type you have not seen before in this session
+  (e.g., first time a pagination control appears)
+- Never use a snapshot just to "confirm" a navigation that succeeded — lightweight DOM checks
+  are sufficient
