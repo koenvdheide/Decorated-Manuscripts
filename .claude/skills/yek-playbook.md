@@ -216,19 +216,18 @@ Use script type and language fields as AND-filters to dramatically increase prec
 
 ### Protocol E: Spelling variant rotation
 
-Rotate through **form variants** (compound vs. space) for key terms — cataloguer inconsistency is a major recall issue. **Do not rotate through diacritic variants** — YEK normalizes diacritics server-side, so they return identical results.
+Rotate through **form variants** (compound vs. space, different base spellings) for key terms — cataloguer inconsistency is a major recall issue. **Do not rotate through circumflex/vowel-accent variants** — YEK normalizes these server-side (ebrî = ebri, halkâr = halkar, etc.), so they return identical results. Note: the ʿayn consonant (ʿ / ') is **not** a diacritic and is NOT normalized — forms with and without ʿayn (e.g. murakkaʿ vs murakka) may differ in results.
 
 For each core term, try the usable form variants only. Key rotations:
 
-- zerefşan → zer efşan (space form, superset)
-- ebrî → ebri → ebrû → ebru → ebrulu
-- halkârî → halkari → halkâr → halkar
+- zerefşan → zer efşan
+- ebrî → ebrû → ebrulu
+- halkârî → halkâr
 - zencirek → zencerek
 - cedvel → cetvel
-- nestaʿlîk → nestalik → nesta'lik → nasta'lik
-- taʿlîk → talik → ta'lik
+- nestaʿlîk → nasta'lik
 - murakkaʿ → murakka → murakkaa
-- teşʿîr → teşir → teş'ir
+- teşʿîr → teşir
 
 ### Protocol F: Process vocabulary over motif vocabulary
 
