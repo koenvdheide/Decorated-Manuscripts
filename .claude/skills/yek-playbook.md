@@ -55,7 +55,7 @@ For safety:
 ### Key searchable fields
 
 | Field ID | Turkish label | Best for |
-|---|---|---|
+| --- | --- | --- |
 | kagit_ozellikleri | Kağıt Özellikleri | Paper type, surface treatment, decoration on paper itself |
 | genel_notlar | Genel Notlar | Detailed descriptions, often includes decoration not in paper field |
 | tezhip_minyatur_harita_cizim | Tezhip/Minyatür/Harita/Çizim | Illumination, miniatures, halkâr, margin decoration |
@@ -91,7 +91,7 @@ This behavior cannot be changed. Plan for false positives and filter them after 
 Low false positive rate — almost always genuine decorated paper or margin decoration:
 
 | Term | Meaning | Best field |
-|---|---|---|
+| --- | --- | --- |
 | serpme | gold-sprinkled | kagit_ozellikleri |
 | zerefşan | gold-sprinkled (Persian). Diacritics normalized — one form suffices. Also try space form `zer efşan` (superset with some noise). Never use hyphen form `zer-efşan` (causes tokenization inflation). | kagit_ozellikleri |
 | altın serpme | gold-sprinkled (Turkish descriptive) | genel_notlar |
@@ -114,7 +114,7 @@ Low false positive rate — almost always genuine decorated paper or margin deco
 Produce genuine results but also many false positives:
 
 | Term | Meaning | Common false positive |
-|---|---|---|
+| --- | --- | --- |
 | yaldızlı kağıt | gilded paper | "cetvelleri yaldızlı" (gold ruling) |
 | altınlı kağıt / altınlı | gilded paper | various |
 | tezhipli | illuminated | "başlığı tezhipli" (headpiece only) |
@@ -140,7 +140,7 @@ Produce genuine results but also many false positives:
 ### Tier 3: Supplementary (for comprehensive surveys)
 
 | Term | Meaning | Notes |
-|---|---|---|
+| --- | --- | --- |
 | altın mürekkeple hataî | hatāyī in gold ink | margin decoration |
 | gümüş yaldız serpmeli | silver-sprinkled | can be very large pieces |
 | tamamı yaldız bezemeli | entirely gold-decorated | very rare, high value |
@@ -156,7 +156,7 @@ Produce genuine results but also many false positives:
 Not decoration terms per se, but records containing these often have elaborate framing:
 
 | Term | Meaning | Notes |
-|---|---|---|
+| --- | --- | --- |
 | derkenar | marginal writing | "derkenar vardır" → margin-heavy layout |
 | hâşiye | marginal gloss | signals annotated margins, often framed |
 | kenar notu | marginal note | same signal as derkenar |
@@ -262,7 +262,7 @@ Visual confirmation is not possible when:
 After retrieving results, apply these filters:
 
 | Pattern to check | If found | Action |
-|---|---|---|
+| --- | --- | --- |
 | "cetvelleri yaldızlı" or "cedvel.*yaldız" | Gold ruling lines, not paper | Mark false positive |
 | "başlığı tezhipli" or "başlık.*tezhip" | Headpiece illumination only | Mark false positive |
 | "ebrulu mukavva" or "ebrulu cilt" or "ebrulu kapak" | Marbled binding, not paper | Mark false positive |
@@ -299,7 +299,7 @@ Berat and ferman (Ottoman imperial decrees, single-sheet format) — exclude any
 Assign each genuine result to one category:
 
 | Category | Key indicators |
-|---|---|
+| --- | --- |
 | gold_sprinkled | serpme, zerefşân, yaldız serpme, altınlı kağıt, kalbur/fırça zerefşanı |
 | gold_worked | zerkâri, zer-endûd, tamamı yaldız bezemeli, zer-ender-zer |
 | marbled | ebrulu/ebrî paper (NOT binding), hatip ebru, battal ebru, gel-git/taraklı ebru |

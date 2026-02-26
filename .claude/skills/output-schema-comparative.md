@@ -54,7 +54,9 @@
 ## Shared Enums
 
 ### Confidence scores
+
 All confidence values are `number` between 0.0 and 1.0:
+
 - **0.9–1.0**: High confidence, strong evidence
 - **0.7–0.89**: Moderate confidence, good evidence with minor limitations
 - **0.5–0.69**: Low-moderate confidence, significant limitations noted
@@ -62,6 +64,7 @@ All confidence values are `number` between 0.0 and 1.0:
 - **0.0–0.29**: Very low confidence, speculative
 
 ### Overall relationship values
-```
+
+```text
 same_workshop | same_tradition | indirect_influence | no_clear_connection
 ```

@@ -275,12 +275,15 @@ One entry per catalogued manuscript. Lightweight summary for comparative-analyst
 ## Shared Enums
 
 ### Decoration categories
-```
+
+```text
 gold_sprinkled | gold_worked | marbled | colored | halkar_margins | illuminated_margins | marginal_drawings | framing_system | silver_sprinkled | edge_gilding | mixed | none | other
 ```
 
 ### Confidence scores
+
 All confidence values are `number` between 0.0 and 1.0:
+
 - **0.9–1.0**: High confidence, strong evidence
 - **0.7–0.89**: Moderate confidence, good evidence with minor limitations
 - **0.5–0.69**: Low-moderate confidence, significant limitations noted
@@ -288,6 +291,7 @@ All confidence values are `number` between 0.0 and 1.0:
 - **0.0–0.29**: Very low confidence, speculative
 
 ### Visual confirmation verdicts
-```
+
+```text
 confirmed | probable | inconclusive | not_confirmed | contradicted | no_images
 ```

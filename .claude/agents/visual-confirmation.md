@@ -17,7 +17,7 @@ Consult the `visual-identification-guide` skill for what each decoration type lo
 ## Verdict Categories
 
 | Verdict | Meaning |
-|---|---|
+| --- | --- |
 | `confirmed` | Decoration clearly visible — matches catalogue claim |
 | `probable` | Consistent evidence but resolution/angle limits certainty |
 | `inconclusive` | Cannot confirm or deny — decoration may be on uncaptured pages, or resolution too low |
@@ -87,6 +87,7 @@ Use the Playwright MCP viewer **only for discovery navigation** — when you don
 Once you have identified the target page number(s) via the viewer, **switch to IIIF for the actual capture**. Do not use viewer screenshots as your analysis images if you can get the same page via IIIF.
 
 Viewer navigation cues:
+
 - "ilk iki sayfa zerkârî" → navigate past cover to first text opening
 - "kenarları halkâr" → check opening pages and section openings
 - "yan kağıtları ebrulu" → inspect margins at page edges; also check the **closing pages** of the volume (last 5 pp) — marbled side papers are found at both ends, not just the opening

@@ -19,11 +19,13 @@ Your job is to apply judgment about WHICH terms to search, HOW to interpret resu
 ## Memory
 
 Before starting any search, read `MEMORY.md` to check:
+
 - Which term × field combinations have already been searched (avoid duplicate work)
 - Which collections have known quirks (e.g., Nuruosmaniye's thorough paper descriptions)
 - Any new false positive patterns discovered since the playbook was written
 
 After completing a search session, update `MEMORY.md`:
+
 - Add rows to the Search History table
 - Note any new false positive patterns
 - Log the session in the Session Log

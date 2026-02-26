@@ -11,7 +11,7 @@ Single source of truth for all technical terminology used in this project. Agent
 ## Cross-Language Equivalences
 
 | Concept | Ottoman Turkish | Arabic | Persian | English |
-|---|---|---|---|---|
+| --- | --- | --- | --- | --- |
 | Illumination | tezhip | tadhdhīb (تذهيب) | taẕhīb (تذهیب) | gilding / illumination |
 | Headpiece | serlevha | ʿunwān (عنوان) | sarlawḥ (سرلوح) | illuminated headpiece |
 | Frontispiece | zahriye | — | — | frontispiece / opening page |
@@ -32,6 +32,7 @@ Single source of truth for all technical terminology used in this project. Agent
 ## Decoration Types
 
 ### Page-level elements
+
 - **serlevha** / ʿunwān — illuminated headpiece at top of text opening
 - **zahriye** — frontispiece, typically a full-page illuminated opening
 - **cedvel** / jadwal — ruling and frame lines around text block
@@ -42,22 +43,27 @@ Single source of truth for all technical terminology used in this project. Agent
 - **gül** — rosette (also used for verse markers in Qurans)
 
 ### Border system (pervaz / kenar suyu)
+
 The Ottoman framing system uses layered borders around the text block:
+
 - **iç pervaz** / **ara suyu** — inner border band (between text block cedvel and outer frame)
 - **dış pervaz** / **kenar suyu** — outer border band (outermost frame around margins)
 - **pervaz** — border (general); **dış pervazı** — outer border (for mounted calligraphy/painting)
 - **hâşiye tezhibi** / **kenar suyu tezhibi** — marginal illumination / border illumination
 
 ### Marginal pictorial decoration
+
 - **teşʿîr / tashʿīr** (تشعیر) — fine-line gold drawings in margins: animals, birds, plants, landscapes. Extremely delicate "hairline" work, typically gold on paper. Especially found in Persianate albums and luxury manuscripts. May be described in Turkish catalogues as "altın mürekkeple resim" or implied by "hayvan/şükûfe resimleri."
 
 ### Marginalia terms (search handles for margin-heavy manuscripts)
+
 - **derkenar** (Ott., from Pers. dar-kanār) — marginal writing / note in the margin
 - **hāmiš** (هامش, Ar.) — margin (physical space); also used for marginal glosses
 - **kenar notu** (Ott.) — marginal note
 - These are not decoration per se, but records noting "derkenar vardır" often indicate manuscripts with elaborate ruling/framing systems
 
 ### Binding decoration elements
+
 - **şemse** / shamsa / toranj — central medallion (on bindings or pages)
 - **salbek** / sar-toranj — pendant / tongue extending from şemse
 - **köşebend** — corner pieces (on bindings)
@@ -65,6 +71,7 @@ The Ottoman framing system uses layered borders around the text block:
 - **ruganî / lake** — lacquer (for lacquer-painted bindings, Persian tradition)
 
 ### Motif families
+
 - **rūmī** — split-leaf palmettes (characteristic of Seljuk/Ottoman tradition)
 - **hatāyī** — Chinese-derived lotus and peony forms
 - **bulut** / cloud band — Chinese-derived cloud scrolls. Subtypes: **yığma bulut** (heaped cloud), **dolantı bulut** (winding cloud), **ayırma bulut** (separating cloud), **Çin bulutu** (Chinese cloud)
@@ -80,7 +87,7 @@ The Ottoman framing system uses layered borders around the text block:
 ## Gold Techniques
 
 | Term | Language | Meaning |
-|---|---|---|
+| --- | --- | --- |
 | halkâr / halkârî | Ott./Pers. | Shaded gold floral painting, typically in margins. Subtypes: **taramalı halkârî** (hatched/lined shading), **tahrirli halkârî** (outlined with darker gold/ink) |
 | zerefşân / serpme / yaldız serpme | Pers./Ott. | Gold-sprinkled (particles scattered on paper surface). Subtypes: **kalbur zerefşanı** (sieve-sprinkled, finer), **fırça zerefşanı** (brush-sprinkled, coarser). Surface variant: **şâykâllı zerefşân** (burnished/polished gold-sprinkled — particles compressed and polished, harder to read at low resolution; confirmed: Milli Kütüphane 614152) |
 | sim efşan / sim-efşan | Ott. | Silver-sprinkled (silver equivalent of zer-efşan; *sim* = silver). Distinct from *gümüş yaldız serpmeli* (the more common Ottoman term); found in Ali Emiri Belge berats (155133, 155116) |
@@ -98,6 +105,7 @@ The Ottoman framing system uses layered borders around the text block:
 ## Paper Decoration Techniques
 
 ### Gold-decorated papers
+
 - **serpme / zerefşân / yaldız serpme** — gold-sprinkled: fine metallic particles hand-scattered on paper surface
 - **şâykâllı zerefşân** — burnished/polished gold-sprinkled paper: particles compressed and polished after application; harder to detect at low image resolution (confirmed: Milli Kütüphane 614152 "saykalli zerefsan")
 - **sim efşan / sim-efşan** — silver-sprinkled; *sim* (silver) parallels *zer* (gold) in zer-efşan; found in Ottoman berat documents (Ali Emiri Belge 155133, 155116). Synonym: *gümüş yaldız serpmeli*
@@ -119,6 +127,7 @@ The Ottoman framing system uses layered borders around the text block:
 - **gümüş yaldız serpmeli** — silver-sprinkled (see also *sim efşan* above)
 
 ### Marbled papers
+
 - **ebrî / ebrulu** — marbled (general). Simple form `Ebru kağıt` also used as standalone kagit_ozellikleri descriptor
 - **hatip ebru** — imam's marbling: floral/vegetal motifs created in marbling trough
 - **battal ebru** — stone/spot marbling: irregular spotted or mottled pattern
@@ -134,6 +143,7 @@ The Ottoman framing system uses layered borders around the text block:
 - **satıhı hatip ebrusu kaplı cild** — hatip-marbled binding cover (⚠ FP formula; sentence always ends with "cild" or "ciltlidir"; confirmed Kastamonu pattern)
 
 ### Colored papers
+
 - **mülevven** — colored paper. Simple standalone forms `Mülevven kağıt` (and `Abadî ve suyolu filigranli mülevven` — abadi paper with chain-line watermarks, colored) also used in kagit_ozellikleri
 - **mülevven cedid** — new colored paper
 - **boyalı** — dyed / painted paper
@@ -143,6 +153,7 @@ The Ottoman framing system uses layered borders around the text block:
 - **lacivert** — lapis blue (paper color)
 
 ### Mounting and special treatments
+
 - **vassale** — window-mounting technique (text mounted in window cut from decorated paper)
 - **yan kağıtları** — side papers (decorative papers flanking text block)
 - **âharlı kâğıt** — sized/burnished paper (âhar = sizing agent; mühre = burnishing)
@@ -184,7 +195,7 @@ Binding FP descriptors (⚠ NOT page margin halkâr):
 ## Paper Provenance Terms
 
 | Term | Meaning |
-|---|---|
+| --- | --- |
 | Doğu kâğıdı | Eastern paper |
 | kāġaz-i Ḫiṭāʾī (کاغذ خطایی) | Cathayan/Chinese paper |
 | kāġaz-i Čīn / Çin kâğıdı | Chinese paper |
@@ -196,6 +207,7 @@ Binding FP descriptors (⚠ NOT page margin halkâr):
 ## Binding Terms
 
 ### Structure
+
 - **cilt** — binding (general)
 - **mıklep** — flap (Ottoman flap binding)
 - **sertab** — envelope flap
@@ -204,6 +216,7 @@ Binding FP descriptors (⚠ NOT page margin halkâr):
 - **āstar-e badraqa** (Pers.) — endpaper / doublure lining
 
 ### Cover decoration
+
 - **şemse** / shamsa / toranj — central medallion
 - **köşebend** — corner pieces
 - **salbek** / sar-toranj — pendant from medallion
@@ -213,6 +226,7 @@ Binding FP descriptors (⚠ NOT page margin halkâr):
 - **çârkûşe** — binding cover style
 
 ### Edge and endpaper decoration
+
 - **yaldızlı kenar / ağız yaldızlı** — gilt edges (gold-leaf on bookblock edges)
 - **ebrulu mukavva** — marbled boards (⚠ NOT paper decoration — binding only)
 - **ebrulu iç kapak** — marbled doublures / endpapers (binding zone, but can indicate marbled paper use)
@@ -235,7 +249,7 @@ These format terms are useful as search co-anchors: luxury formats (murakkaa, k�
 Cataloguers are inconsistent with Turkish diacritics. Always search both forms. The YEK portal explicitly instructs "Arama yaparken Türk Alfabesini kullanınız" (use the Turkish alphabet).
 
 | Standard form | Common variants to also search |
-|---|---|
+| --- | --- |
 | zerefşân | zerefşan, zerefsan, zer-efşan, zer efşan, zer-efşân, sahife kenarlar zerefşan (= zerefşān treatment extending to page margins; found in genel_notlar) |
 | ebrî | ebri, ebrû, ebru, ebrulu |
 | halkârî | halkari, halkâr, halkar |
@@ -253,13 +267,15 @@ Cataloguers are inconsistent with Turkish diacritics. Always search both forms. 
 These are the field names and values used in the YEK portal (portal.yek.gov.tr):
 
 | Field | Turkish label | Contains |
-|---|---|---|
+| --- | --- | --- |
 | kagit_ozellikleri | Kağıt Özellikleri | Paper characteristics |
 | genel_notlar | Genel Notlar | General notes |
 | tezhip_minyatur_harita_cizim | Tezhip/Minyatür/Harita/Çizim | Decoration/miniature/map field |
 
 ### Common YEK false positive terms
+
 These describe features OTHER than decorated paper:
+
 - **cetvelleri yaldızlı** — gold ruling lines only (not decorated paper)
 - **başlığı tezhipli** — illuminated headpiece only (not illuminated margins)
 - **ebrulu mukavva** — marbled board covers (not marbled paper)
@@ -277,7 +293,7 @@ Terms for identifying production context from preface, colophon, and dedication 
 ### Craftsperson Roles
 
 | Ottoman / Arabic / Persian | Transliteration | English | Notes |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | مذهّب / müzehhib | müzehhib | illuminator, gilder | Craftsperson who applies tezhip/taẕhīb decoration |
 | نقاش / nakkaş | nakkaş | designer, pattern-draughtsman | Designs illumination patterns; overlaps with müzehhib in Ottoman usage |
 | كاتب / kâtib | kâtib | scribe | Also: müstensih (copyist) |
@@ -289,7 +305,7 @@ Terms for identifying production context from preface, colophon, and dedication 
 ### Workshop Terms
 
 | Term | Transliteration | Language | Meaning |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | نقاشخانۀ همایون | nakkaşhâne-i hümâyun | Ottoman | Imperial design and illumination workshop, Istanbul |
 | نقاشخانه | nakkaşhane | Ottoman/Persian | Design workshop (generic) |
 | کارخانه | kârhâne | Ottoman/Persian | Workshop, manufactory |
@@ -297,7 +313,7 @@ Terms for identifying production context from preface, colophon, and dedication 
 ### Colophon and Preface Indicators
 
 | Term | Language | Meaning | Notes |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | كتبه / ketebe | Arabic | "he wrote" | Standard scribal formula; names the kâtib |
 | حرّره / ḥarrerahu | Arabic/Ottoman | "he wrote / composed" | Also ḥarrara; variant of ketebe formula |
 | ذهّبه / zehhebehû | Arabic | "he gilded it" | Names the illuminator/gilder in the colophon |
@@ -319,7 +335,7 @@ Terms for identifying production context from preface, colophon, and dedication 
 These textual patterns signal production context with varying confidence:
 
 | Pattern in text | Interpretation | Confidence |
-|---|---|---|
+| --- | --- | --- |
 | "nakkaşhane-i hümayun" explicit | Imperial workshop, Istanbul | very high |
 | City name explicit (Herat, Tabriz, İstanbul / Dârü's-selâm, İsfahan, Şiraz, Kahire) | Workshop city directly stated | very high |
 | Date + place at colophon | Direct production evidence | very high |
@@ -333,7 +349,7 @@ These textual patterns signal production context with varying confidence:
 ### Historical Workshops and Schools
 
 | Workshop / School | Period (approx.) | Distinctive features |
-|---|---|---|
+| --- | --- | --- |
 | Nakkaşhane-i hümayun, Istanbul | c. 1453 onwards | Rūmī-hatāyī synthesis, bulut bands, controlled palette; Bâki Nakkaş era c. 1550s; zerefşân paper standard in luxury production |
 | Herat school (Timurid) | c. 1400–1507 | Blue-and-gold palette, delicate hatāyī scrolls, lajvardina; Baysunghur's workshop c. 1420s |
 | Tabriz school (Safavid) | c. 1501–1555 | Intense lapis, more naturalistic hatāyī, Timurid synthesis; Shah Tahmāsp era peak |

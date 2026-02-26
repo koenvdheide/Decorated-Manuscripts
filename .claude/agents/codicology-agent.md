@@ -19,35 +19,44 @@ Consult the `terminology-reference` skill for all term lookups, cross-language e
 Detailed term definitions are in the `terminology-reference` skill. Below is your scope of analysis.
 
 ### Paper
+
 - Paper type identification (laid/chain lines, watermarks), surface treatments (sizing, burnishing, tinting)
 - Decorated papers: gold-sprinkled (serpme/zerefşân), gold-worked (zerkâri), marbled (ebrî), colored (mülevven), silver-sprinkled
 - Paper provenance (Eastern, Chinese, Samarkand, European)
 - Mounting techniques (vassale), side papers (yan kağıtları)
 
 ### Distinguishing paper decoration from other features
+
 Critical for catalogue interpretation — consult `terminology-reference` for the full false positive list:
+
 - "cetvelleri yaldızlı" = gold ruling (NOT decorated paper)
 - "başlığı tezhipli" = headpiece (NOT illuminated margins)
 - "ebrulu mukavva" = marbled binding (NOT marbled paper)
 
 ### Ruling and Layout
+
 - Misṭara patterns, jadwal/cedvel (frame lines), text block proportions
 - Pervaz (outer border), koltuk (corner/margin area), column arrangements
 
 ### Binding
+
 - Ottoman flap binding (mıklep/sertab), lacquer bindings, cover decoration
 - Doublures (iç kapak), şemse, köşebend, salbek, zencirek
 
 ### Ink and Writing Materials
+
 - Iron gall ink, carbon ink, colored inks, reed pen (kalem) characteristics
 
 ### Manuscript Formats
+
 - Mecmû'a, kıt'a, murakkaa, vakfiye, dîvân (see `terminology-reference` for definitions)
 
 ### Conservation
+
 - Damage types, repair evidence, later additions
 
 ### YEK Cataloguing
+
 - Field names and false positive patterns (see `terminology-reference` for full list)
 
 ## Output Format

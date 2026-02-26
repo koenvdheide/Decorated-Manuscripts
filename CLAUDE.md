@@ -19,7 +19,7 @@ This project uses Claude Code to analyze, catalog, and research decorative progr
 
 The typical analysis pipeline is:
 
-```
+```text
 User provides folio image(s)
     → motif-classifier (identify decorative elements with standardized terminology)
     → metadata-generator (produce catalog record with bibliography)
@@ -34,7 +34,8 @@ User provides folio image(s)
 - **Conditional codicology**: invoke `codicology-agent` only if the user explicitly requested material analysis, or if motif-classifier flagged date or provenance ambiguity that physical evidence might resolve.
 
 For catalogue searching:
-```
+
+```text
 User requests a search
     → yek-search (query YEK portal via Playwright MCP)
     → yek-search (filter false positives, categorize results)
@@ -59,7 +60,8 @@ User requests a search
 - **CHECKPOINT before deep analysis**: present confirmed/probable count and full verdict summary. Deep analysis (motif-classifier + codicology-agent) is optional — only proceed if the user explicitly requests it.
 
 For comparative work:
-```
+
+```text
 User provides research question
     → explore (built-in, scan project files)
     → comparative-analyst (cross-reference across corpus)
@@ -67,7 +69,8 @@ User provides research question
 ```
 
 For material/physical questions:
-```
+
+```text
 User asks about paper, binding, ruling, etc.
     → codicology-agent (physical analysis with standardized terminology)
     → metadata-generator (if a catalog record is needed)
@@ -86,7 +89,7 @@ User asks about paper, binding, ruling, etc.
 ## Agents (7 total)
 
 | Agent | Model | Role |
-|---|---|---|
+| --- | --- | --- |
 | `motif-classifier` | Opus | Visual analysis + standardized decoration terminology |
 | `codicology-agent` | Sonnet | Physical/material analysis + standardized codicological terminology |
 | `metadata-generator` | Sonnet | Catalog records + bibliography + format exports (JSON, TEI, IIIF) |
@@ -107,6 +110,7 @@ User asks about paper, binding, ruling, etc.
 ## Reference Typologies
 
 The project uses the following classification systems:
+
 - **Motif types**: Based on Déroche (2005) with extensions for Ottoman-specific forms
 - **Color nomenclature**: Munsell-based descriptions supplemented with historical pigment names
 - **Layout types**: Following Gacek (2009) terminology for page layout elements
@@ -114,6 +118,7 @@ The project uses the following classification systems:
 ## Decorated Paper Categories (from YEK research)
 
 When classifying decorated paper and margin decoration, use these categories:
+
 - **Gold-sprinkled** (serpme / zerefşân / yaldız serpme / altınlı kağıt). Subtypes: kalbur zerefşanı (sieve), fırça zerefşanı (brush)
 - **Gold-worked** (zerkâri / zer-endûd / tamamı yaldız bezemeli / zer-ender-zer)
 - **Marbled** (ebrulu / ebrî) — distinguish hatip ebru (floral) from battal ebru (stone/spotted) and gel-git/taraklı ebru (combed)
@@ -126,7 +131,9 @@ When classifying decorated paper and margin decoration, use these categories:
 - **Edge gilding** (yaldızlı kenar / ağız yaldızlı)
 
 ### Important: false positive awareness
+
 When searching Turkish catalogues, these terms describe OTHER features, not decorated paper:
+
 - "cetvelleri yaldızlı" → gold ruling lines only
 - "başlığı tezhipli" → illuminated headpiece only
 - "ebrulu mukavva" → marbled binding covers, not paper

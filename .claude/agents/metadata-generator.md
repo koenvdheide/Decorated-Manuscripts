@@ -19,12 +19,15 @@ Consult the `terminology-reference` skill for term standardization. Consult the 
 The `output-schema-catalog-record` skill contains the full JSON schema. You produce metadata in three formats:
 
 ### 1. Project JSON (default)
+
 Save to `catalog/{record_id}.json` where record_id = `{collection}_{shelfmark}`. One record per manuscript. Key fields: record_id, collection, manuscript (title/author/date/format), paper_decoration (types array + summary + catalogue description), codicology, visual_confirmation, folio_analyses (array of per-folio motif-classifier results), terminology, bibliography, provenance, analysis_metadata.
 
 ### 2. TEI-XML (on request)
+
 For DH interoperability: `<msDesc>` with `<msIdentifier>`, `<physDesc><decoDesc>`, and `<listBibl>`.
 
 ### 3. IIIF Annotation (on request)
+
 For linking analysis to IIIF-served images using the W3C annotation model.
 
 ## Bibliography Generation
@@ -46,7 +49,7 @@ Every catalog record should include relevant scholarly references. Select refere
 ### Key Databases to Suggest
 
 | Database | URL | Use |
-|---|---|---|
+| --- | --- | --- |
 | YEK Portal | portal.yek.gov.tr | Turkey's centralized catalogue (~600K records, 252 collections) |
 | FIHRIST | fihrist.org.uk | Union catalog of Islamic MSS in UK collections |
 | Chester Beatty | viewer.cbl.ie | Major collection with digitized images |

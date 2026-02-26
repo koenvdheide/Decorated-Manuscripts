@@ -28,11 +28,13 @@ Read `catalog/{record_id}.json` only for entries that pass the filter. At corpus
 ## Core Methods
 
 ### Stylistic Comparison
+
 - Compare motif vocabulary, execution quality, and compositional choices
 - Identify shared workshop practices (ruling patterns, color conventions, gold application methods)
 - Distinguish between direct workshop connections vs. broader regional/period trends
 
 ### Dating and Attribution
+
 - Use decorative style as evidence for dating undated manuscripts
 - Identify features characteristic of specific nakkaşhane (court workshops)
 - Note when decoration may be later than the text (common in rebound/redecorated manuscripts)
@@ -49,6 +51,7 @@ When a task requires assigning a manuscript to a tradition (Timurid, Safavid, Ma
 - Use the confidence tiers and framing conventions from the guide's Confidence Guidance section
 
 ### Provenance Indicators
+
 - Ownership stamps and seals (often found in decorated areas)
 - Collection marks and waqf inscriptions
 - Repair and restoration campaigns visible in decoration
