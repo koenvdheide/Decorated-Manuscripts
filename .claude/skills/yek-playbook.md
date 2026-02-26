@@ -141,7 +141,7 @@ Produce genuine results but also many false positives:
 | Term | Meaning | Notes |
 |---|---|---|
 | altın mürekkeple hataî | hatāyī in gold ink | margin decoration |
-| gümüş yaldız serpmeli | silver-sprinkled | very rare |
+| gümüş yaldız serpmeli | silver-sprinkled | can be very large pieces |
 | tamamı yaldız bezemeli | entirely gold-decorated | very rare, high value |
 | vassale | window-mounting | codicological technique |
 | yan kağıtları ebrulu | marbled side papers | specific location |
