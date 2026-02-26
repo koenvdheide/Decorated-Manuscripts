@@ -119,18 +119,27 @@ The Ottoman framing system uses layered borders around the text block:
 - **gümüş yaldız serpmeli** — silver-sprinkled (see also *sim efşan* above)
 
 ### Marbled papers
-- **ebrî / ebrulu** — marbled (general)
+- **ebrî / ebrulu** — marbled (general). Simple form `Ebru kağıt` also used as standalone kagit_ozellikleri descriptor
 - **hatip ebru** — imam's marbling: floral/vegetal motifs created in marbling trough
 - **battal ebru** — stone/spot marbling: irregular spotted or mottled pattern
 - **gel-git / taraklı ebru** — combed marbling: parallel wavy lines from combing through the marbling size
+- **vikaye yaprağı hatip ebrulu** — protective/guard flyleaf in hatip-marbled paper (flyleaf = vikaye yaprağı; confirms marbled paper at opening)
+- **yan kağıtları ebrulu** — marbled side/margin papers (distinct from text block; found at both ends of volume — check opening AND closing pages when searching)
+- **X.varak ebrulu kağıt üzeri yazılı** — folio X written on marbled paper (indicates scattered marbled leaves within a manuscript; targeted page navigation required)
+- **vassale yöntemiyle ebrulu kağıda monte edilmiştir** — text panel window-mounted onto marbled paper via vassale technique (text block is separate from the decorated paper ground; see also *vassale* in Mounting section)
+- **[Master name]'nin ebrusu tarzında** — attributed hatip ebru in the manner of a named master (e.g. "Hatip Mehmet Efendi'nin neftli sarı örneği tarzındaki enfes ebrusu"); signals a named workshop or attribution claim
 - **ebrulu mukavva** — marbled board/cover (⚠ NOT paper decoration — binding only)
 - **ebrulu cilt** — marbled binding (⚠ NOT paper decoration)
+- **kapaklar hatip ebrulu / kapak içleri ebrulu / kutusu ebrulu** — hatip-marbled binding covers / doublures / slipcase (⚠ FP patterns in kagit_ozellikleri — cataloguer error placing binding description in paper field)
+- **satıhı hatip ebrusu kaplı cild** — hatip-marbled binding cover (⚠ FP formula; sentence always ends with "cild" or "ciltlidir"; confirmed Kastamonu pattern)
 
 ### Colored papers
-- **mülevven** — colored paper
+- **mülevven** — colored paper. Simple standalone forms `Mülevven kağıt` (and `Abadî ve suyolu filigranli mülevven` — abadi paper with chain-line watermarks, colored) also used in kagit_ozellikleri
 - **mülevven cedid** — new colored paper
 - **boyalı** — dyed / painted paper
-- **renkli yaprak** — colored leaves (individual colored folios)
+- **sarı boyalı** — yellow-dyed paper (confirmed: Manisa 4620/1, 4633)
+- **renkli yaprak** — colored leaves (individual colored folios). Trailing forms: `yapraklar renkli` also used
+- **bazı yapraklar lacivert, yeşil, sarı ve mavi** — multi-colored scattered leaves (lapis, green, yellow, blue); the Manisa cataloguing phrase for manuscripts with leaves in multiple colors (Manisa 4408/1)
 - **lacivert** — lapis blue (paper color)
 
 ### Mounting and special treatments
@@ -140,6 +149,26 @@ The Ottoman framing system uses layered borders around the text block:
 - **zerefşân kâğıt** — gold-sprinkled paper
 
 ### Margin decoration
+
+#### Halkâr cataloguing phrases (genel_notlar)
+
+Genuine descriptors confirmed in YEK Batch 3:
+
+- **ilk sayfa kenarı halkârî** — first-page margin halkâr (confirmed: Kastamonu 1569)
+- **sayfa kenarları çiçek motifli halkârî** — page margins with flower-motif halkâr (Ali Nihat Tarlan 00153)
+- **şükûfe halkârî nakış** — shükûfe (flower) halkâr painting (Milli Kütüphane FB 393)
+- **halkârî tezyinatlıdır** — has halkâr ornamentation (Yazma Bağışlar 08418)
+- **derkenar halkârileriyle bezelidir** — decorated with margin halkâr paintings (Muğlalı Hoca Mustafa Efendi 00035)
+- **kenarları halkârî yaldızlı** — margins with gold halkâr (Ankara 06 Hk 4663)
+- **halkârî bezemelerle süslenmiştir** — decorated with halkâr ornaments (Turhan Valide Sultan 00150M)
+
+Binding FP descriptors (⚠ NOT page margin halkâr):
+
+- **halkârî gömme şemse** — halkâr sunken/recessed medallion (Tokat binding FP)
+- **halkârî salbek şemseli** — halkâr pendant-medallion (Tokat binding FP)
+
+#### Other margin decoration
+
 - **halkâr kenar** — halkâr-adorned margin
 - **kenar suyu** / **dış pervaz** — outer border illumination band
 - **ara suyu** / **iç pervaz** — inner border illumination band
