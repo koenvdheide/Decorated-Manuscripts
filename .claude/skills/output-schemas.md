@@ -16,8 +16,8 @@ The primary output for the `catalog/` directory. One record per manuscript (not 
     "record_id": {
       "type": "string",
       "description": "Unique ID: {collection}_{shelfmark}",
-      "pattern": "^[a-z0-9_]+$",
-      "examples": ["nuruosmaniye_03903", "amasya_beyazit_1234"]
+      "pattern": "^[a-z0-9_-]+$",
+      "examples": ["nuruosmaniye_03903", "amasya_beyazit_1234", "yusuf_aga_yy00006636-001", "esad_efendi_03292-001"]
     },
     "collection": {
       "type": "object",
@@ -139,6 +139,24 @@ The primary output for the `catalog/` directory. One record per manuscript (not 
                 "gold_technique": { "type": ["string", "null"] },
                 "position": { "type": "string" }
               }
+            }
+          },
+          "paper_decoration": {
+            "type": ["object", "null"],
+            "properties": {
+              "type": {
+                "type": "string",
+                "enum": ["gold_sprinkled", "gold_worked", "marbled", "colored", "halkar_margins", "illuminated_margins", "marginal_drawings", "framing_system", "silver_sprinkled", "edge_gilding", "mixed", "none", "other"]
+              },
+              "technique_terms": {
+                "type": "object",
+                "properties": {
+                  "ottoman": { "type": "string" },
+                  "persian": { "type": ["string", "null"] },
+                  "arabic": { "type": ["string", "null"] }
+                }
+              },
+              "details": { "type": "string" }
             }
           },
           "style_attribution": {
@@ -314,10 +332,10 @@ The primary output for the `catalog/` directory. One record per manuscript (not 
               },
               "is_false_positive": { "type": "boolean" },
               "false_positive_reason": { "type": ["string", "null"] },
-              "has_digitized_images": "boolean",
-			  "iiif_manifest_url": "string|null",
-			  "iiif_internal_id": "string|null",
-			  "digitized_page_count": "number|null"
+              "has_digitized_images": { "type": "boolean" },
+              "iiif_manifest_url": { "type": ["string", "null"] },
+              "iiif_internal_id": { "type": ["string", "null"] },
+              "digitized_page_count": { "type": ["number", "null"] },
               "confidence": { "type": "number", "minimum": 0, "maximum": 1 },
               "notes": { "type": ["string", "null"] }
             }
