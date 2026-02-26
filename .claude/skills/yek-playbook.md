@@ -97,9 +97,10 @@ Low false positive rate — almost always genuine decorated paper or margin deco
 | altın serpme | gold-sprinkled (Turkish descriptive) | genel_notlar |
 | zerkâri / zerkari | gold-worked | kagit_ozellikleri, genel_notlar |
 | zer endud (space form) | gold-applied — describes berat calligraphic decoration (tughra, nisan inscriptions), not book paper. Never use hyphen form. | genel_notlar only |
-| halkâr / halkar / halkârî / halkari | shaded gold floral painting | all three fields, prioritize genel_notlar |
-| ebrulu | marbled (in paper field only) | kagit_ozellikleri |
-| mülevven | colored paper | kagit_ozellikleri |
+| halkâr / halkar / halkârî / halkari | Shaded gold floral margin painting — **not a paper type**. Returns 0 results in kagit_ozellikleri and 0 in tezhip field. Subtype searches (`taramalı halkar`, `tahrirli halkar`) also return 0 results — skip these; subtypes are not used by YEK cataloguers. | genel_notlar only |
+| ebrulu | Marbled paper. **Use kagit_ozellikleri only.** `ebri` in kagit_ozellikleri returns 0 results — skip it. Standalone `ebru` in kagit_ozellikleri overlaps ~95% with ebrulu — low marginal value. For genel_notlar: ebrulu/ebri/ebru return 800–1,600 results with ~85% FP rate (binding covers) — skip these genel_notlar sweeps entirely. Exception: `hatip ebru` × genel_notlar (see next row). | kagit_ozellikleri |
+| hatip ebru | Floral imam's marbling — productive genel_notlar subtype search. Batch 3: 2–3 genuine from 8 total results (~25–38% precision). Use as a targeted follow-up after the ebrulu kagit_ozellikleri sweep. | genel_notlar |
+| mülevven | Colored paper — 0% FP rate in kagit_ozellikleri (Batch 3: 5/5 genuine). Also try `boyalı`, `lacivert`, `renkli yaprak` in the same field — all highly precise in kagit_ozellikleri. | kagit_ozellikleri |
 | boyalı | dyed/painted paper | kagit_ozellikleri |
 | Doğu kâğıdı | Eastern paper | kagit_ozellikleri |
 | kenar suyu | outer border illumination band | genel_notlar, tezhip field |
@@ -221,8 +222,8 @@ Rotate through **form variants** (compound vs. space, different base spellings) 
 For each core term, try the usable form variants only. Key rotations:
 
 - zerefşan → zer efşan
-- ebrî → ebrû → ebrulu
-- halkârî → halkâr
+- ebrî → ebrû → ebrulu. **Note**: `ebri` returns 0 results in kagit_ozellikleri — use `ebrulu` as primary and skip `ebri`/`ebru` separately. In genel_notlar all three are unusable at scale (800+ results, ~85% FP); only `hatip ebru` in genel_notlar is worth searching.
+- halkârî → halkâr. **Note**: both return 0 results in kagit_ozellikleri — use genel_notlar only.
 - zencirek → zencerek
 - cedvel → cetvel
 - nestaʿlîk → nasta'lik
@@ -276,6 +277,12 @@ After retrieving results, apply these filters:
 | "serpme şekilde" | "in a scattered/dispersed manner" — *şekilde* means "in the manner of"; the phrase describes writing arrangement or layout, not physical gold sprinkling | Mark false positive |
 | "İran işi zerefşân" near "mıkleli cilt" or "deri cilt" | Iranian-style gold-sprinkled leather binding — confirms a gold-sprinkled cover, not paper decoration. Confirmed: Kastamonu 459737 ("İran işi zerefşân kahverengi deri mıkleli cilt") | Mark false positive |
 | Short multi-word term (e.g. "zer endud") matched in a long genel_notlar field where the phrase does not appear as a contiguous unit | Token-split noise — İçeren matches each word independently; "zer" is a common Ottoman prefix and may appear far from "endud" in long scholarly notes. Read the full field text to confirm. | Mark false positive if phrase is not contiguous |
+| "kapaklar hatip ebrulu", "kapak içleri ebrulu", "kutusu ebrulu", "mikleb ve kapakları ebrulu" in kagit_ozellikleri | Binding components (covers, doublures, slipcase) described in the paper field — cataloguer error. The paper itself is plain; the matched term refers to a binding component | Mark false positive |
+| Entire kagit_ozellikleri field contains only "ebrulu mukavva cilt" with no paper properties | Field contains only a binding description; paper not described at all | Mark false positive |
+| "kapak içi mukavva üzerine ebru kaplı kağıt" in kagit_ozellikleri | Marbled paper applied to the inside of the binding board (doublure), not folio paper | Mark false positive |
+| "satıhı hatip ebrusu kaplı cild" in genel_notlar | Kastamonu Halk Kütüphanesi binding formula: hatip-marbled cover. Sentence always ends with "cild" or "ciltlidir" | Mark false positive |
+| "halkârî" + "şemse/salbek/köşebend/zencirek" + "mesin/mukavva/cilt" in genel_notlar | Tokat İl Halk Kütüphanesi binding formula — halkar decorates binding medallions and borders, NOT page margins. Distinguish from genuine halkar, which is described with sayfa/kenar/derkenar vocabulary rather than cilt vocabulary | Mark false positive |
+| A collection-specific FP formula applied to a result from a **different collection or different cataloguer** than the instances where the pattern was confirmed | Collection FP patterns are not universal — each cataloguer and collection has its own vocabulary. Applying a Kastamonu formula to an Ankara result, or a Tokat formula to a Çorum result, without reading the detail page, risks misclassifying genuine manuscripts. | Do **not** apply by pattern alone. Read the full detail page for the result before classifying as false positive. |
 
 **Expected false positive rates by term:**
 
@@ -304,6 +311,19 @@ Assign each genuine result to one category:
 | silver_sprinkled | gümüş yaldız serpmeli |
 | edge_gilding | yaldızlı kenar, ağız yaldızlı |
 | mixed | multiple decoration types in one manuscript |
+
+## Navigating to a Manuscript Record
+
+From the main portal, navigate directly by YEK record ID:
+
+```txt
+https://portal.yek.gov.tr/works/detail/{yek_id}
+```
+
+The `yek_id` is the integer ID stored in the search JSON (`yek_id` field). If navigating from a
+search session, the record URL is also present in the result metadata.
+
+---
 
 ## Navigating the YEK Viewer
 
@@ -350,6 +370,15 @@ When catalogue says decoration is on specific pages:
 - "kenarları halkâr" → check opening pages and section openings
 - "yan kağıtları ebrulu" → inspect margins carefully at page edges
 - "renkli yaprak" → flip through multiple folios, colored leaves may be scattered
+
+### Known IIIF Layout Quirks by Collection
+
+Some collections have non-standard IIIF page ordering. Check this table before assuming page 1 = cover:
+
+| Collection | Quirk | Workaround |
+| --- | --- | --- |
+| Manisa İl Halk Kütüphanesi | Pages 1–4 are spine and binding photographs, not manuscript folios. | Begin folio navigation from page 5 (p005) onward. |
+| Hasan Paşa Yazma Eser Kütüphanesi (Çorum) | Pages 1–5+ are scanned TUYATOK catalogue record cards, not manuscript folios. | Skip to page 6 (p006+) for actual folio images. |
 
 ### Portal reliability
 
@@ -521,5 +550,38 @@ This returns the first 3,000 characters of visible page text — still far cheap
   the data
 - The first time you encounter a portal page type you have not seen before in this session
   (e.g., first time a pagination control appears)
-- Never use a snapshot just to "confirm" a navigation that succeeded — lightweight DOM checks
-  are sufficient
+- Never use a snapshot just to "confirm" a navigation that succeeded — lightweight DOM checks are sufficient
+
+### Confirming a detail page loaded
+
+```js
+async (page) => {
+  return await page.evaluate(() => ({
+    url: location.href,
+    title: document.title.substring(0, 100),
+    has_viewer_link: !!(
+      document.querySelector('a[href*="Goruntu"]') ||
+      document.querySelector('a[href*="goruntu"]') ||
+      Array.from(document.querySelectorAll('a')).find(a => a.innerText.includes('Görüntü'))
+    )
+  }));
+}
+```
+
+If `has_viewer_link` is true, the detail page loaded correctly.
+
+### Confirming the viewer opened
+
+```js
+async (page) => {
+  return await page.evaluate(() => ({
+    url: location.href,
+    iframe_count: document.querySelectorAll('iframe').length,
+    modal_visible: !!(
+      document.querySelector('[class*="modal"][style*="display: block"]') ||
+      document.querySelector('[class*="modal"].show') ||
+      document.querySelector('[class*="viewer"]')
+    )
+  }));
+}
+```

@@ -7,7 +7,7 @@
 
 # Corpus images — excluded from git, re-downloadable from YEK portal via visual-confirmation agent
 corpus/yek_screenshots/
-corpus/visual_confirmation_batch1/
+corpus/visual_confirmation_*/
 
 # OS/editor artifacts
 .DS_Store

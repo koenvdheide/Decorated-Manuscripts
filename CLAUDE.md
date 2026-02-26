@@ -102,7 +102,7 @@ User asks about paper, binding, ruling, etc.
 - `catalog/searches/` — YEK search session results (named `search_{date}_{term}.json`)
 - `references/` — bibliography database and PDFs
 - `output/` — generated reports, visualizations, exports
-- `schemas/` — JSON schemas for metadata validation (schemas are also embedded in `.claude/skills/output-schemas.md`)
+- `schemas/` — JSON schemas for metadata validation (canonical schemas are in the individual `.claude/skills/output-schema-*.md` files)
 
 ## Reference Typologies
 
@@ -130,3 +130,5 @@ When searching Turkish catalogues, these terms describe OTHER features, not deco
 - "cetvelleri yaldızlı" → gold ruling lines only
 - "başlığı tezhipli" → illuminated headpiece only
 - "ebrulu mukavva" → marbled binding covers, not paper
+
+For the complete FP detection rule set, see `.claude/skills/yek-playbook.md`.
