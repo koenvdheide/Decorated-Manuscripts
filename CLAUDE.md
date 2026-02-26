@@ -26,17 +26,37 @@ User provides folio image(s)
     → qc-reviewer (validate before saving to catalog)
 ```
 
+**Folio analysis pipeline notes:**
+
+- **Before starting**: confirm single folio or batch; whether codicological analysis is needed; and the collection + shelfmark for the record_id.
+- **Image quality gate**: if motif-classifier flags image quality as insufficient for reliable analysis, stop immediately and ask the user whether to continue with low-confidence output or wait for a better image.
+- **CHECKPOINT after motif-classifier**: present the analysis to the user before invoking metadata-generator. Highlight unusual/hybrid features, any Mughal-origin flags (out of scope for this project), and confidence scores below 0.5. Wait for user confirmation before creating the catalog record.
+- **Conditional codicology**: invoke `codicology-agent` only if the user explicitly requested material analysis, or if motif-classifier flagged date or provenance ambiguity that physical evidence might resolve.
+
 For catalogue searching:
 ```
 User requests a search
     → yek-search (query YEK portal via Playwright MCP)
     → yek-search (filter false positives, categorize results)
-    → qc-reviewer (re-check false positive filtering)
+    → qc-reviewer (re-check false positive filtering, independently)
     → visual-confirmation (check screenshots against catalogue claims)
     → motif-classifier (deeper analysis of confirmed decorated folios)
     → metadata-generator (produce catalog records with bibliography)
     → qc-reviewer (final validation)
 ```
+
+**YEK search pipeline notes:**
+
+- **After yek-search**: run `qc-reviewer` on the saved search session JSON to independently re-check false positive classification before proceeding to visual confirmation. This is a second pair of eyes, not the final QC gate.
+- **CHECKPOINT after search**: present raw count, genuine count, false positive count and rate, any new false positive patterns not in the playbook, and notable collection clusters. Wait for user confirmation before visual confirmation.
+- **Visual confirmation verdicts** — handle each type as follows:
+  - `confirmed` / `probable` → queue for deep analysis
+  - `inconclusive` → add to MEMORY.md Pipeline Status as "blocked: needs targeted folio nav or physical exam"; retain as a real candidate, do not discard
+  - `not_confirmed` → ask user whether to discard or retain for follow-up
+  - `contradicted` → mark as false positive; do not process further
+  - `no_images` → retain as unverified candidate; note in Pipeline Status
+- **`probable` verdict**: treat as equivalent to `confirmed` for cataloguing. A `probable` result may be catalogued immediately with its confidence score — do not artificially hold it back. Add to MEMORY.md Follow-up Items if higher-confidence imaging is still desired.
+- **CHECKPOINT before deep analysis**: present confirmed/probable count and full verdict summary. Deep analysis (motif-classifier + codicology-agent) is optional — only proceed if the user explicitly requests it.
 
 For comparative work:
 ```
