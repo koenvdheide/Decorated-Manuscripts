@@ -6,8 +6,8 @@ Procedural reference for searching portal.yek.gov.tr. Used by `yek-search` and `
 
 ## Portal Overview
 
-**URL**: https://portal.yek.gov.tr
-**Advanced search**: https://portal.yek.gov.tr/works/advancedsearch/full
+**URL**: <https://portal.yek.gov.tr>
+**Advanced search**: <https://portal.yek.gov.tr/works/advancedsearch/full>
 **Registration**: Free, required for full access
 **Language**: Turkish
 **Coverage**: ~600,000 manuscript records across 252 collections in Turkey
@@ -17,6 +17,7 @@ Procedural reference for searching portal.yek.gov.tr. Used by `yek-search` and `
 The YEK portal requires login.
 
 Workflow assumes:
+
 - A persistent browser session
 OR
 - Stored cookies/session state
@@ -26,7 +27,9 @@ Credentials must NOT be stored in repository files.
 ## Search Interface
 
 ### Form structure
+
 The advanced search form has:
+
 1. A **field selector** dropdown (42 fields available)
 2. An **operator** dropdown (İçeren = contains, Eşit = equals, etc.)
 3. A **value** text input
@@ -44,6 +47,7 @@ Multiple filter rows can be added for AND-combined searches.
 - **Rows with "------" (no field selected)**: These cause a **JavaScript TypeError** and the search returns **zero results** with a stuck loading mask. The "+\ Kural Ekle" (Add Rule) button creates rows with "------" as default. Always select a field before submitting, or delete newly added rows that have no field selected.
 
 For safety:
+
 - For **single-term searches**: the default form with its 5 pre-populated empty rows is safe — no need to delete them. Just fill your target row and submit.
 - For **multi-row AND searches** (Protocol D): every filled row must have both a field selected AND a non-empty value. Empty rows with selected fields are harmless.
 - **Never submit** with a row whose field selector shows "------" — this crashes the search.
@@ -66,7 +70,9 @@ For safety:
 **Note on field evolution:** The older YEK/Yazmalar interface used **Kağıt Türü** and **Notlar** as field labels. The current portal may map these to kagit_ozellikleri and genel_notlar respectively. If field labels don't match, the categories still apply: paper treatments → paper field, ornament terms → notes/description field.
 
 ### İçeren operator behavior
+
 The İçeren (contains) operator **tokenizes multi-word queries** and matches each word independently anywhere in the field. This means:
+
 - ✅ "yaldız serpmeli" also matches "serpme yaldızlı" (catches variant word orders)
 - ⚠️ "yaldızlı kağıt" also matches "cetvelleri yaldızlı ... kağıt" (false positive)
 - ⚠️ "tezhipli" matches "başlığı tezhipli" (false positive — headpiece only)
@@ -81,6 +87,7 @@ This behavior cannot be changed. Plan for false positives and filter them after 
 ## Search Term Tiers
 
 ### Tier 1: High precision (use first)
+
 Low false positive rate — almost always genuine decorated paper or margin decoration:
 
 | Term | Meaning | Best field |
@@ -102,6 +109,7 @@ Low false positive rate — almost always genuine decorated paper or margin deco
 | teşʿîr / teşir | marginal gold drawings | genel_notlar, tezhip field |
 
 ### Tier 2: Medium precision (use second, filter carefully)
+
 Produce genuine results but also many false positives:
 
 | Term | Meaning | Common false positive |
@@ -143,6 +151,7 @@ Produce genuine results but also many false positives:
 | yaldızlı kenar / ağız yaldızlı | gilt edges | edge gilding, inconsistently recorded |
 
 ### Tier 3b: Paratext handles (indicate margin-heavy manuscripts)
+
 Not decoration terms per se, but records containing these often have elaborate framing:
 
 | Term | Meaning | Notes |
@@ -155,6 +164,7 @@ Not decoration terms per se, but records containing these often have elaborate f
 ## Search Strategy Protocols
 
 ### Protocol A: Focused search (specific decoration type)
+
 1. Search all Tier 1 terms for that type in kagit_ozellikleri
 2. Repeat in genel_notlar
 3. Repeat in tezhip_minyatur_harita_cizim
@@ -163,6 +173,7 @@ Not decoration terms per se, but records containing these often have elaborate f
 6. Categorize results
 
 ### Protocol B: Broad survey (entire collection or all types)
+
 1. Search ALL Tier 1 terms in kagit_ozellikleri
 2. Search ALL Tier 1 terms in genel_notlar
 3. Search ALL Tier 1 terms in tezhip_minyatur_harita_cizim
@@ -172,6 +183,7 @@ Not decoration terms per se, but records containing these often have elaborate f
 7. Report raw counts, filtered counts, and false positive rate per term
 
 ### Protocol C: Expanding previous results
+
 1. Review which term × field combinations were already searched
 2. Identify gaps in the search matrix
 3. Execute missing combinations
@@ -179,28 +191,35 @@ Not decoration terms per se, but records containing these often have elaborate f
 5. Report only net new finds
 
 ### Protocol D: Precision multiplier strategy
+
 Use script type and language fields as AND-filters to dramatically increase precision:
 
 **Ottoman luxury manuscripts:**
+
 - Combine yazi_turu: **talik** (also try ta'lik) with decoration terms (zerefşan, halkâr, cetvelli)
 - Ottoman evidence explicitly links taʿlîk script with zerefşan paper and halkâr margins
 
 **Persian manuscripts:**
+
 - Combine yazi_turu: **nestalik** (also try nesta'lik, nasta'lik) with decoration terms (zerefşan, zer efşan)
 - Add dili: **Farsça** for further narrowing
 - Gold-sprinkled paper clusters around 15th–16th century Timurid–Safavid production
 
 **Deluxe Qurans:**
+
 - Combine konu or eser_adi terms (mushaf, Kur'an) with margin decoration terms (kenar suyu, cetvelli, halkâr)
 
 **Albums and calligraphic specimens:**
+
 - Combine genre terms (murakka, kıt'a, levha) with paper terms (ebrulu, zerefşan)
 - Marbled paper is disproportionately associated with albums (came into vogue 17th century)
 
 ### Protocol E: Spelling variant rotation
+
 Rotate through **form variants** (compound vs. space) for key terms — cataloguer inconsistency is a major recall issue. **Do not rotate through diacritic variants** — YEK normalizes diacritics server-side, so they return identical results.
 
 For each core term, try the usable form variants only. Key rotations:
+
 - zerefşan → zer efşan (space form, superset)
 - ebrî → ebri → ebrû → ebru → ebrulu
 - halkârî → halkari → halkâr → halkar
@@ -214,6 +233,7 @@ For each core term, try the usable form variants only. Key rotations:
 ### Protocol F: Process vocabulary over motif vocabulary
 
 When you need precision, prefer terms that name a **production process** over terms that name a **motif**:
+
 - HIGH precision: zerefşan, ebrulu, cetvelli, zencirek (process/structure terms)
 - LOW precision: bulut, rûmî, hataî (motif terms — too many non-margin uses)
 - EXCEPTION: bulut and hataî become useful when combined with margin/border terms as co-anchors
@@ -259,6 +279,7 @@ After retrieving results, apply these filters:
 | Short multi-word term (e.g. "zer endud") matched in a long genel_notlar field where the phrase does not appear as a contiguous unit | Token-split noise — İçeren matches each word independently; "zer" is a common Ottoman prefix and may appear far from "endud" in long scholarly notes. Read the full field text to confirm. | Mark false positive if phrase is not contiguous |
 
 **Expected false positive rates by term:**
+
 - Tier 1 terms: ~5–10%
 - Tier 2 terms: ~30–50%
 - "ebrulu" in notes field: ~85% (binding covers)
@@ -288,7 +309,9 @@ Assign each genuine result to one category:
 ## Navigating the YEK Viewer
 
 ### Accessing digitized images
+
 From a manuscript detail page, look for:
+
 - "Görüntüle" button or "Dijital Kopyalar" section
 - Viewer opens with folio thumbnails on the side
 
@@ -314,13 +337,16 @@ All saved screenshots should follow this pattern:
 - `{method}` — `view` for Playwright viewer captures, `iiif` for IIIF direct downloads
 
 **Examples:**
+
 - `nuruosmaniye_03880_p007_iiif.png` — page 7 fetched via IIIF
 - `nuruosmaniye_03821_p007_view.png` — page 7 captured from viewer during discovery navigation
 
 Date is recorded in the visual confirmation JSON, not in the filename. Do not include dates in filenames.
 
 ### Targeted navigation
+
 When catalogue says decoration is on specific pages:
+
 - "ilk iki sayfa zerkârî" → navigate past cover to first text opening
 - "kenarları halkâr" → check opening pages and section openings
 - "yan kağıtları ebrulu" → inspect margins carefully at page edges
