@@ -20,7 +20,7 @@ Single source of truth for all technical terminology used in this project. Agent
 | Ruling / frame lines | cedvel | jadwal (جدول) | jadval | ruling lines / frame |
 | Ruling process | cetvel çekmek | — | jadval-kešī (جدول کشی) | rule-drawing / frame construction |
 | Bookbinding | cilt | jild (جلد) | jild | binding |
-| Gold-sprinkling | serpme / zerefşân | dhahab marsūsh (ذهب مرشوش) | zarafshān / afšān (افشان) | gold-sprinkled |
+| Gold-sprinkling | serpme / zerefşân | dhahab marshūsh (ذهب مرشوش) | zarafshān / afšān (افشان) | gold-sprinkled |
 | Gold-on-gold | — | — | zer-ender-zer (زراندرزر) | gold layered on gold |
 | Gold-worked | zerkâri | — | zarkārī (زرکاری) | gold-worked |
 | Marbled paper | ebrî / ebrulu | — | abrī (ابری) / kāġaḏ-e abrī | marbled |
