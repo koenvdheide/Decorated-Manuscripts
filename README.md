@@ -15,6 +15,7 @@ The project uses [Claude Code](https://claude.ai/code) with seven specialized AI
 - Silver-sprinkled (*gümüş yaldız serpmeli*)
 - Stenciled paper — pigment applied through pre-cut masks; no standardized Turkish catalogue term
 - Silhouetted paper — pattern impressed between sheets with pigmented intermediate sheet
+- Impressed / relief paper — pattern pressed between engraved matrices without pigment; deformation only
 - Block-printed paper — carved wooden block pressed onto paper
 
 **Margin decoration**:
@@ -30,7 +31,7 @@ The project uses [Claude Code](https://claude.ai/code) with seven specialized AI
 
 ## Pipeline Architecture
 
-Five analysis pipelines, all orchestrated through Claude Code:
+Four analysis pipelines, all orchestrated through Claude Code:
 
 ```text
 Image analysis:
@@ -40,9 +41,9 @@ YEK catalogue search:
   Search request → yek-search → yek-search (filter FPs) → qc-reviewer
                 → visual-confirmation → motif-classifier → metadata-generator → qc-reviewer
 
-Visual triage (album screening):
-  Collection list → yek-search (browse thumbnails) → quick positive/negative calls
-                  → queue positives for IIIF follow-up or deep analysis
+  Visual triage variant (album screening):
+    Collection list → yek-search (browse thumbnails) → quick positive/negative calls
+                    → queue positives for IIIF follow-up or deep analysis
 
 Comparative analysis:
   Research question → Explore → comparative-analyst → metadata-generator
@@ -51,7 +52,7 @@ Material/codicological questions:
   Physical question → codicology-agent → metadata-generator (if record needed)
 ```
 
-The **visual triage** pipeline is used for rapidly screening large album collections (e.g., murakka calligraphy albums) where full search + visual confirmation would be impractical. The agent browses YEK viewer thumbnails, makes quick positive/negative decoration calls, and queues positives for deeper analysis.
+The **visual triage** variant of the search pipeline is used for rapidly screening large album collections (e.g., murakka calligraphy albums) where full search + visual confirmation would be impractical. The agent browses YEK viewer thumbnails, makes quick positive/negative decoration calls, and queues positives for deeper analysis.
 
 ## Agents
 
@@ -121,8 +122,8 @@ Several directories are gitignored because their contents are either session-spe
 
 - **`corpus/`** — Folio screenshots captured during `visual-confirmation` runs. Regenerable by re-running the agent against the YEK portal.
 - **`catalog/searches/`** and **`catalog/temp/`** — Search session JSON files and intermediate folio analyses. Generated during pipeline runs.
-- **`memory/`** — Detailed search history log referenced by `MEMORY.md`.
-- **`MEMORY.md`** — Live operational state. Regenerated from `catalog/` data and session logs.
+- **`memory/`** — Detailed search history log, referenced from `MEMORY.md`.
+- **`MEMORY.md`** — Live operational state, maintained by agents each session.
 
 ## Setup
 

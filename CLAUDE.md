@@ -98,6 +98,40 @@ User asks about paper, binding, ruling, etc.
 | `visual-confirmation` | Opus | Screenshot verification of catalogue claims |
 | `qc-reviewer` | Opus | Quality control on all pipeline outputs |
 
+## Parallel Browser Isolation (playwright-multi)
+
+The `playwright-multi` MCP proxy (`scripts/mcp-proxy.mjs`) enables multiple subagents to use separate headless browsers concurrently. Each agent gets its own browser instance via a `context_id` parameter.
+
+**Key rules:**
+
+- Agents that need browser access (`visual-confirmation`, `yek-search`) must use `mcp__playwright-multi__*` tools, NOT `mcp__plugin_playwright_playwright__*`. Their agent definitions should only list the multi tools — if both are available, agents tend to default to the standard (shared) ones.
+- Every `mcp__playwright-multi__*` call MUST include a `context_id` (e.g. `"slot1"`, `"slot2"`). Each unique ID spawns a separate headless Chromium process. Without it, all calls route to a shared `"default"` context.
+- The proxy supports up to 12 concurrent children (`MAX_CHILDREN`). Calling `browser_close` with a `context_id` destroys that child process and frees the slot.
+- Each headless browser starts unauthenticated. Agents must check for login redirect and authenticate via `.env` credentials (`YEK_USERNAME`, `YEK_PASSWORD`) before accessing portal pages.
+- Include the assigned `context_id` in every agent prompt — agents do not inherit context_id automatically.
+
+**Launching parallel agents:**
+
+```text
+Task(subagent_type="visual-confirmation", prompt="...context_id: slot1...")  ← background
+Task(subagent_type="visual-confirmation", prompt="...context_id: slot2...")  ← background
+Task(subagent_type="visual-confirmation", prompt="...context_id: slot3...")  ← background
+```
+
+Each agent logs in independently, navigates its own pages, and writes its own output files. No browser contention.
+
+## Credentials
+
+YEK portal credentials are in `.env` (project root): `YEK_USERNAME`, `YEK_PASSWORD`. This file is gitignored. Never commit credentials or display them in output.
+
+## Dedup Registry
+
+`catalog/searches/dedup_registry.json` tracks all searched term × field combinations and known YEK IDs across sessions. Before running any YEK search, check it to avoid duplicate work. After completing a search, update it with new combinations and any new YEK IDs encountered.
+
+## Token Efficiency
+
+- When reading catalogue metadata from YEK detail pages, use `browser_run_code` to extract text content — NOT `browser_snapshot`, which returns the full DOM tree and consumes excessive tokens. Reserve `browser_snapshot` for form interaction where you need element refs.
+
 ## Data Directories
 
 - `corpus/` — manuscript images organized by collection
@@ -115,20 +149,9 @@ The project uses the following classification systems:
 - **Color nomenclature**: Munsell-based descriptions supplemented with historical pigment names
 - **Layout types**: Following Gacek (2009) terminology for page layout elements
 
-## Decorated Paper Categories (from YEK research)
+## Decorated Paper Categories
 
-When classifying decorated paper and margin decoration, use these categories:
-
-- **Gold-sprinkled** (serpme / zerefşân / yaldız serpme / altınlı kağıt). Subtypes: kalbur zerefşanı (sieve), fırça zerefşanı (brush)
-- **Gold-worked** (zerkâri / zer-endûd / tamamı yaldız bezemeli / zer-ender-zer)
-- **Marbled** (ebrulu / ebrî) — distinguish hatip ebru (floral) from battal ebru (stone/spotted) and gel-git/taraklı ebru (combed)
-- **Colored** (mülevven / boyalı / renkli yaprak / lacivert)
-- **Halkâr margins** (halkâr / halkârî margin painting). Subtypes: taramalı (hatched), tahrirli (outlined)
-- **Illuminated margins** (tezhipli kenar / kenar tezhibi / kenar süsleme / kenar suyu / dış pervaz)
-- **Marginal drawings** (teşʿîr / tashʿīr — fine-line gold drawings of animals, plants, landscapes in margins)
-- **Framing systems** (cetvelli / altın cetvelli / zencirek — multi-line ruling and chain borders)
-- **Silver-sprinkled** (gümüş yaldız serpmeli) — rare
-- **Edge gilding** (yaldızlı kenar / ağız yaldızlı)
+See `.claude/skills/terminology-reference.md` for the full decorated paper taxonomy (14 categories with Turkish/Arabic/Persian terms and subtypes).
 
 ### Important: false positive awareness
 
