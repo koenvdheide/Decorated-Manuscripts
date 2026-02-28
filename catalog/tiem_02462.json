@@ -1,0 +1,548 @@
+{
+  "record_id": "tiem_02462",
+  "collection": {
+    "institution": "Türk ve İslam Eserleri Müzesi",
+    "city": "Istanbul",
+    "country": "Turkey",
+    "shelfmark": "02462",
+    "yek_url": "https://portal.yek.gov.tr/works/detail/705399"
+  },
+  "manuscript": {
+    "title": "Muraqqaʿ / مرقع",
+    "title_script": "مرقع",
+    "title_alt": "Hadis-i Şerif Muraqqaʿı — Hâtip Ebrûlu Muraqqaʿ",
+    "author": null,
+    "author_dates": null,
+    "calligrapher": null,
+    "calligrapher_dates": null,
+    "calligrapher_note": "The YEK catalogue explicitly records that this album contains no calligrapher name (hattat adı bulunmamaktadır). The album comprises 12 calligraphic specimens (yazılar) in six distinct script types — muhakkak, reyhânî, sülüs, nesih, nestaʿlîk, and tevkîʿ — an exceptionally diverse script repertoire for a single undated, anonymous album. This variety suggests the album may have functioned as a systematic demonstration piece or meşk (practice collection) showcasing the six principal Arabic and Persianate scripts, rather than a single calligrapher's work. Alternatively, it may be a collected album (murakkaat) assembling kıtʿa specimens from multiple hands and sources. The anonymous, undated character and the pedagogically comprehensive script range are consistent with an Ottoman meşk muraqqaʿı or a compilation album assembled for instructional or reference purposes. The use of gold-ink sülüs lines (pp. 003, 006 lower panels) suggests at least some pieces were produced by an accomplished practitioner rather than a student.",
+    "date_ah": null,
+    "date_ce": null,
+    "date_note": "No date is recorded in the YEK catalogue or visible in the IIIF images. The hatip ebru covers — with their large globular floral rosettes (gül forms) in pink/rose and dark grey-blue on a cream marbled ground — are consistent with Ottoman Istanbul marbling production of the 18th–early 19th century, when the hatip technique reached its peak of elaboration. The polychrome floral margin decoration (pink/rose painted floral strips) on interior pages also fits an 18th-century Ottoman context. The combination of six script types including nestaʿlîk and tevkîʿ alongside the Arabic scripts may indicate an 18th-century or later compilation, when script diversity in muraqqaʿ albums was commonly exploited for didactic or encyclopaedic purposes. A tentative range of c. 12th–early 13th century AH / c. 18th–early 19th century CE is proposed on stylistic grounds, pending physical examination.",
+    "place_of_copy": null,
+    "format": "Muraqqaʿ / مرقع — calligraphic album with matched hatip ebru (silhouette marbled paper) covers, polychrome floral margin decoration on interior pages, and cetvelli vassale construction throughout",
+    "format_note": "A bound Ottoman calligraphic album (muraqqaʿ) comprising 12 yaprak (12 folios = 24 sides) of calligraphic specimens in six script types. The YEK catalogue dimensions (250×140 mm outer; muhtelif × muhtelif writing area) reflect the typically variable panel sizes within the vassale-mounted format. The album's primary distinction is its matched pair of hatip ebru covers (pp. 001 and 008): identical in technique and rosette design, they represent a deliberately coordinated binding program. The interior pages (pp. 002–007) present a two-level decorative program: (a) simple cetvelli framing (2–3 ruling lines) around each vassale-mounted calligraphy panel; and (b) polychrome painted floral decoration in the margins, visible on pp. 003–006. The floral margin decoration takes two forms: a pink/rose pigment version with naturalistic flowers, buds, and vine scrolls (pp. 004 and 006, and the upper margin of p003 and p006); and a cream/gold-tone arabesque-scroll ground used as the writing surface for gold-ink calligraphy panels (pp. 003 lower, 006 lower). The combination of hatip ebru covers + polychrome painted margins + gold-ink calligraphy on arabesque grounds makes this album one of the most technically layered anonymous muraqqaʿ albums in the TIEM corpus. YEK total pages: 8 (= 2 covers + 6 interior openings). Physical folio count: 12 yaprak (12 leaves).",
+    "language": "Arabic",
+    "script": "Muhakkak (محقق), Reyhânî (ريحاني), Sülüs (ثلث), Nesih (نسخ), Nestaʿlîk (نستعليق), Tevkîʿ (توقيع) — per YEK catalogue: 'Arap harfli — Muhakkak, Reyhânî, Sülüs, Nesih, Nestaʿlîk, Tevkîʿ'. Six distinct script types in a single album is among the most diverse in the project corpus. The IIIF images confirm sülüs (large sweeping thuluth strokes, pp. 002–007 main panels) and gold-ink sülüs (pp. 003 lower and 006 lower panels, with arabesque ground). Nesih is visible in smaller subsidiary lines. Nestaʿlîk and tevkîʿ are documented by the YEK catalogue but their specific folio locations are not independently verifiable from IIIF images at download resolution.",
+    "dimensions_mm": {
+      "height": 250,
+      "width": 140,
+      "writing_area_mm": {
+        "height": null,
+        "width": null,
+        "note": "muhtelif × muhtelif (variable) per YEK catalogue — individual kıtʿa panels vary in size within the vassale-mounted format"
+      },
+      "note": "Outer dimensions 250×140 mm per YEK catalogue (portrait format, relatively narrow — one of the narrower muraqqaʿ albums in the corpus, compare tiem_02437 at 285×218 mm and tiem_02490 at 270×200 mm)"
+    },
+    "folio_count": 12,
+    "yek_id": "705399",
+    "iiif_id": "0000000662612",
+    "notes": "A technically diverse anonymous muraqqaʿ album distinguished by three converging features: (1) a matched pair of hatip ebru covers with large globular gül/rosette motifs — the third confirmed hatip ebru specimen in the project corpus after tiem_02490 and damad_ibrahim_pasa_00027; (2) polychrome painted floral margin decoration in pink/rose pigment on interior pages, an unusual non-gold form of margin decoration that places this album in a distinct sub-category from the gold-only halkâr and teşʿîr programs dominant in the corpus; and (3) gold-ink sülüs calligraphy on arabesque-scroll grounds (pp. 003 lower, 006 lower), where the entire calligraphy panel background is decorated with a dense interlocking scroll pattern (islimiî / arabesque) that serves simultaneously as the paper decoration and the calligraphic ground — a technique distinct from both zerefşân (sprinkled) and zerkâri (worked) paper decoration. The album's six-script programme (muhakkak, reyhânî, sülüs, nesih, nestaʿlîk, tevkîʿ) and anonymous/undated status are consistent with an encyclopaedic or didactic album assembled for systematic demonstration of the classical Arabic scripts and their Ottoman variants. YEK catalogue entry by Nalan Kutsal; paper (kâğıt özellikleri) and decoration (tezhip/minyatür) fields are null in the YEK record — all decoration observations derive from visual examination of IIIF images."
+  },
+  "paper_decoration": {
+    "types": [
+      "marbled",
+      "halkar_margins",
+      "framing_system"
+    ],
+    "summary": "TIEM 02462 presents a three-part decorative program distributed across its eight pages:\n\n(1) HATIP EBRU — MATCHED PAIR (covers, pp. 001 and 008): The front and back covers are covered with a single hatip ebru (silhouette marbled paper) design in a closely matched pair — almost certainly pulled from the same trough session or from a repeated setup. The dominant motif is a large, globular rosette (gül) form: a rounded circular pink/rose center approximately 3–4 cm in diameter, surrounded by a ring of dark grey-blue rounded-lobed petals with pointed tips that project outward like rays. The petals are separated by narrow slots where the cream-beige ground shows through, giving a star-burst or chrysanthemum-like character. A small green accent is visible at some petal tips or bases in both front and back covers. The marbled ground is a battal ebru (stone marbled) cream/pale beige field with a characteristic white vein network, on which the rosette motifs are distributed across the full cover surface at roughly regular intervals — approximately 9–11 rosettes per cover at the scale of the 250×140 mm format. Library accession labels 'T 2462' (and secondary numerical label) are affixed to the front cover (p001). A faint circular stamp impression is visible at the center of the back cover (p008). Compared to tiem_02490's hatip ebru covers, which display elongated tulip-tulip and heart-shaped motifs in a flowing palette of pink-rose-burgundy-brown, the 02462 covers show a more regularized, circular-rosette form with a cooler grey-blue petal outline — suggesting a different marbling master or period. The 02462 rosette is more akin to a stylized carnation (karanfil) or rose (gül) in its compact, symmetrical form.\n\n(2) POLYCHROME FLORAL MARGIN DECORATION — PINK/ROSE STRIPS (interior pages, pp. 003–006): Multiple interior pages show painted floral decoration in the margins around the calligraphy panels. This decoration takes the form of narrow strips or bands of naturalistic pink/rose flowers, buds, and vine scrolls painted directly on the cream margin paper at the upper and sometimes lower edges of each calligraphy panel. On p004 (upper panel), the floral strip runs across the full width of the panel's upper margin and is clearly visible as a band of pink-pigment flowers (roses/peonies with curving stems and bud forms) against the cream margin. On p006 (upper panel), a similar pink floral strip decorates the upper margin. On p003, small blue/purple fleur-de-lis or leaf forms appear at the upper corners of the top panel. This polychrome pink-pigment margin decoration is classified as a light form of halkâr (painted floral margin painting), but employs pink pigment rather than the gold standard of classical halkâr — placing it in a distinct sub-category closer to şükûfe (flower painting) or nakış (painted ornament) in the margins. It is the most unusual decorative feature of the album's interior program. Parallels in the corpus: milli_kutuphane_fb393 (şükûfe halkârî in gold-and-color) and muglali_hoca_mustafa_00035 (polychrome halkâr in red/green/gold).\n\n(3) ARABESQUE-GROUND CALLIGRAPHY PANELS (pp. 003 lower, 006 lower): At least two panels in the album deploy gold-ink sülüs calligraphy written on a cream ground completely covered with a dense interlocking arabesque or scroll pattern — a decorative system visible in the lower panels of p003 and p006. On p003 (lower panel), large gold thuluth/sülüs letters reading 'al-Taḥiyyāt al-Sulṭān Ẓillallāh fi'l-arḍ' are written over a background of dense, painted arabesque scrollwork in a warm gold-cream tone. On p006 (lower panel), a similar gold sülüs text is written over a comparable arabesque-scroll ground. This technique — painting the entire panel background with arabesque scrollwork before or after writing the calligraphy — is distinct from both zerefşân and zerkâri paper decoration and functions as a calligraphic embellishment rather than decorated paper per se. It is classified under halkar_margins as the closest structural equivalent, though it belongs more precisely to the tradition of müzehheb kıtʿa (gilded/illuminated calligraphy specimen sheets).\n\n(4) CETVELLI VASSALE FRAMING (all interior pages, pp. 002–007): All calligraphy panels are vassale-mounted (cut-and-window-mounted onto the margin sheets) and surrounded by a simple 2–3 line cetvelli ruling system. The framing is functional rather than elaborate — significantly simpler than the multi-band compound cetvelli systems of tiem_02490, tiem_02429, or tiem_02437. Red seal stamps (lower left of most pages) are consistent with TIEM accession practice.",
+    "distribution_notes": "Hatip ebru: front cover (p001) and back cover (p008) — matched pair. Pink floral margin decoration: upper margins of pp. 003, 004, 006; possibly also p005. Arabesque-ground gold calligraphy panels: p003 lower panel and p006 lower panel. Simple cetvelli framing: all interior pages pp. 002–007. The decorative hierarchy is: hatip ebru (outermost/covers) → polychrome floral margins (intermediate layer in selected openings) → cetvelli + vassale (innermost frame around calligraphy).",
+    "technique_terms": {
+      "ottoman": "hâtip ebrûsu / hâtip ebrûlu kâğıt (siluet ebrûsu); gül / rosette motif (pembe çiçek + koyu gri-mavi yaprak halkası); battal ebrû zemini; pembe çiçekli kenar nakışı / şükûfe kenar bezemesi; arabeski zeminli kıtʿa; cetvelli; vassale (pencere takma tekniği); muraqqaʿ / murakkaat",
+      "persian": "abri-ye ḥāṭib (ابری حاطب) — silhouette marbled paper; abri-ye sangī (ابری سنگی) — battal/stone marbled ground; halkārī-ye rang-āmīz (حلکاری رنگ آمیز) — polychrome painted margin decoration; islīmī (اسلیمی) — arabesque scroll ground; jadval (جدول) — ruling frame",
+      "arabic": "waraq muʿarraq bi-al-ḥāṭib (ورق معرّق بالحاطب) — silhouette marbled paper; gul / ward (گل / ورد) — rose/rosette motif in the marbling; tazwīq al-hāmish bi-al-zuhūr al-mulawwana (تزويق الهامش بالزهور الملوّنة) — margin decoration with colored flowers; jadwal mudhahdhab (جدول مذهّب) — gold-ruled frame; muraqqaʿ (مرقع) — calligraphic album"
+    },
+    "catalogue_description": {
+      "paper_field": null,
+      "paper_field_normalized": null,
+      "paper_field_translation": null,
+      "notes_field": "Hadis-i şeriflerin yer aldığı, farklı hat türlerinde 12 yazıdan oluşan bu murakkada hattat adı ve tarih bulunmamaktadır.",
+      "notes_field_normalized": "Hadis-i şeriflerin yer aldığı, farklı hat türlerinde 12 yazıdan oluşan bu murakkada hattat adı ve tarih bulunmamaktadır.",
+      "notes_field_translation": "This album consisting of 12 calligraphic specimens in different script types, containing hadith (prophetic sayings), has no calligrapher name or date.",
+      "decoration_field": null,
+      "source": "YEK portal, genel notlar field, record 705399, Türk ve İslam Eserleri Müzesi. Catalogued by Nalan Kutsal. Kâğıt özellikleri and tezhip/minyatür fields are null in the YEK record — all paper decoration observations derive from visual examination of IIIF images (all 8 pages, IIIF ID: 0000000662612)."
+    }
+  },
+  "workshop_attribution": {
+    "primary_tradition": "ottoman",
+    "workshop_centre": "Istanbul",
+    "date_range_ce": "18th century, probable (c. 1700–1830)",
+    "confidence": 0.70,
+    "key_indicators": [
+      "Hatip ebru covers with large circular gül/rosette motifs in pink/rose and grey-blue are consistent with Ottoman Istanbul marbling production, where the hatip technique was practiced and developed from the 17th century through the 19th century. The specific globular, symmetrical rosette form — distinct from the more elongated botanical forms of 17th-century hatip prototypes — points toward 18th-century Istanbul marbling.",
+      "The six-script program (muhakkak, reyhânî, sülüs, nesih, nestaʿlîk, tevkîʿ) including Persian nestaʿlîk alongside Arabic scripts is characteristic of later Ottoman compilatory albums that systematically represented the classical script repertoire — a practice more common in 18th-century Istanbul than in earlier periods.",
+      "The polychrome pink-pigment floral margin decoration (painted flower strips) is consistent with 18th-century Ottoman decorative practice, when naturalistic floral painting in manuscripts and albums was popularized by the Tulip Era (Lâle Devri, c. 1718–1730) and subsequent Ottoman Baroque idiom.",
+      "Gold-ink sülüs on arabesque-scroll grounds (pp. 003, 006 lower panels) is a technique documented in Ottoman kıtʿa production from the 17th–18th centuries, typically in Istanbul workshop products.",
+      "The album's narrow format (250×140 mm) and simple cetvelli framing — less elaborate than the compound multi-band cetvelli of Hâfız Osmân–era albums — are consistent with a provincial or modest Istanbul production rather than court-level luxury commission."
+    ],
+    "cross_tradition_caveats": [
+      "No date or calligrapher name is recorded, making attribution entirely dependent on stylistic evidence from photographs. All conclusions are provisional.",
+      "The hatip ebru technique was practiced across the Ottoman Empire and in Iran, not exclusively in Istanbul; regional workshops in Anatolia or Egypt are not excluded.",
+      "The six-script program is unusual for a single artist and may indicate a compiled album assembled from multiple sources or multiple hands over time, which would complicate any unified attribution.",
+      "The pink floral margin decoration could represent a later addition to the album rather than original production, potentially by a different hand or in a different period from the calligraphy panels.",
+      "Physical examination is required to determine paper origin, ink composition, and the precise relationship between the decoration layers."
+    ]
+  },
+  "codicology": {
+    "paper": {
+      "color": "Two paper types visible: (1) cream/beige hatip ebru for covers (pp. 001, 008); (2) cream/off-white burnished paper for calligraphy panels (interior, all pages). The margin papers surrounding the calligraphy panels are also cream/off-white, with no strong uniform coloring that would confirm mülevven status. The 'colored mulevven' triage designation is downgraded to probable (0.65) — the visual warmth of the margin papers on pp. 004–006 appears to derive primarily from the painted pink floral decoration and from age-related patina rather than from intentional paper dyeing.",
+      "preparation": "The calligraphy panels are written on âharlı (sized and burnished) cream paper consistent with Ottoman luxury calligraphy paper. The gold-ink panels (pp. 003 lower, 006 lower) have an arabesque-scroll design covering the full panel background, suggesting the paper received elaborate surface preparation or the arabesque was painted on the calligraphy support before or after writing. The hatip ebru covers have the characteristic organic surface of marbled paper — slightly raised from the pigment deposits, with the visible crackle pattern indicating some age-related surface change in the marbling layer.",
+      "weight": "The album's narrow format (250×140 mm) and compact 12-yaprak structure suggest standard Ottoman album-weight paper. The cover boards appear thin rather than heavy, consistent with a modest rather than luxury binding. Indeterminate from IIIF images; physical examination required.",
+      "decoration": "See paper_decoration section. Hatip ebru on covers; pink floral margin painting and arabesque-scroll panel grounds on interior pages; simple cetvelli ruling throughout.",
+      "paper_type": "Eastern/Oriental (doğu kâğıdı) for calligraphy panels; marbled (hatip ebrulu) for covers."
+    },
+    "ruling": {
+      "system": "Simple 2–3 line cetvelli (ruled) framing around each vassale-mounted calligraphy panel. The ruling system is functional and relatively plain — significantly less elaborate than the compound multi-band cetvelli systems seen in tiem_02490 or tiem_02429. No consistent gold ruling is visible; the ruling appears to be in dark ink or a single gold line, with thin colored inner rules.",
+      "description": "Each calligraphy opening presents two stacked calligraphy panels (upper and lower), each framed independently by cetvelli ruling. The upper and lower panels are separated by a narrow gap rather than a shared frame, giving the page a two-panel compartmentalization typical of 18th-century Ottoman muraqqaʿ albums. On most pages, the ruling consists of an outer dark line, a narrow filler band, and an inner thin line immediately surrounding the cream calligraphy support. On pp. 004 and 006, the floral strip decorates the space between the upper ruling line and the calligraphy panel top — occupying the marginal space within the cetvel system rather than outside it. Small red/purple seal stamps (TIEM accession marks) appear at the lower left of most interior pages."
+    },
+    "binding": {
+      "cover_description": "Both front (p001) and back (p008) covers are covered in hatip ebru paper that is either the cover material itself or a paper pastedown over thin boards. The cover construction appears to be a simple wrapped paper-over-board format rather than leather — the dark binding strip visible at the spine edges of pp. 001 and 008 is consistent with a leather spine strip on an otherwise paper-covered album. The hatip ebru cover surface is the decorative finish. No gilt shamsa, no leather, and no lacquer are visible on the cover exteriors. This is a relatively simple Ottoman album binding in which the marbled paper is the primary decorative element, in contrast to the gilt-shamsa red leather bindings of tiem_02437 or tiem_02429 or the lacquer binding of tiem_02649.",
+      "cover_type": "Hâtip ebrûlu cilt — hatip-marbled paper-over-board binding with leather spine strip",
+      "notes": "The matched pair of hatip ebru covers — with near-identical rosette motif distribution on both front and back — indicates that the two covers were covered with paper from the same marbled sheet, cut and pasted on both boards. This matched-pair construction (using adjacent or paired pulls from the same marbling session) is directly paralleled in tiem_02490, where both covers show the same botanical motif program. It represents a deliberate design choice in which the binding covers are conceived as a symmetrical unit rather than two independent surfaces."
+    },
+    "format": "Muraqqaʿ — Ottoman calligraphic album (12 yaprak / 8 IIIF pages = 2 covers + 6 interior openings × 2 pages each)",
+    "condition_summary": "The album is in generally fair-to-good condition. The hatip ebru covers show surface cracking and some loss of the marbling pigment layer, particularly visible on the back cover (p008) where more extensive wear and abrasion are present. The front cover (p001) is better preserved, with the pink and grey-blue of the rosette motifs still vivid. The interior pages are generally legible; some foxing and staining are visible on pp. 002–003. The arabesque-ground calligraphy panels (pp. 003, 006 lower) appear intact. The binding is intact and the album is complete at 12 yaprak, consistent with the YEK catalogue record.",
+    "conservation_history": null
+  },
+  "visual_confirmation": {
+    "verdict": "confirmed",
+    "confidence": 0.93,
+    "screenshots_examined": 8,
+    "folios_examined": [
+      "corpus/iiif/tiem_02462_p001.jpg",
+      "corpus/iiif/tiem_02462_p002.jpg",
+      "corpus/iiif/tiem_02462_p003.jpg",
+      "corpus/iiif/tiem_02462_p004.jpg",
+      "corpus/iiif/tiem_02462_p005.jpg",
+      "corpus/iiif/tiem_02462_p006.jpg",
+      "corpus/iiif/tiem_02462_p007.jpg",
+      "corpus/iiif/tiem_02462_p008.jpg"
+    ],
+    "visual_evidence": "All 8 IIIF pages examined at native resolution (1.5–3.1 MB each). (1) HATIP EBRU CONFIRMED (0.97): Front cover (p001) displays large circular gül/rosette motifs — approximately 10–11 per cover — each with a rounded pink/rose center (c. 3–4 cm diameter) surrounded by a ring of dark grey-blue rounded lobed petals (8–10 petals per rosette) with pointed ray-tips. Tiny green accents visible at petal bases. Cream/beige battal ebru ground with white marbled vein network clearly visible between rosettes. Back cover (p008) displays matching design: same rosette scale, same grey-blue/pink/cream palette, same petal morphology. Slightly more wear on back cover but clearly the same marbled sheet design (matched pair confirmed). Library label 'T 2462' and secondary label on front; faint circular stamp at center of back. (2) POLYCHROME FLORAL MARGINS CONFIRMED (0.88): P003 upper panel: small blue/purple fleur-de-lis or triangular leaf forms at the two upper corners of the panel — functioning as simplified koltuk ornaments. P004 upper panel: a narrow pink/rose floral strip decorates the full upper margin of the panel — naturalistically rendered flowers (rose/peony forms) with curving vine stems and bud forms in pink pigment clearly visible against the cream margin. P006 upper panel: similar pink floral strip across the upper margin. These strips are distinct from standard halkâr (which is gold-only): the pink pigment is applied directly without gold, constituting a polychrome painted margin decoration. (3) ARABESQUE PANEL GROUNDS (0.90): P003 lower panel: large gold sülüs letters (reading 'al-taḥiyyāt al-sulṭān ẓillallāh fi'l-arḍ') are written over a dense arabesque scroll background covering the entire panel surface — the scrollwork is painted in a warm gold-cream ink creating a uniform pattern of interlocking spirals across which the calligraphy is written. P006 lower panel: gold sülüs text similarly written over arabesque-scroll ground. (4) CETVELLI + VASSALE CONFIRMED (0.92): All interior pages show clear vassale boundaries (straight seam between white calligraphy paper and cream margin sheet, most visible on p004 where the floral margin strip emphasizes the panel border). Simple 2–3 line cetvelli ruling around all panels. (5) COLORED MULEVVEN STATUS DOWNGRADED TO PROBABLE (0.65): The margin papers do not show the vivid uniform coloring of confirmed mülevven specimens (compare tiem_02649 deep red/blue/green, hamidiye_00010 dark lacivert). The marginal warmth on pp. 003–006 is consistent with surface-applied decoration and age patina rather than dyed paper stock.",
+    "limitations": [
+      "No date or calligrapher name is inscribed or independently readable from IIIF images; all dating is stylistic and provisional",
+      "The distinction between mülevven (uniformly dyed paper) and cream/off-white margin paper with painted floral decoration cannot be definitively resolved from photographs — physical examination is required for the colored mulevven claim",
+      "Nestaʿlîk and tevkîʿ script types are documented by YEK but their specific panel locations are not identifiable from the current IIIF images without full folio-by-folio calligraphic analysis",
+      "The arabesque-scroll ground of the gold calligraphy panels (pp. 003, 006 lower) requires closer examination to determine whether the scrollwork is painted on the calligraphy support paper or is a separately produced decorated paper — physical examination could resolve this",
+      "The detailed rosette morphology of the hatip ebru covers is readable at IIIF resolution but the production technique (layering of marbling colors, sequence of pulls) requires physical examination under magnification"
+    ],
+    "source_agent": "metadata-generator (direct IIIF examination, all 8 pages at native resolution)",
+    "session": "catalog/searches/visual_tier2_tiem_02462.json"
+  },
+  "folio_analyses": [
+    {
+      "folio": "Front cover (IIIF p001)",
+      "source_image": "corpus/iiif/tiem_02462_p001.jpg",
+      "decoration_present": true,
+      "decoration_types": ["marbled"],
+      "elements": [
+        {
+          "motif": "Hatip ebru — large circular gül/rosette motifs on battal ebru ground",
+          "description": "The entire front cover surface is covered with a hatip ebru (silhouette marbled paper) sheet. The dominant repeating motif is a large, compact, globular rosette (gül) form: a rounded circular pink/rose center approximately 3–4 cm in diameter (at the album's 250×140 mm scale), surrounded by a ring of 8–10 dark grey-blue rounded-lobed petals with pointed tips projecting outward in a radial arrangement, like the petals of a chrysanthemum, carnation (karanfil), or stylized rose (gül). Small green accents (2–3 mm) appear at the bases or tips of some petals. The marbled ground between rosettes is a cream/pale beige battal ebru field with a characteristic white vein network running across the entire surface in irregular sinuous lines — the battal base layer on which the hatip rosettes were created in the marbling trough. Approximately 10–11 rosettes are distributed across the cover, roughly evenly spaced. At the upper portion of the cover, two library accession labels are affixed: a smaller square label and a larger label reading 'T 2462' in printed type (blue-bordered box). Handwritten numerals below the label (possibly an accession or shelf reference) are partially legible. A measurement ruler is visible at the bottom and right edges of the IIIF image. The dark strip at the left edge is the leather or cloth spine of the binding.",
+          "location": "Full front cover exterior",
+          "confidence": 0.97,
+          "technique_identification": {
+            "technique": "hatip ebru (silhouette marbling / ḥāṭib marbling)",
+            "sub_technique": "hatip rosette on battal ebru ground",
+            "rosette_morphology": "Globular, symmetrical, circular — c. 8–10 rounded petals in dark grey-blue radiating from a circular pink/rose center. Petal outline is smooth-rounded rather than scalloped, with pointed ray-tips. Green leaf or stem accents at petal bases. Form closest to a stylized gül (rose) or karanfil (carnation) in Ottoman botanical vocabulary.",
+            "palette": "Pink/rose center; dark grey-blue petals; green accent tips; cream-beige battal ground; white vein network",
+            "comparison": "Compare tiem_02490 (hatip ebru with elongated tulip/heart forms in pink-rose-burgundy palette — more naturalistic and flowing); damad_ibrahim_pasa_00027 (hatip flyleaf, different scale). The 02462 rosette is more regularized and geometrically symmetrical than 02490's botanical forms, suggesting a different marbling master or later period."
+          }
+        }
+      ],
+      "confidence": 0.97,
+      "notes": "The hatip ebru front cover is in good-to-fair condition. The pink center and grey-blue petal areas of most rosettes are vivid; some loss of pigment surface detail visible in the lower portion of the cover. The matched relationship with p008 (back cover) is clear."
+    },
+    {
+      "folio": "First interior opening — plain cetvelli (IIIF p002)",
+      "source_image": "corpus/iiif/tiem_02462_p002.jpg",
+      "decoration_present": true,
+      "decoration_types": ["framing_system"],
+      "elements": [
+        {
+          "motif": "Upper calligraphy panel — sülüs 'Bismillah al-Raḥmān al-Raḥīm' on cream",
+          "description": "The upper panel occupies approximately the upper third of the opening. It contains a single large-format sülüs (thuluth) line: 'Bismillāh al-Raḥmān al-Raḥīm' (بسم الله الرحمن الرحيم). The calligraphy is written on cream/off-white burnished paper (âharlı). The sülüs letterforms are large and bold with sweeping curved strokes characteristic of the script — the Bāʾ (ب) base, the Sīn (س) serrations, and the Mīm (م) roundel are clearly legible. The panel appears to be on a plain undecorated cream ground. Above the panel, small diagonal annotation in naskh (possibly a source attribution for the hadith) is visible. A purple/red seal stamp appears at the lower right of the upper panel area.",
+          "location": "Upper portion of the two-page opening",
+          "confidence": 0.92
+        },
+        {
+          "motif": "Lower calligraphy panel — sülüs on arabesque-scroll ground with nesih subsidiary text",
+          "description": "The lower panel occupies approximately the lower two-thirds of the opening and is the more elaborately constructed of the two panels on this page. The main panel contains large sülüs lettering in black ink reading 'min kalāmi'l-Nabī...' (من كلام النبي — 'from the words of the Prophet'), identifying this as a hadith attribution line, followed by subsidiary nesih text in several smaller rows containing the hadith text itself. The overall panel background appears covered with a dense interlocking gold/warm-tone arabesque scroll pattern filling the spaces between the calligraphy lines — this is the most clearly visible example of the arabesque-ground panel technique in the album. The scroll pattern consists of fine interlocking spiral arabesques in warm gold-cream ink, creating a continuous field over which the calligraphy is superimposed. The panel is vassale-mounted with a simple cetvelli frame visible as a dark outer ruling line.",
+          "location": "Lower portion of the two-page opening",
+          "confidence": 0.85,
+          "notes": "This panel's arabesque-ground treatment may have been misread in the triage as 'gold-worked margin paper' — it is more precisely a decorated calligraphy support where the arabesque serves as panel background rather than margin decoration. Physical examination is needed to confirm whether the scroll design is painted, stamped, or printed."
+        }
+      ],
+      "confidence": 0.88,
+      "notes": "The first interior opening is plainer than subsequent openings — no floral margin decoration visible at IIIF resolution. The arabesque-scroll panel ground of the lower panel is a significant decorative element. Simple cetvelli framing visible. Page shows some foxing and age-related surface marks."
+    },
+    {
+      "folio": "Second interior opening — grey-gold botanical margins + corner ornaments (IIIF p003)",
+      "source_image": "corpus/iiif/tiem_02462_p003.jpg",
+      "decoration_present": true,
+      "decoration_types": ["halkar_margins", "framing_system"],
+      "elements": [
+        {
+          "motif": "Upper calligraphy panel — sülüs on cream with corner fleur-de-lis ornaments",
+          "description": "The upper panel on this opening contains a large sülüs line reading 'al-Makkī al-Madanī ʿalayhi afḍal al-ṣalawāt wa akmal' (المكي المدني عليه أفضل الصلوات وأكمل — Meccan, Medinan, upon him the best and most complete blessings), a formulaic praise of the Prophet. The sülüs letterforms are clear and well-formed. Most distinctively, at each of the two upper corners of this panel frame, a small blue/purple fleur-de-lis or three-lobed leaf form is painted as a corner ornament — functioning as simplified koltuk ornaments within the cetvelli frame. These ornaments are in a blue-purple pigment, approximately 5–8 mm in size, and represent the album's most explicit painted corner decoration. The upper-right area of the opening also shows a diagonal naskh annotation in the margin (source attribution).",
+          "location": "Upper portion of the two-page opening",
+          "confidence": 0.90
+        },
+        {
+          "motif": "Lower calligraphy panel — large gold sülüs on dense arabesque-scroll ground",
+          "description": "The lower panel is the most spectacular single element in the album: very large gold-ink sülüs letterforms reading 'al-Taḥiyyāt al-Sulṭān Ẓillallāh fi'l-arḍ' (التحيات السلطان ظل الله في الأرض — 'The Greetings: The Sultan, Shadow of God on Earth') are written over a dense arabesque-scroll panel background. The gold ink of the calligraphy is a warm, slightly orangish gold, consistent with shell gold (zer-mürekkep). The background scroll pattern consists of an interlocking field of fine arabesque spirals in a slightly darker warm-cream/gold-brown tone, covering the entire panel surface. The sülüs letters are superimposed on this scroll pattern, which serves as the calligraphic ground. Below the main sülüs line, several rows of smaller nesih text (the hadith text proper) are also written on the arabesque ground. A red/purple seal stamp appears at the lower left.",
+          "location": "Lower portion of the two-page opening",
+          "confidence": 0.88
+        }
+      ],
+      "confidence": 0.89,
+      "notes": "The corner fleur-de-lis ornaments on the upper panel are a relatively simple but distinctive decorative element. The gold-on-arabesque lower panel is one of the album's major decorative achievements — the visual interplay of the large gold letterforms against the dense interlocking scroll creates a layered, rich effect. The grey-gold botanical motifs reported in the triage (faint vine scrolls in the outer margins) are not prominently visible at this resolution; the corner ornaments and arabesque panel ground are the primary decorative features of this opening."
+    },
+    {
+      "folio": "Third interior opening — pink floral margin strip, two panels (IIIF p004)",
+      "source_image": "corpus/iiif/tiem_02462_p004.jpg",
+      "decoration_present": true,
+      "decoration_types": ["halkar_margins", "framing_system"],
+      "elements": [
+        {
+          "motif": "Upper calligraphy panel — sülüs with pink/rose floral margin strip (upper border)",
+          "description": "The upper panel on this opening has a narrow pink/rose floral strip running across the full width of the upper margin between the outer ruling line and the top of the calligraphy text. This floral strip — approximately 1–1.5 cm deep — contains naturalistic pink/rose flowers (rose or peony forms with rounded petals), curving vine stems, and bud forms, painted in pink pigment on the cream margin paper. The flowers have a loosely naturalistic style consistent with Ottoman şükûfe (flower painting) practice. The main calligraphy in the panel reads 'Yā Awīyhi kullu maẓlūm wa'l-ḥamdu lillāh Rabb' (يا أويه كل مظلوم والحمد لله رب — 'O refuge of every oppressed one, and praise be to God, Lord') in large bold sülüs. A smaller sülüs sub-line appears below: 'al-ʿĀlamīn wa sallim taslīman kathīrā' (العالمين وسلم تسليما كثيرا). The calligraphy panel is on plain cream paper. Red seal stamp visible.",
+          "location": "Upper portion of the two-page opening",
+          "confidence": 0.90
+        },
+        {
+          "motif": "Lower calligraphy panel — sülüs 'Bismillah' with extensive pink floral margin and arabesque ground",
+          "description": "The lower panel of p004 is the most richly decorated interior opening in the album. The panel contains a large sülüs 'Bismillāh al-Raḥmān al-Raḥīm' (بسم الله الرحمن الرحيم) as the main line, written in black sülüs. Below the sülüs line, nesih text continues the hadith content. The entire calligraphy panel background is covered with a dense arabesque-scroll pattern (similar to pp. 002 and 003 lower panels), visible in the spaces between the calligraphy lines. Most distinctively, the lower panel's upper margin and lateral margins show extensive pink/rose floral decoration: naturalistic flowers, buds, curving vine stems, and leaf forms painted in warm pink/rose pigment scattered across the margin area surrounding the calligraphy panel. The floral motifs are distributed freely across the margin rather than in a narrow strip, creating a more extensive painted floral program than the upper panel. The vassale seam — the straight boundary between the white calligraphy paper and the cream margin sheet — is clearly visible as a horizontal line, confirming the vassale mounting technique.",
+          "location": "Lower portion of the two-page opening",
+          "confidence": 0.90
+        }
+      ],
+      "confidence": 0.90,
+      "notes": "P004 is the most decoratively complete interior opening in the album. The combination of pink floral margin strips (upper panel) and extensive floral margin decoration + arabesque ground (lower panel) makes this the richest opening in the interior sequence. The vassale boundary is clearly visible on the lower panel. This is the primary supporting evidence for the polychrome halkar_margins classification."
+    },
+    {
+      "folio": "Fourth interior opening — faint botanical margins (IIIF p005)",
+      "source_image": "corpus/iiif/tiem_02462_p005.jpg",
+      "decoration_present": true,
+      "decoration_types": ["framing_system"],
+      "elements": [
+        {
+          "motif": "Two calligraphy panels — sülüs on cream with faint botanical margins",
+          "description": "This opening shows two stacked calligraphy panels, each with sülüs hadith text in black ink on cream paper. The margin papers appear cream/off-white, somewhat warmer in tone than the calligraphy panel paper. Faint greenish-grey botanical motifs (vine scrolls, small leaves) are reported in the triage as visible in the outer margins, similar to the p003 pattern. At the IIIF resolution of the downloaded images, these marginal elements are less clearly visible than on pp. 003–004 and 006. The cetvelli ruling is present but plain. Red/purple seal stamps appear at the lower left of each panel area. Some foxing and age marks on the margin paper are visible.",
+          "location": "Both panels of the two-page opening",
+          "confidence": 0.78
+        }
+      ],
+      "confidence": 0.78,
+      "notes": "P005 shows the least elaborate decoration of the interior openings pp. 003–006. The faint botanical motifs noted in the triage may be grey-gold teşʿîr drawings not clearly visible at download resolution. Physical examination or higher-resolution imaging would clarify the extent of margin decoration on this opening."
+    },
+    {
+      "folio": "Fifth interior opening — pink floral margins + gold calligraphy (IIIF p006)",
+      "source_image": "corpus/iiif/tiem_02462_p006.jpg",
+      "decoration_present": true,
+      "decoration_types": ["halkar_margins", "framing_system"],
+      "elements": [
+        {
+          "motif": "Upper calligraphy panel — sülüs with pink floral margin strip",
+          "description": "The upper panel on this opening contains large sülüs reading 'Ilhī Jawduk al-Māʾ wa ḥasbī ʿind ʿād al-malāʿī' (إلهي جودك الماء وحسبي عند عاد الملاعي — a Sufi or devotional phrase invoking divine generosity). A pink/rose floral strip runs across the upper margin, similar to pp. 003 and 004: pink flowers with vine stems and bud forms. The floral decoration on this panel's upper margin is clearly visible at IIIF resolution, with the pink pigment distinguishing the floral strip from the cream margin paper. A small diagonal annotation appears in the upper right margin (source attribution). Red/purple seal stamp visible.",
+          "location": "Upper portion of the two-page opening",
+          "confidence": 0.88
+        },
+        {
+          "motif": "Lower calligraphy panel — gold sülüs on arabesque-scroll ground",
+          "description": "The lower panel on p006 parallels the lower panel of p003: large gold sülüs text reading 'Mā Arjawhu la-Talṭasha wa-Lantashū wa-Yanbasū' (ما أرجوه لتلطشوا ولنتشوا وينبسوا) or similar devotional/hadith content, written in gold-tone sülüs over a dense arabesque-scroll panel background. The arabesque scrollwork covers the entire panel area in a warm gold-cream ink, creating the characteristic layered effect of gold calligraphy over scroll ground. The lower panel also shows pink/rose floral marks or vine scrolls visible at some margin areas. Small koltuk ornaments (simplified, with green leaf forms) appear at the upper corners of the lower panel frame. Red/purple seal stamp visible.",
+          "location": "Lower portion of the two-page opening",
+          "confidence": 0.85
+        }
+      ],
+      "confidence": 0.88,
+      "notes": "P006 mirrors p004 as one of the most elaborately decorated interior openings. The upper panel's pink floral strip and the lower panel's gold calligraphy on arabesque ground together demonstrate that the album's decorative program was applied to at least four of the six interior openings (pp. 003, 004, 005 partially, 006). The koltuk corner ornaments on the lower panel of p006 (green leaf forms) slightly elaborate the simple blue/purple forms of p003."
+    },
+    {
+      "folio": "Sixth interior opening — plainer margins (IIIF p007)",
+      "source_image": "corpus/iiif/tiem_02462_p007.jpg",
+      "decoration_present": true,
+      "decoration_types": ["framing_system"],
+      "elements": [
+        {
+          "motif": "Two calligraphy panels — sülüs with reduced margin decoration",
+          "description": "The sixth and final interior opening shows two stacked calligraphy panels with sülüs hadith text. The margins appear relatively plain compared to pp. 003–006 — the pink floral decoration is less prominent or absent on this opening. The cetvelli ruling is present. Diagonal naskh annotations are visible in the margins of one panel (hadith source attributions). Red/purple stamps appear at the lower left of both panels. The calligraphy panels may contain nestaʿlîk or tevkîʿ script (as documented by YEK) in some lines or sections, though distinguishing these from sülüs at download resolution is not possible without close examination. Some wear and foxing are visible at the page edges.",
+          "location": "Both panels of the two-page opening",
+          "confidence": 0.82
+        }
+      ],
+      "confidence": 0.82,
+      "notes": "P007 is the final interior opening before the back cover and shows slightly more wear and marginally less elaborate decoration than the middle openings. It may contain nestaʿlîk or tevkîʿ calligraphy specimens not identifiable at current resolution. Full calligraphic analysis of this opening requires either higher-resolution imaging or physical examination."
+    },
+    {
+      "folio": "Back cover (IIIF p008)",
+      "source_image": "corpus/iiif/tiem_02462_p008.jpg",
+      "decoration_present": true,
+      "decoration_types": ["marbled"],
+      "elements": [
+        {
+          "motif": "Hatip ebru — MATCHED PAIR back cover, same gül/rosette design",
+          "description": "The back cover displays the same hatip ebru rosette design as the front cover (p001), confirming the matched pair. The same circular gül/rosette motifs are visible: rounded pink/rose centers surrounded by dark grey-blue rounded-lobed petal rings with pointed tips, on a cream/pale battal ebru ground with white vein network. Approximately 9–11 rosettes are visible across the cover surface, with a distribution matching the front cover. The condition is slightly worse than the front cover — more surface cracking is visible in the marbling layer, and some abrasion has reduced the clarity of petal details in several rosettes (notably the lower-left rosettes). A faint circular stamp impression is visible at the center of the cover (a TIEM or accession mark pressed into the marbled surface). The dark binding strip at the right edge is the spine of the album. No labels are affixed to the back cover exterior.",
+          "location": "Full back cover exterior",
+          "confidence": 0.97,
+          "technique_identification": {
+            "technique": "hatip ebru (silhouette marbling) — back cover, matched pair with p001",
+            "matched_pair_evidence": "The rosette form, palette (pink/rose center, grey-blue petals, cream-beige ground), and spatial distribution on the back cover are sufficiently close to the front cover to confirm use of the same marbled sheet design. This is consistent with the standard practice of cutting both covers from a single large marbled sheet or from two closely related pulls in the same marbling session. The slight differences in wear, condition, and minor detail variations between p001 and p008 are consistent with the two boards receiving differential physical handling over time rather than representing different marbling designs."
+          }
+        }
+      ],
+      "confidence": 0.97,
+      "notes": "The back cover confirms the bilateral symmetry of the album's binding program: front and back covers are a matched hatip ebru pair. This matched construction is the most significant single decorative feature of the album and places TIEM 02462 alongside tiem_02490 as only the second album in the corpus with a confirmed matched hatip ebru cover pair."
+    }
+  ],
+  "terminology": {
+    "terms_used": [
+      {
+        "concept": "Silhouette marbled paper (hatip ebru)",
+        "ottoman": "hâtip ebrûsu / hâtip ebrûlu kâğıt (siluet ebrûsu)",
+        "arabic": "waraq muʿarraq bi-al-ḥāṭib (ورق معرّق بالحاطب) — marbled paper in the ḥāṭib/preacher style",
+        "persian": "abri-ye ḥāṭib (ابری حاطب) — ḥāṭib marbled paper",
+        "english": "Hatip ebru (also: hâtip ebrusu, preacher's marbling, silhouette marbling, ḥāṭib marbling): a marbled paper technique in which pre-cut shapes or templates — typically of flowers, leaves, or geometric forms — are placed on the surface of the marbling size bath (after initial colors have been scattered), creating reserved (non-marbled) areas in the final pulled sheet. The reserved areas retain the color of the template ground rather than picking up the marbled pigments. In Ottoman practice, the most common hatip form uses floral motifs — tulips, carnations, roses, hyacinths — creating bold botanical silhouettes against a swirling marbled ground. The name derives from the hâtip (imam, preacher) for whom the technique was supposedly invented or popularized. Named after Hatip Mehmet Efendi (fl. late 17th century), who is credited with developing or perfecting the form in Ottoman Istanbul, though versions of the technique predate him in the Persianate tradition."
+      },
+      {
+        "concept": "Stone marbled paper ground (battal ebru)",
+        "ottoman": "battal ebrû / taş ebrûsu",
+        "arabic": "waraq muʿarraq bi-al-ḥajr (ورق معرّق بالحجر) — stone-marbled paper",
+        "persian": "abri-ye sangī (ابری سنگی) — stone marbled",
+        "english": "Battal ebru (also: battal marbling, stone marbling, spot marbling): the simplest marbling technique in which pigments are scattered or dropped onto the water-based size bath without combing, producing an irregular spotted or mottled pattern with organic, rounded color areas and sinuous vein-like lines between the pigment masses. In the context of hatip ebru, the battal ebru typically provides the ground layer on which the hatip templates are placed, so the final sheet has both the template-silhouetted motifs AND the organic battal background visible in the spaces between motifs. The cream/beige battal ground with white vein network visible on TIEM 02462's covers is a classic example."
+      },
+      {
+        "concept": "Matched-pair marbled cover construction",
+        "ottoman": "eş hatip ebrûlu cilt kapakları",
+        "arabic": null,
+        "persian": null,
+        "english": "A binding construction in which both front and back cover boards are covered with paper from the same marbled sheet (or from closely matched consecutive pulls from the marbling trough), producing nearly identical decorative patterns on both covers. This creates a visual symmetry across the closed album: when both covers are viewed in sequence, the pattern correspondence is immediately apparent. Confirmed in TIEM 02462 and TIEM 02490 (the only two albums in the project corpus with confirmed matched hatip ebru cover pairs)."
+      },
+      {
+        "concept": "Calligraphic album",
+        "ottoman": "muraqqaʿ / murakkaat (مرقعات)",
+        "arabic": "muraqqa (مرقع) / muraqqa'at (مرقعات)",
+        "persian": "muraqqa (مرقع)",
+        "english": "Muraqqaʿ: a bound Ottoman calligraphic (and sometimes pictorial) album. This album contains 12 kıtʿa (specimen sheets) in six distinct scripts (muhakkak, reyhânî, sülüs, nesih, nestaʿlîk, tevkîʿ), with hadith (prophetic sayings) as the textual content."
+      },
+      {
+        "concept": "Calligraphic specimen sheet",
+        "ottoman": "kıtʿa (قطعة) / kıtʿa-i hat",
+        "arabic": "qiṭʿa (قطعة)",
+        "persian": "qiṭʿa (قطعه)",
+        "english": "Kıtʿa: a single calligraphic specimen sheet, typically displaying one or more lines of formal calligraphy in one or more scripts. This album contains 12 kıtʿa, each presenting hadith content in one of six script types."
+      },
+      {
+        "concept": "Window-mounting technique",
+        "ottoman": "vassale / pencere takma tekniği",
+        "arabic": null,
+        "persian": "vassāle (واسله)",
+        "english": "Vassale: a calligraphy album mounting technique in which the calligraphy panel is cut from its original support and mounted into a window (cut-out aperture) in a separate, usually larger and more decorative sheet. The calligraphy paper fills the window from behind, with the decorated outer sheet forming the visible margin around the calligraphy. Standard construction technique throughout this album."
+      },
+      {
+        "concept": "Polychrome painted margin decoration with pink pigment",
+        "ottoman": "pembe çiçekli kenar nakışı / renkli kenar tezyinatı / şükûfe kenar bezemesi",
+        "arabic": "tazwīq al-hāmish bi-al-zuhūr al-mulawwana (تزويق الهامش بالزهور الملوّنة)",
+        "persian": "tazʾīn-e ḥāshiya bā gul-hā-ye rang-āmīz (تزئین حاشیه با گل‌های رنگ‌آمیز)",
+        "english": "Polychrome painted margin decoration: a form of margin ornamentation in which flowers, buds, and vine scrolls are painted directly in colored pigment (here: pink/rose) on the margin paper surrounding the calligraphy panel. This is distinct from the classical Ottoman halkâr or halkârî (which uses gold, typically in shaded technique) and from teşʿîr/tashʿīr (which uses fine-line gold marginal drawings). The pink-pigment form documented in TIEM 02462 is classified as a light polychrome variant of halkâr, or as şükûfe nakışı (flower painting in margins). A parallel in the corpus: milli_kutuphane_fb393 (şükûfe halkârî with combined gold and color). The pink pigment on pp. 004 and 006 is the most distinctive coloring in the album."
+      },
+      {
+        "concept": "Gold-ink calligraphy on arabesque-scroll ground",
+        "ottoman": "islimiî zeminli altın yazı / arabeski zeminli kıtʿa",
+        "arabic": "khatt mudhahdhab ʿalā arḍiyyat al-islīmī (خط مذهّب على أرضية الإسليمي)",
+        "persian": "khaṭṭ-e zar bar zamīna-ye islīmī (خط زر بر زمینه اسلیمی)",
+        "english": "A calligraphic panel technique in which large-format gold-ink (zer-mürekkep or shell gold) calligraphy is written over a panel background completely covered with painted arabesque scroll (islīmī) or interlocking vine-spiral designs. The arabesque ground serves as both decoration and compositional backdrop for the calligraphy, creating a rich layered effect. Documented on pp. 003 lower and 006 lower panels in this album. This technique appears in Ottoman kıtʿa production of the 17th–18th centuries and is distinct from both zerefşân (gold-sprinkled paper) and zerkâri (gold-worked paper) as the decoration is integral to the calligraphy composition rather than to the paper substrate."
+      },
+      {
+        "concept": "Gold ruling lines / framing system",
+        "ottoman": "cetvel / cetvelli / altın cetvel",
+        "arabic": "jadwal (جدول) / jadwal mudhahdhab (جدول مذهّب)",
+        "persian": "jadval-e zar (جدول زر)",
+        "english": "Cetvel: ruling lines framing the calligraphy panel. In TIEM 02462, the cetvelli system is simple (2–3 lines) and functional, without the elaborate multi-band compound cetvelli systems of higher-luxury albums. The ruling serves primarily to define the calligraphy panel boundary within the vassale-mounted construction."
+      },
+      {
+        "concept": "Corner illumination / koltuk ornament",
+        "ottoman": "koltuk tezhibi / köşe süslemesi",
+        "arabic": "tazwīq al-zāwiya (تزويق الزاوية)",
+        "persian": "tazʾīn-e gusha (تزئین گوشه)",
+        "english": "Koltuk tezhibi: decorative elements placed at the inner corners of a calligraphy panel's cetvelli frame. In TIEM 02462, the corner ornaments are simplified forms — blue/purple fleur-de-lis or three-lobed leaf motifs (pp. 003, 006) — rather than the elaborate illuminated medallion corner pieces seen in higher-luxury albums like tiem_02437 or tiem_02490."
+      },
+      {
+        "concept": "Sülüs script",
+        "ottoman": "sülüs hattı",
+        "arabic": "thuluth (ثلث)",
+        "persian": null,
+        "english": "Sülüs (thuluth): one of the six classical Arabic scripts, characterized by large rounded letterforms with strong contrast between thick and thin strokes. The dominant script in this album's main calligraphy lines."
+      },
+      {
+        "concept": "Muhakkak script",
+        "ottoman": "muhakkak hattı",
+        "arabic": "muḥaqqaq (محقق)",
+        "persian": null,
+        "english": "Muhakkak: a large, bold Arabic script with wide, horizontal strokes and pronounced vertical elements. One of the six classical scripts. Documented by YEK as one of the six scripts in this album."
+      },
+      {
+        "concept": "Reyhânî script",
+        "ottoman": "reyhânî hattı",
+        "arabic": "rayḥānī (ريحاني)",
+        "persian": null,
+        "english": "Reyhânî (rayḥānī): a variant of the muhakkak script, closely related to it but with finer, more delicate execution and proportions. Less common than sülüs and nesih; its presence alongside muhakkak in this album is notable. One of the six classical Arabic scripts."
+      },
+      {
+        "concept": "Nesih script",
+        "ottoman": "nesih hattı",
+        "arabic": "naskh (نسخ)",
+        "persian": null,
+        "english": "Nesih (naskh): a small, rounded, clear Arabic script widely used for manuscript copying. Present in subsidiary lines of the calligraphy panels in this album."
+      },
+      {
+        "concept": "Nestaʿlîk script",
+        "ottoman": "nestaʿlîk hattı",
+        "arabic": null,
+        "persian": "nastaʿlīq (نستعليق)",
+        "english": "Nestaʿlîk (nastaʿlīq): an elegant Persianate script combining naskh and taʿlīq, characterized by diagonal letter clusters and pronounced contrast between thick and thin strokes. Dominant in Persian poetry manuscripts; present here as one of six scripts in this Arabic-content hadith album, suggesting the album explicitly demonstrates the full classical script repertoire including the Persian tradition."
+      },
+      {
+        "concept": "Tevkîʿ script",
+        "ottoman": "tevkîʿ hattı",
+        "arabic": "tawqīʿ (توقيع)",
+        "persian": null,
+        "english": "Tevkîʿ (tawqīʿ): a formal signature script derived from thuluth, used historically for official Ottoman documents and decrees. Its inclusion alongside the other five scripts completes the 'six scripts' (aklâm-ı sitte) program — the canonical six classical Arabic scripts (muhakkak, reyhânî, sülüs, nesih, riḳʿa, tawqīʿ) that formed the core curriculum of Ottoman calligraphic education."
+      },
+      {
+        "concept": "Six classical Arabic scripts (aklâm-ı sitte)",
+        "ottoman": "aklâm-ı sitte (أقلام الستة)",
+        "arabic": "al-aqlām al-sitta (الأقلام الستة)",
+        "persian": "qalam-hā-ye shash-gāna (قلم‌های شش‌گانه)",
+        "english": "Aklâm-ı sitte (the six scripts): the canonical set of six classical Arabic scripts codified by Yāqūt al-Mustaʿṣimī (d. 698/1298): muhakkak, reyhânî, sülüs, nesih, tawqīʿ (tevkîʿ), and riḳʿa. This album's six-script program (muhakkak, reyhânî, sülüs, nesih, nestaʿlîk, tevkîʿ — substituting nestaʿlîk for riḳʿa and including it as the sixth) may reflect an Ottoman pedagogical tradition in which the Persian nestaʿlîk was incorporated into the curriculum alongside the classical six. The comprehensive script range across 12 kıtʿa in a single album is a defining feature of an encyclopaedic muraqqaʿ."
+      }
+    ]
+  },
+  "bibliography": [
+    {
+      "citation": "Blair, Sheila S. 'Color and Gold: The Decorated Papers Used in Manuscripts in Later Islamic Times.' Muqarnas 17 (2000): 24–36.",
+      "relevance": "Foundational taxonomic study of decorated paper in Islamic manuscripts, providing the classification framework for marbled paper (including hatip ebru), colored paper (mülevven), and gold-worked paper. Blair's analysis of the hatip technique and its varieties is the primary English-language scholarly framework for the classification of TIEM 02462's covers. Her discussion of color and chromatic programs in album production is also relevant to the polychrome margin decoration.",
+      "relevance_score": 0.95,
+      "access_notes": "Peer-reviewed article. Available via JSTOR (Brill/Muqarnas Online). Open-access PDF accessible at Academia.edu."
+    },
+    {
+      "citation": "Mustafa Düzgünman (attr.) and Niyazi Sayın. Türk Ebrû Sanatı / Turkish Marbling Art. Istanbul: Türk Kültür Vakfı, 1977.",
+      "relevance": "A foundational Turkish-language study of the Ottoman marbling tradition, covering the hatip ebru technique, its historical development, and named masters including Hatip Mehmet Efendi. Directly relevant for contextualizing the hatip ebru covers of TIEM 02462 within the historical marbling tradition and for understanding the rosette motif repertoire in Ottoman hatip production.",
+      "relevance_score": 0.90,
+      "access_notes": "Turkish-language publication. Held at major Turkish manuscript and art collections. Note: this edition's specific bibliographic details should be verified against library catalogues."
+    },
+    {
+      "citation": "Baykara, Hüseyin. Türk Ebrusu. Istanbul: İstanbul Büyükşehir Belediyesi Kültür İşleri Dairesi Başkanlığı, 1993.",
+      "relevance": "Standard reference work on Ottoman marbling (ebru) covering the hatip technique and the repertoire of floral motifs (tulip, carnation, rose, hyacinth) in both silhouette and ground-battal form. Essential for morphological classification of the gül/rosette motif on TIEM 02462's covers and comparison with named hatip masters.",
+      "relevance_score": 0.88,
+      "access_notes": "Turkish-language publication. Held at Turkish libraries and arts collections."
+    },
+    {
+      "citation": "Roxburgh, David J. The Persian Album, 1400–1600: From Dispersal to Collection. New Haven: Yale University Press, 2005.",
+      "relevance": "Essential study of the muraqqaʿ album format as a structured collection of calligraphy and painting, including analysis of decorated paper programs and album construction practices (vassale mounting, margin decoration). Provides the theoretical framework for understanding encyclopaedic multi-script albums and the deliberate compositional choices behind polychrome margin programs.",
+      "relevance_score": 0.85,
+      "access_notes": "Monograph; widely held at research libraries."
+    },
+    {
+      "citation": "Derman, M. Uğur. Letters in Gold: Ottoman Calligraphy from the Sakıp Sabancı Collection, Istanbul. New York: The Metropolitan Museum of Art, 1998.",
+      "relevance": "Primary English-language catalogue on Ottoman calligraphy, covering the six classical scripts (aklâm-ı sitte) and their Ottoman development, as well as calligraphic albums and their decorated paper programs. Directly relevant for contextualizing TIEM 02462's six-script program (muhakkak, reyhânî, sülüs, nesih, nestaʿlîk, tevkîʿ) within the Ottoman calligraphic curriculum and evaluating the album's encyclopaedic character.",
+      "relevance_score": 0.88,
+      "access_notes": "Exhibition catalogue (Metropolitan Museum of Art, 1998); widely held. ISBN 978-0870998843."
+    },
+    {
+      "citation": "Tanındı, Zeren. 'Bibliophile Aghas (Eunuchs) at Topkapı Saray.' Muqarnas 21 (2004): 333–43.",
+      "relevance": "Documents album-collecting and commissioning practices at the Ottoman court in the 17th–18th centuries. Provides context for understanding the patronage environment within which hatip ebru muraqqaʿ albums were produced and collected, and for the decorated paper programs associated with high-status Ottoman albums of this period.",
+      "relevance_score": 0.75,
+      "access_notes": "Peer-reviewed article. Available via JSTOR."
+    },
+    {
+      "citation": "Çağman, Filiz, and Zeren Tanındı. The Topkapı Saray Museum: The Albums and Illustrated Manuscripts. Translated and edited by J. M. Rogers. Boston: Little, Brown, 1986.",
+      "relevance": "Standard reference for Ottoman calligraphic albums and their decorated paper programs in the Topkapı collections. Provides direct comparanda for hatip ebru album covers, multi-script calligraphic programs, and the construction techniques (vassale, cetvelli) documented in TIEM 02462.",
+      "relevance_score": 0.82,
+      "access_notes": "Exhibition catalogue; widely held at Turkish and Islamic art research libraries."
+    },
+    {
+      "citation": "Bloom, Jonathan M. Paper Before Print: The History and Impact of Paper in the Islamic World. New Haven: Yale University Press, 2001.",
+      "relevance": "Comprehensive history of paper production and use in the Islamic world, providing material-culture background for marbled paper production, colored paper traditions, and decorated paper as part of Ottoman luxury manuscript production.",
+      "relevance_score": 0.72,
+      "access_notes": "Widely held monograph."
+    },
+    {
+      "citation": "Gacek, Adam. Arabic Manuscripts: A Vademecum for Readers. Leiden: Brill, 2009.",
+      "relevance": "Standard reference for Islamic manuscript codicological terminology and Arabic script identification. Directly relevant for identification and description of the six scripts (muhakkak, reyhânî, sülüs, nesih, tawqīʿ, nastaʿlīq) in this album, and for general codicological terms (kıtʿa, cetvel, muraqqaʿ) used throughout this record.",
+      "relevance_score": 0.80,
+      "access_notes": "Reference monograph; widely held."
+    },
+    {
+      "citation": "Déroche, François. Islamic Codicology: An Introduction to the Study of Manuscripts in Arabic Script. Translated by Deke Dusinberre and David Radzinowicz. London: Al-Furqan Islamic Heritage Foundation, 2005.",
+      "relevance": "Foundational reference for Islamic manuscript codicology, covering paper decoration types, ruling systems, binding forms, and physical manuscript description. The classification framework used in this catalog record.",
+      "relevance_score": 0.75,
+      "access_notes": "Monograph; available at specialist libraries."
+    },
+    {
+      "citation": "Bağcı, Serpil, Filiz Çağman, Günsel Renda, and Zeren Tanındı. Ottoman Painting. Ankara: Ministry of Culture and Tourism, 2006.",
+      "relevance": "Comprehensive survey of Ottoman visual arts, covering the album tradition, calligraphic practice, and decorative paper programs of the 17th–18th centuries. Provides comparative context for the anonymous muraqqaʿ album format and its place within the Ottoman decorative arts tradition.",
+      "relevance_score": 0.72,
+      "access_notes": "Museum publication; widely held at Turkish studies collections."
+    }
+  ],
+  "suggested_collections": [
+    {
+      "institution": "Türk ve İslam Eserleri Müzesi (TIEM), Istanbul — broader corpus",
+      "reason": "The TIEM muraqqaʿ corpus (93 positive albums) contains multiple hatip ebru albums and multi-script compilatory albums. TIEM 02490 (tiem_02490, catalogued) is the closest comparandum for the hatip ebru matched-pair cover format, while tiem_02499 (the 'five-technique album') provides context for comprehensive script programs. Systematic survey of the TIEM murakka corpus may reveal additional examples of the pink polychrome margin decoration documented here.",
+      "digital_access": "https://portal.yek.gov.tr"
+    },
+    {
+      "institution": "Topkapı Sarayı Müzesi Kütüphanesi, Istanbul",
+      "reason": "Holds major collections of Ottoman hatip ebru albums and multi-script muraqqaʿ albums. The TSMK corpus provides the primary comparanda for 18th-century Istanbul hatip ebru production, against which the TIEM 02462 rosette type can be located in the Istanbul marbling sequence.",
+      "digital_access": "https://kutuphane.tsmk.gov.tr"
+    },
+    {
+      "institution": "Chester Beatty Library, Dublin",
+      "reason": "Major collection of Ottoman calligraphic albums with decorated papers, including hatip ebru specimens. Provides international comparanda for the hatip ebru cover format and the six-script encyclopaedic album tradition. The CBL catalogue (viewer.cbl.ie) has digitized images of several relevant Ottoman album bindings.",
+      "digital_access": "https://viewer.cbl.ie"
+    },
+    {
+      "institution": "Milli Kütüphane (National Library of Turkey), Ankara",
+      "reason": "Holds the milli_kutuphane_fb393 (FB 393) Nasihatname — the corpus's most direct comparandum for şükûfe halkârî polychrome margin decoration. Physical comparison between the TIEM 02462 pink margin decoration and the Milli Kütüphane şükûfe halkârî could help refine the typological classification of the pink painted margins.",
+      "digital_access": "https://portal.yek.gov.tr"
+    },
+    {
+      "institution": "GlobalDecoPaper ERC Project, LMU Munich",
+      "reason": "The primary active research project on decorated paper classification in Islamic manuscripts. TIEM 02462's three overlapping techniques (hatip ebru, polychrome pink margin decoration, arabesque-scroll panel grounds) raise multiple classification questions within the GlobalDecoPaper research scope. Contact for potential inclusion in the comparative decorated paper database.",
+      "digital_access": null
+    }
+  ],
+  "provenance": {
+    "donor": null,
+    "waqf": null,
+    "previous_shelfmarks": ["T 2462 (standard current accession label visible on p001 front cover)"],
+    "notes": "Held at Türk ve İslam Eserleri Müzesi (TIEM), Istanbul, under shelfmark T 2462. The museum library accession label 'T 2462' is affixed to the front cover (p001), together with a secondary smaller label. TIEM is a Turkish state museum; the manuscript entered the collection at an undetermined date prior to YEK registration. No waqf (endowment) information is available in the YEK record or visible in the IIIF images. No calligrapher name, date, patron name, or place of production is recorded in the catalogue or visible in the images. The album is anonymous and undated. YEK ID: 705399. IIIF ID: 0000000662612. YEK catalogue entry by Nalan Kutsal."
+  },
+  "analysis_metadata": {
+    "analyzed_date": "2026-02-28",
+    "analyzer": "claude-code-manuscript-pipeline",
+    "pipeline_stage": "metadata-generator",
+    "image_source": "YEK Portal IIIF images, TIEM Yazma Eser Koleksiyonu, YEK ID 705399, IIIF ID 0000000662612. All 8 pages downloaded and examined at native IIIF resolution (1.5–3.1 MB each, stored in corpus/iiif/). A detail image (tiem_02462_p004_detail.jpg) is also available for closer examination of p004's floral margin decoration.",
+    "image_quality_notes": "All 8 IIIF images are clear and support confident identification of the hatip ebru covers, the pink floral margin strips, and the arabesque-scroll panel grounds. The hatip ebru rosette morphology is clearly legible at download resolution. The pink/rose pigment of the floral margin strips is unmistakably visible on pp. 004 and 006. The arabesque-scroll ground of the gold calligraphy panels (pp. 003, 006 lower) is visible at download resolution, though fine detail requires higher-resolution examination. The specific distribution of nestaʿlîk and tevkîʿ specimens across the 12 kıtʿa is not independently determinable from IIIF images at download resolution — full script identification requires either in-person examination or systematic higher-resolution imaging of all 24 panel sides. The 'colored mulevven' classification is downgraded to probable (0.65) — the marginal warmth of the margin papers on pp. 003–006 appears to derive primarily from surface-applied floral decoration and age patina rather than from uniformly dyed paper.",
+    "folios_examined": [
+      "corpus/iiif/tiem_02462_p001.jpg",
+      "corpus/iiif/tiem_02462_p002.jpg",
+      "corpus/iiif/tiem_02462_p003.jpg",
+      "corpus/iiif/tiem_02462_p004.jpg",
+      "corpus/iiif/tiem_02462_p005.jpg",
+      "corpus/iiif/tiem_02462_p006.jpg",
+      "corpus/iiif/tiem_02462_p007.jpg",
+      "corpus/iiif/tiem_02462_p008.jpg",
+      "corpus/iiif/tiem_02462_p004_detail.jpg"
+    ],
+    "folios_not_examined": "All 8 IIIF pages examined. The YEK record shows 8 total pages (2 covers + 6 interior openings), corresponding to the 12 yaprak (folios) of the physical album with both sides of each leaf captured in a single opening image. All available digital images have been examined.",
+    "corpus_priority": "High — third confirmed hatip ebru specimen in the corpus (after tiem_02490 and damad_ibrahim_pasa_00027), and only the second confirmed matched hatip ebru cover pair (after tiem_02490). The polychrome pink-pigment margin decoration is unique in the corpus (no other album uses pink non-gold pigment in margin strips). The six-script program is among the most diverse in the corpus. Priority follow-up items: (1) physical examination of covers to determine marbling technique details, production sequence, and whether the two covers derive from the same or consecutive pulls; (2) full calligraphic analysis of all 12 kıtʿa to locate the nestaʿlîk and tevkîʿ panels; (3) physical examination of margin papers to resolve the mülevven vs. painted-only classification; (4) physical examination of arabesque-scroll panel grounds to determine painting technique (painted, printed, or stamped).",
+    "source_data": {
+      "visual_confirmation_file": "catalog/searches/visual_tier2_tiem_02462.json",
+      "yek_id": "705399",
+      "iiif_id": "0000000662612",
+      "batch": "Tier 2 Sub-Batch B (2026-02-28)"
+    }
+  }
+}

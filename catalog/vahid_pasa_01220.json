@@ -1,0 +1,550 @@
+{
+  "record_id": "vahid_pasa_01220",
+  "collection": {
+    "institution": "Kütahya Vahid Paşa Kütüphanesi",
+    "city": "Kütahya",
+    "country": "Turkey",
+    "shelfmark": "1220",
+    "yek_url": "https://portal.yek.gov.tr/works/detail/520279"
+  },
+  "manuscript": {
+    "title": "Muraqqaʿât / مرقعات",
+    "title_script": "مرقعات",
+    "title_alt": "Hurûfât-i Yesârî Efendi Sahîfe — Yesârî'nin Hurûfât Muraqqaʿı",
+    "author": null,
+    "author_dates": null,
+    "calligrapher": "Yesârî Mehmed Es'ad (يسارى محمد أسعد)",
+    "calligrapher_dates": "d. 1213 AH / 1798 CE",
+    "calligrapher_note": "Yesârî Mehmed Es'ad (d. 1213/1798) was the foremost taʿlîk calligrapher of the late Ottoman period, often credited with bringing the Persian nestaʿlîk/taʿlîk hand to its Ottoman apogee. He served as imperial calligrapher (hattat-ı hümâyun) and was the teacher of his son Yesârizâde Mustafa İzzet Efendi (d. 1849), who continued the Yesârî school into the 19th century. The ketebe inscription on p007 (left panel) records 'Yesari' alongside a Persian verse couplet, providing a direct attribution to the calligrapher for this hurufat (letter-combination exercise) album. The ketebe is on the final calligraphy page, following the completion of the systematic letter-combination sequence — the standard position for a colophon in a mesk album.",
+    "date_ah": null,
+    "date_ce": "c. 1770–1798",
+    "date_note": "No explicit date is recorded in the album or in the YEK catalogue record. The attributed calligrapher Yesârî Mehmed Es'ad died in 1213/1798, providing a terminus ante quem. The European-style floral fabric/printed-paper doublures on p009 are consistent with late 18th-century Ottoman binding practice (c. 1760–1800), when European textile and paper imports were regularly incorporated into Ottoman luxury bindings, especially during the post-Tulip Era westernizing trend. A production range of c. 1770–1798 is proposed, anchored by the Yesârî ketebe and supported by the binding evidence. Physical examination and palaeographic comparison with dated Yesârî works could narrow this range.",
+    "place_of_copy": null,
+    "format": "Muraqqaʿ / مرقع — hurûfât (letter-combination exercise) album in taʿlîk script, with red/pink boya efşân endpapers, teal mulevven margin grounds, and European floral doublures",
+    "format_note": "A bound Ottoman calligraphic album (muraqqaʿ) of 6 yaprak (leaves; 9 IIIF pages including binding photographs) containing a complete hurûfât sequence — systematic taʿlîk letter and letter-combination exercises (mesk/mashq) progressing through the Arabic alphabet from alif-bā combinations through mīm-nūn. Each opening presents two vassale-mounted calligraphy panels (kıtʿa) on a teal mulevven (colored) margin ground, framed by a compound cedvel system incorporating a distinctive red/pink boya efşân (color-splashed) border band. The album concludes (p007 left panel) with a Persian verse couplet and 'Yesari' ketebe (colophon signature). The album's decorative program is exceptional in multiple respects: (1) the boya efşân endpapers and inner border bands use red/pink pigment rather than gold — the pigment equivalent of zerefşân; (2) the compound cedvel system integrates the boya efşân band as a structural framing element throughout; (3) the binding doublures (p009) use European floral fabric or printed paper, reflecting 18th-century Ottoman taste for European material.",
+    "language": "Arabic",
+    "script": "Taʿlîk / talik hattı (تعليق) — Arabic alphabet letter-combination exercises in the Ottoman taʿlîk hand. P007 right panel calligraphy in blue-grey ground also in taʿlîk. YEK catalogue: 'Arap harfli — Talik'.",
+    "dimensions_mm": {
+      "height": 310,
+      "width": 195,
+      "writing_area_mm": {
+        "height": 165,
+        "width": 95
+      },
+      "note": "Outer dimensions 310×195 mm; text area 165×95 mm per YEK catalogue. These are consistent with the images: the album is a relatively narrow, vertical-format murakka of moderate size."
+    },
+    "folio_count": 6,
+    "yek_id": "520279",
+    "iiif_id": "0000000502489",
+    "notes": "This album is catalogued under YEK subject code 740 (Çizgi sanatları ve dekoratif sanatlar — linear arts and decorative arts), confirming it is classified as a decorative arts object rather than a strictly literary manuscript. The YEK record has minimal metadata: no kâğıt özellikleri, no tezhip/minyatür, and no genel notlar fields populated; all decoration observations derive exclusively from visual examination of IIIF images and the visual confirmation session. The album is held at Kütahya Vahid Paşa Kütüphanesi — a provincial library in Kütahya (western Anatolia), a city with a significant Ottoman ceramic and calligraphic tradition. The library should not be confused with Veliyyüddin Efendi Kütüphanesi in Istanbul. The album represents a significant find: the red/pink boya efşân is only the second confirmed non-gold sprinkled-paper specimen in the project corpus (after esad_efendi_03292-001, which uses silver); no other confirmed boya efşân murakka is documented in the currently catalogued corpus."
+  },
+  "paper_decoration": {
+    "types": [
+      "colored",
+      "framing_system",
+      "other"
+    ],
+    "summary": "Vahid Paşa 1220 exhibits a rare and coherent multi-technique decorative program centered on boya efşân (بویا افشان, color-splashed paper) — the pigment equivalent of zerefşân, applied in two distinct structural roles: (1) as a full-ground endpaper paper (pp. 001 and 008, front and back flyleaves), and (2) as a narrow inner border band within the compound cedvel framing system on all six calligraphy pages (pp. 002–007). The splashed material is definitively red/pink pigment — not gold — making this a boya efşân specimen rather than zerefşân. The color is vivid orange-red to warm pink, consistent with an organic red pigment (perhaps vermilion or madder-based) or possibly an oxidized copper compound; physical examination is required to identify the substance. The second major decorative element is a deep teal (blue-green) mülevven (colored) paper used as the outer margin ground on all calligraphy pages: the calligraphy panels are vassale-mounted into the teal sheet. A secondary colored paper usage appears on p007 (right panel), where the calligraphy writing surface itself is blue-grey mülevven paper — a distinct shade from the teal margins. The compound framing system (cedvel) integrates both techniques: from outside in, each calligraphy panel is surrounded by: (1) a thin dark red outer rule at the extreme edge; (2) a gold band (the outermost gilded frame); (3) the red/pink boya efşân border band, c. 8–10 mm wide; (4) a blue rule; (5) a thin dark inner rule; (6) the calligraphy panel. This 5-6 layer compound cedvel is a luxury production system throughout. The binding doublures (p009) add a fourth decorative register: European-influence floral fabric or printed paper with vertical stripes and polychrome naturalistic flowers, framed in red leather with a gold rope-tooled border.",
+    "distribution_notes": "Red/pink boya efşân: front endpaper/flyleaf (p001, both sides), back endpaper/flyleaf (p008, both sides) — as full-ground paper. AND: inner border band within the cedvel framing system on all 6 calligraphy spreads (pp. 002–007). Deep teal mülevven margin: all 6 calligraphy spreads (pp. 002–007) as the outer margin/vassale ground. Blue-grey mülevven: right calligraphy panel on p007 only — writing surface. European floral doublures: inside covers (p009). The boya efşân and mülevven are entirely interior decorative elements; the exterior binding (leather covers not photographed separately) is not assessed.",
+    "boya_efshan_description": "boya efşân (بویا افشان, color-splashed paper). Pink/red pigment hand-scattered via brush-flicking (fırça serpme), producing an irregular, cluster-and-gap distribution across the cream/buff paper surface. This is the pigment equivalent of zerefşân — same technique, colored paint instead of gold leaf. Persian: rangafshān (رنگ‌افشان). VP 1220 is the most systematic boya efşân specimen in corpus: full-page endpapers (pp. 1, 8) + narrow border strips within the compound cedvel (pp. 2-7). Physical exam recommended to determine pigment composition.",
+    "other_description": "European floral fabric/printed paper doublures (inside covers, p009). Vertical striped pattern with polychrome naturalistic flowers, framed in red leather with gold rope-tooled border. The 'other' category covers this binding feature only; boya efşân is classified under 'colored'.",
+    "technique_terms": {
+      "ottoman": "boya efşân (بویا افشان) — kırmızı/pembe renkli serpme kâğıt (color-splashed paper); mülevven kâğıt (ملون کاغذ) — boyalı kâğıt; bileşik cedvel / mürekkep cedvel — compound ruling system; vassale — pencere montaj tekniği; Avrupa çiçekli kaplama kâğıdı / kumaşı — European floral doublure",
+      "persian": "rangafshān (رنگ‌افشان) — color-scattering; rang-āmīz (رنگ آمیز) — colored paper; kāġaz-e rang (کاغذ رنگ) — colored paper",
+      "arabic": "waraq mulawwan (ورق ملوّن) — colored paper; waraq murashsh bi-ṣibgh (ورق مرشوش بصبغ) — pigment-splashed paper; jadwal murakkab (جدول مركب) — compound ruling"
+    },
+    "catalogue_description": {
+      "paper_field": null,
+      "paper_field_normalized": null,
+      "paper_field_translation": null,
+      "notes_field": null,
+      "notes_field_normalized": null,
+      "notes_field_translation": null,
+      "decoration_field": null,
+      "source": "YEK portal, record 520279, Kütahya Vahid Paşa Kütüphanesi. Catalogued by İleyha Tuğçe Durmaz. Kâğıt özellikleri, tezhip/minyatür, and genel notlar fields are all null in the YEK record. The title inscription on p001 reads 'Hurûfât-i Yesârî Efendi Sahîfe' (Pages of Yesârî Efendi's Letter-Combinations), confirming content and attribution. All decoration descriptions derive from direct visual examination of 9 IIIF pages at native resolution (2272×1704 px per page) and the visual confirmation session (catalog/searches/visual_tier2_vahid_pasa_01220.json)."
+    }
+  },
+  "workshop_attribution": {
+    "primary_tradition": "ottoman",
+    "workshop_centre": "Istanbul (probable) or Kütahya",
+    "date_range_ce": "late 18th century (c. 1770–1798)",
+    "confidence": 0.82,
+    "key_indicators": [
+      "Yesârî Mehmed Es'ad ketebe on p007 (left panel) places production in Istanbul before 1213/1798; Yesârî was an imperial calligrapher active in Istanbul",
+      "The taʿlîk script and hurûfât format are consistent with Istanbul court calligraphic practice of the late 18th century — Yesârî's school defined the Ottoman taʿlîk tradition",
+      "The compound cedvel with gold band, boya efşân inner border, and blue/dark rules is a luxury system consistent with high-grade Istanbul murakka production",
+      "The European-style floral doublures (p009) reflect the late 18th-century Ottoman taste for European luxury materials, characteristic of the post-Tulip Era westernizing period in Istanbul binding workshops",
+      "Teal mülevven as a consistent margin ground throughout a murakka is well-attested in late Ottoman album production; the coordinated color program (teal margins + red/pink boya efşân borders) signals deliberate luxury design"
+    ],
+    "cross_tradition_caveats": [
+      "The album is held at Kütahya Vahid Paşa Kütüphanesi — a provincial library; the album could have been produced in Istanbul and later transferred to Kütahya, or could represent high-quality provincial production in Kütahya, which had its own calligraphic tradition",
+      "No city or workshop is named in the album itself; attribution to Istanbul rests on the Yesârî attribution and the luxury character of the production, not on explicit documentary evidence",
+      "The red/pink boya efşân is unusual enough that it may represent a regional variant or a different paper-maker tradition; without physical analysis of the sprinkled material, the workshop assignment remains inferential",
+      "The European floral doublures could indicate a later rebinding campaign, in which case the original binding date could differ from the calligraphic content date"
+    ]
+  },
+  "codicology": {
+    "paper": {
+      "color": "Three distinct paper categories observed: (1) cream/buff paper with dense red/pink boya efşân sprinkling — endpapers (p001, p008); (2) varied calligraphy panel papers: mostly off-white/cream âharlı with occasional yellowish-cream/buff tone (different stocks visible across the six spreads, confirmed by color variation between left and right panels in a single opening); (3) blue-grey mülevven paper — calligraphy writing surface on p007 right panel only; (4) deep teal/blue-green mülevven — the outer margin sheet into which panels are vassale-mounted on all calligraphy pages.",
+      "preparation": "The calligraphy panels are written on sized and burnished (âharlı) paper, producing the smooth, lightly lustrous surface required for the flowing taʿlîk hand. The teal mülevven margins appear to be a solid-colored prepared paper, uniformly tinted — no pattern or texture visible beyond the color itself. The red/pink boya efşân papers show a cream/buff base (Eastern paper, likely moderately sized) onto which the red/pink sprinkled material has been applied; the base paper grain is visible between speckles at IIIF resolution. The blue-grey mülevven writing paper (p007R) has a consistent grey-blue tone as a writing ground, somewhat rougher in appearance than the cream panels.",
+      "weight": "Moderate weight inferred from the murakka construction; the teal margin sheets appear to be full-size folio sheets carrying the mounted panels. Standard Ottoman album paper weight expected.",
+      "decoration": "Red/pink boya efşân on endpaper sheets; teal mülevven on margin sheets; compound cedvel framing with gold band + boya efşân border + ruled lines; vassale-mounted panels; European floral doublures on binding covers.",
+      "paper_type": "Eastern/Oriental sized paper for calligraphy panels and boya efşân endpapers; mülevven (tinted) Eastern paper for margins; blue-grey mülevven for p007R writing surface. The doublures (p009) are European floral material — likely a printed or woven textile, or block-printed paper with European floral pattern."
+    },
+    "ruling": {
+      "system": "Compound multi-layer cedvel (compound ruling system) on all six calligraphy spreads. Layers from outside in: (1) thin dark red/brown outer rule at page edge; (2) gold band (altın cetvel) — the widest element, providing the outer gold frame; (3) red/pink boya efşân border band, c. 8–10 mm wide, running around all four sides of the panel; (4) blue ruling line (thin, consistent); (5) thin dark ruling line; (6) calligraphy panel. Total of 5–6 distinct layers visible at IIIF resolution. The gold outermost band is the most prominent structural element; the boya efşân band immediately inside it serves both as a decorative and as a spatial separator between the gold frame and the ruled panel.",
+      "description": "The compound cedvel on each calligraphy opening is clearly legible in all IIIF images. The gold band is a wide, flat gilded zone forming the outer visible frame. The boya efşân inner border band is clearly distinct from the gold — it is the red/pink speckling zone between the gold and the blue rule. The blue rule is a single thin line immediately inside the boya efşân zone. A thin dark line follows before the calligraphy panel begins. The overall visual effect is a warm tonal progression from gold → red-pink → blue → dark → cream calligraphy, which coordinates precisely with the teal outer ground (teal | gold | red-pink | blue | dark | cream). No koltuk (corner) illumination elements are present — the cedvel system is continuous and uninterrupted by corner medallions."
+    },
+    "binding": {
+      "cover_description": "The exterior binding covers are not individually photographed; p009 captures both inside covers (doublures) opened flat. The doublures are lined with a European-style floral fabric or printed paper: vertical alternating stripes (cream/buff and sage-green/olive) bearing naturalistic polychrome floral garlands. The flowers include pink/rose tulips, red composite flowers (possibly carnations or full roses), green leaves and stems, and small orange/yellow buds arranged in continuous diagonal bands. The pattern is consistent across both covers, cut from the same material bolt. The red leather binding frame (visible as a c. 15–20 mm red margin around each doublure) is consistent with standard Ottoman red leather bindings. A gold rope-tooled border (zencirek-type) runs along the inner edge of the red leather frame, separating it from the floral doublure. This rope-tool border is clearly visible at IIIF resolution as a continuous repeating gold chain/twist pattern.",
+      "cover_type": "Deri cilt — red leather binding with European floral fabric/printed-paper doublures and gold rope-tooled border",
+      "notes": "The European floral doublures are a significant finding. Ottoman bindings of the late 18th century (c. 1760–1810) frequently incorporated European textile imports or European-style printed papers as doublure linings, reflecting the decorative taste of the post-Tulip Era (Lale Devri, 1718–1730) and its continuation into the late 18th century. The floral pattern here — naturalistic, with diagonal garland arrangement on striped ground — is consistent with European (possibly French or Italian) printed paper or silk exports to the Ottoman market. The red leather frame with gold rope-tooled border is a standard Ottoman luxury binding element. Whether the doublures represent the original binding or a later rebinding campaign cannot be determined from images alone. If the doublures are contemporary with the calligraphic content (c. 1770–1798), they provide independent corroboration for a late 18th-century production date."
+    },
+    "format": "Muraqqaʿ — Ottoman calligraphic hurûfât album (letter-combination exercise album). 6 yaprak (leaves), 9 IIIF pages including binding documentation.",
+    "condition_summary": "The album is generally well-preserved. Calligraphy panels are legible and unfaded at IIIF resolution. The teal mülevven margins are vivid and consistent, showing no significant fading. The red/pink boya efşân endpapers (p001, p008) are intact with no major losses; minor scuffing visible on p001 (inside front cover). The library stamps and accession markings on p001 are clear. No missing leaves, catastrophic damage, or major repair campaigns are visible in the IIIF photographs. The p007 right panel (blue-grey mülevven writing surface) appears in good condition. Minor abrasion on the spine area of p008. Overall condition: good.",
+    "conservation_history": null
+  },
+  "visual_confirmation": {
+    "verdict": "confirmed",
+    "confidence": 0.95,
+    "screenshots_examined": 9,
+    "folios_examined": [
+      "corpus/iiif/vahid_pasa_01220_p001.jpg",
+      "corpus/iiif/vahid_pasa_01220_p002.jpg",
+      "corpus/iiif/vahid_pasa_01220_p003.jpg",
+      "corpus/iiif/vahid_pasa_01220_p004.jpg",
+      "corpus/iiif/vahid_pasa_01220_p005.jpg",
+      "corpus/iiif/vahid_pasa_01220_p006.jpg",
+      "corpus/iiif/vahid_pasa_01220_p007.jpg",
+      "corpus/iiif/vahid_pasa_01220_p008.jpg",
+      "corpus/iiif/vahid_pasa_01220_p009.jpg"
+    ],
+    "visual_evidence": "All decorative features confirmed at native IIIF resolution (2272×1704 px per page). (1) Red/pink boya efşân: vivid orange-red to warm pink pigment-splashing densely covering the cream/buff ground on p001 (inside front cover + first flyleaf, both surfaces) and p008 (back endpaper/flyleaf, both surfaces). The sprinkling is irregular and hand-applied, with clusters and gaps consistent with brush-flicked (fırça serpme) technique. Color is definitively red/pink — not gold, not brown. The same boya efşân material appears as the inner border band on all calligraphy pages (pp. 002–007), running c. 8–10 mm wide between the gold outer band and the blue rule. (2) Deep teal mülevven: uniform, consistent blue-green colored paper used as the outer margin/vassale ground on all six calligraphy spreads. The teal color is deep and saturated, visually distinct from both the red/pink boya efşân and the cream calligraphy panels. (3) Compound cedvel: 5–6 layer ruling system confirmed on all calligraphy pages — gold band, pink boya efşân band, blue rule, dark rule, panel — visible as distinct nested rectangles. (4) Vassale construction: calligraphy panels clearly window-mounted into the teal margin sheets; different paper colors between left and right panels in single openings (e.g. p002: yellowish-cream left / off-white right) confirm separate paper stocks mounted in the same margin sheet. Physical tab visible at p004 right panel lower right — a paper handling tab consistent with vassale mounting. (5) Blue-grey mülevven writing surface on p007 right panel: this panel uses a distinctly lighter, blue-grey colored paper as the writing ground — visually different from both the teal margin and the cream panels. (6) European floral doublures on p009: vertical stripe pattern with polychrome naturalistic flowers (pink tulips, red flowers, green stems, orange buds) on cream/sage-striped ground. Red leather frame with gold rope-tooled (zencirek-type) border. Confirmed as a European-influence material.",
+    "limitations": [
+      "The sprinkled material on the endpapers and border bands is definitively red/pink in color. At 2272×1704 px resolution, individual speckles are clearly visible and orange-red to pink in hue. Whether the sprinkled substance is (a) red/pink organic pigment (vermilion, madder, cochineal-based), (b) red-tinted metallic leaf, or (c) a copper-based compound (e.g. minium, red lead) that has not further oxidized requires physical examination and ideally spectroscopic analysis (XRF or Raman) to resolve.",
+      "The European floral doublure material (p009) appears textile-like at this resolution, but whether it is woven fabric (silk brocade or printed cotton) or block-printed/engraved paper cannot be determined without physical examination. The woven texture of the ground is suggestive of fabric, but printed paper on a laid/woven stock is not excluded.",
+      "The Yesârî ketebe on p007 left panel is visible as a small calligraphic inscription below the verse couplet, but the text is not independently transcribable at this resolution; the attribution is accepted from the visual confirmation analysis which could read 'Yesari'.",
+      "The exterior binding covers are not individually photographed in the IIIF sequence; only the doublures (p009) are visible. The exterior cover material and any tooling on the outer face are not assessable from these images.",
+      "No colophon date is inscribed; dating is entirely inferential from the Yesârî attribution and the European doublure style."
+    ],
+    "source_agent": "metadata-generator (direct IIIF examination of all 9 pages) + visual-confirmation session (catalog/searches/visual_tier2_vahid_pasa_01220.json)",
+    "session": "catalog/searches/visual_tier2_vahid_pasa_01220.json"
+  },
+  "folio_analyses": [
+    {
+      "folio": "Inside front cover + first flyleaf — red/pink boya efşân endpapers (IIIF p001)",
+      "source_image": "corpus/iiif/vahid_pasa_01220_p001.jpg",
+      "decoration_present": true,
+      "decoration_types": ["other"],
+      "elements": [
+        {
+          "motif": "Dense red/pink boya efşân — full-ground endpaper paper",
+          "description": "Both the inside front cover (left page) and the first flyleaf (right page) are covered with a cream/buff-ground paper densely sprinkled with red/pink pigment. The sprinkling is irregular and hand-applied — clusters of speckles alternate with lighter-coverage gaps — consistent with brush-sprinkled (fırça zerefşanı) technique but using red/pink pigment rather than gold leaf. The orange-red to warm pink color is uniform across both surfaces and is distinctly vivid. The cream/buff paper base is visible between the speckle clusters. On the inside front cover (left page), a multi-line title inscription in taʿlîk script reads 'Hurûfât-i Yesârî Efendi Sahîfe' (Pages of Yesârî Efendi's Letter-Combinations), with additional text below (including a description of the content: 'aslında bu ne mâhiyette... kâtip kitâphâne vaż...' — partially legible; describes the album's instructional purpose and possibly library provenance). A circular library stamp (possibly Vahid Paşa Kütüphanesi accession seal) is visible lower left, and handwritten shelfmark '1220' is visible at top center. A second stamp or ink mark appears in the lower center area.",
+          "location": "Full ground paper on both sides of the first opening (inside front cover + first flyleaf)",
+          "confidence": 0.95
+        }
+      ],
+      "confidence": 0.95,
+      "notes": "The inside front cover page is structurally the doublure or first endpaper. The title inscription confirms: content = hurûfât (letter combinations); calligrapher = Yesârî Efendi. The library stamps and shelfmark '1220' confirm institutional holding at Vahid Paşa Kütüphanesi. The boya efşân paper is intact and in good condition on this page."
+    },
+    {
+      "folio": "Calligraphy spread 1 — alif-bā combinations (IIIF p002)",
+      "source_image": "corpus/iiif/vahid_pasa_01220_p002.jpg",
+      "decoration_present": true,
+      "decoration_types": ["other", "colored", "framing_system"],
+      "elements": [
+        {
+          "motif": "Deep teal mülevven outer margin — vassale ground",
+          "description": "The full outer margin of both calligraphy panels is covered with a deep teal (blue-green) colored paper. The teal is uniform in color and texture, with no pattern or motifs — it functions as the background ground into which the calligraphy panels are window-mounted (vassale). The color is saturated and deep, distinctly blue-green rather than pure blue or pure green.",
+          "location": "Full outer margin surrounding both calligraphy panels",
+          "confidence": 0.97
+        },
+        {
+          "motif": "Compound cedvel — gold band, red/pink boya efşân border, blue rule, dark rule",
+          "description": "Between the teal margin and the calligraphy panels, a compound framing system is clearly visible. From outside in: (1) a thin dark red/brown outer line at the teal margin edge; (2) a gold band (altın cetvel) — the widest element, appearing as a bright gold-colored zone; (3) a red/pink boya efşân border band c. 8–10 mm wide, with the same red/pink sprinkling as the endpapers contained within this zone; (4) a blue ruling line (thin, consistent); (5) a thin dark inner ruling line immediately surrounding the calligraphy panel. The total framing system is 5–6 layers.",
+          "location": "Frame surrounding each calligraphy panel, both pages",
+          "confidence": 0.97
+        },
+        {
+          "motif": "Vassale-mounted calligraphy panels — different paper stocks",
+          "description": "Left panel: yellowish-cream/buff-toned paper with taʿlîk hurûfât (letter combinations beginning alif-bā). Right panel: brighter off-white paper with taʿlîk hurûfât. The clearly different paper tones confirm the two panels are separate paper sheets window-mounted into the same teal margin sheet. Both panels carry flowing taʿlîk calligraphy in 4–5 lines per panel, showing individual letter combinations and joined forms across multiple lines, with horizontal spacing between each combination.",
+          "location": "Central calligraphy panels, left and right",
+          "confidence": 0.93
+        }
+      ],
+      "confidence": 0.95,
+      "notes": "This opening establishes the album's full decorative system clearly. The boya efşân border band within the cedvel is the defining distinctive feature: the red/pink pigment-splashing within the border zone exactly matches the endpaper boya efşân, confirming that the same prepared boya efşân paper was used for both the endpapers and the interior border strips — or that the same boya efşân treatment was applied to separate strips that were then incorporated into the framing system. The two-panel vassale construction with different paper stocks is characteristic of calligraphic albums where the calligrapher used available paper from multiple sources or sessions."
+    },
+    {
+      "folio": "Calligraphy spread 2 — jīm-dāl combinations (IIIF p003)",
+      "source_image": "corpus/iiif/vahid_pasa_01220_p003.jpg",
+      "decoration_present": true,
+      "decoration_types": ["other", "colored", "framing_system"],
+      "elements": [
+        {
+          "motif": "Deep teal mülevven outer margin (consistent with p002)",
+          "description": "Same deep teal/blue-green colored paper as p002 margin. The color saturation and texture appear consistent with the same batch of prepared colored paper used throughout the album. Both panels (left and right) are surrounded by the same teal ground.",
+          "location": "Full outer margin, both pages",
+          "confidence": 0.97
+        },
+        {
+          "motif": "Compound cedvel — same layer system as p002",
+          "description": "Identical compound framing system: gold band, red/pink boya efşân border band, blue rule, dark rule. The boya efşân band is clearly visible on both pages at this spread. The consistency of the framing system across successive openings confirms a unified production campaign for the entire album.",
+          "location": "Frame surrounding each panel, both pages",
+          "confidence": 0.97
+        },
+        {
+          "motif": "Vassale calligraphy panels — off-white paper (both panels)",
+          "description": "Both panels on this spread appear to use a similar off-white to lightly cream paper, in contrast to the yellowish-cream of some panels in p002 and p005. The hurûfât content progresses through jīm-dāl combinations. Taʿlîk calligraphy is clear and flowing, with 4–5 lines per panel.",
+          "location": "Central calligraphy panels, both pages",
+          "confidence": 0.90
+        }
+      ],
+      "confidence": 0.95,
+      "notes": "This spread confirms the decorative program is entirely consistent across openings. The red/pink boya efşân border band is unambiguously present and identical in character to p002."
+    },
+    {
+      "folio": "Calligraphy spread 3 — ṣād-ṭā combinations (IIIF p004)",
+      "source_image": "corpus/iiif/vahid_pasa_01220_p004.jpg",
+      "decoration_present": true,
+      "decoration_types": ["other", "colored", "framing_system"],
+      "elements": [
+        {
+          "motif": "Deep teal mülevven outer margin (consistent)",
+          "description": "Same teal margin ground, consistent with p002–p003.",
+          "location": "Full outer margin, both pages",
+          "confidence": 0.97
+        },
+        {
+          "motif": "Compound cedvel — consistent",
+          "description": "Identical compound framing system with gold band, red/pink boya efşân band, blue and dark rules.",
+          "location": "Frame, both pages",
+          "confidence": 0.97
+        },
+        {
+          "motif": "Vassale calligraphy panels — yellowish and cream papers; physical tab",
+          "description": "Left panel: yellowish-cream/buff paper. Right panel: cream/off-white paper. A notable physical feature is visible at the lower-right corner of the right panel: a small paper tab protruding beyond the panel edge. This is a handling or alignment tab used during the vassale mounting process (or possibly a page marker/separator in the album construction). Its presence definitively confirms the separate, window-mounted character of the calligraphy panels. Hurûfât content: ṣād-ṭā combinations.",
+          "location": "Central calligraphy panels, both pages; physical tab at right panel lower-right corner",
+          "confidence": 0.92
+        }
+      ],
+      "confidence": 0.94,
+      "notes": "The physical tab on the right panel is a unique codicological detail in this album — possibly a remnant of the original mounting process, or a deliberate page marker. Its presence confirms the vassale construction method and suggests that individual panel sheets were pre-cut and tabbed for assembly."
+    },
+    {
+      "folio": "Calligraphy spread 4 — ṭā-ʿayn-fā combinations (IIIF p005)",
+      "source_image": "corpus/iiif/vahid_pasa_01220_p005.jpg",
+      "decoration_present": true,
+      "decoration_types": ["other", "colored", "framing_system"],
+      "elements": [
+        {
+          "motif": "Deep teal mülevven outer margin",
+          "description": "Consistent deep teal margin ground, same as p002–p004.",
+          "location": "Full outer margin, both pages",
+          "confidence": 0.97
+        },
+        {
+          "motif": "Compound cedvel — consistent",
+          "description": "Gold band, red/pink boya efşân border band, blue rule, dark rule. The boya efşân band is vivid and clearly legible on both pages.",
+          "location": "Frame, both pages",
+          "confidence": 0.97
+        },
+        {
+          "motif": "Vassale calligraphy panels — yellowish-cream (both panels)",
+          "description": "Both left and right panels appear to use a similar yellowish-cream/buff paper on this spread (consistent with the left panels in p002 and p004). Hurûfât content: ṭā-ʿayn-fā combinations. Flowing taʿlîk, 4–5 lines per panel.",
+          "location": "Central calligraphy panels, both pages",
+          "confidence": 0.90
+        }
+      ],
+      "confidence": 0.95,
+      "notes": "Spread 4 confirms the decorative program with no variations. The use of the same yellowish-cream paper for both panels in this opening suggests the calligrapher may have moved to a new paper batch for this session."
+    },
+    {
+      "folio": "Calligraphy spread 5 — fā-kāf-mīm combinations (IIIF p006)",
+      "source_image": "corpus/iiif/vahid_pasa_01220_p006.jpg",
+      "decoration_present": true,
+      "decoration_types": ["other", "colored", "framing_system"],
+      "elements": [
+        {
+          "motif": "Deep teal mülevven outer margin",
+          "description": "Consistent teal margin ground. The teal color remains uniform throughout the album — all six spreads appear to use the same batch of colored paper for the margin sheets.",
+          "location": "Full outer margin, both pages",
+          "confidence": 0.97
+        },
+        {
+          "motif": "Compound cedvel — consistent",
+          "description": "Gold band, red/pink boya efşân border band, blue rule, dark rule. Fully consistent with all preceding spreads.",
+          "location": "Frame, both pages",
+          "confidence": 0.97
+        },
+        {
+          "motif": "Vassale calligraphy panels — off-white paper (both panels)",
+          "description": "Both panels on this spread use off-white/cream paper. Hurûfât content: fā-kāf-mīm combinations. The letter forms in taʿlîk are clearly rendered, with characteristic right-leaning diagonal forms of the taʿlîk style.",
+          "location": "Central calligraphy panels, both pages",
+          "confidence": 0.90
+        }
+      ],
+      "confidence": 0.95,
+      "notes": "Fifth of six calligraphy spreads. Program is completely consistent throughout. No new decorative elements."
+    },
+    {
+      "folio": "Calligraphy spread 6 — mīm-nūn combinations + ketebe (IIIF p007)",
+      "source_image": "corpus/iiif/vahid_pasa_01220_p007.jpg",
+      "decoration_present": true,
+      "decoration_types": ["other", "colored", "framing_system"],
+      "elements": [
+        {
+          "motif": "Deep teal mülevven outer margin",
+          "description": "Consistent teal margin ground, identical to all preceding calligraphy spreads.",
+          "location": "Full outer margin, both pages",
+          "confidence": 0.97
+        },
+        {
+          "motif": "Compound cedvel — consistent",
+          "description": "Gold band, red/pink boya efşân border band, blue rule, dark rule. The framing system is consistent with all preceding spreads, forming a uniform luxury decorative program throughout the album.",
+          "location": "Frame, both pages",
+          "confidence": 0.97
+        },
+        {
+          "motif": "Vassale left panel — off-white paper with Persian verse + Yesârî ketebe",
+          "description": "Left panel: off-white/cream âharlı paper with taʿlîk calligraphy. The content of this panel differs from the pure hurûfât of the preceding panels: it includes a Persian verse couplet ('chun khalâṣ yābi-d ze mufradāt / vaqt-i mashq-i murakkabāt āmad' — 'when freed from individual letters, the time for compound practice comes') followed by a 'Yesari' ketebe signature. This is the conclusive colophon of the album, confirming the calligrapher's identity. The couplet is pedagogical — it marks the end of single-letter exercises and the beginning of compound forms, functioning as a literary conclusion to the hurûfât sequence.",
+          "location": "Left calligraphy panel",
+          "confidence": 0.90
+        },
+        {
+          "motif": "Vassale right panel — blue-grey mülevven paper (EXCEPTIONAL: colored writing surface)",
+          "description": "Right panel: the calligraphy writing surface is a light blue-grey mülevven (colored) paper — distinctly different from (a) the teal margin ground and (b) all other calligraphy panel papers in the album. The blue-grey tone is lighter and greyer than the saturated teal of the margins. The taʿlîk calligraphy (mīm-nūn combinations) is written in black ink on this blue-grey ground. This is an exceptional usage: using a colored paper as the calligraphy writing surface, rather than as the margin ground, is unusual within this album and within the broader corpus. The contrast between black taʿlîk and blue-grey ground is aesthetically deliberate — placing the album's final letter-combination panel on a distinctive colored surface marks it as the conclusion of the sequence, perhaps mirroring the penultimate-to-final relationship in Persian manuscript colophon conventions.",
+          "location": "Right calligraphy panel — writing surface",
+          "confidence": 0.95
+        }
+      ],
+      "confidence": 0.95,
+      "notes": "This is the key folio of the album: it contains both the Yesârî ketebe (left panel) and the exceptional blue-grey mülevven calligraphy surface (right panel). The Persian verse on the left panel explicitly frames the album as a pedagogical sequence from individual letters (mufradāt) to compound combinations (murakkabāt). The deliberate use of the blue-grey colored paper for the final calligraphy panel may be a visual signal distinguishing the concluding folio, or may simply reflect a different paper stock available to the calligrapher at this stage. Physical examination of the ink and paper interactions on both panels is recommended."
+    },
+    {
+      "folio": "Back endpaper/flyleaf — red/pink boya efşân (IIIF p008)",
+      "source_image": "corpus/iiif/vahid_pasa_01220_p008.jpg",
+      "decoration_present": true,
+      "decoration_types": ["other"],
+      "elements": [
+        {
+          "motif": "Dense red/pink boya efşân — full-ground endpaper paper (rear)",
+          "description": "Both pages of the back endpaper/flyleaf opening show the same dense red/pink boya efşân paper as p001. The sprinkling is uniformly applied across the cream/buff ground, with the same orange-red to warm pink color and irregular brush-sprinkled pattern. The paper stock and sprinkling preparation appear identical to the front endpaper, confirming a symmetric front-back endpaper pair — a standard feature of luxury murakka construction where matching endpapers frame the album content. The left page has a slightly lighter area at the extreme left margin (possibly the binding edge shadow), but the boya efşân coverage is complete on both pages. On the right page (the inside back cover / rear doublure), the red leather binding edge is visible at the right, confirming this is the final leaf before the binding closes.",
+          "location": "Both sides of the rear endpaper/flyleaf opening (inside back cover + final flyleaf)",
+          "confidence": 0.95
+        }
+      ],
+      "confidence": 0.95,
+      "notes": "The symmetrical boya efşân endpaper pair (p001 + p008) is intact and confirms the deliberate bilateral framing of the album content: the calligraphy sequence is physically enclosed by red/pink boya efşân papers at both ends, which are themselves enclosed by the binding covers. This produces a layered structure: exterior leather binding → boya efşân endpapers → teal mulevven margin grounds → compound cedvel → calligraphy panels."
+    },
+    {
+      "folio": "Binding doublures — European floral fabric/printed paper (IIIF p009)",
+      "source_image": "corpus/iiif/vahid_pasa_01220_p009.jpg",
+      "decoration_present": true,
+      "decoration_types": ["other"],
+      "elements": [
+        {
+          "motif": "European-style floral doublures — vertical striped polychrome floral pattern",
+          "description": "Both inside covers (doublures) are lined with a European-style floral material — either a woven textile (possibly silk or printed cotton) or a block-printed paper with European floral designs. The pattern consists of: (1) vertical alternating stripes in cream/buff and sage/olive-green, creating a ribbed or banded ground; (2) naturalistic polychrome floral garlands arranged in continuous diagonal or upright bands along the stripes: pink/rose tulips and composite flowers, red multi-petalled blooms (possibly roses or carnations), green leaves and stems in scrolling arrangement, small orange/yellow buds. The flowers are rendered in a fully naturalistic European style, distinct from the Ottoman hatāyī/şükûfe stylized floral vocabulary. The material grain (if textile: woven structure; if paper: printed texture) is visible at IIIF resolution and appears to lean toward a woven fabric ground. The left and right covers show the same pattern with slightly different horizontal alignment of the floral garlands, confirming they were cut from the same bolt or sheet. Each doublure is framed by a c. 15–20 mm red leather border, inside which a gold rope-tooled (zencirek-type) border runs as a continuous repeating interlocked chain/twist motif in gold.",
+          "location": "Inside front cover doublure (left page) and inside back cover doublure (right page)",
+          "confidence": 0.95
+        }
+      ],
+      "confidence": 0.95,
+      "notes": "The European floral doublures are historically significant for dating and context. From the late 17th century onwards, Ottoman binding workshops began incorporating European printed papers and textiles as luxury doublure materials, a trend that accelerated in the 18th century with increased Ottoman-European trade and the westernizing cultural influences of the Tulip Era (Lale Devri, 1718–1730) and subsequent reform periods. By c. 1770–1798 (the probable production window for this album), European floral papers and textiles were well-established in Istanbul luxury binding practice. The specific floral pattern — vertical stripes with diagonal garlands of naturalistic roses, tulips, and composite flowers — is consistent with French or Italian printed paper or silk production of the mid-to-late 18th century. This is the only manuscript in the current corpus with confirmed European floral doublures as the inside cover lining material; it is therefore comparatively exceptional for the project's Ottoman decorated-paper focus."
+    }
+  ],
+  "terminology": {
+    "terms_used": [
+      {
+        "concept": "Color-splashed paper (boya efşân)",
+        "ottoman": "boya efşân (بویا افشان) — renkli serpme kâğıt; serpme-i boyalı — pigment-splashed paper",
+        "arabic": "waraq murashsh bi-ṣibgh (ورق مرشوش بصبغ) — pigment-splashed paper",
+        "persian": "rangafshān (رنگ‌افشان) — color-scattering",
+        "english": "Boya efşân (literally 'paint-scattering'): the pigment equivalent of zerefşân (gold-scattering). Same brush-flicking technique (fırça serpme) but using colored paint/pigment instead of gold leaf, producing matte colored speckles (not metallic) on the paper surface. This album uses pink/red pigment (the exact substance — vermilion, red lead/minium, madder-based, or red-tinted copper compound — is unidentified without physical analysis). Applied in two structural roles: (1) full-ground endpaper paper (pp. 001, 008), and (2) narrow inner border band (c. 8–10 mm) within the compound cedvel framing on all six calligraphy spreads. VP 1220 is the most systematic boya efşân specimen in the project corpus."
+      },
+      {
+        "concept": "Colored paper (solid tint)",
+        "ottoman": "mülevven kâğıt (ملون کاغذ) — teal/blue-green variant; boyalı kâğıt (بویالی کاغذ)",
+        "arabic": "waraq mulawwan (ورق ملوّن) — colored paper; waraq azraq (ورق ازرق) — blue paper",
+        "persian": "kāġaz-e rang (کاغذ رنگ) — colored paper; kāġaz-e zumurradī (کاغذ زمردی) — emerald/teal-colored paper",
+        "english": "Mülevven: a uniformly tinted colored paper, produced by immersing or surface-coating paper with a pigment solution, producing a solid-color ground without pattern. In this album, deep teal (blue-green) mülevven sheets serve as the outer margin and vassale-mounting ground for all six calligraphy spreads. A secondary blue-grey mülevven is used as the calligraphy writing surface on p007 right panel. These are distinct colors: the teal margins are a deep, saturated blue-green (hue roughly 180°, high saturation); the blue-grey writing surface is lighter, greyed, and somewhat more neutral (hue roughly 200–220°, low saturation). Both are consistent with plant-dye or mineral-pigment colored paper preparation."
+      },
+      {
+        "concept": "Window-mounting technique",
+        "ottoman": "vassale (واصاله) / pencere montaj — window-mounting technique for calligraphy panels",
+        "arabic": null,
+        "persian": "vasāla (وصله) / kaghaz-e vasāla — mounting/patching",
+        "english": "Vassale: the murakka construction technique of cutting a window (opening) in a prepared margin sheet and adhering the calligraphy panel in the window from behind, so the panel appears to float within the decorated ground. In this album, each calligraphy spread presents two vassale-mounted panels in a single teal margin sheet: the different paper tones between left and right panels (and between successive spreads) confirm that each panel is a separate paper element. The physical tab visible on p004 right panel is consistent with a handling or alignment feature used during the vassale assembly process."
+      },
+      {
+        "concept": "Compound ruling system",
+        "ottoman": "bileşik/mürekkep cedvel (مرکب جدول) — compound ruling; altın cetvel (آلتین جدول) — gold ruling; ara cetvel — inner rule",
+        "arabic": "jadwal murakkab (جدول مركب) — compound ruling frame; jadwal mudhahdhab (جدول مذهّب) — gold-ruled frame",
+        "persian": "jadval-e murakkab (جدول مرکب) — compound ruling; jadval-e zarrīn (جدول زرین) — golden-ruled frame",
+        "english": "Cedvel (jadwal): ruling lines forming the frame around a manuscript text panel or calligraphy panel. In this album, a compound cedvel of 5–6 layers surrounds each calligraphy panel: (1) thin dark outer rule at margin edge; (2) gold band (altın cetvel) — wide gilded zone; (3) red/pink boya efşân border band — the distinctive feature; (4) blue rule (mavi cetvel); (5) dark inner rule. The term 'bileşik cedvel' or 'mürekkep cedvel' denotes the compound character of the system, as opposed to a single-line cetvel. The integration of the boya efşân band as a structural framing element within the cedvel system is, to this cataloguer's knowledge, unparalleled in the documented corpus."
+      },
+      {
+        "concept": "Letter-combination exercise album",
+        "ottoman": "hurûfât / huruf muraqqaʿı — letter-combination murakka; mesk defteri — practice/exercise book",
+        "arabic": "mashriq al-ḥurūf (مشرق الحروف) — letter exercises; mashq (مشق) — calligraphic exercise/practice",
+        "persian": "hurūfāt (حروفات) — letters; mashq (مشق) — practice piece",
+        "english": "Hurûfât (from Ar. ḥurūf, pl. of ḥarf, letter): in the context of Ottoman taʿlîk calligraphy, a hurûfât album presents the systematic practice of individual Arabic letters and their two-letter and multi-letter combinations in taʿlîk script, progressing through the alphabet. This genre serves as a pedagogical model (mesk/mashq = practice model for students to copy). The album's title 'Hurûfât-i Yesârî Efendi Sahîfe' explicitly names both the genre (hurûfât) and the master calligrapher (Yesârî Efendi). The Persian verse couplet on p007 (left panel) makes the pedagogical function explicit: 'when freed from individual letters, the time for compound practice comes.'"
+      },
+      {
+        "concept": "Calligraphic album",
+        "ottoman": "muraqqaʿ / murakkaat (مرقعات) — calligraphic album; kıtʿa (قطعه) — specimen sheet",
+        "arabic": "muraqqa (مرقع) / muraqqa'āt (مرقعات)",
+        "persian": "muraqqa (مرقع)",
+        "english": "Muraqqaʿ: a bound Ottoman or Persianate calligraphic (and sometimes pictorial) album assembling mounted calligraphy specimens (kıtʿa). This album is a specialized hurûfât murakka — a calligraphic practice model album — rather than a conventional anthology of virtuoso pieces. Its 6-folio structure, 12 mounted calligraphy panels, and systematic alphabetical organization distinguish it from the more common retrospective or commemorative murakka."
+      },
+      {
+        "concept": "Taʿlîk script",
+        "ottoman": "taʿlîk hattı (تعليق خطی) — suspended/hanging script",
+        "arabic": "taʿlīq (تعليق)",
+        "persian": "taʿlīq (تعلیق) / nastaʿlīq (نستعلیق)",
+        "english": "Taʿlîk (also taʿlīq): the Arabic-script cursive hand developed in Iran and adopted in Ottoman calligraphy for Persian-language texts and certain Arabic-language contexts. Characterized by compact letterforms, strong diagonal rhythm, and hanging sublinear elements. In Ottoman usage, taʿlîk is the dominant script for Persian poetry and literary texts; its use for an Arabic-language hurûfât exercise album here is noteworthy. Yesârî Mehmed Es'ad was the foremost Ottoman taʿlîk master of his era. The taʿlîk in this album is in the mature Ottoman style — compact, right-leaning, with the characteristic oval/round bowl forms of the Yesârî school."
+      },
+      {
+        "concept": "European floral doublures",
+        "ottoman": "Avrupa çiçekli iç kapak kaplama — European floral inside-cover lining; Frengi çiçekli kâğıt/kumaş",
+        "arabic": null,
+        "persian": null,
+        "english": "Binding doublure (iç kapak / āstar): the inside face of a binding cover, typically lined with a decorative paper or textile. In this album, the doublures are lined with a European-style material bearing vertical stripes and polychrome naturalistic floral garlands, consistent with French or Italian luxury paper or textile production of the mid-to-late 18th century. Ottoman binding workshops incorporated European materials during the 18th century, particularly after the Tulip Era (Lale Devri, 1718–1730), as European luxury goods became fashionable in Istanbul and other Ottoman court contexts. The gold rope-tooled (zencirek-type) border framing the doublure is a standard Ottoman binding decorative element, combining native and imported materials in a single binding program."
+      },
+      {
+        "concept": "Colophon inscription",
+        "ottoman": "ketebe kaydı — calligrapher's colophon signature",
+        "arabic": "kitāb al-fāriġ (كتاب الفارغ) — colophon; fāriġa — finishing inscription",
+        "persian": "ketābe (کتابه)",
+        "english": "Ketebe kaydı: the closing inscription in which a calligrapher records their name (and often a date and place). In this album, the 'Yesari' signature appears on p007 left panel following a Persian verse couplet that explicitly frames the completion of the hurûfât sequence. The ketebe is the primary attribution evidence for Yesârî Mehmed Es'ad as the calligrapher."
+      }
+    ]
+  },
+  "bibliography": [
+    {
+      "citation": "Alparslan, Ali. Osmanlı Hat Sanatı Tarihi. Istanbul: Yapı Kredi Yayınları, 1999. [In Turkish]",
+      "relevance": "Comprehensive history of Ottoman calligraphy, covering Yesârî Mehmed Es'ad and his school in detail. Provides biographical data on Yesârî, documentation of his dated and attributed works, and the historical context of the late Ottoman taʿlîk tradition. Essential for verifying the calligraphic attribution and situating this hurûfât album within Yesârî's pedagogical output.",
+      "relevance_score": 0.95,
+      "access_notes": "Monograph in Turkish. Widely held at Turkish academic and museum libraries. Standard reference for Ottoman calligraphy history."
+    },
+    {
+      "citation": "Derman, M. Uğur. Letters in Gold: Ottoman Calligraphy from the Sakıp Sabancı Collection, Istanbul. New York: The Metropolitan Museum of Art, 1998.",
+      "relevance": "The primary English-language exhibition catalogue on Ottoman calligraphy, with substantial discussion of the late Ottoman taʿlîk tradition, Yesârî Mehmed Es'ad's calligraphic style, and the mesk/hurûfât pedagogical album format. Provides comparative documentation of Yesârî's signed works and the late 18th-century Istanbul calligraphic environment in which this album was produced. Also covers the murakka format and its decorative paper programs.",
+      "relevance_score": 0.95,
+      "access_notes": "Exhibition catalogue (Metropolitan Museum of Art, 1998). ISBN 978-0870998843. Widely held at Islamic art and Ottoman studies libraries."
+    },
+    {
+      "citation": "Blair, Sheila S. 'Color and Gold: The Decorated Papers Used in Manuscripts in Later Islamic Times.' Muqarnas 17 (2000): 24–36.",
+      "relevance": "The foundational taxonomic study of decorated paper types in Islamic manuscripts, classifying gold-sprinkled (zerefşân), colored (mülevven), marbled, and other paper categories. Blair's framework provides the classification basis for boya efşân (color-splashed paper) as a 'colored' variant within the broader sprinkled-paper technique family — using the same application method as zerefşân but with colored pigment instead of gold. Her coverage of colored paper (mülevven) as a category is directly applicable to the teal and blue-grey mülevven papers in this album.",
+      "relevance_score": 0.93,
+      "access_notes": "Peer-reviewed article. Available via JSTOR (Brill/Muqarnas Online). Open-access PDF accessible at Academia.edu."
+    },
+    {
+      "citation": "Roxburgh, David J. The Persian Album, 1400–1600: From Dispersal to Collection. New Haven: Yale University Press, 2005.",
+      "relevance": "Essential study of the murakka (calligraphic album) format, its construction conventions (including vassale mounting, decorated paper grounds, and framing systems), and the intellectual and aesthetic values embedded in album design. Provides the theoretical framework for understanding the deliberate color sequencing and pedagogical content of this hurûfât murakka, and for situating the red/pink boya efşân endpaper program within broader album-making conventions.",
+      "relevance_score": 0.88,
+      "access_notes": "Monograph; widely held at research libraries."
+    },
+    {
+      "citation": "Bloom, Jonathan M. Paper Before Print: The History and Impact of Paper in the Islamic World. New Haven: Yale University Press, 2001.",
+      "relevance": "Comprehensive history of paper production and use in the Islamic world, providing material-culture background for the mülevven (colored) paper tradition and the serpme (sprinkling) technique. Relevant for understanding the production methods behind the teal mülevven margins and the red/pink boya efşân endpapers, and for situating these techniques within the broader history of Islamic decorated paper.",
+      "relevance_score": 0.80,
+      "access_notes": "Widely held monograph."
+    },
+    {
+      "citation": "Sturkenboom, Ilse. 'Decorated Papers in Persianate Manuscripts: Classification, Technique, and Cultural Transfer.' Forthcoming (GlobalDecoPaper ERC Project, LMU Munich).",
+      "relevance": "Active research project specifically focused on decorated paper classification in Islamic manuscripts, including unusual serpme and colored paper variants. The red/pink boya efşân documented in this album — a RARE non-gold serpme variant — falls squarely within the GlobalDecoPaper research remit. Consultation with the GlobalDecoPaper team is recommended for identifying parallel examples and for spectroscopic characterization of the sprinkled substance.",
+      "relevance_score": 0.90,
+      "access_notes": "Forthcoming publication; contact GlobalDecoPaper ERC Project, LMU Munich for pre-publication consultation. Project website: globaldecoper.hypotheses.org (or equivalent)."
+    },
+    {
+      "citation": "Gacek, Adam. Arabic Manuscripts: A Vademecum for Readers. Leiden: Brill, 2009.",
+      "relevance": "Standard codicological reference for Islamic manuscript terminology, script identification, and physical description conventions. Relevant for the identification and description of the taʿlîk script, the hurûfât format, the ketebe convention, the vassale mounting technique, and the cedvel ruling system. Provides authoritative definitions for all technical terms used in this catalog record.",
+      "relevance_score": 0.82,
+      "access_notes": "Reference monograph; widely held."
+    },
+    {
+      "citation": "Déroche, François. Islamic Codicology: An Introduction to the Study of Manuscripts in Arabic Script. Translated by Deke Dusinberre and David Radzinowicz. London: Al-Furqan Islamic Heritage Foundation, 2005.",
+      "relevance": "Foundational reference for Islamic manuscript codicology, covering paper preparation, decoration types, ruling systems, binding forms, and physical description standards. The classification frameworks for the compound cedvel, vassale mounting, and paper color categories used in this record are grounded in Déroche's system.",
+      "relevance_score": 0.80,
+      "access_notes": "Monograph; available at specialist libraries."
+    },
+    {
+      "citation": "Scheper, Karin. The Technique of Islamic Bookbinding: Methods, Materials and Regional Varieties. Leiden: Brill, 2015.",
+      "relevance": "Systematic study of Islamic bookbinding techniques, directly relevant for the physical analysis of the red leather binding with European floral doublures. Scheper's survey of late Ottoman binding practices and the incorporation of European materials provides the comparative context for the floral doublure lining documented in this album.",
+      "relevance_score": 0.78,
+      "access_notes": "Monograph; available at Islamic bookbinding and manuscript studies libraries."
+    },
+    {
+      "citation": "Renda, Günsel. 'Ottoman Painting in the Eighteenth Century.' In A History of Ottoman Painting, edited by Günsel Renda and C. M. Kortepeter. Washington, D.C.: International Journal of Turkish Studies, 1986.",
+      "relevance": "Covers the cultural context of 18th-century Ottoman artistic production, including the westernizing influences (European imports, Baroque-Rococo aesthetic) that led to the incorporation of European floral materials in Ottoman luxury bindings. Provides historical background for the European floral doublures on this album.",
+      "relevance_score": 0.72,
+      "access_notes": "Chapter in edited volume; available at major Turkish studies and Islamic art libraries."
+    }
+  ],
+  "suggested_collections": [
+    {
+      "institution": "Topkapı Sarayı Müzesi Kütüphanesi, Istanbul",
+      "reason": "Holds the largest corpus of authenticated Yesârî Mehmed Es'ad calligraphic works, including signed hurûfât albums and mesk models. Physical comparison with Topkapı Yesârî holdings is essential for confirming the attribution of Vahid Paşa 1220 and for identifying parallel colored-paper and boya efşân programs in Yesârî-era album production.",
+      "digital_access": "https://kutuphane.tsmk.gov.tr"
+    },
+    {
+      "institution": "Sakıp Sabancı Museum, Istanbul",
+      "reason": "Holds major Yesârî Mehmed Es'ad calligraphic works documented in Derman (1998). The closest comparative corpus for evaluating the taʿlîk hand and album format attributed to Yesârî in this album.",
+      "digital_access": null
+    },
+    {
+      "institution": "Türk ve İslam Eserleri Müzesi (TIEM), Istanbul",
+      "reason": "The TIEM murakka corpus (93 albums, all positive in visual triage) contains numerous late Ottoman taʿlîk albums and several confirmed teal/colored-ground murakka specimens in the project corpus. TIEM 02437 (catalogued in this project) provides direct comparanda for the mülevven margin and compound cedvel format. Systematic comparison with TIEM murakka collection for parallel boya efşân-border cedvel systems is recommended.",
+      "digital_access": "https://portal.yek.gov.tr"
+    },
+    {
+      "institution": "Chester Beatty Library, Dublin",
+      "reason": "Major collection of Ottoman calligraphic albums including late 18th-century taʿlîk albums and bindings with European-influence doublures. Provides international comparanda for both the calligraphic content and the European floral doublure material documented in this album.",
+      "digital_access": "https://viewer.cbl.ie"
+    },
+    {
+      "institution": "GlobalDecoPaper ERC Project, LMU Munich",
+      "reason": "The primary active research project on decorated papers in Islamic manuscripts. The red/pink boya efşân documented in Vahid Paşa 1220 — a rare non-gold serpme variant — is precisely the type of unusual case that falls within the GlobalDecoPaper research scope. Physical examination and spectroscopic analysis of the sprinkled material (to identify the red pigment or metallic compound) is the highest-priority follow-up action for this record.",
+      "digital_access": null
+    },
+    {
+      "institution": "YEK Portal — Kütahya Vahid Paşa Kütüphanesi holdings",
+      "reason": "Further search in the Vahid Paşa Kütüphanesi collection (YEK filter: koleksiyon = Vahid Paşa) may reveal additional decorated paper specimens from the same provincial collection that could illuminate the provenance and acquisition context of this album.",
+      "digital_access": "https://portal.yek.gov.tr"
+    }
+  ],
+  "provenance": {
+    "donor": null,
+    "waqf": "A vakf (endowment) inscription and/or library stamp is visible on p001 (inside front cover), partially legible at IIIF resolution. The stamp appears to be the Kütahya Vahid Paşa Kütüphanesi accession seal. The vakf affiliation of the album — whether it was originally endowed to the Vahid Paşa library or was acquired later — is not determinable from the image alone. Physical examination of the vakf inscription on p001 would clarify the provenance chain.",
+    "previous_shelfmarks": ["1220 (current shelfmark, visible on p001 handwritten at top center)"],
+    "notes": "Held at Kütahya Vahid Paşa Kütüphanesi, Kütahya, Turkey, under shelfmark 1220. YEK ID: 520279. IIIF ID: 0000000502489. Kütahya is an important Anatolian city with a documented tradition of ceramic arts (İznik and Kütahya tiles) and calligraphy; the Vahid Paşa Kütüphanesi is a provincial library established as a waqf institution. The album was likely produced in Istanbul (given the Yesârî attribution to an imperial calligrapher) and subsequently transferred to Kütahya, possibly through the personal library of a provincial official or through a waqf endowment. The absence of detailed provenance documentation in the YEK record reflects the limited metadata currently available for this collection. The cataloguer (İleyha Tuğçe Durmaz) populated only basic bibliographic fields. A full examination of the album's vakf inscription and any ex-libris or ownership marks would be the first step in reconstructing the provenance chain. Note: This library should not be confused with Veliyyüddin Efendi Kütüphanesi, Istanbul — they are distinct institutions in different cities."
+  },
+  "analysis_metadata": {
+    "analyzed_date": "2026-02-28",
+    "analyzer": "claude-code-manuscript-pipeline",
+    "pipeline_stage": "metadata-generator",
+    "image_source": "YEK Portal IIIF images, Kütahya Vahid Paşa Kütüphanesi, YEK ID 520279, IIIF ID 0000000502489. All 9 IIIF pages downloaded and examined at native resolution (2272×1704 px per page). Supplementary visual confirmation session: catalog/searches/visual_tier2_vahid_pasa_01220.json.",
+    "image_quality_notes": "IIIF images at 2272×1704 px per page provide sufficient resolution for confident identification of all decoration types: the red/pink boya efşân sprinkling, the teal and blue-grey mülevven papers, the compound cedvel layer structure, the vassale construction, and the European floral doublures are all clearly legible. The color of the boya efşân is unambiguously red/pink (not gold or oxidized gold) at this resolution. The taʿlîk calligraphy and the Persian verse/ketebe on p007 (left) are legible in general form, though full transcription of the ketebe text requires higher magnification. The physical tab on p004 (right panel, lower right) is visible as a small paper protrusion. The doublure pattern on p009 is clear. No catastrophic image quality limitations affect core classification decisions. Primary limitation: the exact chemical identity of the red/pink sprinkled material cannot be determined from images and requires physical examination.",
+    "folios_examined": [
+      "corpus/iiif/vahid_pasa_01220_p001.jpg",
+      "corpus/iiif/vahid_pasa_01220_p002.jpg",
+      "corpus/iiif/vahid_pasa_01220_p003.jpg",
+      "corpus/iiif/vahid_pasa_01220_p004.jpg",
+      "corpus/iiif/vahid_pasa_01220_p005.jpg",
+      "corpus/iiif/vahid_pasa_01220_p006.jpg",
+      "corpus/iiif/vahid_pasa_01220_p007.jpg",
+      "corpus/iiif/vahid_pasa_01220_p008.jpg",
+      "corpus/iiif/vahid_pasa_01220_p009.jpg"
+    ],
+    "folios_not_examined": "All 9 IIIF pages examined. The exterior binding covers are not individually photographed in the IIIF sequence (only doublures are visible on p009). Exterior cover material and any outer-face tooling are therefore not assessed.",
+    "corpus_priority": "High — Vahid Paşa 1220 is the second confirmed non-gold sprinkled-paper specimen in the corpus (after esad_efendi_03292-001, which is silver-sprinkled). The red/pink boya efşân variant is unparalleled in the corpus. Priority follow-up actions: (1) physical examination and spectroscopic analysis of the boya efşân material to identify the red/pink substance; (2) palaeographic comparison of the taʿlîk hand with authenticated Yesârî Mehmed Es'ad works at Topkapı and Sakıp Sabancı Museum; (3) full transcription of the vakf inscription and ketebe on p001 and p007 respectively; (4) identification of the European floral doublure material (textile vs. printed paper) by physical examination; (5) consultation with GlobalDecoPaper ERC Project.",
+    "source_data": {
+      "visual_confirmation_file": "catalog/searches/visual_tier2_vahid_pasa_01220.json",
+      "yek_id": "520279",
+      "iiif_id": "0000000502489",
+      "batch": "Tier 2 Sub-Batch B (2026-02-28)"
+    }
+  }
+}

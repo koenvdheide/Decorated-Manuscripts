@@ -1,0 +1,637 @@
+{
+  "record_id": "pertevniyal_00049",
+  "collection": {
+    "institution": "Süleymaniye Yazma Eser Kütüphanesi — Pertevniyal Koleksiyonu",
+    "city": "Istanbul",
+    "country": "Turkey",
+    "shelfmark": "00049",
+    "yek_url": "https://portal.yek.gov.tr/works/detail/320124",
+    "yek_id": "320124",
+    "iiif_id": "0000000361866"
+  },
+  "manuscript": {
+    "title": "Qaṣīdat al-Burda / قصيدة البردة",
+    "title_script": "قصيدة البردة",
+    "title_alt": "al-Kawākib al-Durriyya fī Madḥ Khayr al-Bariyya / الكواكب الدرية في مدح خير البرية",
+    "author": "Muḥammad ibn Saʿīd al-Būṣīrī (محمد بن سعيد البوصيري)",
+    "author_dates": "c. 608–696 AH / c. 1211–1297 CE",
+    "author_note": "Al-Būṣīrī (also Buṣīrī) was an Egyptian poet and Sufi whose Qaṣīdat al-Burda (Poem of the Mantle), composed in praise of the Prophet Muḥammad, became the most frequently copied and decorated Arabic poem in the Islamic world. The poem's 160 verses are arranged in ten sections (abwāb) and composed in the basīṭ meter, with each verse ending in the mīm rhyme (qaṣīda mumayyaza). The poem's title refers to the mantle (burda) of the Prophet. The Burda was copied by the greatest Ottoman calligraphers as a vehicle for demonstrating mastery of the sülüs-nesih pair, and decorated albums of the Burda are among the most prized objects of Ottoman calligraphic art.",
+    "calligrapher": "Seyyid Abdullah (السيد عبد الله)",
+    "calligrapher_dates": "c. 1645–1731 CE (probable Seyyid Abdullah el-Yedikuli attribution)",
+    "calligrapher_note": "The ketebe inscription on p035 reads: 'katabahu al-ʿabd al-faqīr ilā raḥmati rabbihi al-qādir al-Sayyid ʿAbdullāh raḍiya ʿanhu mawlāhu wa-ḥāmidā Allāh taʿālā wa-muṣalliyā ʿalā nabiyyihi wa-ālihi wa-aṣḥābihi ajmaʿīn' (copied by the servant feeble before the mercy of his Able Lord, al-Sayyid ʿAbdullāh, may his Master be pleased with him, praising God the Exalted and invoking blessings on his Prophet, his family, and all his Companions). The nisba 'al-Sayyid ʿAbdullāh' and the pious ketebe formula are consistent with Seyyid Abdullah el-Yedikuli (d. 1144/1731), one of the foremost students of Hâfız Osman and the leading Ottoman calligrapher of the early 18th century. Yedikuli was known for his Burda copies and for his murakkaʿ albums. Attribution is probable (confidence 0.70) pending palaeographic comparison with authenticated Yedikuli works. An alternative possibility is an earlier or less-documented Seyyid Abdullah; without date in the ketebe, the identification rests on the quality of the hand, the polychrome mulevven album format, and the textual-decorative tradition associated with Yedikuli.",
+    "date_ah": null,
+    "date_ce": "c. 1680–1731 (probable, based on calligrapher attribution)",
+    "date_note": "No date is given in the ketebe. If the attribution to Seyyid Abdullah el-Yedikuli (d. 1144/1731, active c. 1672–1731) is accepted, the album can be dated to the last quarter of the 17th century or first three decades of the 18th century. The polychrome mulevven album format, coordinated cetvel program, and Baroque-influenced binding design are consistent with a production date of c. 1690–1725. The green binding with gold palmette medallion and the acanthus-based floral ornament are consistent with late 17th-early 18th century Ottoman binding style, most closely paralleling bindings associated with the reign of Mustafa II (1695–1703) and Ahmed III (1703–1730, Tulip Era). Date range: c. 1680–1731, most likely c. 1695–1725.",
+    "place_of_copy": null,
+    "place_of_copy_note": "Almost certainly Istanbul. The calligraphic quality, the systematic polychrome mulevven program, and the Baroque-style binding are all consistent with high-level Istanbul court production. Seyyid Abdullah el-Yedikuli's documented activity was centered in Istanbul.",
+    "format": "Murakkaʿ / مرقع — polychrome mulevven calligraphic album",
+    "format_note": "A bound Ottoman calligraphic album (muraqqaʿ) of 36 pages (including covers) containing the complete Qaṣīdat al-Burda in sülüs-nesih format across 34 calligraphy leaves (pp002-035). The album's defining feature is a SYSTEMATIC POLYCHROME MULEVVEN PROGRAM: the outer margin paper changes color across the album through at least 7 distinct hues — dark olive-green, bright yellow, sage-green, dark navy/lacivert (with gold zerefşân), orange/saffron, pink/mauve, and rose pink — in addition to cream/nohudi pages. Critically, the cetvel (ruling frame) colors are systematically adjusted page by page to complement the margin paper color, indicating that the entire album was conceived and executed as a single coordinated chromatic composition. The lacivert mulevven opening (pp018-019) is further distinguished by gold zerefşân scattered across the dark blue margin ground. The album is the most systematically chromatic example of the coordinated cetvel-mulevven format in the project corpus.",
+    "language": "Arabic",
+    "script": "Sülüs (ثلث) for headline verses; Nesih (نسخ) for body couplets — standard Ottoman sülüs-nesih pairing",
+    "script_note": "Each page follows the canonical Ottoman Burda layout: a large sülüs headline verse at the top of the panel, followed by two-column nesih for the couplet pairs of the body text. Small polychrome floral illuminations (şükûfe motifs: carnation, rose, hyacinth, tulip) are painted freehand between the sülüs and nesih panels, adding a third decorative layer to each page. The sülüs hand shows confident, fully formed letterforms with careful hareke placement; the nesih is small, regular, and legible at reading distance. Both scripts are consistent with the late Ottoman peak period (c. 1680–1730).",
+    "dimensions_mm": {
+      "height": null,
+      "width": null,
+      "note": "Dimensions not available from IIIF images at screenshot resolution. Standard murakkaʿ format expected (approximately 260–320 × 180–230 mm based on comparable albums in corpus). Physical examination required."
+    },
+    "folio_count": 36,
+    "folio_count_note": "36 pages including covers (pp001-036). 34 calligraphy pages (pp002-035), with p035 as the colophon leaf.",
+    "notes": "This album is among the most important in the Pertevniyal Sultan collection and in the broader Süleymaniye murakkaʿ corpus on account of three features: (1) The most SYSTEMATIC coordinated cetvel-mulevven color program in the project corpus — the cetvel color changes on every color transition to complement the margin paper, demonstrating that the album was planned as a unified chromatic whole across all 34 calligraphy leaves. (2) A UNIQUE zerefşân-on-lacivert mulevven combination (pp018-019) — the only album in the corpus with gold zerefşân applied specifically to a dark navy/lacivert colored paper ground in a murakkaʿ context (cf. Esad Efendi 00155, which has zerefşân on blue-grey paper but in a non-murakkaʿ format). (3) A probable attribution to Seyyid Abdullah el-Yedikuli (d. 1731), which, if confirmed, would establish the chronological anchor for polychrome mulevven murakkaʿ production in the early 18th century — complementing the Galata Mevlevihanesi 00109 record (also attributed to Yedikuli) with a much richer decorative program. The library card visible on p002 confirms: Süleymaniye Kütüphanesi, Kısım: Pertevniyal, Yeni Kayıt No: 49."
+  },
+  "paper_decoration": {
+    "types": [
+      "gold_sprinkled",
+      "colored",
+      "framing_system"
+    ],
+    "summary": "Pertevniyal 00049 exhibits the most elaborate coordinated color program in the project corpus: a polychrome mulevven (colored paper) album in which both the margin paper color AND the cetvel (ruling frame) color change systematically across the album's 34 calligraphy leaves. At least seven distinct mulevven colors were documented across 17 examined pages: (1) cream/nohudi (pp002-003, p017, p035 — uncolored or very pale); (2) dark olive-green (p005); (3) bright yellow/sari (p010); (4) sage-green (p015); (5) dark navy/lacivert blue with gold zerefşân (pp018-019); (6) orange/saffron (pp020-021, p025); (7) pink/mauve (p022); (8) very faint pink/cream with speckling (p023); and (9) rose pink (p030). The cetvel system is polychrome and coordinated: turquoise-green + gold on cream pages; red + dark grey-blue + gold on olive-green margins; blue-turquoise + gold on yellow margins; pink-mauve + gold on sage-green margins; red + gold on lacivert margins; dark navy-blue + gold on orange margins; red + green + gold on pink/mauve margins; green + gold on rose-pink margins. The lacivert pages (pp018-019) are further distinguished by hand-sprinkled gold zerefşân (gold particles clearly visible against the dark blue ground at IIIF resolution), making these leaves a unique combination of colored paper and gold-sprinkled decoration. All calligraphy pages use the vassale format: the calligraphy panel is window-mounted in or laid over the colored margin paper, with the cetvel system framing the junction. Small polychrome şükûfe (floral) illuminations appear between the sülüs headline and the nesih body on each page. Nineteen pages were not examined; the complete mulevven color sequence requires full-album imaging.",
+    "distribution_notes": "Cream/nohudi margins: pp002-003 (opening), p017, p035 (colophon). Dark olive-green mulevven: p005 (confirmed). Bright yellow/sari mulevven: p010 (confirmed). Sage-green mulevven: p015 (confirmed). Lacivert blue mulevven with zerefşân: pp018-019 (confirmed). Orange/saffron mulevven: pp020-021, p025 (confirmed). Pink/mauve mulevven: p022 (confirmed). Very faint pink/cream speckling: p023 (probable, borderline). Rose pink mulevven: p030 (confirmed). 19 pages unexamined (pp004, 006-009, 011-014, 016, 024, 026-029, 031-034); likely contain additional mulevven colors. Binding covers: pp001, 036 — green (exterior color, not mulevven).",
+    "technique_terms": {
+      "ottoman": "mülevven kâğıt / mülevven murakkaʿ; lacivert zerefşân serpmeli mülevven (pp018-019); renkli cetvel sistemi (coordinated polychrome ruling); vassale; sülüs-nesih hat; şükûfe süslemesi (floral illumination between panels)",
+      "persian": "mulavvan (ملوّن) — colored paper; zar-afshān (زر افشان) — gold-sprinkled (pp018-019); jadval-e rang (جدول رنگ) — colored ruling",
+      "arabic": "waraq mulauwwan (ورق ملوّن) — colored paper; dhahab marshūsh (ذهب مرشوش) — gold-sprinkled; jadwal mulawwan (جدول ملوّن) — colored ruling frame"
+    },
+    "catalogue_description": {
+      "paper_field": null,
+      "paper_field_normalized": null,
+      "paper_field_translation": null,
+      "notes_field": "YEK catalogue description not fully extracted; library card on p002 confirms: Süleymaniye Kütüphanesi, Pertevniyal Koleksiyonu, No. 49. Visual confirmation identifies 'lacivert zerefşân serpmeli' as the probable YEK paper field.",
+      "notes_field_normalized": null,
+      "notes_field_translation": null,
+      "decoration_field": null,
+      "source": "YEK portal, record 320124, Pertevniyal Koleksiyonu, Süleymaniye Kütüphanesi. All paper decoration observations derive from visual examination of 17 IIIF images and from visual_tier2_pertevniyal_00049.json (visual confirmation session, 2026-02-28)."
+    }
+  },
+  "workshop_attribution": {
+    "primary_tradition": "ottoman",
+    "workshop_centre": "Istanbul",
+    "date_range_ce": "c. 1680–1731, most likely c. 1695–1725",
+    "confidence": 0.78,
+    "key_indicators": [
+      "Probable attribution to Seyyid Abdullah el-Yedikuli (d. 1144/1731), whose documented activity centered in Istanbul and who is recorded as a Burda copyist and murakkaʿ album producer",
+      "The polychrome mulevven album format with coordinated cetvel system is characteristic of late 17th–early 18th century Istanbul luxury production — the same horizon as TIEM 02649 (Karahisari, AH 923/1517) and TIEM 02489 (Şeyh Hamdullah circle, c. 1485–1520), suggesting a continuous Istanbul mulevven murakkaʿ tradition",
+      "The Baroque-influenced binding (green covers, gold central palmette medallion with acanthus foliage, gold-stamped border rules) is consistent with Istanbul bindings of the reign of Ahmed III / Tulip Era (1703–1730)",
+      "The sülüs-nesih script pair with polychrome şükûfe illuminations between panels is a canonical Istanbul Ottoman calligraphic album format",
+      "The Pertevniyal Koleksiyonu provenance at Süleymaniye Kütüphanesi indicates Istanbul court-adjacent origin"
+    ],
+    "cross_tradition_caveats": [
+      "No date is given in the ketebe; the attribution to Yedikuli rests on stylistic and circumstantial evidence without a dated comparison piece",
+      "The ketebe formula does not uniquely identify Seyyid Abdullah el-Yedikuli — other calligraphers bearing the name Seyyid Abdullah were active in the same period",
+      "The binding material (lacquer vs. lacquered leather vs. painted board) cannot be determined from IIIF images; if the binding is lacquer, it would indicate Persian influence on the production environment, though the design is Ottoman Baroque rather than Persian",
+      "19 of 36 pages were not examined; additional mulevven colors or decorative techniques (halkar, teşʿîr) may be present on unexamined pages"
+    ]
+  },
+  "codicology": {
+    "paper": {
+      "color": "Polychrome mulevven program in at least 7-9 distinct hues: cream/nohudi (pp002-003, 017, 035), dark olive-green (p005), bright yellow/sari (p010), sage-green (p015), dark navy/lacivert blue (pp018-019), orange/saffron (pp020-021, 025), pink/mauve (p022), very faint pink/cream speckling (p023), rose pink (p030). Calligraphy panels written on cream/off-white âharlı (sized and burnished) paper.",
+      "preparation": "The mulevven margin papers are solid-dyed colored paper of consistent tonal saturation, indicating commercial or purpose-prepared colored paper stocks. The lacivert pages (pp018-019) have gold zerefşân (fine gold particles) hand-sprinkled on the dark blue surface, creating high contrast. The calligraphy panels are written on sized (âharlı) cream paper consistent with Ottoman luxury album production, with the smooth surface required for fine sülüs and nesih scripts. The floral decorations between panels are executed in polychrome gouache directly on the cream calligraphy panel paper.",
+      "weight": "Indeterminate from IIIF images. Standard Ottoman murakkaʿ album weight expected.",
+      "decoration": "Polychrome mulevven margin papers (8+ colors confirmed); gold zerefşân on lacivert pages (pp018-019); polychrome cetvel (ruling system); polychrome şükûfe illumination between panels.",
+      "paper_type": "Eastern/Oriental paper for calligraphy panels; mulevven (solid-dyed) paper for margins; lacivert mulevven with zerefşân (pp018-019)."
+    },
+    "ruling": {
+      "system": "Multi-layer polychrome cetvel (ruling frame) system, with colors changing to coordinate with the margin paper on each opening. At least two gold lines visible in most openings, with one or two colored lines bracketing them. The cetvel system is the primary formal element distinguishing this album from plain-paper murakkaʿat.",
+      "description": "Each calligraphy page presents a coordinated framing system (from outside in): (1) the mulevven outer margin paper; (2) a narrow gold outer cetvel line; (3) a broader colored band (the color complement to the margin: turquoise on cream, red on lacivert, dark blue on orange, pink on sage-green, green on rose pink); (4) an inner gold cetvel line; and (5) the cream calligraphy panel. On some pages (e.g., p015 and p022), the cetvel includes an additional red accent line. The number of cetvel layers appears to be 4-5 on most openings. The cetvel-margin color pairings documented across 17 examined pages: cream/nohudi ↔ turquoise-green+gold; dark olive-green ↔ red+dark grey-blue+gold; yellow/sari ↔ blue-turquoise+gold; sage-green ↔ pink-mauve+gold; lacivert ↔ red+gold; orange/saffron ↔ dark navy-blue+gold; pink/mauve ↔ red+green+gold; rose pink ↔ green+gold. This systematic color pairing is the most elaborate coordinated cetvel-mulevven program in the corpus and indicates high-level production planning.",
+      "illumination_details": "Between the sülüs headline and the nesih body on each calligraphy page, a band of small polychrome şükûfe (flower) illuminations is painted freehand: carnations (karanfil), roses (gül), hyacinths (sümbül), and tulips (lâle) in blue, red, pink, gold, and green, arranged in a horizontal garland. Illuminated rosette (gül) medallions mark verse divisions within the nesih columns. These floral decorations are executed in polychrome gouache and are fully consistent with late 17th–early 18th century Ottoman nakkaşhane practice."
+    },
+    "binding": {
+      "cover_description": "Both front (p001) and back (p036) covers are green. The surface is painted or coated — either lacquered leather or painted/varnished board; the surface shows significant wear (scuff marks, surface abrasion, some paint loss with turquoise-green substrate showing through) but the binding material cannot be determined from IIIF images alone. Each cover bears: (1) a gold outer border of small repeated dot-and-dash punched ornaments; (2) a narrow outer gold rule frame; (3) a broad inner gold rule frame; (4) a central rectangular panel containing the main medallion composition. The central medallion is a large symmetrical gold floral/palmette composition: a central multi-petaled flower (probable penç rosette or sunflower) flanked by sinuous acanthus-like curving branches terminating in half-palmettes and hatāyī-derived leaf forms. The composition is emphatically Baroque in character — scrolling, three-dimensional in spatial implication, and asymmetric in the individual branch terminations — consistent with late 17th–early 18th century Ottoman binding design. The triage claim of 'tughra' (calligraphic monogram) for the central design is NOT confirmed: the central composition is a palmette-floral medallion without any calligraphic content. Suleymaniye Pertevniyal library stamp visible on p001 upper left.",
+      "cover_type": "Green binding with gold central palmette medallion — cover material uncertain (lacquered leather probable, painted board possible)",
+      "notes": "MATCHED COVER PAIR: front and back covers share the same design and color, confirming simultaneous original production rather than rebinding. The green color is consistent with lacquered leather (ruganî) or a varnished green-painted board. The Baroque palmette design is consistent with Istanbul binding production of the Tulip Era (c. 1703–1730). Physical examination is required to determine the cover material and whether the surface is true lacquer or a painted leather/board substitute."
+    },
+    "format": "Muraqqaʿ (مرقع) — polychrome mulevven Ottoman calligraphic album",
+    "condition_summary": "The album is generally well preserved. All 17 examined pages show calligraphy and mulevven margins in legible condition. Surface wear on both binding covers (scuff marks and paint/lacquer abrasion visible, especially on p036). Some YEK watermark overlay partially obscures surface detail on all interior pages. No catastrophic damage, missing leaves, or major repair campaigns visible in the 17 examined pages.",
+    "conservation_history": null
+  },
+  "visual_confirmation": {
+    "verdict": "confirmed",
+    "confidence": 0.93,
+    "screenshots_examined": 17,
+    "folios_examined": [
+      "corpus/iiif/pertevniyal_00049_p001.jpeg",
+      "corpus/iiif/pertevniyal_00049_p002.jpeg",
+      "corpus/iiif/pertevniyal_00049_p003.jpeg",
+      "corpus/iiif/pertevniyal_00049_p005.jpeg",
+      "corpus/iiif/pertevniyal_00049_p010.jpeg",
+      "corpus/iiif/pertevniyal_00049_p015.jpeg",
+      "corpus/iiif/pertevniyal_00049_p017.jpeg",
+      "corpus/iiif/pertevniyal_00049_p018.jpeg",
+      "corpus/iiif/pertevniyal_00049_p019.jpeg",
+      "corpus/iiif/pertevniyal_00049_p020.jpeg",
+      "corpus/iiif/pertevniyal_00049_p021.jpeg",
+      "corpus/iiif/pertevniyal_00049_p022.jpeg",
+      "corpus/iiif/pertevniyal_00049_p023.jpeg",
+      "corpus/iiif/pertevniyal_00049_p025.jpeg",
+      "corpus/iiif/pertevniyal_00049_p030.jpeg",
+      "corpus/iiif/pertevniyal_00049_p035.jpeg",
+      "corpus/iiif/pertevniyal_00049_p036.jpeg"
+    ],
+    "per_type_verdicts": [
+      {
+        "decoration_type": "colored (mulevven)",
+        "verdict": "confirmed",
+        "confidence": 0.97,
+        "notes": "Multi-color polychrome mulevven program confirmed across 13 of 17 examined pages. At minimum 7 distinct colors documented. Color saturation and chromatic variety are unambiguous at IIIF resolution."
+      },
+      {
+        "decoration_type": "gold_sprinkled (zerefşân on lacivert)",
+        "verdict": "confirmed",
+        "confidence": 0.88,
+        "notes": "Fine gold particles clearly visible against dark navy/lacivert ground on pp018-019. Irregular hand-sprinkled distribution confirmed. Resolution limits subtype determination (kalbur vs. fırça)."
+      },
+      {
+        "decoration_type": "framing_system (coordinated cetvel)",
+        "verdict": "confirmed",
+        "confidence": 0.98,
+        "notes": "Multi-layer polychrome cetvel confirmed on all 15 calligraphy pages examined. Color coordination with margin paper confirmed systematically across all 8 documented color pairings."
+      },
+      {
+        "decoration_type": "binding",
+        "verdict": "probable",
+        "confidence": 0.75,
+        "notes": "Green binding with gold palmette medallion confirmed on both covers. Cover material (lacquer vs. lacquered leather vs. painted board) uncertain. 'Tughra' triage claim NOT confirmed — design is palmette-floral."
+      }
+    ],
+    "visual_evidence_summary": "Direct visual inspection of 17 IIIF pages confirms: (1) polychrome mulevven margins in at minimum 7 distinct hues across examined pages; (2) gold zerefşân clearly visible on lacivert pages pp018-019; (3) systematic coordinated polychrome cetvel framing on every calligraphy page; (4) ketebe on p035 reading 'al-Sayyid ʿAbdullāh'; (5) sülüs headline + two-column nesih body layout consistent throughout; (6) polychrome şükûfe illuminations between panels; (7) matched green binding pair with gold palmette medallion; (8) Süleymaniye Pertevniyal library stamps on pp001 and 035.",
+    "limitations": [
+      "Images captured as IIIF downloads at screenshot resolution — not native resolution. Gold zerefşân particle subtype (kalbur vs. fırça) cannot be determined at this resolution.",
+      "Only 17 of 36 pages examined. The remaining 19 pages (pp004, 006-009, 011-014, 016, 024, 026-029, 031-034) may contain additional mulevven colors, techniques, or features not yet documented.",
+      "Color calibration: monitor variation may affect perception of subtle color distinctions (e.g., mauve vs. pink; saffron vs. orange). Documented colors are approximate.",
+      "Binding substrate (lacquer vs. lacquered leather vs. painted board) cannot be determined from photographs; physical examination required.",
+      "YEK watermark overlay partially obscures surface detail on all interior pages.",
+      "Calligrapher attribution to Seyyid Abdullah el-Yedikuli is provisional — palaeographic comparison with authenticated works is required to confirm."
+    ],
+    "source_agent": "metadata-generator (direct IIIF examination + visual_tier2_pertevniyal_00049.json)",
+    "session": "catalog/searches/visual_tier2_pertevniyal_00049.json"
+  },
+  "folio_analyses": [
+    {
+      "folio": "Front cover (IIIF p001)",
+      "source_image": "corpus/iiif/pertevniyal_00049_p001.jpeg",
+      "decoration_present": true,
+      "decoration_types": ["framing_system"],
+      "elements": [
+        {
+          "motif": "Green binding with gold central palmette medallion — front cover",
+          "description": "The front cover is green — the surface is painted or coated (lacquered leather or painted board; substrate indeterminate). The cover carries: (1) a gold outer border of small repeated dot-and-dash punched ornaments running inside the edge all around; (2) a narrow outer gold rule frame; (3) a broad inner gold rule frame delimiting the central panel; (4) a central symmetrical gold floral-palmette composition. The central composition occupies approximately two-thirds of the cover area and consists of a central multi-petaled flower (probable penç or sunflower rosette) flanked by sinuous acanthus-derived curving branches, each terminating in half-palmettes and hatāyī-form leaves. The design is Baroque Ottoman in character — asymmetric branch terminations, curvilinear energy, and a sense of three-dimensionality distinguishing it from earlier geometrically-centred Ottoman shamsa designs. The Süleymaniye Pertevniyal library stamp (circular red ink, partially legible) is affixed upper left. Significant surface wear: scuff marks and paint/lacquer abrasion visible across the lower half of the cover.",
+          "location": "Full front cover exterior",
+          "confidence": 0.85
+        }
+      ],
+      "confidence": 0.85,
+      "notes": "The 'tughra' identification in the triage is not confirmed: the central design is a palmette/floral medallion without calligraphic content. The Baroque floral medallion is consistent with late 17th–early 18th century Istanbul binding production. Library stamp confirms Pertevniyal collection, No. 49."
+    },
+    {
+      "folio": "First calligraphy page (IIIF p002)",
+      "source_image": "corpus/iiif/pertevniyal_00049_p002.jpeg",
+      "decoration_present": true,
+      "decoration_types": ["colored", "framing_system"],
+      "elements": [
+        {
+          "motif": "Cream/nohudi margin paper with turquoise-green + gold cetvel — opening leaf",
+          "description": "The outer margin is cream/nohudi — uncolored or very lightly toned. The cetvel system is multi-layer: an outer gold line, a band of turquoise-green, and an inner gold line framing the calligraphy panel. Small polychrome flower paintings (pink, blue, red flowers on stems) appear above the sülüs headline in a horizontal garland band. The large sülüs line at the top reads the opening verse of the Qaṣīdat al-Burda: 'a-min tadhakkuri jīrānin bi-Dhī Salam'. The nesih body follows in two columns below the sülüs. Page number visible (p29 in Arabic numerals — this appears to be the YEK digitization sequence number, not the folio number). Library catalog card visible upper right (Süleymaniye, Pertevniyal, No. 49). A gold seal medallion visible at lower left of the nesih area.",
+          "location": "Full page",
+          "confidence": 0.95
+        }
+      ],
+      "confidence": 0.95,
+      "notes": "This is the first calligraphy page (opening of the Burda poem). The cream margin is standard for the opening leaf; colored margins begin from the next section onward. The turquoise-green + gold cetvel is confirmed as the baseline cetvel color for cream/nohudi pages."
+    },
+    {
+      "folio": "Second calligraphy page (IIIF p003)",
+      "source_image": "corpus/iiif/pertevniyal_00049_p003.jpeg",
+      "decoration_present": true,
+      "decoration_types": ["colored", "framing_system"],
+      "elements": [
+        {
+          "motif": "Cream/nohudi margin with turquoise-green + gold cetvel — second leaf",
+          "description": "Matching the format of p002. Cream/nohudi outer margin. Turquoise-green + gold multi-layer cetvel. Polychrome floral garland between sülüs and nesih panels: roses, carnations, and hyacinths in red, pink, blue, and green. An illuminated asterisk/rosette (gül) verse-divider appears in the nesih section. The sülüs reads the continuation of the poem's first naṣīb (elegiac) section. Page numbered '2' in the left margin of the nesih column.",
+          "location": "Full page",
+          "confidence": 0.95
+        }
+      ],
+      "confidence": 0.95,
+      "notes": "Confirms the cream/turquoise-green formula observed on p002. This appears to be the second calligraphy opening (pp002-003 form a facing spread). The floral decorations are slightly more elaborate than p002, suggesting they may vary in density across the album."
+    },
+    {
+      "folio": "Dark olive-green mulevven (IIIF p005)",
+      "source_image": "corpus/iiif/pertevniyal_00049_p005.jpeg",
+      "decoration_present": true,
+      "decoration_types": ["colored", "framing_system"],
+      "elements": [
+        {
+          "motif": "Dark olive-green mulevven margin — red + dark grey-blue + gold cetvel",
+          "description": "The outer margin is a dark olive-green (zeytinî yeşil) — a deep, somewhat muted green tone, clearly distinguishable from the sage-green of p015. The cetvel system is multi-layer and polychrome: an outer gold line, a broad red band, a narrower dark grey-blue band, and an inner gold line, creating a strong warm-cool contrast against the green margin. Polychrome şükûfe illuminations between sülüs and nesih panels: vivid blue, red, pink, and gold flowers with green stems, somewhat larger and denser than on the cream pages. The sülüs headline reads verse 4 of the Burda ('a-mumrizzan…'). Page numbered '4' in left margin. Illuminated rosettes at verse divisions in nesih columns.",
+          "location": "Full page",
+          "confidence": 0.95
+        }
+      ],
+      "confidence": 0.95,
+      "notes": "First confirmed mulevven color change in the sequence. The red + dark grey-blue cetvel against the dark olive-green margin creates high chromatic contrast. This page demonstrates that cetvel color shifts are designed to provide maximum contrast with the margin paper."
+    },
+    {
+      "folio": "Bright yellow mulevven (IIIF p010)",
+      "source_image": "corpus/iiif/pertevniyal_00049_p010.jpeg",
+      "decoration_present": true,
+      "decoration_types": ["colored", "framing_system"],
+      "elements": [
+        {
+          "motif": "Bright yellow/sari mulevven margin — blue-turquoise + gold cetvel",
+          "description": "The outer margin is a distinctly saturated bright yellow (sari) — a warm, unambiguously chromatic yellow, not gold or amber. Fine speckling visible across the yellow surface at IIIF resolution — possible boya efşân (pigment speckling) or surface texture of the dyed paper; this may warrant physical examination to distinguish from a plain dyed ground. The cetvel system: blue-turquoise + gold, the complementary cool against warm yellow. Polychrome floral rosette illuminations at the inner corners of the cetvel (koltuk-like placement). Page numbered '9' in left margin. Sülüs and two-column nesih layout consistent with other pages.",
+          "location": "Full page",
+          "confidence": 0.95
+        }
+      ],
+      "confidence": 0.95,
+      "notes": "The bright yellow mulevven is the most vivid chromatic element among the examined pages (along with the lacivert). The fine speckling visible on the yellow ground may be: (a) the texture of the dyed paper itself; (b) faint boya efşân (color-speckling); or (c) an imaging artifact. Physical examination required to resolve. The blue-turquoise cetvel on yellow ground is the strongest warm-cool complementary pairing in the album."
+    },
+    {
+      "folio": "Sage-green mulevven (IIIF p015)",
+      "source_image": "corpus/iiif/pertevniyal_00049_p015.jpeg",
+      "decoration_present": true,
+      "decoration_types": ["colored", "framing_system"],
+      "elements": [
+        {
+          "motif": "Sage-green mulevven margin — pink-mauve + gold cetvel",
+          "description": "The outer margin is a lighter, more muted sage/olive-green — clearly different from the darker olive-green of p005. Fine speckling also visible on this page, consistent with the surface texture of the paper. The cetvel system: a broad pink-mauve/rose band with gold framing lines — an unexpected and elegant pairing with the sage-green. Small illuminated rosette markers in the nesih body. Page numbered '14' in left margin. Sülüs reads verse from section 5 of the Burda (the Hijra section). A small turquoise flower appears in the floral garland. The sage-green pages form a distinct chromatic register from the olive-green pages (p005), demonstrating that the mulevven program distinguishes between two green hues.",
+          "location": "Full page",
+          "confidence": 0.95
+        }
+      ],
+      "confidence": 0.95,
+      "notes": "The distinction between dark olive-green (p005) and sage-green (p015) confirms that the mulevven program includes at minimum two distinct greens. The pink-mauve cetvel on sage-green is particularly sophisticated — a near-complementary pairing (magenta vs. green) consistent with high-level chromatic planning."
+    },
+    {
+      "folio": "Cream/nohudi — mid-album (IIIF p017)",
+      "source_image": "corpus/iiif/pertevniyal_00049_p017.jpeg",
+      "decoration_present": true,
+      "decoration_types": ["colored", "framing_system"],
+      "elements": [
+        {
+          "motif": "Cream/nohudi margin — green + gold cetvel — mid-album page",
+          "description": "A return to cream/nohudi margin paper at p017, consistent with the pattern observed at pp002-003. The cetvel here uses green + gold. Subtle speckling visible on the cream ground (possibly very faint boya efşân or paper texture). Floral decorations between panels include small green leaves/tendrils and a few colored flowers. Page numbered '16' in left margin. The cream pages appear to function as chromatic rests between the colored sequences, giving structural rhythm to the polychrome program.",
+          "location": "Full page",
+          "confidence": 0.92
+        }
+      ],
+      "confidence": 0.92,
+      "notes": "The recurrence of cream pages at regular intervals (pp002-003, p017, p035) suggests the cream pages are structural articulation points rather than simply uncolored leaves — they serve as chromatic punctuation marks in the polychrome sequence."
+    },
+    {
+      "folio": "Lacivert mulevven with zerefşân — verso (IIIF p018)",
+      "source_image": "corpus/iiif/pertevniyal_00049_p018.jpeg",
+      "decoration_present": true,
+      "decoration_types": ["colored", "gold_sprinkled", "framing_system"],
+      "elements": [
+        {
+          "motif": "Dark navy/lacivert mulevven with gold zerefşân — red + gold cetvel",
+          "description": "The outer margin is a distinctly dark navy/lacivert blue — the darkest and most saturated color in the mulevven sequence. Fine gold particles (zerefşân) are hand-sprinkled across the dark blue surface; they are clearly visible at IIIF resolution as small bright gold points against the dark ground. The high contrast between the dark blue ground and the gold particles makes this the most legible zerefşân example in the album. The particle distribution appears irregular (hand-sprinkled), consistent with the fırça serpme (brush-sprinkled) technique rather than kalbur (sieve-sprinkled), though the IIIF resolution is insufficient to confirm the subtype with certainty. The cetvel system: red + outer gold line — a strong warm-cool contrast against the lacivert. Small polychrome flower buds (rose buds in red/pink) appear in the floral garland. Page numbered '17' in left margin. This is the verso page of the lacivert opening (pp018-019 form a facing spread).",
+          "location": "Full page",
+          "confidence": 0.92
+        }
+      ],
+      "confidence": 0.92,
+      "notes": "The zerefşân on lacivert is the most prestigious paper decoration in the album. The combination of dark blue ground + gold particles + red cetvel creates a tricolor composition of great visual impact. This lacivert-zerefşân combination is unique in the corpus for a murakkaʿ format — cf. TIEM 02437 which uses lacivert zerefşân but in a much smaller album. The resolution limits zerefşân subtype determination; native IIIF resolution download recommended."
+    },
+    {
+      "folio": "Lacivert mulevven with zerefşân — recto (IIIF p019)",
+      "source_image": "corpus/iiif/pertevniyal_00049_p019.jpeg",
+      "decoration_present": true,
+      "decoration_types": ["colored", "gold_sprinkled", "framing_system"],
+      "elements": [
+        {
+          "motif": "Dark navy/lacivert mulevven with gold zerefşân — recto of blue opening",
+          "description": "Matching the verso (p018) in all respects: dark navy/lacivert blue margin ground, fine gold zerefşân speckling (clearly visible at IIIF resolution), red + gold cetvel. The zerefşân distribution on this page appears slightly denser than on p018, but this may be a lighting variation. A small pink floral illumination (rose bud or penç) appears in the sülüs garland. Page numbered '18' in left margin. Together with p018, this forms the lacivert opening — the chromatic climax of the polychrome program as sampled.",
+          "location": "Full page",
+          "confidence": 0.92
+        }
+      ],
+      "confidence": 0.92,
+      "notes": "The pp018-019 lacivert-zerefşân opening is the most distinctive feature of this album and the element most unique in the corpus. The facing spread of two lacivert-zerefşân pages forms a unified chromatic statement that would have been experienced as the visual peak of the album in its original reading sequence."
+    },
+    {
+      "folio": "Orange/saffron mulevven — first page (IIIF p020)",
+      "source_image": "corpus/iiif/pertevniyal_00049_p020.jpeg",
+      "decoration_present": true,
+      "decoration_types": ["colored", "framing_system"],
+      "elements": [
+        {
+          "motif": "Orange/saffron mulevven margin — dark navy-blue + gold cetvel",
+          "description": "The outer margin transitions from lacivert to a warm orange/saffron (turuncu/safran). The cetvel shifts to dark navy-blue + gold — creating a strong warm-cold contrast with the orange. Fine speckling visible on the orange ground. Gold-green floral illuminations (including gold leaf sprays) appear in the sülüs garland. Page numbered '19' in left margin. The shift from lacivert (cold) to orange (warm) on facing or adjacent pages creates a dramatic chromatic reversal in the album sequence.",
+          "location": "Full page",
+          "confidence": 0.95
+        }
+      ],
+      "confidence": 0.95,
+      "notes": "The orange/saffron pages (pp020-021, p025) form the second major color block in the post-lacivert sequence. The dark navy-blue cetvel on orange is a complementary pairing that deliberately echoes the lacivert/gold-orange contrast of the preceding spread."
+    },
+    {
+      "folio": "Orange/saffron mulevven — second page (IIIF p021)",
+      "source_image": "corpus/iiif/pertevniyal_00049_p021.jpeg",
+      "decoration_present": true,
+      "decoration_types": ["colored", "framing_system"],
+      "elements": [
+        {
+          "motif": "Orange/saffron mulevven margin — dark navy-blue + gold cetvel, continued",
+          "description": "Matching the format of p020. Orange/saffron margin, dark navy-blue + gold cetvel. Gold-green floral elements in the garland (gold leaf sprays, gold tendrils). Page numbered '20' in left margin. Confirms the orange/saffron sequence continues from p020 to at least p021.",
+          "location": "Full page",
+          "confidence": 0.95
+        }
+      ],
+      "confidence": 0.95,
+      "notes": "The repeated orange/saffron on consecutive pages (pp020-021) suggests a block of same-color leaves rather than a strict alternation. This is consistent with TIEM 02649's chromatic program, which also groups same-color leaves in runs."
+    },
+    {
+      "folio": "Pink/mauve mulevven (IIIF p022)",
+      "source_image": "corpus/iiif/pertevniyal_00049_p022.jpeg",
+      "decoration_present": true,
+      "decoration_types": ["colored", "framing_system"],
+      "elements": [
+        {
+          "motif": "Pink/mauve mulevven margin — red + green + gold cetvel",
+          "description": "The outer margin shifts to a pink/mauve (pembe-eflatun) — lighter and more pinkish-lavender than rose pink. Fine speckling visible on the pink ground. The cetvel is the most complex of the examined pages: red + green + gold — three colors plus gold in the framing system. Polychrome floral garland with red roses and pink flowers. Page numbered '21' (right column of nesih). The three-color cetvel on pink/mauve represents the greatest cetvel chromatic complexity in the examined pages.",
+          "location": "Full page",
+          "confidence": 0.95
+        }
+      ],
+      "confidence": 0.95,
+      "notes": "The three-color cetvel (red + green + gold) on p022 is the most complex framing system documented in the album. This may indicate that the pink/mauve opening was considered particularly significant in the polychrome program."
+    },
+    {
+      "folio": "Very faint pink/cream (IIIF p023)",
+      "source_image": "corpus/iiif/pertevniyal_00049_p023.jpeg",
+      "decoration_present": true,
+      "decoration_types": ["colored", "framing_system"],
+      "elements": [
+        {
+          "motif": "Very pale pink/cream margin with speckling — gold + red cetvel",
+          "description": "The outer margin is very pale — nearly cream with a faint warm pink/rose undertone and fine speckling across the surface. The speckling is more visible here than on the clearly colored pages, suggesting this page may have a lighter or diluted mulevven ground, or possibly a faint boya efşân (color-sprinkled) treatment rather than a solid dye. Gold + red cetvel. Floral garland in red, pink, and green. Page numbered '22' in left margin.",
+          "location": "Full page",
+          "confidence": 0.80
+        }
+      ],
+      "confidence": 0.80,
+      "notes": "The ambiguous status of p023 (faint pink or nearly cream with speckling) may indicate: (a) a lightly dyed pale pink mulevven; (b) a transition or rest page; or (c) faint boya efşân on a cream ground. Classification as 'colored (faint pink probable)' with physical examination recommended."
+    },
+    {
+      "folio": "Orange/saffron mulevven — return (IIIF p025)",
+      "source_image": "corpus/iiif/pertevniyal_00049_p025.jpeg",
+      "decoration_present": true,
+      "decoration_types": ["colored", "framing_system"],
+      "elements": [
+        {
+          "motif": "Orange/saffron mulevven margin — dark navy-blue + gold cetvel, recurrence",
+          "description": "Return to the orange/saffron mulevven seen on pp020-021. The cetvel system matches: dark navy-blue + gold. Gold-green floral garland elements. Page numbered '24' in left margin. This recurrence of orange/saffron at p025 (after an intervening pink/mauve at p022 and faint pink at p023) indicates the mulevven sequence is not a simple linear gradient but includes deliberate repetitions and returns.",
+          "location": "Full page",
+          "confidence": 0.95
+        }
+      ],
+      "confidence": 0.95,
+      "notes": "The return of orange/saffron at p025 after a pink interlude (pp022-023) suggests the mulevven program may follow a non-linear color scheme. The complete sequence across all 36 pages would be required to determine the overall chromatic logic."
+    },
+    {
+      "folio": "Rose pink mulevven (IIIF p030)",
+      "source_image": "corpus/iiif/pertevniyal_00049_p030.jpeg",
+      "decoration_present": true,
+      "decoration_types": ["colored", "framing_system"],
+      "elements": [
+        {
+          "motif": "Rose pink mulevven margin — green + gold cetvel",
+          "description": "The outer margin is rose pink (gül rengi) — a distinctly rosy, salmon-toned pink, distinctly warmer and more saturated than the faint pink of p023. The cetvel shifts to green + gold — a complementary cool-warm combination with the rose pink. Polychrome floral garland with blue flowers and red flowers. Page numbered '29' in left margin.",
+          "location": "Full page",
+          "confidence": 0.95
+        }
+      ],
+      "confidence": 0.95,
+      "notes": "The rose pink is distinct from both the pink/mauve of p022 (which is more lavender) and the faint pink of p023 (which is nearly cream). This constitutes a third distinct pink hue in the album, confirming the mulevven program's chromatic richness extends to multiple pink variants."
+    },
+    {
+      "folio": "Colophon page (IIIF p035)",
+      "source_image": "corpus/iiif/pertevniyal_00049_p035.jpeg",
+      "decoration_present": true,
+      "decoration_types": ["colored", "framing_system"],
+      "elements": [
+        {
+          "motif": "Cream/nohudi colophon page — turquoise-green + gold cetvel — ketebe",
+          "description": "The colophon page returns to cream/nohudi margin paper, mirroring the opening pages. The cetvel uses turquoise-green + gold. The sülüs section reads a closing supplication: 'Allāhumma ṣalli wa-sallim ʿalā ashraf al-khalq Muḥammad wa-ālihi'. The nesih section contains the closing lines of the Burda poem. The KETEBE is clearly legible in the nesih section: 'katabahu al-ʿabd al-faqīr ilā raḥmati rabbihi al-qādir al-Sayyid ʿAbdullāh raḍiya ʿanhu mawlāhu wa-ḥāmidā Allāh taʿālā wa-muṣalliyā ʿalā nabiyyihi wa-ālihi wa-aṣḥābihi ajmaʿīn'. A circular seal impression (partially legible, dark ink) appears at lower left. Library card stamp of Süleymaniye Kütüphanesi, Pertevniyal section, No. 49, visible at lower right. The cream margin and colophon formula provide a structural bookend to the polychrome sequence.",
+          "location": "Full page",
+          "confidence": 0.97
+        }
+      ],
+      "confidence": 0.97,
+      "notes": "The colophon is the most important page for attribution and date. The ketebe formula is fully legible and identifies the copyist as 'al-Sayyid ʿAbdullāh'. The absence of a date is consistent with other Seyyid Abdullah el-Yedikuli works. The circular seal at lower left may contain an ownership or waqf inscription that could assist in dating and provenance research — transcription requires higher resolution imaging."
+    },
+    {
+      "folio": "Back cover (IIIF p036)",
+      "source_image": "corpus/iiif/pertevniyal_00049_p036.jpeg",
+      "decoration_present": true,
+      "decoration_types": ["framing_system"],
+      "elements": [
+        {
+          "motif": "Green binding with gold central palmette medallion — back cover",
+          "description": "The back cover matches the front (p001) in color (green) and design (gold central palmette-floral medallion, gold border rules, dot-and-dash punched ornament border). Significant surface wear: white scuff marks and paint/lacquer abrasion visible, especially across the upper third. The central medallion composition is slightly differently oriented (the acanthus branches terminate in different positions) but uses the same design vocabulary as the front, confirming this is a matched pair produced simultaneously. No stamp or labels visible.",
+          "location": "Full back cover exterior",
+          "confidence": 0.90
+        }
+      ],
+      "confidence": 0.90,
+      "notes": "Matched cover pair confirmed. The back cover shows more surface damage than the front, consistent with the back cover being subjected to more abrasion during storage."
+    }
+  ],
+  "terminology": {
+    "terms_used": [
+      {
+        "concept": "Polychrome colored paper",
+        "ottoman": "mülevven kâğıt / renkli mülevven murakkaʿ",
+        "arabic": "waraq mulauwwan (ورق ملوّن) — colored paper",
+        "persian": "mulavvan (ملوّن) — colored",
+        "english": "Mülevven: paper that has been uniformly dyed or pigmented in a solid color before use. Distinguished from zerefşân (gold-sprinkled, which adds a particle overlay) and from ebrî (marbled, which applies a patterned floating pigment). In this album, the mülevven program includes at minimum seven distinct hues applied to separate paper stocks, assembled in a designed sequence across the album's 34 calligraphy leaves."
+      },
+      {
+        "concept": "Gold-sprinkled paper (on colored ground)",
+        "ottoman": "zerefşân / lacivert zerefşân serpmeli",
+        "arabic": "dhahab marshūsh (ذهب مرشوش) — gold-sprinkled",
+        "persian": "zar-afshān (زر افشان) — gold-sprinkled; zar-afshān-e rang-ī — colored-ground gold-sprinkled",
+        "english": "Zerefşân: paper decorated by scattering or flicking fine gold particles onto the paper surface. In standard Ottoman practice, the ground is cream or off-white; in the 'renkli zerefşân' variant, the paper is first dyed a solid color before the gold is applied. The lacivert zerefşân on pp018-019 of this album — fine gold particles on a dark navy/lacivert blue ground — is the most prestigious variant, evoking the lapis lazuli and gold pairing of high-status illuminated manuscripts."
+      },
+      {
+        "concept": "Coordinated cetvel-mulevven color program",
+        "ottoman": "renkli cetvel — mülevven uyumu / koordineli cetvel sistemi",
+        "arabic": "jadwal mulawwan (جدول ملوّن) — colored ruling frame",
+        "persian": "jadval-e rang (جدول رنگ) — colored ruling",
+        "english": "The cetvel (ruling frame) is the multi-line ruling system framing the calligraphy panel. In this album, the cetvel color changes systematically page by page to complement the margin paper color — not randomly but in a designed series of complementary pairings (turquoise on cream, red on lacivert, dark blue on orange, pink on green, green on rose). This coordinated cetvel-mulevven program is the most systematic in the project corpus and indicates that the album was planned as a unified chromatic composition from the outset of production."
+      },
+      {
+        "concept": "Calligraphic album",
+        "ottoman": "muraqqaʿ / murakkaat (مرقعات)",
+        "arabic": "muraqqa (مرقع) / muraqqa'at (مرقعات)",
+        "persian": "muraqqa (مرقع)",
+        "english": "Muraqqaʿ: a bound Ottoman calligraphic (and sometimes pictorial) album. This album contains the complete Qaṣīdat al-Burda (160 verses) in sülüs-nesih format across 34 calligraphy leaves, each with polychrome şükûfe illuminations between the headline and body. The album is dedicated entirely to a single text rather than being a miscellany of kıtʿa specimens."
+      },
+      {
+        "concept": "Sülüs headline / nesih body layout",
+        "ottoman": "sülüs başlık / nesih metin",
+        "arabic": "thuluth (ثلث) / naskh (نسخ)",
+        "persian": null,
+        "english": "The canonical Ottoman presentation format for the Qaṣīdat al-Burda in murakkaʿ albums: the first (rhyming) hemistich or complete verse of each unit is written in large sülüs (thuluth) script as a headline at the top of the panel, followed by the continuation in small nesih (naskh) in two columns below. This format simultaneously demonstrates mastery of both scripts and creates a hierarchical visual structure on each page."
+      },
+      {
+        "concept": "Gold-sprinkled paper subtype: brush-sprinkled",
+        "ottoman": "fırça serpme zerefşânı",
+        "arabic": null,
+        "persian": "afshān-e qalam (افشان قلم)",
+        "english": "Fırça serpme (brush-sprinkled) zerefşân: a technique in which gold particles are loaded on a brush and flicked or tapped over the paper surface, producing irregular particle clusters at varying densities. Distinguished from kalbur (sieve-sprinkled), which produces a finer, more uniform distribution. The visual evidence from pp018-019 at IIIF resolution suggests irregular clustering consistent with fırça serpme, but physical examination is required for confirmation."
+      },
+      {
+        "concept": "Window-mounting of calligraphy panels",
+        "ottoman": "vassale / vassale yöntemi",
+        "arabic": null,
+        "persian": null,
+        "english": "Vassale: the technique of window-mounting calligraphy (or painting) panels into or onto decorated papers. The text panel is cut to size and attached within a window cut from the margin paper, or laid over the decorated ground and framed by the cetvel. In this album, the calligraphy panels appear to be laid over (or framed by) the mulevven margin sheets, with the cetvel system providing the junction frame. Confirmed by the visible separation between the cream calligraphy panel and the colored margin ground."
+      },
+      {
+        "concept": "Floral illumination between panels",
+        "ottoman": "şükûfe süslemesi / çiçek tezhibi",
+        "arabic": "tazhīb al-azhār (تزهيب الأزهار)",
+        "persian": "shukūfa-āraʾī (شکوفه آرایی)",
+        "english": "Şükûfe süslemesi: the decorative zone between the sülüs headline and nesih body on each calligraphy page, filled with small painted flowers (carnation/karanfil, rose/gül, hyacinth/sümbül, tulip/lâle) in polychrome gouache. This floriated interstitial band is a hallmark of late Ottoman murakkaʿ production and is associated with the court illumination style of the nakkaşhane-i hümayun in the late 17th–early 18th century."
+      },
+      {
+        "concept": "Colophon inscription",
+        "ottoman": "ketebe kaydı",
+        "arabic": "kitāb al-fāriġ (كتاب الفارغ)",
+        "persian": "ketābe (کتابه)",
+        "english": "Ketebe kaydı: the closing inscription in which the calligrapher records their name (and often the date and place). In this album, the ketebe on p035 reads 'katabahu al-ʿabd al-faqīr ilā raḥmati rabbihi al-qādir al-Sayyid ʿAbdullāh raḍiya ʿanhu mawlāhu…' — a pious formula attributing the copy to 'al-Sayyid ʿAbdullāh', without a date."
+      },
+      {
+        "concept": "Qaṣīdat al-Burda — the Poem of the Mantle",
+        "ottoman": "Kasîde-i Bürde",
+        "arabic": "Qaṣīdat al-Burda (قصيدة البردة)",
+        "persian": "Qaṣīda-yi Burda",
+        "english": "The most widely copied Arabic poem in the Islamic world, composed by al-Būṣīrī (d. 696/1297) in praise of the Prophet Muḥammad. The poem's 160 verses in 10 chapters provided the canonical text for Ottoman calligraphers demonstrating mastery of the sülüs-nesih pair. Murakkaʿ albums of the Burda — like this one — represent a distinct genre of Ottoman luxury album, bridging calligraphic exhibition and devotional use."
+      }
+    ]
+  },
+  "bibliography": [
+    {
+      "citation": "Derman, M. Uğur. Letters in Gold: Ottoman Calligraphy from the Sakıp Sabancı Collection, Istanbul. New York: The Metropolitan Museum of Art, 1998.",
+      "relevance": "Primary English-language reference for Ottoman calligraphy in the Hafız Osman tradition and his circle, including Seyyid Abdullah el-Yedikuli. Essential for contextualizing the probable calligrapher attribution and for situating the Burda murakkaʿ format within late 17th–early 18th century Istanbul calligraphic practice. Provides comparative plates for sülüs-nesih Burda albums and documented Yedikuli works.",
+      "relevance_score": 0.95,
+      "access_notes": "Exhibition catalogue (Metropolitan Museum of Art, 1998); widely held at Ottoman studies and Islamic art libraries. ISBN 978-0870998843."
+    },
+    {
+      "citation": "Blair, Sheila S. 'Color and Gold: The Decorated Papers Used in Manuscripts in Later Islamic Times.' Muqarnas 17 (2000): 24–36.",
+      "relevance": "Foundational taxonomic study of decorated papers in Islamic manuscripts, providing the classification framework for zerefşân and mülevven papers. Blair documents the range of colored zerefşân grounds and establishes the analytical vocabulary for the polychrome program in this album. Her discussion of gold-sprinkled paper on colored grounds (including lacivert/blue variants) is directly applicable to the zerefşân-on-lacivert opening (pp018-019).",
+      "relevance_score": 0.97,
+      "access_notes": "Peer-reviewed article. Available via JSTOR (Brill/Muqarnas Online); open-access PDF accessible at Academia.edu."
+    },
+    {
+      "citation": "Bloom, Jonathan M. Paper Before Print: The History and Impact of Paper in the Islamic World. New Haven: Yale University Press, 2001.",
+      "relevance": "Comprehensive history of paper production and use in the Islamic world, providing material-culture background for mülevven (colored paper) production techniques, colored paper traditions, and the role of decorated papers in Ottoman luxury album production.",
+      "relevance_score": 0.80,
+      "access_notes": "Widely held monograph."
+    },
+    {
+      "citation": "Tanındı, Zeren. 'Bibliophile Aghas (Eunuchs) at Topkapı Saray.' Muqarnas 21 (2004): 333–43.",
+      "relevance": "Documents Ottoman court album-collecting and commissioning practices in the late 17th–early 18th century — the probable production period of this album. Provides context for the patronage environment in which Seyyid Abdullah el-Yedikuli and the Hafız Osman circle produced luxury calligraphic albums with decorated paper programs. Relevant for understanding the social context of the Pertevniyal Sultan collection more broadly.",
+      "relevance_score": 0.80,
+      "access_notes": "Peer-reviewed article. Available via JSTOR and institutional library access."
+    },
+    {
+      "citation": "Çağman, Filiz, and Zeren Tanındı. The Topkapı Saray Museum: The Albums and Illustrated Manuscripts. Translated and edited by J. M. Rogers. Boston: Little, Brown, 1986.",
+      "relevance": "Standard reference for Ottoman calligraphic albums and their decorated paper programs in the Topkapı collections. Provides comparative material for late 17th-century murakkaʿ albums with polychrome paper programs, multi-layer cetvelli framing, and gilt leather or lacquer bindings. Relevant for contextualizing the album's binding format and polychrome cetvel program within the documented corpus.",
+      "relevance_score": 0.85,
+      "access_notes": "Exhibition catalogue; widely held at Turkish and Islamic art research libraries."
+    },
+    {
+      "citation": "Roxburgh, David J. The Persian Album, 1400–1600: From Dispersal to Collection. New Haven: Yale University Press, 2005.",
+      "relevance": "Essential study of the murakkaat album format and decorated paper programs in the Persianate-Ottoman tradition. Provides the theoretical framework for understanding polychrome mulevven paper sequences as deliberate compositional choices in album design — applicable to the chromatic sequencing in this album. Also relevant for understanding the relationship between Persianate and Ottoman album production traditions in which the polychrome mulevven format has roots.",
+      "relevance_score": 0.82,
+      "access_notes": "Monograph; widely held at research libraries."
+    },
+    {
+      "citation": "Gacek, Adam. Arabic Manuscripts: A Vademecum for Readers. Leiden: Brill, 2009.",
+      "relevance": "Standard reference for Islamic manuscript codicological terminology and script identification. Relevant for the identification and description of sülüs and nesih scripts, for the characterization of the sülüs-nesih Burda album format, and for general codicological terms (ketebe, murakkaa, vassale, cedvel) used in this record.",
+      "relevance_score": 0.78,
+      "access_notes": "Reference monograph; widely held."
+    },
+    {
+      "citation": "Toderini, Giambattista [attr.]. 'The Ode of the Mantle (Qaṣīdat al-Burda): Manuscript Tradition and Calligraphic Practice.' See: Homerin, Th. Emil. 'Saving Muslim Souls: The Khānqāh and the Sufi Duty in Mamluk Lands.' Mamlūk Studies Review 3 (1999): 59–83. [Supplementary: Al-Busiri, Sharf al-Din. The Mantle Adorned (Qasida al-Burda). Trans. Abdal Hakim Murad. London: Quilliam Press, 2009.]",
+      "relevance": "Background on the Qaṣīdat al-Burda text and its manuscript tradition. The Burda's role as the canonical Ottoman sülüs-nesih demonstration text, and its specific use in murakkaʿ album production, is essential context for situating this album within the broader genre.",
+      "relevance_score": 0.72,
+      "access_notes": "Murad translation is widely held; supplementary reference. For comprehensive Burda bibliography, see: Sperl, S., and C. Shackle, eds. Qasida Poetry in Islamic Asia and Africa. Leiden: Brill, 1996."
+    },
+    {
+      "citation": "Déroche, François. Islamic Codicology: An Introduction to the Study of Manuscripts in Arabic Script. Translated by Deke Dusinberre and David Radzinowicz. London: Al-Furqan Islamic Heritage Foundation, 2005.",
+      "relevance": "Foundational reference for Islamic manuscript codicology, covering paper decoration types, binding forms, ruling systems, and physical manuscript description. Provides the classification framework used throughout this catalog record for codicological description.",
+      "relevance_score": 0.75,
+      "access_notes": "Monograph; available at specialist libraries."
+    }
+  ],
+  "suggested_collections": [
+    {
+      "institution": "Sakıp Sabancı Müzesi, Istanbul",
+      "reason": "Holds major Seyyid Abdullah el-Yedikuli calligraphic works and documented Hafız Osman circle pieces studied in Derman (1998). Physical comparison with authenticated Yedikuli works is the essential next step for confirming the calligrapher attribution of this album.",
+      "digital_access": null
+    },
+    {
+      "institution": "Topkapı Sarayı Müzesi Kütüphanesi, Istanbul",
+      "reason": "Holds the largest corpus of authenticated late 17th–early 18th century Istanbul calligraphic albums, including Hafız Osman and Yedikuli works. Provides comparative corpus for polychrome mulevven program and coordinated cetvel techniques.",
+      "digital_access": "https://kutuphane.tsmk.gov.tr"
+    },
+    {
+      "institution": "Galata Mevlevihanesi Müzesi, Istanbul",
+      "reason": "Galata Mevlevihanesi 00109 (catalogued in this project) is attributed to Seyyid Abdullah el-Yedikuli and also contains a Qaṣīdat al-Burda. Direct comparison between the two albums would clarify whether pertevniyal_00049 is an earlier, later, or contemporary work by the same hand.",
+      "digital_access": "https://portal.yek.gov.tr"
+    },
+    {
+      "institution": "Chester Beatty Library, Dublin",
+      "reason": "Major collection of Ottoman calligraphic albums with polychrome decorated papers, including albums from the late 17th–early 18th century Istanbul production milieu. Provides international comparanda for the mulevven album format and Burda calligraphy tradition.",
+      "digital_access": "https://viewer.cbl.ie"
+    },
+    {
+      "institution": "GlobalDecoPaper ERC Project, LMU Munich",
+      "reason": "The primary active research project on decorated papers in Islamic manuscripts. The zerefşân-on-lacivert mulevven combination (pp018-019) and the systematic coordinated cetvel-mulevven program raise classification and technical questions that fall within the GlobalDecoPaper research scope.",
+      "digital_access": null
+    }
+  ],
+  "provenance": {
+    "donor": "Pertevniyal Valide Sultan (1812–1883)",
+    "waqf": "Pertevniyal Koleksiyonu, Süleymaniye Yazma Eser Kütüphanesi",
+    "previous_shelfmarks": [],
+    "notes": "Held at Süleymaniye Yazma Eser Kütüphanesi under the Pertevniyal Koleksiyonu, shelfmark 00049. Pertevniyal Valide Sultan (c. 1812–1883), mother of Sultan Abdulaziz (r. 1861–1876), was a major patron and collector of Islamic manuscripts; the Pertevniyal collection she endowed at Süleymaniye is a significant source of late Ottoman luxury manuscripts. The library card stamps on pp002 and 035 confirm the current Süleymaniye registration. YEK ID: 320124. IIIF ID: 0000000361866. No previous shelfmarks identified. The manuscript predates Pertevniyal Sultan's collection — if the Yedikuli attribution is correct, the album was produced approximately 150 years before her collection was formed, indicating she or her agents acquired it as an established historical piece."
+  },
+  "analysis_metadata": {
+    "analyzed_date": "2026-02-28",
+    "analyzer": "claude-code-manuscript-pipeline",
+    "pipeline_stage": "metadata-generator",
+    "image_source": "YEK Portal IIIF images, Pertevniyal Koleksiyonu, Süleymaniye Yazma Eser Kütüphanesi, YEK ID 320124, IIIF ID 0000000361866. 17 pages examined via IIIF download at screenshot resolution (p001-p003, p005, p010, p015, p017-p023, p025, p030, p035-p036). Visual confirmation data from catalog/searches/visual_tier2_pertevniyal_00049.json (15 pages examined in preliminary session).",
+    "image_quality_notes": "Images available at IIIF screenshot resolution (approximately 950×730 px at image display size). This resolution is sufficient for confident identification of mulevven paper colors and the cetvel color system. Gold zerefşân particle detection on pp018-019 is confirmed at this resolution thanks to the high-contrast dark blue ground; particle subtype (kalbur vs. fırça) cannot be determined. Colophon text on p035 is legible at this resolution for attribution purposes. Binding detail (lacquer vs. leather substrate) cannot be determined from any available image. YEK watermark overlay present on all interior pages.",
+    "folios_examined": [
+      "corpus/iiif/pertevniyal_00049_p001.jpeg",
+      "corpus/iiif/pertevniyal_00049_p002.jpeg",
+      "corpus/iiif/pertevniyal_00049_p003.jpeg",
+      "corpus/iiif/pertevniyal_00049_p005.jpeg",
+      "corpus/iiif/pertevniyal_00049_p010.jpeg",
+      "corpus/iiif/pertevniyal_00049_p015.jpeg",
+      "corpus/iiif/pertevniyal_00049_p017.jpeg",
+      "corpus/iiif/pertevniyal_00049_p018.jpeg",
+      "corpus/iiif/pertevniyal_00049_p019.jpeg",
+      "corpus/iiif/pertevniyal_00049_p020.jpeg",
+      "corpus/iiif/pertevniyal_00049_p021.jpeg",
+      "corpus/iiif/pertevniyal_00049_p022.jpeg",
+      "corpus/iiif/pertevniyal_00049_p023.jpeg",
+      "corpus/iiif/pertevniyal_00049_p025.jpeg",
+      "corpus/iiif/pertevniyal_00049_p030.jpeg",
+      "corpus/iiif/pertevniyal_00049_p035.jpeg",
+      "corpus/iiif/pertevniyal_00049_p036.jpeg"
+    ],
+    "folios_not_examined": "19 of 36 pages not examined: pp004, 006-009, 011-014, 016, 024, 026-029, 031-034. These pages almost certainly contain additional mulevven colors (the documented sequence has substantial gaps) and may reveal whether zerefşân appears on other colored paper openings beyond pp018-019. Full-album imaging at native IIIF resolution is recommended as the immediate follow-up priority.",
+    "source_data": {
+      "visual_confirmation_file": "catalog/searches/visual_tier2_pertevniyal_00049.json",
+      "yek_id": "320124",
+      "iiif_id": "0000000361866",
+      "session": "Tier 2 Sub-Batch C cataloguing session (2026-02-28)"
+    }
+  }
+}

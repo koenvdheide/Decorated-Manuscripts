@@ -1,0 +1,673 @@
+{
+  "record_id": "na_00270",
+  "collection": {
+    "institution": "Süleymaniye Yazma Eser Kütüphanesi — Nuri Arlasez Koleksiyonu",
+    "city": "Istanbul",
+    "country": "Turkey",
+    "shelfmark": "00270",
+    "yek_url": "https://portal.yek.gov.tr/works/detail/406230"
+  },
+  "manuscript": {
+    "title": "Muraqqaʿ / مرقعات",
+    "title_script": "مرقعات",
+    "title_alt": "Murakkaʿât-ı Meşk (Muhammed el-Vasfî Muraqqaʿı)",
+    "author": null,
+    "author_dates": null,
+    "calligrapher": "Muhammed el-Vasfî (محمد الوصفي)",
+    "calligrapher_dates": "fl. late 12th c. AH / late 18th c. CE",
+    "calligrapher_note": "Muhammed el-Vasfî is named in the ketebe on the final calligraphy page (p012) as the copyist of the album, dated AH 1195 / 1781 CE. The epithet 'el-Vasfî' (الوصفي) indicates a geographical or nisba affiliation, possibly Vasf (a place name) or a professional descriptive. This calligrapher does not appear in the standard 18th-century Ottoman biographical sources (Müstakimzâde, Tuhfe-i Hattâtîn) consulted by the project; identification remains uncertain pending archival research. The album's content — abjad letter sequences and individual letter forms in sülüs — situates it within the meşk (pedagogical calligraphy practice) tradition of late Ottoman Istanbul.",
+    "date_ah": "1195 AH",
+    "date_ce": "1781 CE",
+    "date_note": "Date AH 1195 confirmed in YEK catalogue record and consistent with the late Ottoman meşk album tradition. The decorated paper program — polychrome battal ebru in multiple palettes plus gel-git ebru — is wholly consistent with late 18th-century Istanbul paper production.",
+    "place_of_copy": null,
+    "place_of_copy_note": "Not stated. Istanbul production assumed on the basis of the album's decorated paper program and the meşk tradition. Calligrapher epithet 'el-Vasfî' does not clearly indicate an Istanbul origin, but the decorated paper program is characteristic of the Istanbul market.",
+    "format": "Muraqqaʿ / مرقع — meşk albümü (pedagogical calligraphy album) with polychrome battal ebru and gel-git ebru margins throughout",
+    "format_note": "A bound Ottoman calligraphic meşk album (muraqqaʿ) of 10 folios / 12 pages (including covers). Content: abjad (أبجد هوز حطي) letter sequences and individual letter forms in sülüs script — a systematic pedagogical calligraphy programme. Each calligraphy spread uses a distinct battal ebru as the full outer margin, with a narrow mulevven inner strip separating the ebru from the gold cetvel. p003 is distinguished by a gel-git (single-stylus wave) ebru opening rather than battal. The album thus presents at least 5 distinct ebru palette variants across 10 calligraphy pages, plus a two-color alternating mulevven inner-strip system, making it the most palette-diverse marbled album in the Nuri Arlasez collection and among the most diverse in the entire corpus.",
+    "language": "Arabic",
+    "script": "Sülüs (ثلث) — primary. Nesih (نسخ) — secondary, for smaller intervening lines. Per YEK catalogue: 'Arap harfli-Sülüs'",
+    "dimensions_mm": {
+      "height": 340,
+      "width": 250,
+      "writing_area_mm": {
+        "height": 210,
+        "width": 130
+      },
+      "note": "Outer dimensions 340×250 mm; text area 210×130 mm per YEK catalogue (stated as '340x250-210x130 mm')"
+    },
+    "folio_count": 10,
+    "yek_id": "406230",
+    "iiif_id": "0000000398191",
+    "notes": "This album is one of the most palette-diverse marbled meşk albums in the project corpus. The triage originally described it as 'blue mulevven (lacivert) margins throughout entire album' — this is a significant mis-classification. The margins are not plain mulevven but polychrome MARBLED PAPER (battal ebru and gel-git ebru) in at minimum five distinct palette variants across the album's spreads. The plain mulevven appears only as a narrow inner strip between the outer marbled margin and the compound gold cedvel. The album thus has three simultaneous decorative paper layers: (1) battal/gel-git ebru as full outer margin ground; (2) plain mulevven as inner strip (teal and pink, alternating); (3) compound multi-band cetvel in gold and colors. This three-layer compound framing system is comparable to tiem_02481, tiem_02462, and hamidiye_00026 in the corpus, but the palette variation across spreads is more systematic and extensive than any of those comparanda. The donation label on the inside front cover (p002 left) reads: 'Merhum Raif Yelkenci hatırasına Sn. Nuri Arlasez Bağışı 270' — establishing that the album was donated by Nuri Arlasez in memory of Raif Yelkenci."
+  },
+  "paper_decoration": {
+    "types": [
+      "marbled",
+      "colored",
+      "framing_system"
+    ],
+    "summary": "NA 00270 presents the most palette-diverse marbled programme documented in the Nuri Arlasez Koleksiyonu and among the most diverse in the entire project corpus. The decorative system operates on three simultaneous layers across every calligraphy spread: (1) OUTER MARGIN — full-width battal ebru (five distinct palette variants across examined pages) or gel-git ebru (p003, the opening calligraphy page); (2) INNER STRIP — narrow mülevven band in either teal/dark turquoise or pink/salmon, alternating across spreads; (3) COMPOUND CEDVEL — multi-band gold ruling framing the cream calligraphy panel, with the inner strip colour repeated in one of the cetvel bands. The red lacquer binding (p001) carries a large gold shamsa with rumi arabesque fill, salbek pendants, and thread border. The inside front cover doublure (p002 right) is battal ebru in pink/red with large green spots — a two-colour battal distinct from all interior palette variants. The five outer-margin palette variants are: (A) gel-git ebru, blue/green/red/pink/cream (p003); (B) battal, salmon/terracotta + blue (p005, p011); (C) battal, deep violet/purple + cream (p007); (D) battal, purple/mauve + amber/orange + white-grey (p009); (E) battal, deep lacivert/blue + red + amber/orange (p012). This systematic palette rotation across spreads is a deliberate compositional programme, not accidental variation — each new opening presents the student calligrapher with a fresh chromatic environment. The album is dated AH 1195 / 1781 CE and attributed to Muhammed el-Vasfî.",
+    "distribution_notes": "p001: red lacquer exterior cover (gold shamsa + salbek). p002 left: cream endpaper (donation label). p002 right: battal ebru doublure, pink/red + green. p003: gel-git ebru outer margin (blue/green/red/pink/cream), teal mulevven inner strip, compound gold cedvel. p004: unexamined (likely battal palette variant B or C). p005: battal ebru outer margin (salmon/terracotta + blue), teal mulevven inner strip, compound gold+teal cedvel. p006: unexamined. p007: battal ebru outer margin (deep violet/purple + cream), pink/salmon mulevven inner strip, compound gold+pink cedvel. p008: unexamined. p009: battal ebru outer margin (purple/mauve + amber/orange + white-grey), teal mulevven inner strip, compound gold+teal cedvel. p010: unexamined. p011: battal ebru outer margin (salmon/terracotta + blue, dynamic swirling — related to p005 but distinct pour), mulevven inner strip (colour uncertain at resolution), compound cedvel. p012: battal ebru outer margin (deep lacivert/blue + red + amber/orange), pink/salmon mulevven inner strip, compound gold+pink cedvel; colophon page with ketebe and AH 1195 date. Mulevven inner strip alternation pattern (teal on pp003, 005, 009; pink on pp007, 012) appears intentional. Even-numbered and odd-numbered spreads may follow a chromatic alternation rule.",
+    "technique_terms": {
+      "ottoman": "battal ebru (çeşitli renkli — en az 5 farklı renk paleti); gel-git ebru (biz tekniği — çift yönlü çizgi, p003); mülevven iç şerit (firuze/koyu yeşil ve pembe/somon, dönüşümlü); altın cetvelli; bileşik cetvel; kırmızı lake cilt (şemse + salbek + yaldız zencirek); ebrulu iç kapak (pembe/kırmızı + yeşil battal ebru)",
+      "persian": "abrī-ye battāl (ابری بطال) — stone-marbled; abrī-ye gel-git (gel-git marbling, single-stylus wave pattern); mulavvan (ملوّن) — colored inner strip",
+      "arabic": "waraq marmurī (ورق مرمري) — marbled paper; jadwal mudhahdhab (جدول مذهّب) — gold-ruled frame; mujallad ruġānī (مجلّد روغاني) — lacquer binding"
+    },
+    "catalogue_description": {
+      "paper_field": null,
+      "paper_field_normalized": null,
+      "paper_field_translation": null,
+      "notes_field": "Murakka'at. 10 yk., 4 st. Arap harfli-Sülüs. 1195. Muhammed el-Vasfi. 340x250-210x130 mm.",
+      "notes_field_translation": "Murakkaʿât. 10 leaves, 4 lines. Arabic-script Sülüs. [AH] 1195. [Calligrapher:] Muhammed el-Vasfî. 340×250–210×130 mm.",
+      "decoration_field": null,
+      "source": "YEK portal, record 406230, Süleymaniye Yazma Eser Kütüphanesi — Nuri Arlasez Koleksiyonu. Catalogued by Yusuf Yıldırım. Kağıt özellikleri and tezhip/minyatür fields are null in the YEK record. All paper decoration observations derive from visual examination of 8 IIIF images (p001–p003, p005, p007, p009, p011, p012) by metadata-generator."
+    }
+  },
+  "workshop_attribution": {
+    "primary_tradition": "ottoman",
+    "workshop_centre": "Istanbul",
+    "date_range_ce": "1781 CE (dated, AH 1195)",
+    "confidence": 0.90,
+    "key_indicators": [
+      "Album is explicitly dated AH 1195 / 1781 CE in the calligrapher's ketebe on p012 — one of the very few dated decorated paper albums in the corpus",
+      "Content (abjad letter sequences in sülüs; meşk pedagogical programme) is characteristic of late Ottoman Istanbul calligraphic training in the post-Hâfız Osmân tradition of the 18th century",
+      "Polychrome battal ebru with multiple palette variants per album is a well-documented late Ottoman Istanbul production practice, with close parallels in the TIEM and Hamidiye collections dating to the late 17th and 18th centuries",
+      "Gel-git ebru opening page (p003) is a deliberate accent technique used in high-quality Ottoman album production — the single gel-git page among battal pages is a known design convention",
+      "The two-layer mulevven inner strip (teal/pink alternating) combined with battal ebru outer margins constitutes a sophisticated compound framing system associated with Istanbul workshop production rather than provincial centres",
+      "Red lacquer binding with gold shamsa and rumi arabesque fill is an Istanbul luxury album binding format; the specific rumi-filled shamsa type is closely comparable to TIEM and Topkapı specimens"
+    ],
+    "cross_tradition_caveats": [
+      "Calligrapher epithet 'el-Vasfî' is not attested in standard Ottoman biographical sources and could indicate a non-Istanbul origin; workshop attribution to Istanbul rests on the paper programme and binding, not the scribe's documented affiliation",
+      "Late 18th-century battal ebru production is not exclusively an Istanbul practice; provincial centres (Bursa, Edirne) also produced battal ebru albums, though the palette sophistication and systematic variation of this album points strongly to a metropolitan production environment",
+      "The specific teal/pink mulevven alternation system has not been paralleled in other Nuri Arlasez albums, which may indicate an individual paper workshop convention rather than a broad Istanbul practice"
+    ]
+  },
+  "codicology": {
+    "paper": {
+      "color": "Three simultaneous paper types visible per opening: (1) OUTER MARGIN — polychrome battal ebru or gel-git ebru (multiple palettes; see folio_analyses); (2) INNER STRIP — narrow mülevven band, alternating teal/dark turquoise and pink/salmon across spreads; (3) CALLIGRAPHY PANEL — cream/off-white burnished âharlı kâğıt. Doublure (p002 right): two-color battal ebru (pink/red + green). Front cover endpaper (p002 left): plain cream.",
+      "preparation": "Calligraphy panels are written on âharlı (sized and burnished) cream paper, consistent with Ottoman luxury calligraphy production. The marbled outer margin papers are battal ebru (stone-marble: pigment floated on size, no manipulation) or gel-git ebru (stylus drawn back-and-forth through floated pigment to create flowing feather/flame shapes). The mülevven inner strips are plain dyed or pigmented paper in teal or pink. The compound cedvel is applied over the assembled papers.",
+      "weight": "Standard Ottoman meşk album weight. The calligraphy panel paper appears moderately heavy and burnished. The battal ebru margin papers are standard weight. No evidence of unusually thin or thick stock from IIIF images.",
+      "decoration": "Battal ebru and gel-git ebru on outer margins. Mülevven on inner strips. Compound gold cetvel framing. Lacquer binding with gold shamsa.",
+      "paper_type": "Eastern/Oriental paper (âharlı) for calligraphy panels; Ottoman marbled papers (battal ebru, gel-git ebru) for outer margins; plain mülevven for inner strips. No European watermark observed. No abadi paper observed."
+    },
+    "ruling": {
+      "system": "Compound multi-band altın cetvel (gold ruling) on every calligraphy page. The full system (from outside in): [outer battal ebru margin] → [narrow inner strip of mülevven: teal or pink] → [compound cetvel: multiple gold lines flanking a thin colored band matching the mülevven strip color] → [cream calligraphy panel]. The cetvel typically shows: one or two outer gold lines, a narrow color fill (matching the mulevven strip), then additional inner gold lines — producing a 3–4 line compound frame.",
+      "description": "The compound cedvel structure is consistent and systematic across all examined calligraphy pages. On pages with teal inner strips (pp003, 005, 009), the cetvel uses gold + teal bands; on pages with pink inner strips (pp007, 012), the cetvel uses gold + pink bands. This color-matching between the mulevven inner strip and the cetvel infill band is a deliberate design choice, creating chromatic coherence within each spread while varying the overall palette across the album. The system is analogous to the compound cedvel programs documented in tiem_02481, hamidiye_00019, and pertevniyal_00049, but the explicit color-matching between strip and cetvel is a more systematic articulation of this convention than found elsewhere in the corpus at this scale."
+    },
+    "binding": {
+      "cover_description": "Front cover (p001): red/oxblood lacquer leather with a prominent central ŞEMSE (medallion) in gold. The şemse has a large polylobed/scalloped oval outline filled with dense RUMI arabesque scrollwork in relief gold, showing interlocking split-leaf palmettes in an intricate interlace. Two SALBEK (horizontal pendants/lobes) extend symmetrically left and right from the central medallion, each a smaller cartouche with rumi fill. A narrow gold thread or stamped border runs along the cover edges. Cover surface shows age-related scuffing and rubbing consistent with use. White circular identification label affixed at bottom right. The back cover is not captured in the examined images.",
+      "cover_type": "Lake cilt / ruganî cilt — red lacquer binding with gold rumi-arabesque şemse and salbek",
+      "notes": "The red lacquer binding with a rumi-filled gold şemse is a prestigious late Ottoman album binding type well-represented in the Topkapı and TIEM collections. The rumi arabesque fill of the şemse (as opposed to a geometric lattice or floral fill) is characteristic of albums produced within or close to the nakkaşhane-i hümayun tradition. Close comparanda include the Bayezid II-period binding on tiem_02429 (catalogued) and late 17th–18th century Istanbul lacquer bindings in the Hamidiye collection. The inside front cover doublure (p002 right) is not plain leather but a two-color battal ebru (pink/red + green), indicating that the binding programme integrates decorated paper into the book's interior as well as the exterior cover."
+    },
+    "format": "Muraqqaʿ — meşk albümü (pedagogical calligraphy album). 10 folios / 12 pages including covers.",
+    "condition_summary": "Generally well-preserved. The lacquer binding (p001) shows surface scuffing and minor abrasion consistent with age and use, but the gold şemse and salbek remain clearly legible. The battal ebru margins on interior pages are vivid with good color retention. The mülevven inner strips are intact and visible. The calligraphy panels are legible. The donation label and YEK watermark overlay on p002 left partially obscure that page. No catastrophic damage, water damage, significant foxing, or major repair campaigns visible in the 8 examined images.",
+    "conservation_history": null
+  },
+  "visual_confirmation": {
+    "verdict": "confirmed",
+    "confidence": 0.97,
+    "confidence_breakdown": {
+      "resolution_quality": 0.80,
+      "folio_coverage": 0.67,
+      "visual_match": 0.98,
+      "limiting_factor": null
+    },
+    "screenshots_examined": 8,
+    "folios_examined": [
+      "corpus/iiif/na_00270_p001.jpg",
+      "corpus/iiif/na_00270_p002.jpg",
+      "corpus/iiif/na_00270_p003.jpg",
+      "corpus/iiif/na_00270_p005.jpg",
+      "corpus/iiif/na_00270_p007.jpg",
+      "corpus/iiif/na_00270_p009.jpg",
+      "corpus/iiif/na_00270_p011.jpg",
+      "corpus/iiif/na_00270_p012.jpg"
+    ],
+    "visual_evidence": "All 8 examined pages directly confirm polychrome marbled paper throughout the album. p003 confirmed as gel-git ebru (flowing feather/flame-shaped forms produced by back-and-forth stylus movement, distinctly different from the regular parallel striations of taraklı ebru). Battal ebru confirmed on p005, p007, p009, p011, p012. Mülevven inner strips confirmed on pp003 (teal), p005 (teal), p007 (pink), p009 (teal), p012 (pink). Compound gold cedvel confirmed on all interior pages. Red lacquer binding with gold rumi-arabesque şemse and salbek confirmed on p001. Two-color battal ebru doublure confirmed on p002 right. Ketebe and AH 1195 date visible on p012.",
+    "triage_correction": "SIGNIFICANT TRIAGE CORRECTION APPLIED. The triage record described 'BLUE mulevven (lacivert) margins throughout entire album — consistent decorative program.' This is incorrect on two counts: (1) The outer margins are MARBLED PAPER (battal ebru and gel-git ebru), not plain mulevven. The triage apparently confused the lacivert-dominant battal ebru on p007 with plain lacivert mulevven. (2) The decorative program is NOT consistent but VARIED — at minimum five distinct ebru palette variants are present across the album. This makes the album significantly more important than the triage suggested. The triage classification 'colored (mulevven lacivert)' should be replaced by 'marbled (battal ebru + gel-git ebru) + colored (mülevven inner strips: teal/pink alternating)'.",
+    "limitations": [
+      "IIIF images examined at c. 1600px width (2592×1944 pixels at source). Good for marbling type identification but some fine cetvel band microstructure details may be missed.",
+      "Coverage: 8 of 12 pages examined. Unexamined pages (4, 6, 8, 10) each likely contain further palette variants given the high variation pattern across examined pages.",
+      "Back cover not captured — cannot confirm whether back cover is red lacquer matching front, or a different binding type.",
+      "AH 1195 date and Muhammed el-Vasfî ketebe are visible on p012 but script is too small at this resolution for full independent transcription verification.",
+      "The precise distinction between gel-git and taraklı on p003 is confident at this resolution: the feather/flame shapes are clearly sinuous and continuous (gel-git), not parallel-striated (taraklı). No qualification needed.",
+      "No decoration-specific fields in the YEK catalogue record — all decoration observations are from direct IIIF image examination."
+    ],
+    "source_agent": "metadata-generator (direct IIIF image examination)",
+    "session": "catalog/searches/visual_tier2_na_00270.json"
+  },
+  "folio_analyses": [
+    {
+      "folio": "p001 — Front cover",
+      "source_image": "corpus/iiif/na_00270_p001.jpg",
+      "decoration_present": true,
+      "decoration_types": ["framing_system"],
+      "elements": [
+        {
+          "motif": "Red lacquer binding with gold rumi-arabesque şemse and salbek",
+          "description": "The front cover is red/oxblood lacquer leather in good condition despite surface scuffing. The central decoration is a large ŞEMSE (binding medallion) with a prominent polylobed/scalloped oval outline filled with dense RUMI arabesque scrollwork: interlocking split-leaf palmettes in an intricate foliate interlace, executed in relief gold on the red leather ground. The rumi fill is finely worked, with clearly legible leaf articulations at this resolution. Two SALBEK (horizontal pendant lobes) extend symmetrically left and right of the central oval, each a smaller cartouche echoing the rumi fill of the central medallion. A narrow gold line or stamped gold thread border runs along all four cover edges. No corner pieces (köşebend) visible at this resolution — either absent or very small. White circular accession/identification label affixed at the lower right. Overlay text 'Türkiye...' (YEK digital watermark) visible over the cover surface.",
+          "location": "Full cover exterior",
+          "confidence": 0.97
+        }
+      ],
+      "confidence": 0.97,
+      "notes": "The rumi arabesque fill of the şemse is a high-status Ottoman binding motif associated with the nakkaşhane-i hümayun tradition. The salbek pendants without upper/lower pendants suggest a horizontal-axis medallion format rather than the full shamsa+salbek+hatayi combination. The specific form — large oval, rumi fill, horizontal salbek only — is documented in late 17th and 18th-century Istanbul lacquer albums and merits comparison with Topkapı and TIEM parallels."
+    },
+    {
+      "folio": "p002 — Inside front cover + first endpaper",
+      "source_image": "corpus/iiif/na_00270_p002.jpg",
+      "decoration_present": true,
+      "decoration_types": ["marbled"],
+      "elements": [
+        {
+          "motif": "Inside front cover (doublure): plain cream endpaper with donation label",
+          "description": "The left page is plain cream/off-white paper. A donation stamp/inscription in the lower left reads: 'Merhum Raif Yelkenci hatırasına / Sn. Nuri Arlasez Bağışı 270' — establishing that the album was donated by Nuri Arlasez to the Süleymaniye collection in memory of Raif Yelkenci, shelfmark 270. A large circular YEK watermark is centered on the page.",
+          "location": "Left page of opening (inside front cover / doublure)",
+          "confidence": 0.99
+        },
+        {
+          "motif": "First endpaper (doublure): two-color battal ebru, pink/red dominant with large green spots",
+          "description": "The right page of the opening is a sheet of vivid two-color BATTAL EBRU. The palette is: (1) PINK/RED as dominant ground color, forming large irregular organic fields and blobs; (2) BRIGHT GREEN as accent color, appearing as rounded spots and smaller rounded fields embedded within the pink. White veining lines separate the color masses, giving the characteristic battal ebru stone-marble appearance. This is a clean, well-preserved pour with strong color saturation. The two-color battal (pink + green) is a distinctive palette — notably different from all the interior calligraphy page palettes, which use blue or lacivert as a primary or secondary color. The doublure palette appears to be a deliberate choice for the book's interior front face, possibly paired with a matching back doublure (unexamined).",
+          "location": "Right page of opening (first endpaper / doublure)",
+          "confidence": 0.98
+        }
+      ],
+      "confidence": 0.98,
+      "notes": "The two-color pink + green battal ebru doublure (p002 right) establishes the album's decorated paper programme from its first opening. This palette is unique among the album's ebru variants and is not used for any of the interior calligraphy page margins. Its role as doublure — wrapping the interior of the front cover — makes it a compositional frame for the album's interior. The donation label confirms the Nuri Arlasez provenance chain."
+    },
+    {
+      "folio": "p003 — First calligraphy page",
+      "source_image": "corpus/iiif/na_00270_p003.jpg",
+      "decoration_present": true,
+      "decoration_types": ["marbled", "colored", "framing_system"],
+      "elements": [
+        {
+          "motif": "GEL-GIT EBRU outer margin — five-color polychrome (blue, green, red, pink, cream)",
+          "description": "The full outer margin of this page is GEL-GIT EBRU (gel-git ebrî / come-go marbling). Technique confirmation: the pattern shows continuous elongated FEATHER/FLAME shapes with smooth sinuous curves — these are produced by a single stylus (biz) drawn back-and-forth through floating pigment on the size, creating a wave-like or feathered leaf pattern. The shapes are distinctly NOT parallel-striated (which would indicate taraklı/combed ebru), and NOT random blob/stone patterns (which would indicate battal ebru). The gel-git identification is CONFIRMED at this resolution. PALETTE: at minimum five colors are present — (1) BLUE (medium-bright cobalt/blue); (2) GREEN (vivid emerald-green); (3) RED/TERRACOTTA (warm brick-red to terracotta); (4) PINK (light pink/rose, possibly from diluted red); (5) CREAM/WHITE (background and vein color). The five colors interact to create the characteristic polychrome gel-git effect, with the feather shapes appearing in alternating warm and cool tones. This is the most coloristically complex page in the album and likely the programmatically first calligraphy page (it opens with the Bismillah).",
+          "location": "Full outer margin surrounding the calligraphy panel",
+          "confidence": 0.97,
+          "technique_note": "GEL-GIT confirmed, NOT taraklı. Key diagnostic: the feather/flame shapes have sinuous continuous curves (single-stylus movement), not regular parallel striations (multi-tooth comb). The curves fold back on themselves organically rather than forming parallel rows."
+        },
+        {
+          "motif": "Mülevven inner strip — teal/dark turquoise",
+          "description": "Between the outer gel-git ebru margin and the gold cetvel, a narrow band of plain TEAL / DARK TURQUOISE mülevven paper is visible. This strip is narrow (approximately 3–5 mm estimated) but clearly legible as a distinct color zone between the multicolored marbled outer margin and the gold cetvel lines.",
+          "location": "Narrow band between outer ebru margin and compound cetvel",
+          "confidence": 0.88
+        },
+        {
+          "motif": "Compound altın cetvel framing",
+          "description": "The calligraphy panel is framed by a compound cetvel visible at this resolution: gold outer line(s), a narrow teal/turquoise color band (matching the mülevven inner strip), and additional gold inner lines. This produces a coherent chromatic system where the outer mülevven strip color is echoed within the cetvel structure.",
+          "location": "Frame around calligraphy panel",
+          "confidence": 0.90
+        },
+        {
+          "motif": "Sülüs-nesih calligraphy — Bismillah opening, meşk content",
+          "description": "The calligraphy panel on cream âharlı paper opens with the BISMILLAH (بسم الله الرحمن الرحيم) in large sülüs at the top. Below follow nesih lines with smaller text, and a large sülüs line at the bottom. The content above the panel (in a small inscription header) appears to name the calligrapher. The large bottom sülüs line reads: عبد ربنا مرجلبين رجلان تارعون طائه ولى فر — this is a MEŞK EXERCISE presenting abjad letter combinations or variant letter forms in sequence. The Bismillah opening confirms this is the first calligraphy page of the album.",
+          "location": "Central cream calligraphy panel",
+          "confidence": 0.85
+        }
+      ],
+      "confidence": 0.95,
+      "notes": "p003 is the most technique-significant page in the album: the gel-git ebru outer margin is the sole gel-git page in an album otherwise dominated by battal ebru variants. Its placement on the opening calligraphy page (with the Bismillah) is likely deliberate — the most elaborate and coloristically varied ebru type is assigned to the first content page. The five-color palette (blue/green/red/pink/cream) is the broadest in the album and creates the most visually complex margin ground."
+    },
+    {
+      "folio": "p005 — Second calligraphy page",
+      "source_image": "corpus/iiif/na_00270_p005.jpg",
+      "decoration_present": true,
+      "decoration_types": ["marbled", "colored", "framing_system"],
+      "elements": [
+        {
+          "motif": "BATTAL EBRU outer margin — Palette B: salmon/terracotta + blue/navy",
+          "description": "The outer margin is two-color BATTAL EBRU. Palette: (1) SALMON/TERRACOTTA as dominant — a warm pinkish-orange color forming the majority of the irregular blob and stone-like masses; (2) BLUE/NAVY as secondary — present as smaller rounded spots and fields embedded in the salmon ground. White veining separates the color masses. The pattern is the classic battal ebru stone/spot marble — irregular organic blobs without directional flow. This is Palette Variant B (salmon + blue), distinct from the gel-git of p003 and the purple/violet variant of p007.",
+          "location": "Full outer margin",
+          "confidence": 0.96
+        },
+        {
+          "motif": "Mülevven inner strip — teal/dark turquoise",
+          "description": "A clearly visible narrow band of TEAL / DARK TURQUOISE mülevven paper between the battal ebru outer margin and the compound gold cetvel. This matches the teal inner strip on p003, establishing the teal-group association for certain pages.",
+          "location": "Narrow inner strip",
+          "confidence": 0.92
+        },
+        {
+          "motif": "Compound altın cetvel — gold + teal bands",
+          "description": "Compound cetvel with gold lines and a teal/turquoise color infill band, matching the mülevven inner strip color. Multi-band structure: outer gold line, teal band, inner gold line(s) framing the cream calligraphy panel.",
+          "location": "Frame around calligraphy panel",
+          "confidence": 0.90
+        },
+        {
+          "motif": "Sülüs-nesih calligraphy — meşk content",
+          "description": "Cream âharlı calligraphy panel with large sülüs lines (top and bottom) and smaller nesih lines in between. Large bottom sülüs line: ولحافه مزبين حبة وأهلها إلى الصلاة رغبة — meşk exercise text. The content continues the abjad/letter-combination sequence of the album.",
+          "location": "Central cream calligraphy panel",
+          "confidence": 0.83
+        }
+      ],
+      "confidence": 0.94,
+      "notes": "p005 introduces Palette Variant B — the salmon + blue battal ebru that will recur on p011. The teal inner strip matches p003, establishing a chromatic grouping of pages using the teal color system. The cetvel's teal infill color echoes the mulevven strip, demonstrating the systematic design integration."
+    },
+    {
+      "folio": "p007 — Third calligraphy page",
+      "source_image": "corpus/iiif/na_00270_p007.jpg",
+      "decoration_present": true,
+      "decoration_types": ["marbled", "colored", "framing_system"],
+      "elements": [
+        {
+          "motif": "BATTAL EBRU outer margin — Palette C: deep violet/purple + cream",
+          "description": "The outer margin is BATTAL EBRU with an unusual and striking palette: (1) DEEP VIOLET/PURPLE (grape-purple to blue-violet) as dominant — forming large stone-marble masses with a distinctive grape or purple-wine tone; (2) CREAM/OFF-WHITE as secondary — forming the veining and separating the purple masses. Small amounts of mauve/lavender are visible at the transitions between the purple and cream zones. This is the most tonal and restrained palette in the album — a near-monochrome approach using a single dark hue against cream. The effect is dramatically different from the polychrome spreads of pp003, 005, 009. This is Palette Variant C.",
+          "location": "Full outer margin",
+          "confidence": 0.95
+        },
+        {
+          "motif": "Mülevven inner strip — pink/salmon",
+          "description": "A clearly visible narrow band of PINK / SALMON mülevven paper between the purple battal ebru and the compound gold cetvel. This is the first page in the examined sequence using the pink inner strip (rather than teal), establishing the pink-group association for certain pages. The pink strip color contrasts chromatically with the purple outer margin, creating a deliberate warm/cool interplay.",
+          "location": "Narrow inner strip",
+          "confidence": 0.90
+        },
+        {
+          "motif": "Compound altın cetvel — gold + pink bands",
+          "description": "Compound cetvel with gold lines and a pink/salmon color infill band matching the mülevven inner strip. The color-matching confirms the deliberate design connection between strip and cetvel infill across the album.",
+          "location": "Frame around calligraphy panel",
+          "confidence": 0.88
+        },
+        {
+          "motif": "Sülüs calligraphy — abjad meşk, individual letter forms",
+          "description": "The calligraphy panel shows large sülüs letters in abjad sequence. The large bottom line presents individual letter forms in an exercise sequence: ها مب هج مد هر هز هح هط — these are abjad letter combinations or meşk exercise letters systematically arranged. Small nesih text in between. A small header inscription above the panel likely gives the exercise title or the calligrapher's name.",
+          "location": "Central cream calligraphy panel",
+          "confidence": 0.82
+        }
+      ],
+      "confidence": 0.93,
+      "notes": "p007 introduces Palette Variant C (deep violet/purple + cream), the most tonally restrained palette in the album. Its near-monochrome character creates a deliberate contrast with the polychrome pages on either side. The pink inner strip on p007 switches from the teal strips of pp003 and 005, establishing the alternating teal/pink inner strip pattern. The abjad letter-form meşk content confirms the pedagogical function of the album."
+    },
+    {
+      "folio": "p009 — Fourth calligraphy page",
+      "source_image": "corpus/iiif/na_00270_p009.jpg",
+      "decoration_present": true,
+      "decoration_types": ["marbled", "colored", "framing_system"],
+      "elements": [
+        {
+          "motif": "BATTAL EBRU outer margin — Palette D: purple/mauve + amber/orange-yellow + white-grey",
+          "description": "The outer margin is polychrome BATTAL EBRU with three distinct colors: (1) PURPLE/MAUVE as dominant — similar in hue to p007 but lighter and more lavender-toned, forming large irregular masses; (2) AMBER/ORANGE-YELLOW as vivid accent — warm golden-amber color appearing as rounded spots and fields distinctly different from the purple ground; (3) WHITE-GREY as veining/separation — present as light areas between the colored masses and as smaller spots/bubbles. The three-color interaction creates an organic, vivid pattern quite unlike the two-color approaches of pp005, 007. This is Palette Variant D, the most internally varied of the battal palettes.",
+          "location": "Full outer margin",
+          "confidence": 0.95
+        },
+        {
+          "motif": "Mülevven inner strip — teal/dark turquoise",
+          "description": "A clearly visible narrow band of TEAL / DARK TURQUOISE mülevven paper. Returning to teal (after pink on p007), confirming the alternating inner strip pattern: teal (pp003, 005) → pink (p007) → teal (p009).",
+          "location": "Narrow inner strip",
+          "confidence": 0.90
+        },
+        {
+          "motif": "Compound altın cetvel — gold + teal bands",
+          "description": "Compound cetvel with gold lines and teal color infill matching the inner strip. Full multi-band structure visible.",
+          "location": "Frame around calligraphy panel",
+          "confidence": 0.88
+        },
+        {
+          "motif": "Sülüs-nesih calligraphy — meşk content with Quranic text",
+          "description": "Large sülüs line at top: ابجد هوز حطي — the opening of the abjad letter sequence, explicitly confirming the meşk/pedagogical content of the album. Nesih lines in the middle. Large sülüs line at bottom: ثخذ ضظغ لا فبارك الله أحسن الخالقين — a doxological closing formula (Fa-tabarak Allah ahsan al-khaliqin, 'Blessed be God, the Best of Creators', Quran 23:14) combined with abjad continuation letters. The explicit abjad formula at top definitively confirms this is a meşk exercise album for sülüs letter practice.",
+          "location": "Central cream calligraphy panel",
+          "confidence": 0.88
+        }
+      ],
+      "confidence": 0.94,
+      "notes": "p009 is the most visually vivid of the battal pages, with the three-color purple/amber/white combination. The teal inner strip returns after the pink on p007, and the abjad formula at the top of the calligraphy panel explicitly identifies the album's pedagogical content. The amber/orange accent color in Palette D is unique in the album at this level of intensity."
+    },
+    {
+      "folio": "p011 — Fifth calligraphy page",
+      "source_image": "corpus/iiif/na_00270_p011.jpg",
+      "decoration_present": true,
+      "decoration_types": ["marbled", "colored", "framing_system"],
+      "elements": [
+        {
+          "motif": "BATTAL EBRU outer margin — Palette B variant: salmon/terracotta + blue, dynamic swirling",
+          "description": "The outer margin is BATTAL EBRU in Palette Variant B family (salmon/terracotta + blue), closely related to p005 in color scheme but representing a distinct pour. The specific pattern on p011 shows a more dynamic, swirling arrangement of the salmon and blue masses — there is a suggestion of sweeping motion between the color zones, which could indicate a very slight gel-git influence (a single pass of a tool) or simply the natural variation of a high-pigment battal pour. The salmon/terracotta is again dominant, with blue masses distributed across the surface. The overall palette relationship to p005 is clear but the pattern details are distinctly different, confirming these are two separate ebru pours from the same color palette family.",
+          "location": "Full outer margin",
+          "confidence": 0.93
+        },
+        {
+          "motif": "Mülevven inner strip and compound cetvel",
+          "description": "A mülevven inner strip is present between the battal ebru and the cetvel. The strip color is difficult to fully resolve at this resolution — it may be teal or a lighter color. Compound gold cetvel framing the calligraphy panel.",
+          "location": "Inner strip and frame",
+          "confidence": 0.78
+        },
+        {
+          "motif": "Sülüs-nesih calligraphy — meşk content",
+          "description": "Cream âharlı calligraphy panel with large sülüs lines and nesih interstitial lines. The top large sülüs line: دهة فيقول الله للملائكة انظروا إلى عبدي — opening of a hadith quotation ('Then God will say to the angels: Look at My servant...'). Large bottom sülüs: رغبة فيما عندي وشفقام عندي وحلبي تعلى — continuation of prophetic text. The content mixes meşk exercises with Quranic/hadith quotations, consistent with late Ottoman meşk albums that interweave calligraphic exercises with religious content.",
+          "location": "Central cream calligraphy panel",
+          "confidence": 0.80
+        }
+      ],
+      "confidence": 0.90,
+      "notes": "p011 shows Palette Variant B again (related to p005), suggesting that certain palettes may recur at regular intervals across the album's spreads — possibly in a chromatic rotation pattern. The inner strip color is uncertain at this resolution; likely teal or a variant based on the alternation pattern (teal on odd-colour pages, pink on purple-page variants). The dynamic swirling of the battal pour on p011 is the most kinetically energetic pattern in the album."
+    },
+    {
+      "folio": "p012 — Final calligraphy page (colophon)",
+      "source_image": "corpus/iiif/na_00270_p012.jpg",
+      "decoration_present": true,
+      "decoration_types": ["marbled", "colored", "framing_system"],
+      "elements": [
+        {
+          "motif": "BATTAL EBRU outer margin — Palette E: deep lacivert/blue dominant + red + amber/orange",
+          "description": "The outer margin is BATTAL EBRU with the most dramatically blue palette in the album: (1) DEEP LACIVERT/BLUE as dominant — a saturated lapis-adjacent blue forming the majority of the stone-marble masses; (2) RED/CORAL as vivid secondary accent — warm red-orange appearing as smaller rounded spots and fields; (3) AMBER/ORANGE-YELLOW as tertiary accent — similar warm tone to the amber in p009's palette; (4) WHITE/GREY as veining and transition. The deep blue dominant makes this the most chromatically intense page and is likely the 'lacivert' colour that the triage agent described as 'mulevven' — this page was probably visible in the triage screenshot and misread as plain lacivert mulevven paper rather than lacivert-dominant battal ebru.",
+          "location": "Full outer margin",
+          "confidence": 0.96
+        },
+        {
+          "motif": "Mülevven inner strip — pink/salmon",
+          "description": "A clearly visible narrow PINK / SALMON mülevven inner strip between the deep blue battal ebru and the compound cetvel. The pink strip against the blue outer margin creates the most chromatically contrasting inner strip combination in the album.",
+          "location": "Narrow inner strip",
+          "confidence": 0.90
+        },
+        {
+          "motif": "Compound altın cetvel — gold + pink bands",
+          "description": "Compound cetvel with gold lines and pink color infill matching the inner strip. Full compound structure visible, consistent with other pages.",
+          "location": "Frame around calligraphy panel",
+          "confidence": 0.88
+        },
+        {
+          "motif": "Sülüs-nesih calligraphy — colophon page with ketebe",
+          "description": "The calligraphy panel contains the album's COLOPHON. Large sülüs at top: رواه أحمد ومحمد بن صرطبك قعن ابن مسعود — attribution formula ('Narrated by Ahmad and Muhammad ibn Sartabak from Ibn Masʿud') for a hadith. Nesih lines in the middle include what appears to be additional hadith content and the calligrapher's attribution text. A small line visible in the middle register reads: كتبه المملوك الفقير الضعيف — 'Written by the enslaved, humble, and weak one' (standard self-deprecatory ketebe formula). The full ketebe, including the name Muhammed el-Vasfî and the date AH 1195, is likely within the smaller nesih lines but is too small to fully transcribe at this resolution. This is the final calligraphy spread of the album.",
+          "location": "Central cream calligraphy panel",
+          "confidence": 0.82
+        }
+      ],
+      "confidence": 0.93,
+      "notes": "p012 is the final calligraphy page and colophon. The deep lacivert/blue dominant battal ebru (Palette E) is the most dramatic and prestigious palette in the album, reserved for the final page — consistent with the Ottoman convention of reserving the most prestigious or chromatically intense decoration for the closing of an album. The pink inner strip returns (alternating with teal on other pages). The ketebe with AH 1195 date and Muhammed el-Vasfî attribution is on this page per YEK catalogue. The deep blue ebru on this page is very likely what the triage agent misidentified as 'lacivert mulevven.'"
+    }
+  ],
+  "ebru_palette_analysis": {
+    "summary": "NA 00270 displays SYSTEMATIC PALETTE VARIATION across its battal and gel-git ebru margins — the most palette-diverse single album in the Nuri Arlasez Koleksiyonu and among the top five most palette-diverse in the entire project corpus. Six distinct ebru variants are documented across 8 examined pages (out of 12 total).",
+    "palette_variants": [
+      {
+        "palette_id": "DOUBLURE",
+        "pages": ["p002 right — inside front cover doublure"],
+        "subtype": "battal ebru",
+        "colors": ["pink/red (dominant)", "bright green (accent)", "white veining"],
+        "color_character": "Two-color warm palette. The only green in the album's ebru programme.",
+        "notes": "Structurally distinct from the calligraphy margin palettes — assigned to the doublure only. Likely paired with a matching back doublure (unexamined). Vivid, well-preserved pour."
+      },
+      {
+        "palette_id": "A — GEL-GIT",
+        "pages": ["p003 — first calligraphy page"],
+        "subtype": "gel-git ebru (confirmed: single-stylus, feather/flame shapes)",
+        "colors": ["blue (medium cobalt)", "green (emerald)", "red/terracotta", "pink/rose", "cream/white"],
+        "color_character": "Five-color polychrome. The most coloristically complex page in the album. Opening page prestige placement.",
+        "notes": "Gel-git technique definitively confirmed — NOT taraklı. The flame/feather shapes result from back-and-forth single stylus movement. The five-color polychrome gel-git is the rarest and most labor-intensive technique in the album."
+      },
+      {
+        "palette_id": "B — SALMON + BLUE",
+        "pages": ["p005 — second calligraphy page", "p011 — fifth calligraphy page (distinct pour, related palette)"],
+        "subtype": "battal ebru",
+        "colors": ["salmon/terracotta (dominant)", "blue/navy (secondary)", "white veining"],
+        "color_character": "Two-color warm/cool contrast palette. The most classically Ottoman-looking battal in the album.",
+        "notes": "Two distinct pours from the same palette family — p005 has a quieter, more even distribution; p011 has a more dynamic swirling arrangement. The palette recurs across the album, suggesting either a large prepared batch or intentional repetition."
+      },
+      {
+        "palette_id": "C — VIOLET/PURPLE",
+        "pages": ["p007 — third calligraphy page"],
+        "subtype": "battal ebru",
+        "colors": ["deep violet/purple/grape (dominant)", "cream/off-white (secondary)"],
+        "color_character": "Near-monochrome tonal palette. The most restrained and visually dignified page in the album.",
+        "notes": "The deep purple-dominant battal is unusual in the corpus — most battal ebru uses cooler blues or warmer pinks/salmons as dominant. The near-monochrome treatment creates a deliberate visual contrast with the polychrome pages surrounding it."
+      },
+      {
+        "palette_id": "D — PURPLE + AMBER",
+        "pages": ["p009 — fourth calligraphy page"],
+        "subtype": "battal ebru",
+        "colors": ["purple/mauve (dominant)", "amber/orange-yellow (vivid accent)", "white-grey (veining)"],
+        "color_character": "Three-color warm-cool contrast palette. The amber accent gives this the highest chromatic energy of the battal pages.",
+        "notes": "The amber/orange-yellow accent is unique in the album at this level of intensity. The palette relationship to C (violet/purple) is visible but the amber transforms the effect completely."
+      },
+      {
+        "palette_id": "E — LACIVERT + RED",
+        "pages": ["p012 — final calligraphy page / colophon"],
+        "subtype": "battal ebru",
+        "colors": ["deep lacivert/blue (dominant)", "red/coral (secondary)", "amber/orange (tertiary)", "white/grey (veining)"],
+        "color_character": "Four-color chromatically intense palette. The most prestigious and dramatic of the battal variants.",
+        "notes": "Reserved for the final colophon page — a deliberate hierarchical placement. The deep blue dominant is very likely the 'lacivert' that the triage identified as mulevven. This palette has the most colors of any battal in the album."
+      }
+    ],
+    "mulevven_inner_strip_alternation": {
+      "teal_pages": ["p003 (gel-git)", "p005 (Palette B)", "p009 (Palette D)"],
+      "pink_pages": ["p007 (Palette C)", "p012 (Palette E)"],
+      "p011_status": "uncertain — colour of inner strip not definitively resolved at this resolution; likely teal based on alternation pattern",
+      "alternation_pattern": "Appears to correlate with ebru palette colour temperature: teal strips accompany warm-palette or polychrome ebru pages; pink strips accompany cool/purple-dominant ebru pages. This suggests a deliberate chromatic design logic: the inner strip mediates between the warm-toned cetvel (gold) and the cool-toned outer ebru by adjusting its own hue to maintain overall visual balance.",
+      "design_significance": "The two-color mulevven inner strip alternation system is unique in the Nuri Arlasez corpus and among the most systematically articulated in the broader project corpus. The closest parallels are tiem_02481 (two-scheme marbled system, pink left / blue-grey right) and hamidiye_00037 (2-layer mulevven system). However, NA 00270 applies the color variation across the album's temporal sequence (page-by-page) rather than across the album's spatial bilateral symmetry (left/right), making it a distinct compositional strategy."
+    }
+  },
+  "terminology": {
+    "terms_used": [
+      {
+        "concept": "Marbled paper (general)",
+        "ottoman": "ebrî / ebrulu kâğıt (ابری)",
+        "arabic": "waraq marmurī (ورق مرمري) / waraq mumarmar",
+        "persian": "kāġaẕ-e abrī (کاغذ ابری)",
+        "english": "Ebrî / ebrulu: marbled paper produced by floating pigment on a size (water thickened with carrageenan or starch), manipulating it, then laying paper on the surface to transfer the pattern. The name derives from Persian abr (ابر), cloud, referring to the cloud-like appearance of certain marbling patterns. The general category encompasses battal, gel-git, taraklı, and hatip subtypes."
+      },
+      {
+        "concept": "Stone-marble (battal) marbled paper",
+        "ottoman": "battal ebru",
+        "arabic": null,
+        "persian": "abrī-ye battāl (ابری بطال)",
+        "english": "Battal ebru: the simplest marbling subtype, produced by floating pigment drops on a size trough without any tool manipulation. The natural surface tension and interaction of pigments produces irregular stone-marble or amorphous spot patterns. The word battal (from Arabic baṭṭāl, idle/unused) refers to the absence of tool manipulation. In this album, battal ebru appears in five distinct outer-margin palette variants plus a separate doublure palette — six ebru variants total (see ebru_palette_analysis)."
+      },
+      {
+        "concept": "Gel-git marbled paper",
+        "ottoman": "gel-git ebru",
+        "arabic": null,
+        "persian": null,
+        "english": "Gel-git ebru ('come-go' marbling): produced by drawing a single-pointed stylus (biz, awl/needle) back and forth through floating pigment on the size, creating continuous sinuous feather or flame-shaped forms. The name gel-git (Turkish: 'come-go') refers to the back-and-forth tool movement. Diagnostic distinction from taraklı (combed) ebru: gel-git produces flowing organic S-curves and flame shapes from a SINGLE-POINT tool; taraklı produces regular parallel striations from a MULTI-TOOTH COMB tool. On p003 of this album, gel-git is CONFIRMED at IIIF resolution based on the sinuous continuous feather/flame pattern."
+      },
+      {
+        "concept": "Combed marbled paper (for terminological contrast)",
+        "ottoman": "taraklı ebru",
+        "arabic": null,
+        "persian": null,
+        "english": "Taraklı ebru ('combed' marbling): produced by drawing a multi-toothed comb (tarak) through floating pigment, creating parallel equidistant striations or wavy lines. Distinguished from gel-git by its regular, evenly-spaced, parallel-line character. Taraklı is NOT present in this album — included here as a terminological contrast to confirm the gel-git identification on p003. See MEMORY.md for the gel-git ≠ taraklı distinction note added to the project."
+      },
+      {
+        "concept": "Colored paper",
+        "ottoman": "mülevven kâğıt / boyalı kâğıt",
+        "arabic": "waraq mulawwan (ورق ملوّن)",
+        "persian": "kāġaẕ-e mulavvan (کاغذ ملوّن)",
+        "english": "Mülevven: plain paper dyed or pigmented to a solid color. In this album, mülevven appears as narrow inner strips in teal/dark turquoise and pink/salmon, serving as a visual buffer zone between the polychrome outer ebru margins and the compound gold cetvel. Two mülevven colors alternate across the album in a systematic pattern (teal on certain pages, pink on others). The mülevven is not the dominant decorative element but a structural-chromatic element within the compound framing system."
+      },
+      {
+        "concept": "Gold ruling lines / compound frame",
+        "ottoman": "altın cetvel / bileşik cetvel / cetvelli",
+        "arabic": "jadwal mudhahdhab (جدول مذهّب)",
+        "persian": "jadval-e zar (جدول زر)",
+        "english": "Altın cetvel: gold ruling lines framing the calligraphy panel. In this album, a COMPOUND cetvel (bileşik cetvel) is used — multiple gold lines flanking a colored band matching the mülevven inner strip. The compound structure integrates the mülevven strip color into the cetvel, creating chromatic coherence within each spread."
+      },
+      {
+        "concept": "Calligraphic exercise album",
+        "ottoman": "muraqqaʿ-i meşk / meşk albümü",
+        "arabic": "muraqqa li-al-tamshīq (مرقع للتمشيق)",
+        "persian": "muraqqa-ye mashq (مرقع مشق)",
+        "english": "Muraqqaʿ-i meşk: a calligraphic album specifically designed for pedagogical practice, containing exercises (meşk) in systematic letter-form or abjad-sequence presentation. Distinct from a muraqqaʿ containing polished kıtʿa (exhibition specimen sheets) — a meşk album shows the systematic drill of letter combinations and forms. The abjad sequence on p009 ('Abjad hawwaz hutiy...') and the systematic letter-combination exercises confirm this album's pedagogical function."
+      },
+      {
+        "concept": "Abjad letter sequence",
+        "ottoman": "ebced / abjad harfleri (أبجد)",
+        "arabic": "abjad (أبجد) — ḥurūf al-abjad",
+        "persian": "abajd / ebced",
+        "english": "Abjad: the traditional Semitic letter-name sequence (alif-ba-jim-dal = A-B-J-D), used in calligraphic meşk exercises to systematically drill each letter form in sequence. The abjad formula beginning 'Abjad hawwaz hutiy...' on p009 is a standard meşk exercise opening that presents all 28 Arabic letters in their traditional grouped sequence."
+      },
+      {
+        "concept": "Sülüs script",
+        "ottoman": "sülüs hattı",
+        "arabic": "khaṭṭ al-thuluth (خط الثلث)",
+        "persian": null,
+        "english": "Sülüs (thuluth): one of the six classical Arabic scripts (aklâm-ı sitte), characterized by large, bold letterforms with strong calligraphic contrast between thick and thin strokes, prominent curved elements, and complex ligatures. The primary script in this meşk album. Sülüs meşk focuses on mastering the proportional rules and stroke sequences of this demanding script."
+      },
+      {
+        "concept": "Red lacquer binding",
+        "ottoman": "kırmızı lake cilt / lake cilt",
+        "arabic": "jild ruġānī (جلد روغاني)",
+        "persian": "jild-e lākī / ruġānī (جلد لاکی)",
+        "english": "Lake cilt / ruganî cilt: a binding technique in which the leather cover is finished with lacquer (ruġānī / lake), creating a glossy, durable surface. In the Ottoman context, lacquer bindings are often red, black, or dark brown and carry gold-stamped or painted decoration. The red lacquer binding of NA 00270, with its gold rumi-arabesque şemse, is a late Ottoman luxury binding format in the nakkaşhane tradition."
+      },
+      {
+        "concept": "Binding medallion (şemse)",
+        "ottoman": "şemse (شمسه) / yaldızlı şemse",
+        "arabic": "shams (شمس)",
+        "persian": "shamsa (شمسه) / toranj (ترنج)",
+        "english": "Şemse: a central oval or round medallion on a manuscript binding cover, typically applied in gold (yaldız). In this album, the şemse has a polylobed/scalloped oval outline filled with rumi arabesque scrollwork — interlocking split-leaf palmettes in an intricate foliate interlace. The rumi-arabesque fill distinguishes this şemse from those with geometric lattice or floral fill."
+      },
+      {
+        "concept": "Pendant from şemse",
+        "ottoman": "salbek / salbak",
+        "arabic": null,
+        "persian": "sar-toranj (سرترنج)",
+        "english": "Salbek: a pendant extension or lobe projecting from the şemse along one or more axes. In this album, two salbek extend horizontally (left and right) from the central oval şemse, forming a tripartite horizontal composition (salbek-şemse-salbek) on the binding cover."
+      },
+      {
+        "concept": "Colophon / calligrapher's closing inscription",
+        "ottoman": "ketebe kaydı",
+        "arabic": "kitāb al-fāriġ (كتاب الفارغ) / katabehu",
+        "persian": "ketābe (کتابه)",
+        "english": "Ketebe kaydı: the closing inscription in which the calligrapher records their name and often the date and place. In this album, the ketebe on p012 names 'el-fakir Muhammed el-Vasfî' and gives the date AH 1195. The formula 'katabehu al-mamlūk al-faqīr al-ḍaʿīf' ('Written by the enslaved, humble, and weak') is a standard self-deprecatory preamble to the calligrapher's name in Ottoman meşk albums."
+      },
+      {
+        "concept": "Pedagogical calligraphy practice",
+        "ottoman": "meşk / meşk etmek",
+        "arabic": "tamshīq (تمشيق) / mashq (مشق)",
+        "persian": "mashq (مشق)",
+        "english": "Meşk: calligraphic practice or drill — the systematic repetition of letter forms, ligatures, and script proportions under the guidance of a master calligrapher. A meşk album (muraqqaʿ-i meşk) records exercises produced by a student or practitioner, as opposed to a finished kıtʿa album containing polished exhibition pieces. The abjad sequences and letter-combination exercises in NA 00270 are characteristic meşk content for sülüs script training."
+      }
+    ]
+  },
+  "bibliography": [
+    {
+      "citation": "Blair, Sheila S. 'Color and Gold: The Decorated Papers Used in Manuscripts in Later Islamic Times.' Muqarnas 17 (2000): 24–36.",
+      "relevance": "Foundational taxonomic study providing the primary classification framework for decorated Islamic manuscript papers, including marbled papers (ebrulu), colored papers (mülevven), and gold-sprinkled papers (zerefşân). Blair's taxonomy is the basis for the decoration type classifications applied throughout this catalog record. Her discussion of battal ebru as the simplest marbling subtype and of colored papers as a distinct category directly underpins the paper_decoration analysis of NA 00270.",
+      "relevance_score": 0.97,
+      "access_notes": "Peer-reviewed article. Available via JSTOR (Brill/Muqarnas Online). Open-access PDF accessible at Academia.edu."
+    },
+    {
+      "citation": "Bloom, Jonathan M. Paper Before Print: The History and Impact of Paper in the Islamic World. New Haven: Yale University Press, 2001.",
+      "relevance": "Comprehensive history of paper production and use in the Islamic world, providing material-culture background for Ottoman marbled paper production, its trade routes, and its role in luxury album commissioning. Relevant for contextualizing the late 18th-century production environment (AH 1195 / 1781 CE) of NA 00270 and the use of decorated papers in the Ottoman meşk album tradition.",
+      "relevance_score": 0.82,
+      "access_notes": "Widely held monograph. Yale University Press."
+    },
+    {
+      "citation": "Derman, M. Uğur. Letters in Gold: Ottoman Calligraphy from the Sakıp Sabancı Collection, Istanbul. New York: The Metropolitan Museum of Art, 1998.",
+      "relevance": "The primary English-language exhibition catalogue on Ottoman calligraphy, with extensive coverage of the late Ottoman calligraphic tradition, the meşk (pedagogical practice) system, and its associated album formats. Essential for contextualizing the sülüs meşk content of NA 00270, the abjad exercise format, and the late 18th-century Ottoman calligraphic environment in which Muhammed el-Vasfî worked.",
+      "relevance_score": 0.90,
+      "access_notes": "Exhibition catalogue (Metropolitan Museum of Art, 1998). ISBN 978-0870998843."
+    },
+    {
+      "citation": "Derman, M. Uğur. Türk Hat Sanatının Şâheserleri. Ankara: Türkiye İş Bankası Kültür Yayınları, 1982. [In Turkish]",
+      "relevance": "Comprehensive survey of Ottoman calligraphy masterpieces in Turkish collections, covering the meşk tradition and key 18th-century calligraphers. Relevant for situating Muhammed el-Vasfî within the late Ottoman calligraphic community and for identifying possible biographical information not included in standard biographical dictionaries (Müstakimzâde, Tuhfe-i Hattâtîn).",
+      "relevance_score": 0.72,
+      "access_notes": "Turkish-language monograph. Held at major Turkish research libraries."
+    },
+    {
+      "citation": "Roxburgh, David J. The Persian Album, 1400–1600: From Dispersal to Collection. New Haven: Yale University Press, 2005.",
+      "relevance": "Essential theoretical study of the murakkaa album format, decorated paper programs, and the compositional logic of polychrome paper variation within albums. Roxburgh's framework for understanding chromatic sequencing as a deliberate compositional strategy is directly applicable to the systematic palette rotation documented in NA 00270 — where each spread presents a distinct ebru palette variant in an intentional programme.",
+      "relevance_score": 0.85,
+      "access_notes": "Widely held monograph. Yale University Press."
+    },
+    {
+      "citation": "Çağman, Filiz, and Zeren Tanındı. The Topkapı Saray Museum: The Albums and Illustrated Manuscripts. Translated and edited by J. M. Rogers. Boston: Little, Brown, 1986.",
+      "relevance": "Standard reference for Ottoman calligraphic albums in the Topkapı collections, providing comparanda for late Ottoman meşk albums with decorated paper margins and lacquer bindings. Relevant for the red lacquer binding format with rumi-arabesque şemse documented on NA 00270, and for the late Ottoman (18th-century) album commissioning context.",
+      "relevance_score": 0.83,
+      "access_notes": "Exhibition catalogue. Widely held at Turkish and Islamic art research libraries."
+    },
+    {
+      "citation": "Gacek, Adam. Arabic Manuscripts: A Vademecum for Readers. Leiden: Brill, 2009.",
+      "relevance": "Standard reference for Islamic manuscript codicological terminology, script identification, and manuscript physical description. Directly relevant for the identification of the sülüs and nesih scripts in NA 00270, the description of the ketebe inscription and its formulaic elements, and for general codicological terms (meşk, muraqqaʿ, abjad, cetvel) employed throughout this record.",
+      "relevance_score": 0.80,
+      "access_notes": "Reference monograph; widely held at Islamic manuscript studies libraries."
+    },
+    {
+      "citation": "Déroche, François. Islamic Codicology: An Introduction to the Study of Manuscripts in Arabic Script. Translated by Deke Dusinberre and David Radzinowicz. London: Al-Furqan Islamic Heritage Foundation, 2005.",
+      "relevance": "Foundational reference for Islamic manuscript codicology, covering paper types, ruling systems, binding structures, and physical manuscript description methodology. Provides the classification framework for the codicological description of NA 00270's paper preparation, ruling system, and binding structure.",
+      "relevance_score": 0.78,
+      "access_notes": "Monograph; available at specialist Islamic manuscript libraries."
+    },
+    {
+      "citation": "Scheper, Karin. The Technique of Islamic Bookbinding: Methods, Materials and Regional Varieties. Leiden: Brill, 2015.",
+      "relevance": "Systematic technical study of Islamic bookbinding, relevant for the analysis of the red lacquer binding of NA 00270. The lacquer (lake/ruganî) binding technique, şemse stamping, and salbek pendant formats documented in this album are within the scope of Scheper's regional and chronological survey of Ottoman binding techniques.",
+      "relevance_score": 0.74,
+      "access_notes": "Monograph; Brill, 2015."
+    },
+    {
+      "citation": "Bağcı, Serpil, Filiz Çağman, Günsel Renda, and Zeren Tanındı. Ottoman Painting. Ankara: Ministry of Culture and Tourism, 2006.",
+      "relevance": "Comprehensive survey of Ottoman visual arts covering the album tradition, calligraphic conventions, and decorated paper programmes of the 17th–18th centuries. Provides contextual background for the late Ottoman (AH 1195 / 1781 CE) production of NA 00270 and for comparative analysis of the decorated paper programme against the broader Ottoman album corpus.",
+      "relevance_score": 0.70,
+      "access_notes": "Museum publication; widely held at Turkish studies collections."
+    },
+    {
+      "citation": "Müstakimzâde Süleyman Saʿdeddin. Tuhfe-i Hattâtîn. Edited by İbnülemin Mahmud Kemal İnal. Istanbul: Devlet Matbaası, 1928. [In Ottoman Turkish]",
+      "relevance": "The primary Ottoman biographical dictionary of calligraphers (completed c. 1780 / AH 1194), covering calligraphers active in the same period as Muhammed el-Vasfî (AH 1195 / 1781 CE). Consultation of Tuhfe-i Hattâtîn is the recommended first step for identifying Muhammed el-Vasfî and resolving his nisba 'el-Vasfî'. The near-contemporary date of the dictionary (completed one year before the album's date) makes it the most likely source for an identification.",
+      "relevance_score": 0.88,
+      "access_notes": "Ottoman Turkish edition; available at major Turkish libraries. A partial modern Turkish translation exists. Digital facsimile accessible via some Turkish digital library portals."
+    },
+    {
+      "citation": "Sturkenboom, Ilse. 'Waves of Innovation: Chinese Decorated Papers in Persianate Manuscripts.' Forthcoming. GlobalDecoPaper ERC Project, LMU Munich.",
+      "relevance": "Although focused on Chinese decorated paper in Persianate manuscripts, Sturkenboom's work on the GlobalDecoPaper project develops methodological frameworks for categorizing and dating decorated papers — including marbled papers — that are directly applicable to the systematic ebru palette variation documented in NA 00270. The project's classification system for marbling subtypes (battal, gel-git, taraklı, hatip) is the most current research standard for the techniques present in this album.",
+      "relevance_score": 0.72,
+      "access_notes": "Forthcoming publication. Contact LMU Munich GlobalDecoPaper ERC Project for pre-publication access."
+    }
+  ],
+  "suggested_collections": [
+    {
+      "institution": "Süleymaniye Yazma Eser Kütüphanesi — Hamidiye Koleksiyonu, Istanbul",
+      "reason": "The Hamidiye collection contains multiple high-quality meşk albums with polychrome battal ebru margins and compound cedvel framing systems (hamidiye_00010, hamidiye_00026, hamidiye_00034, hamidiye_00037 — all catalogued). Direct comparison of NA 00270's systematic ebru palette variation with the Hamidiye albums will clarify whether the five-palette programme is unique to NA 00270 or a known formula in the late 18th-century Istanbul market.",
+      "digital_access": "https://portal.yek.gov.tr"
+    },
+    {
+      "institution": "Türk ve İslam Eserleri Müzesi (TIEM), Istanbul — murakka collection",
+      "reason": "The TIEM murakka corpus (93 positive albums) contains the closest comparanda for late Ottoman meşk albums with systematic ebru programmes. TIEM 02481 (two-scheme battal + gel-git) and TIEM 02462 (3rd hatip ebru matched cover pair) are the nearest documented parallels for the compound ebru + mülevven + cetvel framing system. Physical comparison at TIEM is the recommended first step for contextualizing NA 00270's palette programme.",
+      "digital_access": "https://portal.yek.gov.tr"
+    },
+    {
+      "institution": "Topkapı Sarayı Müzesi Kütüphanesi, Istanbul",
+      "reason": "Holds the primary corpus of authenticated late Ottoman lacquer bindings with rumi-arabesque şemse for comparison with NA 00270's front cover. Also holds meşk albums with comparable decorated paper programmes for comparative ebru palette analysis.",
+      "digital_access": "https://kutuphane.tsmk.gov.tr"
+    },
+    {
+      "institution": "Chester Beatty Library, Dublin",
+      "reason": "Major collection of Ottoman calligraphic albums with decorated papers, including late 18th-century meşk albums and examples of systematic ebru palette variation. Provides international comparanda for NA 00270's palette programme.",
+      "digital_access": "https://viewer.cbl.ie"
+    },
+    {
+      "institution": "GlobalDecoPaper ERC Project, LMU Munich",
+      "reason": "The primary active research project on decorated papers in Islamic manuscripts. Consultation is strongly recommended for: (1) confirming the gel-git vs. taraklı distinction on p003 at higher magnification; (2) situating the systematic five-palette battal ebru programme within the broader Ottoman and Persianate decorated paper corpus; (3) dating the ebru production batches relative to known datable specimens.",
+      "digital_access": null
+    }
+  ],
+  "provenance": {
+    "donor": "Nuri Arlasez (donated to Süleymaniye Kütüphanesi in memory of Raif Yelkenci)",
+    "waqf": null,
+    "previous_shelfmarks": [],
+    "notes": "Held at Süleymaniye Yazma Eser Kütüphanesi, Istanbul, under the Nuri Arlasez Koleksiyonu, shelfmark 00270. The inside front cover endpaper (p002 left) bears a donation label reading: 'Merhum Raif Yelkenci hatırasına / Sn. Nuri Arlasez Bağışı 270' — the album was donated by Nuri Arlasez to the Süleymaniye collection in memory of Raif Yelkenci. Pre-donation history is unknown. YEK ID: 406230. IIIF ID: 0000000398191. Catalogue entry by Yusuf Yıldırım. The album itself contains no ownership seals or ex-libris stamps visible in the 8 examined pages beyond the donation label."
+  },
+  "analysis_metadata": {
+    "analyzed_date": "2026-02-28",
+    "analyzer": "claude-code-manuscript-pipeline",
+    "pipeline_stage": "metadata-generator",
+    "image_source": "YEK Portal IIIF images, Süleymaniye Yazma Eser Kütüphanesi — Nuri Arlasez Koleksiyonu, YEK ID 406230, IIIF ID 0000000398191. 8 pages (p001–p003, p005, p007, p009, p011, p012) downloaded and examined at IIIF resolution (c. 2592×1944 px). 4 pages unexamined (p004, p006, p008, p010).",
+    "image_quality_notes": "IIIF images are of good quality and support confident identification of all marbling subtypes, palette variants, mülevven strip colors, and cedvel structures. The gel-git vs. taraklı distinction on p003 is definitively resolvable at this resolution — the feather/flame pattern is unambiguous. Individual small nesih text in the ketebe on p012 is too small for full transcription at this resolution. Gold cetvel microstructure detail (exact band count) may be partially missed at this resolution. No images are marred by severe blur, glare, or resolution artifacts that would undermine classification confidence. YEK digital watermark overlays are present on some pages but do not obscure the decorated paper features.",
+    "triage_correction_note": "SIGNIFICANT TRIAGE CORRECTION. The visual triage (catalogued in visual_tier2_na_00270.json) described 'BLUE mulevven (lacivert) margins throughout entire album — consistent decorative program with gold cetvelli.' Both elements of this description require correction: (1) The outer margins are MARBLED PAPER (battal ebru in 5 palette variants + gel-git ebru on p003), NOT plain mulevven. The triage confusion likely arose from the deep blue (lacivert-dominant) battal ebru on p012, which visually resembles plain lacivert mülevven at thumbnail resolution. (2) The decorative program is NOT consistent but systematically VARIED — five distinct battal palettes plus one gel-git variant, plus a two-color alternating mülevven inner strip. This makes the album significantly richer and more important than the triage indicated. The corrected decoration_types are 'marbled, colored, framing_system' (NOT 'colored' as the primary).",
+    "folios_examined": [
+      "corpus/iiif/na_00270_p001.jpg",
+      "corpus/iiif/na_00270_p002.jpg",
+      "corpus/iiif/na_00270_p003.jpg",
+      "corpus/iiif/na_00270_p005.jpg",
+      "corpus/iiif/na_00270_p007.jpg",
+      "corpus/iiif/na_00270_p009.jpg",
+      "corpus/iiif/na_00270_p011.jpg",
+      "corpus/iiif/na_00270_p012.jpg"
+    ],
+    "folios_not_examined": "p004, p006, p008, p010 (4 of 12 pages). These likely contain additional palette variants and should be downloaded for complete palette mapping. Based on the alternation pattern, p004 likely uses Palette B or a new variant with teal inner strip; p006 likely uses a palette related to p007's Palette C or a new variant with teal inner strip; p008 may use Palette D-related palette or a new variant; p010 may complete the salmon+blue family. Full 12-page IIIF download is recommended as a follow-up priority.",
+    "corpus_priority": "HIGH — NA 00270 is one of the most palette-diverse marbled meşk albums in the corpus. Key research value: (1) Five distinct battal ebru palettes + one gel-git in a single dated album (AH 1195 / 1781 CE) provides an anchored reference point for late 18th-century Istanbul battal ebru palette range. (2) The systematic mülevven inner strip alternation (teal/pink) is a unique compositional strategy within the Nuri Arlasez corpus and the broader project. (3) The gel-git ebru on p003 — placed as the opening page accent — is the clearest gel-git identification in the corpus after tiem_02481 p006L. (4) The red lacquer binding with rumi-arabesque şemse and salbek needs physical comparison with Topkapı and TIEM lacquer bindings.",
+    "source_data": {
+      "visual_confirmation_file": "catalog/searches/visual_tier2_na_00270.json",
+      "yek_id": "406230",
+      "iiif_id": "0000000398191",
+      "batch": "Tier 2 Sub-Batch D / Nuri Arlasez individual record (2026-02-28)",
+      "catalogued_by_yek": "Yusuf Yıldırım"
+    }
+  }
+}

@@ -1,0 +1,513 @@
+{
+  "record_id": "na_00120",
+  "collection": {
+    "institution": "Süleymaniye Yazma Eser Kütüphanesi — Nuri Arlasez Koleksiyonu",
+    "city": "Istanbul",
+    "country": "Turkey",
+    "shelfmark": "00120",
+    "yek_url": "https://portal.yek.gov.tr/works/detail/406054"
+  },
+  "manuscript": {
+    "title": "Muraqqaʿāt / مرقعات",
+    "title_script": "مرقعات",
+    "title_alt": "Zühdü Efendi Muraqqaʿı",
+    "author": null,
+    "author_dates": null,
+    "calligrapher": "Zühdü Efendi (زهدو افندي)",
+    "calligrapher_dates": null,
+    "calligrapher_note": "Zühdü Efendi is identified in the YEK catalogue as the calligrapher of this album. No dates are provided in the catalogue record. The name 'Zühdü' (زهدو, from Arabic zuhd, meaning piety/asceticism) is attested as an Ottoman calligrapher's name in the later Ottoman period. The handwritten cataloguing note on the inside front cover (p002) refers to 'Mehmed Nureddin Hocaoğlu' in connection with this album — this may be a former owner or a secondary attribution note, not the original calligrapher. The YEK data assigns the calligraphic authorship to Zühdü Efendi. Without a dated ketebe or comparison with authenticated works, the attribution cannot be independently verified from IIIF images alone.",
+    "date_ah": null,
+    "date_ce": null,
+    "date_note": "No date is given in the YEK catalogue record or visible in the IIIF images at available resolution. The physical program — green mülevven paper as calligraphy-mounting ground, vassale-mounted panels on cream paper, simple border framing — is consistent with late Ottoman meşk album production, broadly 18th–19th century. The Nuri Arlasez donation context suggests a post-19th century acquisition; the album itself may be somewhat earlier. Date null pending physical examination.",
+    "place_of_copy": null,
+    "format": "Muraqqaʿ / مرقع — Ottoman calligraphic meşk album with hatip ebrulu cover and green mülevven interior paper",
+    "format_note": "A bound Ottoman calligraphic album (muraqqaʿ) of 8 yaprak (leaves) in the YEK record (corresponding to 6 IIIF pages covering front cover, inside cover opening, and 4 calligraphy openings). The album contains calligraphic specimen sheets (kıtʿa) mounted via vassale onto green mülevven paper. The YEK record notes '3 sütun' (3 columns) per page — confirmed by visual examination (three vertical calligraphy panel strips per page). Scripts are mixed (Arap harfli-Muhtelif per YEK): the IIIF images show both flowing talik-influenced and more angular nesih-type hands across the calligraphy leaves. The front cover is a hatip ebrulu paper in an unusual botanical-style program. The album was donated to Süleymaniye by Nuri Arlasez.",
+    "language": "Arabic",
+    "script": "Muhtelif (mixed) — talik (taʿlīq) and nesih (naskh) visible in IIIF images; per YEK: 'Arap harfli-Muhtelif'",
+    "dimensions_mm": {
+      "height": 221,
+      "width": 155,
+      "writing_area_mm": {
+        "height": 203,
+        "width": 75
+      },
+      "note": "Outer dimensions 221×155 mm; writing area 203×75 mm per YEK catalogue. The narrow writing area (75 mm wide) reflects a 3-column vertical strip layout per page."
+    },
+    "folio_count": 8,
+    "yek_id": "406054",
+    "iiif_id": "0000000398367",
+    "notes": "A compact Ottoman meşk album of particular interest for its two-register decorative program: (1) a hatip ebrulu front cover in an unusual dark-ground palette (olive-green / gold-cream / blue-grey botanical motifs with scattered orange-red dots), and (2) green mülevven (sage-green dyed) paper used as the full-page calligraphy mounting ground throughout the interior. The inside front cover doublure carries handwritten cataloguing notes including 'S. Nuri Arlasez Bağısı' (Nuri Arlasez's gift) and 'Duble renkli kâğıt üzerine' — the latter phrase ('on double colored paper') explicitly notes the use of colored paper, confirming the donor or an early curator was aware of the decorated paper element. This album is the FIRST confirmed green mülevven specimen in the Nuri Arlasez Koleksiyonu and only the third deep sage-green mülevven in the project corpus (after hamidiye_00034's green sequence and tiem_02437's sage-green zerefşân). The hatip ebru cover is the 7th confirmed hatip ebru in the corpus."
+  },
+  "paper_decoration": {
+    "types": [
+      "marbled",
+      "colored",
+      "framing_system"
+    ],
+    "summary": "NA 00120 exhibits a two-part decorative paper program. The front cover (p001) is a hatip ebrulu paper: large, organic botanical leaf and feather-like motifs in dark olive-green, gold/cream, and blue-grey tones, with scattered rounded orange-red pigment dots distributed across the surface. The motifs are produced by stylus (biz) manipulation in the marbling trough — the characteristic hallmark of hatip ebru — creating flowing, directional vegetal shapes that are clearly distinct from the random spotting of battal ebru or the combed striations of taraklı ebru. The color palette is unusual in the corpus: the dominant ground is a deep olive-green to dark blue-grey, with the botanical motifs rendered in gold/cream and accented with rust-orange dots. All four calligraphy openings (pp003–006) use deep sage-green mülevven paper as the full-page mounting ground. The green is a matte, uniform color, clearly the result of intentional paper dyeing rather than staining, oxidation, or incidental pigment transfer. Calligraphy panels (kıtʿa) in mixed scripts are vassale-mounted onto the green mülevven ground, with the green paper visible as wide margins surrounding each panel. A simple single-line dark border at the outer edge of each page completes the framing system. The album contains no halkar, no zerefşân, no illuminated headpieces, and no compound cetvel system.",
+    "distribution_notes": "Hatip ebrulu paper: front cover only (p001). Back cover not included in IIIF sequence — if present, its decoration type is unconfirmed. Green mülevven paper: first leaf (right page of p002) and all four calligraphy openings (pp003–006, both pages per opening). Inside front cover (left page of p002): plain cream/off-white paper (doublure) with handwritten notes. The mülevven paper is used throughout the interior as the primary calligraphy mounting surface — an unusually systematic application of colored paper as the decorative ground for an entire album.",
+    "technique_terms": {
+      "ottoman": "hatip ebrûsu (biz ile çizilmiş / stylus ile çizilmiş, taraklı DEĞİL); mülevven kâğıt (derin çam yeşili / duble renkli kâğıt); vassale (kıtʿa yapıştırma); basit cetvel / kenarlık (tek satır)",
+      "persian": "abrī-ye khaṭīb (ابری خطیب) — imam's marbling; mulavvan (ملوّن) — colored (green)",
+      "arabic": "waraq muzakhraf bi-usūb al-khaṭīb (ورق مزخرف بأسلوب الخطيب) — paper decorated in the preacher's marbling manner; waraq mulauwwan (ورق ملوّن) — colored paper"
+    },
+    "catalogue_description": {
+      "paper_field": null,
+      "paper_field_normalized": null,
+      "paper_field_translation": null,
+      "notes_field": "Murakka'at. 8 yk., 3 st. 221x155-203x75 mm. Arap harfli-Muhtelif. Zuhdu Efendi.",
+      "notes_field_normalized": "Murakkaʿât. 8 yaprak, 3 sütun. 221×155–203×75 mm. Arap harfli-Muhtelif. Zühdü Efendi.",
+      "notes_field_translation": "Calligraphic album. 8 leaves, 3 columns. 221×155–203×75 mm. Arabic-letter, mixed scripts. Zühdü Efendi.",
+      "decoration_field": null,
+      "source": "YEK portal, catalogue record YEK ID 406054, Süleymaniye Yazma Eser Kütüphanesi — Nuri Arlasez Koleksiyonu. Cataloguer: Yusuf Yıldırım. Kâğıt özellikleri and tezhip/minyatür fields are null in the YEK record. Decoration description ('hatip ebru kapak, yeşil mülevven iç sayfalar') derives entirely from visual examination of IIIF images and the inside-cover handwritten note 'Duble renkli kâğıt üzerine'."
+    }
+  },
+  "workshop_attribution": {
+    "primary_tradition": "ottoman",
+    "workshop_centre": "Istanbul (probable)",
+    "date_range_ce": "18th–19th century (c. 1750–1850, probable)",
+    "confidence": 0.65,
+    "key_indicators": [
+      "Hatip ebrulu front cover: the hatip ebru technique is a distinctively Ottoman art form associated with Istanbul and provincial Ottoman production; the large-scale botanical motif program on a dark-ground palette is consistent with the later Ottoman (18th–19th century) hatip ebru tradition",
+      "Green mülevven paper as full-page calligraphy mounting ground: the systematic use of a single dyed paper color throughout an entire meşk album is documented in Istanbul production of the 18th–19th centuries (cf. hamidiye_00034 multi-color mülevven sequence, tiem_02437 sage-green zerefşân margins)",
+      "Vassale mounting of calligraphy panels onto decorated paper ground: standard technique in Ottoman meşk album production from at least the 17th century onward",
+      "YEK classification 740 / Çizgi sanatları ve dekoratif sanatlar (Line arts and decorative arts): consistent with Ottoman calligraphy album classification",
+      "Nuri Arlasez donation context: Nuri Arlasez was a 20th-century collector of Ottoman manuscripts; albums in his collection typically date to the 17th–19th century Ottoman period"
+    ],
+    "cross_tradition_caveats": [
+      "No dated ketebe is visible in the IIIF images; the date range is inferred from stylistic and material evidence only and requires physical examination to narrow",
+      "The hatip ebru cover's unusually dark-ground palette (olive-green / blue-grey dominant, rather than cream or white ground) is atypical of standard 18th-century Istanbul production; the orange-red dot accents scattered across the botanical motifs may suggest a later production date or a provincial workshop variant",
+      "The calligrapher Zühdü Efendi has not been identified in the standard biographical dictionaries (Müstakimzâde Tuhfe-i Hattâtîn, İnal Son Hattatlar) from IIIF images alone; without a dated ketebe or biographical confirmation, the workshop attribution remains provisional",
+      "The back cover of the album is not included in the IIIF sequence; if the back cover has a different decoration type (e.g., plain leather rather than matched hatip ebru), this would be significant for dating and provenance"
+    ]
+  },
+  "codicology": {
+    "paper": {
+      "color": "Two paper types: (1) hatip ebrulu paper on front cover (p001) — dark olive-green, blue-grey, and gold/cream botanical motifs on a dark ground, with orange-red scattered dots; (2) deep sage-green mülevven paper for interior calligraphy pages (pp003–006 and right page of p002) — uniform matte green, clearly intentionally dyed; (3) cream/off-white paper for calligraphy panels (kıtʿa inserts) and inside front cover doublure.",
+      "preparation": "The calligraphy panels (kıtʿa) are written on cream âharlı (sized and burnished) paper, consistent with Ottoman luxury calligraphy paper. The mülevven paper appears to be a smooth, medium-weight sheet with a uniform dyed surface; surface dyeing rather than pulp dyeing is the most probable method, consistent with Ottoman practice. The âharlı surface of the calligraphy panels is evident from the smoothness and consistent ink absorption visible in the IIIF images. The hatip ebrulu cover paper has a fibrous, somewhat coarser texture typical of papers used as binding covers.",
+      "weight": "Indeterminate from IIIF images. The mülevven paper appears to be medium-weight, appropriate for an album leaf.",
+      "decoration": "Hatip ebru (front cover only); green mülevven (interior pages); simple single-line dark border framing on calligraphy pages.",
+      "paper_type": "Eastern/Oriental paper (probable) for calligraphy panels; mülevven (dyed) paper for interior page grounds; hatip ebrulu paper for front cover."
+    },
+    "ruling": {
+      "system": "Simple single-line border framing at the outer edge of each calligraphy page. No compound cetvel system, no gold ruling, no red inner rules. The border appears to be a dark-painted or applied line at the page edge.",
+      "description": "The framing system is minimal compared to other albums in this corpus. Each calligraphy opening (pp003–006) shows a simple single dark line at the outer perimeter of each page, functioning as a border (kenarlık) rather than a multi-layer cetvel. Within the page, the vassale-mounted calligraphy panels create a visual framing effect through the contrast between the cream panel ground and the surrounding green mülevven margin — but there are no ruling lines between panels or within the margin area. The thin dark border at the page edge is likely a simple painted or inked line applied to the mülevven paper. This is a simpler framing system than the compound altın cetvel programs in comparable corpus albums (e.g., tiem_02437, hamidiye_00010), suggesting either a different workshop tradition, a later/provincial production, or a more modest commission."
+    },
+    "binding": {
+      "cover_description": "Front cover (p001): hatip ebrulu paper cover, adhered to or integral with the binding board. The leather binding edge is visible as a narrow brown border around the perimeter of the front cover. No gilt shamsa or corner ornaments are visible on the front cover — the hatip ebru paper IS the decorative surface. A Süleymaniye library stamp with '120' is affixed at lower right. Back cover: not included in IIIF sequence; decoration type unconfirmed.",
+      "cover_type": "Ebrulu cilt (marbled paper cover binding) — hatip ebrulu paper adhered to the binding board. No gilt leather binding: the front cover's decorative surface is the hatip ebrulu paper itself.",
+      "notes": "The hatip ebrulu paper appears to be the cover of a paper-covered binding (not a full leather binding with applied marbled paper). This is a simpler and more modest binding type than the red leather with gilt shamsa seen on comparable albums (e.g., tiem_02437, tiem_02429). It is consistent with a working calligraphy practice album (meşk murakkası) rather than a luxury presentation album. The inside front cover (doublure) is plain cream paper — not a decorated doublure. No mıklep (flap) is visible in the IIIF images."
+    },
+    "format": "Muraqqaʿ — Ottoman calligraphic meşk album (8 yaprak / 6 IIIF pages)",
+    "condition_summary": "The album is in fair to good condition. The front cover (p001) shows some darkening and wear, particularly at the upper-left corner and spine edge, but the hatip ebru motifs remain clearly legible throughout. The inside front cover (p002 left) shows significant use-wear: the cream doublure paper is heavily soiled with pencil and ink annotations, and some foxing is visible. The green mülevven calligraphy pages (pp003–006) are generally well-preserved; the green retains good saturation throughout, with slightly more fading toward the gutter on some pages, likely from light exposure. Gutter wear and some paper separation are visible at the spine on pp005–006. The YEK digital watermark is visible on the calligraphy pages (pp003–006), which is a YEK IIIF delivery overlay rather than a physical feature of the manuscript.",
+    "conservation_history": null
+  },
+  "visual_confirmation": {
+    "verdict": "confirmed",
+    "confidence": 0.96,
+    "confidence_breakdown": {
+      "resolution_quality": 0.75,
+      "folio_coverage": 1.0,
+      "visual_match": 0.98,
+      "limiting_factor": "resolution (approximately 75% native IIIF; fine details of paper surface texture reduced)"
+    },
+    "screenshots_examined": 6,
+    "folios_examined": [
+      "corpus/iiif/na_00120_p001.jpg",
+      "corpus/iiif/na_00120_p002.jpg",
+      "corpus/iiif/na_00120_p003.jpg",
+      "corpus/iiif/na_00120_p004.jpg",
+      "corpus/iiif/na_00120_p005.jpg",
+      "corpus/iiif/na_00120_p006.jpg"
+    ],
+    "visual_evidence": "Hatip ebrulu front cover confirmed on p001: large stylus-drawn botanical motifs (elongated leaf and feather shapes) in olive-green, gold/cream, and blue-grey, with scattered rounded orange-red pigment dots. The stylus-drawn character is unambiguous — these are flowing, directional botanical forms created by biz manipulation in the marbling trough, NOT combed striations (taraklı) and NOT random battal spots. Green mülevven confirmed on p002 right and pp003–006: uniform deep sage-green dyed paper used as full-page calligraphy mounting ground. Vassale mounting confirmed on pp003–006: cream calligraphy panel inserts contrast clearly against green ground. Simple single-line border framing confirmed on pp003–006. No halkar, zerefşân, or compound cetvel system detected.",
+    "limitations": [
+      "Images examined at approximately 75% of native IIIF resolution via browser rendering. Fine microstructure of the hatip ebru paper surface (e.g., marbling trough size texture, individual motif edges) is somewhat reduced.",
+      "Back cover not included in the 6-page IIIF sequence. If a back cover exists, its decoration type (whether matched hatip ebru or plain) is unconfirmed.",
+      "Script identification (talik vs. nesih-talik vs. muhtelif) cannot be definitively resolved from IIIF images at this resolution without specialist palaeographic consultation.",
+      "The calligrapher Zühdü Efendi's ketebe inscription, if present in the album, was not legible in the IIIF images at available resolution.",
+      "Zerefşân presence on the calligraphy panels cannot be confirmed or excluded at this resolution — the cream panels may carry fine gold sprinkle not visible at 75% IIIF capture.",
+      "The handwritten notes on the inside front cover doublure (p002 left) were partially legible: 'S. Nuri Arlasez Bağısı', 'Mehmed Nureddin Hocaoğlu', 'Duble renkli kâğıt üzerine'. Full transcription requires physical examination."
+    ],
+    "source_agent": "metadata-generator (direct IIIF examination + visual_tier2_na_00120.json)",
+    "session": "catalog/searches/visual_tier2_na_00120.json"
+  },
+  "folio_analyses": [
+    {
+      "folio": "Front cover (IIIF p001)",
+      "source_image": "corpus/iiif/na_00120_p001.jpg",
+      "decoration_present": true,
+      "decoration_types": ["marbled"],
+      "elements": [
+        {
+          "motif": "Hatip ebrûsu — botanical leaf and feather motifs on dark ground",
+          "description": "The front cover is covered with hatip ebrulu paper exhibiting a distinctive dark-ground palette unusual in the project corpus. Large botanical motifs — elongated leaf shapes, feather/plume-like forms, and curving tendrils — are created by stylus (biz) manipulation in the marbling trough. The ground is a deep olive-green to dark blue-grey tone; the motifs are rendered in gold/cream (leaf interiors and vein-like formations) and dark blue-grey contrasting tones. The botanical leaf shapes are elongated and directional, showing the characteristic 'pulled' quality of stylus-drawn hatip ebru. Scattered throughout the composition are rounded orange-red pigment dots of varying size — these are the small battal-like color drops that accumulate in the trough between or around the principal motifs, here rendered in a distinctive rust-orange. The overall effect is a dense, naturalistic botanical pattern resembling a bed of overlapping leaves viewed from above. No combed striations, no regular repeating grid, no random mottling — the composition is recognizably hatip ebrûsu.",
+          "location": "Full front cover surface",
+          "confidence": 0.96,
+          "ebru_subtype": "hatip",
+          "ebru_technique_note": "Stylus-drawn (biz ile çizilmiş): motifs created by pulling a single pointed stylus through pigment floating on size. This is distinct from (a) battal ebru (random spot/mottled marbling — no stylus manipulation), (b) gel-git ebru (single stylus drawn back-and-forth producing wave patterns), and (c) taraklı ebru (multi-toothed comb producing parallel striations). The rounded orange-red dots scattered between the leaf motifs are small pigment drops (damla), a standard feature of hatip ebru compositions where multiple colors are floated and some resist the stylus manipulation, forming isolated spots.",
+          "color_palette": {
+            "ground": "deep olive-green to dark blue-grey",
+            "motif_primary": "gold/cream (leaf interiors, vein formations)",
+            "motif_secondary": "blue-grey (leaf outlines, directional streaks)",
+            "accent": "orange-red (scattered dots / damla)"
+          }
+        },
+        {
+          "motif": "Süleymaniye library stamp",
+          "description": "A circular red stamp at the lower right of the front cover bearing the Süleymaniye library registration mark with the shelfmark number '120'. This is a modern accession stamp, not a historical decoration element.",
+          "location": "Lower right corner of front cover",
+          "confidence": 0.99
+        }
+      ],
+      "condition_notes": "Upper-left corner and spine edge show wear and slight darkening. The hatip ebru motifs remain legible across the full surface. Some minor foxing or surface marks in the upper right area.",
+      "confidence": 0.96
+    },
+    {
+      "folio": "Inside front cover + first mülevven leaf (IIIF p002)",
+      "source_image": "corpus/iiif/na_00120_p002.jpg",
+      "decoration_present": true,
+      "decoration_types": ["colored"],
+      "elements": [
+        {
+          "motif": "Inside front cover doublure — plain paper with handwritten cataloguing notes",
+          "description": "The left page of the p002 opening is the inside front cover (doublure): cream/off-white paper heavily annotated in ink and pencil. Legible text includes: 'Fatima Nafi Tohumcu / Süleymaniye' (institutional affiliation, top left); 'S. Nuri Arlasez Bağısı' (Gift of Nuri Arlasez, in pencil or blue pen); numerals and references including 'No. 120'; and a central block of handwritten notes in Ottoman Turkish including 'Murakka' (or 'Muraqqaʿ'), 'Mehmed Nureddin Hocaoğlu', 'Büyük', and 'Duble renkli kâğıt üzerine'. The last phrase — 'Duble renkli kâğıt üzerine' ('on double colored paper') — is particularly significant: it is an explicit contemporary or near-contemporary acknowledgment that the calligraphy in this album is mounted on colored paper, confirming the decorated paper element is an intentional and noticed feature. The doublure is not decorated; the annotations are secondary.",
+          "location": "Left page — inside front cover (doublure)",
+          "confidence": 0.97
+        },
+        {
+          "motif": "First green mülevven leaf",
+          "description": "The right page of the p002 opening is the first interior leaf of the album: a full page of deep sage-green mülevven paper with no calligraphy. The color is a matte, uniform, medium-depth sage-green — clearly an intentionally dyed paper, not staining or oxidation. The green is consistent across the entire visible surface of the page. An embossed 'Türkiye Yazma Eserler' institutional watermark seal is visible in the center of the green page — this is a modern embossed institutional mark applied to the IIIF digital copy for copyright identification, not a historic watermark in the paper itself. No calligraphy, no ruling, no decoration other than the green color of the dyed paper.",
+          "location": "Right page — first interior leaf",
+          "confidence": 0.98,
+          "mulevven_color": "deep sage-green (matte, uniform, intentionally dyed)"
+        }
+      ],
+      "condition_notes": "Left page (doublure) heavily annotated and somewhat soiled. Right page (green mülevven) in good condition with full color saturation.",
+      "confidence": 0.97
+    },
+    {
+      "folio": "First calligraphy opening (IIIF p003)",
+      "source_image": "corpus/iiif/na_00120_p003.jpg",
+      "decoration_present": true,
+      "decoration_types": ["colored", "framing_system"],
+      "elements": [
+        {
+          "motif": "Green mülevven paper — full-page calligraphy mounting ground",
+          "description": "Both pages of the first calligraphy opening use deep sage-green mülevven paper as the full-page mounting ground. The green is the same tone as p002 right: uniform, matte, clearly intentionally dyed. The green paper is visible as wide margins surrounding the vassale-mounted calligraphy panels on all four sides — top, bottom, left, and right.",
+          "location": "Both pages — full-page ground",
+          "confidence": 0.98,
+          "mulevven_color": "deep sage-green"
+        },
+        {
+          "motif": "Vassale-mounted calligraphy panels — kıtʿa on cream paper",
+          "description": "Each page carries three vertical calligraphy panel strips (3 sütun per YEK catalogue), vassale-mounted onto the green mülevven ground. The panels are on cream/off-white âharlı paper, clearly distinguishable from the green ground. The panel edges (vassale seams) are visible where the cream insert meets the green ground. The calligraphy is written in a flowing, diagonal Arabic script that appears to include both a larger primary hand and smaller secondary lines — consistent with a meşk (calligraphic practice) format alternating between a model (üstad) line and student-copied lines, or with a mixed nesih-talik program. The script style has pronounced diagonal orientation and sweeping descenders characteristic of talik (taʿlīq) or nesih-talik influence.",
+          "location": "Both pages — three vertical panel strips per page",
+          "confidence": 0.93,
+          "vassal_seams_visible": true,
+          "script_note": "Script appears to be talik-influenced (possibly nesih or nesih-talik) rather than the sulus-nesih combination noted in the visual confirmation JSON. The YEK record states 'Arap harfli-Muhtelif' (Arabic-script, mixed) without specifying individual script names. Specialist palaeographic confirmation required."
+        },
+        {
+          "motif": "Simple single-line dark border",
+          "description": "A thin dark line runs along the outer perimeter of each page, functioning as a minimal border (kenarlık). The line appears to be a painted or inked single-line application, not a multi-layer cetvel system. No gold ruling, no colored fill bands, no red inner rules.",
+          "location": "Outer edge, both pages",
+          "confidence": 0.85
+        }
+      ],
+      "condition_notes": "Pages in good condition. Green saturation consistent and clear. Some YEK digital watermark visible (overlay, not physical).",
+      "confidence": 0.95
+    },
+    {
+      "folio": "Second calligraphy opening (IIIF p004)",
+      "source_image": "corpus/iiif/na_00120_p004.jpg",
+      "decoration_present": true,
+      "decoration_types": ["colored", "framing_system"],
+      "elements": [
+        {
+          "motif": "Green mülevven paper — full-page calligraphy mounting ground",
+          "description": "Same program as p003: deep sage-green mülevven paper as the full-page mounting ground on both pages. The green appears slightly more worn toward the gutter (spine) on the left page — possibly from handling or light exposure — but remains clearly intentional dyed color throughout.",
+          "location": "Both pages — full-page ground",
+          "confidence": 0.98,
+          "mulevven_color": "deep sage-green (slightly faded at gutter on left page)"
+        },
+        {
+          "motif": "Vassale-mounted calligraphy panels — kıtʿa on cream paper",
+          "description": "Three vertical calligraphy panel strips per page, as on p003. The script appears somewhat bolder and more angular on some lines of p004 compared to p003 — possibly alternating between a larger sulus-type model line and talik-influenced smaller lines, consistent with a mixed-script meşk program.",
+          "location": "Both pages — three vertical panel strips per page",
+          "confidence": 0.93
+        },
+        {
+          "motif": "Simple single-line dark border",
+          "description": "Same minimal single-line dark border as p003.",
+          "location": "Outer edge, both pages",
+          "confidence": 0.85
+        }
+      ],
+      "condition_notes": "Left page shows slight fading at gutter. Otherwise in good condition.",
+      "confidence": 0.95
+    },
+    {
+      "folio": "Third calligraphy opening (IIIF p005)",
+      "source_image": "corpus/iiif/na_00120_p005.jpg",
+      "decoration_present": true,
+      "decoration_types": ["colored", "framing_system"],
+      "elements": [
+        {
+          "motif": "Green mülevven paper — full-page calligraphy mounting ground",
+          "description": "Continued green mülevven program. The right page of p005 shows fresher, more saturated green than the left page, likely due to differential light exposure (the inner pages of an album are often better preserved than the outer leaves).",
+          "location": "Both pages — full-page ground",
+          "confidence": 0.98,
+          "mulevven_color": "deep sage-green (differential saturation: right page fresher than left)"
+        },
+        {
+          "motif": "Vassale-mounted calligraphy panels — kıtʿa on cream paper",
+          "description": "Three vertical calligraphy panel strips per page, continuing the meşk program.",
+          "location": "Both pages — three vertical panel strips per page",
+          "confidence": 0.93
+        },
+        {
+          "motif": "Simple single-line dark border",
+          "description": "Consistent with pp003–004.",
+          "location": "Outer edge, both pages",
+          "confidence": 0.85
+        }
+      ],
+      "condition_notes": "Some gutter wear visible. Right page green is better preserved. No major damage.",
+      "confidence": 0.95
+    },
+    {
+      "folio": "Fourth (final) calligraphy opening (IIIF p006)",
+      "source_image": "corpus/iiif/na_00120_p006.jpg",
+      "decoration_present": true,
+      "decoration_types": ["colored", "framing_system"],
+      "elements": [
+        {
+          "motif": "Green mülevven paper — full-page calligraphy mounting ground",
+          "description": "Final calligraphy opening. The green mülevven continues on both pages. Some lightening of the green is visible toward the gutter on both pages, consistent with cumulative light exposure at the album's inner margins. The right page shows a slightly smaller number of visible calligraphy panels — possibly only two strips visible rather than three — which may indicate this is the final leaf with a shorter calligraphic content, or the third panel is obscured by the gutter fold.",
+          "location": "Both pages — full-page ground",
+          "confidence": 0.97,
+          "mulevven_color": "deep sage-green (some lightening at gutter)"
+        },
+        {
+          "motif": "Vassale-mounted calligraphy panels — kıtʿa on cream paper",
+          "description": "Three vertical strips on the left page; right page appears to have two clearly visible strips (the third may be present but partially obscured by the gutter fold). The right page of p006 may carry the final kıtʿa of the album, possibly including the calligrapher's ketebe inscription, but this cannot be confirmed at available image resolution.",
+          "location": "Both pages — calligraphy panel strips",
+          "confidence": 0.90
+        },
+        {
+          "motif": "Simple single-line dark border",
+          "description": "Consistent with pp003–005.",
+          "location": "Outer edge, both pages",
+          "confidence": 0.85
+        }
+      ],
+      "condition_notes": "Some lightening of green at gutter. Overall well-preserved. Right page may carry the final ketebe but is not legible at this resolution. Some gutter-related shadow obscures the innermost calligraphy strip on the right page.",
+      "confidence": 0.93
+    }
+  ],
+  "terminology": {
+    "terms_used": [
+      {
+        "concept": "Hatip ebrûsu (preacher's / imam's marbling)",
+        "ottoman": "hatip ebrûsu / hatip ebrulu kâğıt",
+        "arabic": "waraq marmara bi-usūb al-khaṭīb (ورق مرمر بأسلوب الخطيب)",
+        "persian": "kāġaẕ-e abrī-ye khaṭīb (کاغذ ابری خطیب)",
+        "english": "Hatip ebrûsu: the most technically demanding subtype of Ottoman marbled paper (ebrî), in which a pointed stylus (biz) is used to manipulate floating pigments on the marbling trough (tekne) to create intentional botanical or calligraphic motifs. The technique is named after a legendary Ottoman marbler known as Hatip Mehmed Efendi (17th century). Key diagnostic: the motifs are organic, directional, and flowing — leaves, petals, feathers, or calligraphic shapes pulled into form by stylus movements. THIS IS NOT the same as gel-git ebru (single stylus moving back-and-forth producing wave patterns) or taraklı ebru (multi-toothed comb producing parallel striations). On NA 00120, the motifs are large elongated leaves and feather-like botanical forms on a dark olive-green to blue-grey ground, with scattered orange-red pigment dot accents (damla)."
+      },
+      {
+        "concept": "Battal ebru (stone / spot marbling)",
+        "ottoman": "battal ebrûsu / battal ebrulu kâğıt",
+        "arabic": "waraq marmara ʿādī (ورق مرمر عادي)",
+        "persian": "kāġaẕ-e abrī-ye sāde (کاغذ ابری ساده)",
+        "english": "Battal ebru: the simplest form of marbled paper, produced by floating pigment colors on the marbling size without any stylus or comb manipulation. The result is a random, mottled, cloud-like pattern of irregular spots and blotches. The orange-red dots on the NA 00120 hatip ebru cover are a SECONDARY battal element within a hatip ebru composition — small color drops that accumulate in the trough interstices between the larger stylus-drawn botanical forms. They should not be classified as standalone battal ebru; the dominant technique is hatip."
+      },
+      {
+        "concept": "Gel-git ebrûsu (come-and-go / wave marbling)",
+        "ottoman": "gel-git ebrûsu",
+        "arabic": null,
+        "persian": null,
+        "english": "Gel-git ebru: a marbling subtype produced by drawing a single pointed stylus (biz) back and forth across the surface of the floating pigments, creating flowing wave or S-curve patterns. NOT PRESENT in NA 00120. Documented elsewhere in the corpus: tiem_02481 p006L. Gel-git is NOT synonymous with taraklı (combed) ebru."
+      },
+      {
+        "concept": "Taraklı ebrûsu (combed marbling)",
+        "ottoman": "taraklı ebrûsu / taraklı ebru",
+        "arabic": null,
+        "persian": null,
+        "english": "Taraklı ebru: marbled paper produced by drawing a multi-toothed comb (tarak) through the floating pigments, creating evenly-spaced parallel striations. NOT PRESENT in NA 00120. Taraklı is a distinct technique from both hatip (stylus-botanical) and gel-git (single-stylus wave). These three techniques are NOT synonymous and must not be conflated in catalogue descriptions."
+      },
+      {
+        "concept": "Mülevven kâğıt (colored paper)",
+        "ottoman": "mülevven / mülevven kâğıt / boyalı kâğıt / duble renkli kâğıt",
+        "arabic": "waraq mulauwwan (ورق ملوّن)",
+        "persian": "kāġaẕ-e mulavvan (کاغذ ملوّن) / rang-āmīz (رنگ آمیز)",
+        "english": "Mülevven kâğıt: paper that has been intentionally colored (dyed or pigmented) in a single solid color throughout. In NA 00120, the mülevven paper is a deep sage-green, used as the full-page mounting ground for calligraphy panels throughout the album interior (pp002 right, 003–006). The term 'duble renkli kâğıt' used in the handwritten note on the inside front cover is an informal Turkish phrase for the same concept ('double colored paper' or 'doubly colored paper'), suggesting the green paper was distinctive enough to be explicitly noted by a curator or cataloguer. The dyeing technique (surface dyeing vs. pulp dyeing) cannot be determined from IIIF images; Ottoman mülevven papers were most commonly surface-dyed."
+      },
+      {
+        "concept": "Vassale mounting",
+        "ottoman": "vassale / pencere montaj / yapıştırma tekniği",
+        "arabic": null,
+        "persian": null,
+        "english": "Vassale: the technique of mounting a calligraphic or pictorial panel (kıtʿa) into a window cut from a decorative paper ground, so that the decorated paper forms the border/margin visible around the panel. In NA 00120, cream calligraphy panel inserts are vassale-mounted into (or onto) the green mülevven paper ground on all calligraphy pages, creating a strong chromatic contrast between the cream panels and the surrounding green margin."
+      },
+      {
+        "concept": "Calligraphic album",
+        "ottoman": "muraqqaʿ / murakkaat (مرقعات)",
+        "arabic": "muraqqa (مرقع) / muraqqa'at (مرقعات)",
+        "persian": "muraqqa (مرقع)",
+        "english": "Muraqqaʿ: a bound Ottoman calligraphic (and sometimes pictorial) album consisting of mounted calligraphic specimen sheets (kıtʿa). NA 00120 is a meşk murakkası (calligraphic practice album), containing kıtʿa in mixed Arabic scripts attributed to Zühdü Efendi. The format is standard for Ottoman calligraphic pedagogy albums, in which a master calligrapher's model lines were preserved and collected for study."
+      },
+      {
+        "concept": "Calligraphic specimen sheet",
+        "ottoman": "kıtʿa (قطعة) / kıtʿa-i hat",
+        "arabic": "qiṭʿa (قطعة)",
+        "persian": "qiṭʿa (قطعه)",
+        "english": "Kıtʿa: a single calligraphic specimen sheet, typically displaying one or more lines of formal calligraphy. In NA 00120, three kıtʿa strips per page are vassale-mounted onto the green mülevven ground, producing a 3-column layout (3 sütun per YEK catalogue)."
+      },
+      {
+        "concept": "Meşk calligraphy album",
+        "ottoman": "meşk murakkası / meşk mecmuası",
+        "arabic": null,
+        "persian": null,
+        "english": "Meşk murakkası: a calligraphy practice album compiled for pedagogical purposes, typically containing a master calligrapher's model lines (meşk) for students to copy and study. NA 00120 appears to be a meşk format album based on the 3-column strip layout and the attribution to a named calligrapher (Zühdü Efendi) without additional illuminated apparatus."
+      },
+      {
+        "concept": "Colophon inscription",
+        "ottoman": "ketebe kaydı",
+        "arabic": "kitāb al-fāriġ (كتاب الفارغ) / fāriġa",
+        "persian": "ketābe (کتابه)",
+        "english": "Ketebe kaydı: the closing inscription in which the calligrapher records their name (and often the date and place of copying). In NA 00120, the YEK catalogue attributes the calligraphy to Zühdü Efendi; a ketebe inscription may be present on the final leaf (p006 right) but was not legible at available IIIF resolution."
+      }
+    ]
+  },
+  "bibliography": [
+    {
+      "citation": "Blair, Sheila S. 'Color and Gold: The Decorated Papers Used in Manuscripts in Later Islamic Times.' Muqarnas 17 (2000): 24–36.",
+      "relevance": "The foundational taxonomic study for all decorated paper classification in this project. Blair establishes the categories of marbled paper (ebrî), colored paper (mülevven), and gold-sprinkled paper (zerefşân) as distinct techniques, providing the framework for the dual classification of NA 00120 (hatip ebru cover + green mülevven interior). Her discussion of colored paper grounds in Ottoman manuscripts is directly relevant to the green mülevven program of this album.",
+      "relevance_score": 0.97,
+      "access_notes": "Peer-reviewed article in Muqarnas. Available via JSTOR (Brill) and Academia.edu (open access PDF)."
+    },
+    {
+      "citation": "Derman, M. Uğur. Letters in Gold: Ottoman Calligraphy from the Sakıp Sabancı Collection, Istanbul. New York: The Metropolitan Museum of Art, 1998.",
+      "relevance": "Primary English-language exhibition catalogue on Ottoman calligraphy and calligraphic albums, essential for contextualizing the meşk muraqqaʿ format, the 3-column kıtʿa layout, and the decorated-paper programs associated with late Ottoman calligraphic production. Provides comparative examples of calligraphy albums with colored paper grounds from the 18th–19th century Istanbul tradition.",
+      "relevance_score": 0.88,
+      "access_notes": "Exhibition catalogue (Metropolitan Museum of Art, 1998); widely held at Islamic art and Ottoman studies libraries. ISBN 978-0870998843."
+    },
+    {
+      "citation": "Roxburgh, David J. The Persian Album, 1400–1600: From Dispersal to Collection. New Haven: Yale University Press, 2005.",
+      "relevance": "Essential study of the muraqqaʿ album format and its decorated paper programs in the Persianate-Ottoman tradition. Provides the theoretical framework for understanding decorated paper as a compositional element in album design — directly applicable to the systematic use of green mülevven as the full-page mounting ground in NA 00120. Roxburgh's analysis of how paper color communicates status and aesthetic intention in albums informs the interpretation of this album's single-color program.",
+      "relevance_score": 0.85,
+      "access_notes": "Monograph; widely held at research libraries."
+    },
+    {
+      "citation": "Çağman, Filiz, and Zeren Tanındı. The Topkapı Saray Museum: The Albums and Illustrated Manuscripts. Translated and edited by J. M. Rogers. Boston: Little, Brown, 1986.",
+      "relevance": "Standard reference for Ottoman calligraphic albums and their decorated paper programs in the Topkapı collections, with extensive documentation of the hatip ebru album cover tradition and colored paper margin programs in late Ottoman (17th–18th century) production. Provides direct comparanda for the album format and the hatip ebrulu cover binding type.",
+      "relevance_score": 0.85,
+      "access_notes": "Exhibition catalogue; widely held at Turkish and Islamic art research libraries."
+    },
+    {
+      "citation": "Bağcı, Serpil, Filiz Çağman, Günsel Renda, and Zeren Tanındı. Ottoman Painting. Ankara: Ministry of Culture and Tourism, 2006.",
+      "relevance": "Comprehensive survey of Ottoman visual arts including the calligraphic album tradition of the 17th–19th centuries. Provides broader cultural context for the meşk album format and the decorated paper programs associated with Ottoman calligraphic pedagogy and patronage.",
+      "relevance_score": 0.78,
+      "access_notes": "Museum publication; widely held at Turkish studies collections."
+    },
+    {
+      "citation": "Bloom, Jonathan M. Paper Before Print: The History and Impact of Paper in the Islamic World. New Haven: Yale University Press, 2001.",
+      "relevance": "Comprehensive history of paper production and use in the Islamic world, providing the material-culture background for colored paper (mülevven) production techniques, marbled paper traditions, and the role of decorated papers in Ottoman manuscript and album production. Relevant for the discussion of surface dyeing vs. pulp dyeing techniques for mülevven papers.",
+      "relevance_score": 0.78,
+      "access_notes": "Widely held monograph."
+    },
+    {
+      "citation": "Barutçugil, Hikmet. Ebrû Sanatı. Istanbul: Sufi Kitap, 2009.",
+      "relevance": "The most comprehensive Turkish-language technical manual on Ottoman and modern ebrû (marbled paper) techniques. Provides detailed documentation of hatip ebrûsu production: the stylus (biz) manipulation technique, color preparation for botanical motifs, and the distinction between hatip, gel-git, and taraklı ebrû subtypes. Essential for confirming the technical identification of the NA 00120 front cover as hatip rather than gel-git or taraklı.",
+      "relevance_score": 0.92,
+      "access_notes": "Turkish-language monograph. Widely held at Turkish library collections. The primary technical reference for ebrû technique identification in this project."
+    },
+    {
+      "citation": "Gacek, Adam. Arabic Manuscripts: A Vademecum for Readers. Leiden: Brill, 2009.",
+      "relevance": "Standard reference for Islamic manuscript codicological terminology and script identification. Relevant for the identification of the mixed Arabic scripts (talik, nesih) in the calligraphy panels and for general codicological terms (ketebe, kıtʿa, vassale, cetvel) used throughout this record.",
+      "relevance_score": 0.78,
+      "access_notes": "Reference monograph; widely held."
+    },
+    {
+      "citation": "Déroche, François. Islamic Codicology: An Introduction to the Study of Manuscripts in Arabic Script. Translated by Deke Dusinberre and David Radzinowicz. London: Al-Furqan Islamic Heritage Foundation, 2005.",
+      "relevance": "Foundational reference for Islamic manuscript codicology, covering paper decoration types, binding forms, ruling systems, and physical manuscript description. Provides the classification framework for the minimal framing system (single-line kenarlık) and the binding type (paper-covered binding vs. leather binding) documented in this record.",
+      "relevance_score": 0.75,
+      "access_notes": "Monograph; available at specialist libraries."
+    },
+    {
+      "citation": "Sturkenboom, Ilse. 'Chinese Decorated Papers in Persianate Manuscripts: A Preliminary Survey.' In New Findings in the History of the Book and Paper: Proceedings of the 38th IADA Congress. 2023.",
+      "relevance": "Recent scholarship on decorated paper traditions in Persianate-Ottoman manuscripts, including the identification and classification of colored and patterned papers imported or adapted from Chinese sources. Relevant for situating the green mülevven paper tradition in a broader cross-cultural context and for the GlobalDecoPaper ERC project framework applied in this record.",
+      "relevance_score": 0.65,
+      "access_notes": "Conference proceedings. Check IADA publications for open access. Note: publication details require verification — the GlobalDecoPaper ERC project (LMU Munich) is the primary active research group for this topic."
+    },
+    {
+      "citation": "Müstakimzâde Süleyman Saʿdeddin Efendi. Tuhfe-i Hattâtîn. Edited by İbnülemin Mahmud Kemal İnal. Istanbul: Devlet Matbaası, 1928. (Arabic script original c. 1788.)",
+      "relevance": "The standard Ottoman biographical dictionary of calligraphers, containing entries for thousands of Ottoman calligraphers from the 15th through 18th centuries. Essential for any attempt to identify and date Zühdü Efendi based on the YEK calligrapher attribution. If Zühdü Efendi is an 18th-century figure, an entry in the Tuhfe is plausible; if 19th century, İnal's Son Hattatlar would be the more appropriate source.",
+      "relevance_score": 0.70,
+      "access_notes": "Ottoman Turkish (Arabic script) primary source; 1928 edited edition widely held at Turkish manuscript libraries. Facsimile and partial digitization available through Turkish manuscript repositories."
+    },
+    {
+      "citation": "İnal, İbnülemin Mahmud Kemal. Son Hattatlar. Istanbul: Maarif Basımevi, 1955.",
+      "relevance": "Biographical dictionary of late Ottoman (19th–early 20th century) calligraphers. Relevant for identifying Zühdü Efendi if active in the 19th century — the period most consistent with the stylistic and material evidence of NA 00120. Complements Müstakimzâde's Tuhfe-i Hattâtîn for later periods.",
+      "relevance_score": 0.70,
+      "access_notes": "Turkish-language monograph; widely held at Turkish research libraries."
+    }
+  ],
+  "suggested_collections": [
+    {
+      "institution": "Süleymaniye Yazma Eser Kütüphanesi — Nuri Arlasez Koleksiyonu, Istanbul",
+      "reason": "The home collection of this manuscript. The Nuri Arlasez Koleksiyonu holds additional albums donated by the same collector; other hatip ebrulu and mülevven examples may be present. Physical examination of NA 00120 is essential for resolving the dyeing technique of the mülevven paper, identifying the ketebe text, and confirming the calligrapher attribution.",
+      "digital_access": "https://portal.yek.gov.tr"
+    },
+    {
+      "institution": "Topkapı Sarayı Müzesi Kütüphanesi, Istanbul",
+      "reason": "Holds the largest corpus of Ottoman calligraphic albums with hatip ebrulu covers and colored paper programs. Physical and photographic comparison with Topkapı hatip ebru specimens is essential for situating the NA 00120 cover within the hatip ebrû typology and confirming or refining the date attribution.",
+      "digital_access": "https://kutuphane.tsmk.gov.tr"
+    },
+    {
+      "institution": "Türk ve İslam Eserleri Müzesi (TIEM), Istanbul",
+      "reason": "The TIEM murakka corpus (93 positive albums in this project's triage) includes multiple confirmed hatip ebrulu covers (tiem_02490, tiem_02426, tiem_02462, tiem_02489, tiem_02499, tiem_02481, tiem_02493 all confirmed hatip variants). Comparative examination with the TIEM hatip ebrû covers — especially the dark-ground variants — may clarify the chronology and production context of the NA 00120 cover.",
+      "digital_access": "https://portal.yek.gov.tr"
+    },
+    {
+      "institution": "Sakıp Sabancı Museum, Istanbul",
+      "reason": "Holds major Ottoman calligraphic albums with decorated paper programs. The museum's collections include meşk albums with colored paper grounds and hatip ebrulu bindings from the 18th–19th century. Palaeographic comparison with calligraphers active in this period may assist in identifying Zühdü Efendi.",
+      "digital_access": null
+    },
+    {
+      "institution": "GlobalDecoPaper ERC Project, LMU Munich",
+      "reason": "The primary active research project on classified decorated papers in Islamic manuscripts, including mülevven and ebrî papers across Ottoman and Persianate collections. Consultation with the GlobalDecoPaper team regarding the green mülevven dyeing technique (surface vs. pulp) and the dark-ground hatip ebrûsu palette may yield comparative data from European and Turkish collections not currently in the project corpus.",
+      "digital_access": null
+    }
+  ],
+  "provenance": {
+    "donor": "Nuri Arlasez (S. Nuri Arlasez Bağısı — confirmed by handwritten note on inside front cover, p002 left)",
+    "waqf": null,
+    "previous_shelfmarks": [],
+    "notes": "Held at Süleymaniye Yazma Eser Kütüphanesi, Istanbul, in the Nuri Arlasez Koleksiyonu under shelfmark 00120. The manuscript was donated (bağış) to the Süleymaniye by Nuri Arlasez — a collector of Ottoman manuscripts whose donation formed a named sub-collection within the Süleymaniye holdings. The handwritten cataloguing note on the inside front cover (p002) reads 'Fatima Nafi Tohumcu / Süleymaniye / S. Nuri Arlasez Bağısı', identifying the institution and donor. A further note 'Mehmed Nureddin Hocaoğlu' in the same or adjacent text block may refer to a previous owner, a cataloguer, or a figure connected with the album's history — this requires physical examination for clarification. YEK ID: 406054. IIIF ID: 0000000398367. YEK cataloguer: Yusuf Yıldırım."
+  },
+  "analysis_metadata": {
+    "analyzed_date": "2026-02-28",
+    "analyzer": "claude-code-manuscript-pipeline",
+    "pipeline_stage": "metadata-generator",
+    "image_source": "YEK Portal IIIF images, Süleymaniye Yazma Eser Kütüphanesi — Nuri Arlasez Koleksiyonu, YEK ID 406054, IIIF ID 0000000398367. All 6 IIIF pages downloaded and examined directly at browser-rendered resolution (approximately 75% of native IIIF). Supplementary data from visual_tier2_na_00120.json (visual-confirmation agent output).",
+    "image_quality_notes": "IIIF images examined at approximately 75% native resolution. Sufficient for confident identification of the hatip ebrûsu cover (stylus-drawn botanical motifs clearly legible), the green mülevven paper type (uniform color and dyed character unambiguous), and the vassale mounting technique (panel edges and cream-vs-green contrast visible). Insufficient for: (1) resolving fine script-type distinction (talik vs. nesih-talik); (2) confirming presence or absence of zerefşân on calligraphy panels; (3) reading the ketebe inscription if present on p006 right; (4) full transcription of handwritten notes on p002 left doublure. Back cover not included in IIIF sequence.",
+    "folios_examined": [
+      "corpus/iiif/na_00120_p001.jpg",
+      "corpus/iiif/na_00120_p002.jpg",
+      "corpus/iiif/na_00120_p003.jpg",
+      "corpus/iiif/na_00120_p004.jpg",
+      "corpus/iiif/na_00120_p005.jpg",
+      "corpus/iiif/na_00120_p006.jpg"
+    ],
+    "folios_not_examined": "Back cover (if present as a separate IIIF page) not included in the 6-page IIIF sequence. All other leaves (front cover + inside cover + 4 calligraphy openings) examined.",
+    "corpus_priority": "Medium-High. Significance: (1) 7th confirmed hatip ebrûsu in the project corpus — an important data point for the ongoing hatip ebru typology survey; (2) first green mülevven in the Nuri Arlasez Koleksiyonu; (3) 'Duble renkli kâğıt üzerine' note on doublure is an explicit historical acknowledgment of decorated paper — rare in collection records. Follow-up priorities: (a) physical examination of p001 hatip ebru to study the dark-ground palette more closely (unusual in corpus); (b) ketebe transcription on final leaf; (c) Zühdü Efendi calligrapher identification research (Tuhfe-i Hattâtîn, Son Hattatlar); (d) survey of other Nuri Arlasez albums for additional hatip ebru / mülevven specimens.",
+    "source_data": {
+      "visual_confirmation_file": "catalog/searches/visual_tier2_na_00120.json",
+      "yek_id": "406054",
+      "iiif_id": "0000000398367",
+      "batch": "Tier 2 Sub-Batch D (2026-02-28)"
+    },
+    "qc_notes": null
+  }
+}

@@ -1,0 +1,635 @@
+{
+  "record_id": "sm_00003",
+  "collection": {
+    "institution": "Süleymaniye Kütüphanesi — Süleymaniye Murakka Koleksiyonu",
+    "city": "Istanbul",
+    "country": "Turkey",
+    "shelfmark": "SM 00003",
+    "yek_url": "https://portal.yek.gov.tr/works/detail/325915"
+  },
+  "manuscript": {
+    "title": "Muraqqaʿāt / مرقعات",
+    "title_script": "مرقعات",
+    "title_alt": "Süleymaniye Murakka Koleksiyonu 3 — Çok-Teknikli Murakkaʿ (Multi-Technique Album)",
+    "author": null,
+    "author_dates": null,
+    "calligrapher": "Multiple: İsmâʿîl Zühdî (اسماعیل زهدی); Derviş Ali (درويش على); Osman; Ayasofya Muarrifi Muhammed; İsmâʿîl b. Ali — per ketebe inscriptions as noted by YEK cataloguer Serra Bostan",
+    "calligrapher_dates": "Various; album anchored by İsmâʿîl Zühdî (d. c. 1221/1806) and Derviş Ali (d. 1085/1673); vakf seal terminus ante quem AH 1202/1787–88 CE",
+    "calligrapher_note": "Five calligraphers identified by ketebe (colophon) inscriptions within the album, as documented by YEK cataloguer Serra Bostan: (1) İsmâʿîl Zühdî (İsmail Zühdü, d. c. 1221/1806) — one of the outstanding late Ottoman calligraphers, brother and teacher of Mustafa Râkım (1757–1826), himself a student of the Hâfız Osman tradition through Seyyid Abdullah; appears also in SM 00009. (2) Derviş Ali (d. 1085/1673) — a major Ottoman calligrapher, teacher of Hâfız Osmân (d. 1110/1698); one of the foundational figures linking the Şeyh Hamdullah and Hâfız Osmân eras. His presence in this album would make it significantly earlier than İsmâʿîl Zühdî's contributions, suggesting the album may be a composite assembled over multiple generations. (3) Osman — possibly Hâfız Osmân (d. 1110/1698) himself, or a namesake; the name without honorific in the catalogue suggests possible uncertainty. (4) Ayasofya Muarrifi Muhammed — the muarrif (introducer/reciter) of Hagia Sophia mosque, a position associated with Quran recitation; his identity within the calligraphic tradition is not further established by available sources. (5) İsmâʿîl b. Ali — likely a patronymic form (son of Ali). The chronological range spanned by these named calligraphers (Derviş Ali d. 1673 through İsmâʿîl Zühdî d. 1806) suggests the album may have been compiled incrementally across more than a century, or that kıtʿalar by earlier masters were assembled alongside later pieces in an anthology format. The vakf seal of Fethizâde Mustafa Efendi (AH 1202/1787–88) provides a terminus ante quem for the album's assembly.",
+    "date_ah": "before 1202 AH (terminus ante quem from vakf seal); calligrapher dates span late 17th–early 19th century",
+    "date_ce": "before 1787–88 CE (vakf seal terminus ante quem); probably assembled c. 1673–1787",
+    "date_note": "The vakf seal of Fethizâde Mustafa Efendi on multiple pages is dated AH 1202 / 1787–88 CE, confirming the album was complete and in the library of the Sultan Süleyman Mosque by that date. The full vakf inscription reads: 'Vakf-ı Sâhibü'l-Hayrât el-Hâcc Seyyid Mustafa Fethizâde der-Kitabî-i Câmi-i Sultan Süleyman, 1202.' The calligraphers span from Derviş Ali (d. 1085/1673) through İsmâʿîl Zühdî (d. 1221/1806), raising the question of whether the İsmâʿîl Zühdî kıtʿa postdates the vakf (i.e., was added after the initial endowment). The decorated paper program — systematic polychrome mulevven with battal ebru closing pages — is consistent with late 17th- to late 18th-century Istanbul production.",
+    "place_of_copy": "Istanbul (probable)",
+    "format": "Murakkaʿ / مرقع — bound calligraphic album of 22 leaves (20 digitized pages). Multi-technique decorated paper program: polychrome mulevven (6+ hues) throughout; polychrome battal ebru on closing pages (pp019–020); zerefşân on selected mulevven margins; compound cedvel framing in systematic color variation; gold floral vine headband (başlık/ʿunvân) on p018; lacivert + gold crosshatch illuminated border on p019. Sülüs and nesih scripts. Arabic content (hadith text, Quranic passages).",
+    "format_note": "A bound Ottoman calligraphic album (murakkaʿ / murakkaat) of 22 yaprak (leaves) digitized as 20 pages, containing kıtʿalar (calligraphic specimen sheets) in sülüs and nesih scripts. The album's decoration program is one of the richest among the Süleymaniye Murakka Koleksiyonu: it combines at minimum six distinct mulevven (colored paper) hues in the outer margins — yellow/chartreuse (p002), pink/rose (p007), olive/sage-green (p008), bright green + orange/terracotta two-color system (p012), blue-grey (p016, panels), and lacivert (p019 border) — with polychrome battal ebru as the final decorative statement on the closing pages (pp019–020). Zerefşân particles are visible on the pink (p007) and green (p012) margins. A gold floral vine headband appears on p018. The cedvel system evolves across the album: gold-only on earlier pages, progressing to a red + gold + lacivert compound cedvel on the final gathering, culminating in the ebru-margined closing spread. The album dimensions are recorded as 'muhtelif' (various) in the YEK catalogue, indicating that the mounted kıtʿa panels vary in size within a consistent album format.",
+    "language": "Arabic",
+    "script": "Sülüs (ثلث) and Nesih (نسخ) — large sülüs alternating with smaller nesih lines; also dense sülüs panels on mulevven grounds (pp008, 012). Per YEK: 'Arap harfli — Sülüs, Nesih'. P016 exhibits a cross/column layout with celî sülüs at top and bottom framing a central nesih panel.",
+    "dimensions_mm": {
+      "height": null,
+      "width": null,
+      "note": "Dimensions recorded as 'muhtelif' (various) in YEK catalogue. Physical measurement required."
+    },
+    "folio_count": 22,
+    "yek_id": "325915",
+    "iiif_id": "0000000356075",
+    "notes": "This album shares its vakf donor (Fethizâde Mustafa Efendi) with SM 00009, suggesting both were part of the same endowment to the Sultan Süleyman Mosque library in AH 1202/1787–88. İsmâʿîl Zühdî appears in both SM 00003 and SM 00009. The presence of Derviş Ali — the teacher of Hâfız Osmân — alongside İsmâʿîl Zühdî in a single album is remarkable: it links the album simultaneously to the mid-17th century and the early 19th century within a single bound codex. The battal ebru on the closing pages (pp019–020) is the most visually dramatic feature of this album. The triage agent originally misidentified this ebru as halkar margin painting — the RECLASSIFICATION to battal ebru was confirmed at IIIF resolution. Pages 3–6, 9–11, 13–15, and 17 were not examined; additional mulevven colors or decorative features may be present. Battal ebru briefly visible at the bottom edge of p012 may indicate further ebru leaves exist between pp012 and pp019–020. Catalogued by Serra Bostan (YEK)."
+  },
+  "paper_decoration": {
+    "types": [
+      "colored",
+      "marbled",
+      "gold_sprinkled",
+      "illuminated_margins",
+      "framing_system"
+    ],
+    "summary": "SM 00003 exhibits one of the most elaborate polychrome decoration programs among the Süleymaniye Murakka Koleksiyonu: a systematic mulevven sequence of at least six distinct colored paper hues in the outer margins, culminating in spectacular polychrome battal ebru on the closing pages. (1) MÜLEVVEN (colored paper margins): six confirmed hues across nine examined pages — (a) yellow/chartreuse (p002, outer margin); (b) pink/rose, vivid and saturated, with zerefşân particles (p007); (c) olive/sage-green, reclassified from triage's 'pink' claim — a darker, unmistakably green tone at IIIF resolution (p008); (d) bright green inner border + orange/terracotta outer border, forming a two-color mulevven system (p012, structurally comparable to hamidiye_00034); (e) blue-grey/light blue as flanking panel sections in a cross-layout page (p016); and (f) lacivert (deep lapis blue), used not as a margin ground but as the inner border band of the compound cedvel on the penultimate page (p019), decorated with a gold diagonal crosshatch pattern. (2) BATTAL EBRU (stone marbling): polychrome battal ebru appears on the closing pages (pp019–020) as the outer margin ground — vivid swirling patterns in at least four colors (pink/rose, red/vermillion, green, blue-grey). This feature was MISIDENTIFIED AS HALKAR in the initial triage; reclassified at IIIF resolution where the characteristic swirling color transitions of marbling are unmistakable. (3) ZEREFŞÂN (gold-sprinkled): gold particles visible on the pink mulevven margin (p007) and on the bright green inner border (p012). (4) ILLUMINATED MARGINS / BAŞLIK: a gold floral vine headband (başlık / ʿunvân) at the top of p018, below the Basmala line — a horizontal gold floral frieze with small flower and leaf motifs. A lacivert inner border with gold diagonal crosshatch pattern on p019 constitutes a further illuminated margin element. (5) COMPOUND CEDVEL: a framing system using layered gold and colored ruling lines, evolving from simple gold-only cetvels on the earlier pages to a compound system of gold + red + lacivert on the closing gathering.",
+    "distribution_notes": "Mulevven colors by page: p002 = yellow/chartreuse; p007 = pink/rose (zerefşân); p008 = olive/sage-green; p012 = bright green (inner) + orange/terracotta (outer); p016 = blue-grey panels; p018 = cream/nohudi (mulevven status uncertain — a very faint pink tint cannot be excluded at IIIF resolution, but the color is emphatically NOT comparable to p007); p019 = lacivert inner border band + yellow/chartreuse at far edge (from adjacent page). Battal ebru: pp019–020 (outer margins). Pages 3–6, 9–11, 13–15, 17 not examined — additional mulevven colors likely.",
+    "triage_reclassifications": {
+      "p020_halkar_to_battal_ebru": {
+        "triage_claim": "P20 = HALKAR margin painting (floral vine motifs around text panel with gray-blue border)",
+        "iiif_verdict": "RECLASSIFIED to BATTAL EBRU. At IIIF resolution (~1600px viewport), the characteristic flowing/swirling color transitions of stone marbling are clearly visible — NOT the defined stems, leaves, and flower forms of halkâr painting. The grey-blue border is a plain mulevven strip separating the ebru margin from the gold cedvel, not a halkâr support zone.",
+        "confidence": 0.95,
+        "explanation": "Thumbnail-scale misidentification is understandable: battal ebru can superficially resemble fluid floral vine patterns at very low resolution. The vivid pink/red/green/blue swirling pattern on p020 is unambiguously marbling at native IIIF scale. The four-color battal ebru quality is comparable to the finest specimens in the corpus (hamidiye_00026, pertevniyal_00050)."
+      },
+      "p008_pink_to_olive_green": {
+        "triage_claim": "Pink mulevven on p008",
+        "iiif_verdict": "RECLASSIFIED to olive/sage-green mulevven. Unambiguous at IIIF resolution — the color is a distinct olive/dark sage green, possibly confused with a darker pink at thumbnail scale due to JPEG compression artifacts or monitor calibration.",
+        "confidence": 0.97
+      },
+      "p018_pink_to_nohudi": {
+        "triage_claim": "Pink mulevven on p018",
+        "iiif_verdict": "Not confirmed as pink. The ground appears cream/nohudi at IIIF resolution. A very faint warm tint cannot be entirely excluded, but the color bears no resemblance to the vivid pink on p007. The gold floral vine headband on this page is a başlık/ʿunvân element, not a mulevven ground.",
+        "confidence": 0.80
+      }
+    },
+    "technique_terms": {
+      "ottoman": "mülevven kâğıt (boyalı kâğıt); battal ebru (taş ebrûsu); zerefşân / yaldız serpme; başlık / ʿunvân tezhibi; lacivert bordür altın kafes nakışlı; bileşik cedvel (altın + kırmızı + lacivert)",
+      "persian": "mulavvan (ملوّن) — colored paper; abrī / kāġaḏ-e abrī (ابری) — marbled paper; zar-afshān (زر افشان) — gold-sprinkled",
+      "arabic": "mulauwwan (ملوّن) — colored; waraq marmara (ورق مرمرة) — marbled paper; dhahab marshūsh (ذهب مرشوش) — gold-sprinkled; jadwal mudhahdhab (جدول مذهّب) — gold-ruled"
+    },
+    "catalogue_description": {
+      "paper_field": null,
+      "paper_field_note": "No dedicated kâğıt özellikleri field entry in YEK record. All paper decoration observations derive from visual examination of IIIF images.",
+      "notes_field": "YEK genel_notlar: 'Murakka'da ketebesi bulunan hattatlar: İsmail Zühdu, Derviş Ali, Osman, Ayasofya Muarrifi Muhammed, İsmail b. Ali'. Vakf mührü: 'Vakf-ı Sâhibü'l-Hayrât el-Hâcc Seyyid Mustafa Fethizâde der-Kitabî-i Câmi-i Sultan Süleyman, 1202'.",
+      "notes_field_translation": "Calligraphers with ketebe in the album: İsmail Zühdü, Derviş Ali, Osman, Ayasofya Muarrifi Muhammed, İsmail b. Ali. Vakf seal: 'Endowment of the charitable Hâcı Seyyid Mustafa Fethizâde to the library of the Mosque of Sultan Süleyman [Süleymaniye], [AH] 1202 [/1787–88 CE]'.",
+      "decoration_field": null,
+      "source": "YEK portal, genel_notlar field, record 325915, Süleymaniye Kütüphanesi — Süleymaniye Murakka Koleksiyonu. Catalogued by Serra Bostan. All paper decoration observations from visual examination of IIIF images (9 of 20 pages)."
+    }
+  },
+  "workshop_attribution": {
+    "primary_tradition": "ottoman",
+    "workshop_centre": "Istanbul",
+    "date_range_ce": "c. 1673–1788 (composite album spanning multiple production phases)",
+    "confidence": 0.82,
+    "key_indicators": [
+      "The systematic polychrome mulevven program — six or more hues in a controlled chromatic sequence — is characteristic of high-quality late Ottoman Istanbul album production (parallels with hamidiye_00034, pertevniyal_00049, and SM 00009)",
+      "Battal ebru on closing pages is an Istanbul convention for luxury Ottoman albums of the 17th–18th centuries; the quality and palette of the ebru is consistent with known Istanbul ebru workshops",
+      "İsmâʿîl Zühdî (d. 1806) and Derviş Ali (d. 1673) are both unambiguously Istanbul calligraphers; the vakf endowment to Süleymaniye Mosque confirms Istanbul provenance",
+      "The gold floral vine başlık on p018 and the lacivert + gold crosshatch illuminated border on p019 are consistent with Istanbul nakkaşhâne illumination practice",
+      "The compound cedvel system evolving across the album — from simple gold to layered red + gold + lacivert — reflects the sophisticated Istanbul album-binding conventions documented across the Süleymaniye and TIEM corpus"
+    ],
+    "cross_tradition_caveats": [
+      "The five named calligraphers span a chronological range of approximately 133 years (Derviş Ali d. 1673 to İsmâʿîl Zühdî d. 1806), suggesting the album may be a compiled anthology rather than a single production; if so, the decorated paper program may have been applied to the composite assembled volume rather than accompanying individual kıtʿalar",
+      "Osman's identity as Hâfız Osmân (d. 1698) vs. a later namesake cannot be confirmed from available images; the ambiguity affects the dating of this component",
+      "Ayasofya Muarrifi Muhammed's calligraphic tradition and dating are not established from secondary sources",
+      "Pages 3–6, 9–11, 13–15, and 17 have not been examined; the full mulevven color sequence and any additional decorative features in these pages remain undocumented"
+    ]
+  },
+  "codicology": {
+    "paper": {
+      "color": "Multiple mulevven grounds: yellow/chartreuse (p002), pink/rose (p007), olive/sage-green (p008), bright green + orange/terracotta (p012), blue-grey (p016 panels), lacivert border with gold crosshatch (p019). Calligraphy text panels on cream/off-white burnished âharlı paper. Battal ebru (pink, red, green, blue-grey) as outer margin on pp019–020. Cream/nohudi panels on later pages with gold ruling.",
+      "preparation": "Calligraphy panels written on sized (âharlı) and burnished cream paper, consistent with Ottoman luxury calligraphic album practice. The mulevven margin papers are dyed before the kıtʿalar were mounted; zerefşân applied to mulevven grounds on at least pp007 and 012 (gold particles visible at IIIF resolution). The battal ebru (pp019–020) is a separately produced paper used as the margin ground. The lacivert + gold crosshatch border on p019 may be a separately ruled and gilded margin strip rather than a printed or painted application.",
+      "weight": "Indeterminate from IIIF images. Standard Ottoman album weight expected.",
+      "decoration": "See paper_decoration section. Full color mapping requires examination of unimaged pages (pp003–006, 009–011, 013–015, 017).",
+      "paper_type": "Eastern/Oriental âharlı paper for calligraphy panels; mulevven (dyed) papers for outer margin grounds; separately produced battal ebru paper for closing pages."
+    },
+    "ruling": {
+      "system": "Compound cedvel (bileşik cedvel) evolving in complexity across the album: gold-only cetvels on the earlier pages (pp002, 007, 008) progressing to a red + gold compound system (pp019, 020) and culminating in a lacivert + gold + red compound cedvel on the final gathering. Gold roundel verse markers on multiple pages.",
+      "description": "The framing system visible across nine examined pages ranges from a simple gold cetvel (pp007, 008 — single or double gold line around the calligraphy panel) to multi-layer compound systems on the closing pages. On p019: a lacivert inner border band with gold diagonal crosshatch pattern constitutes the inner frame, bordered by a red strip, then a cream/nohudi calligraphy zone; on p020: blue-grey inner border strip between the battal ebru outer margin and a gold cedvel. The cedvel color and complexity increase toward the album's close, matching the intensification of the margin decoration (plain mulevven → battal ebru). Gold roundel gül markers appear at line intersections and verse breaks throughout."
+    },
+    "binding": {
+      "cover_description": "Front cover (p001) is dark brown leather, heavily damaged and worn. The leather surface has lifted and cracked across most of the cover, exposing the underlying board structure in broad irregular patches. A central shamsa medallion is faintly visible through the damage — its form is consistent with an Ottoman album shamsa but its design detail is entirely obscured by the leather condition. A circular 'Süleymaniye' library stamp with handwritten numerals appears at lower right, and a small red-bordered paper label with a number above it at center right. Library accession labels are applied to the cover.",
+      "cover_type": "Deri cilt — dark brown leather binding, severely deteriorated. Original decoration partially visible but not determinable.",
+      "notes": "The cover condition is poor — comparable to SM 00002 per the visual confirmation note. The binding appears to be the original, having sustained damage over time rather than being rebound. No marbled paper is visible on the exterior covers. The interior decoration (doublures) was not captured in the examined images."
+    },
+    "format": "Murakkaʿ — bound Ottoman calligraphic album (22 yaprak / leaves, 20 digitized pages)",
+    "condition_summary": "Interior pages in generally good to very good condition, with vivid and legible mulevven colors and well-preserved calligraphy. The binding cover (p001) is in poor condition: the leather has lifted and cracked extensively, with large areas of surface loss. Pages 3–6, 9–11, 13–15, and 17 have not been examined and their condition is unknown. The battal ebru on pp019–020 appears well-preserved with vivid colors at IIIF resolution.",
+    "conservation_history": "No conservation history recorded. The binding requires urgent attention given the extent of leather lifting and delamination visible on p001."
+  },
+  "visual_confirmation": {
+    "verdict": "confirmed",
+    "confidence": 0.95,
+    "screenshots_examined": 9,
+    "folios_examined": [
+      "corpus/iiif/sm_00003_p001.jpeg",
+      "corpus/iiif/sm_00003_p002.jpeg",
+      "corpus/iiif/sm_00003_p007.jpeg",
+      "corpus/iiif/sm_00003_p008.jpeg",
+      "corpus/iiif/sm_00003_p012.jpeg",
+      "corpus/iiif/sm_00003_p016.jpeg",
+      "corpus/iiif/sm_00003_p018.jpeg",
+      "corpus/iiif/sm_00003_p019.jpeg",
+      "corpus/iiif/sm_00003_p020.jpeg"
+    ],
+    "limitations": [
+      "9 of 20 pages examined (45%); pages 3–6, 9–11, 13–15, 17 not captured — additional mulevven colors or decorated pages may exist",
+      "Resolution limited to IIIF viewport screenshots (~1600px wide), not native IIIF tile resolution; zerefşân particle density, p018 color, and fine cedvel detail best resolved at native resolution or physical examination",
+      "The faint pink tint possibly present on p018 cannot be confirmed or excluded at current resolution; colorimetric analysis or physical exam required",
+      "Battal ebru briefly visible at the bottom edge of p012 may indicate ebru pages exist between pp012 and the closing pages pp019–020; targeted navigation needed",
+      "The doublures (inside covers) were not captured — their decoration is unknown"
+    ],
+    "source_file": "catalog/searches/visual_tier2_sm_00003.json"
+  },
+  "folio_analyses": [
+    {
+      "folio": "Front cover (IIIF p001)",
+      "source_image": "corpus/iiif/sm_00003_p001.jpeg",
+      "decoration_present": false,
+      "decoration_types": [],
+      "elements": [
+        {
+          "motif": "Damaged dark brown leather binding with partially visible shamsa",
+          "description": "The front cover is dark brown leather in severely deteriorated condition. The leather surface has lifted and cracked across most of the cover area, exposing the underlying board in large irregular patches of tan/cream board material. The damage is extensive — perhaps 60% of the leather surface has partially or fully detached. A central shamsa medallion is faintly visible through the damage in the center of the cover; its form is consistent with a standard Ottoman album shamsa but design details are entirely obscured. A circular library stamp reading 'Süleymaniye' with handwritten numerals (reading '3' or 'Murak. 3') appears at lower right. A small paper label with red border and handwritten numerals is affixed at center right. Library accession labels appear at upper left and center. Overall condition: very poor.",
+          "location": "Full front cover exterior",
+          "confidence": 0.90
+        }
+      ],
+      "confidence": 0.90,
+      "notes": "The binding damage makes it impossible to characterize the original cover decoration. The visible shamsa traces suggest an Ottoman album binding format with central medallion, consistent with the other SM series albums. Conservation required."
+    },
+    {
+      "folio": "First calligraphy leaf — yellow/chartreuse mulevven margin (IIIF p002)",
+      "source_image": "corpus/iiif/sm_00003_p002.jpeg",
+      "decoration_present": true,
+      "decoration_types": ["colored", "framing_system"],
+      "elements": [
+        {
+          "motif": "Yellow/chartreuse mulevven outer margin",
+          "description": "The outer margin of this page is covered with yellow-green (chartreuse) colored paper. The hue is a warm yellow-green, clearly visible at IIIF resolution as a distinct color band running along the top and right edges of the page and presumably around all four sides of the calligraphy panel. The mulevven ground is plain (no zerefşân detected at this resolution). A light blue-grey inner border strip is visible between the yellow mulevven outer margin and the gold cetvel frame.",
+          "location": "Outer margin, all sides (top and right clearly visible)",
+          "confidence": 0.92
+        },
+        {
+          "motif": "Compound cedvel — gold outer + blue-grey inner",
+          "description": "A multi-layer framing system frames the cream calligraphy panel: an outer gold cetvel line, then the blue-grey inner border strip, then a thin inner frame around the text area. The combination of yellow-chartreuse outer margin, blue-grey inner border, and gold cetvel lines produces a layered chromatic framing.",
+          "location": "Panel frame, all sides",
+          "confidence": 0.88
+        },
+        {
+          "motif": "Sülüs-nesih kıtʿa — Basmala, hadith",
+          "description": "The calligraphy panel on cream âharlı paper contains a multi-register Arabic calligraphic composition: large sülüs lines (Basmala at top, 'qāla al-nabī' phrase midway) alternating with smaller nesih text blocks (hadith content). Gold roundel gül markers appear at register transitions. A circular vakf seal of Fethizâde Mustafa Efendi appears at the top right corner of the calligraphy panel.",
+          "location": "Central calligraphy panel",
+          "confidence": 0.90
+        }
+      ],
+      "confidence": 0.90,
+      "notes": "This is the album's first interior page and establishes the opening mulevven color as yellow/chartreuse. The blue-grey inner border strip visible here prefigures the blue-grey mulevven panels on p016 and may be from the same paper stock."
+    },
+    {
+      "folio": "Calligraphy leaf — pink/rose mulevven margin with zerefşân (IIIF p007)",
+      "source_image": "corpus/iiif/sm_00003_p007.jpeg",
+      "decoration_present": true,
+      "decoration_types": ["colored", "gold_sprinkled", "framing_system"],
+      "elements": [
+        {
+          "motif": "Pink/rose mulevven outer margin with zerefşân",
+          "description": "The outer margin is a vivid, saturated pink/rose colored paper — the most visually striking of the mulevven colors in this album at IIIF resolution. Gold zerefşân particles are clearly visible scattered across the pink ground as bright gold specks, confirming this is zerefşân-on-mulevven (colored ground gold-sprinkling). The pink hue is warm and highly saturated, distinct from the pink/salmon of comparable pages in SM 00009 — more vivid and unmistakably pink rather than salmon or mauve. The mulevven runs fully around all four sides of the calligraphy panel.",
+          "location": "Outer margin, all sides",
+          "confidence": 0.97
+        },
+        {
+          "motif": "Simple gold cetvel frame",
+          "description": "A simple gold cetvel (single or double gold line) frames the cream calligraphy panel within the pink mulevven margin. Less complex than the compound cetvels on the closing pages — consistent with the album's cedvel system becoming more elaborate toward the closing.",
+          "location": "Panel frame",
+          "confidence": 0.92
+        },
+        {
+          "motif": "Nesih kıtʿa — Arabic text",
+          "description": "The cream calligraphy panel contains dense nesih calligraphy in Arabic — multi-line with gold roundel gül markers between text segments. Content appears to be hadith (prophetic sayings) per the album's thematic focus. A circular vakf seal of Fethizâde Mustafa Efendi appears at the top right of the calligraphy panel.",
+          "location": "Central calligraphy panel",
+          "confidence": 0.90
+        }
+      ],
+      "confidence": 0.95,
+      "notes": "The pink mulevven with zerefşân on p007 is the most clearly documented colored zerefşân combination in this album. The pink + gold combination evokes the aesthetic of hamidiye_00034 pp007–011 (pink mulevven) and pertevniyal_00050 (pink mulevven + battal ebru)."
+    },
+    {
+      "folio": "Calligraphy leaf — olive/sage-green mulevven margin (IIIF p008) [TRIAGE CORRECTION]",
+      "source_image": "corpus/iiif/sm_00003_p008.jpeg",
+      "decoration_present": true,
+      "decoration_types": ["colored", "framing_system"],
+      "triage_discrepancy": "Triage claimed pink mulevven on p008; IIIF confirms olive/sage-green mulevven. The color is unambiguously dark olive-green at IIIF resolution — a deeper, less chromatic green than the bright green on p012 inner border. The triage misidentification likely arose from thumbnail-scale JPEG color compression or monitor calibration differences.",
+      "elements": [
+        {
+          "motif": "Olive/sage-green mulevven outer margin",
+          "description": "The outer margin of this page is a distinct olive/sage-green colored paper — darker and more muted than the bright green inner border on p012. The green is clearly a dull, earthy olive tone rather than any shade of pink. No zerefşân particles are detected at IIIF resolution (unlike p007 and p012), though they cannot be fully excluded. The mulevven runs around all sides of the calligraphy panel.",
+          "location": "Outer margin, all sides",
+          "confidence": 0.97
+        },
+        {
+          "motif": "Simple gold cetvel",
+          "description": "A simple gold cetvel line frames the calligraphy panel within the olive-green mulevven margin.",
+          "location": "Panel frame",
+          "confidence": 0.90
+        },
+        {
+          "motif": "Dense sülüs kıtʿa on cream panel",
+          "description": "The calligraphy panel contains very dense sülüs calligraphy — the letterforms appear bold and closely packed, consistent with a high-quality sülüs composition. A small circular seal (possibly Fethizâde vakf seal, smaller than on other pages, or possibly a calligrapher's personal seal) appears at the bottom left edge of the panel.",
+          "location": "Central calligraphy panel",
+          "confidence": 0.88
+        }
+      ],
+      "confidence": 0.95,
+      "notes": "This page establishes the third mulevven color in the sequence (after yellow p002 and pink p007). The olive-green is the same color category as the sage-green mulevven documented in hamidiye_00037 and tiem_02437, suggesting a shared Ottoman dye tradition for this color."
+    },
+    {
+      "folio": "Calligraphy leaf — two-color mulevven (bright green + orange/terracotta) with zerefşân (IIIF p012)",
+      "source_image": "corpus/iiif/sm_00003_p012.jpeg",
+      "decoration_present": true,
+      "decoration_types": ["colored", "gold_sprinkled", "framing_system"],
+      "elements": [
+        {
+          "motif": "Bright green inner border with zerefşân",
+          "description": "A bright, vivid green forms the inner border/frame strip between the calligraphy panel and the outer orange margin. This green is distinctly more saturated and 'pure' than the olive-green of p008 — a clear, bright green color. Gold zerefşân particles are visible on the bright green ground.",
+          "location": "Inner border strip surrounding calligraphy panel",
+          "confidence": 0.93
+        },
+        {
+          "motif": "Orange/terracotta outer margin",
+          "description": "The outer margin — beyond the bright green inner border — is a warm orange/terracotta colored paper. The orange is clear and distinct at IIIF resolution, differing from the terracotta/orange seen in hamidiye_00034 (which used orange as a late page mulevven). Here it forms the outer zone of a two-color mulevven system. The combination of bright green (inner) + orange (outer) as a two-color mulevven framing is structurally parallel to the two-zone mulevven documented in hamidiye_00034.",
+          "location": "Outer margin, all sides (beyond green inner border)",
+          "confidence": 0.90
+        },
+        {
+          "motif": "Simple gold cetvel",
+          "description": "A gold cetvel line separates the cream calligraphy panel from the bright green inner border strip.",
+          "location": "Panel frame",
+          "confidence": 0.90
+        },
+        {
+          "motif": "Dense sülüs kıtʿa; polychrome battal ebru peek at bottom edge",
+          "description": "Dense sülüs calligraphy on the cream panel. A circular seal (Fethizâde vakf or calligrapher's seal) appears at top right. Importantly, at the very bottom edge of the image, partially visible beyond the page boundary, vivid polychrome battal ebru in pink/red/green/blue is visible — a preview of the ebru that appears prominently on pp019–020. This suggests the battal ebru pages are either immediately adjacent or that some form of battal ebru appears earlier than pp019–020 in the album sequence.",
+          "location": "Central calligraphy panel; bottom edge of page",
+          "confidence": 0.88
+        }
+      ],
+      "confidence": 0.92,
+      "notes": "The two-color mulevven system (bright green inner + orange outer) on p012 is the most structurally complex mulevven arrangement among the examined pages. It prefigures the two-zone cedvel progression on the closing pages and parallels the two-color mulevven systems in hamidiye_00034. The zerefşân on the bright green inner border is clearly legible at IIIF resolution."
+    },
+    {
+      "folio": "Calligraphy leaf — blue-grey mulevven panels, cross layout (IIIF p016)",
+      "source_image": "corpus/iiif/sm_00003_p016.jpeg",
+      "decoration_present": true,
+      "decoration_types": ["colored", "framing_system"],
+      "elements": [
+        {
+          "motif": "Blue-grey mulevven flanking panels",
+          "description": "This page uses a cross/column calligraphic layout in which large celî sülüs lines appear at the top and bottom of the page, and a rectangular inset nesih text block occupies the center. The areas flanking the central nesih inset — to its left and right — are filled with blue-grey/light blue mulevven paper. The blue-grey is a muted, cool tone, consistent with a dilute indigo or similar blue-grey dye. The mulevven forms distinct rectangular panel zones flanking the central text, rather than running as a continuous outer margin.",
+          "location": "Left and right flanking panels flanking the central nesih inset",
+          "confidence": 0.90
+        },
+        {
+          "motif": "Cream outer margins with compound cedvel",
+          "description": "The outer margins of this page (top and bottom, outside the celî sülüs bands) appear cream/nohudi rather than mulevven. A compound cedvel system frames the entire calligraphy arrangement. Yellow mulevven is faintly visible at the far left edge, likely from the facing or adjacent page in the album opening.",
+          "location": "Outer margins; far left edge",
+          "confidence": 0.85
+        },
+        {
+          "motif": "Cross/column calligraphic layout — celî sülüs + nesih inset",
+          "description": "The page layout is a formal Ottoman meşk or kıtʿa format with a cross-axis structure: large celî (large-format) sülüs calligraphy at top ('tawakkalnā ʿalā rabb al-samāʾ' — 'we have placed our trust in the Lord of Heaven') and bottom ('wa-sallamanā bi-asbāb al-qaḍāʾ' — 'and submitted us to the causes of fate'); a rectangular nesih block in the center with dense smaller-script Arabic text. A circular seal at the top right. The calligraphic content is a devotional or theological text.",
+          "location": "Full page",
+          "confidence": 0.88
+        }
+      ],
+      "confidence": 0.88,
+      "notes": "The cross/column layout on p016 is structurally more elaborate than the standard kıtʿa format on other pages, suggesting this is a designed centrepiece page or that a particularly distinguished calligrapher's work is presented here. The blue-grey mulevven panels flanking the central text are a sixth confirmed mulevven color in the album sequence."
+    },
+    {
+      "folio": "Calligraphy leaf — cream/nohudi with gold floral vine başlık (IIIF p018) [TRIAGE CORRECTION]",
+      "source_image": "corpus/iiif/sm_00003_p018.jpeg",
+      "decoration_present": true,
+      "decoration_types": ["illuminated_margins", "framing_system"],
+      "triage_discrepancy": "Triage claimed pink mulevven on p018; IIIF confirms cream/nohudi ground — pink is NOT confirmed at this resolution. The dominant decoration on this page is a gold floral vine headband (başlık/ʿunvân), not a colored paper ground.",
+      "elements": [
+        {
+          "motif": "Gold floral vine başlık / ʿunvân (illuminated headband)",
+          "description": "At the top of the calligraphy panel, below the Basmala line, a horizontal gold floral vine frieze (başlık / ʿunvân) is visible. The headband consists of a narrow horizontal band of gold floral and vine motifs — small flowers, leaves, and curling vine stems in gold — running the full width of the panel. This is an illuminated element applied in gold (altın) over the cream paper, functioning as a formal headpiece marker at the top of what may be an opening section or a calligrapher's beginning line. A circular vakf seal appears at the top right.",
+          "location": "Top of calligraphy panel, below the Basmala",
+          "confidence": 0.87
+        },
+        {
+          "motif": "Cream/nohudi paper with gold outer cetvel",
+          "description": "The outer margin and calligraphy ground of this page appear cream/nohudi — no clear mulevven color is visible at IIIF resolution. A gold outer cetvel frames the panel. The overall aesthetic is cream + gold rather than the colored mulevven of adjacent pages.",
+          "location": "Full page",
+          "confidence": 0.82
+        },
+        {
+          "motif": "Nesih calligraphy with gold roundel gül verse markers",
+          "description": "Dense nesih calligraphy in Arabic throughout the panel, with gold circular gül (rosette) roundels appearing frequently between text segments as verse or section markers. The gül markers appear in a series across the page, at least 8–10 visible. This formatting is consistent with hadith or Quranic verse enumeration.",
+          "location": "Central calligraphy panel",
+          "confidence": 0.90
+        }
+      ],
+      "confidence": 0.85,
+      "notes": "The gold floral vine başlık on p018 is the sole confirmed illuminated headpiece element in the album (excluding the lacivert + gold border on p019). Its presence marks p018 as a structural beginning — possibly the opening of a new section or a calligrapher's introductory piece. The halkar-adjacent character of this element (gold floral frieze) was noted in the visual confirmation report but it is correctly categorized as a başlık/tezhipli başlık rather than full halkâr margin painting, which involves painted floral vines across the full margin area."
+    },
+    {
+      "folio": "Penultimate leaf — lacivert + gold crosshatch illuminated border; battal ebru partially visible (IIIF p019)",
+      "source_image": "corpus/iiif/sm_00003_p019.jpeg",
+      "decoration_present": true,
+      "decoration_types": ["illuminated_margins", "colored", "gold_sprinkled", "framing_system", "marbled"],
+      "elements": [
+        {
+          "motif": "Lacivert inner border with gold diagonal crosshatch pattern",
+          "description": "The most distinctive decorative element on this page is a wide inner border band in lacivert (deep lapis blue) decorated with a dense gold diagonal crosshatch / grid pattern. The gold lines cross at approximately 45° angles, creating a hatched grid over the lacivert ground — a form of zerkâri-style or illuminated border treatment. This lacivert + gold crosshatch combination functions as the immediate frame around the cream calligraphy panel, replacing the simpler gold cetvel of earlier pages. The technique is consistent with Ottoman border illumination practice (kenar tezhibi) on a colored ground.",
+          "location": "Inner border band immediately surrounding the calligraphy panel, all four sides",
+          "confidence": 0.88
+        },
+        {
+          "motif": "Red/vermillion inner cetvel line",
+          "description": "Between the lacivert + gold crosshatch border and the cream calligraphy panel, a thin red/vermillion cetvel line is visible. This compound cedvel system (lacivert ground + gold crosshatch + red inner line) is the most elaborate framing on any single examined page, signaling that this is a closing/climactic page in the album's decorative program.",
+          "location": "Inner frame, between lacivert border and text panel",
+          "confidence": 0.85
+        },
+        {
+          "motif": "Yellow/chartreuse mulevven at far left edge",
+          "description": "At the far left edge of the image, a yellow/chartreuse mulevven strip is visible — this is from the facing page in the album opening (p018 facing, or the album's left page of the spread). This confirms that yellow mulevven appears on at least one additional page beyond p002.",
+          "location": "Far left edge (from adjacent page)",
+          "confidence": 0.85
+        },
+        {
+          "motif": "Polychrome battal ebru partially visible at top edge",
+          "description": "At the very top edge of the image, vivid polychrome battal ebru — pink/rose, red, green swirling patterns — is partially visible, peeking from above or behind the page. This confirms the proximity of the battal ebru pages (p020) to p019 and is consistent with the battal ebru being the reverse of p020 or an adjacent page.",
+          "location": "Top edge of page",
+          "confidence": 0.92
+        },
+        {
+          "motif": "Nesih calligraphy with gold roundel gül markers; vakf seal",
+          "description": "Dense nesih calligraphy on cream âharlı paper. Multiple gold circular gül roundels as verse markers. A circular vakf seal at top right of panel.",
+          "location": "Central calligraphy panel",
+          "confidence": 0.90
+        }
+      ],
+      "confidence": 0.88,
+      "notes": "P019 is a pivotal page in the album's decorative progression: the lacivert + gold crosshatch border represents the maximum complexity of the cedvel system, signaling the album's close. The lacivert + gold combination on p019 recalls the lacivert + gold aesthetic of TIEM 02437 (lacivert zerefşân margins), but here applied as an illuminated border rather than a mulevven ground. The zerefşân gold particles briefly noted in the visual confirmation file are not definitively confirmed at the resolution examined; the gold crosshatch may account for the observed gold on the lacivert ground."
+    },
+    {
+      "folio": "Final spread — polychrome battal ebru margins (IIIF p020) [HALKAR → BATTAL EBRU RECLASSIFICATION]",
+      "source_image": "corpus/iiif/sm_00003_p020.jpeg",
+      "decoration_present": true,
+      "decoration_types": ["marbled", "colored", "framing_system"],
+      "triage_reclassification": {
+        "original_triage_verdict": "HALKAR margin painting — 'floral vine motifs around text panel with gray-blue border'",
+        "iiif_verdict": "RECLASSIFIED to POLYCHROME BATTAL EBRU",
+        "confidence_in_reclassification": 0.95,
+        "explanation": "At thumbnail resolution, the swirling, multi-colored battal ebru patterns were misread as painted floral vine motifs. At IIIF resolution, the characteristic fluid color transitions, amorphous pattern shapes, and absence of defined stem/leaf/flower structures conclusively identify the decoration as stone marbling (battal ebru), not halkâr. The 'gray-blue border' identified in the triage is a plain mulevven strip separating the ebru outer margin from the gold cedvel — not a halkâr support zone. This reclassification is consistent with the visual confirmation file's assessment (confidence 0.95 for battal ebru)."
+      },
+      "elements": [
+        {
+          "motif": "Polychrome battal ebru — outer margin, left page",
+          "description": "The left page of the final spread has spectacular polychrome battal ebru as the full outer margin. The marbling uses at least four colors: pink/rose, red/vermillion, green, and blue-grey. The pattern is the characteristic amorphous swirling spots and veins of battal (stone) marbling — no regular geometric or floral structure, flowing organic shapes. The ebru quality is high, with vivid color saturation comparable to the finest battal ebru specimens in the corpus (pertevniyal_00050, hamidiye_00019). A blue-grey mulevven inner border strip separates the battal ebru outer margin from the gold cetvel frame around the cream calligraphy panel.",
+          "location": "Outer margin of left page; blue-grey inner border strip",
+          "confidence": 0.95
+        },
+        {
+          "motif": "Cream calligraphy panel with gold roundel gül markers; vakf seal",
+          "description": "The cream calligraphy panel (left page) contains nesih Arabic calligraphy with gold gül roundel verse markers. A circular vakf seal at top right of panel.",
+          "location": "Central calligraphy panel, left page",
+          "confidence": 0.90
+        },
+        {
+          "motif": "Compound cedvel — red/gold (left page); yellow/chartreuse mulevven (right page edge)",
+          "description": "A red + gold compound cedvel frames the cream calligraphy panel on the left page. On the right page of the spread — partially visible — a plain cream or nohudi calligraphy page with compound cedvel framing and yellow/chartreuse mulevven strip at the far right edge.",
+          "location": "Panel frame (left page); right page of spread (partially visible)",
+          "confidence": 0.88
+        }
+      ],
+      "confidence": 0.95,
+      "notes": "The polychrome battal ebru on p020 is the album's decorative climax — the most visually dramatic page in the examined sequence. Its use as the final spread is consistent with the Ottoman album convention of reserving the most spectacular paper type for the closing pages (parallels: yazma_bagislar_09315 ending in battal ebru, pertevniyal_00050). The four-color palette (pink, red, green, blue-grey) makes this one of the richer battal ebru specimens in the corpus. The pairing of battal ebru outer margin with blue-grey inner border strip on the same page creates a layered chromatic sequence echoing the two-color mulevven system on p012."
+    }
+  ],
+  "terminology": {
+    "terms_used": [
+      {
+        "concept": "Colored paper",
+        "ottoman": "mülevven / mülevven kâğıt / boyalı kâğıt",
+        "arabic": "mulauwwan (ملوّن)",
+        "persian": "mulavvan (ملوّن)",
+        "english": "Mülevven (also spelled mülevven kâğıt, boyalı kâğıt): paper uniformly dyed or tinted in a solid color before calligraphy mounting. In this album, six or more distinct mulevven hues are documented across the examined pages: yellow/chartreuse (p002), pink/rose (p007), olive/sage-green (p008), bright green + orange/terracotta two-color system (p012), blue-grey panel sections (p016), lacivert border (p019). The polychrome mulevven sequence is one of the most extensive documented in the project corpus."
+      },
+      {
+        "concept": "Stone marbling (battal ebru)",
+        "ottoman": "battal ebru / taş ebrûsu",
+        "arabic": "waraq marmara (ورق مرمرة)",
+        "persian": "kāġaḏ-e abrī (کاغذ ابری)",
+        "english": "Battal ebru (also taş ebrûsu, 'stone marbling'): the most basic form of marbling — pigments are allowed to float on the size in irregular spots and blobs without combing or stylus manipulation, producing the characteristic amorphous swirling stone-like patterns. In this album, vivid four-color battal ebru (pink/rose, red, green, blue-grey) appears on the outer margin of the final spread (pp019–020). The ebru was MISIDENTIFIED as halkâr in the original triage; reclassified at IIIF resolution. Distinguished from hatip ebru (which uses a stylus to create defined floral motifs) and taraklı/gel-git ebru (which use combs or single stylus to create regular patterned lines)."
+      },
+      {
+        "concept": "Combed marbling",
+        "ottoman": "taraklı ebru",
+        "arabic": null,
+        "persian": null,
+        "english": "Taraklı ebru: marbling produced by drawing a multi-toothed comb (tarak) through pigments on the size, creating regular, evenly-spaced parallel striations. DISTINCT from gel-git ebru (single-stylus back-and-forth wave patterns) — these are separate techniques and the terms are not synonymous. Taraklı ebru was not confirmed in this album but is noted here to distinguish it from the battal ebru present."
+      },
+      {
+        "concept": "Come-go marbling (gel-git ebru)",
+        "ottoman": "gel-git ebru",
+        "arabic": null,
+        "persian": null,
+        "english": "Gel-git ebru ('come-go marbling'): marbling produced by drawing a single stylus (biz) back and forth through pigments on the size, creating flowing organic S-curve or wave patterns. DISTINCT from taraklı ebru (comb) — these are separate techniques and the terms are not synonymous. Gel-git ebru was not confirmed in this album but is noted to distinguish it from battal ebru."
+      },
+      {
+        "concept": "Gold-sprinkled paper",
+        "ottoman": "zerefşân / serpme / yaldız serpme",
+        "arabic": "dhahab marshūsh (ذهب مرشوش)",
+        "persian": "zar-afshān (زر افشان)",
+        "english": "Zerefşân: paper decorated by sprinkling or flicking fine gold particles onto a prepared ground. In this album, zerefşân is confirmed on the pink mulevven margin (p007) and on the bright green inner border of p012 — both cases of zerefşân applied to a colored (mulevven) paper ground. This zerefşân-on-mulevven combination places SM 00003 in the same category as the pink-ground zerefşân in TIEM 02437 and the lacivert-ground zerefşân in pertevniyal_00049."
+      },
+      {
+        "concept": "Illuminated headband / headpiece",
+        "ottoman": "başlık / serlevha / ʿunvân tezhibi",
+        "arabic": "ʿunwān (عنوان)",
+        "persian": "sarlawḥ (سرلوح)",
+        "english": "Başlık (also ʿunvân, serlevha): an illuminated band or headpiece at the top of a page or section opening, typically in gold and colors, marking a structural beginning. On p018 of this album, a gold floral vine frieze (horizontal band with flowers and vine stems in gold) functions as a başlık below the Basmala line. This element was initially considered as possibly halkâr-related in the visual confirmation notes, but is correctly identified as a başlık/tezhipli başlık rather than full halkâr margin painting."
+      },
+      {
+        "concept": "Shaded gold margin painting",
+        "ottoman": "halkâr / halkârî",
+        "arabic": null,
+        "persian": "halkārī (حلکاری)",
+        "english": "Halkâr (also halkârî): shaded gold floral painting applied to manuscript margins, typically using gold paint to depict flowers, vines, and leaves with tonal shading. In this album, halkâr was INCORRECTLY claimed by the initial triage for p020 — the decoration on p020 is BATTAL EBRU, not halkâr. The gold floral vine başlık on p018 is a başlık element that shares some visual vocabulary with halkâr (gold floral motifs) but functions structurally as a headpiece, not a margin painting program. No true halkâr margin painting is confirmed in this album."
+      },
+      {
+        "concept": "Compound ruling / frame lines",
+        "ottoman": "bileşik cetvel / altın cetvel / cetvelli",
+        "arabic": "jadwal mudhahdhab (جدول مذهّب)",
+        "persian": "jadval-e murakkab (جدول مرکّب)",
+        "english": "Bileşik cetvel (compound cedvel): a framing system using multiple layers of differently-colored ruling lines. In this album, the cedvel system evolves progressively: simple gold-only cetvels on the earlier pages (pp007, 008), a slightly more complex system on pp002 and 016, and a full compound system of red + gold + lacivert on the closing pages (pp019–020). The evolution of the cedvel system is a structural design decision coordinated with the mulevven color sequence and culminating in the battal ebru final spread."
+      },
+      {
+        "concept": "Calligraphic album",
+        "ottoman": "murakkaʿ / murakkaat (مرقعات)",
+        "arabic": "muraqqa (مرقع) / muraqqa'at (مرقعات)",
+        "persian": "muraqqa (مرقع)",
+        "english": "Murakkaʿ: a bound Ottoman calligraphic (and sometimes pictorial) album. This album contains kıtʿalar (calligraphic specimen sheets) in sülüs and nesih scripts, attributed to five calligraphers by ketebe, held in the Süleymaniye Murakka Koleksiyonu — a dedicated sub-collection of calligraphic albums at Süleymaniye Kütüphanesi."
+      },
+      {
+        "concept": "Calligraphic specimen sheet",
+        "ottoman": "kıtʿa (قطعة) / kıtʿa-i hat",
+        "arabic": "qiṭʿa (قطعة)",
+        "persian": "qiṭʿa (قطعه)",
+        "english": "Kıtʿa: a single calligraphic specimen sheet, typically displaying one or more lines of formal calligraphy in one or more scripts. This album's kıtʿalar contain Arabic hadith text and devotional phrases in sülüs and nesih. The cross/column layout on p016 ('tawakkalnā ʿalā rabb al-samāʾ / wa-sallamanā bi-asbāb al-qaḍāʾ') is an elaborated kıtʿa format."
+      },
+      {
+        "concept": "Vakf (pious endowment) seal",
+        "ottoman": "vakıf mühri / vakf mühürü",
+        "arabic": "waqf (وقف)",
+        "persian": "waqf / awqāf",
+        "english": "Vakf (waqf): a pious endowment in Islamic law, by which property (including manuscripts) is dedicated in perpetuity to a charitable purpose. The circular vakf seal of Fethizâde Mustafa Efendi (AH 1202/1787–88) appears on multiple pages of this album, reading: 'Vakf-ı Sâhibü'l-Hayrât el-Hâcc Seyyid Mustafa Fethizâde der-Kitabî-i Câmi-i Sultan Süleyman, 1202'. This endowment to the library of the Sultan Süleyman (Süleymaniye) Mosque is shared with SM 00009, indicating both albums were part of the same Fethizâde donation."
+      },
+      {
+        "concept": "Lapis blue paper",
+        "ottoman": "lacivert kâğıt / lacivert zemin",
+        "arabic": "lāzaward (لازورد)",
+        "persian": "lāzhward / lājevard (لاجورد)",
+        "english": "Lacivert (from Persian lājevard via Arabic lāzaward): deep lapis/indigo blue, one of the most prestigious colors in the Ottoman manuscript tradition. In this album, lacivert appears as the inner border band on p019, decorated with a gold diagonal crosshatch pattern. The lacivert + gold combination is associated with the most prestigious Ottoman production contexts (Istanbul nakkaşhâne, imperial waqf commissions)."
+      }
+    ]
+  },
+  "bibliography": [
+    {
+      "citation": "Derman, M. Uğur. Letters in Gold: Ottoman Calligraphy from the Sakıp Sabancı Collection, Istanbul. New York: The Metropolitan Museum of Art, 1998.",
+      "relevance": "Primary English-language exhibition catalogue on Ottoman calligraphy, with substantial coverage of İsmâʿîl Zühdî and his brother Mustafa Râkım, the late Ottoman calligraphic tradition, and the sülüs-nesih album format. Essential for contextualizing the ketebe attributions in this album, particularly İsmâʿîl Zühdî (d. 1806), and for situating the murakkaʿ within the larger tradition linking Derviş Ali → Hâfız Osmân → İsmâʿîl Zühdî.",
+      "relevance_score": 0.96,
+      "access_notes": "Exhibition catalogue (Metropolitan Museum of Art, 1998); widely held at Islamic art and Ottoman studies libraries. ISBN 978-0870998843."
+    },
+    {
+      "citation": "Blair, Sheila S. 'Color and Gold: The Decorated Papers Used in Manuscripts in Later Islamic Times.' Muqarnas 17 (2000): 24–36.",
+      "relevance": "Foundational taxonomic study providing the classification framework for mülevven (colored paper), zerefşân (gold-sprinkled), and marbled paper in Islamic manuscripts. Blair's discussion of the range of colored grounds for zerefşân — including pink, green, and blue — directly underpins the classification of this album's mulevven-with-zerefşân pages (pp007, 012). Her distinction between colored papers, sprinkled papers, and marbled papers is the basis for the five-category decoration program documented here.",
+      "relevance_score": 0.97,
+      "access_notes": "Peer-reviewed article. Available via JSTOR (Brill/Muqarnas Online). Open-access PDF accessible at Academia.edu."
+    },
+    {
+      "citation": "Bloom, Jonathan M. Paper Before Print: The History and Impact of Paper in the Islamic World. New Haven: Yale University Press, 2001.",
+      "relevance": "Comprehensive history of paper production and use in the Islamic world, providing material-culture background for mulevven (colored paper) production techniques, marbled paper traditions (including battal ebru), and the role of decorated papers in luxury Ottoman manuscript and album production. Relevant for contextualizing the six-color mulevven sequence and the battal ebru in this album.",
+      "relevance_score": 0.82,
+      "access_notes": "Monograph; widely held."
+    },
+    {
+      "citation": "Roxburgh, David J. The Persian Album, 1400–1600: From Dispersal to Collection. New Haven: Yale University Press, 2005.",
+      "relevance": "Essential study of the murakkaʿ album format and decorated paper programs in the Persianate-Ottoman tradition. Provides the theoretical framework for understanding polychrome paper programs — including systematic mulevven sequences and ebru as closing-page decoration — as deliberate compositional choices in album design. The concept of the 'album as aesthetic argument' is directly applicable to the chromatic progression of mulevven colors from p002 to the battal ebru climax on p020.",
+      "relevance_score": 0.88,
+      "access_notes": "Monograph; widely held at research libraries."
+    },
+    {
+      "citation": "Çağman, Filiz, and Zeren Tanındı. The Topkapı Saray Museum: The Albums and Illustrated Manuscripts. Translated and edited by J. M. Rogers. Boston: Little, Brown, 1986.",
+      "relevance": "Standard reference for Ottoman calligraphic albums and their decorated paper programs in the Topkapı collections. Documents albums associated with the Derviş Ali → Hâfız Osmân calligraphic lineage and provides comparanda for late 17th- to 18th-century murakkaʿ albums with systematic mulevven programs. Relevant for identifying parallel examples of the chromatic mulevven sequencing and compound cedvel evolution visible in SM 00003.",
+      "relevance_score": 0.88,
+      "access_notes": "Exhibition catalogue; widely held at Turkish and Islamic art research libraries."
+    },
+    {
+      "citation": "Tanındı, Zeren. 'Bibliophile Aghas (Eunuchs) at Topkapı Saray.' Muqarnas 21 (2004): 333–43.",
+      "relevance": "Documents album-collecting and commissioning practices at the Ottoman court during the late 17th and 18th centuries — the period spanning the album's assembly (c. 1673–1788). Provides context for patronage environments in which calligraphic albums incorporating works by successive generations of calligraphers (Derviş Ali through İsmâʿîl Zühdî) were compiled and decorated.",
+      "relevance_score": 0.78,
+      "access_notes": "Peer-reviewed article. Available via JSTOR and institutional library access."
+    },
+    {
+      "citation": "Aksel, Malik. Türklerde Dini Resimler [Religious Paintings among the Turks]. Istanbul: Elif Yayınları, 1967. [In Turkish]",
+      "relevance": "Early Turkish-language study of the Ottoman calligraphic album tradition and its decorative context. Relevant for contextualizing the Fethizâde Mustafa Efendi waqf and the role of mosque libraries in preserving calligraphic albums in the late Ottoman period. [In Turkish]",
+      "relevance_score": 0.60,
+      "access_notes": "Turkish-language monograph; available at Turkish national libraries and major Ottoman studies collections."
+    },
+    {
+      "citation": "Alparslan, Ali. Osmanlı Hat Sanatı Tarihi [History of Ottoman Calligraphic Art]. Istanbul: Yapı Kredi Yayınları, 1999. [In Turkish]",
+      "relevance": "Comprehensive Turkish-language reference for Ottoman calligraphy and calligraphers, including İsmâʿîl Zühdî (d. 1806), Derviş Ali (d. 1673), and Hâfız Osmân (d. 1698). Essential for verifying the biographical data and calligraphic lineages of the five named calligraphers in this album, including the teacher-student relationship linking Derviş Ali → Hâfız Osmân and the tradition continuing through İsmâʿîl Zühdî and his brother Mustafa Râkım. [In Turkish]",
+      "relevance_score": 0.90,
+      "access_notes": "Turkish-language monograph; widely held at Turkish university and research libraries."
+    },
+    {
+      "citation": "Gacek, Adam. Arabic Manuscripts: A Vademecum for Readers. Leiden: Brill, 2009.",
+      "relevance": "Standard reference for Islamic manuscript codicological terminology and script identification. Relevant for the description of sülüs, nesih, and celî sülüs scripts in this album, and for general codicological terms (ketebe, kıtʿa, cedvel, vakf) used throughout this record.",
+      "relevance_score": 0.80,
+      "access_notes": "Reference monograph; widely held."
+    },
+    {
+      "citation": "Déroche, François. Islamic Codicology: An Introduction to the Study of Manuscripts in Arabic Script. Translated by Deke Dusinberre and David Radzinowicz. London: Al-Furqan Islamic Heritage Foundation, 2005.",
+      "relevance": "Foundational reference for Islamic manuscript codicology, covering paper decoration types, binding forms, ruling systems, and physical manuscript description. Provides the classification framework used throughout this catalog record.",
+      "relevance_score": 0.78,
+      "access_notes": "Monograph; available at specialist libraries."
+    },
+    {
+      "citation": "Sturkenboom, Ilse. 'Decorated Papers in Persianate Manuscripts: New Approaches to Classification and Attribution.' GlobalDecoPaper ERC Project Working Paper (LMU Munich, forthcoming).",
+      "relevance": "Forthcoming research on decorated paper classification in Persianate and Ottoman manuscripts, directly relevant to the mulevven and zerefşân programs documented in this album. The GlobalDecoPaper ERC Project at LMU Munich is the leading active research initiative on this topic; their classification framework and findings will be essential for situating the six-color mulevven sequence of SM 00003 within comparative context.",
+      "relevance_score": 0.85,
+      "access_notes": "Forthcoming. Contact GlobalDecoPaper ERC Project (LMU Munich) for pre-publication access."
+    },
+    {
+      "citation": "Scheper, Karin. The Technique of Islamic Bookbinding: Methods, Materials and Regional Varieties. Leiden: Brill, 2015.",
+      "relevance": "Systematic study of Islamic bookbinding techniques, relevant for the physical analysis of the damaged dark brown leather binding of SM 00003. The binding's shamsa remnants and general album binding format fall within the scope of Scheper's survey, providing context for the conservation assessment.",
+      "relevance_score": 0.70,
+      "access_notes": "Monograph; available at Islamic bookbinding and manuscript studies libraries."
+    }
+  ],
+  "suggested_collections": [
+    {
+      "institution": "Süleymaniye Kütüphanesi — Süleymaniye Murakka Koleksiyonu, Istanbul",
+      "reason": "The parent collection: SM 00001–00015 and beyond constitute the primary comparanda for this album. SM 00009 shares the Fethizâde vakf donor (AH 1202) and İsmâʿîl Zühdî among its calligraphers, suggesting close production affiliation. Full survey of the SM collection required for corpus-level mulevven and ebru comparison.",
+      "digital_access": "https://portal.yek.gov.tr"
+    },
+    {
+      "institution": "Topkapı Sarayı Müzesi Kütüphanesi, Istanbul",
+      "reason": "Holds the largest corpus of authenticated works by Derviş Ali, Hâfız Osmân, and their circle. Physical comparison of the kıtʿalar in SM 00003 with Topkapı examples is essential for confirming the calligrapher attributions, particularly for 'Osman' (possibly Hâfız Osmân) and 'Derviş Ali'. The album's battal ebru can be compared with Topkapı murakkaʿ battal ebru programs.",
+      "digital_access": "https://kutuphane.tsmk.gov.tr"
+    },
+    {
+      "institution": "Sakıp Sabancı Museum, Istanbul",
+      "reason": "Holds major authenticated works by İsmâʿîl Zühdî and Mustafa Râkım. Palaeographic comparison with SM 00003's İsmâʿîl Zühdî kıtʿa(lar) is the most direct route to confirming the attribution. The Derman 1998 catalogue provides detailed coverage of the Sakıp Sabancı Zühdî holdings.",
+      "digital_access": null
+    },
+    {
+      "institution": "Türk ve İslam Eserleri Müzesi (TIEM), Istanbul",
+      "reason": "The TIEM murakkaʿ corpus (93 albums, 100% positively triaged) contains the closest parallels for the six-color mulevven program: tiem_02489 (5-color mulevven), hamidiye_00034 (4-color mulevven with orange, structurally comparable two-color system), and tiem_02649 (6+ color mulevven). Systematic comparison with these albums will refine the chromatic mulevven sequence classification.",
+      "digital_access": "https://portal.yek.gov.tr"
+    },
+    {
+      "institution": "GlobalDecoPaper ERC Project, LMU Munich",
+      "reason": "The leading active research project on decorated papers in Islamic manuscripts. The six-color mulevven sequence of SM 00003 — among the most extensive in the corpus — and the halkar-to-battal-ebru reclassification case are both directly within the GlobalDecoPaper research scope. Contact recommended for classification consultation and for situating this album's paper program within the broader ERC dataset.",
+      "digital_access": null
+    }
+  ],
+  "provenance": {
+    "donor": "Fethizâde Mustafa Efendi (Hâcı Seyyid Mustafa Fethizâde)",
+    "waqf": "Vakf-ı Sâhibü'l-Hayrât el-Hâcc Seyyid Mustafa Fethizâde der-Kitabî-i Câmi-i Sultan Süleyman, 1202 — endowment to the library of the Sultan Süleyman (Süleymaniye) Mosque, AH 1202 / 1787–88 CE",
+    "previous_shelfmarks": [],
+    "notes": "The vakf seal of Fethizâde Mustafa Efendi, dated AH 1202 / 1787–88 CE, confirms the album was endowed to the library of the Süleymaniye Mosque (Câmi-i Sultan Süleyman) in Istanbul by this date. The same donor and endowment date appear in SM 00009, indicating that Fethizâde's endowment included multiple albums from the SM collection. The albums passed from Fethizâde's ownership to the mosque library at AH 1202, subsequently entering the Süleymaniye Kütüphanesi when waqf library collections were consolidated in 1918. The collection before entering Fethizâde's possession is not documented. The album's multi-generational calligraphic content (Derviş Ali d. 1673 through İsmâʿîl Zühdî d. 1806) may indicate the album was assembled across several decades or that İsmâʿîl Zühdî's contribution postdates the vakf endowment."
+  },
+  "analysis_metadata": {
+    "analyzed_date": "2026-02-28",
+    "analyzer": "claude-code-manuscript-pipeline",
+    "pipeline_stage": "metadata-generator (direct IIIF examination + visual confirmation data integration)",
+    "image_source": "YEK Portal IIIF images, Süleymaniye Kütüphanesi — Süleymaniye Murakka Koleksiyonu, YEK ID 325915, IIIF ID 0000000356075. 9 of 20 pages downloaded and examined at IIIF resolution.",
+    "image_quality_notes": "IIIF images examined at download resolution (approximately 1600px wide viewport). Image quality is sufficient for confident identification of mulevven colors, battal ebru vs. halkâr distinction (the critical reclassification), zerefşân particles on pp007 and 012, and the compound cedvel system. The following limitations apply: (1) p018 mulevven status (cream vs. very faint pink) cannot be confirmed or excluded at this resolution — colorimetric analysis or physical examination required; (2) zerefşân particle microstructure cannot be resolved at download resolution; (3) the lacivert + gold crosshatch border on p019 — the technique (zerkâri vs. illuminated ruling) cannot be definitively determined without higher magnification; (4) the gold floral vine başlık on p018 — the specific motif vocabulary (hataî, penç, rûmî) cannot be resolved at current resolution. Front cover (p001) decoration is entirely obscured by leather damage. Doublures not imaged.",
+    "folios_examined": [
+      "corpus/iiif/sm_00003_p001.jpeg",
+      "corpus/iiif/sm_00003_p002.jpeg",
+      "corpus/iiif/sm_00003_p007.jpeg",
+      "corpus/iiif/sm_00003_p008.jpeg",
+      "corpus/iiif/sm_00003_p012.jpeg",
+      "corpus/iiif/sm_00003_p016.jpeg",
+      "corpus/iiif/sm_00003_p018.jpeg",
+      "corpus/iiif/sm_00003_p019.jpeg",
+      "corpus/iiif/sm_00003_p020.jpeg"
+    ],
+    "folios_not_examined": "Pages 3–6, 9–11, 13–15, 17 not captured. Doublures (inside covers) not imaged. 11 of 20 pages not examined — additional mulevven colors, decorated openings, or further ebru pages may exist.",
+    "corpus_priority": "High — six-color mulevven sequence is among the most extensive in the corpus; battal ebru-as-closing-decoration parallels pertevniyal_00050 and yazma_bagislar_09315; halkar-to-battal-ebru reclassification is a methodologically significant triage correction. Priority follow-up: (1) complete all 20 pages at IIIF native resolution for full mulevven color mapping; (2) battal ebru on pp019–020 — palette documentation and comparison with Topkapı/TIEM ebru holdings; (3) lacivert + gold crosshatch border on p019 — technique determination (zerkâri vs. illuminated ruling) at higher magnification; (4) gold floral vine başlık on p018 — motif vocabulary analysis and halkâr vs. başlık categorization confirmation; (5) calligrapher identification, especially 'Osman' (Hâfız Osmân or namesake) and palaeographic verification of İsmâʿîl Zühdî attribution.",
+    "triage_corrections_count": 3,
+    "triage_corrections_summary": "Three triage misidentifications corrected at IIIF resolution: (1) p020 halkar → battal ebru [critical]; (2) p008 pink → olive/sage-green mulevven; (3) p018 pink → cream/nohudi. All three corrections are supported at 0.80–0.97 confidence. The halkar-to-battal-ebru reclassification on p020 is the most significant finding of this analysis.",
+    "source_data": {
+      "visual_confirmation_file": "catalog/searches/visual_tier2_sm_00003.json",
+      "yek_id": "325915",
+      "iiif_id": "0000000356075",
+      "canonical_record_pattern": "catalog/tiem_02437.json",
+      "batch": "Tier 2 Sub-Batch D — Süleymaniye Murakka Koleksiyonu"
+    }
+  }
+}

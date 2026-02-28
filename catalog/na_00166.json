@@ -1,0 +1,536 @@
+{
+  "record_id": "na_00166",
+  "collection": {
+    "institution": "Süleymaniye Yazma Eser Kütüphanesi — Nuri Arlasez Koleksiyonu",
+    "city": "Istanbul",
+    "country": "Turkey",
+    "shelfmark": "00166",
+    "yek_url": "https://portal.yek.gov.tr/works/detail/406102"
+  },
+  "manuscript": {
+    "title": "Muraqqaʿāt / مرقعات",
+    "title_script": "مرقعات",
+    "title_alt": "Murakkaat",
+    "author": null,
+    "author_dates": null,
+    "calligrapher": null,
+    "calligrapher_dates": null,
+    "calligrapher_note": "No calligrapher is recorded in the YEK catalogue. The calligraphy presents large-format sülüs in a mature Ottoman style — bold, well-spaced, with confident strokes — and nesih in the intermediate register, consistent with a professional calligrapher of the classical or late Ottoman period. No ketebe inscription was identified in the 8 pages examined at IIIF resolution. Attribution requires physical examination and palaeographic comparison with documented calligraphers.",
+    "date_ah": null,
+    "date_ce": null,
+    "date_note": "No date is recorded in the YEK catalogue. The format (murakkaʿ with vassale-mounted panels on mülevven grounds with compound cedvel) is consistent with Ottoman production spanning the 17th–18th centuries. The yellow/gold mülevven + compound cedvel combination without zerefşân or more elaborate illuminated margins suggests a middle-register Ottoman commission rather than a court product. Yellow mülevven (saffron-dyed or yellow-ochre) papers are documented across the 17th–19th century Ottoman production. Date null pending physical examination and palaeographic analysis.",
+    "place_of_copy": null,
+    "format": "Muraqqaʿ / مرقع — calligraphic album with polychrome battal ebru covers and yellow mülevven interior margin papers",
+    "format_note": "A bound Ottoman calligraphic album (muraqqaʿ) with 6 kıtʿa (calligraphy specimen sheets) mounted on 11 interior pages (pp003–013), using vassale-style mounting on bright yellow/gold mülevven margin paper. The front cover (p001) and inside doublure (p002 right) are battal ebru. The binding structure comprises 13 IIIF pages total (including covers and endpapers). YEK catalogue records '6 yk., 4 st.' — interpreted as 6 yaprak (leaves/folios) with 4 sutun (columns) or 4 sütunlu compositions; the actual IIIF count of 13 pages indicates either single-sided mounts or folded leaves. The script is Arap harfli-Sülüs per YEK; visual examination confirms sülüs as the dominant script, with nesih in the intermediate register. Content: Arabic religious/prayerful text, likely hadith, duʿā (supplication), or Quranic material.",
+    "language": "Arabic",
+    "script": "Sülüs (ثلث) with nesih (نسخ) in intermediate register — per YEK: 'Arap harfli-Sülüs'",
+    "dimensions_mm": {
+      "height": 330,
+      "width": 236,
+      "writing_area_mm": {
+        "height": 111,
+        "width": 210,
+        "note": "Text panel dimensions 111×210 mm per YEK catalogue (landscape orientation)"
+      },
+      "note": "Outer dimensions 330×236 mm; text panel 111×210 mm — a notably wide landscape format panel within a portrait album, per YEK catalogue '330x236-111x210 mm.'"
+    },
+    "folio_count": 6,
+    "yek_id": "406102",
+    "iiif_id": "0000000398319",
+    "notes": "The YEK catalogue record has no dedicated decoration field — all paper decoration observations derive from visual examination of IIIF images. The album was donated to the Süleymaniye Kütüphanesi by Nuri Arlasez in memory of Raif Yelkenci, as attested by the dedicatory inscription on the inside front endpaper (p002 left): 'Merhum Raif Yelkenci / hatırasına / Sn. Nuri Arlasez Bağışı'. The library accession stamps read 'Nuri Arlasez / Süleymaniye Ktp.' and 'No. 2542/166'. The collection number 2542 may refer to the broader Nuri Arlasez collection accession batch, while 166 is the individual shelfmark. TRIAGE CORRECTION: The visual triage described the manuscript as having 'battal ebru in red/blue/cream throughout pages 2–13 and blue mulevven margins.' IIIF examination corrects both claims: (1) battal ebru is confined to the binding elements — front cover (p001) and inside doublure (p002 right); interior pages show NO battal ebru. (2) The interior margin paper is yellow/gold mülevven, NOT blue mülevven. These are significant corrections to the triage description and are documented here for the record."
+  },
+  "paper_decoration": {
+    "types": [
+      "marbled",
+      "colored",
+      "framing_system"
+    ],
+    "summary": "NA 00166 presents a two-zone decorated paper program characteristic of Ottoman calligraphic albums: (1) COVER/DOUBLURE ZONE (pp001–002): Polychrome battal ebru on front cover (p001) and inside doublure (p002 right), with the battal ebru on each surface using a distinct palette. The front cover is a vivid polychrome specimen — irregular stone-marble spotting in red/crimson, navy blue, and cream/buff with brown veining, constituting one of the most boldly chromatic battal covers in the project corpus. The inside doublure is in a subdued palette of brown/grey-blue with cream veining and scattered blue speckles — a common contrast pattern between exterior showpiece and interior companion piece. The inside front endpaper (p002 left) is plain yellow/ochre paper carrying library stamps. (2) INTERIOR ZONE (pp003–013): All interior calligraphy pages use a uniform, saturated yellow/gold mülevven (colored paper) as the margin ground on which calligraphy panels are window-mounted (vassale). The yellow is a warm saffron-to-ochre tone — vivid and highly saturated — and is consistent across all 6 examined interior pages, indicating a single paper stock used throughout. Each calligraphy panel is framed by a compound cedvel (multi-band ruling system) consisting of at minimum: a thin dark inner rule immediately surrounding the calligraphy panel, a narrow intervening band, and an outer rule at the margin of the yellow mulevven field. The calligraphy panels themselves are on cream/off-white burnished paper (âharlı kâğıt), clearly distinguishable from the vivid yellow surround. On pages 009 and 012–013, the calligraphy ground appears slightly pinkish-cream or aged, possibly a separate paper stock or natural aging of the burnished surface. No zerefşân, halkâr, or additional illumination is visible on the interior pages at IIIF resolution.",
+    "distribution_notes": "Battal ebru: front cover exterior (p001, vivid polychrome) + inside front doublure (p002 right, subdued). Plain yellow endpaper: inside front endpaper (p002 left, with library stamps and donation inscription). Yellow/gold mülevven: all interior calligraphy pages (pp003–013), uniform stock throughout. Compound cedvel: all interior pages, consistent band structure. Back cover and back doublure: not separately examined — p013 (final interior page) is the last examined surface; the back cover format presumably mirrors the front cover (battal ebru).",
+    "technique_terms": {
+      "ottoman": "battal ebru (kapak + iç kapak/doublure); sarı/altın mülevven kâğıt (iç sayfalar); bileşik altın cetvelli çerçeve sistemi; vassale montaj; sülüs-nesih kıtʿalar",
+      "persian": "abrī (ابری) — battal marbled paper; mulauvvan (ملوّن) — colored/dyed paper; jadval (جدول) — ruling frame",
+      "arabic": "waraq marmar (ورق رخامي) — marbled paper; waraq mulawwan (ورق ملوّن) — colored paper; jadwal murakkab (جدول مركّب) — compound ruling system"
+    },
+    "catalogue_description": {
+      "paper_field": null,
+      "paper_field_normalized": null,
+      "paper_field_translation": null,
+      "notes_field": null,
+      "notes_field_normalized": null,
+      "notes_field_translation": null,
+      "decoration_field": null,
+      "source": "YEK portal, record 406102, Süleymaniye Yazma Eser Kütüphanesi — Nuri Arlasez Koleksiyonu. Catalogued by Yusuf Yıldırım. No kağıt özellikleri, tezhip/minyatür, or decoration-specific fields are present in the YEK record. Dimensions, script, language, and folio count derive from the YEK catalogue entry. All paper decoration observations derive exclusively from visual examination of 8 IIIF images (pp001–003, 005, 007, 009, 012, 013) at 2048×1536 resolution (IIIF 1600px width)."
+    }
+  },
+  "workshop_attribution": {
+    "primary_tradition": "ottoman",
+    "workshop_centre": "Istanbul (probable)",
+    "date_range_ce": "17th–18th century (undated)",
+    "confidence": 0.65,
+    "key_indicators": [
+      "The muraqqaʿ format with vassale-mounted calligraphy panels on mülevven grounds is a characteristic Ottoman Istanbul album format, widely attested in the 17th–18th century",
+      "Polychrome battal ebru as a cover treatment is an Ottoman practice documented from at least the mid-17th century in Istanbul production; the vivid red/navy/cream palette on p001 is consistent with Ottoman battal ebru of this period",
+      "Compound cedvel framing (multi-band gold/dark ruling) around calligraphy panels is standard in Ottoman luxury calligraphic albums",
+      "Yellow/gold mülevven (saffron or ochre-dyed paper) as the interior margin ground for calligraphy panels is a documented Ottoman paper preference, attested in multiple corpus records (e.g., tiem_02490, tiem_02489)",
+      "The large-format landscape-panel sülüs (110×210 mm panels in a 330×236 mm album) is consistent with later Ottoman sülüs exhibition practice"
+    ],
+    "cross_tradition_caveats": [
+      "No calligrapher, date, or place of copy is recorded — the attribution to Istanbul rests solely on formal and material parallels, not documentary evidence",
+      "Yellow mülevven papers are produced across the Ottoman and Safavid worlds; the format does not uniquely identify Istanbul production",
+      "Without zerefşân or more elaborate illuminated elements, the album may represent provincial Ottoman production rather than an Istanbul commission; the relatively spare decorative program (no koltuk, no headpiece) suggests a middle-register commission",
+      "Confidence is limited to 0.65 pending calligraphic attribution and physical examination"
+    ]
+  },
+  "codicology": {
+    "paper": {
+      "color": "Two zones: (1) Battal ebru on covers/doublure (pp001–002): vivid polychrome (red, navy, cream, brown) on front; subdued (brown, grey-blue, cream, scattered blue) on inside doublure. (2) Yellow/gold mülevven on all interior margin papers (pp003–013): saturated saffron-to-ochre yellow, consistent single stock. (3) Calligraphy panels on cream/off-white burnished âharlı paper; some panels (pp009, 012, 013) with slight pinkish-cream aging. (4) Plain yellow/ochre endpaper on p002 left (no visible decoration beyond library stamps).",
+      "preparation": "The calligraphy panels appear on sized and burnished (âharlı) cream paper, consistent with professional Ottoman calligraphy paper. The yellow mülevven margin papers are evenly dyed throughout. The battal ebru papers on covers/doublures are prepared on a marbling size, with pigment floated and transferred to paper by the standard battal technique. The doublure (p002 right) shows a slightly different surface texture from the cover (p001) — the cells are larger and the blue speckles more scattered — possibly a different production batch or a companion piece chosen for visual contrast.",
+      "weight": "Not determinable from IIIF images. Standard Ottoman album paper weight expected (both for the mülevven margins and the calligraphy panels).",
+      "decoration": "Interior: yellow mülevven ground with compound cedvel framing. Covers: battal ebru (marbled paper or marbled leather boards).",
+      "paper_type": "Eastern/Oriental paper for calligraphy panels; dyed/mülevven paper for interior margins; marbled paper for covers and doublure."
+    },
+    "ruling": {
+      "system": "Compound cedvel (bileşik cetvel) framing each calligraphy panel, clearly visible at IIIF resolution on all examined interior pages (pp003–013)",
+      "description": "Each interior calligraphy page presents a layered ruling system surrounding the panel. From inside outward: (1) thin dark rule (black or dark brown ink) immediately bordering the calligraphy text area; (2) a narrow cream/white intervening band; (3) a second outer rule (appears lighter or gold-toned at this resolution); (4) the yellow mülevven ground extending to the page edge. This constitutes a minimum 2-band compound cedvel. At higher resolution or physical examination, additional bands (gold outer rule, colored filler) may be present. The system appears consistent across all examined interior pages. No koltuk (corner illumination) or additional tığ elements are visible at IIIF resolution. The ruling system is efficient but not as elaborate as the multi-band compound systems seen in TIEM murakkaʿ albums (e.g., tiem_02471, tiem_02481) — consistent with a middle-register Ottoman commission."
+    },
+    "binding": {
+      "cover_description": "Front cover (p001): Battal ebru on board or on leather cover boards — the ebru paper appears to be pasted directly onto the board surface and is framed by a narrow dark leather or decorated border strip at all four edges. The ebru pattern fills the entire cover field. The library accession label (small circular, bottom left corner) is adhered to the ebru surface. Inside front endpaper (p002 left): plain yellow paper with hand-written and stamped library inscriptions. Inside front doublure (p002 right): battal ebru in subdued brown/grey-blue palette with cream veining. A museum/library circular watermark stamp is visible on the doublure in the center. Back cover and back doublure: not examined at IIIF resolution (final examined page is p013, an interior calligraphy page).",
+      "cover_type": "Battal ebrulu cilt — marbled paper pasted on binding boards; leather frame border visible",
+      "notes": "The contrast between the vivid front cover battal ebru (red/navy/cream) and the subdued doublure battal ebru (brown/grey-blue/cream) is a documented Ottoman practice of providing visual variety between exterior and interior binding surfaces. This contrast scheme — more vivid exterior, softer interior — parallels examples in tiem_02489 (matched hatip ebru doublure pair) and yazma_bagislar_09315. The inside front endpaper (p002 left) is a plain yellow/ochre paper — the same yellow as the interior margin papers — suggesting either the endpaper was cut from the same mülevven stock, or a deliberate chromatic link was intended between the yellow endpaper and the yellow interior margins."
+    },
+    "format": "Muraqqaʿ — Ottoman calligraphic album (6 yaprak / 13 IIIF pages including covers)",
+    "condition_summary": "The album is generally well-preserved based on IIIF examination. The front cover battal ebru (p001) is vivid and undamaged, with no visible abrasion or flaking. The inside doublure (p002 right) shows a library watermark stamp but no physical damage. The yellow mülevven interior pages (pp003–013) are in good condition with some natural aging/yellowing of the calligraphy panel grounds on later pages (pp009, 012, 013). The calligraphy panels are fully legible. No visible foxing, water damage, or lacunae in the examined pages. 5 unexamined pages (pp004, 006, 008, 010, 011) are likely in comparable condition based on the consistency of the examined pages.",
+    "conservation_history": null
+  },
+  "visual_confirmation": {
+    "verdict": "confirmed",
+    "confidence": 0.92,
+    "confidence_breakdown": {
+      "resolution_quality": 0.75,
+      "folio_coverage": 0.62,
+      "visual_match": 0.95,
+      "limiting_factor": "coverage — 8 of 13 pages examined"
+    },
+    "screenshots_examined": 8,
+    "folios_examined": [
+      "corpus/iiif/na_00166_p001.jpg",
+      "corpus/iiif/na_00166_p002.jpg",
+      "corpus/iiif/na_00166_p003.jpg",
+      "corpus/iiif/na_00166_p005.jpg",
+      "corpus/iiif/na_00166_p007.jpg",
+      "corpus/iiif/na_00166_p009.jpg",
+      "corpus/iiif/na_00166_p012.jpg",
+      "corpus/iiif/na_00166_p013.jpg"
+    ],
+    "visual_evidence": "Battal ebru confirmed on p001 (front cover: vivid polychrome — red, navy, cream, brown spotting) and p002 right (inside doublure: subdued brown/grey-blue with cream veining and scattered blue speckles). Yellow/gold mülevven confirmed on all 6 examined interior pages (pp003, 005, 007, 009, 012, 013) as a uniform, saturated saffron-yellow margin ground. Compound cedvel framing confirmed on all interior pages. Calligraphy panels (sülüs + nesih) confirmed throughout. TRIAGE CORRECTION: battal ebru is covers/doublures ONLY; interior is yellow mülevven (not blue mülevven; not battal ebru throughout).",
+    "limitations": [
+      "5 of 13 pages not examined (pp004, 006, 008, 010, 011) — these are very likely interior calligraphy pages following the same yellow mülevven + cedvel format, based on the complete consistency of all 6 examined interior pages",
+      "Back cover (presumably the final page, reverse of p013 or separate) not examined — likely battal ebru mirroring the front cover",
+      "IIIF resolution (2048×1536, 1600px width) is adequate for confirming battal ebru and mülevven but may not resolve fine zerefşân particles if present on the mülevven ground",
+      "No decoration-specific YEK fields to independently corroborate visual observations",
+      "Calligraphic attribution requires palaeographic specialist consultation — no comparison with documented calligraphers possible from IIIF images alone"
+    ],
+    "source_agent": "metadata-generator (direct IIIF examination at catalog record creation)",
+    "source_data_file": "catalog/searches/visual_tier2_na_00166.json"
+  },
+  "folio_analyses": [
+    {
+      "folio": "Front cover (IIIF p001)",
+      "source_image": "corpus/iiif/na_00166_p001.jpg",
+      "decoration_present": true,
+      "decoration_types": ["marbled"],
+      "elements": [
+        {
+          "motif": "Battal ebru — front cover, vivid polychrome",
+          "description": "The front cover is entirely covered with vivid polychrome battal ebru (stone marbled paper or marbled board). The pattern consists of irregular, rounded spotted cells in the classic battal (stone-marble) formation — no combing, no floral motifs, no gel-git wave patterns — confirming the battal subtype unambiguously. Color palette: dominant red/crimson fields, navy blue pools, and cream/buff rounded spots with brownish veining between cells. The overall impression is intensely chromatic and densely patterned, with the three pigment colors covering the surface in roughly equal proportion. A narrow dark border frame (brown leather or paper border strip) runs along all four edges, separating the battal ebru field from the binding spine and edges. A small circular library label (Süleymaniye accession) is affixed at the lower left corner. The marbling quality is high — pigment cells are well-defined and the veining (cream lines between cells) is crisp and continuous.",
+          "location": "Full front cover exterior",
+          "confidence": 0.97
+        }
+      ],
+      "confidence": 0.97,
+      "notes": "The front cover battal ebru is among the more vivid and well-preserved examples in the corpus. The three-color polychrome palette (red/navy/cream) with brown veining is a classic Ottoman battal formula. No hatip motifs, no combing streaks — confirmed battal."
+    },
+    {
+      "folio": "Inside front cover — endpaper (left) + doublure/battal ebru (right) (IIIF p002)",
+      "source_image": "corpus/iiif/na_00166_p002.jpg",
+      "decoration_present": true,
+      "decoration_types": ["marbled", "colored"],
+      "elements": [
+        {
+          "motif": "Plain yellow/ochre endpaper — inside front cover (left page)",
+          "description": "The left page of the inside front cover opening is plain yellow/ochre paper — a warm, slightly muted ochre-yellow tone, clearly lighter and less saturated than the vivid saffron yellow of the interior margin papers. This endpaper carries all the library administrative marks: handwritten 'Nuri Arlasez / Süleymaniye Ktp.' in top left, 'No. 2542/166' beneath, a circular library stamp, and in the lower center the donation inscription 'Merhum Raif Yelkenci / hatırasına / Sn. Nuri Arlasez Bağışı' (In memory of the late Raif Yelkenci / Gift of Mr. Nuri Arlasez). The paper has no decorative patterning beyond its yellow color.",
+          "location": "Left page of inside front cover opening",
+          "confidence": 0.97
+        },
+        {
+          "motif": "Battal ebru — inside doublure (right page), subdued palette",
+          "description": "The right page of the inside front cover opening is battal ebru in a markedly different and subdued palette compared to the front cover. The base tone is brown-grey, with large rounded cells separated by cream/off-white veining. Scattered across the surface are small discrete blue spots or speckles — distinctly darker blue than the surrounding ground — distributed randomly but moderately densely. The overall palette (brown/grey + cream + blue speckles) is in stark contrast to the vivid red/navy/cream of the front cover, creating a deliberate tonal contrast between exterior showpiece and interior companion. A large circular museum/library watermark stamp is embossed or inked in the center of the doublure.",
+          "location": "Right page of inside front cover opening — doublure (iç kapak)",
+          "confidence": 0.95
+        }
+      ],
+      "confidence": 0.95,
+      "notes": "The two-palette battal ebru scheme — vivid polychrome exterior, subdued brown/grey interior — is a documented Ottoman binding practice creating visual progression as the reader opens the album. The yellow endpaper on the left shares its color family with the interior margin papers, providing a chromatic bridge between binding and interior."
+    },
+    {
+      "folio": "First interior bifolio spread — two calligraphy panels (IIIF p003)",
+      "source_image": "corpus/iiif/na_00166_p003.jpg",
+      "decoration_present": true,
+      "decoration_types": ["colored", "framing_system"],
+      "elements": [
+        {
+          "motif": "Yellow/gold mülevven — margin ground, both pages",
+          "description": "Both pages of this opening use vivid saffron-yellow mülevven (dyed colored paper) as the full margin ground. The yellow is a warm, saturated, golden-saffron tone — distinctly different from the plain yellow/ochre of the endpaper (p002 left), which is paler and less chromatic. The mülevven ground covers the entire surface of both pages, with the calligraphy panels mounted in the center via vassale (window-mounting). No zerefşân speckling or additional surface decoration is visible on the yellow ground at this resolution.",
+          "location": "Full margin area, both pages",
+          "confidence": 0.96
+        },
+        {
+          "motif": "Compound cedvel framing — both panels",
+          "description": "Each calligraphy panel is surrounded by a compound cedvel (multi-band ruling system). Visible bands (from panel outward): (1) thin dark rule immediately bordering the text area; (2) narrow pale intervening band; (3) outer rule at the yellow mülevven margin. The dark rule is executed in black or dark brown ink. The outer rule is less distinct at this scale but follows the panel perimeter consistently. This 2–3 band cedvel is the standard Ottoman album framing system for calligraphy panels on mülevven grounds.",
+          "location": "Panel perimeter, both pages",
+          "confidence": 0.88
+        },
+        {
+          "motif": "Calligraphy panels — sülüs and nesih (bifolio spread)",
+          "description": "Two separate calligraphy panels are presented side by side (a bifolio spread). Each panel contains multi-register Arabic calligraphy: two large lines in bold sülüs script, with smaller lines in nesih between and below. The sülüs lines have the characteristic bold, rounded letterforms with pronounced thick/thin stroke contrast. The nesih lines are smaller and more compact. Content is Arabic religious text — the visual structure (intermixed large sülüs and smaller nesih) is consistent with hadith or duʿā (supplication) presentation. The panels are on cream/off-white burnished âharlı paper. A diagonal spine/gutter is visible between the two panels.",
+          "location": "Central mounted panels, both pages",
+          "confidence": 0.92
+        }
+      ],
+      "confidence": 0.93,
+      "notes": "This is the first interior opening and establishes the album's consistent decorative program: saturated yellow mülevven + compound cedvel + mounted calligraphy panels. The bifolio spread (two panels visible) is the widest view in the album and confirms the symmetrical layout."
+    },
+    {
+      "folio": "Interior calligraphy page (IIIF p005)",
+      "source_image": "corpus/iiif/na_00166_p005.jpg",
+      "decoration_present": true,
+      "decoration_types": ["colored", "framing_system"],
+      "elements": [
+        {
+          "motif": "Yellow/gold mülevven — margin ground",
+          "description": "Same vivid saffron-yellow mülevven as p003. Consistent color and texture across the full margin area. Single panel presentation on this page.",
+          "location": "Full margin area",
+          "confidence": 0.96
+        },
+        {
+          "motif": "Compound cedvel and calligraphy panel",
+          "description": "Single calligraphy panel with compound cedvel. The ruling bands are more clearly visible at this page's resolution: an inner dark rule, a narrow pale band, and what appears to be an outer lighter rule — establishing a 3-band cedvel. The panel is slightly larger format, and the sülüs text is more clearly legible: Arabic text beginning 'wa-jamīʿ al-rusul dhakara wa-ṣallā rabb...' — religious text invoking blessings on prophets/messengers, consistent with a devotional or educational calligraphic composition. The nesih intermediate lines fill the upper register of the panel.",
+          "location": "Central mounted panel with compound cedvel perimeter",
+          "confidence": 0.90
+        }
+      ],
+      "confidence": 0.91,
+      "notes": "The Arabic text visible on p005 begins with 'wa-jamīʿ al-rusul dhakara' — 'and all the messengers mentioned/remembered' — indicating devotional or eulogy text, possibly a naʿt (praise of the Prophet) or munājāt (supplication). The text continues across multiple pages, suggesting the album's calligraphic content forms a coherent compositional sequence."
+    },
+    {
+      "folio": "Interior calligraphy page (IIIF p007)",
+      "source_image": "corpus/iiif/na_00166_p007.jpg",
+      "decoration_present": true,
+      "decoration_types": ["colored", "framing_system"],
+      "elements": [
+        {
+          "motif": "Yellow/gold mülevven — margin ground",
+          "description": "Identical vivid saffron-yellow mülevven to pp003 and 005. Uniform across the full margin. The consistency of the yellow across all examined interior pages confirms a single mülevven paper stock was used throughout the album's interior.",
+          "location": "Full margin area",
+          "confidence": 0.96
+        },
+        {
+          "motif": "Compound cedvel and calligraphy panel",
+          "description": "Single calligraphy panel with compound cedvel framing. The calligraphy panel ground appears slightly aged/cream with some darkening, distinguishable from the bright yellow surround. The sülüs script is well-spaced and confidently executed. The Arabic text continues the devotional composition visible on p005. Nesih lines in the intermediate register.",
+          "location": "Central mounted panel",
+          "confidence": 0.90
+        }
+      ],
+      "confidence": 0.91,
+      "notes": "Consistent with all other interior pages. No variation in the decorative program detected."
+    },
+    {
+      "folio": "Interior calligraphy page (IIIF p009)",
+      "source_image": "corpus/iiif/na_00166_p009.jpg",
+      "decoration_present": true,
+      "decoration_types": ["colored", "framing_system"],
+      "elements": [
+        {
+          "motif": "Yellow/gold mülevven — margin ground",
+          "description": "Same vivid saffron-yellow mülevven throughout. Consistent with all prior interior pages.",
+          "location": "Full margin area",
+          "confidence": 0.96
+        },
+        {
+          "motif": "Compound cedvel and calligraphy panel — slightly pink-tinted panel ground",
+          "description": "Single calligraphy panel with compound cedvel. At this page, the calligraphy panel ground has a slightly pinkish-cream tint — more pronounced than the neutral cream of pp003, 005. This pinkish tone may be aging/foxing of the burnished paper ground, or may indicate a different paper stock for this panel. The distinction from the yellow margin ground is still clear. The sülüs continues with bold Arabic religious text, including a large terminal line 'wa-al-tharā wa-al-ramla wa-man yatbaʿuhā nujūm al-samāʾ wa-nabāt...' — text with cosmological or poetic imagery (earth, sand, stars, vegetation), consistent with a naʿt or eulogy poem.",
+          "location": "Central mounted panel",
+          "confidence": 0.88
+        }
+      ],
+      "confidence": 0.90,
+      "notes": "The slightly pinkish panel ground on p009 (and visible on pp012, 013) may indicate natural yellowing/aging of a formerly white burnished paper, or a deliberate mild tint in the paper stock. Physical examination required to distinguish."
+    },
+    {
+      "folio": "Interior calligraphy page (IIIF p012)",
+      "source_image": "corpus/iiif/na_00166_p012.jpg",
+      "decoration_present": true,
+      "decoration_types": ["colored", "framing_system"],
+      "elements": [
+        {
+          "motif": "Yellow/gold mülevven — margin ground",
+          "description": "Same vivid saffron-yellow mülevven. Consistent throughout.",
+          "location": "Full margin area",
+          "confidence": 0.96
+        },
+        {
+          "motif": "Compound cedvel and calligraphy panel — pinkish-cream panel ground",
+          "description": "Single calligraphy panel with compound cedvel. The panel ground has a more pronounced pinkish-cream or warm beige tone, confirming the pattern noted at p009. The sülüs text is bold and clearly executed. Arabic text begins 'wa-fī kull ṭarfatin yaṭrufu bihā ahl al-samāwāt...' — cosmological religious text referring to celestial beings. The compound cedvel is clearly visible: thin dark inner rule, narrow pale band, outer rule in the yellow margin.",
+          "location": "Central mounted panel",
+          "confidence": 0.90
+        }
+      ],
+      "confidence": 0.90,
+      "notes": "Near-final interior page. The pinkish calligraphy panel ground is now clearly established as a recurring feature on later pages (pp009, 012, 013), suggesting either a different paper batch for the second half of the album's calligraphy panels, or progressive aging."
+    },
+    {
+      "folio": "Final interior calligraphy page (IIIF p013)",
+      "source_image": "corpus/iiif/na_00166_p013.jpg",
+      "decoration_present": true,
+      "decoration_types": ["colored", "framing_system"],
+      "elements": [
+        {
+          "motif": "Yellow/gold mülevven — margin ground",
+          "description": "Same vivid saffron-yellow mülevven. Uniform throughout all interior pages.",
+          "location": "Full margin area",
+          "confidence": 0.96
+        },
+        {
+          "motif": "Compound cedvel and calligraphy panel — no colophon visible",
+          "description": "Single calligraphy panel with compound cedvel. The panel ground is pinkish-cream, consistent with pp009 and 012. The Arabic sülüs text includes 'wa-fī kull ṭarfatin wa-waʿd... yā sanadī wa-mā yakūn ilā man nabʿath al-ṣūr...' — text with eschatological imagery (the trumpet call, the Last Day). No ketebe inscription is visible on this final interior page at IIIF resolution, though the album may include a colophon on unexamined pages or on the verso of this leaf.",
+          "location": "Central mounted panel",
+          "confidence": 0.88
+        }
+      ],
+      "confidence": 0.88,
+      "notes": "The eschatological content of the final visible panel (the trumpet of the Last Day) may indicate this is an ending section of a longer devotional poem or prayer. No calligrapher name, date, or ketebe is visible. The album may have originally included a colophon on the unexamined verso of this leaf or on a separate colophon page before the back cover."
+    }
+  ],
+  "terminology": {
+    "terms_used": [
+      {
+        "concept": "Stone marbled paper",
+        "ottoman": "battal ebru (باتال ابرو) / battal ebrulu kâğıt",
+        "arabic": "waraq marmar (ورق رخامي) — marbled paper; waraq abrī (ورق ابري)",
+        "persian": "kāġaḏ-e abrī (کاغذ ابری) — cloud-patterned / marbled paper; abrī (ابری)",
+        "english": "Battal ebru: the standard Ottoman/Turkish term for stone-marble or spot-marble paper, produced by floating pigments on a size-filled trough without combing or additional patterning. The dropped pigments form irregular rounded cells separated by the veining of the underlying size. 'Battal' connotes 'plain' or 'gross/coarse' (from Arabic bāṭil, 'null, plain') — reflecting the technique's simplicity relative to combed (taraklı) or floral (hatip) marbling. Distinguished from: taraklı ebru (combed, produces parallel striations via multi-toothed comb), gel-git ebru (single-stylus wave patterns, not combed), hatip ebru (pre-drawn vegetal/floral motifs laid on the size before marbling). In this album, confirmed on front cover (vivid polychrome) and inside doublure (subdued palette) — see ebru_palette_analysis."
+      },
+      {
+        "concept": "Colored paper",
+        "ottoman": "mülevven / mülevven kâğıt (ملوّن کاغذ) / boyalı kâğıt",
+        "arabic": "waraq mulawwan (ورق ملوّن)",
+        "persian": "kāġaḏ-e mulavvan (کاغذ ملوّن) — colored paper; rang-āmīz (رنگ آمیز)",
+        "english": "Mülevven: Ottoman Turkish for 'colored/tinted paper' — paper uniformly dyed or pigmented in a single color throughout, distinct from marbled (patterned) or gold-sprinkled (particle-decorated) paper. In this album, a vivid saffron-to-ochre yellow mülevven is used as the interior margin ground for all calligraphy pages. The yellow color is consistent across all examined interior pages, indicating a single production batch. Yellow mülevven may be dyed with saffron (za'farān), yellow ochre, or other yellow pigments. Distinguished from zerefşân: mülevven is uniformly dyed; zerefşân has visible metallic particles scattered on the surface. Distinguished from boya efşân: mülevven is a flat dyed color; boya efşân has scattered colored speckling on a cream/white ground."
+      },
+      {
+        "concept": "Compound ruling frame",
+        "ottoman": "bileşik cetvel / altın cetvelli çerçeve / iç cetvel + dış cetvel",
+        "arabic": "jadwal murakkab (جدول مركّب) — compound ruling",
+        "persian": "jadval-e morakkab (جدول مرکّب) — compound frame",
+        "english": "Compound cedvel (bileşik cetvel): a multi-band ruling system surrounding a calligraphy or painting panel, consisting of two or more concentric rules in alternating colors (typically gold, dark, pale). In this album, at minimum a 2–3 band system is visible: thin dark inner rule + narrow pale band + outer rule at the margin. Compound cetvels are the standard framing system for Ottoman mounted calligraphy panels and provide both visual separation between the panel and its ground and a decorative border effect. More elaborate compound cetvels (5–7 bands, with gold + colored filler bands) are documented in TIEM murakkaʿ albums."
+      },
+      {
+        "concept": "Calligraphic album",
+        "ottoman": "muraqqaʿ / murakkaat (مرقعات)",
+        "arabic": "muraqqa (مرقع) / muraqqa'at (مرقعات)",
+        "persian": "muraqqa (مرقع)",
+        "english": "Muraqqaʿ: a bound Ottoman calligraphic (or calligraphic + pictorial) album, consisting of individual calligraphy panels (kıtʿa) mounted on decorated paper grounds and bound together. This album contains at least 6 kıtʿa in Arabic sülüs + nesih, mounted on yellow mülevven ground papers with compound cedvel framing and battal ebru covers. The format is documented in Ottoman collections from the late 16th century onward; it was the primary vehicle for collecting and displaying calligraphic specimens."
+      },
+      {
+        "concept": "Window mounting",
+        "ottoman": "vassale (واصله) / pencere montaj",
+        "arabic": null,
+        "persian": "vassāla (واصله) — joiner/connecting piece",
+        "english": "Vassale (also spelled vassal or wassāla): the technique of mounting a calligraphy or painting panel by cutting a window in a decorated paper support and inserting the panel to fill the opening, with the back of the support paper holding the panel in place. The result is a seamless visual integration of the panel with its decorated ground. In this album, the calligraphy panels on cream âharlı paper appear to be vassale-mounted into windows cut in the yellow mülevven margin sheets."
+      },
+      {
+        "concept": "Calligraphic specimen sheet",
+        "ottoman": "kıtʿa (قطعة) / kıtʿa-i hat",
+        "arabic": "qiṭʿa (قطعة)",
+        "persian": "qiṭʿa (قطعه)",
+        "english": "Kıtʿa: a single calligraphic specimen sheet, typically displaying one or more lines of formal calligraphy in one or more scripts. YEK records '6 yk., 4 st.' for this album — 6 yaprak (leaves) with 4 sutun (column-format compositions); visual examination of 8 pages confirms calligraphy across pp003–013. The content appears to be a devotional/eulogy text in Arabic sülüs with nesih intermediate lines."
+      },
+      {
+        "concept": "Sülüs script",
+        "ottoman": "sülüs hattı",
+        "arabic": "thuluth (ثلث)",
+        "persian": null,
+        "english": "Sülüs (thuluth): one of the six canonical Arabic scripts, characterized by large rounded letterforms with strong thick/thin stroke contrast and pronounced descending strokes. The dominant script in this album, used for the main display lines of each calligraphy panel. Sülüs is a 'display' script — large, formal, used for exhibition pieces rather than text-copying. Its use in a muraqqaʿ context is standard for Ottoman high-register calligraphic albums."
+      },
+      {
+        "concept": "Nesih script",
+        "ottoman": "nesih hattı",
+        "arabic": "naskh (نسخ)",
+        "persian": null,
+        "english": "Nesih (naskh): a small, rounded, legible Arabic script widely used for manuscript text-copying and as an accompaniment to sülüs in display calligraphy. In this album, nesih appears in the intermediate/secondary lines of each panel, between or below the main sülüs lines. The combination of sülüs (large) + nesih (small) is a standard Ottoman exhibition formula for mixed-script calligraphy panels."
+      }
+    ]
+  },
+  "ebru_palette_analysis": {
+    "cover_p001": {
+      "subtype": "battal ebru",
+      "colors": ["red/crimson", "navy blue", "cream/buff", "brown (veining)"],
+      "notes": "Vivid polychrome battal. Dominant red and navy fields in roughly equal proportion, with cream/buff rounded spots and brown veining between cells. One of the more boldly chromatic battal covers in the project corpus. Classic stone-marble formation — no combing, no floral motifs."
+    },
+    "doublure_p002": {
+      "subtype": "battal ebru",
+      "colors": ["brown/grey-brown", "grey-blue", "cream/off-white (veining)", "blue (scattered speckles)"],
+      "notes": "Subdued palette, markedly less vivid than the front cover. Large rounded cells in brown/grey with cream veining and discrete scattered blue speckles. The contrast with the front cover appears deliberate — a documented Ottoman binding convention of pairing a vivid exterior with a quieter interior."
+    }
+  },
+  "mulevven_analysis": {
+    "interior_pages": {
+      "color": "Yellow/gold — warm saffron-to-ochre yellow",
+      "location": "All examined interior calligraphy pages (pp003, 005, 007, 009, 012, 013) and likely all 5 unexamined interior pages (pp004, 006, 008, 010, 011)",
+      "consistency": "Highly uniform across all examined interior pages — single paper stock",
+      "tonal_variation": "None detected across pp003–013. The plain yellow endpaper (p002 left) is a similar but slightly paler/less saturated yellow — possibly from the same batch or chosen for tonal harmony.",
+      "zerefshan_presence": "Not confirmed at IIIF resolution (1600px width). The uniform yellow does not show visible gold particles separate from the dye. Physical examination at higher magnification required to determine if a light zerefşân overlay is present.",
+      "notes": "The vivid saffron-yellow mülevven is distinctly different from the muted lacivert, pink/rose, or sage-green mülevven papers documented in other corpus albums. Yellow mülevven is documented in the corpus at tiem_02489 (yellow as one of 5 mulevven hues) and tiem_02490 (pink/grey), but this album appears to be the first in the corpus to use yellow mülevven as the SOLE margin color across all interior pages — making it a useful comparandum for yellow-mülevven album typology."
+    }
+  },
+  "triage_correction": {
+    "original_triage_description": "MAJOR FIND. 13 pp. Battal ebru (stone marbled paper) in red/blue/cream throughout. Gold margin papers and blue mulevven margins also visible.",
+    "corrections": [
+      {
+        "error": "Battal ebru described as being 'throughout' pages 2–13",
+        "correct": "Battal ebru is confined to the binding elements only: front cover exterior (p001) and inside front doublure (p002 right). Interior pages pp003–013 contain NO battal ebru."
+      },
+      {
+        "error": "Blue mulevven described as visible",
+        "correct": "No blue mülevven found on any examined page. The interior margin paper is consistently yellow/gold mülevven. The 'blue' in the triage may have been a misreading of the blue speckles in the doublure battal ebru (p002 right), which are embedded in the marbling pattern, not a separate mülevven paper."
+      },
+      {
+        "error": "'Gold margin papers' mentioned alongside blue mulevven",
+        "correct": "The yellow/gold quality of the interior margin paper is the yellow mülevven itself — not a separate gold-sprinkled paper. The 'gold' triage observation is a partially correct identification of the yellow mülevven color, but misidentified as a separate 'gold margin paper' category."
+      }
+    ],
+    "impact": "The triage correction does not affect the decorated status of the manuscript (confirmed) but significantly changes the decoration classification: from 'battal ebru throughout + blue mülevven' to 'battal ebru (covers/doublure only) + yellow mülevven (interior, all pages).' The confirmed decoration types remain marbled + colored + framing_system."
+  },
+  "bibliography": [
+    {
+      "citation": "Blair, Sheila S. 'Color and Gold: The Decorated Papers Used in Manuscripts in Later Islamic Times.' Muqarnas 17 (2000): 24–36.",
+      "relevance": "Foundational taxonomic study providing the primary classification framework for decorated papers in Islamic manuscripts, including mülevven (colored papers), ebrî (marbled papers), and zerefşân (gold-sprinkled papers). Blair's survey of the range of colored paper grounds — including yellow/saffron mülevven — and her documentation of battal ebru as a distinct marbled paper subtype are directly relevant to the two-zone decorated program of NA 00166. Her article is the principal scholarly reference for the colored paper types in this record.",
+      "relevance_score": 0.97,
+      "access_notes": "Peer-reviewed article. Available via JSTOR (Brill/Muqarnas Online). Open-access PDF accessible at Academia.edu."
+    },
+    {
+      "citation": "Bloom, Jonathan M. Paper Before Print: The History and Impact of Paper in the Islamic World. New Haven: Yale University Press, 2001.",
+      "relevance": "Comprehensive history of paper production and use in the Islamic world, providing material-culture background for mülevven (dyed colored paper) production techniques, battal ebru paper production, and the role of decorated papers in Ottoman luxury manuscript and album production. Chapter discussions of Ottoman paper practices are directly relevant to the yellow mülevven and battal ebru documented in this album.",
+      "relevance_score": 0.85,
+      "access_notes": "Widely held research monograph."
+    },
+    {
+      "citation": "Roxburgh, David J. The Persian Album, 1400–1600: From Dispersal to Collection. New Haven: Yale University Press, 2005.",
+      "relevance": "Essential study of the muraqqaʿ album format and its decorated paper programs in the Persianate-Ottoman tradition. Provides the theoretical framework for understanding the muraqqaʿ as a compositional vehicle in which decorated paper — including mülevven margin grounds and battal ebru covers — is a deliberate aesthetic choice signaling the album's status. Relevant for contextualizing the two-zone program (cover = ebru; interior = mülevven) as an Ottoman adoption of Persianate album aesthetics.",
+      "relevance_score": 0.85,
+      "access_notes": "Widely held research monograph."
+    },
+    {
+      "citation": "Déroche, François. Islamic Codicology: An Introduction to the Study of Manuscripts in Arabic Script. Translated by Deke Dusinberre and David Radzinowicz. London: Al-Furqan Islamic Heritage Foundation, 2005.",
+      "relevance": "Foundational reference for Islamic manuscript codicology, covering paper decoration types, binding forms, ruling systems, and physical manuscript description. Provides the classification framework for compound cedvel ruling systems, the vassale mounting technique, and the muraqqaʿ format, all central to the description of NA 00166.",
+      "relevance_score": 0.82,
+      "access_notes": "Monograph; available at specialist libraries."
+    },
+    {
+      "citation": "Gacek, Adam. Arabic Manuscripts: A Vademecum for Readers. Leiden: Brill, 2009.",
+      "relevance": "Standard reference for Islamic manuscript codicological terminology and script identification. Relevant for the identification and description of sülüs and nesih scripts in this album, and for general codicological terms (kıtʿa, cetvel, vassale, muraqqaʿ) used in this record. Gacek's definitions of vassale mounting and cetvel framing systems are directly applicable.",
+      "relevance_score": 0.80,
+      "access_notes": "Reference monograph; widely held."
+    },
+    {
+      "citation": "Tanındı, Zeren. 'Osmanlı Sanatında Murakka.' In Türkiyemiz 38 (1982): 1–10. [In Turkish]",
+      "relevance": "Early Turkish-language study of Ottoman murakkaʿ albums, their formats, calligraphic content, and decorated paper programs. Provides foundational documentation of the muraqqaʿ tradition in Ottoman collections and the role of mülevven and ebru papers in album design. Relevant for situating NA 00166 within the typology of Ottoman calligraphic albums.",
+      "relevance_score": 0.78,
+      "access_notes": "Turkish-language article. Available at Turkish university libraries and the Süleymaniye Kütüphanesi research collection."
+    },
+    {
+      "citation": "Çağman, Filiz, and Zeren Tanındı. The Topkapı Saray Museum: The Albums and Illustrated Manuscripts. Translated and edited by J. M. Rogers. Boston: Little, Brown, 1986.",
+      "relevance": "Standard reference for Ottoman calligraphic albums and their decorated paper programs in the Topkapı Saray collections. Provides comparative material for Ottoman muraqqaʿ albums with mülevven margin papers and battal ebru covers, allowing contextual comparison of the decoration program of NA 00166 with court-level Ottoman album production.",
+      "relevance_score": 0.78,
+      "access_notes": "Exhibition catalogue; widely held at Turkish and Islamic art research libraries."
+    },
+    {
+      "citation": "Bağcı, Serpil, Filiz Çağman, Günsel Renda, and Zeren Tanındı. Ottoman Painting. Ankara: Ministry of Culture and Tourism, 2006.",
+      "relevance": "Comprehensive survey of Ottoman visual arts including the album tradition, calligraphic practices, and paper art of the 17th–18th centuries. Provides comparative context for the muraqqaʿ format and decorated paper programs associated with Ottoman court and middle-register album commissions in the period most likely for NA 00166.",
+      "relevance_score": 0.72,
+      "access_notes": "Museum publication; widely held at Turkish studies collections."
+    },
+    {
+      "citation": "Derman, M. Uğur. Letters in Gold: Ottoman Calligraphy from the Sakıp Sabancı Collection, Istanbul. New York: The Metropolitan Museum of Art, 1998.",
+      "relevance": "Primary English-language exhibition catalogue on Ottoman calligraphy, covering the sülüs and nesih hands as exhibition scripts in Ottoman muraqqaʿ albums. Provides palaeographic context for the sülüs + nesih multi-register format documented in NA 00166, and may assist in future attribution of the unidentified calligrapher.",
+      "relevance_score": 0.70,
+      "access_notes": "Exhibition catalogue (Metropolitan Museum of Art, 1998); widely held at Islamic art and Ottoman studies libraries."
+    },
+    {
+      "citation": "Scheper, Karin. The Technique of Islamic Bookbinding: Methods, Materials and Regional Varieties. Leiden: Brill, 2015.",
+      "relevance": "Systematic study of Islamic bookbinding techniques relevant to the physical analysis of the battal ebru binding covers of NA 00166. Documents the use of marbled paper pasted on binding boards as a documented Ottoman binding practice, and the contrast between exterior (vivid) and interior (subdued) battal ebru in album bindings.",
+      "relevance_score": 0.68,
+      "access_notes": "Monograph; available at Islamic bookbinding and manuscript studies libraries."
+    }
+  ],
+  "suggested_collections": [
+    {
+      "institution": "Türk ve İslam Eserleri Müzesi (TIEM), Istanbul",
+      "reason": "The TIEM murakkaʿ corpus (93 positive albums, fully triaged) contains numerous comparanda for yellow mülevven interior margins and battal ebru covers. TIEM 02489 documents yellow as one of five mülevven hues in a single album; TIEM 02490 documents a comparable cover-versus-interior battal/mülevven contrast. Systematic comparison with TIEM corpus records may identify shared paper stocks or workshop practices.",
+      "digital_access": "https://portal.yek.gov.tr"
+    },
+    {
+      "institution": "Süleymaniye Yazma Eser Kütüphanesi — Hamidiye Koleksiyonu",
+      "reason": "The Hamidiye murakkaʿ corpus (within the same Süleymaniye Kütüphanesi complex) contains 6+ catalogued albums with battal ebru covers and mülevven interior papers. Physical proximity and institutional provenance suggest possible shared workshop origin or at minimum comparable production context.",
+      "digital_access": "https://portal.yek.gov.tr"
+    },
+    {
+      "institution": "Topkapı Sarayı Müzesi Kütüphanesi, Istanbul",
+      "reason": "Holds the largest corpus of authenticated Ottoman calligraphic albums. Physical examination of Topkapı albums with yellow mülevven margin papers and battal ebru covers would provide the best comparanda for dating and attributing NA 00166's unidentified calligrapher.",
+      "digital_access": "https://kutuphane.tsmk.gov.tr"
+    },
+    {
+      "institution": "Chester Beatty Library, Dublin",
+      "reason": "Major collection of Ottoman calligraphic albums with decorated papers, including albums with mülevven margin papers and battal ebru bindings from the 17th–18th centuries. Provides international comparanda for the decoration program.",
+      "digital_access": "https://viewer.cbl.ie"
+    },
+    {
+      "institution": "GlobalDecoPaper ERC Project, LMU Munich",
+      "reason": "The primary active research project on decorated papers in Islamic manuscripts. The yellow mülevven paper stock and its possible relationship to saffron-dyed vs. ochre-dyed production traditions falls within the scope of GlobalDecoPaper's systematic material analysis. Contact for comparative pigment/dye analysis of the yellow mülevven.",
+      "digital_access": null
+    }
+  ],
+  "provenance": {
+    "donor": "Nuri Arlasez (collector and donor)",
+    "waqf": null,
+    "previous_shelfmarks": ["Süleymaniye Ktp. No. 2542/166 (Nuri Arlasez collection accession number)"],
+    "notes": "The album was donated to the Süleymaniye Yazma Eser Kütüphanesi by Nuri Arlasez in memory of the late Raif Yelkenci, as attested by the hand-written donation inscription on the inside front endpaper (p002 left): 'Merhum Raif Yelkenci hatırasına / Sn. Nuri Arlasez Bağışı' (In memory of the late Raif Yelkenci / Gift of Mr. Nuri Arlasez). Library stamps read 'Nuri Arlasez / Süleymaniye Ktp.' with accession number '2542/166.' Raif Yelkenci (d. ca. 1960s–70s) was a prominent Istanbul manuscript dealer and bibliophile; his estate and related collections were dispersed through dealers and donations in the mid-20th century. The album's pre-Yelkenci provenance is unknown. YEK cataloguer: Yusuf Yıldırım. YEK ID: 406102. IIIF ID: 0000000398319."
+  },
+  "analysis_metadata": {
+    "analyzed_date": "2026-02-28",
+    "analyzer": "claude-code-manuscript-pipeline",
+    "pipeline_stage": "metadata-generator",
+    "image_source": "YEK Portal IIIF images, Süleymaniye Yazma Eser Kütüphanesi — Nuri Arlasez Koleksiyonu, YEK ID 406102, IIIF ID 0000000398319. 8 of 13 pages downloaded and examined at IIIF resolution (2048×1536, 1600px width).",
+    "image_quality_notes": "IIIF images are clear and support confident identification of battal ebru (cover + doublure), yellow mülevven (all interior pages), and compound cedvel framing. The battal ebru on the front cover (p001) is particularly clear — pigment cells, cream veining, and the three-color palette are all unambiguous. Yellow mülevven on interior pages is also unambiguous — highly saturated and uniform. Compound cedvel is visible but the exact number of ruling bands (2 vs. 3) cannot be definitively determined at this resolution; physical examination would clarify. No zerefşân particles can be confirmed or excluded at this resolution. Calligraphic content is partially legible — sülüs/nesih script identification is confident; attribution of calligrapher requires specialist palaeographic comparison. No ketebe inscription was identified in the 8 pages examined.",
+    "folios_examined": [
+      "corpus/iiif/na_00166_p001.jpg",
+      "corpus/iiif/na_00166_p002.jpg",
+      "corpus/iiif/na_00166_p003.jpg",
+      "corpus/iiif/na_00166_p005.jpg",
+      "corpus/iiif/na_00166_p007.jpg",
+      "corpus/iiif/na_00166_p009.jpg",
+      "corpus/iiif/na_00166_p012.jpg",
+      "corpus/iiif/na_00166_p013.jpg"
+    ],
+    "folios_not_examined": "5 interior pages not examined: pp004, 006, 008, 010, 011. Based on the complete consistency of all 6 examined interior pages (identical yellow mülevven + compound cedvel format), these pages are very likely to follow the same pattern. Back cover (p013 verso or separate final page) not examined — likely battal ebru mirroring the front cover. Download of remaining pages recommended for completeness.",
+    "corpus_priority": "Medium — significant as the first documented yellow-mülevven-only muraqqaʿ in the corpus and for its vivid polychrome battal ebru cover. The two-zone program (battal ebru covers + uniform yellow mülevven interior) is a clean documented example of the most common Ottoman muraqqaʿ decoration formula. Key follow-up: (1) calligraphic attribution; (2) physical examination of yellow mülevven to determine dye type (saffron vs. ochre vs. other) and possible zerefşân overlay; (3) download remaining 5 unexamined pages and back cover.",
+    "triage_correction_logged": true,
+    "source_data": {
+      "visual_confirmation_file": "catalog/searches/visual_tier2_na_00166.json",
+      "yek_id": "406102",
+      "iiif_id": "0000000398319",
+      "batch": "Tier 2 visual confirmation batch"
+    }
+  }
+}

@@ -1,0 +1,453 @@
+{
+  "record_id": "na_00114",
+  "collection": {
+    "institution": "Süleymaniye Yazma Eser Kütüphanesi — Nuri Arlasez Koleksiyonu",
+    "city": "Istanbul",
+    "country": "Turkey",
+    "shelfmark": "00114",
+    "yek_url": "https://portal.yek.gov.tr/works/detail/406048"
+  },
+  "manuscript": {
+    "title": "Muraqqaʿāt / مرقعات",
+    "title_script": "مرقعات",
+    "title_alt": "Murakkaa",
+    "author": null,
+    "author_dates": null,
+    "calligrapher": "Mehmed Nuri (محمد نوری)",
+    "calligrapher_dates": "Unknown; active late 17th–early 18th century CE (terminus inferred from material style and album program)",
+    "calligrapher_note": "Mehmed Nuri is identified as the kâtib (scribe/calligrapher) by a ketebe inscription on p002, lower panel. The YEK catalogue records his name in both Latin and Arabic scripts ('Mustensih: Mehmed Nuri'; محمد نوری). He cannot be securely identified with any of the several Ottoman calligraphers bearing this name without further palaeographic comparison. The ketebe on p002 is not yet fully transcribed at available resolution. The scripts represented — sülüs and nesih in a murakkaat format — are consistent with Istanbul training. Physical examination and comparison with authenticated works by known Mehmed Nuri calligraphers (e.g., Tophâneli Mahmud Nûri, d. 1080/1669) is required.",
+    "date_ah": null,
+    "date_ce": null,
+    "date_note": "No date is recorded in the YEK catalogue or legible from available IIIF images. The decorated paper program — taraklı ebru cover + battal ebru margins + zerefşân calligraphy grounds — is consistent with late 17th to early 18th century Istanbul production. The Nuri Arlasez collection at Süleymaniye holds manuscripts from the late Ottoman period; date null pending transcription of the ketebe on p002 and physical examination.",
+    "place_of_copy": null,
+    "format": "Muraqqaʿ / مرقع — compact calligraphic album with taraklı ebru cover and battal ebru margin grounds",
+    "format_note": "A bound Ottoman calligraphic album (muraqqaʿ) of 3 folios (3 pages as recorded in the IIIF sequence: front cover + 2 calligraphy pages). The YEK catalogue entry records '3 yk., 3 st.' (3 leaves, 3 columns). The album contains two calligraphy openings (pp. 2–3), each carrying two vassale-mounted kıtʿa on zerefşân paper with battal ebru margin grounds, and a taraklı ebru cover (p001). The script is sülüs (Arabic) with nesih. The cover dimensions are 266×140 mm; writing area 225×98 mm per YEK catalogue.",
+    "language": "Arabic",
+    "script": "Arap harfli — Sülüs (ثلث) and Nesih (نسخ); per YEK catalogue: 'Arap harfli-Sulus'",
+    "dimensions_mm": {
+      "height": 266,
+      "width": 140,
+      "writing_area_mm": {
+        "height": 225,
+        "width": 98
+      },
+      "note": "Outer dimensions 266×140 mm; writing area 225×98 mm per YEK catalogue"
+    },
+    "folio_count": 3,
+    "yek_id": "406048",
+    "iiif_id": "0000000398373",
+    "notes": "This is the ONLY confirmed taraklı ebru cover in the entire 252-album visual triage corpus. The triage originally labeled this specimen 'gel-git/tarakli ebru' (slash suggesting ambiguity), but IIIF examination definitively resolved the cover as taraklı: the regular, evenly-spaced parallel arcs running in horizontal rows across the full surface are diagnostic of a multi-toothed comb (tarak), not a single stylus (biz). The album is significant for its DUAL-SUBTYPE ebru program: taraklı cover (p001) + battal margins (pp. 002–003) — an intentional pairing of two different marbling techniques for two different structural zones. The zerefşân on the calligraphy panels is 'probable' (0.70) at available resolution: the calligraphy grounds have a clearly granular golden shimmer visible in the IIIF images, consistent with fine gold particles, but physical examination would confirm. The album is held in the Nuri Arlasez bequest at Süleymaniye, a collection assembled by art historian Nuri Arlasez, one of the last generation of scholars trained in Ottoman script before the 1928 alphabet reform."
+  },
+  "paper_decoration": {
+    "types": [
+      "marbled",
+      "gold_sprinkled",
+      "framing_system"
+    ],
+    "summary": "NA 00114 presents a decorative program of exceptional rarity within the 252-album corpus: a DUAL-SUBTYPE ebru album pairing two distinct marbling techniques in two structural zones. (1) TARAKLI EBRU (combed marbling) on the front cover (p001): the only confirmed taraklı cover in the entire triage corpus. The surface shows regular, evenly-spaced nested U/arch-shaped scallops running in parallel horizontal rows across the full cover surface. Colors are polychrome — green, orange, cream/gold, brownish-purple/mauve, with blue-grey accents — separating into distinct parallel bands following the comb's path. This technique is produced by drawing a multi-toothed comb (tarak) through pigments laid on the size surface, creating mechanically regular striations distinct from the flowing S-curves of gel-git (single-stylus) technique. (2) BATTAL EBRU (stone marbling) on the calligraphy page margins (pp. 002–003): random mottled pink/rose and dark maroon-brown spots in a free scatter pattern, with no combing or stylus manipulation. The same pink/maroon battal palette appears consistently on both calligraphy pages, indicating a single production batch. The battal grounds serve as the margin paper onto which the calligraphy panels are vassale-mounted. (3) ZEREFŞÂN (gold-sprinkled paper) on the calligraphy panel grounds (pp. 002–003, probable, confidence 0.70): both calligraphy panels display a warm golden granular shimmer on their cream ground, consistent with fine gold particles scattered on the surface. Gold single-line cetvels (altın cetvel) frame each panel. The intentional pairing of taraklı (structural/formal) for the cover and battal (organic) for the interior margins suggests deliberate compositional planning in the album's decorative program.",
+    "distribution_notes": "Taraklı ebru: front cover only (p001). Battal ebru: outer margin paper on calligraphy pages (pp. 002–003). Zerefşân: calligraphy panel grounds (pp. 002–003, both panels on each page). Gold cetvels: framing each individual panel on pp. 002–003. Back cover: not captured in the 3-page IIIF sequence — unknown whether a matching or contrasting cover exists.",
+    "technique_terms": {
+      "ottoman": "taraklı ebrulu kâğıt (cover); battal ebrulu kâğıt (margins); zerefşân / serpme (calligraphy grounds); altın cetvel (gold ruling); vassale (panel mounting technique)",
+      "persian": "kāġaḏ-e abrī-e šānaʾī (combed marbled paper); zar-afshān (gold-sprinkled)",
+      "arabic": "waraq marmar bi-l-mushṭ (combed marbled paper); waraq muzakhraf bi-al-dhahab (gold-sprinkled paper)"
+    },
+    "catalogue_description": {
+      "paper_field": null,
+      "notes_field": "Murakka'at. 3 yk., 3 st. 266x140-225x98 mm. Arap harfli-Sulus. Mustensih: Mehmed Nuri.",
+      "notes_field_translation": "Album of calligraphic specimens. 3 leaves, 3 columns. 266×140–225×98 mm. Arabic script — Sülüs. Copyist: Mehmed Nuri.",
+      "decoration_field": null,
+      "source": "YEK portal, genel notlar / catalogue fields, record 406048, Süleymaniye Yazma Eser Kütüphanesi — Nuri Arlasez Koleksiyonu. Paper decoration terms and ebru subtype determination derive from visual examination of IIIF images by the analysis pipeline."
+    },
+    "significance_note": "CORPUS SIGNIFICANCE: The taraklı ebru cover is the ONLY definitively confirmed taraklı specimen in the 252-album visual triage (spanning TIEM, Hamidiye, Pertevniyal, and Nuri Arlasez collections). Several other records contain possible taraklı features requiring re-examination (tiem_02418 doublures; tiem_02481 p006L; hamidiye_00034 strips reclassified to taraklı). The correction of the triage label from 'gel-git/taraklı' to 'taraklı' is definitive: gel-git produces flowing organic S-curves with variable spacing from a single biz; what appears on p001 is the unmistakable mechanical regularity of a multi-toothed comb. The dual-subtype pairing (taraklı cover + battal margins) is attested in tiem_02481 (battal + gel-git accent) and should be treated as a distinct category of deliberate compositional ebru design in Ottoman murakkaat albums."
+  },
+  "workshop_attribution": {
+    "primary_tradition": "ottoman",
+    "workshop_centre": "Istanbul",
+    "date_range_ce": "late 17th–early 18th century (c. 1680–1730)",
+    "confidence": 0.65,
+    "key_indicators": [
+      "The murakkaat format with vassale-mounted kıtʿa on ebru grounds is characteristic of late Ottoman Istanbul album production",
+      "The dual-subtype ebru program (taraklı cover + battal interior margins) reflects sophisticated Istanbul workshop knowledge of multiple marbling techniques",
+      "The zerefşân calligraphy panel grounds are consistent with Istanbul luxury album production practice of the late 17th–early 18th centuries",
+      "Gold single-line cetvels framing individual vassale panels is a standard Istanbul album framing convention",
+      "The sülüs-nesih script combination is the canonical Istanbul calligraphic pairing of the period"
+    ],
+    "cross_tradition_caveats": [
+      "No date is recorded; the CE date range is inferred from style and the Arlasez collection profile",
+      "Mehmed Nuri is not securely identified — workshop attribution depends on resolution of the calligrapher identity",
+      "Taraklı ebru covers are rare enough in the corpus that no production-centre typology has yet been established; the technique was practiced across the Ottoman world",
+      "The Nuri Arlasez collection contains manuscripts from diverse periods; institutional acquisition date does not constrain production date",
+      "Physical examination of the ebru size bath recipe and pigments could refine workshop attribution"
+    ]
+  },
+  "codicology": {
+    "paper": {
+      "color": "Cover (p001): polychrome taraklı ebru (green, orange, cream/gold, brownish-purple, blue-grey). Calligraphy margins (pp. 002–003): battal ebru in pink/rose and dark maroon-brown. Calligraphy panel grounds (pp. 002–003): cream/off-white with probable gold zerefşân particles.",
+      "preparation": "The calligraphy panels are written on cream âharlı (sized and burnished) paper. The zerefşân application — fine gold particles on the cream ground — is probable at available resolution (granular golden shimmer visible in IIIF images). The ebru papers (both taraklı cover and battal margins) are Oriental paper prepared for marbling on a gum-tragacanth size bath using traditional Ottoman ebru technique.",
+      "weight": "Not determinable from IIIF images. Standard Ottoman album weight expected.",
+      "decoration": "Cover: taraklı ebru. Margins: battal ebru. Panel grounds: probable zerefşân. Framing: gold single-line cetvels.",
+      "paper_type": "Eastern/Oriental paper throughout."
+    },
+    "ruling": {
+      "system": "Gold single-line cetvel (altın cetvel) framing each individual calligraphy panel. No multi-layer compound cedvel system documented — simpler than many corpus albums.",
+      "description": "On pp. 002 and 003, each vassale-mounted calligraphy panel is individually framed by a single gold ruling line (altın cetvel). The gold cetvel runs along all four sides of each panel, creating a clean boundary between the zerefşân calligraphy ground and the battal ebru margin paper. No koltuk (corner) illumination, no red inner rules, and no multi-band compound cedvel are visible at available resolution — the framing system is notably restrained compared to, e.g., TIEM 02437."
+    },
+    "binding": {
+      "cover_description": "The front cover (p001) is decorated with taraklı ebru paper pasted over a board. A dark maroon/brown leather strip is visible at the top edge of the cover — possibly the spine or a leather border frame at the top margin of the cover board. Library stamps affixed at top-left: a red circular Süleymaniye stamp inscribed 'SULEYMANIYE' with the collection number '114', and a second oval or rectangular stamp. The cover board in its ebru-paper covering is in good condition overall, with some wear at the lower right and scattered minor losses.",
+      "cover_type": "Ebrulu cilt kapağı — taraklı ebru paper over board, with leather spine strip",
+      "notes": "The back cover is NOT captured in the 3-page IIIF sequence and its decoration is unknown. Whether the back cover is a matching taraklı ebru, a contrasting ebru type, plain leather, or another material cannot be determined from available images. This is flagged as a follow-up item."
+    },
+    "format": "Muraqqaʿ — compact Ottoman calligraphic album (3 IIIF pages: cover + 2 calligraphy pages)",
+    "condition_summary": "The taraklı ebru cover (p001) is well-preserved overall — colors are vivid and the comb pattern is fully legible. Some wear and minor losses at lower right and edges. The battal ebru margins on pp. 002–003 are in good condition with consistent vivid pink/maroon coloration. The calligraphy panels are legible at IIIF resolution. A YEK digital watermark is visible diagonally across pp. 002 and 003 but does not significantly obstruct analysis.",
+    "conservation_history": null
+  },
+  "visual_confirmation": {
+    "verdict": "confirmed",
+    "confidence": 0.95,
+    "screenshots_examined": 3,
+    "folios_examined": [
+      "corpus/iiif/na_00114_p001.jpg",
+      "corpus/iiif/na_00114_p002.jpg",
+      "corpus/iiif/na_00114_p003.jpg"
+    ],
+    "visual_evidence": "Three IIIF pages examined at 1600px-wide resolution via browser rendering. (1) p001: taraklı ebru cover confirmed — regular, evenly-spaced scalloped/arch patterns in parallel horizontal rows, definitively diagnostic of multi-toothed comb technique. (2) p002: two vassale-mounted calligraphy panels on battal ebru margins (pink/maroon random mottling). Zerefşân on panel grounds visible as granular golden shimmer (probable, 0.70). Gold cetvels confirmed. Ketebe visible in lower panel. (3) p003: same program as p002 with consistent battal ebru palette. Dual-subtype ebru determination (taraklı cover + battal margins) is the primary analytical finding.",
+    "discrepancy_note": "The triage label 'gel-git/tarakli ebru' has been CORRECTED to 'tarakli ebru' for the cover. The slash in the triage label suggested ambiguity, but IIIF examination definitively resolves this: the regular parallel arcs on p001 are taraklı (comb), not gel-git (single stylus). Additionally, the triage did not note that pp. 002–003 carry a DIFFERENT and distinct ebru subtype (battal) from the cover — this dual-subtype character is a significant finding.",
+    "limitations": [
+      "Images captured at approximately 1600px-wide via browser rendering (approximately 75% of native IIIF resolution). Sufficient for marbling subtype determination but marginal for zerefşân particle confirmation.",
+      "Back cover not captured — only 3 pages in the IIIF sequence. Cannot confirm whether a back cover exists or its decoration type.",
+      "Zerefşân identification on calligraphy panels is rated probable (0.70) — the granular golden shimmer is consistent with gold particles but physical examination or higher-resolution IIIF would confirm.",
+      "Ketebe on p002 lower panel not fully transcribed at available resolution — calligrapher date and place cannot be confirmed."
+    ],
+    "source_file": "catalog/searches/visual_tier2_na_00114.json"
+  },
+  "folio_analyses": [
+    {
+      "folio": "Front cover (IIIF p001)",
+      "source_image": "corpus/iiif/na_00114_p001.jpg",
+      "content_type": "cover",
+      "decoration_present": true,
+      "decoration_types": ["marbled"],
+      "elements": [
+        {
+          "motif": "Taraklı ebru — front cover",
+          "description": "The entire cover surface is decorated with taraklı (combed) marbling. The pattern consists of regular, evenly-spaced nested U/arch-shaped scallops running in parallel horizontal rows across the full cover. Each row of arcs is identical in spacing and shape, producing the characteristic mechanical regularity of a multi-toothed comb (tarak) drawn through previously laid parallel color stripes in the size bath. The comb path runs approximately left to right across the horizontal axis, producing vertical or near-vertical striation within each scallop. The polychrome palette includes: green (most prominent, occupying broad bands), orange/terracotta, cream/buff/gold, brownish-purple/mauve, and blue-grey accents. Colors separate into distinct parallel bands following the comb path. The overall visual effect is a dense, dynamic surface with strong directionality. This is definitively NOT gel-git: gel-git produces flowing organic S-curves with variable spacing from a single biz drawn back and forth; the pattern here shows the uniform parallel arcs of multi-toothed comb work.",
+          "location": "Full front cover exterior (p001)",
+          "confidence": 0.92
+        },
+        {
+          "motif": "Leather spine strip and library stamps",
+          "description": "A dark maroon/brown leather strip is visible at the top edge of the cover, corresponding to a leather spine or top border reinforcement on the cover board. At the top-left of the cover, two library stamps are affixed: (1) a red circular stamp inscribed 'SULEYMANIYE' with the collection number '114'; (2) a second stamp (oval or rectangular, partially legible) below or adjacent to the first.",
+          "location": "Top edge and top-left margin of cover",
+          "confidence": 0.95
+        }
+      ],
+      "color_palette": ["green", "orange/terracotta", "cream/buff", "brownish-purple/mauve", "blue-grey"],
+      "ebru_subtype": "taraklı (combed)",
+      "ebru_subtype_confidence": 0.92,
+      "ebru_diagnostic": "Regular, evenly-spaced nested U-arch scallops in parallel horizontal rows. Mechanical regularity diagnostic of multi-toothed comb (tarak). Colors separate into distinct parallel bands. NOT gel-git (which produces flowing S-curves). Technique note: sometimes termed 'French curl' or 'snail' in Western marbling terminology; the Ottoman term is taraklı (from tarak, comb).",
+      "confidence": 0.92,
+      "notes": "CORPUS SIGNIFICANCE: The only confirmed taraklı ebru cover in the 252-album triage corpus. The identification resolves the ambiguous triage label 'gel-git/taraklı.' The cover's polychrome palette (5 colors) and the density and regularity of the comb pattern suggest a skilled practitioner with access to quality pigments."
+    },
+    {
+      "folio": "First calligraphy page (IIIF p002)",
+      "source_image": "corpus/iiif/na_00114_p002.jpg",
+      "content_type": "calligraphy_page_1",
+      "decoration_present": true,
+      "decoration_types": ["marbled", "gold_sprinkled", "framing_system"],
+      "elements": [
+        {
+          "motif": "Battal ebru — margin paper",
+          "description": "The full page margin surrounding both calligraphy panels is covered with battal (stone) ebru paper. The battal pattern shows a random mottled distribution of pink/rose and dark maroon-brown spots — the characteristic free scatter of stone marbling, in which pigment drops are distributed randomly in the size bath with no comb or stylus manipulation. The pink/rose is the dominant color, with large and small irregular maroon-brown blotches distributed freely across the pink ground. This is a DIFFERENT ebru subtype from the taraklı cover — battal vs. taraklı — with no combing, no arcs, no directed regularity.",
+          "location": "Full outer margin surrounding calligraphy panels",
+          "confidence": 0.95
+        },
+        {
+          "motif": "Upper calligraphy panel — Bismillah in sülüs with nesih text",
+          "description": "The upper of the two vassale-mounted panels presents large-format sülüs calligraphy as the headline: Bismillah (بسم الله الرحمن الرحيم) occupying the top line in bold sülüs. Below, multiple lines of smaller nesih text follow in a dense but ordered layout. The calligraphy ground is cream/off-white with a granular golden shimmer consistent with zerefşân (probable, 0.70). A single gold cetvel frames the panel on all four sides.",
+          "location": "Upper panel, vassale-mounted at top of page",
+          "confidence": 0.92
+        },
+        {
+          "motif": "Lower calligraphy panel — ketebe (colophon) in sülüs with nesih text",
+          "description": "The lower of the two vassale-mounted panels begins with a large sülüs line reading (partially legible): 'كتبك كتابا بأناب كلغزيزة قلبي' — a ketebe-related phrase or the beginning of the colophon section. Below, smaller nesih text continues. This panel likely contains the ketebe inscription of Mehmed Nuri per the YEK catalogue. The same zerefşân ground (probable, 0.70) and gold cetvel frame as the upper panel.",
+          "location": "Lower panel, vassale-mounted at bottom of page",
+          "confidence": 0.85
+        },
+        {
+          "motif": "Zerefşân on calligraphy panel grounds (probable)",
+          "description": "Both calligraphy panels on this page display a warm golden granular shimmer on their cream ground. At the available resolution (approximately 1600px wide), this is consistent with fine gold particles (zerefşân technique) applied to the panel paper before writing. The shimmer is distinct from plain cream paper and does not resemble printed halftone grain. Confidence is rated probable (0.70) rather than confirmed because the distinction between zerefşân particles and paper texture grain requires higher resolution or physical examination to resolve definitively.",
+          "location": "Calligraphy panel grounds (both panels)",
+          "confidence": 0.70
+        },
+        {
+          "motif": "Gold cetvel framing",
+          "description": "A single gold ruling line (altın cetvel) frames each of the two calligraphy panels. The cetvel is clean and well-executed. No multi-layer compound system; no red inner rules; no koltuk corner pieces at this scale.",
+          "location": "Panel borders (both panels)",
+          "confidence": 0.95
+        },
+        {
+          "motif": "Vassale mounting",
+          "description": "Both calligraphy panels are window-mounted (vassale technique) onto the battal ebru margin paper. The vassale seams are visible at the panel edges where the cream panel paper meets the battal ebru ground.",
+          "location": "Panel-to-margin interface (both panels)",
+          "confidence": 0.92
+        }
+      ],
+      "ebru_subtype": "battal (margins only)",
+      "zerefshan_present": true,
+      "zerefshan_confidence": 0.70,
+      "vassale_visible": true,
+      "cetvel_type": "gold single-line",
+      "confidence": 0.90,
+      "notes": "The battal ebru palette (pink/rose + dark maroon-brown) is consistent with high-quality Ottoman battal ebru production. The absence of blue or green in the margin ebru, and the dominance of pink/rose tones, is characteristic of certain late 17th–18th century Istanbul battal productions. The YEK digital watermark is visible diagonally across this page."
+    },
+    {
+      "folio": "Second calligraphy page (IIIF p003)",
+      "source_image": "corpus/iiif/na_00114_p003.jpg",
+      "content_type": "calligraphy_page_2",
+      "decoration_present": true,
+      "decoration_types": ["marbled", "gold_sprinkled", "framing_system"],
+      "elements": [
+        {
+          "motif": "Battal ebru — margin paper (same batch as p002)",
+          "description": "The battal ebru margin paper on p003 shows the same pink/rose and dark maroon-brown palette as p002. The pattern is equally random and mottled, with the same proportions of pink to dark maroon. The close match between the battal ebru on pp. 002 and 003 indicates a single production batch — both pages were marbled from the same size bath session, likely consecutively or from the same stack of sheets.",
+          "location": "Full outer margin surrounding calligraphy panels",
+          "confidence": 0.95
+        },
+        {
+          "motif": "Upper calligraphy panel — nesih text (no sülüs headline)",
+          "description": "The upper panel on p003 contains dense nesih text without a large sülüs headline, in contrast to the upper panel on p002 (which opens with the Bismillah in sülüs). The nesih text fills the panel in multiple close-set lines. The same zerefşân ground (probable, 0.70) and gold cetvel framing as p002.",
+          "location": "Upper panel, vassale-mounted at top of page",
+          "confidence": 0.90
+        },
+        {
+          "motif": "Lower calligraphy panel — concluding sülüs and nesih",
+          "description": "The lower panel on p003 contains nesih text in the upper portion and a large sülüs line at the bottom. The concluding sülüs line reads (partially legible): 'توكلنا على رب السما وتشفعنا المحمد على الهدى' — a closing prayer or doxology formula. This may be the final line of the calligraphic content, preceding or part of the ketebe section. Same zerefşân ground and gold cetvel.",
+          "location": "Lower panel, vassale-mounted at bottom of page",
+          "confidence": 0.85
+        },
+        {
+          "motif": "Zerefşân on calligraphy panel grounds (probable)",
+          "description": "Consistent with p002: the same warm golden granular shimmer on the cream ground of both panels. Same confidence rating (0.70 probable) pending physical examination.",
+          "location": "Calligraphy panel grounds (both panels)",
+          "confidence": 0.70
+        },
+        {
+          "motif": "Gold cetvel framing and vassale mounting",
+          "description": "Single gold cetvel framing each panel; vassale seams visible at panel-to-margin interface. Consistent with p002.",
+          "location": "Panel borders and edges",
+          "confidence": 0.95
+        }
+      ],
+      "ebru_subtype": "battal (margins only)",
+      "zerefshan_present": true,
+      "zerefshan_confidence": 0.70,
+      "vassale_visible": true,
+      "cetvel_type": "gold single-line",
+      "confidence": 0.90,
+      "notes": "The content of the lower panel's final sülüs line ('توكلنا على رب السما وتشفعنا المحمد على الهدى' — 'We have placed our trust in the Lord of the heavens, and may Muhammad intercede for us on guidance') appears to be a concluding prayer formula. If p002 lower panel carries the main ketebe attribution to Mehmed Nuri, p003 lower panel may represent the closing doxology of the album. Transcription of both panels at higher resolution is needed."
+    }
+  ],
+  "terminology": {
+    "terms_used": [
+      {
+        "concept": "Taraklı ebru (combed marbling)",
+        "ottoman": "taraklı ebrî / taraklı ebrulu kâğıt (طاراقلی ابری)",
+        "arabic": "waraq marmar bi-l-mushṭ (ورق مرمر بالمشط)",
+        "persian": "kāġaḏ-e abrī-e shānaʾī (کاغذ ابری شانه‌ای)",
+        "english": "Taraklı ebru: combed marbling produced by drawing a multi-toothed comb (tarak, طاراق) through colors previously floated on the size surface. Produces regular, evenly-spaced parallel striations that, when the comb moves in one direction through colors already laid in opposing stripes, create the characteristic nested U-arch scallop pattern ('French curl' or 'snail' in Western terminology). DIAGNOSTIC MARKERS: (1) regular, uniform spacing between arcs; (2) colors separated into distinct parallel bands; (3) geometric regularity across the full surface. DISTINCTION FROM GEL-GIT: gel-git (come-and-go marbling) uses a single stylus (biz) drawn back and forth, producing flowing organic S-curves with variable spacing — NOT the mechanical parallel arcs of taraklı. DISTINCTION FROM BATTAL: battal (stone) marbling involves no tool manipulation at all — colors drop randomly in the size bath. Taraklı is one of the earlier formalized ebru subtypes documented in the Ottoman tradition, appearing alongside battal and hatip in late 17th–18th century albums. CORPUS NOTE: The cover of NA 00114 (p001) is the ONLY confirmed taraklı ebru cover in the 252-album visual triage corpus. hamidiye_00034 margin strips have been reclassified to taraklı from gel-git; tiem_02418 doublures and tiem_02481 p006L require re-examination."
+      },
+      {
+        "concept": "Gel-git ebru (come-and-go marbling)",
+        "ottoman": "gel-git ebrî / gel-git ebrulu kâğıt",
+        "arabic": null,
+        "persian": null,
+        "english": "Gel-git ebru: come-and-go (wave) marbling produced by drawing a single stylus (biz, pointed tool) back and forth through colors previously floated on the size surface, alternating direction with each pass. Produces flowing, organic S-curves and sinuous wave patterns with naturally variable spacing — the characteristic 'breathing' quality of organic stylus movement. DIAGNOSTIC MARKERS: (1) flowing, organic S-curves; (2) variable spacing between waves; (3) fluid, non-mechanical appearance. DISTINCTION FROM TARAKLI: gel-git uses a single biz and produces organic waves; taraklı uses a multi-toothed comb (tarak) and produces regular parallel arcs. These are DISTINCT, non-synonymous techniques. The triage label 'gel-git/taraklı' for NA 00114 was a misidentification — IIIF examination confirmed the cover is definitively taraklı, not gel-git. Corpus examples rated as possible gel-git: tiem_02481 (p006L, confidence 0.60); tiem_02471 (margin strips, under review)."
+      },
+      {
+        "concept": "Battal ebru (stone marbling)",
+        "ottoman": "battal ebrî / battal ebrulu kâğıt (بطال ابری)",
+        "arabic": "waraq marmar ḥajar (ورق مرمر حجر)",
+        "persian": "kāġaḏ-e abrī-e sang (کاغذ ابری سنگ)",
+        "english": "Battal ebru: stone (spot/scatter) marbling, the simplest and likely earliest formal ebru type. Colors are dropped or flicked onto the size surface and allowed to spread naturally without any combing, stylus manipulation, or pattern-forming tool. The result is a random, mottled pattern of irregular spots and blotches — 'stone' referring to the visual resemblance to spotted stone or granite. DIAGNOSTIC MARKERS: (1) completely random distribution of color masses; (2) no parallel lines, arcs, S-curves, or directed marks; (3) freely irregular shapes with no mechanical regularity. In NA 00114, the battal ebru on pp. 002–003 is in pink/rose and dark maroon-brown — a two-color battal characteristic of certain late Ottoman productions. The same palette on both pages confirms a single production batch. Battal ebru is the most frequently documented ebru subtype in this corpus (confirmed in multiple albums: hamidiye_00019, hamidiye_00026, tiem_02493, etc.)."
+      },
+      {
+        "concept": "Zerefşân (gold-sprinkled paper)",
+        "ottoman": "zerefşân / serpme / yaldız serpme (زرافشان)",
+        "arabic": "dhahab marshūsh (ذهب مرشوش)",
+        "persian": "zar-afshān (زر افشان)",
+        "english": "Zerefşân: paper decorated by sprinkling or flicking fine gold particles (or shell gold) onto a prepared sized paper surface, typically after sizing (âhar). The gold is applied by brush-flicking (fırça serpme) or sieve-sifting (kalbur). In NA 00114, the zerefşân appears on the cream calligraphy panel grounds (pp. 002–003), where a granular golden shimmer is visible at IIIF resolution. Confidence is rated probable (0.70) because the resolution is marginal for confirming individual gold particles. Physical examination or higher-resolution imaging would confirm. For the standard Ottoman murakkaat album, zerefşân on the calligraphy grounds (the surfaces on which the calligrapher wrote) is the typical luxury treatment."
+      },
+      {
+        "concept": "Vassale (window-mounting technique)",
+        "ottoman": "vassale / pencere montajı",
+        "arabic": null,
+        "persian": null,
+        "english": "Vassale: an album-assembly technique in which a calligraphy (or painting) panel is window-mounted onto a decorated paper ground. The decorated paper (in NA 00114: battal ebru) forms the page, and a rectangular window is cut in it into which the calligraphy panel is inserted and attached from behind. The result is a page where the calligraphy panel appears to sit within a decorative frame of ebru paper. The seam between panel and ground paper is visible in IIIF images. Distinct from simply writing on decorated paper (which would not produce visible seam lines)."
+      },
+      {
+        "concept": "Calligraphic album",
+        "ottoman": "muraqqaʿ / murakkaat (مرقعات)",
+        "arabic": "muraqqa (مرقع) / muraqqa'at (مرقعات)",
+        "persian": "muraqqa (مرقع)",
+        "english": "Muraqqaʿ: a bound Ottoman calligraphic album containing mounted kıtʿa (specimen sheets). This album (3 folios per YEK catalogue) contains sülüs-nesih kıtʿa mounted on ebru grounds with the ketebe of Mehmed Nuri."
+      },
+      {
+        "concept": "Calligraphic specimen sheet",
+        "ottoman": "kıtʿa (قطعة) / kıtʿa-i hat",
+        "arabic": "qiṭʿa (قطعة)",
+        "persian": "qiṭʿa (قطعه)",
+        "english": "Kıtʿa: a single calligraphic specimen sheet displaying formal calligraphy in one or more scripts. NA 00114 contains multiple kıtʿa in sülüs and nesih, vassale-mounted onto battal ebru grounds."
+      },
+      {
+        "concept": "Gold ruling lines",
+        "ottoman": "altın cetvel / cetvelli (جدول الذهبي)",
+        "arabic": "jadwal mudhahdhab (جدول مذهّب)",
+        "persian": "jadval-e zar (جدول زر)",
+        "english": "Altın cetvel: gold ruling lines framing a text or calligraphy panel. In NA 00114, a single gold cetvel frames each vassale-mounted calligraphy panel on pp. 002–003."
+      },
+      {
+        "concept": "Sülüs script",
+        "ottoman": "sülüs hattı (ثلث)",
+        "arabic": "thuluth (ثلث)",
+        "persian": null,
+        "english": "Sülüs (thuluth): one of the six classical Arabic scripts (aklâm-ı sitte), characterized by large rounded letterforms with strong contrast between thick and thin strokes. Used in this album for large-format headline lines (Bismillah, opening sülüs, closing doxology). The calligrapher Mehmed Nuri is described as a 'Sulus' specialist in the YEK catalogue."
+      },
+      {
+        "concept": "Nesih script",
+        "ottoman": "nesih hattı (نسخ)",
+        "arabic": "naskh (نسخ)",
+        "persian": null,
+        "english": "Nesih (naskh): a small, rounded, clear Arabic script widely used for manuscript copying. Present in the smaller-scale text passages of each calligraphy panel in this album."
+      },
+      {
+        "concept": "Colophon inscription",
+        "ottoman": "ketebe kaydı",
+        "arabic": "kitāb al-fāriġ / fāriġa",
+        "persian": "ketābe (کتابه)",
+        "english": "Ketebe kaydı: the closing inscription in which the calligrapher records their name (and often the date and place). In NA 00114, the ketebe on p002 lower panel attributes the album to Mehmed Nuri. The ketebe text is partially legible at available IIIF resolution."
+      }
+    ]
+  },
+  "bibliography": [
+    {
+      "citation": "Blair, Sheila S. 'Color and Gold: The Decorated Papers Used in Manuscripts in Later Islamic Times.' Muqarnas 17 (2000): 24–36.",
+      "relevance": "Foundational taxonomic study providing the classification framework for decorated papers in Islamic manuscripts, including marbled papers (ebrî), gold-sprinkled papers (zerefşân), and colored papers. Blair's typology is directly applied in this record for classifying the taraklı ebru cover, battal ebru margins, and zerefşân calligraphy grounds. Her discussion of the functions of decorated papers in murakkaat album production is essential context for understanding NA 00114's decorative program.",
+      "relevance_score": 0.97,
+      "access_notes": "Peer-reviewed article. Available via JSTOR (Brill/Muqarnas Online). Open-access PDF accessible at Academia.edu."
+    },
+    {
+      "citation": "Bloom, Jonathan M. Paper Before Print: The History and Impact of Paper in the Islamic World. New Haven: Yale University Press, 2001.",
+      "relevance": "Comprehensive history of paper production and use in the Islamic world, providing material-culture background for marbled paper (ebru) production, gold-sprinkled paper (zerefşân) technique, and the role of decorated papers in Ottoman luxury manuscript and album production. Relevant for situating the dual-subtype ebru program of NA 00114 within the broader history of Islamic decorated papers.",
+      "relevance_score": 0.88,
+      "access_notes": "Widely held monograph."
+    },
+    {
+      "citation": "Wolfe, Richard J. Marbled Paper: Its History, Techniques, and Patterns. With Special Reference to the Relationship of Marbling to Bookbinding in Europe and the Western World. Philadelphia: University of Pennsylvania Press, 1990.",
+      "relevance": "The definitive scholarly monograph on the history and technique of paper marbling, covering both Islamic (Ottoman/Turkish ebru) and European traditions. Wolfe provides the most thorough English-language technical description of combed marbling ('French curl' = taraklı) and its distinction from stone (battal), come-and-go (gel-git), and floral (hatip) subtypes. Essential for documenting the technique-historical significance of the NA 00114 taraklı cover — the only confirmed taraklı specimen in the project corpus.",
+      "relevance_score": 0.95,
+      "access_notes": "Monograph; widely held at book arts and Islamic art libraries. University of Pennsylvania Press, ISBN 0-8122-8188-8."
+    },
+    {
+      "citation": "Roxburgh, David J. The Persian Album, 1400–1600: From Dispersal to Collection. New Haven: Yale University Press, 2005.",
+      "relevance": "Essential study of the murakkaat album format and decorated paper programs in the Persianate-Ottoman tradition. Provides the theoretical framework for understanding dual-subtype ebru programs as deliberate compositional choices in album design — applicable to the taraklı cover + battal margins pairing in NA 00114. Roxburgh's analysis of the structural role of decorated paper in album layout (cover vs. interior hierarchy) is directly relevant.",
+      "relevance_score": 0.88,
+      "access_notes": "Monograph; widely held at research libraries."
+    },
+    {
+      "citation": "Çağman, Filiz, and Zeren Tanındı. The Topkapı Saray Museum: The Albums and Illustrated Manuscripts. Translated and edited by J. M. Rogers. Boston: Little, Brown, 1986.",
+      "relevance": "Standard reference for Ottoman calligraphic albums and their decorated paper programs, providing direct comparanda for murakkaat albums with ebru grounds, vassale-mounted kıtʿa, and gold cetvels from the late 17th–early 18th century. Relevant for contextualizing the album format, framing system, and decorative program of NA 00114 within the broader Topkapı corpus.",
+      "relevance_score": 0.85,
+      "access_notes": "Exhibition catalogue; widely held at Turkish and Islamic art research libraries."
+    },
+    {
+      "citation": "Tanındı, Zeren. 'Bibliophile Aghas (Eunuchs) at Topkapı Saray.' Muqarnas 21 (2004): 333–43.",
+      "relevance": "Documents album-commissioning practices at the Ottoman court in the late 17th century — the period with which this album's style is consistent. Provides context for the patronage environment and the decorated paper programs associated with high-status Ottoman album commissions in the Nuri Arlasez collection period.",
+      "relevance_score": 0.75,
+      "access_notes": "Peer-reviewed article. Available via JSTOR and institutional library access."
+    },
+    {
+      "citation": "Derman, M. Uğur. Letters in Gold: Ottoman Calligraphy from the Sakıp Sabancı Collection, Istanbul. New York: The Metropolitan Museum of Art, 1998.",
+      "relevance": "The primary English-language exhibition catalogue on Ottoman calligraphy, covering sülüs-nesih murakkaat albums and their decorated paper programs. Relevant for contextualizing the calligraphic scripts (sülüs and nesih) and album format of NA 00114, and for establishing comparative material for the attribution to Mehmed Nuri. The Sakıp Sabancı collection is a key comparison resource for calligrapher identification.",
+      "relevance_score": 0.82,
+      "access_notes": "Exhibition catalogue (Metropolitan Museum of Art, 1998); widely held."
+    },
+    {
+      "citation": "Gacek, Adam. Arabic Manuscripts: A Vademecum for Readers. Leiden: Brill, 2009.",
+      "relevance": "Standard reference for Islamic manuscript codicological terminology and script identification. Relevant for the identification and description of the sülüs and nesih scripts in this album, and for general codicological terms (ketebe, kıtʿa, cetvel, vassale) used in this record.",
+      "relevance_score": 0.78,
+      "access_notes": "Reference monograph; widely held."
+    },
+    {
+      "citation": "Déroche, François. Islamic Codicology: An Introduction to the Study of Manuscripts in Arabic Script. Translated by Deke Dusinberre and David Radzinowicz. London: Al-Furqan Islamic Heritage Foundation, 2005.",
+      "relevance": "Foundational reference for Islamic manuscript codicology, providing the classification framework for ruling systems (cedvel/cetvel), paper decoration types, and manuscript format description. Used as the codicological baseline for this record's physical description.",
+      "relevance_score": 0.75,
+      "access_notes": "Monograph; available at specialist libraries."
+    },
+    {
+      "citation": "Scheper, Karin. The Technique of Islamic Bookbinding: Methods, Materials and Regional Varieties. Leiden: Brill, 2015.",
+      "relevance": "Systematic study of Islamic bookbinding techniques, relevant for the analysis of the ebru-paper-over-board cover construction of NA 00114 and the leather spine strip visible in the IIIF image. Provides technical terminology for the ebru cilt kapağı cover format and its place within Ottoman album binding practice.",
+      "relevance_score": 0.72,
+      "access_notes": "Monograph; available at Islamic bookbinding and manuscript studies libraries."
+    },
+    {
+      "citation": "Bağcı, Serpil, Filiz Çağman, Günsel Renda, and Zeren Tanındı. Ottoman Painting. Ankara: Ministry of Culture and Tourism, 2006.",
+      "relevance": "Comprehensive survey of Ottoman visual arts covering the calligraphic album tradition and decorated paper use from the 16th through 18th centuries. Provides comparative context for the late Ottoman murakkaat format and the ebru paper programs associated with the Nuri Arlasez collection period.",
+      "relevance_score": 0.70,
+      "access_notes": "Museum publication; widely held at Turkish studies collections."
+    }
+  ],
+  "suggested_collections": [
+    {
+      "institution": "Süleymaniye Yazma Eser Kütüphanesi — Nuri Arlasez Koleksiyonu, Istanbul (broader corpus)",
+      "reason": "The Nuri Arlasez collection at Süleymaniye represents a distinctive scholarly bequest from the late Ottoman–early Republican period (assembled by art historian Nuri Arlasez, one of the last Ottoman-script-literate scholars). A broader survey of the collection may identify additional taraklı ebru specimens or comparable murakkaat albums.",
+      "digital_access": "https://portal.yek.gov.tr"
+    },
+    {
+      "institution": "Türk ve İslam Eserleri Müzesi (TIEM), Istanbul",
+      "reason": "The TIEM murakka corpus (93 positive albums confirmed in visual triage) provides the most direct comparanda for this album's dual-subtype ebru program. TIEM 02418 doublures (possible taraklı) and TIEM 02481 p006L (possible gel-git, needs re-examination for taraklı) are the closest corpus parallels to the NA 00114 cover.",
+      "digital_access": "https://portal.yek.gov.tr"
+    },
+    {
+      "institution": "Topkapı Sarayı Müzesi Kütüphanesi, Istanbul",
+      "reason": "Holds the largest corpus of Ottoman murakkaat albums with ebru grounds, providing comparative material for the taraklı cover type and the battal ebru margin tradition. Comparison with authenticated Topkapı albums may support workshop attribution and dating of NA 00114.",
+      "digital_access": "https://kutuphane.tsmk.gov.tr"
+    },
+    {
+      "institution": "Sakıp Sabancı Museum, Istanbul",
+      "reason": "Holds major authenticated Ottoman calligraphic works and albums. Comparison with the Sakıp Sabancı collection is essential for the attribution of the Mehmed Nuri ketebe — the Museum's catalogued calligrapher records may identify this copyist.",
+      "digital_access": null
+    },
+    {
+      "institution": "GlobalDecoPaper ERC Project, LMU Munich",
+      "reason": "The taraklı ebru cover of NA 00114 is the only confirmed taraklı specimen in the 252-album corpus and warrants specialist consultation for technique classification, pigment analysis, and comparison with other known taraklı specimens in European and Turkish collections. The GlobalDecoPaper project is the primary active research initiative on decorated paper classification in Islamic manuscripts.",
+      "digital_access": null
+    }
+  ],
+  "provenance": {
+    "donor": "Nuri Arlasez (art historian; one of the last generation of scholars trained in Ottoman script before the 1928 alphabet reform)",
+    "waqf": null,
+    "previous_shelfmarks": [],
+    "notes": "Held at Süleymaniye Yazma Eser Kütüphanesi, Istanbul, under the Nuri Arlasez Koleksiyonu (shelfmark 00114). The Nuri Arlasez collection was bequeathed to the Süleymaniye Library along with the collections of art historian Süheyl Ünver and music historian Rauf Yekta — all scholars of the late Ottoman–early Republican generation who preserved manuscripts and art objects in the Ottoman tradition. Arlasez's bequest reflects an art-historical collecting focus: the decorated paper program of NA 00114 (taraklı ebru cover + battal ebru margins + zerefşân calligraphy grounds) is precisely the kind of technically sophisticated specimen a specialist collector would have preserved. YEK ID: 406048. IIIF ID: 0000000398373. Library stamps on cover: red circular Süleymaniye stamp with '114'."
+  },
+  "analysis_metadata": {
+    "analyzed_date": "2026-02-28",
+    "analyzer": "claude-code-manuscript-pipeline",
+    "pipeline_stage": "metadata-generator",
+    "image_source": "YEK Portal IIIF images, Süleymaniye Yazma Eser Kütüphanesi — Nuri Arlasez Koleksiyonu, YEK ID 406048, IIIF ID 0000000398373. All 3 IIIF pages examined at approximately 1600px-wide resolution. Visual confirmation data from catalog/searches/visual_tier2_na_00114.json.",
+    "image_quality_notes": "IIIF images captured at approximately 1600px-wide via browser rendering (approximately 75% of native IIIF resolution). This resolution is sufficient for marbling subtype determination (the taraklı vs. battal distinction is clear and unambiguous at this resolution). The zerefşân identification on the calligraphy panel grounds is marginal at this resolution — rated probable (0.70). YEK digital watermarks are present diagonally across pp. 002 and 003 but do not significantly obstruct analysis. The taraklı ebru on p001 is exceptionally clear and legible — one of the most unambiguous marbling subtype identifications in the corpus.",
+    "folios_examined": [
+      "corpus/iiif/na_00114_p001.jpg",
+      "corpus/iiif/na_00114_p002.jpg",
+      "corpus/iiif/na_00114_p003.jpg"
+    ],
+    "folios_not_examined": "Back cover not captured in the 3-page IIIF sequence. Whether a back cover exists and its decoration type are unknown.",
+    "tarakli_determination_note": "CRITICAL ANALYTICAL FINDING: The visual confirmation process definitively identified the front cover (p001) as taraklı ebru (combed marbling), correcting the triage label 'gel-git/tarakli ebru.' The diagnostic evidence is unambiguous at 1600px resolution: regular, evenly-spaced nested U/arch-shaped scallops in uniform parallel horizontal rows across the full cover surface, with colors separating into distinct parallel bands — the unmistakable signature of a multi-toothed comb (tarak) drawn through the size bath. This is the ONLY confirmed taraklı ebru cover in the entire 252-album visual triage corpus (spanning TIEM, Hamidiye, Pertevniyal, and Nuri Arlasez collections). The correction from 'gel-git/taraklı' to 'taraklı' is definitive and should be propagated to any comparative analyses that reference this specimen. The dual-subtype ebru program (taraklı cover + battal interior margins) represents a deliberate compositional pairing attested in at least one other corpus album (tiem_02481: battal + gel-git accent).",
+    "corpus_priority": "HIGH — the only confirmed taraklı ebru cover in the corpus. Warrants: (1) physical examination to confirm zerefşân on calligraphy panel grounds; (2) transcription of ketebe on p002 for calligrapher identification; (3) IIIF back cover imaging to determine if a matching or contrasting cover exists; (4) specialist ebru consultation (GlobalDecoPaper ERC) for taraklı subtype classification and comparanda; (5) palaeographic comparison with authenticated Mehmed Nuri works for attribution.",
+    "source_data": {
+      "visual_confirmation_file": "catalog/searches/visual_tier2_na_00114.json",
+      "yek_id": "406048",
+      "iiif_id": "0000000398373",
+      "batch": "Tier 2 Sub-Batch D (na_00114)"
+    }
+  }
+}

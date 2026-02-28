@@ -1,0 +1,577 @@
+{
+  "record_id": "hamidiye_00019",
+  "collection": {
+    "institution": "Süleymaniye Kütüphanesi — Hamidiye Koleksiyonu",
+    "city": "Istanbul",
+    "country": "Turkey",
+    "shelfmark": "00019",
+    "yek_url": "https://portal.yek.gov.tr/works/detail/265194"
+  },
+  "manuscript": {
+    "title": "Muraqqaʿ / مرقع",
+    "title_script": "مرقع",
+    "title_alt": "Hamidiye Muraqqaʿı",
+    "author": null,
+    "author_dates": null,
+    "calligrapher": "Unknown — ketebe on p006 reads 'kataba-hu al-faqīr...' (attribution incomplete; full transcription requires physical examination)",
+    "calligrapher_dates": null,
+    "calligrapher_note": "P006 carries a ketebe (scribe's colophon) at the bottom of the nesih text block, beginning 'kataba-hu al-faqīr...' ('the poor one wrote it...'). The use of the humility formula 'al-faqīr' is standard in Ottoman and Arab calligraphic colophons. At IIIF resolution (2560×1920 px), the remaining text of the ketebe is not fully legible. Physical examination or higher-resolution imaging is required for complete transcription and scribe identification.",
+    "date_ah": null,
+    "date_ce": null,
+    "date_note": "Undated. No date is recorded in the YEK catalogue entry. The sulus-nesih hadith album format, the multi-palette battal ebru margin program, the compound cedvel system (4-band: gold + sage-green + gold + dark brown), and the vassale calligraphy mounting technique are all consistent with Ottoman Istanbul production of the 17th–18th century. The ketebe on p006 is the primary hope for firm dating; transcription required.",
+    "place_of_copy": null,
+    "format": "Muraqqaʿ / مرقع — Ottoman calligraphic album with polychrome multi-palette battal ebru cover and margin papers, vassale window-mounting, and compound cedvel framing",
+    "format_note": "A bound Ottoman calligraphic album (muraqqaʿ) of 4 folios (6 pages including front cover and endpaper) containing 4 kıtʿa (calligraphic specimen sheets) in Arabic sülüs and nesih scripts. The album's most distinctive feature is its multi-palette battal ebru programme: the front cover uses a vivid polychrome battal ebru (dominant crimson-red, dark green/teal, golden-yellow, cream), while the 4 calligraphy pages (pp003–006) each use a different battal ebru palette as the outer margin ground — creating at least 3 distinct chromatic variants within a single album. Each calligraphy panel is vassale-mounted (window-cut) into the larger ebru-margin sheet and surrounded by a 4-band compound cedvel. The inner border zone between the cedvel and the calligraphy panel shows lighter battal ebru strips, creating a two-zone marbling effect. Gold rosette medallions (pp004–006) punctuate the lower-left corner of each calligraphy panel. Content: 4 hadith kıtʿa in sülüs header + nesih body format.",
+    "language": "Arabic",
+    "script": "Sülüs (ثلث) — large header lines; Nesih (نسخ) — body text lines. Per YEK catalogue: 'Arap harfli — Muhtelif'",
+    "dimensions_mm": {
+      "height": 270,
+      "width": 195,
+      "writing_area_mm": {
+        "height": 180,
+        "width": 110
+      },
+      "note": "Outer dimensions 270×195 mm; text area 180×110 mm per YEK catalogue (4 yk., 5 st., 270x195-180x110 mm)"
+    },
+    "folio_count": 4,
+    "yek_id": "265194",
+    "iiif_id": "0000000289495",
+    "notes": "A formally unified calligraphic album distinguished by the deliberate deployment of at least 3 distinct battal ebru palettes across its 5 decorated surfaces (1 cover + 4 margin fields). This palette variation — warm crimson on the cover, warm pink-red on pp003–004, cool teal-blue on p005, and balanced polychrome on p006 — is a conscious aesthetic programme similar to the two-scheme marbling documented in tiem_02481 and the 3–4 palette system of tiem_02493, but confined here to a smaller, more intimate 4-folio format. A secondary marbling layer of lighter battal ebru is used as the inner border strips between the compound cedvel and the calligraphy panels, adding a two-zone marbling depth that is less common than single-field ebru grounds. The gold rosette medallions at the lower-left of each calligraphy panel (pp004–006) are standard murakka decorative elements. The ketebe on p006 is the outstanding unresolved question: full transcription would provide scribe attribution and potentially a date, significantly advancing the interpretation of this album."
+  },
+  "paper_decoration": {
+    "types": [
+      "marbled",
+      "framing_system"
+    ],
+    "summary": "Hamidiye 00019 exhibits a polychrome battal ebru programme of notable deliberateness: across 5 decorated surfaces (the front cover and the 4 calligraphy-page outer margins), at least 3 distinct battal ebru palette variants are deployed in sequence. (1) Cover (p001): vivid polychrome battal ebru on a cream ground, dominated by swirling crimson-red pigment with dark green/teal, golden-yellow, and cream areas; the marbling pattern is irregular stone-spot (battal) with some elongated swirl forms suggesting early gel-git influence at the edges. A gold-brown wooden border frame surrounds the ebru field. A scalloped cartouche label reads 'Hamidiye' in the upper-left. (2) Calligraphy pages pp003–004: outer margin battal ebru in a warm pink-red palette (pink/red, green-teal globules, yellow, cream), with characteristic teal circular blob motifs scattered across the warm ground — a cooler accent to the warm dominant. (3) Calligraphy page p005: outer margin battal ebru in a cool teal/blue-green dominant palette, with red/pink accents and cream — a palette reversal relative to pp003–004. (4) Calligraphy page p006: outer margin battal ebru in a balanced polychrome (large sweeping forms in blue-green, red/crimson, golden-yellow, olive-green, cream); inner border strips on this page show particularly vivid multi-color feather-like forms, making this the most coloristically complex calligraphy page. In addition to the outer margin ebru, all 4 calligraphy pages (pp003–006) show narrow inner border strips of lighter battal ebru between the compound cedvel and the calligraphy panel — a two-zone marbling effect with lighter inner and more vivid outer fields. The framing system consists of a 4-band compound cedvel on all calligraphy pages: gold inner ruling line / sage-green band (~3–4mm) / gold ruling line / dark brown-black outer ruling line. Calligraphy panels are vassale-mounted (window-cut) into the larger ebru sheets. Gold rosette medallions at the lower-left corner of the calligraphy panels on pp004–006. No zerefşân, halkar, or mulevven detected.",
+    "distribution_notes": "Battal ebru cover: p001 (full cover surface). Plain cream endpaper: p002 (no paper decoration). Battal ebru outer margins + lighter inner border strips + vassale panel + compound cedvel: pp003–006 (all 4 calligraphy pages). Gold rosette medallions: pp004–006 lower-left corner of calligraphy panel. Palette variant 1 (warm crimson): p001. Palette variant 2 (warm pink-red): pp003–004. Palette variant 3 (cool teal/blue-green): p005. Palette variant 4 (balanced polychrome): p006.",
+    "technique_terms": {
+      "ottoman": "battal ebru (بطال ابرو) — kayalıklı/noktalı desen; çok renkli battal ebru; yan kağıtları ebrulu; vassale yöntemi; bileşik cedvel (altın + çam yeşili + altın + koyu kahve); altın gül madalyon (köşe süsü)",
+      "persian": "kāġaz-e abrī (کاغذ ابری) — marbled paper; vassāla — window-mounting technique; jadval-e murakkab (جدول مرکب) — compound ruling frame",
+      "arabic": "waraq abrī (ورق ابری) — marbled paper; vassāla — mounting technique; jadwal murakkab (جدول مركب) — compound ruling frame; waradat dhahabiyya (وردات ذهبية) — gold rosette medallions"
+    },
+    "catalogue_description": {
+      "paper_field": "Battal Ebrulu",
+      "paper_field_normalized": "Battal ebrulu kâğıt",
+      "paper_field_translation": "Battal (stone/spot) marbled paper",
+      "notes_field": "4 yk., 5 st., 270x195-180x110 mm, Arap harfli-Muhtelif",
+      "notes_field_normalized": "4 yk., 5 st., 270x195-180x110 mm, Arap harfli-Muhtelif",
+      "notes_field_translation": "4 leaves, 5 lines, 270×195–180×110 mm, Arabic-script, various [hands/scripts]",
+      "decoration_field": null,
+      "source": "YEK portal, Hamidiye Koleksiyonu, record 265194, Süleymaniye Kütüphanesi. IIIF ID 0000000289495. All paper decoration observations derive from visual examination of IIIF images (2560×1920 px per page). Supplementary data from visual_tier2_hamidiye_00019.json."
+    }
+  },
+  "workshop_attribution": {
+    "primary_tradition": "ottoman",
+    "workshop_centre": "Istanbul",
+    "date_range_ce": "17th–18th century (c. 1650–1750, undated)",
+    "confidence": 0.75,
+    "key_indicators": [
+      "The sülüs-nesih hadith kıtʿa format — large sülüs header + nesih body lines — is the standard composition for Ottoman Istanbul calligraphic albums from the mid-17th century onward",
+      "Multi-palette battal ebru margin papers within a single album are documented in Istanbul-produced murakkaat of the late 17th–early 18th century (cf. tiem_02493, tiem_02481, yazma_bagislar_09315 in this corpus)",
+      "The 4-band compound cedvel (gold + sage-green + gold + dark brown-black) is a framing type consistently associated with Istanbul luxury album production and is closely paralleled in hamidiye_00010 and tiem_02471",
+      "Vassale window-mounting with lighter inner ebru border strips is a sophisticated Istanbul-workshop technique requiring controlled paper preparation",
+      "The gold rosette medallions at the lower-left of calligraphy panels are standard features of Istanbul murakka albums throughout the 17th–18th century"
+    ],
+    "cross_tradition_caveats": [
+      "No date or explicit place of production recorded in the catalogue or visible in the digitized images; Istanbul attribution is inferential from format and technique",
+      "The ketebe on p006 is incompletely legible at IIIF resolution; full transcription may shift the attribution if the scribe's name and/or location can be read",
+      "Battal ebru paper was produced in Istanbul but also in provincial Ottoman centres; the paper itself cannot confirm Istanbul origin without physical analysis",
+      "The absence of a waqf inscription on the endpaper (p002 carries only library stamps) means there is no donor chain to anchor provenance"
+    ]
+  },
+  "codicology": {
+    "paper": {
+      "color": "Four surface types: (1) polychrome battal ebru on cream ground — cover (p001); (2) plain cream/nohudi paper — endpaper (p002) and calligraphy panels (pp003–006); (3) warm pink-red battal ebru on cream ground — outer margins pp003–004; (4) cool teal-blue dominant battal ebru — outer margins p005; (5) balanced polychrome battal ebru — outer margins p006; (6) lighter mixed-color battal ebru — inner border strips pp003–006.",
+      "preparation": "The calligraphy panels are written on cream/nohudi âharlı (sized and burnished) paper, consistent with Ottoman luxury calligraphy paper. The battal ebru papers appear well-prepared, with clear pigment definition and no bleeding at IIIF resolution. The inner border strips suggest that the same ebru paper stock was used in two density variants (lighter strips vs. more vivid outer fields), or that a different batch of the same palette was used for the inner zone.",
+      "weight": "Indeterminate from IIIF images. Standard Ottoman album-weight paper expected for both the calligraphy panels and the ebru sheets.",
+      "decoration": "Battal ebru as outer margin paper and inner border strips on all 4 calligraphy pages; battal ebru as full cover paper on p001. Compound 4-band cedvel framing each calligraphy panel. Gold rosette medallions at lower-left corner of calligraphy panels (pp004–006). Vassale window-mounting throughout.",
+      "paper_type": "Eastern/Oriental paper for calligraphy panels; polychrome battal ebru on cream ground for margins, inner strips, and cover."
+    },
+    "ruling": {
+      "system": "4-band compound altın cedvel (compound gold ruling frame) surrounding each vassale-mounted calligraphy panel on all 4 calligraphy pages (pp003–006). Direction: inside to outside.",
+      "description": "From the calligraphy panel outward: (1) thin gold ruling line immediately adjacent to the calligraphy panel edge; (2) sage-green filled band, approximately 3–4 mm wide — the distinctive chromatic accent of this album's framing system; (3) thin gold ruling line; (4) dark brown-black outer ruling line. This 4-band compound cedvel (gold / sage-green / gold / dark brown) is consistent across all 4 calligraphy pages, producing a coherent visual frame that mediates between the cream calligraphy panels and the vivid outer ebru margins. The sage-green band is closely paralleled in the framing systems of hamidiye_00010 (7+ band candy-stripe cedvel with sage-green component) and tiem_02471 (sage-green mulevven inner frame). Beyond the outer dark ruling line, the battal ebru outer margin paper fills the remainder of each page to the wooden-board binding frame. Between the compound cedvel and the calligraphy panel on each page, a narrow inner zone (approx. 5–8 mm visible at the panel's top and side edges) carries lighter battal ebru strips — a second marbling layer creating depth within the framing system."
+    },
+    "binding": {
+      "cover_description": "P001: the front cover (and presumed back cover, not visible in the 6-page digitization) is a wooden board covered with vivid polychrome battal ebru paper. The ebru completely covers the board surface. A thin gold-brown wooden frame border runs along all four edges of the board. At the upper-left of the cover, a scalloped cartouche label in cream/white paper carries the collection inscription 'Hamidiye' in Arabic naskh script. A red circular library stamp is affixed at the top-left corner, bearing the number '19'. The binding frame construction is consistent with a wooden-board Ottoman album binding without a leather covering — the ebru paper is applied directly to the board surface, producing a distinctive all-ebru exterior consistent with several albums in the Hamidiye collection.",
+      "cover_type": "Tahtalı cilt — wooden board binding covered with polychrome battal ebru paper; no leather exterior",
+      "notes": "The use of battal ebru paper directly on the wooden board — rather than as an endpaper or doublure beneath leather — is a specific album binding type found in several Hamidiye collection albums (cf. hamidiye_00010, hamidiye_00026). This practice integrates the decorative paper programme of the interior with the binding exterior, creating visual continuity between the cover and the calligraphy-page margins. The back cover is not available in the 6-page digitization; if the album follows the pattern of comparable albums, the back cover also bears battal ebru, possibly the same sheet or the same palette as p001."
+    },
+    "format": "Muraqqaʿ — Ottoman calligraphic album (4 folios / 6 digitized pages: 1 front cover + 1 endpaper + 4 calligraphy pages)",
+    "condition_summary": "The album appears generally well-preserved. The cover ebru (p001) is vivid and retains strong color saturation. The endpaper (p002) is clean with clear stamps and inscriptions. The 4 calligraphy pages (pp003–006) show good condition: the ebru margins are vibrant, the compound cedvels are clearly legible, and the calligraphy panels are legible at IIIF resolution. Some minor soiling and aging visible on pp003–004. No catastrophic damage, major repair campaigns, or missing leaves are visible in the digitized images. The wooden binding frame is intact on p001.",
+    "conservation_history": null
+  },
+  "visual_confirmation": {
+    "verdict": "confirmed",
+    "confidence": 0.97,
+    "screenshots_examined": 6,
+    "folios_examined": [
+      "corpus/iiif/hamidiye_00019_p001.jpg",
+      "corpus/iiif/hamidiye_00019_p002.jpg",
+      "corpus/iiif/hamidiye_00019_p003.jpg",
+      "corpus/iiif/hamidiye_00019_p004.jpg",
+      "corpus/iiif/hamidiye_00019_p005.jpg",
+      "corpus/iiif/hamidiye_00019_p006.jpg"
+    ],
+    "visual_evidence": "All 6 IIIF pages examined at native resolution (2560×1920 px). P001: spectacular polychrome battal ebru cover confirmed — vivid swirling crimson-red, dark green/teal, golden-yellow, cream pattern; gold-brown wooden border frame; scalloped cartouche label 'Hamidiye'; red '19' library stamp. P002: plain cream endpaper with Ottoman vakf tughra stamp, pyramid-arranged naskh vakf inscription, number stamp '19', and Süleymaniye Kütüphanesi label — no paper decoration. PP003–004: battal ebru outer margins in warm pink-red palette (distinctive teal circular globule motifs on warm ground), compound 4-band cedvel (gold/sage-green/gold/dark-brown), lighter inner border strips, vassale calligraphy panels, gold rosette medallion at lower-left. P005: cool teal/blue-green dominant battal ebru outer margins — palette contrast with pp003–004 is unmistakable at IIIF resolution; same cedvel system; lighter inner strips in cream-pink tones; gold rosette medallion. P006: balanced polychrome outer margins with large sweeping blue-green/red/yellow-green/cream forms; inner border zone shows particularly vivid multi-color feather-like ebru forms; ketebe visible at bottom of nesih block. The multi-palette battal ebru programme is visually confirmed across all 5 decorated surfaces.",
+    "limitations": [
+      "IIIF native resolution (2560×1920 px) is adequate for marbling palette confirmation and cedvel characterization, but insufficient to detect fine zerefşân if present on calligraphy panels",
+      "IIIF region-based cropping is not supported by this server; no higher-resolution detail crops of the cedvel bands or the ketebe were obtainable",
+      "Ketebe on p006 is only partially legible at 2560px resolution; scribe identification requires physical examination or higher-resolution imaging",
+      "Back cover/board is not digitized (only 6 pages: front cover + endpaper + 4 calligraphy pages); the decorative programme of the back cover is unknown",
+      "The lighter inner battal ebru border strips (pp003–006) are narrow (approx. 5–8 mm at scale); detailed characterization of this secondary marbling zone is resolution-limited"
+    ],
+    "source_agent": "visual-confirmation (catalog/searches/visual_tier2_hamidiye_00019.json) + metadata-generator (direct IIIF image examination)"
+  },
+  "folio_analyses": [
+    {
+      "folio": "Front cover (IIIF p001)",
+      "source_image": "corpus/iiif/hamidiye_00019_p001.jpg",
+      "decoration_present": true,
+      "decoration_types": ["marbled", "framing_system"],
+      "elements": [
+        {
+          "motif": "Polychrome battal ebru — front cover, full surface",
+          "description": "The entire front cover board surface is covered with a vivid polychrome battal ebru paper. The marbling pattern exhibits irregular stone-spot (battal) forms with some elongated swirl and feather components at the edges, suggesting a vigorous working of the marbling trough. Colors: dominant crimson-red in large flowing areas; dark green/teal in dense secondary areas and spots; golden-yellow in mid-sized patches; cream/white ground visible between pigment areas. The overall impression is high-contrast and kinetic, with a warm dominant relieved by the dark teal accents. A thin gold-brown wooden border frame runs along all four cover edges, separating the ebru field from the album's margin.",
+          "location": "Full front cover surface; wooden board with ebru paper applied directly",
+          "confidence": 0.99
+        },
+        {
+          "motif": "Scalloped cartouche label — 'Hamidiye'",
+          "description": "A white/cream paper cartouche with a scalloped outline, affixed to the upper-left quadrant of the cover. Bears the collection name 'Hamidiye' in Arabic naskh script in black ink. This is the standard Hamidiye collection label type.",
+          "location": "Upper-left quadrant of front cover",
+          "confidence": 0.99
+        },
+        {
+          "motif": "Red circular library stamp — '19'",
+          "description": "A circular red-ink library stamp affixed at the top-left corner of the cover. The central numeral '19' is the album's shelfmark number within the Hamidiye collection.",
+          "location": "Top-left corner of front cover",
+          "confidence": 0.99
+        }
+      ],
+      "confidence": 0.99,
+      "notes": "The cover ebru is among the most vivid battal ebru specimens documented in the project corpus. The crimson-red dominant palette with dark teal accents is closely comparable to hamidiye_00010 p001 (vivid 6+ color battal ebru cover) and yazma_bagislar_09315 (battal ebru throughout). The wooden board with direct ebru application (no leather exterior) is a binding type specific to several Hamidiye collection albums."
+    },
+    {
+      "folio": "Endpaper (IIIF p002)",
+      "source_image": "corpus/iiif/hamidiye_00019_p002.jpg",
+      "decoration_present": false,
+      "decoration_types": [],
+      "elements": [
+        {
+          "motif": "Ottoman vakf tughra stamp",
+          "description": "A large circular black-ink Ottoman vakf (endowment) stamp at the top of the page, with dense naskh inscription forming an oval/circular composition — the standard Ottoman library endowment mark.",
+          "location": "Top center of page",
+          "confidence": 0.97
+        },
+        {
+          "motif": "Pyramid-arranged vakf inscription",
+          "description": "A multi-line vakf inscription in naskh script, arranged in a tapering pyramid form below the tughra stamp. The inscription records the endowment of the album to the Hamidiye collection. The text is legible at IIIF resolution but not fully transcribed here.",
+          "location": "Center of page, below tughra stamp",
+          "confidence": 0.97
+        },
+        {
+          "motif": "Number stamp '19'",
+          "description": "A black-ink numeral '19' stamped at the bottom center of the page, repeating the shelfmark from the cover.",
+          "location": "Bottom center of page",
+          "confidence": 0.99
+        },
+        {
+          "motif": "Süleymaniye Kütüphanesi cataloguing label",
+          "description": "A printed paper label at the lower-right of the page: 'Süleymaniye U. Kü[tüphanesi]' with handwritten entries for collection ('Hamidiye'), new accession number ('19'), and old accession number (blank). Standard modern library registration label.",
+          "location": "Lower-right corner",
+          "confidence": 0.99
+        }
+      ],
+      "confidence": 0.99,
+      "notes": "P002 is a plain cream/nohudi endpaper carrying only institutional marks — vakf stamp, vakf inscription, shelfmark stamp, and library cataloguing label. No paper decoration is present on this page. This is consistent with the structural role of the endpaper as an administrative leaf between the cover and the first calligraphy folio."
+    },
+    {
+      "folio": "First calligraphy page — warm pink-red battal ebru margins (IIIF p003)",
+      "source_image": "corpus/iiif/hamidiye_00019_p003.jpg",
+      "decoration_present": true,
+      "decoration_types": ["marbled", "framing_system"],
+      "elements": [
+        {
+          "motif": "Battal ebru outer margins — warm pink-red palette (Palette Variant 2)",
+          "description": "The outer margin field surrounding the compound cedvel and calligraphy panel is covered with battal ebru paper in a warm pink-red dominant palette. The ground receives large swirling forms in vivid pink and red, with secondary teal-blue circular globule motifs distributed across the field — these teal blob accents create a distinctive cool-warm contrast against the warm ground. Additional colors include golden-yellow and cream. The overall effect is warm and kinetic, contrasting with the cool teal palette of p005.",
+          "location": "Outer margin, all four sides surrounding the framing system",
+          "confidence": 0.98
+        },
+        {
+          "motif": "Lighter battal ebru inner border strips (Palette Variant 2, lighter register)",
+          "description": "Narrow strips (approx. 5–8 mm) of lighter, more muted battal ebru occupy the inner border zone between the compound cedvel outer ruling line and the cream calligraphy panel. Colors in this inner zone are lighter and more diffuse — pink, cream, yellow, pale green — consistent with a less pigment-dense application of the same ebru palette used for the outer margin. These inner strips create a visual 'breathing space' between the vivid outer ebru and the cream calligraphy panel.",
+          "location": "Inner border zone between compound cedvel and calligraphy panel, all four sides",
+          "confidence": 0.80
+        },
+        {
+          "motif": "4-band compound cedvel (altın bileşik cedvel)",
+          "description": "A 4-band compound cedvel frames the vassale-mounted calligraphy panel. From inside to outside: (1) thin gold ruling line adjacent to the calligraphy panel; (2) sage-green filled band (~3–4 mm wide) — the chromatic signature of this album's framing system; (3) thin gold ruling line; (4) dark brown-black outer ruling line. The sage-green band is a consistent feature across all 4 calligraphy pages, and closely parallels the compound cedvels in hamidiye_00010 and tiem_02471.",
+          "location": "Frame surrounding the calligraphy panel, all four sides",
+          "confidence": 0.96
+        },
+        {
+          "motif": "Vassale-mounted calligraphy panel",
+          "description": "The calligraphy text is written on a separate cream/nohudi âharlı paper panel that has been window-cut and mounted (vassale) into the larger ebru-margin sheet. The seam between the cream calligraphy paper and the outer ebru sheet is visible at IIIF resolution along the interior edge of the compound cedvel. The cream panel surface is plain — no zerefşân or secondary decoration detected at this resolution.",
+          "location": "Central panel within the compound cedvel frame",
+          "confidence": 0.97
+        },
+        {
+          "motif": "Sülüs header — 'Bismillah tatayyamana bi-dhikrihi al-Jalīl'",
+          "description": "A large sülüs (thuluth) headline occupying the top quarter of the calligraphy panel. The text 'بِسْمِ اللهِ تَتَيَمَّنُ بِذِكْرِهِ الجَلِيل' ('In the name of God, blessed be His majestic remembrance') is written in bold, rounded sülüs script with clear contrast between thick and thin strokes. A gold circular rosette medallion (gül) is placed at the right end of the baseline of the header line.",
+          "location": "Upper section of calligraphy panel",
+          "confidence": 0.95
+        },
+        {
+          "motif": "Nesih hadith body text",
+          "description": "Below the sülüs header, 4 lines of nesih (naskh) script carry the body of the hadith text. The nesih is compact and regular, consistent with Ottoman professional calligraphic practice. Gold verse-separator dots or small markers are visible between sections.",
+          "location": "Lower section of calligraphy panel",
+          "confidence": 0.93
+        }
+      ],
+      "confidence": 0.96,
+      "notes": "P003 opens the hadith album with the opening formula 'Bismillah tatayyamana bi-dhikrihi al-Jalīl.' The warm pink-red palette of the outer margins sets the chromatic key for this and the following page (p004), before the dramatic shift to cool teal on p005. The lighter inner border strips are particularly legible on this page, showing the two-zone marbling effect clearly."
+    },
+    {
+      "folio": "Second calligraphy page — warm pink-red battal ebru margins continued (IIIF p004)",
+      "source_image": "corpus/iiif/hamidiye_00019_p004.jpg",
+      "decoration_present": true,
+      "decoration_types": ["marbled", "framing_system"],
+      "elements": [
+        {
+          "motif": "Battal ebru outer margins — warm pink-red palette (Palette Variant 2, continued)",
+          "description": "Outer margin battal ebru in the same warm pink-red palette as p003 — confirming that pp003–004 were decorated with paper from the same production batch or colour scheme. The teal circular globule motifs are again visible across the pink-red ground. Slightly darker and denser in color saturation than p003, possibly due to variation within the batch or image digitization differences.",
+          "location": "Outer margin, all four sides",
+          "confidence": 0.98
+        },
+        {
+          "motif": "Lighter battal ebru inner border strips (Palette Variant 2, lighter register)",
+          "description": "Same lighter inner border strips as p003, visible between the compound cedvel and the cream calligraphy panel. Multi-color patches in pink, cream, yellow, and pale green, consistent with the outer margin palette in a lighter register.",
+          "location": "Inner border zone between compound cedvel and calligraphy panel",
+          "confidence": 0.80
+        },
+        {
+          "motif": "4-band compound cedvel (altın bileşik cedvel)",
+          "description": "Identical 4-band compound cedvel system as p003: gold / sage-green / gold / dark brown-black. Consistent colour and width across all calligraphy pages.",
+          "location": "Frame surrounding the calligraphy panel, all four sides",
+          "confidence": 0.96
+        },
+        {
+          "motif": "Vassale-mounted calligraphy panel",
+          "description": "Same vassale-mounted cream calligraphy panel as p003. The transition seam between the cream calligraphy paper and the ebru outer sheet is visible at IIIF resolution.",
+          "location": "Central panel within the compound cedvel frame",
+          "confidence": 0.97
+        },
+        {
+          "motif": "Sülüs header — 'Allāhu walī al-tawfīq'",
+          "description": "Large sülüs header line: 'اللهُ وَلِيُّ التَّوْفِيق' ('God is the guardian of success/right guidance'). Bold rounded sülüs letterforms with characteristic Ottoman stroke weight.",
+          "location": "Upper section of calligraphy panel",
+          "confidence": 0.93
+        },
+        {
+          "motif": "Gold circular rosette medallion (şemse gülü) — lower left",
+          "description": "A gold circular rosette medallion at the lower-left of the calligraphy panel, below the nesih text block. The medallion has a radiating petal form (gül/shamsa type) in shell gold or gold ink. This element is absent from p003 but present on pp004–006.",
+          "location": "Lower-left area of calligraphy panel",
+          "confidence": 0.92
+        },
+        {
+          "motif": "Nesih hadith body text",
+          "description": "3–4 lines of nesih script carrying the continuation of hadith text. The lines are regular and compact, in the same hand as p003.",
+          "location": "Lower section of calligraphy panel",
+          "confidence": 0.93
+        }
+      ],
+      "confidence": 0.95,
+      "notes": "P004 continues the warm pink-red palette of p003, confirming that the first pair of calligraphy pages (pp003–004) was decorated as a chromatic unit within the album's multi-palette programme. The introduction of the gold rosette medallion at lower-left on this page (and its presence on pp005–006 but absence on p003) may indicate a compositional asymmetry in the album's decorative scheme, or it may mark the transition from the opening invocatory kıtʿa (p003) to the subsequent hadith specimens."
+    },
+    {
+      "folio": "Third calligraphy page — cool teal/blue-green battal ebru margins (IIIF p005)",
+      "source_image": "corpus/iiif/hamidiye_00019_p005.jpg",
+      "decoration_present": true,
+      "decoration_types": ["marbled", "framing_system"],
+      "elements": [
+        {
+          "motif": "Battal ebru outer margins — cool teal/blue-green palette (Palette Variant 3)",
+          "description": "The outer margin battal ebru on p005 is strikingly different from pp003–004: the dominant tone is now cool teal/blue-green, with large swirling and spotting forms in teal, dark blue-green, and blue. Secondary colors include red/crimson accents (concentrated in small areas), cream, and scattered pale yellow. The overall palette is cooler and more subdued than the warm pink-red of pp003–004. The tonal shift is unmistakable at IIIF resolution and confirms the deliberate multi-palette approach of the album's decorative programme.",
+          "location": "Outer margin, all four sides",
+          "confidence": 0.98
+        },
+        {
+          "motif": "Lighter battal ebru inner border strips (cool palette, lighter register)",
+          "description": "Inner border strips between the compound cedvel and the calligraphy panel, in a lighter version of the p005 cool palette — cream, pale green, pink in diffuse patches. The cooler ground makes the lighter strips more visually distinct on this page than on pp003–004.",
+          "location": "Inner border zone between compound cedvel and calligraphy panel",
+          "confidence": 0.80
+        },
+        {
+          "motif": "4-band compound cedvel (altın bileşik cedvel)",
+          "description": "Same 4-band compound cedvel as pp003–004: gold / sage-green / gold / dark brown-black. The sage-green band appears especially effective against the cool outer teal margins, as both are in the green-blue family.",
+          "location": "Frame surrounding the calligraphy panel, all four sides",
+          "confidence": 0.96
+        },
+        {
+          "motif": "Vassale-mounted calligraphy panel",
+          "description": "Cream vassale-mounted calligraphy panel, same format and construction as pp003–004.",
+          "location": "Central panel within the compound cedvel frame",
+          "confidence": 0.97
+        },
+        {
+          "motif": "Sülüs header — 'Ẓill al-sulṭān ka-ẓill Allāh'",
+          "description": "Large sülüs header: 'ظِلُّ السُّلطَانِ كَظِلِّ اللهِ' ('The shadow of the sultan is like the shadow of God'). A well-known Arabic hadith and aphorism of political theology, frequently inscribed in Ottoman albums given to or kept by rulers.",
+          "location": "Upper section of calligraphy panel",
+          "confidence": 0.95
+        },
+        {
+          "motif": "Gold circular rosette medallion (şemse gülü) — lower left",
+          "description": "Gold rosette medallion at the lower-left of the calligraphy panel, consistent with p004. The same shell-gold radiating petal form.",
+          "location": "Lower-left area of calligraphy panel",
+          "confidence": 0.92
+        },
+        {
+          "motif": "Nesih hadith body text",
+          "description": "3 lines of nesih script carrying the hadith body. Regular and compact, in the same hand as pp003–004.",
+          "location": "Lower section of calligraphy panel",
+          "confidence": 0.93
+        }
+      ],
+      "confidence": 0.96,
+      "notes": "P005 demonstrates the most dramatic palette shift in the album: from the warm pink-red of pp003–004 to a dominant cool teal/blue-green. This deliberate alternation of warm and cool ebru palettes within a single album is a compositional sophistication paralleled in tiem_02481 (systematic two-scheme: pink left / blue-grey right across all openings) and tiem_02493 (3–4 palettes across openings). The 'Ẓill al-sulṭān' hadith on this page is one of the most politically charged sayings in the album and may suggest a court or high-patronage context."
+    },
+    {
+      "folio": "Fourth calligraphy page — balanced polychrome battal ebru margins, ketebe (IIIF p006)",
+      "source_image": "corpus/iiif/hamidiye_00019_p006.jpg",
+      "decoration_present": true,
+      "decoration_types": ["marbled", "framing_system"],
+      "elements": [
+        {
+          "motif": "Battal ebru outer margins — balanced polychrome palette (Palette Variant 4)",
+          "description": "The outer margin battal ebru on p006 uses neither the warm pink-red palette of pp003–004 nor the cool teal-dominant palette of p005, but a more balanced polychrome — large sweeping blue-green forms, crimson-red areas, golden-yellow patches, olive-green, and cream. The color balance is more equal between warm and cool components than on any other page. The forms are large and sweeping, with some linear feather-like structures that approach taraklı (combed) territory without being definitively combed — the dominant technique remains battal.",
+          "location": "Outer margin, all four sides",
+          "confidence": 0.97
+        },
+        {
+          "motif": "Vivid inner border zone — multi-color ebru with feather-like forms",
+          "description": "The inner border zone between the compound cedvel and the calligraphy panel on p006 is notably more vivid and elaborated than on pp003–005. Rather than diffuse lighter strips, the inner zone here shows distinct multi-color feather-like or leaf-like ebru forms — green and yellow-green elongated shapes with red accents. This is the most visually complex inner-border zone in the album and suggests a particularly fine piece of ebru paper (or a more carefully selected section) was used for p006's mounting.",
+          "location": "Inner border zone between compound cedvel and calligraphy panel, especially top and bottom edges",
+          "confidence": 0.85
+        },
+        {
+          "motif": "4-band compound cedvel (altın bileşik cedvel)",
+          "description": "Same 4-band compound cedvel as pp003–005, consistent throughout the album.",
+          "location": "Frame surrounding the calligraphy panel, all four sides",
+          "confidence": 0.96
+        },
+        {
+          "motif": "Vassale-mounted calligraphy panel",
+          "description": "Cream vassale-mounted calligraphy panel, same format as pp003–005. The cream panel is in good condition with clear script.",
+          "location": "Central panel within the compound cedvel frame",
+          "confidence": 0.97
+        },
+        {
+          "motif": "Sülüs header — 'Kalām al-mulūk mulūk al-kalām'",
+          "description": "Large sülüs header: 'كَلامُ المُلُوكِ مُلُوكُ الكَلام' ('The speech of kings is the king of speeches'). A classical Arabic aphorism (not a hadith in the strict sense, though often cited as one in Ottoman albums) that served as a motto for royal calligraphic production and was frequently inscribed in luxury albums given to rulers or kept in palace libraries.",
+          "location": "Upper section of calligraphy panel",
+          "confidence": 0.95
+        },
+        {
+          "motif": "Gold circular rosette medallion (şemse gülü) — lower left",
+          "description": "Gold rosette medallion at the lower-left of the calligraphy panel, consistent with pp004–005. Same shell-gold radiating petal form.",
+          "location": "Lower-left area of calligraphy panel",
+          "confidence": 0.92
+        },
+        {
+          "motif": "Nesih hadith body text",
+          "description": "3–4 lines of nesih script carrying the final hadith body text of the album. In the same hand as pp003–005.",
+          "location": "Middle section of calligraphy panel",
+          "confidence": 0.93
+        },
+        {
+          "motif": "Ketebe (scribe's colophon) — partially legible",
+          "description": "At the bottom of the nesih text block, a shorter concluding line in nesih script carries the ketebe (colophon). The text begins 'كَتَبَهُ الفَقِير...' ('kataba-hu al-faqīr...', 'the poor one wrote it...') — the standard Ottoman-Arabic humility formula of scribal colophons. The remaining text identifying the scribe by name is not fully legible at 2560px IIIF resolution. Physical examination or targeted high-resolution imaging of this line is required for complete attribution.",
+          "location": "Bottom line of calligraphy panel",
+          "confidence": 0.90
+        }
+      ],
+      "confidence": 0.96,
+      "notes": "P006 is the most important page for attribution: it carries the ketebe. The balanced polychrome palette of the outer margins — neither warm-dominant like pp003–004 nor cool-dominant like p005 — creates a fitting synthesis for the album's final calligraphy page. The 'Kalām al-mulūk' motto as the closing sülüs header is a common choice for the final or key page of luxury Ottoman calligraphy albums. The inner border zone on p006 is notably more vivid and elaborate than on previous pages, potentially indicating that this page was given special decorative attention as the conclusion of the album."
+    }
+  ],
+  "terminology": {
+    "terms_used": [
+      {
+        "concept": "Stone/spot marbled paper",
+        "ottoman": "battal ebru (بطال ابرو) / ebrulu kâğıt (ابرولو کاغذ) / noktalı/kayalıklı ebru",
+        "arabic": "waraq abrī (ورق ابری) — marbled paper; al-waraq al-mumarmar (الورق المرمر) — marbled paper (lit. 'marble-like')",
+        "persian": "kāġaz-e abrī (کاغذ ابری) — marbled paper",
+        "english": "Battal ebru (also spelled battal ebrî): the Ottoman term for stone or spot marbling — the simplest and most ancient form of ebru, in which pigments are dropped or sprinkled onto the carrageenan size and allowed to form organic, irregular spotted or mottled patterns before the paper is laid. 'Battal' means 'bold' or 'rough' — contrasting with the more refined hatip (imam's), gel-git (back-and-forth stylus), or taraklı (combed) ebru types. In this album, at least 4 distinct battal ebru palettes are deployed across 5 surfaces, demonstrating a sophisticated chromatic programme within the apparently simple technique."
+      },
+      {
+        "concept": "Calligraphic album",
+        "ottoman": "muraqqaʿ / murakkaa (مرقع / مرقعات)",
+        "arabic": "muraqqa (مرقع) / muraqqa'āt (مرقعات) — plural",
+        "persian": "muraqqa (مرقع)",
+        "english": "Muraqqaʿ: a bound album typically containing calligraphic specimens (kıtʿa), paintings, or both. Ottoman murakkaat were luxury objects assembled by or for patrons, collectors, or calligraphy teachers and students. This album contains 4 kıtʿa in the hadith genre, mounted via the vassale technique on polychrome ebru margins."
+      },
+      {
+        "concept": "Calligraphic specimen sheet",
+        "ottoman": "kıtʿa (قطعة) / kıtʿa-i hat",
+        "arabic": "qiṭʿa (قطعة)",
+        "persian": "qiṭʿa (قطعه)",
+        "english": "Kıtʿa: a single calligraphic specimen sheet, often featuring a large sülüs header line with smaller nesih body lines below. In this album, the 4 kıtʿa are all in the sülüs-nesih hadith format — a major genre of Ottoman calligraphic production."
+      },
+      {
+        "concept": "Window-mounting technique",
+        "ottoman": "vassale yöntemi (وصله يونتمى) / monte etmek",
+        "arabic": "vassāla (وصالة) — mounting, joining",
+        "persian": "vassāla",
+        "english": "Vassale: the technique of cutting a window into a larger decorated paper (here, battal ebru) and mounting the calligraphy panel within that window, creating a flush surface. The two papers — cream calligraphy paper and ebru margin paper — are joined at their edges, usually held in place by a thin paper hinge strip on the reverse. The compound cedvel is then drawn across both papers, visually unifying the composition. Standard in Ottoman luxury murakkaat. In this album, the transition seam between the cream and ebru papers is visible at IIIF resolution along the inner edges of the compound cedvel."
+      },
+      {
+        "concept": "Compound ruling frame",
+        "ottoman": "bileşik cedvel / dört bantlı altın cedvel (بليشيق جدول)",
+        "arabic": "jadwal murakkab (جدول مركب) — compound ruling frame",
+        "persian": "jadval-e murakkab (جدول مرکب)",
+        "english": "Bileşik cedvel (compound cedvel): a ruling frame composed of multiple distinct bands — in this album, 4 bands from inside to outside: thin gold ruling line / sage-green filled band / thin gold ruling line / dark brown-black ruling line. The sage-green intermediate band is the chromatic signature of this album's cedvel system. Compound cedvels of this type are characteristic of Istanbul luxury album production in the 17th–18th century."
+      },
+      {
+        "concept": "Sülüs script",
+        "ottoman": "sülüs hattı (ثلث خطى)",
+        "arabic": "thuluth (ثلث) — one third",
+        "persian": null,
+        "english": "Sülüs (thuluth): one of the six classical Arabic scripts, characterized by large, rounded letterforms with strong contrast between thick and thin strokes and pronounced ascenders and descenders. In this album, sülüs is used for the header line of each kıtʿa — the large, display-scale calligraphy that leads each specimen. Sülüs + nesih is the canonical pairing for Ottoman hadith murakkaat."
+      },
+      {
+        "concept": "Nesih script",
+        "ottoman": "nesih hattı (نسخ خطى)",
+        "arabic": "naskh (نسخ) — copying",
+        "persian": null,
+        "english": "Nesih (naskh): a small, rounded, highly legible Arabic script used for the body text of manuscripts and calligraphic specimens. In this album, nesih carries the hadith body text below each sülüs header. The combination of large sülüs and small nesih in a single kıtʿa panel is the standard sülüs-nesih format of Ottoman calligraphy albums."
+      },
+      {
+        "concept": "Gold rosette medallion",
+        "ottoman": "şemse gülü / altın gül madalyon / köşe gülü",
+        "arabic": "warada dhahabiyya (وردة ذهبية) — gold rosette",
+        "persian": "gul-e zar (گل زر) — gold flower/rosette",
+        "english": "A circular gold medallion with radiating petal forms, placed at the corner of a calligraphy panel — specifically at the lower-left in this album (pp004–006). Distinguishable from the binding medallion (şemse) by its smaller scale and page-corner placement. Standard decorative element in Ottoman luxury murakkaat, typically executed in shell gold (mücevher altın) or gold ink (zermürekkep)."
+      },
+      {
+        "concept": "Scribe's colophon",
+        "ottoman": "ketebe kaydı (كتبه قيدى)",
+        "arabic": "kitābat al-fārigha (كتابة الفارغة) / 'kataba-hu al-faqīr' formula",
+        "persian": "ketābe (کتابه)",
+        "english": "Ketebe kaydı: the closing scribal inscription in which the calligrapher identifies themselves, typically using the humility formula 'kataba-hu al-faqīr...' ('the poor one wrote it'). In this album, the ketebe on p006 begins with this formula; the scribe's name is not fully legible at IIIF resolution. The ketebe is the primary documentary key to the album's attribution and dating."
+      }
+    ]
+  },
+  "bibliography": [
+    {
+      "citation": "Blair, Sheila S. 'Color and Gold: The Decorated Papers Used in Manuscripts in Later Islamic Times.' Muqarnas 17 (2000): 24–36.",
+      "relevance": "Foundational taxonomic study of decorated paper types in Islamic manuscripts, including the classification of marbled (abrī) papers and their terminology across Arabic, Persian, and Ottoman Turkish traditions. Blair distinguishes battal ebru from hatip ebru and gel-git variants and discusses the use of marbled papers as margin grounds in calligraphic albums — directly relevant to this album's multi-palette battal ebru programme. Her framework is the primary reference for the paper_decoration.types taxonomy used in this record.",
+      "relevance_score": 0.97,
+      "access_notes": "Peer-reviewed article. Available via JSTOR (Brill/Muqarnas Online). Open-access PDF accessible at Academia.edu."
+    },
+    {
+      "citation": "Derman, M. Uğur. Letters in Gold: Ottoman Calligraphy from the Sakıp Sabancı Collection, Istanbul. New York: The Metropolitan Museum of Art, 1998.",
+      "relevance": "Primary English-language exhibition catalogue on Ottoman calligraphy, covering the sülüs-nesih hadith album tradition, the kıtʿa format, and the role of decorated paper in luxury Ottoman murakkaat. Essential for contextualizing the calligraphic content (sülüs headers + nesih body + ketebe) and for understanding the album's place within the 17th–18th century Ottoman calligraphic production environment. The ketebe formula 'kataba-hu al-faqīr' is discussed in relation to Ottoman calligraphic colophon conventions.",
+      "relevance_score": 0.93,
+      "access_notes": "Exhibition catalogue (Metropolitan Museum of Art, 1998); widely held at Islamic art and Ottoman studies libraries. ISBN 978-0870998843."
+    },
+    {
+      "citation": "Roxburgh, David J. The Persian Album, 1400–1600: From Dispersal to Collection. New Haven: Yale University Press, 2005.",
+      "relevance": "Essential study of the murakkaat album format and its decorated paper programmes in the Persianate and Ottoman tradition. Provides the theoretical framework for understanding polychrome paper programmes as deliberate compositional choices in album design — directly applicable to this album's multi-palette battal ebru sequence, which distributes at least 4 chromatic variants across the album's surfaces in a structured, non-random pattern. Roxburgh's analysis of album construction and the role of decorated papers in articulating album structure is the key comparative reference for this aspect of Hamidiye 00019.",
+      "relevance_score": 0.88,
+      "access_notes": "Monograph; widely held at research libraries."
+    },
+    {
+      "citation": "Çağman, Filiz, and Zeren Tanındı. The Topkapı Saray Museum: The Albums and Illustrated Manuscripts. Translated and edited by J. M. Rogers. Boston: Little, Brown, 1986.",
+      "relevance": "Standard reference for Ottoman calligraphic albums and their decorated paper programmes in the Topkapı collections. Provides direct comparanda for sülüs-nesih hadith murakkaat with marbled paper margins and compound cedvel framing from the 17th–18th century. Particularly relevant for the vassal-mounting (vassale) technique and the use of battal ebru as margin ground paper in high-quality Istanbul albums.",
+      "relevance_score": 0.87,
+      "access_notes": "Exhibition catalogue; widely held at Turkish and Islamic art research libraries."
+    },
+    {
+      "citation": "Bloom, Jonathan M. Paper Before Print: The History and Impact of Paper in the Islamic World. New Haven: Yale University Press, 2001.",
+      "relevance": "Comprehensive history of paper production and use in the Islamic world, providing material-culture background for the ebru (marbled paper) tradition, its origins in the Islamic East, and its development in Ottoman Istanbul. Relevant for situating the battal ebru technique within the broader history of Islamic decorated papers and for the codicological description of paper preparation and sizing.",
+      "relevance_score": 0.80,
+      "access_notes": "Widely held monograph."
+    },
+    {
+      "citation": "Baykara, Nüvit. Türk Ebru Sanatı. Istanbul: İş Bankası Kültür Yayınları, 2001. [In Turkish]",
+      "relevance": "Key Turkish-language reference on the Ottoman ebru (marbled paper) tradition, covering battal, hatip, and gel-git subtypes and their use in manuscript decoration. Directly relevant to the technical classification of the battal ebru papers in this album, the multi-palette tradition in Ottoman marbling, and the album context for ebru use. Provides vocabulary and production context specific to the Ottoman Turkish ebru tradition.",
+      "relevance_score": 0.85,
+      "access_notes": "Monograph in Turkish; held at major Turkish research libraries and the Süleymaniye Library. Not widely available in translation."
+    },
+    {
+      "citation": "Gacek, Adam. Arabic Manuscripts: A Vademecum for Readers. Leiden: Brill, 2009.",
+      "relevance": "Standard codicological reference for Islamic manuscript terminology, covering ketebe (scribal colophon) conventions, kıtʿa format, vassale mounting, and ruling/frame terminology. Used for terminology standardization throughout this record, particularly for the 'kataba-hu al-faqīr' ketebe formula and the Arabic equivalents of Ottoman codicological terms.",
+      "relevance_score": 0.78,
+      "access_notes": "Reference monograph; widely held."
+    },
+    {
+      "citation": "Tanındı, Zeren. 'Bibliophile Aghas (Eunuchs) at Topkapı Saray.' Muqarnas 21 (2004): 333–43.",
+      "relevance": "Documents album-collecting and commissioning practices at the Ottoman court in the 17th century. Provides context for the patronage environment in which sülüs-nesih hadith murakkaat like Hamidiye 00019 were produced and collected. The 'Ẓill al-sulṭān ka-ẓill Allāh' hadith on p005 is a politically charged saying with specific resonance in court album contexts, and Tanındı's study helps explain the institutional reception of such albums.",
+      "relevance_score": 0.75,
+      "access_notes": "Peer-reviewed article. Available via JSTOR and institutional library access."
+    },
+    {
+      "citation": "Déroche, François. Islamic Codicology: An Introduction to the Study of Manuscripts in Arabic Script. Translated by Deke Dusinberre and David Radzinowicz. London: Al-Furqan Islamic Heritage Foundation, 2005.",
+      "relevance": "Foundational reference for Islamic manuscript codicology, covering paper decoration types, ruling systems, binding forms, and physical manuscript description. Provides the classification framework for the compound cedvel framing system and the vassale mounting technique documented in this record.",
+      "relevance_score": 0.72,
+      "access_notes": "Monograph; available at specialist libraries."
+    }
+  ],
+  "suggested_collections": [
+    {
+      "institution": "Süleymaniye Kütüphanesi — Hamidiye Koleksiyonu, Istanbul (wider collection)",
+      "reason": "Several other albums in the Hamidiye collection use comparable battal ebru programmes — notably Hamidiye 00010 (vivid 6+ color battal ebru cover, lacivert mulevven as writing surface, tahrirli halkar margins) and Hamidiye 00026 (5th confirmed hatip ebru in the project corpus). Systematic comparison of the Hamidiye murakkaat family would clarify whether the multi-palette battal ebru approach of 00019 was a house style for this collection or an individual commission.",
+      "digital_access": "https://portal.yek.gov.tr"
+    },
+    {
+      "institution": "Türk ve İslam Eserleri Müzesi (TIEM), Istanbul — Murakka Collection",
+      "reason": "The TIEM murakka corpus contains the closest documented comparanda for Hamidiye 00019's multi-palette battal ebru approach: tiem_02493 (3–4 distinct ebru palettes across 5 openings), tiem_02481 (systematic two-scheme: pink left / blue-grey right), and tiem_02489 (battal ebru as final calligraphy opening margin). Physical comparison of the paper stocks and pigment characteristics would help establish whether the multi-palette tradition reflects shared suppliers or workshop conventions.",
+      "digital_access": "https://portal.yek.gov.tr"
+    },
+    {
+      "institution": "Topkapı Sarayı Müzesi Kütüphanesi, Istanbul",
+      "reason": "Holds the largest corpus of Ottoman calligraphic albums with documented decorated paper programmes, including numerous sülüs-nesih hadith murakkaat with battal ebru margins. Physical comparison with Topkapı albums is essential for contextualizing the framing system and for finding parallels for the 4-band compound cedvel (gold + sage-green + gold + dark brown) that may help attribute the album to a specific workshop or period.",
+      "digital_access": "https://kutuphane.tsmk.gov.tr"
+    },
+    {
+      "institution": "Chester Beatty Library, Dublin",
+      "reason": "Major international collection of Ottoman calligraphic albums with marbled paper margins, including several sülüs-nesih hadith murakkaat with compound cedvel framing. Provides comparative material for the album format and the battal ebru margin tradition. The Chester Beatty online viewer gives access to high-quality IIIF images suitable for comparative palette analysis.",
+      "digital_access": "https://viewer.cbl.ie"
+    },
+    {
+      "institution": "GlobalDecoPaper ERC Project, LMU Munich",
+      "reason": "The primary active academic research project on decorated papers in Islamic manuscripts. The multi-palette battal ebru programme in this album — particularly the inner border strips and the systematic palette variation across 4 pages — falls squarely within the GlobalDecoPaper research scope, and specialist consultation may enable technical analysis (pigment identification, paper fiber analysis) that would establish the palette variants' production context more precisely.",
+      "digital_access": null
+    }
+  ],
+  "provenance": {
+    "donor": null,
+    "waqf": "Hamidiye Koleksiyonu (Ottoman royal endowment collection; Sultan Abdülhamid I vakfı, late 18th century, subsequently integrated into Süleymaniye Kütüphanesi)",
+    "previous_shelfmarks": [],
+    "notes": "Held at Süleymaniye Kütüphanesi, Istanbul, under the Hamidiye Koleksiyonu shelfmark 00019. The Hamidiye collection was endowed as part of Sultan Abdülhamid I's (r. 1774–1789) foundation at the Hamidiye mosque complex, Istanbul. The vakf inscription on p002 records the album's endowment to this collection; the tughra stamp is the standard Hamidiye vakf mark. YEK ID: 265194. IIIF ID: 0000000289495. The album's original provenance before entering the Hamidiye endowment is unknown. No waqf donor name beyond the Hamidiye institution is legible in the digitized images."
+  },
+  "analysis_metadata": {
+    "analyzed_date": "2026-02-28",
+    "analyzer": "claude-code-manuscript-pipeline",
+    "pipeline_stage": "metadata-generator",
+    "image_source": "YEK Portal IIIF images, Süleymaniye Kütüphanesi Hamidiye Koleksiyonu, YEK ID 265194, IIIF ID 0000000289495. All 6 pages (p001–p006) downloaded and examined at native IIIF resolution (2560×1920 px per page) via visual-confirmation agent. Supplementary data from catalog/searches/visual_tier2_hamidiye_00019.json.",
+    "image_quality_notes": "IIIF native resolution (2560×1920 px) is adequate for marbling palette identification and cedvel band characterization. The multi-palette battal ebru programme is unambiguously legible at this resolution. Limitations: (1) fine zerefşân cannot be detected on cream calligraphy panels at 2560px if present; (2) ketebe text on p006 is partially legible but not fully transcribable; (3) inner battal ebru border strips (~5–8 mm wide at scale) are visible but cannot be fully characterized. IIIF region-based cropping is not supported by the YEK IIIF server, preventing higher-resolution detail crops. No resolution-related doubts affect the primary classification (marbled, framing_system).",
+    "folios_examined": [
+      "corpus/iiif/hamidiye_00019_p001.jpg",
+      "corpus/iiif/hamidiye_00019_p002.jpg",
+      "corpus/iiif/hamidiye_00019_p003.jpg",
+      "corpus/iiif/hamidiye_00019_p004.jpg",
+      "corpus/iiif/hamidiye_00019_p005.jpg",
+      "corpus/iiif/hamidiye_00019_p006.jpg"
+    ],
+    "folios_not_examined": "All 6 digitized pages examined. Back cover/board not digitized in the YEK IIIF manifest (only 6 pages: 1 front cover + 1 endpaper + 4 calligraphy pages). If the album has a separate back cover, its decorative programme is unknown.",
+    "corpus_priority": "Medium-high. Hamidiye 00019 is a well-preserved example of the multi-palette battal ebru murakka format documented across the project corpus. Key research priorities: (1) Physical examination and high-resolution imaging of the ketebe on p006 for scribe identification and dating; (2) Pigment analysis of the battal ebru papers to determine whether the 4 palette variants represent distinct production batches or successive pourings from the same marbling trough; (3) Comparative cedvel analysis with hamidiye_00010 and tiem_02471 to evaluate whether the 4-band gold/sage-green/gold/dark-brown system reflects a shared workshop practice.",
+    "source_data": {
+      "visual_confirmation_file": "catalog/searches/visual_tier2_hamidiye_00019.json",
+      "yek_id": "265194",
+      "iiif_id": "0000000289495",
+      "collection_context": "Hamidiye Murakka series — Tier 2 Sub-Batch C (Hamidiye + Pertevniyal albums, 2026-02-28)"
+    }
+  }
+}
