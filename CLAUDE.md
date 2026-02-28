@@ -22,6 +22,7 @@ The typical analysis pipeline is:
 ```text
 User provides folio image(s)
     → motif-classifier (identify decorative elements with standardized terminology)
+    → [orchestrator checkpoint: present to user, wait for confirmation]
     → metadata-generator (produce catalog record with bibliography)
     → qc-reviewer (validate before saving to catalog)
 ```
@@ -80,11 +81,14 @@ User asks about paper, binding, ruling, etc.
 
 - **Always** use `yek-search` when the user wants to search Turkish manuscript collections or the YEK portal.
 - **Always** use `motif-classifier` first when analyzing a new image.
-- **Always** pass motif-classifier output to `metadata-generator` for structured records and bibliography.
+- **Always** pass motif-classifier output to `metadata-generator` for structured records and bibliography — after the user checkpoint described above.
 - Use `comparative-analyst` when the user asks about stylistic relationships, dating, or provenance.
 - Use `codicology-agent` when questions concern material aspects (paper, binding, ruling) rather than decoration.
 - **Always** run `qc-reviewer` before saving any record to `catalog/`. It has read-only access intentionally.
 - Use `visual-confirmation` after YEK searches to verify catalogue claims against screenshots. It produces verdicts, not full analysis — hand confirmed results to `motif-classifier` for deeper work.
+- **Always** delegate any YEK portal interaction to `yek-search` or `visual-confirmation` — including IIIF image downloads, manifest fetching, detail page scraping, and portal authentication. Never attempt portal navigation, IIIF URL discovery, or image downloading from the main context.
+- **Always** delegate genre-based visual triage (browsing a set of manuscripts by thumbnail to survey decoration) to `visual-confirmation`. This is a distinct workflow from verdict-based confirmation.
+- When parallel searching is needed (Protocol D shards or large batches), launch multiple `yek-search` agents with separate `context_id` values — the same parallelism pattern documented for `visual-confirmation`.
 
 ## Agents (7 total)
 
@@ -94,8 +98,8 @@ User asks about paper, binding, ruling, etc.
 | `codicology-agent` | Sonnet | Physical/material analysis + standardized codicological terminology |
 | `metadata-generator` | Sonnet | Catalog records + bibliography + format exports (JSON, TEI, IIIF) |
 | `comparative-analyst` | Opus | Cross-manuscript stylistic comparison |
-| `yek-search` | Opus | YEK portal search via Playwright MCP |
-| `visual-confirmation` | Opus | Screenshot verification of catalogue claims |
+| `yek-search` | Opus | YEK portal search, IIIF image download, and portal data extraction via Playwright MCP |
+| `visual-confirmation` | Opus | Screenshot verification of catalogue claims + IIIF image download + visual triage |
 | `qc-reviewer` | Opus | Quality control on all pipeline outputs |
 
 ## Parallel Browser Isolation (playwright-multi)
@@ -137,6 +141,9 @@ YEK portal credentials are in `.env` (project root): `YEK_USERNAME`, `YEK_PASSWO
 - `corpus/` — manuscript images organized by collection
 - `catalog/` — JSON metadata records per manuscript
 - `catalog/searches/` — YEK search session results (named `search_{date}_{term}.json`)
+- `catalog/analyses/` — standalone technique determination and deep analysis files (e.g., block-print vs. stencil diagnostics)
+- `catalog/temp/` — intermediate folio analyses staged by `motif-classifier` before merging into final catalog records
+- `corpus/iiif/` — IIIF images downloaded at native resolution by `visual-confirmation` and `yek-search` agents (gitignored)
 - `references/` — bibliography database and PDFs
 - `output/` — generated reports, visualizations, exports
 - `schemas/` — JSON schemas for metadata validation (canonical schemas are in the individual `.claude/skills/output-schema-*.md` files)

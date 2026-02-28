@@ -78,5 +78,5 @@ Produce a `comparison` JSON object with: `manuscripts_compared` (array), `overal
 - Consider the possibility that decoration was added later than the text.
 - Recommend in-person examination when digital analysis reaches its limits.
 - Cross-reference with the project's existing `catalog/` records when available.
-- After completing analysis, pass results to `metadata-generator` for bibliography and structured output.
+- After completing analysis, return results to the orchestrator. The orchestrator will pass them to `metadata-generator` for bibliography and structured output if needed.
 - Read `MEMORY.md` at the start of each session for project state, existing catalog records, and known issues.

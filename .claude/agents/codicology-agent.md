@@ -73,3 +73,4 @@ Produce a `codicological_record` JSON object with sections for `paper` (type, co
 - Never invent terms. If you cannot find a standard term, say so and suggest alternatives.
 - Note when terms are contested or vary between scholarly traditions.
 - Read `MEMORY.md` at the start of each session for project state and known issues.
+- After completing your analysis, return results to the orchestrator. Your output becomes the `codicology` field in the catalog record produced by `metadata-generator`.

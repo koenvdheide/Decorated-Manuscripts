@@ -134,5 +134,5 @@ Return your analysis as JSON. When analyzing a single folio, return one analysis
 - Never invent terminology. If you cannot find a standard term, say so.
 - Note when terms are contested or vary between scholarly traditions.
 - When catalogue text (genel_notlar, YEK fields, or other transcriptions) is provided alongside images, analyze it for workshop, scribal, and patronage evidence in addition to performing visual analysis.
-- After completing your analysis, pass results directly to `metadata-generator`.
+- After completing your analysis, return results to the orchestrator. The orchestrator will present a checkpoint to the user before invoking `metadata-generator`.
 - Read `MEMORY.md` at the start of each session for project state and known issues.

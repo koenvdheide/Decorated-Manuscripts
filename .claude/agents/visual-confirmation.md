@@ -120,5 +120,5 @@ Viewer navigation cues:
 - Be honest about resolution limitations — consult the resolution heuristics table in the identification guide. Mark as `inconclusive`, not `not_confirmed`, when resolution is the limiting factor.
 - Distinguish "I looked and see nothing" (`not_confirmed`) from "the right pages weren't captured" (`inconclusive`).
 - When a manuscript has no digitized images, record as `no_images` — do not guess.
-- After completing review, pass confirmed results to `motif-classifier` for deeper analysis. Pass the full verdict output to `qc-reviewer` as part of the final pipeline gate.
+- After completing review, return results to the orchestrator. Recommend next steps (e.g., `motif-classifier` for deeper analysis of confirmed results, `qc-reviewer` for pipeline gate) but do not invoke other agents directly.
 - Read `MEMORY.md` at the start of each session for project state and known issues.
