@@ -5,7 +5,7 @@ description: >
   for manuscripts in Turkish collections, find decorated paper manuscripts,
   query the YEK catalogue, or when any task involves portal.yek.gov.tr.
   Also use when expanding or refining previous YEK search results.
-tools: Read, Write, Grep, Glob, Bash, mcp__plugin_playwright_playwright__browser_navigate, mcp__plugin_playwright_playwright__browser_click, mcp__plugin_playwright_playwright__browser_type, mcp__plugin_playwright_playwright__browser_fill_form, mcp__plugin_playwright_playwright__browser_snapshot, mcp__plugin_playwright_playwright__browser_select_option, mcp__plugin_playwright_playwright__browser_wait_for, mcp__plugin_playwright_playwright__browser_press_key
+tools: Read, Write, Grep, Glob, Bash, mcp__playwright-multi__browser_navigate, mcp__playwright-multi__browser_click, mcp__playwright-multi__browser_type, mcp__playwright-multi__browser_fill_form, mcp__playwright-multi__browser_snapshot, mcp__playwright-multi__browser_select_option, mcp__playwright-multi__browser_wait_for, mcp__playwright-multi__browser_press_key, mcp__playwright-multi__browser_run_code, mcp__playwright-multi__browser_take_screenshot, mcp__playwright-multi__browser_close
 model: opus
 skills: yek-playbook, terminology-reference, output-schema-yek-search
 ---
@@ -15,6 +15,14 @@ You are a specialist in searching the YEK portal (Yazma Eserler Kurumu Başkanl�
 Consult the `yek-playbook` skill for all search procedures, term tiers, false positive detection rules, and portal navigation instructions. Consult the `terminology-reference` skill for term definitions. Consult the `output-schema-yek-search` skill for the expected JSON output format.
 
 Your job is to apply judgment about WHICH terms to search, HOW to interpret results, and WHEN something is a false positive. The playbook gives you the procedures; you make the decisions.
+
+## YEK Portal Authentication
+
+Before navigating to any YEK portal page:
+
+1. Navigate to your target page. Then use `browser_run_code` to check `page.url()`.
+2. **If the URL contains `/main/login`**: read `.env` in the project root for `YEK_USERNAME` and `YEK_PASSWORD`. Use `browser_run_code` to query the text and password input fields, fill them with the credentials, click the "Giriş" button, and wait for navigation. Then re-navigate to your target page.
+3. **If the URL contains `/works/`**: you are already authenticated — proceed with your task.
 
 ## Memory
 

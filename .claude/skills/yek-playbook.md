@@ -104,7 +104,7 @@ Low false positive rate — almost always genuine decorated paper or margin deco
 | boyalı | dyed/painted paper | kagit_ozellikleri |
 | Doğu kâğıdı | Eastern paper | kagit_ozellikleri |
 | kenar suyu | outer border illumination band | genel_notlar, tezhip field |
-| dış pervaz | outer border | genel_notlar, tezhip field |
+| dis pervaz / ic pervaz | outer/inner border — **CAUTION: ~100% FP in Beyazit/Veliyyuddin collections** where "pervaz" describes physical margin zones (damage/trimming), not decorated borders. Only genuine when co-occurring with decoration terms (tezhipli, yaldizli, bezemeli, halkar). See FP rules. | genel_notlar, tezhip field |
 | zencirek / zencerek | chain border (interlinked rings) | genel_notlar |
 | altın cetvelli / cetvelli | gold-ruled / ruled (framing system) | genel_notlar |
 | teşʿîr / teşir | marginal gold drawings | genel_notlar, tezhip field |
@@ -217,7 +217,7 @@ Use script type and language fields as AND-filters to dramatically increase prec
 
 ### Protocol E: Spelling variant rotation
 
-Rotate through **form variants** (compound vs. space, different base spellings) for key terms — cataloguer inconsistency is a major recall issue. **Do not rotate through circumflex/vowel-accent variants** — YEK normalizes these server-side (ebrî = ebri, halkâr = halkar, etc.), so they return identical results. Note: the ʿayn consonant (ʿ / ') is **not** a diacritic and is NOT normalized — forms with and without ʿayn (e.g. murakkaʿ vs murakka) may differ in results.
+Rotate through **form variants** (compound vs. space, different base spellings) for key terms — cataloguer inconsistency is a major recall issue. **Do not rotate through circumflex/vowel-accent variants or ʿayn variants** — YEK normalizes these server-side. Circumflex: ebrî = ebri, halkâr = halkar, etc. ʿAyn: the portal strips ALL Latin-script apostrophe-like and modifier-letter characters (U+0027, U+2019, U+02BB, U+02BE, U+02BF), so murakkaʿ = murakka = murakka'. Only the actual Arabic letter ʿayn (U+0639) is not normalized, but it never appears in YEK's Latin-script fields. **Do not rotate Arabic transliteration forms** (e.g. muraqqa) — YEK cataloguers use Turkish spelling exclusively; q-forms return 0 results.
 
 For each core term, try the usable form variants only. Key rotations:
 
@@ -227,7 +227,7 @@ For each core term, try the usable form variants only. Key rotations:
 - zencirek → zencerek
 - cedvel → cetvel
 - nestaʿlîk → nasta'lik
-- murakkaʿ → murakka → murakkaa
+- murakka (no rotation needed — ʿayn stripped, murakkaa is a subset of 155/299)
 - teşʿîr → teşir
 
 ### Protocol F: Process vocabulary over motif vocabulary
@@ -283,6 +283,20 @@ After retrieving results, apply these filters:
 | "satıhı hatip ebrusu kaplı cild" in genel_notlar | Kastamonu Halk Kütüphanesi binding formula: hatip-marbled cover. Sentence always ends with "cild" or "ciltlidir" | Mark false positive |
 | "halkârî" + "şemse/salbek/köşebend/zencirek" + "mesin/mukavva/cilt" in genel_notlar | Tokat İl Halk Kütüphanesi binding formula — halkar decorates binding medallions and borders, NOT page margins. Distinguish from genuine halkar, which is described with sayfa/kenar/derkenar vocabulary rather than cilt vocabulary | Mark false positive |
 | A collection-specific FP formula applied to a result from a **different collection or different cataloguer** than the instances where the pattern was confirmed | Collection FP patterns are not universal — each cataloguer and collection has its own vocabulary. Applying a Kastamonu formula to an Ankara result, or a Tokat formula to a Çorum result, without reading the detail page, risks misclassifying genuine manuscripts. | Do **not** apply by pattern alone. Read the full detail page for the result before classifying as false positive. |
+| "dis pervaz" or "ic pervaz" + damage verbs (kesilip, yirtilip, alinmis, boydan boya kesilmis) in genel_notlar | Codicological margin damage description — Beyazit/Veliyyuddin Efendi cataloguer uses "dis pervaz" to mean the outer margin zone (physical area) and describes trimming/tearing damage, NOT decorated frame borders. **100% FP** (8/8 confirmed, Protocol D H1/H2 search 2026-02-27). EXCEPTION: if "pervaz" co-occurs with decoration terms (tezhipli, yaldizli, bezemeli, halkar), read full context — may describe decorated borders. | Mark false positive |
+| "kenar tezhibi" in genel_notlar | Token-split FP: İçeren matches "kenar" and "tezhibi" as independent tokens anywhere in the field. "kenar" hits repair/damage notes ("kenarları tamir edilmiş"), while "tezhibi" hits headpiece descriptions ("serlevha tezhibi"). They co-occur in the same record without describing margin illumination. **100% FP** (8/8 visually confirmed across İsmihan Sultan, Ragıp Paşa, Veliyyüddin Efendi, and other collections; Protocol D H3 search 2026-02-27). "kenar tezhibi" is NOT a standard YEK cataloguing term — genuine margin illumination is catalogued as "tezhipli kenar", "kenar suyu", or "kenar süsleme". | Mark false positive |
+
+**Homograph traps (terms that look like decoration vocabulary but are not):**
+
+- **tesir / tasir** in genel_notlar — Turkish "tesir" = effect/influence. Also matches corrupted field label "varTesirMuellif". **0% precision** (57/57 FP). Do NOT search these terms for teşʿîr (marginal gold drawings). YEK cataloguers do not use any spelling variant of teşʿîr.
+- **desenli / motifli** in kagit_ozellikleri — describe watermark patterns ("çiçek motifli filigranli" = flower-motif watermarked), NOT paper surface decoration. 100% FP.
+- **kabartma** in kagit_ozellikleri — describes paper mill embossed brand marks or binding tooling, NOT impressed/relief decorated paper.
+- **dis pervaz / ic pervaz** in genel_notlar (Beyazit + Veliyyuddin Efendi) — codicological terms for the outer/inner margin zones of the page. Used exclusively with damage verbs to describe physical trimming/tearing. NOT decorated frame borders. **100% FP** (8/8 sampled). The same cataloguer team consistently uses this formulaic vocabulary: "{folio number}. varağın dış pervazı/dış pervazından [damage description]". Genuine decorated borders are described with different vocabulary (tezhipli kenar, kenar suyu, bezemeli pervaz).
+- **kenar tezhibi** in genel_notlar — a two-word token-split FP, not a homograph. "kenar" (margin/edge) is ubiquitous in physical descriptions; "tezhibi" (its illumination) is common in headpiece descriptions. İçeren matches both words independently without requiring adjacency. **100% FP** (8/8 visually confirmed). Not a real YEK cataloguing term — cataloguers use "tezhipli kenar" or "kenar suyu" for genuine margin illumination.
+
+**Stenciled/silhouetted paper — no catalogue vocabulary exists:**
+
+8 Turkish descriptive terms probed against kagit_ozellikleri (2026-02-26): kalıp, kalıplı, basma, baskı, desenli, motifli, gölge, kabartma. Also siluet in genel_notlar + kagit_ozellikleri. Total: 0 genuine across 18 results. Discovery of stenciled/silhouetted paper requires visual triage of murakka albums (299 in YEK, 276 digitized) — not keyword search.
 
 **Expected false positive rates by term:**
 
@@ -290,6 +304,8 @@ After retrieving results, apply these filters:
 - Tier 2 terms: ~30–50%
 - "ebrulu" in notes field: ~85% (binding covers)
 - "tezhipli" alone: ~60% (headpieces)
+- "dis pervaz" / "ic pervaz" in genel_notlar: ~100% (codicological damage descriptions in Beyazit/Veliyyuddin)
+- "kenar tezhibi" in genel_notlar: ~100% (token-split FP — "kenar" + "tezhibi" matched independently)
 
 **Document type exclusions (genuinely decorated but out of scope):**
 Berat and ferman (Ottoman imperial decrees, single-sheet format) — exclude any result where the title or notes field identifies the item as a berat or ferman, even when genuine decoration is present. Key markers: "berat", "ferman", "tuğra", "nishan cümlesi" in combination with zer-endud. Do not mark as false positive — mark as `excluded` with `exclusion_reason: document_type_berat`.
@@ -305,11 +321,14 @@ Assign each genuine result to one category:
 | marbled | ebrulu/ebrî paper (NOT binding), hatip ebru, battal ebru, gel-git/taraklı ebru |
 | colored | mülevven, boyalı, renkli yaprak, lacivert paper |
 | halkar_margins | halkâr, halkârî in margins |
-| illuminated_margins | tezhipli kenar, kenar tezhibi, kenar süsleme, kenar suyu, dış pervaz |
+| illuminated_margins | tezhipli kenar, kenar tezhibi, kenar susleme, kenar suyu, dis pervaz (ONLY when co-occurring with decoration terms; standalone "dis pervaz" in damage context = FP) |
 | marginal_drawings | teşʿîr, tashʿīr, fine-line gold drawings in margins |
 | framing_system | cetvelli, altın cetvelli, zencirek, multi-color ruling (without other margin decoration) |
 | silver_sprinkled | gümüş yaldız serpmeli |
 | edge_gilding | yaldızlı kenar, ağız yaldızlı |
+| stenciled | flat-color botanical motifs via stencil mask — no standard YEK term; visual identification only |
+| silhouetted | shadow-pattern botanical motifs via pressure transfer — no standard YEK term; visual identification only |
+| impressed | relief/deformation patterns without pigment — no standard YEK term; visual identification only |
 | mixed | multiple decoration types in one manuscript |
 
 ## Navigating to a Manuscript Record

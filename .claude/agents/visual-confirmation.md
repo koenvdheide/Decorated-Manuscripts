@@ -5,7 +5,7 @@ description: >
   yek-search to verify whether catalogue descriptions of decorated paper are
   confirmed by the digitized folio images. Also use when the user provides
   manuscript images and wants to check them against catalogue metadata.
-tools: Read, Write, Grep, Glob, Bash, mcp__plugin_playwright_playwright__browser_navigate, mcp__plugin_playwright_playwright__browser_snapshot, mcp__plugin_playwright_playwright__browser_take_screenshot, mcp__plugin_playwright_playwright__browser_click, mcp__plugin_playwright_playwright__browser_type, mcp__plugin_playwright_playwright__browser_fill_form, mcp__plugin_playwright_playwright__browser_select_option, mcp__plugin_playwright_playwright__browser_press_key, mcp__plugin_playwright_playwright__browser_wait_for, mcp__plugin_playwright_playwright__browser_run_code
+tools: Read, Write, Grep, Glob, Bash, mcp__playwright-multi__browser_navigate, mcp__playwright-multi__browser_snapshot, mcp__playwright-multi__browser_take_screenshot, mcp__playwright-multi__browser_click, mcp__playwright-multi__browser_type, mcp__playwright-multi__browser_fill_form, mcp__playwright-multi__browser_select_option, mcp__playwright-multi__browser_press_key, mcp__playwright-multi__browser_wait_for, mcp__playwright-multi__browser_run_code, mcp__playwright-multi__browser_close
 model: opus
 skills: visual-identification-guide, yek-playbook, terminology-reference, output-schema-visual-confirmation
 ---
@@ -36,11 +36,35 @@ Consult the `visual-identification-guide` skill for what each decoration type lo
    - `visual_match`: how clearly the expected decoration signature appears
    - `limiting_factor`: whichever of the above is lowest — `resolution`, `coverage`, `visual_ambiguity`, or `inherent_uncertainty`
 
+## YEK Portal Authentication
+
+Before navigating to any YEK portal page:
+
+1. Navigate to your target detail page. Use `browser_run_code` to check the resulting URL:
+   ```js
+   async (page) => page.url()
+   ```
+2. **If URL contains `/main/login`**: you need to authenticate. Read `.env` in the project root for `YEK_USERNAME` and `YEK_PASSWORD`. Use `browser_run_code` to fill and submit the login form:
+   ```js
+   async (page) => {
+     const inputs = await page.$$('input[type="text"], input[type="password"]');
+     if (inputs.length >= 2) {
+       await inputs[0].fill(USERNAME);
+       await inputs[1].fill(PASSWORD);
+     }
+     const btn = await page.$('button:has-text("Giriş")');
+     if (btn) await btn.click();
+     await page.waitForNavigation({ timeout: 15000 }).catch(() => {});
+     return page.url();
+   }
+   ```
+3. **If URL contains `/works/detail/`**: you are already authenticated — proceed with your task.
+
 ## Acquiring Folio Images
 
 ### Always prefer IIIF for image capture
 
-IIIF direct download delivers **higher quality** (up to 4524×3297 px native vs ~1536×864 px from the viewer) with no UI chrome. Always use IIIF for the actual images you analyze.
+IIIF direct download delivers **native resolution** (up to 11000×7000 px) with no UI chrome. Always use IIIF for the actual images you analyze.
 
 **IIIF URL pattern:**
 
@@ -52,29 +76,18 @@ https://portal.yek.gov.tr/iiif/webservice/ShowImage/{internal_iiif_id}/{page}/fu
 - `{page}` — 1-indexed page number
 - Use `full` for native resolution; use `1600,` for a 1600px-wide version; use `90,` for thumbnails
 
-**Rendering images for screenshot** — navigating to the URL directly does NOT work (browser shows binary). Use `browser_run_code` to inject the image into an HTML page:
+**Downloading IIIF images** — use `curl` via the Bash tool to download directly to `corpus/iiif/`. This gives you the true native resolution (browser screenshots are capped at viewport size). Example:
 
-```js
-async (page) => {
-  const iiifUrl = 'https://portal.yek.gov.tr/iiif/webservice/ShowImage/{id}/{page}/full/full/0/default.jpg';
-  await page.setContent(`<!DOCTYPE html><html><body style="margin:0;background:#000">
-    <img id="img" src="${iiifUrl}" style="max-width:100%;display:block;" crossorigin="anonymous"/>
-  </body></html>`);
-  await page.waitForFunction(() => {
-    const img = document.getElementById('img');
-    return img && img.complete && img.naturalWidth > 0;
-  }, { timeout: 15000 });
-  const dims = await page.evaluate(() => {
-    const img = document.getElementById('img');
-    return { naturalWidth: img.naturalWidth, naturalHeight: img.naturalHeight };
-  });
-  return dims;
-}
+```bash
+curl -s -o "corpus/iiif/{collection}_{shelfmark}_p{page}.jpg" \
+  "https://portal.yek.gov.tr/iiif/webservice/ShowImage/{iiif_id}/{page}/full/full/0/default.jpg"
 ```
 
-Then call `browser_take_screenshot` to save the result.
+You can download multiple pages in parallel using `&` and `wait`. Save files using the naming convention `{collection}_{shelfmark}_p{NNN}.jpg` (3-digit zero-padded page number).
 
-**If `internal_iiif_id` is not yet known**, extract it using `browser_run_code` with a network request interceptor (see `yek-playbook` for the exact code snippet). Store the ID in the search JSON for future sessions.
+After downloading, use the Read tool to view the image for analysis (it supports image files natively).
+
+**If `internal_iiif_id` is not yet known**, extract it from the YEK detail page viewer. Navigate to the detail page, click the viewer button, and use `browser_run_code` to intercept network requests containing `/iiif/webservice/ShowImage/` — the 13-digit number in the URL is the IIIF ID. Store it in the search JSON for future sessions.
 
 ### When to use the YEK Viewer instead
 
