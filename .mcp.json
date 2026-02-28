@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "playwright-multi": {
+      "command": "node",
+      "args": ["scripts/mcp-proxy.mjs"]
+    }
+  }
+}

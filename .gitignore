@@ -30,3 +30,19 @@ catalog/searches/
 temp/
 temp_snapshot*.md
 memory/*
+
+# Root-level working images (re-downloadable from YEK portal)
+# Note: examples/ subdirectories are exempt (tracked reference taxonomy)
+/*.jpeg
+/*.jpg
+/*.png
+
+# Playwright browser session snapshots (ephemeral, regenerated each session)
+snapshot_*.md
+yek_*.md
+advsearch_snapshot.md
+search[0-9]*.md
+search[0-9]*.png
+
+# Node.js
+node_modules/

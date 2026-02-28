@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head><title>IIIF Image Loader</title></head>
+<body style="margin:0;background:#000">
+<img id="img" style="max-width:100%;display:block;" />
+<script>
+  const params = new URLSearchParams(window.location.search);
+  const iiifId = params.get('id') || '0000000348716';
+  const pg = params.get('page') || '1';
+  const size = params.get('size') || '1600,';
+  const url = `https://portal.yek.gov.tr/iiif/webservice/ShowImage/${iiifId}/${pg}/full/${size}/0/default.jpg`;
+  document.getElementById('img').src = url;
+</script>
+</body>
+</html>
