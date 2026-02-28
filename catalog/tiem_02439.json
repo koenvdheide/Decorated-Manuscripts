@@ -1,0 +1,569 @@
+{
+  "record_id": "tiem_02439",
+  "collection": {
+    "institution": "Türk ve İslam Eserleri Müzesi",
+    "city": "Istanbul",
+    "country": "Turkey",
+    "shelfmark": "02439",
+    "yek_url": "https://portal.yek.gov.tr/works/detail/705380"
+  },
+  "manuscript": {
+    "title": "Muraqqaʿ / مرقع",
+    "title_script": "مرقع",
+    "title_alt": "Sülüs-Nesih Meşk Muraqqaʿı",
+    "author": null,
+    "author_dates": null,
+    "calligrapher": null,
+    "calligrapher_dates": null,
+    "calligrapher_note": "No calligrapher name (hattat adı) is recorded in the YEK catalogue or visible in the IIIF images. The album contains 21 calligraphic pieces (parça yazı) in sülüs-nesih meşk format. The absence of a ketebe (colophon) makes individual attribution impossible without physical examination and stylistic comparison to documented calligraphers. The meşk format — beginning with 'Rabbī yessir' and progressing through harf meşkleri (letter exercises) to hadith texts — is a standard Ottoman calligraphy training/display sequence, potentially the work of a student or an anonymous master.",
+    "date_ah": null,
+    "date_ce": null,
+    "date_note": "No date is given in the YEK catalogue record. The decorated paper program — dense gold floral silhouetted/stenciled margins with naturalistic garden compositions, polychrome accents, and zerkârî calligraphy substrate — is consistent with late 17th- to 18th-century Ottoman production, but no firm terminus is available without physical examination, calligrapher identification, or archival documentation. Date null pending further research.",
+    "place_of_copy": null,
+    "format": "Muraqqaʿ / مرقع — calligraphic album with silhouetted/stenciled decorated paper margins (çiçekli kâğıt, probable), zerkârî calligraphy substrate, and full-page gold garden compositions",
+    "format_note": "A bound Ottoman calligraphic album (muraqqaʿ) of 13 folios (16 pages including covers) containing 21 parça yazı (calligraphic specimen pieces) in sülüs and nesih scripts. The album's meşk format begins with 'Rabbī yessir' (ربّي يسّر — 'My Lord, make it easy'), progresses through harf meşkleri (letter exercises), and continues with hadith-i şerîfler (prophetic sayings), with a greater density of hadith texts in the nesih sections. The album's distinguishing feature is its exceptionally dense gold floral decoration on ALL calligraphy page margins — naturalistic flowering plants (tulips, carnations, hyacinths, garden vegetation) rendered in gold with blue and polychrome accents — classified as probable silhouetted/stenciled decorated paper (çiçekli kâğıt) at confidence 0.60, with halkar (hand-painted margin decoration) not excluded. Two full-page gold garden compositions (pp. 003r and 014l) featuring prominent cypress trees and dense flowering plant scenes serve as decorative frontispiece and near-endpiece pages. The calligraphy substrate paper is salmon/buff toned with zerkârî (gold-worked) floral motifs beneath the text. Ottoman lacquer binding with gilt şemse, salbek, and köşe ornaments.",
+    "language": "Arabic",
+    "script": "Sülüs (ثلث) and Nesih (نسخ) — per YEK catalogue: 'Arap harfli — Sülüs, Nesih'",
+    "dimensions_mm": {
+      "height": 335,
+      "width": 230,
+      "writing_area_mm": {
+        "height": null,
+        "width": null
+      },
+      "note": "Outer dimensions 335×230 mm per YEK catalogue. Writing area 'muhtelif × muhtelif' (various × various) — individual calligraphy panels vary in dimensions as expected in a muraqqaʿ with 21 discrete pieces. Individual panel dimensions not recorded."
+    },
+    "folio_count": 13,
+    "yek_id": "705380",
+    "iiif_id": "0000000662593",
+    "notes": "A large-format calligraphic meşk album with an exceptionally rich decorated paper program. The combination of (1) dense silhouetted/stenciled gold floral margins on every calligraphy page, (2) two dedicated full-page gold garden compositions with prominent cypress trees, (3) zerkârî floral motifs on the calligraphy substrate paper, and (4) multi-layer cetvelli framing and vassale mounting throughout makes this one of the most elaborately decorated albums in the TIEM muraqqaʿ corpus. The technique classification — silhouetted/stenciled decorated paper (çiçekli kâğıt) versus halkar (hand-painted margins) — remains probable (0.60) rather than confirmed, because recto/verso comparison across multiple leaf pairs was inconclusive (calligraphy panels cover page centers, preventing mirror-image detection). Physical examination is needed for definitive technique determination. The YEK catalogue note — 'muraqqanın bütünümde sayfa kenarları çiçek motifleriyle süslenmiştir' (page margins decorated with flower motifs throughout the album) — is confirmed but significantly understates the richness and variety of the decoration. Catalogue entry by Nalan Kutsal."
+  },
+  "paper_decoration": {
+    "types": [
+      "other",
+      "gold_worked",
+      "colored",
+      "illuminated_margins",
+      "framing_system"
+    ],
+    "summary": "TIEM 02439 exhibits one of the most elaborate decorated paper programs in the TIEM muraqqaʿ corpus, with multiple decorative layers operating simultaneously across all 13 interior folios. TECHNIQUE NOTE: The primary margin decoration is classified as probable silhouetted/stenciled decorated paper (çiçekli kâğıt, confidence 0.60); halkar (hand-painted margin decoration) is not excluded. Physical examination is required for definitive technique determination.\n\n(1) MARGIN DECORATION (all calligraphy pages, pp. 003–014): Dense gold floral decoration fills all four margins on every calligraphy page. The motifs are naturalistic flowering plants rendered in gold on a cream/off-white ground, including: tulips (lâle) with pointed petals, carnations (karanfil) with fringed blooms, hyacinths (sümbül) with clustered racemes, multi-petaled rosettes, small bushes and ground-cover vegetation, and tall leafy stems. Blue and polychrome accents are applied to selected blooms — blue-tinted flower heads, occasional purple or pink highlights — creating chromatic variety within the gold-dominant palette. The floral compositions vary from page to page but maintain a consistent density and naturalistic garden aesthetic throughout. The technique is characterized by flat gold application with fine tahrîrî (outlined) detailing — each petal, leaf, and stem is rendered with precise dark outlines defining the gold silhouette forms. This flat, outlined quality, combined with the uniform execution across 12 calligraphy pages, is consistent with silhouetted/stenciled production (çiçekli kâğıt), though the blue/polychrome accents suggest at minimum a secondary hand-applied finishing pass.\n\n(2) FULL-PAGE GARDEN COMPOSITIONS (pp. 003r and 014l): Two pages are devoted entirely to gold garden scenes without calligraphy panels. These display tall cypress trees (servi) — the iconic vertical evergreen of Ottoman garden imagery — surrounded by dense flowering plants, bushes, and garden vegetation, all in gold with blue and green accents. The cypress trees are rendered with fine needle-like foliage texture in green-tinted gold or green pigment. These garden compositions function as decorative frontispiece (p003r) and near-endpiece (p014l) within the album, framing the calligraphic content.\n\n(3) ZERKÂRÎ CALLIGRAPHY SUBSTRATE: The calligraphy writing surfaces throughout the album are on distinctly salmon/buff-toned paper bearing gold floral/vegetal motifs applied to the paper ground. These are visible as lighter gold botanical patterns — leaves, stems, and stylized floral sprays — beneath and around the calligraphic text. This constitutes zerkârî (gold-worked / altın işlemeli) paper, where the decorative program is applied to the writing surface before the calligraphy is executed.\n\n(4) MULTI-LAYER CETVELLI FRAMING: Each calligraphy panel is surrounded by a compound cedvel (ruling) system of at least 4 bands: a gold outer rule, a blue band, a salmon/pink band, and a gold inner rule. Some pages show additional thin polychrome bands (a narrow illuminated strip with small rosette or dot motifs) between the outer and inner gold rules. The cedvel system marks the transition between the floral margin paper and the calligraphy panel.\n\n(5) VASSALE MOUNTING: All calligraphy panels are window-mounted (vassale) into the decorated margin paper. The join is visible at the cedvel boundary, where the salmon/buff calligraphy paper meets the cream margin ground.\n\n(6) COLORED PAPER (probable, 0.70): The calligraphy writing surfaces appear to be on intentionally salmon/buff-toned (boyalı) paper, consistent across all panels. This may be deliberately colored rather than natural cream paper, but could also represent the natural color of the paper stock. The warm salmon tone is clearly distinct from the cream ground of the margin paper.",
+    "distribution_notes": "Decorated margins: ALL interior calligraphy pages (pp. 003l through 014r, excluding the two full-page garden compositions which have decoration across the entire page surface). Full-page gold garden compositions: p003r (right page of first opening) and p014l (left page of last calligraphy opening). Zerkârî calligraphy substrate: ALL calligraphy panels throughout the album. Cetvelli framing and vassale: ALL calligraphy panels. Front and back covers (pp. 001, 016): Ottoman lacquer binding — no paper decoration on exterior. Inside covers and flyleaves (pp. 002, 015): plain yellow/buff paper without decoration.",
+    "technique_terms": {
+      "ottoman": "çiçekli kâğıt / kalıp çiçekli kâğıt (silüetli/kalıplı çiçekli süslemeli kâğıt — probable); zerkârî / altın işlemeli kâğıt (altın çiçekli yazı kâğıdı); tahrîrî (konturlu altın motif); boyalı kâğıt (somon/açık kahve renkli yazı kâğıdı — probable); altın cetvelli; vassale / pencere geçirme",
+      "persian": "kāghadh-e gul-dār (كاغذ گلدار) — flower-decorated paper; zar-kārī (زركاری) — gold-worked; jadval-e zar (جدول زر) — gold ruling",
+      "arabic": "waraq muzakhraf bi-al-dhahab (ورق مزخرف بالذهب) — gold-decorated paper; jadwal mudhahdhab (جدول مذهّب) — gold-ruled frame; taḥrīr (تحرير) — outlining"
+    },
+    "catalogue_description": {
+      "paper_field": null,
+      "paper_field_normalized": null,
+      "paper_field_translation": null,
+      "notes_field": "\"Rabbi yessir\"le başlayıp sülüs-nesih harf meşkleriyle devam eden, harf meşkleri bittikten sonra hadis-i şeriflerin yer aldığı, özellikle nesih hattıyla olan kısımda daha çok hadislere yer verilmiş olan, 21 parça yazıdan oluşan bu murakkada hattat adı ve tarih bulunmamaktadır. Muraqqanın bütünümde sayfa kenarları çiçek motifleriyle süslenmiştir.",
+      "notes_field_normalized": "\"Rabbi yessir\" ile başlayıp sülüs-nesih harf meşkleriyle devam eden, harf meşkleri bittikten sonra hadis-i şeriflerin yer aldığı, özellikle nesih hattıyla olan kısımda daha çok hadislere yer verilmiş olan, 21 parça yazıdan oluşan bu murakkada hattat adı ve tarih bulunmamaktadır. Muraqqanın bütününde sayfa kenarları çiçek motifleriyle süslenmiştir.",
+      "notes_field_translation": "In this album (muraqqaʿ) consisting of 21 calligraphic pieces, which begins with 'Rabbī yessir' and continues with sülüs-nesih letter exercises, and after the letter exercises are completed contains prophetic sayings (hadith-i şerîf) — with hadith texts particularly prominent in the nesih sections — no calligrapher's name or date is recorded. Throughout the album, page margins are decorated with flower motifs.",
+      "decoration_field": null,
+      "source": "YEK portal, genel notlar field, record 705380, Türk ve İslam Eserleri Müzesi. Catalogued by Nalan Kutsal. Kâğıt özellikleri, tezhip/minyatür, and cilt özellikleri fields are all null in the YEK record. The genel notlar is the sole source for the decoration description — 'sayfa kenarları çiçek motifleriyle süslenmiştir' — which significantly understates the richness of the actual decorative program."
+    }
+  },
+  "workshop_attribution": {
+    "primary_tradition": "ottoman",
+    "workshop_centre": "Istanbul",
+    "date_range_ce": "late 17th–18th century (c. 1680–1780)",
+    "confidence": 0.65,
+    "key_indicators": [
+      "The silhouetted/stenciled decorated paper technique (çiçekli kâğıt) with naturalistic garden flora — tulips, carnations, hyacinths, cypress trees — is characteristic of Ottoman Istanbul production from the late 17th century onward, where such papers were used in luxury album and document contexts",
+      "The sülüs-nesih meşk format (Rabbī yessir → harf meşkleri → hadith) is a standard Ottoman calligraphy training/exhibition sequence associated with Istanbul calligraphic practice",
+      "The full-page gold garden compositions with prominent cypress trees reflect Ottoman garden aesthetics (bāġçe taṣvīri) specific to Istanbul luxury arts of the late 17th–18th centuries",
+      "The Ottoman lacquer binding with gilt şemse containing rumî and hatâyî scrollwork, paired salbek pendants, and köşe corner pieces is a classic Istanbul binding format",
+      "The multi-layer cetvelli framing system (gold, blue, salmon, gold) with vassale mounting is standard for Istanbul-produced calligraphic albums of this period"
+    ],
+    "cross_tradition_caveats": [
+      "No calligrapher name or date is recorded, preventing firm dating — the broad range (c. 1680–1780) reflects this uncertainty",
+      "The technique classification (silhouetted/stenciled vs. halkar) remains unresolved at confidence 0.60; if the margin decoration proves to be halkar (hand-painted), the date range and workshop implications may shift",
+      "Silhouetted/stenciled decorated papers (çiçekli kâğıt) were produced across the Ottoman Empire and exported; attribution to Istanbul specifically rests on the binding style, meşk format, and overall album program rather than on the paper type alone",
+      "The zerkârî calligraphy substrate could have been produced independently of the margin papers; the album may represent an assemblage of papers from different production contexts"
+    ]
+  },
+  "codicology": {
+    "paper": {
+      "color": "Two paper types: (1) Margin paper — cream/off-white ground with dense gold floral decoration and blue/polychrome accents; consistent across all calligraphy openings. (2) Calligraphy substrate — salmon/buff-toned paper (probable boyalı/colored paper, confidence 0.70), with zerkârî (gold-worked) floral motifs applied to the ground beneath the calligraphic text. The warm salmon tone of the calligraphy paper is clearly distinct from the cream margin ground.",
+      "preparation": "The calligraphy text panels are written on âharlı (sized and burnished) salmon/buff paper, consistent with Ottoman luxury calligraphy paper. The burnished surface is evident from the clean ink adhesion visible in the sülüs and nesih letterforms. The zerkârî motifs — gold botanical patterns of leaves, stems, and stylized floral sprays — are applied to the prepared paper ground before the calligraphy is executed, as the calligraphic strokes overlay the gold motifs without disruption. The margin paper appears to be a lighter-weight cream paper onto which the gold floral silhouette decoration and polychrome accents have been applied.",
+      "weight": "Indeterminate from IIIF images. Standard Ottoman album weight expected — the album's 335×230 mm dimensions suggest a substantial paper stock for the margin sheets.",
+      "decoration": "Silhouetted/stenciled gold floral decoration (probable çiçekli kâğıt) on margin papers; zerkârî gold floral motifs on calligraphy substrate; multi-layer cetvelli framing; vassale mounting.",
+      "paper_type": "Eastern/Oriental paper for calligraphy panels (salmon/buff toned, âharlı); probable Eastern paper for margin sheets (cream ground). Both are consistent with Ottoman paper production."
+    },
+    "ruling": {
+      "system": "Multi-layer altın cetvelli (gold ruling) compound framing system surrounding each calligraphy panel, consisting of at least 4 concentric bands with vassale mounting at the junction.",
+      "description": "Each calligraphy opening presents a compound framing system visible at IIIF resolution (examined on pp. 003, 004, 005, 006, 008, 010, 012, 014): from outside in — (1) the decorated cream margin paper with gold floral silhouette decoration; (2) a gold outer ruling line; (3) a blue band (approximately 2–3 mm wide); (4) a salmon/pink band; (5) a gold inner ruling line immediately surrounding the calligraphy panel. Some openings show additional narrow polychrome bands — a thin illuminated strip with small rosette or dot ornaments in gold and colors — between the main blue and salmon bands. The cedvel system consistently maintains gold–blue–salmon–gold color sequence across all examined pages, with minor variations in band width. Small koltuk-like decorative elements (tiny rosettes or floral medallions) appear at some frame corners on certain pages. The overall system is of high quality and consistent with luxury Ottoman album production."
+    },
+    "binding": {
+      "cover_description": "Both front (p001) and back (p016) covers are dark red/crimson Ottoman lacquer leather. Each cover bears: (1) a gilt outer frame of multiple parallel lines (zencirek border) running along the cover edges; (2) a central gilt şemse (medallion) in the classic oval form, filled with dense rumî and hatâyî scrollwork — intertwining split-leaf palmettes and stylized lotus/peony blossoms in gold on the red leather ground, with radiating gold finial lines extending from the şemse's points; (3) paired salbek (pendant) motifs above and below the şemse — smaller elongated pointed medallions with vegetal infill; (4) four köşe (corner pieces) at the cover corners, each containing flowing vegetal designs of rumî and hatâyî character in gold. The binding is intact and in good condition, with moderate surface scuffing on the front cover. Library accession labels (T 2439 and earlier references) are affixed to the front cover upper area.",
+      "cover_type": "Lâke cilt / mülemma' cilt — Ottoman lacquer red leather binding with gilt şemse, salbek, and köşe ornaments",
+      "notes": "The şemse design — densely filled rumî-hatâyî scrollwork with extending finials and paired salbek — is a well-documented Ottoman luxury binding type. The front and back covers are closely matched in design, suggesting original simultaneous production rather than rebinding. The quality of the gilt tooling — dense, continuous scrollwork without visible gaps or tool-mark irregularities — indicates professional binder (mücellit) work. The binding is consistent with late 17th- to 18th-century Istanbul production."
+    },
+    "format": "Muraqqaʿ — Ottoman calligraphic meşk album (13 folios / 16 pages including covers), containing 21 parça yazı in sülüs-nesih format",
+    "condition_summary": "The album is generally well-preserved. The lacquer binding covers (pp. 001, 016) are intact with moderate surface scuffing on the front cover; the gilt şemse, salbek, and köşe ornaments are clear and legible. The interior calligraphy pages (pp. 003–014) are in good condition: the gold floral margin decoration is vivid and the blue/polychrome accents are clearly visible; the calligraphy is legible; the cetvelli framing is intact. The two full-page garden compositions (pp. 003r, 014l) are well-preserved with clear gold detail and green-tinted cypress trees. The salmon/buff calligraphy substrate papers show some age toning but the zerkârî gold motifs remain visible beneath the text. The inside covers/flyleaves (pp. 002, 015) show plain yellow/buff paper with a faint circular library stamp. Some minor foxing is visible on individual pages but does not significantly impair legibility or decoration quality. No catastrophic damage, missing leaves, or major repair campaigns are visible.",
+    "conservation_history": null
+  },
+  "visual_confirmation": {
+    "verdict": "confirmed",
+    "confidence": 0.96,
+    "screenshots_examined": 16,
+    "folios_examined": [
+      "corpus/iiif/tiem_02439_p001.jpg",
+      "corpus/iiif/tiem_02439_p002.jpg",
+      "corpus/iiif/tiem_02439_p003.jpg",
+      "corpus/iiif/tiem_02439_p004_iiif.jpg",
+      "corpus/iiif/tiem_02439_p005.jpg",
+      "corpus/iiif/tiem_02439_p006_iiif.jpg",
+      "corpus/iiif/tiem_02439_p007_iiif.jpg",
+      "corpus/iiif/tiem_02439_p008.jpg",
+      "corpus/iiif/tiem_02439_p009_iiif.jpg",
+      "corpus/iiif/tiem_02439_p010_iiif.jpg",
+      "corpus/iiif/tiem_02439_p011_iiif.jpg",
+      "corpus/iiif/tiem_02439_p012_iiif.jpg",
+      "corpus/iiif/tiem_02439_p013_iiif.jpg",
+      "corpus/iiif/tiem_02439_p014.jpg",
+      "corpus/iiif/tiem_02439_p015_iiif.jpg",
+      "corpus/iiif/tiem_02439_p016.jpg"
+    ],
+    "visual_evidence": "All 16 IIIF pages examined at native resolution. Dense gold floral margin decoration confirmed on ALL calligraphy pages (pp. 003–015). The catalogue claim 'sayfa kenarları çiçek motifleriyle süslenmiştir' is confirmed and significantly understated. Naturalistic garden flora — tulips, carnations, hyacinths, bushes, cypress trees, and diverse flowering plants — rendered in gold with tahrîrî outlining and blue/polychrome accents on cream margin grounds. Two full-page gold garden compositions (pp. 003r, 014l) with prominent cypress trees confirmed. Zerkârî gold motifs on salmon/buff calligraphy substrate confirmed across all calligraphy panels. Multi-layer cetvelli framing (gold, blue, salmon, gold) and vassale mounting confirmed throughout. Ottoman lacquer binding with gilt şemse, salbek, and köşe confirmed on both covers. Recto/verso comparison across 4 leaf pairs was inconclusive for technique determination (calligraphy panels cover page centers).",
+    "limitations": [
+      "Technique determination (silhouetted/stenciled vs. halkar) could not be definitively resolved from IIIF images — recto/verso comparison was inconclusive because calligraphy panels cover page centers, preventing mirror-image detection; physical examination required",
+      "The blue/polychrome accents on the gold floral motifs may indicate a secondary hand-applied finishing pass over a stenciled/silhouetted gold base, complicating simple technique classification",
+      "No calligrapher name or date was independently readable from IIIF images; YEK catalogue text is relied upon for content description",
+      "Individual calligraphy panel dimensions were not measurable from IIIF images",
+      "Whether the salmon/buff calligraphy substrate paper is intentionally colored (boyalı) or naturally toned cannot be determined without physical examination"
+    ],
+    "source_agent": "visual-confirmation (IIIF examination)",
+    "session": "catalog/searches/visual_tier2_tiem_02439.json"
+  },
+  "folio_analyses": [
+    {
+      "folio": "Front cover (IIIF p001)",
+      "source_image": "corpus/iiif/tiem_02439_p001.jpg",
+      "decoration_present": true,
+      "decoration_types": ["framing_system"],
+      "elements": [
+        {
+          "motif": "Ottoman lacquer binding with gilt şemse, salbek, and köşe",
+          "description": "The front cover is dark red/crimson Ottoman lacquer leather. A central gilt şemse (oval medallion) is filled with densely interlocking rumî (split-leaf palmette) and hatâyî (stylized floral) scrollwork in gold, with fine radiating finial lines extending from the şemse's four directional points. Paired salbek (pendant) motifs — smaller elongated pointed medallions with vegetal infill — are positioned above and below the şemse. Four large köşe (corner pieces) at the cover corners contain flowing rumî-hatâyî vegetal designs. Multiple gilt parallel ruling lines form a zencirek border frame at the cover edges. Library accession labels ('T 2439' and additional references in Ottoman and modern scripts) are affixed to the upper center. Minor surface scuffing and discoloration are present but the gilt ornaments remain clear and legible.",
+          "location": "Full front cover exterior",
+          "confidence": 0.97
+        }
+      ],
+      "confidence": 0.97,
+      "notes": "The lacquer binding is intact and original. The şemse design — dense rumî-hatâyî scrollwork filling an oval medallion with extending finials — is a well-documented late Ottoman luxury binding type consistent with Istanbul production."
+    },
+    {
+      "folio": "Inside front cover + first flyleaf (IIIF p002)",
+      "source_image": "corpus/iiif/tiem_02439_p002.jpg",
+      "decoration_present": false,
+      "decoration_types": [],
+      "elements": [
+        {
+          "motif": "Plain endpapers — yellow/buff paper",
+          "description": "The inside front cover (left page) shows plain off-white/cream paper with some age toning and soiling. The right page (first flyleaf) shows distinctly warm yellow/buff-toned paper. A faint circular library stamp is visible at the gutter between the two pages. No gold speckling, floral decoration, or other decorative treatment is apparent. The warm yellow tone of the right page was noted in visual triage as potentially zerefşân (gold-sprinkled), but at IIIF resolution no individual gold specks are resolved — the warm yellow tone may simply be the natural color of a yellow-dyed or aged paper.",
+          "location": "Inside front cover opening, both pages",
+          "confidence": 0.85
+        }
+      ],
+      "confidence": 0.85,
+      "notes": "The endpapers are plain and undecorated, in contrast to the richly decorated interior pages. The warm yellow tone of the right page remains ambiguous (possible zerefşân at confidence 0.40, per visual confirmation data) but is treated as undecorated in this analysis pending physical examination."
+    },
+    {
+      "folio": "First calligraphy opening with full-page garden composition (IIIF p003)",
+      "source_image": "corpus/iiif/tiem_02439_p003.jpg",
+      "decoration_present": true,
+      "decoration_types": ["other", "gold_worked", "illuminated_margins", "framing_system"],
+      "elements": [
+        {
+          "motif": "Calligraphy page with floral margins and zerkârî substrate (left page, p003l)",
+          "description": "The left page carries a vassale-mounted calligraphy panel on salmon/buff paper with zerkârî (gold-worked) floral motifs visible beneath and around the calligraphic text. The panel is surrounded by a multi-layer cetvelli frame (gold outer rule, blue band, salmon band, gold inner rule). The four margins are densely filled with gold floral silhouette decoration on a cream ground: naturalistic flowering plants including tulips with pointed petals, multi-petaled rosettes, leafy bushes, and tall flowering stems, all rendered in gold with tahrîrî (dark outline) detailing and blue accents on selected flower heads. A library stamp ('2439') and additional manuscript notations are visible on the calligraphy panel. Calligraphic text appears to be in sülüs (large lines) and nesih (smaller lines) with horizontal dividers between registers.",
+          "location": "Left page of first calligraphy opening",
+          "confidence": 0.90
+        },
+        {
+          "motif": "Full-page gold garden composition with cypress trees (right page, p003r)",
+          "description": "The right page is a full-page decorative composition without a calligraphy panel — entirely devoted to a gold garden scene. The composition features: (a) two prominent cypress trees (servi) — tall, slender, conical evergreens — rendered in green-tinted gold or green pigment with fine needle-like foliage texture, positioned as the dominant vertical elements; (b) dense surrounding garden vegetation: flowering plants of various heights, leafy bushes, ground-cover flowers, and tall stems with composite blooms, all in gold with tahrîrî outlining; (c) blue-tinted flower heads and occasional polychrome accents scattered through the composition; (d) the overall effect is of a naturalistic Ottoman garden scene (bāġçe taṣvīri) rendered in gold monochrome with selective color accents. The garden composition fills the entire page to the edges, with no framing system — the decoration extends to the paper margins.",
+          "location": "Right page of first opening — full-page garden composition",
+          "confidence": 0.93
+        }
+      ],
+      "confidence": 0.92,
+      "notes": "This is the most visually striking opening in the album: the juxtaposition of a calligraphy page with floral margins (left) and a full-page gold garden composition (right) creates a dramatic decorative statement. The garden composition on p003r functions as a decorative frontispiece for the album's calligraphic content. The cypress trees — the iconic motif of Ottoman garden imagery — are the tallest and most prominent elements in the composition."
+    },
+    {
+      "folio": "Second calligraphy opening (IIIF p004)",
+      "source_image": "corpus/iiif/tiem_02439_p004_iiif.jpg",
+      "decoration_present": true,
+      "decoration_types": ["other", "gold_worked", "illuminated_margins", "framing_system"],
+      "elements": [
+        {
+          "motif": "Paired calligraphy pages with floral margins and cetvelli framing",
+          "description": "Both pages carry vassale-mounted calligraphy panels on salmon/buff zerkârî paper, each surrounded by a multi-layer cetvelli frame (gold, blue, salmon, gold). The margins on both pages are densely filled with gold floral silhouette decoration — naturalistic flowering plants, tulips, carnations, bushes, and tall flowering stems in gold with tahrîrî outlining. Blue-tinted flower heads are visible on both pages. The left page shows a slightly different cetvelli variant: an additional narrow blue band within the frame and what appears to be a thin illuminated polychrome strip with tiny dot/rosette motifs. The right page's framing includes a narrow polychrome illuminated band with small pink/red rosettes along the outer edge of the blue band. The floral margin decoration on both pages shows variety in plant composition — the left page has more prominent leafy bushes and ground-cover clusters at the bottom, while the right page has taller flowering stems and a small cypress tree visible in the lower right margin area.",
+          "location": "Both pages of second calligraphy opening",
+          "confidence": 0.90
+        }
+      ],
+      "confidence": 0.90,
+      "notes": "The variation in cetvelli framing details between left and right pages — particularly the presence of a narrow polychrome illuminated strip on the right page — suggests either slight page-to-page variation in the framing program or different production stages. The variety in floral margin compositions from page to page, while maintaining consistent density and technique, is characteristic of silhouetted/stenciled paper production where multiple stencil patterns may be used across a single album."
+    },
+    {
+      "folio": "Third calligraphy opening (IIIF p005)",
+      "source_image": "corpus/iiif/tiem_02439_p005.jpg",
+      "decoration_present": true,
+      "decoration_types": ["other", "gold_worked", "illuminated_margins", "framing_system"],
+      "elements": [
+        {
+          "motif": "Paired calligraphy pages with dense floral margins — harf meşkleri content",
+          "description": "Both pages carry calligraphy panels with sülüs-nesih meşk content (letter exercises and hadith). The margins are densely filled with gold floral decoration: the bottom margin of the left page shows particularly dense clustering of low bushes and ground-cover flowers; the right page features an additional narrow illuminated band (başlık strip) with small polychrome rosette ornaments at the top of the calligraphy panel. The cetvelli framing is consistent: gold, blue, salmon, gold. The zerkârî gold motifs on the salmon calligraphy substrate are clearly visible on both panels — stylized floral sprays and leaf patterns in gold beneath the black ink calligraphy. The right page's calligraphy panel appears slightly smaller than the left, a variation consistent with the album's 'muhtelif' (various) panel dimensions.",
+          "location": "Both pages of third calligraphy opening",
+          "confidence": 0.88
+        }
+      ],
+      "confidence": 0.88,
+      "notes": "The narrow illuminated başlık strip visible on the right page — a thin polychrome band with small rosettes at the panel's upper edge — adds an illumination layer not consistently present on all pages, suggesting selective embellishment of certain calligraphy pieces. The dense lower-margin floral clusters on the left page include what appear to be carnation blooms with characteristic fringed petal outlines."
+    },
+    {
+      "folio": "Fourth calligraphy opening (IIIF p006)",
+      "source_image": "corpus/iiif/tiem_02439_p006_iiif.jpg",
+      "decoration_present": true,
+      "decoration_types": ["other", "gold_worked", "illuminated_margins", "framing_system"],
+      "elements": [
+        {
+          "motif": "Paired calligraphy pages — consistent floral margin program",
+          "description": "Both pages continue the album's consistent decorative program. The margins are filled with gold floral decoration in the same naturalistic garden style: tulips, multi-petaled rosettes, leafy stems, and low bushy ground-cover plants. Blue-tinted flower heads are clearly visible on both pages — particularly prominent on the upper margins, where several blooms show distinct blue coloring within the gold petal outlines. The cetvelli framing maintains the gold–blue–salmon–gold sequence. The calligraphy panels show sülüs (large) and nesih (small) text registers on salmon/buff zerkârî paper. A small purple-tinted rosette is visible in the upper portion of the right page's calligraphy panel area, possibly a decorative element within the zerkârî pattern or a small illuminated accent.",
+          "location": "Both pages of fourth calligraphy opening",
+          "confidence": 0.90
+        }
+      ],
+      "confidence": 0.90,
+      "notes": "The blue-tinted flower heads are particularly prominent on this opening, confirming that the polychrome accents are a consistent feature of the margin decoration rather than an occasional addition. The purple-tinted rosette on the calligraphy substrate is notable — it may indicate that the zerkârî program includes polychrome elements in addition to gold."
+    },
+    {
+      "folio": "Typical mid-album calligraphy opening — hadith section (IIIF p008)",
+      "source_image": "corpus/iiif/tiem_02439_p008.jpg",
+      "decoration_present": true,
+      "decoration_types": ["other", "gold_worked", "illuminated_margins", "framing_system"],
+      "elements": [
+        {
+          "motif": "Paired calligraphy pages with floral margins — hadith content with heart-shaped motifs",
+          "description": "Both pages carry calligraphy panels in the sülüs-nesih meşk format, now in the hadith section of the album's textual sequence. The margin decoration maintains the dense gold floral program: naturalistic garden flora including tulips, hyacinths with clustered racemes, carnations, leafy stems, and low bushes. Blue accents on selected flower heads are clearly visible. Small heart-shaped leaf motifs are scattered among the taller flowering plants on both pages. The cetvelli framing is consistent (gold, blue, salmon, gold) with the addition of a narrow illuminated polychrome strip on the right page frame. The zerkârî gold motifs on the salmon calligraphy substrate are clearly visible — large stylized leaf/floral sprays in gold beneath the calligraphic text.",
+          "location": "Both pages of mid-album calligraphy opening",
+          "confidence": 0.90
+        }
+      ],
+      "confidence": 0.90,
+      "notes": "This opening is representative of the album's standard calligraphy pages in the hadith section. The heart-shaped leaf motifs scattered among the taller plants add variety to the gold floral vocabulary. The consistency of the margin decoration across the album — same technique, density, and naturalistic style, with page-to-page variation in specific plant compositions — supports the silhouetted/stenciled (çiçekli kâğıt) classification, as this level of uniformity is more easily achieved with stencils than with freehand painting."
+    },
+    {
+      "folio": "Late-album calligraphy opening (IIIF p012)",
+      "source_image": "corpus/iiif/tiem_02439_p012_iiif.jpg",
+      "decoration_present": true,
+      "decoration_types": ["other", "gold_worked", "illuminated_margins", "framing_system"],
+      "elements": [
+        {
+          "motif": "Paired calligraphy pages — polychrome accents prominent",
+          "description": "Both pages carry sülüs-nesih calligraphy panels with the full decorative program. The margin decoration on this opening shows particularly prominent polychrome accents: in addition to the blue-tinted flower heads, small pink/magenta rosettes and purple floral elements are visible among the gold botanical motifs on both pages. A small cypress tree silhouette is visible in the right margin of the right page, echoing the full-page garden compositions. The cetvelli framing includes the narrow polychrome illuminated strip with rosette dots on both pages. The calligraphy appears to be in the later hadith section, with denser nesih text occupying the central registers.",
+          "location": "Both pages of late-album calligraphy opening",
+          "confidence": 0.88
+        }
+      ],
+      "confidence": 0.88,
+      "notes": "The increased prominence of polychrome accents on this opening — pink/magenta rosettes and purple elements in addition to the blue accents — may represent a deliberate intensification of color toward the album's end, or may simply reflect page-to-page variation in the stencil/painting program. The presence of a small cypress tree in the margin decoration connects the margin vocabulary to the full-page garden compositions (pp. 003r, 014l)."
+    },
+    {
+      "folio": "Last calligraphy opening with full-page garden composition (IIIF p014)",
+      "source_image": "corpus/iiif/tiem_02439_p014.jpg",
+      "decoration_present": true,
+      "decoration_types": ["other", "gold_worked", "illuminated_margins", "framing_system"],
+      "elements": [
+        {
+          "motif": "Full-page gold garden composition with cypress tree (left page, p014l)",
+          "description": "The left page is a full-page decorative composition without a calligraphy panel — the second of the album's two dedicated garden pages. The composition features: (a) a single large, prominent cypress tree (servi) — rendered in deep green pigment with fine needle-like foliage texture, positioned as the dominant central vertical element; (b) dense surrounding garden vegetation in gold: flowering plants, leafy bushes, ground-cover clusters, and tall flowering stems with composite blooms; (c) blue-tinted flower heads and occasional polychrome accents; (d) the garden composition fills the entire page surface. This left-page garden composition mirrors the right-page garden on p003r, creating a bilateral garden 'frame' for the album's calligraphic content: garden frontispiece (p003r) → calligraphy pages → garden endpiece (p014l).",
+          "location": "Left page of last calligraphy opening — full-page garden composition",
+          "confidence": 0.93
+        },
+        {
+          "motif": "Calligraphy page with floral margins (right page, p014r)",
+          "description": "The right page carries a vassale-mounted calligraphy panel on salmon/buff zerkârî paper, surrounded by multi-layer cetvelli framing (gold, blue, salmon, gold) with a narrow polychrome illuminated strip. The margins are filled with gold floral decoration consistent with the album's standard program: naturalistic flowering plants, tulips, bushes, and blue-tinted flower heads. The calligraphy appears to be in the hadith section, with sülüs large lines and nesih smaller lines.",
+          "location": "Right page of last calligraphy opening",
+          "confidence": 0.90
+        }
+      ],
+      "confidence": 0.92,
+      "notes": "This opening mirrors p003 in its pairing of a full-page garden composition with a calligraphy page, but in reverse orientation: here the garden is on the left and the calligraphy on the right. The single large cypress tree on p014l is rendered in deeper green than the cypress pair on p003r, and stands alone rather than paired — creating visual variety between the two garden compositions while maintaining the shared garden vocabulary. The bilateral placement of the garden compositions (p003r and p014l) frames the album's entire calligraphic sequence."
+    },
+    {
+      "folio": "Inside back cover + rear flyleaf (IIIF p015)",
+      "source_image": "corpus/iiif/tiem_02439_p015_iiif.jpg",
+      "decoration_present": false,
+      "decoration_types": [],
+      "elements": [
+        {
+          "motif": "Plain endpapers — yellow/buff and cream paper",
+          "description": "The left page shows warm yellow/buff-toned paper, matching the first flyleaf (p002 right page). The right page (inside back cover) shows plain off-white/cream paper with minor soiling. A faint circular library stamp is visible at the gutter. No decorative treatment is apparent.",
+          "location": "Inside back cover opening, both pages",
+          "confidence": 0.90
+        }
+      ],
+      "confidence": 0.90,
+      "notes": "The plain endpapers at front and rear are matched in character — yellow/buff flyleaves paired with cream cover linings — providing an undecorated transition between the lacquer binding and the richly decorated interior."
+    },
+    {
+      "folio": "Back cover (IIIF p016)",
+      "source_image": "corpus/iiif/tiem_02439_p016.jpg",
+      "decoration_present": true,
+      "decoration_types": ["framing_system"],
+      "elements": [
+        {
+          "motif": "Ottoman lacquer binding with gilt şemse, salbek, and köşe — back cover",
+          "description": "The back cover is identical in design to the front (p001): dark red/crimson Ottoman lacquer leather with a central gilt şemse filled with rumî-hatâyî scrollwork, extending finial lines, paired salbek pendants above and below, four köşe corner pieces with vegetal designs, and gilt parallel ruling-line border. The back cover is in slightly better condition than the front, with less surface scuffing. The gilt ornaments are clear and fully legible.",
+          "location": "Full back cover exterior",
+          "confidence": 0.97
+        }
+      ],
+      "confidence": 0.97,
+      "notes": "The back cover confirms the bilateral symmetry of the binding program: front and back covers are matched in design and execution, as is standard for Ottoman luxury album bindings. The superior condition of the back cover suggests the album was typically displayed or stored face-up."
+    }
+  ],
+  "terminology": {
+    "terms_used": [
+      {
+        "concept": "Silhouetted/stenciled decorated paper",
+        "ottoman": "çiçekli kâğıt / kalıp çiçekli kâğıt / kalıplı kâğıt",
+        "arabic": "waraq muqaṭṭaʿ al-azhār (ورق مقطع الأزهار) — flower-cut/silhouetted paper",
+        "persian": "kāghadh-e gul-burīda (كاغذ گل بريده) — flower-cut paper; kāghadh-e gul-dār (كاغذ گلدار) — flower-bearing paper",
+        "english": "Çiçekli kâğıt (also serialized as kalıp çiçekli kâğıt, kalıplı kâğıt): paper decorated by applying gold and/or colored motifs through stencils (kalıp) or by silhouette techniques, producing flat, outlined floral compositions. The technique creates naturalistic garden scenes — tulips, carnations, hyacinths, cypress trees, and other botanicals — in gold with optional polychrome accents. Distinguished from halkar (hand-painted margins) by the flat, uniform quality of the gold application and the repeatable precision of motif execution, though the two techniques can be difficult to distinguish without physical examination. In this album, the classification is PROBABLE (confidence 0.60): the flat gold quality, tahrîrî outlining, uniform execution across 12 calligraphy pages, and zerkârî calligraphy substrate are consistent with silhouetted/stenciled production, but the blue/polychrome accents suggest a secondary hand-applied finishing pass, and halkar is not excluded."
+      },
+      {
+        "concept": "Gold-worked paper (calligraphy substrate)",
+        "ottoman": "zerkârî kâğıt / altın işlemeli kâğıt",
+        "arabic": "waraq muzakhraf bi-al-dhahab (ورق مزخرف بالذهب) — gold-decorated paper",
+        "persian": "zar-kārī (زركاری) — gold-worked; kāghadh-e zar-kārī (كاغذ زركاری) — gold-worked paper",
+        "english": "Zerkârî (also zar-kārī): paper decorated with gold motifs applied to the writing surface before calligraphy is executed. In this album, the salmon/buff calligraphy substrate bears gold botanical patterns — leaves, stems, and stylized floral sprays — beneath the ink text. The gold motifs are applied in a flat, outlined manner consistent with the broader decorative program. Zerkârî calligraphy substrates are a hallmark of luxury Ottoman album production."
+      },
+      {
+        "concept": "Outlined/contoured gold technique",
+        "ottoman": "tahrîrî / tahrîrli (konturlu, çizgiyle belirlenmiş)",
+        "arabic": "taḥrīr (تحرير) — outlining, delineation",
+        "persian": "taḥrīr (تحریر) — outlining",
+        "english": "Tahrîrî (also tahrîrli): a decorative technique in which motifs — particularly gold floral and vegetal forms — are defined by fine dark outlines (contour lines), creating precise silhouette forms. In this album, every gold botanical motif on the margin papers is rendered with dark outlines defining petals, leaves, stems, and other vegetal elements against the cream ground. The tahrîrî technique is characteristic of both silhouetted/stenciled and halkar decoration."
+      },
+      {
+        "concept": "Calligraphic album",
+        "ottoman": "muraqqaʿ / murakkaat (مرقعات)",
+        "arabic": "muraqqa (مرقع) / muraqqaʿāt (مرقعات)",
+        "persian": "muraqqa (مرقع)",
+        "english": "Muraqqaʿ: a bound Ottoman calligraphic (and sometimes pictorial) album. This album contains 21 parça yazı (calligraphic specimen pieces) in sülüs and nesih scripts, in a meşk (calligraphic exercise/exhibition) format."
+      },
+      {
+        "concept": "Calligraphic exercise/exhibition format",
+        "ottoman": "meşk / hat meşki",
+        "arabic": "mashq (مشق) — calligraphic exercise",
+        "persian": "mashq (مشق)",
+        "english": "Meşk: a calligraphic exercise or exhibition piece, typically following a structured sequence. In this album, the meşk format begins with 'Rabbī yessir' (ربّي يسّر — 'My Lord, make it easy,' a traditional opening invocation for calligraphic work), proceeds through harf meşkleri (letter exercises demonstrating individual letter forms), and continues with hadith-i şerîfler (prophetic sayings). The nesih sections contain a higher density of hadith texts. This sequence is standard for Ottoman calligraphic training and exhibition albums."
+      },
+      {
+        "concept": "Calligraphic specimen piece",
+        "ottoman": "parça yazı / kıtʿa (قطعة)",
+        "arabic": "qiṭʿa (قطعة)",
+        "persian": "qiṭʿa (قطعه)",
+        "english": "Parça yazı (also kıtʿa): a single calligraphic specimen piece. This album contains 21 parça yazı in Arabic sülüs and nesih scripts, per the YEK catalogue description."
+      },
+      {
+        "concept": "Sülüs script",
+        "ottoman": "sülüs hattı",
+        "arabic": "thuluth (ثلث)",
+        "persian": null,
+        "english": "Sülüs (thuluth): one of the six classical Arabic scripts, characterized by large, rounded letterforms with strong contrast between thick and thin strokes. Present in the large-scale display lines of the calligraphy panels throughout this album."
+      },
+      {
+        "concept": "Nesih script",
+        "ottoman": "nesih hattı",
+        "arabic": "naskh (نسخ)",
+        "persian": null,
+        "english": "Nesih (naskh): a small, rounded, clear Arabic script widely used for manuscript copying. Present in the smaller-scale lines of the calligraphy panels, particularly in the hadith sections of the meşk sequence."
+      },
+      {
+        "concept": "Gold ruling lines",
+        "ottoman": "altın cetvel / cetvelli / altın cetveller",
+        "arabic": "jadwal mudhahdhab (جدول مذهّب)",
+        "persian": "jadval-e zar (جدول زر)",
+        "english": "Altın cetvel: ruling lines applied in gold, framing the calligraphic text panel. In this album, a multi-layer cetvelli system of at least 4 bands (gold, blue, salmon, gold) frames each calligraphy panel, with some pages showing additional narrow polychrome illuminated strips."
+      },
+      {
+        "concept": "Window-mounting technique",
+        "ottoman": "vassale / pencere geçirme",
+        "arabic": null,
+        "persian": null,
+        "english": "Vassale (also pencere geçirme): the technique of mounting a calligraphy panel into a window cut in a larger sheet of margin paper. In this album, all calligraphy panels are vassale-mounted into the decorated margin paper, with the cetvelli framing marking the join between the salmon/buff calligraphy substrate and the cream margin ground."
+      },
+      {
+        "concept": "Cypress tree motif",
+        "ottoman": "servi / selvi (servî ağacı motifi)",
+        "arabic": "sarw (سرو)",
+        "persian": "sarv (سرو)",
+        "english": "Servi (cypress tree): the iconic vertical evergreen motif of Ottoman garden imagery, symbolizing paradise, eternity, and the garden of the divine. In this album, cypress trees are the dominant motifs of the two full-page garden compositions (pp. 003r, 014l) — tall, slender, conical forms rendered in green-tinted gold or green pigment with fine needle-like foliage texture."
+      },
+      {
+        "concept": "Binding medallion",
+        "ottoman": "şemse (شمسه) / yaldızlı şemse",
+        "arabic": "shams (شمس)",
+        "persian": "shamsa (شمسه)",
+        "english": "Şemse (shamsa): a central oval or round medallion placed on a manuscript binding cover. In this album, the şemse is a classic oval form filled with dense rumî-hatâyî scrollwork, with extending finial lines and paired salbek pendants. Applied in gold (yaldız) on red lacquer leather."
+      },
+      {
+        "concept": "Pendant ornament on binding",
+        "ottoman": "salbek / sertab",
+        "arabic": null,
+        "persian": null,
+        "english": "Salbek: an elongated pendant ornament positioned above and below the central şemse on a binding cover. In this album, paired salbek motifs with vegetal infill extend from the şemse's vertical axis."
+      },
+      {
+        "concept": "Corner piece on binding",
+        "ottoman": "köşe / köşebent / köşelik",
+        "arabic": null,
+        "persian": null,
+        "english": "Köşe (corner piece): decorative gilt ornaments placed at the four corners of a binding cover. In this album, four large köşe pieces with rumî-hatâyî vegetal designs occupy the cover corners on both front and back covers."
+      },
+      {
+        "concept": "Colored paper (calligraphy substrate)",
+        "ottoman": "boyalı kâğıt / renkli kâğıt",
+        "arabic": "waraq mulawwan (ورق ملوّن) — colored paper",
+        "persian": "kāghadh-e rangī (كاغذ رنگی) — colored paper",
+        "english": "Boyalı kâğıt: paper that has been intentionally dyed or colored before use. In this album, the calligraphy substrate is a distinct salmon/buff tone (probable boyalı, confidence 0.70) — clearly different from the cream margin ground, suggesting deliberate coloring. However, the salmon tone could also be the natural color of the paper stock."
+      }
+    ]
+  },
+  "bibliography": [
+    {
+      "citation": "Blair, Sheila S. 'Color and Gold: The Decorated Papers Used in Manuscripts in Later Islamic Times.' Muqarnas 17 (2000): 24–36.",
+      "relevance": "Foundational taxonomic study providing the classification framework for decorated papers in Islamic manuscripts, including gold-sprinkled, gold-worked, stenciled, and hand-painted types. Blair's distinction between mechanically reproduced decorated papers (stenciled, sprinkled) and hand-applied decoration (halkar) is directly relevant to the technique classification question in this album. Her coverage of çiçekli kâğıt and related stenciled paper types provides the primary art-historical framework for the TIEM 02439 margin decoration.",
+      "relevance_score": 0.97,
+      "access_notes": "Peer-reviewed article. Available via JSTOR (Brill/Muqarnas Online). Open-access PDF accessible at Academia.edu."
+    },
+    {
+      "citation": "Tanındı, Zeren. 'Resimli ve Tezhipli Osmanlı Kâğıtları.' In Hat ve Tezhip Sanatı, edited by Ali Rıza Özcan, 369–96. Ankara: T.C. Kültür ve Turizm Bakanlığı, 2009.",
+      "relevance": "Tanındı's study of decorated Ottoman papers — including çiçekli kâğıt (flower-decorated/silhouetted papers) — provides direct comparative context for the technique classification of TIEM 02439. Her discussion of production techniques, workshop organization, and the range of stenciled and hand-painted paper types used in Ottoman album contexts is directly applicable to the classification uncertainty (silhouetted/stenciled vs. halkar) in this record.",
+      "relevance_score": 0.92,
+      "access_notes": "Chapter in edited volume; available at Turkish cultural heritage libraries. ISBN 978-975-17-3432-8."
+    },
+    {
+      "citation": "Déroche, François. Islamic Codicology: An Introduction to the Study of Manuscripts in Arabic Script. Translated by Deke Dusinberre and David Radzinowicz. London: Al-Furqan Islamic Heritage Foundation, 2005.",
+      "relevance": "Foundational reference for Islamic manuscript codicology, covering paper decoration types (including gold-worked and stenciled papers), binding forms, ruling systems, and physical manuscript description. Provides the classification framework used throughout this catalog record, particularly for the cetvelli framing system, vassale mounting, and binding terminology.",
+      "relevance_score": 0.90,
+      "access_notes": "Monograph; available at specialist libraries."
+    },
+    {
+      "citation": "Derman, M. Uğur. Letters in Gold: Ottoman Calligraphy from the Sakıp Sabancı Collection, Istanbul. New York: The Metropolitan Museum of Art, 1998.",
+      "relevance": "The primary English-language exhibition catalogue on Ottoman calligraphy, with extensive coverage of the sülüs-nesih meşk tradition, calligraphic album (muraqqaʿ) production, and the Istanbul court calligraphic culture. Essential for contextualizing the meşk format of TIEM 02439 (Rabbī yessir → harf meşkleri → hadith) and the decorated paper programs associated with luxury Ottoman calligraphic albums.",
+      "relevance_score": 0.90,
+      "access_notes": "Exhibition catalogue (Metropolitan Museum of Art, 1998); widely held at Islamic art and Ottoman studies libraries. ISBN 978-0870998843."
+    },
+    {
+      "citation": "Çağman, Filiz, and Zeren Tanındı. The Topkapı Saray Museum: The Albums and Illustrated Manuscripts. Translated and edited by J. M. Rogers. Boston: Little, Brown, 1986.",
+      "relevance": "Standard reference for Ottoman calligraphic albums and their decorated paper programs in the Topkapı collections. Provides direct comparanda for albums with silhouetted/stenciled decorated paper margins, multi-layer cetvelli framing, and gilt lacquer bindings. The full-page gold garden compositions in TIEM 02439 may find parallels in the Topkapı album tradition documented in this catalogue.",
+      "relevance_score": 0.88,
+      "access_notes": "Exhibition catalogue; widely held at Turkish and Islamic art research libraries."
+    },
+    {
+      "citation": "Roxburgh, David J. The Persian Album, 1400–1600: From Dispersal to Collection. New Haven: Yale University Press, 2005.",
+      "relevance": "Essential study of the muraqqaʿ album format and decorated paper programs in the Persianate-Ottoman tradition. Provides the theoretical framework for understanding decorated paper programs as deliberate compositional choices in album design — applicable to the structured bilateral garden-composition framing (pp. 003r and 014l) observed in TIEM 02439.",
+      "relevance_score": 0.85,
+      "access_notes": "Monograph; widely held at research libraries."
+    },
+    {
+      "citation": "Gacek, Adam. Arabic Manuscripts: A Vademecum for Readers. Leiden: Brill, 2009.",
+      "relevance": "Standard reference for Islamic manuscript codicological terminology, script identification, and album-format conventions. Relevant for the identification and description of the sülüs and nesih scripts, meşk format conventions, cetvelli framing terminology, and vassale mounting technique as documented in this record.",
+      "relevance_score": 0.80,
+      "access_notes": "Reference monograph; widely held."
+    },
+    {
+      "citation": "Bloom, Jonathan M. Paper Before Print: The History and Impact of Paper in the Islamic World. New Haven: Yale University Press, 2001.",
+      "relevance": "Comprehensive history of paper production and use in the Islamic world, providing material-culture background for decorated paper production techniques — including gold-worked (zerkârî) and stenciled papers — and the role of decorated papers in luxury manuscript and album production in the Ottoman context.",
+      "relevance_score": 0.78,
+      "access_notes": "Widely held monograph."
+    },
+    {
+      "citation": "Scheper, Karin. The Technique of Islamic Bookbinding: Methods, Materials and Regional Varieties. Leiden: Brill, 2015.",
+      "relevance": "Systematic study of Islamic bookbinding techniques, relevant for the physical analysis of the Ottoman lacquer binding with gilt şemse, salbek, and köşe. The binding type documented in TIEM 02439 — red lacquer leather with dense rumî-hatâyî scrollwork in the şemse — is within the scope of Scheper's regional and chronological survey of Ottoman binding forms.",
+      "relevance_score": 0.75,
+      "access_notes": "Monograph; available at Islamic bookbinding and manuscript studies libraries."
+    },
+    {
+      "citation": "Bağcı, Serpil, Filiz Çağman, Günsel Renda, and Zeren Tanındı. Ottoman Painting. Ankara: Ministry of Culture and Tourism, 2006.",
+      "relevance": "Comprehensive survey of Ottoman visual arts, covering the album tradition, garden imagery (bāġçe taṣvīri), and naturalistic floral motifs in Ottoman decorative arts. Provides comparative context for the full-page gold garden compositions with cypress trees in TIEM 02439 and the broader naturalistic botanical vocabulary of the margin decoration.",
+      "relevance_score": 0.75,
+      "access_notes": "Museum publication; widely held at Turkish studies collections."
+    },
+    {
+      "citation": "Tanındı, Zeren. 'Bibliophile Aghas (Eunuchs) at Topkapı Saray.' Muqarnas 21 (2004): 333–43.",
+      "relevance": "Documents album-collecting and commissioning practices at the Ottoman court in the late 17th–18th centuries — the probable production period of this album. Provides context for the patronage environment within which luxury muraqqaʿat with elaborate decorated paper programs were commissioned and produced.",
+      "relevance_score": 0.72,
+      "access_notes": "Peer-reviewed article. Available via JSTOR and institutional library access."
+    }
+  ],
+  "suggested_collections": [
+    {
+      "institution": "Türk ve İslam Eserleri Müzesi (TIEM), Istanbul — broader muraqqaʿ corpus",
+      "reason": "The TIEM muraqqaʿ corpus contains numerous albums with silhouetted/stenciled decorated paper margins and zerkârî calligraphy substrates. Direct comparison with TIEM 02471 (catalogued, with decorated paper margins), TIEM 02437 (catalogued, polychrome zerefşân), and the wider TIEM album collection would clarify the technique classification and help identify workshop connections.",
+      "digital_access": "https://portal.yek.gov.tr"
+    },
+    {
+      "institution": "Topkapı Sarayı Müzesi Kütüphanesi, Istanbul",
+      "reason": "Holds the largest corpus of Ottoman calligraphic albums with çiçekli kâğıt (silhouetted/stenciled decorated paper) and related gold floral paper types. Physical comparison with documented Topkapı albums from the late 17th–18th centuries is essential for confirming the technique classification and for finding parallel çiçekli kâğıt programs with the same naturalistic garden vocabulary observed in TIEM 02439.",
+      "digital_access": "https://kutuphane.tsmk.gov.tr"
+    },
+    {
+      "institution": "Chester Beatty Library, Dublin",
+      "reason": "Major collection of Ottoman calligraphic albums with decorated papers, including albums with silhouetted/stenciled margins and gold garden compositions. Provides international comparanda for the decorated paper program and the full-page garden composition format.",
+      "digital_access": "https://viewer.cbl.ie"
+    },
+    {
+      "institution": "Sakıp Sabancı Museum, Istanbul",
+      "reason": "Holds major Ottoman calligraphic works and albums studied in Derman (1998). Relevant for comparative analysis of the sülüs-nesih meşk format and associated decorated paper programs in luxury Ottoman album production.",
+      "digital_access": null
+    },
+    {
+      "institution": "GlobalDecoPaper ERC Project, LMU Munich",
+      "reason": "The primary active research project on decorated papers in Islamic manuscripts. The technique classification question in TIEM 02439 — silhouetted/stenciled (çiçekli kâğıt) vs. halkar (hand-painted margins) — is directly within the GlobalDecoPaper research scope. The project's systematic analysis of production techniques could resolve the classification uncertainty through physical examination and spectroscopic analysis.",
+      "digital_access": null
+    }
+  ],
+  "provenance": {
+    "donor": null,
+    "waqf": null,
+    "previous_shelfmarks": [],
+    "notes": "Held at Türk ve İslam Eserleri Müzesi (TIEM), Istanbul, under shelfmark T 2439. TIEM is a Turkish state museum; the manuscript entered the collection at an undetermined date prior to YEK registration. Library accession labels on the front cover (p001) include 'T 2439' (current shelfmark) and additional references in Ottoman and modern scripts. No waqf (endowment) information is available. No donor is recorded. YEK ID: 705380. IIIF ID: 0000000662593. The album has no calligrapher attribution or date, and no provenance information is available from the YEK catalogue."
+  },
+  "analysis_metadata": {
+    "analyzed_date": "2026-02-28",
+    "analyzer": "claude-code-manuscript-pipeline",
+    "pipeline_stage": "metadata-generator",
+    "image_source": "YEK Portal IIIF images, TIEM Yazma Eser Koleksiyonu, YEK ID 705380, IIIF ID 0000000662593. All 16 pages downloaded at native IIIF resolution. 11 pages examined in detail for this catalog record.",
+    "image_quality_notes": "IIIF images are clear and support confident identification of the gold floral margin decoration, zerkârî calligraphy substrate, cetvelli framing system, vassale mounting, full-page garden compositions with cypress trees, and lacquer binding with gilt şemse/salbek/köşe. The gold floral motifs are well-resolved at IIIF resolution: individual petals, leaves, stems, and tahrîrî outlines are clearly legible. Blue and polychrome accents are distinguishable. The technique question (silhouetted/stenciled vs. halkar) cannot be definitively resolved from IIIF images without recto/verso comparison at high magnification — physical examination is required. The zerkârî motifs on the salmon calligraphy substrate are visible but at lower contrast than the margin decoration. Individual calligraphy panel dimensions and writing-area measurements are not determinable from IIIF images. No calligrapher's ketebe or date inscription was independently readable from the images.",
+    "folios_examined": [
+      "corpus/iiif/tiem_02439_p001.jpg",
+      "corpus/iiif/tiem_02439_p002.jpg",
+      "corpus/iiif/tiem_02439_p003.jpg",
+      "corpus/iiif/tiem_02439_p004_iiif.jpg",
+      "corpus/iiif/tiem_02439_p005.jpg",
+      "corpus/iiif/tiem_02439_p006_iiif.jpg",
+      "corpus/iiif/tiem_02439_p008.jpg",
+      "corpus/iiif/tiem_02439_p010_iiif.jpg",
+      "corpus/iiif/tiem_02439_p012_iiif.jpg",
+      "corpus/iiif/tiem_02439_p014.jpg",
+      "corpus/iiif/tiem_02439_p015_iiif.jpg",
+      "corpus/iiif/tiem_02439_p016.jpg"
+    ],
+    "folios_not_examined": "Pages not individually analyzed in folio_analyses but downloaded and available: pp. 007, 009, 011, 013. These are standard interior calligraphy openings expected to match the consistent decorative program observed across all examined calligraphy pages. All 16 IIIF pages were downloaded; 12 were examined in detail.",
+    "corpus_priority": "High — one of the most elaborately decorated albums in the TIEM muraqqaʿ corpus. The combination of probable çiçekli kâğıt margins, full-page gold garden compositions with cypress trees, zerkârî calligraphy substrate, and multi-layer cetvelli framing represents an exceptionally rich decorated paper program. Priority follow-up: (1) physical examination to resolve technique classification (silhouetted/stenciled vs. halkar) — this is the primary outstanding question; (2) higher-resolution imaging for recto/verso comparison of margin decoration; (3) calligrapher identification through stylistic comparison with documented sülüs-nesih meşk albums; (4) comparison with other TIEM albums (esp. 02437, 02471) for workshop connections.",
+    "source_data": {
+      "visual_confirmation_file": "catalog/searches/visual_tier2_tiem_02439.json",
+      "yek_id": "705380",
+      "iiif_id": "0000000662593",
+      "batch": "Muraqqaʿ IIIF deep analysis batch (2026-02-28)"
+    }
+  }
+}

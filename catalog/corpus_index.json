@@ -1,6 +1,6 @@
 {
   "generated": "2026-02-28",
-  "manuscript_count": 56,
+  "manuscript_count": 61,
   "note": "Auto-maintained by metadata-generator. Do not edit manually.",
   "entries": [
     {
@@ -1666,6 +1666,158 @@
       "primary_tradition": "ottoman",
       "workshop_centre": "Istanbul",
       "confidence": 0.94,
+      "catalogued_date": "2026-02-28"
+    },
+    {
+      "record_id": "tiem_02490",
+      "collection": "Türk ve İslam Eserleri Müzesi",
+      "shelfmark": "02490",
+      "title": "Muraqqaʿ / مرقع",
+      "author": null,
+      "date_ah": null,
+      "date_ce": "c. 18th–early 19th century (stylistic)",
+      "decoration_types": [
+        "marbled",
+        "colored",
+        "illuminated_margins",
+        "framing_system"
+      ],
+      "paper_categories": [
+        "hâtip ebrûsu",
+        "battal ebrû",
+        "mülevven kâğıt",
+        "cetvelli"
+      ],
+      "key_features": [
+        "MATCHED HATIP EBRU COVER PAIR — identical silhouette marbled paper on front and rear covers; unique in corpus",
+        "Battal ebru + pink mulevven + grey mulevven interior margins; deliberate chromatic variety per opening",
+        "Derviş Ömer el-Cüdî meşk kaydı; sülüs-nesih Qaṣīdat al-Muḍariyya; YEK ID 705423; 5 folios"
+      ],
+      "visual_confirmation": "confirmed",
+      "primary_tradition": "ottoman",
+      "workshop_centre": "Istanbul",
+      "confidence": 0.95,
+      "catalogued_date": "2026-02-28"
+    },
+    {
+      "record_id": "tiem_02439",
+      "collection": "Türk ve İslam Eserleri Müzesi",
+      "shelfmark": "02439",
+      "title": "Muraqqaʿ / مرقع",
+      "author": null,
+      "date_ah": null,
+      "date_ce": "late 17th–18th century (stylistic)",
+      "decoration_types": [
+        "other",
+        "gold_worked",
+        "colored",
+        "illuminated_margins",
+        "framing_system"
+      ],
+      "paper_categories": [
+        "çiçekli kâğıt (probable)",
+        "zerkârî",
+        "boyalı kâğıt",
+        "cetvelli"
+      ],
+      "key_features": [
+        "SILHOUETTED/STENCILED DECORATED PAPER (çiçekli kâğıt, probable 0.60) — dense gold floral margins on ALL calligraphy pages; halkar not excluded",
+        "Two full-page gold garden compositions with cypress trees (pp. 003r, 014l)",
+        "Zerkârî calligraphy substrate throughout; sülüs-nesih meşk format; YEK ID 705380; 13 folios / 16 pages"
+      ],
+      "visual_confirmation": "confirmed",
+      "primary_tradition": "ottoman",
+      "workshop_centre": "Istanbul",
+      "confidence": 0.96,
+      "catalogued_date": "2026-02-28"
+    },
+    {
+      "record_id": "tiem_02429",
+      "collection": "Türk ve İslam Eserleri Müzesi",
+      "shelfmark": "02429",
+      "title": "Muraqqaʿ / مرقع",
+      "author": null,
+      "date_ah": "901",
+      "date_ce": "1495–96",
+      "decoration_types": [
+        "framing_system",
+        "illuminated_margins",
+        "gold_worked"
+      ],
+      "paper_categories": [
+        "bileşik cetvel (candy-stripe)",
+        "serlevha tezhibi",
+        "halkâr (probable)",
+        "vassale"
+      ],
+      "key_features": [
+        "ŞEYH HAMDULLAH AH 901 — earliest securely dated muraqqaʿ in corpus; 4 ketebe records with variant name forms",
+        "Compound candy-stripe cedvel framing (5–7 bands: green, gold, salmon, cream diagonal stripes) on ALL pages",
+        "Bāyezīd II-era lacquer binding; blue-gold serlevha; sülüs-nesih-icāze; YEK ID 705373; 4 folios"
+      ],
+      "visual_confirmation": "confirmed",
+      "primary_tradition": "ottoman",
+      "workshop_centre": "Istanbul",
+      "confidence": 0.88,
+      "catalogued_date": "2026-02-28"
+    },
+    {
+      "record_id": "tiem_02499",
+      "collection": "Türk ve İslam Eserleri Müzesi",
+      "shelfmark": "02499",
+      "title": "Muraqqaʿ / مرقع",
+      "author": null,
+      "date_ah": "960–1134",
+      "date_ce": "1552–1722",
+      "decoration_types": [
+        "marbled",
+        "gold_sprinkled",
+        "colored",
+        "framing_system"
+      ],
+      "paper_categories": [
+        "battal ebrû",
+        "zerefşân",
+        "mülevven kâğıt",
+        "cetvelli"
+      ],
+      "key_features": [
+        "FIVE-TECHNIQUE multi-calligrapher album: battal ebru + zerefşân + mulevven + hatip ebru cover + cetvelli",
+        "Karahisârî (960/1553) + Hâfız Osmân (1085/1675) — two of the 'three pillars' of Ottoman calligraphy in one album",
+        "8 named calligraphers across 170 years; 10 yaprak / 10 IIIF pages; YEK ID 705432"
+      ],
+      "visual_confirmation": "confirmed",
+      "primary_tradition": "ottoman",
+      "workshop_centre": "Istanbul",
+      "confidence": 0.96,
+      "catalogued_date": "2026-02-28"
+    },
+    {
+      "record_id": "tiem_02493",
+      "collection": "Türk ve İslam Eserleri Müzesi",
+      "shelfmark": "02493",
+      "title": "Muraqqaʿ / مرقع",
+      "author": null,
+      "date_ah": "1149",
+      "date_ce": "1736–37",
+      "decoration_types": [
+        "marbled",
+        "framing_system"
+      ],
+      "paper_categories": [
+        "battal ebrû",
+        "ebrulu yan kağıtları",
+        "cetvelli"
+      ],
+      "key_features": [
+        "COMPREHENSIVE BATTAL EBRU — stone marbling on ALL surfaces: both covers AND all 5 interior openings",
+        "3–4 distinct battal ebru color palettes across openings (pink/rose → grey-blue/teal → lavender → cream/yellow-green)",
+        "Hüseyin Haffâfzâde ketebe on all 10 pieces; AH 1149 on pieces 3–4; YEK ID 705426; 10 yaprak"
+      ],
+      "visual_confirmation": "confirmed",
+      "primary_tradition": "ottoman",
+      "workshop_centre": "Istanbul",
+      "confidence": 0.95,
       "catalogued_date": "2026-02-28"
     }
   ]

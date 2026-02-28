@@ -1,0 +1,593 @@
+{
+  "record_id": "tiem_02429",
+  "collection": {
+    "institution": "Türk ve İslam Eserleri Müzesi",
+    "city": "Istanbul",
+    "country": "Turkey",
+    "shelfmark": "02429",
+    "yek_url": "https://portal.yek.gov.tr/works/detail/705373"
+  },
+  "manuscript": {
+    "title": "Muraqqaʿ / مرقع",
+    "title_script": "مرقع",
+    "title_alt": "Şeyh Ḥamdullāh Muraqqaʿı",
+    "author": null,
+    "author_dates": null,
+    "calligrapher": "Şeyh Ḥamdullāh (شیخ حمدالله), also known as İbnü'ş-Şeyḥ (ابن الشیخ)",
+    "calligrapher_dates": "c. 840–926 AH / c. 1436–1520 CE",
+    "calligrapher_note": "Şeyh Ḥamdullāh b. Muṣṭafā Dede (d. 926/1520) is the founder of the Ottoman calligraphic tradition and the most important calligrapher in Ottoman history. Born in Amasya, he was a student of Ḥayreddîn Marʿaşî and later became the personal calligraphy master of Sultan Bāyezīd II (r. 886–918/1481–1512). He is credited with transforming the six classical scripts (aḳlām-ı sitte) from their Yāqūtī models into distinctly Ottoman forms, establishing the stylistic foundations that governed Ottoman calligraphy for the following five centuries. This muraqqaʿ contains 9 calligraphic specimens (kıtʿa) with four ketebe records identifying the calligrapher under variant forms of his name: (1) entry 4: 'Ketebehū İbnü'ş-Şeyḥ'; (2) entry 6: 'Ketebehū Ḥamdullāh'; (3) entry 7: 'Ketebehū el-müẕnib Ḥamdullāhi'l-maʿrūf bi-ibni'ş-Şeyḥ ḥāmiden ve muṣalliyen'; (4) entry 9: an extended colophon with the date 901 AH (1495–96 CE). The multiple ketebe variants — using both the laqab İbnü'ş-Şeyḥ and the personal name Ḥamdullāh — are characteristic of Şeyh Ḥamdullāh's documented signing practices. The album dates to the height of his mature career under Bāyezīd II's patronage.",
+    "date_ah": "901",
+    "date_ce": "1495–96",
+    "date_note": "The date AH 901 (1495–96 CE) is explicitly recorded at the end of the 9th and final calligraphic entry in the album, per the YEK catalogue general notes. This places the album firmly in the reign of Sultan Bāyezīd II (r. 886–918/1481–1512), who was Şeyh Ḥamdullāh's principal patron. The date falls in Şeyh Ḥamdullāh's mature period — approximately 25 years before his death — and corresponds to a well-documented phase of intense calligraphic production for the Bāyezīd II court. The decorative program (lacquer binding, compound cedvel framing, illuminated serlevha) is entirely consistent with late 15th-century Istanbul court production.",
+    "place_of_copy": "Istanbul (inferred from Bāyezīd II court patronage context)",
+    "format": "Muraqqaʿ / مرقع — calligraphic album containing 9 kıtʿa (specimen sheets) of ḥadīth texts with elaborate compound cedvel framing, vassale mounting, illuminated serlevha, and Bāyezīd II-era lacquer binding",
+    "format_note": "A bound Ottoman calligraphic album (muraqqaʿ) of 4 folios (8 pages including covers) containing 9 kıtʿa (calligraphic specimen sheets) in Arabic sülüs, nesih, and icāze scripts. All calligraphic entries are ḥadīth (prophetic sayings) texts. The album's principal decorative feature is its elaborate multi-layer compound cedvel (ruling/framing) system with a distinctive diagonal candy-stripe pattern in green, gold, salmon/pink, and cream bands — 5–7 concentric layers — present on ALL calligraphy pages (pp. 002–006). All calligraphy panels are vassale (window-mounted) into the decorated margin/frame paper, following standard muraqqaʿ construction. A blue-and-gold illuminated serlevha (headpiece) appears on p002 right. The album is housed in a magnificent Bāyezīd II-era lacquer binding with deep red ground, gold shamsa, salbek, and köşebent. This is one of the earliest securely dated Şeyh Ḥamdullāh muraqqaʿ albums and among the most historically significant calligraphic objects in the TIEM collection.",
+    "language": "Arabic",
+    "script": "Sülüs (ثلث), Nesih (نسخ), and İcāze (إجازة) — per YEK catalogue: 'Arap harfli — Sülüs, Nesih, İcâze'",
+    "dimensions_mm": {
+      "height": 408,
+      "width": 318,
+      "writing_area_mm": {
+        "height": null,
+        "width": null
+      },
+      "note": "Outer dimensions 408×318 mm per YEK catalogue. Writing area recorded as 'muhtelif × muhtelif' (various × various), reflecting the heterogeneous sizes of the 9 mounted kıtʿa panels. This is standard for muraqqaʿ albums where individual calligraphy pieces were produced independently and subsequently mounted."
+    },
+    "folio_count": 4,
+    "yek_id": "705373",
+    "iiif_id": "0000000662586",
+    "notes": "HISTORICALLY MAJOR ALBUM. This is one of the earliest securely dated muraqqaʿ albums by Şeyh Ḥamdullāh, the founder of the Ottoman calligraphic tradition. The explicit date of AH 901 (1495–96) and four ketebe records with variant name forms provide an unusually strong attribution chain. The album's importance is threefold: (1) CALLIGRAPHIC: 9 kıtʿa in three scripts (sülüs, nesih, icāze) — the three script types in which Şeyh Ḥamdullāh most profoundly reshaped Ottoman practice — offering direct evidence of his mature hand; (2) DECORATIVE: the compound candy-stripe cedvel framing system, with 5–7 concentric diagonal bands of green, gold, salmon/pink, and cream, is among the most elaborate framing systems documented in the project corpus and characteristic of Bāyezīd II-era luxury production; (3) HISTORICAL: the album documents the patronage relationship between Sultan Bāyezīd II and Şeyh Ḥamdullāh at a precisely datable moment. The lacquer binding — deep red ground with gold shamsa, salbek, and köşebent in hatayi/rumi scrollwork — is a superb example of late 15th-century Ottoman court bookbinding. The YEK catalogue has NO kâğıt özellikleri, tezhip/minyatür, or cilt özellikleri fields populated — all information derives from the genel notlar field and visual examination of IIIF images. Catalogue entry by Nalan Kutsal."
+  },
+  "paper_decoration": {
+    "types": [
+      "framing_system",
+      "illuminated_margins",
+      "gold_worked"
+    ],
+    "types_note": "gold_worked is probable (0.65), not confirmed — gold floral vine painting visible on pp. 005-006 margins at native resolution, but may be halkar rather than zerkârî. Physical examination needed.",
+    "summary": "TIEM 02429 exhibits an exceptionally elaborate multi-layer compound cedvel (ruling/framing) system as its principal decorative feature, present on ALL calligraphy pages (pp. 002–006). The framing consists of 5–7 concentric layers arranged in a distinctive diagonal candy-stripe pattern: alternating bands of green, gold, salmon/pink, and cream run diagonally across the frame width, producing a visually striking barber-pole effect. The candy-stripe pattern is consistent and uniform across all five calligraphy pages, indicating coordinated production. From outside inward, the typical layer sequence is: (1) outermost gold ruling line; (2) wide candy-stripe band (diagonal green, gold, salmon, cream stripes); (3) intermediate gold ruling; (4) narrow green or colored filler; (5) inner gold ruling; (6) thin red inner cetvel immediately surrounding the text panel; (7) the vassale-mounted calligraphy kıtʿa on cream/ivory āharlı paper. A blue-and-gold illuminated serlevha (headpiece) with five-section composition (central panel flanked by pairs of decorative units) appears at the top of p002 right, marking the opening of the album's calligraphic program. The margins outside the cedvel framing on pp. 005–006 show gold-toned ground with faint gold floral vine painting — probable ḥalkar (gold-painted margin decoration), classified at confidence 0.65 due to resolution limitations. The interior calligraphy pages (pp. 003–004) feature small illuminated koltuk (corner) pieces and section divider bands between calligraphic entries, with red and gold geometric/floral medallion elements. All calligraphy panels throughout are vassale (window-mounted), following standard muraqqaʿ album construction.",
+    "distribution_notes": "Compound candy-stripe cedvel: present on all calligraphy pages (pp. 002 right, 003 left and right, 004 left and right, 005 left and right, 006 right). Serlevha: p002 right only (opening page). Probable ḥalkar margins: pp. 005, 006 (gold floral vine painting on outer margin ground). Koltuk tezhibi: pp. 003, 004 (corner illumination at inner frame junctions). Vassale mounting: all calligraphy panels. Lacquer binding: pp. 001 (front), 008 (back). Brown leather doublure with faint pressed shamsa: p007 (inside back cover). Plain cream endpapers: p002 left, p006 left (partially visible), p007 right.",
+    "technique_terms": {
+      "ottoman": "bileşik cetvel / şekerli cetvel (compound candy-stripe cedvel); altın cetvelli (gold ruling); vassale (pencere montajı); serlevha / unvan tezhibi (illuminated headpiece); koltuk tezhibi (corner illumination); ḥalkar / halkârî (gold-painted margin decoration); lâke cilt (lacquer binding); şemse, salbek, köşebent (central medallion, pendants, corner pieces)",
+      "persian": "jadval-e murakkab (جدول مرکب) — compound ruling; ḥalkār (حالکار) — gold margin painting; jild-e lāk (جلد لاک) — lacquer binding",
+      "arabic": "jadwal mudhahdhab (جدول مذهّب) — gold-ruled frame; tadhkira / kitāba (تذکرة / كتابة) — colophon inscription; waṣṣāla (وصّالة) — window mounting"
+    },
+    "catalogue_description": {
+      "paper_field": null,
+      "paper_field_normalized": null,
+      "paper_field_translation": null,
+      "notes_field": "Hadis-i şeriflerin yer aldığı, 9 yazıdan oluşan bu murakkada 4. yazının sonunda 'Ketebehû İbnuş-Şeyh' kaydı bulunmaktadır. Murakkadaki 6. yazının sonunda da 'Ketebehû Hamdullah' yazılıdır. Murakkadaki 7. yazıda ise 'Ketebehû el-müznib Hamdullahi'l-ma'ruf bi-ibni's-Şeyh hamiden ve musalliyen' ifadesiyle Şeyh Hamdullah'ın adı ve yazılarında kullandığı 'İbnü'ş-Şeyh' lakabı birlikte yer almaktadır. Murakkadaki 9. son yazıda da Şeyh Hamdullah'a ait uzunca bir kayıt ve yazının sonunda H. 901 (1495-96) tarihi vardır.",
+      "notes_field_normalized": "Hadis-i şeriflerin yer aldığı, 9 yazıdan oluşan bu murakkada 4. yazının sonunda 'Ketebehû İbnüş-Şeyh' kaydı bulunmaktadır. Murakkadaki 6. yazının sonunda da 'Ketebehû Hamdullah' yazılıdır. Murakkadaki 7. yazıda ise 'Ketebehû el-müznib Hamdullahi'l-maʿrûf bi-ibni'ş-Şeyh hâmiden ve musalliyyen' ifadesiyle Şeyh Hamdullah'ın adı ve yazılarında kullandığı 'İbnü'ş-Şeyh' lakabı birlikte yer almaktadır. Murakkadaki 9. son yazıda da Şeyh Hamdullah'a ait uzunca bir kayıt ve yazının sonunda H. 901 (1495-96) tarihi vardır.",
+      "notes_field_translation": "This album consisting of 9 calligraphic entries containing ḥadīth (prophetic sayings) has the inscription 'Written by İbnü'ş-Şeyḥ' at the end of the 4th entry. At the end of the 6th entry in the album is also written 'Written by Ḥamdullāh.' In the 7th entry the expression 'Written by the sinful Ḥamdullāh known as İbnü'ş-Şeyḥ, praising [God] and sending blessings [on the Prophet]' appears, where Şeyh Ḥamdullāh's name and his pen-name (laqab) 'İbnü'ş-Şeyḥ' that he used in his writings appear together. In the 9th and final entry there is also a lengthy record belonging to Şeyh Ḥamdullāh, and at the end of the text the date AH 901 (1495–96).",
+      "decoration_field": null,
+      "source": "YEK portal, genel notlar field, record 705373, Türk ve İslam Eserleri Müzesi. Catalogued by Nalan Kutsal. Kâğıt özellikleri, tezhip/minyatür, and cilt özellikleri fields are null in the YEK record. All decoration observations derive from visual examination of IIIF images."
+    }
+  },
+  "workshop_attribution": {
+    "primary_tradition": "ottoman",
+    "workshop_centre": "Istanbul",
+    "date_range_ce": "1495–96 (AH 901, reign of Bāyezīd II)",
+    "confidence": 0.95,
+    "key_indicators": [
+      "Explicit date AH 901 (1495–96) in the 9th entry's ketebe, and four ketebe records identifying Şeyh Ḥamdullāh / İbnü'ş-Şeyḥ — calligrapher to Sultan Bāyezīd II's court in Istanbul",
+      "The three scripts employed — sülüs, nesih, and icāze — are core Istanbul court calligraphic repertoire of the late 15th century, and the specific script in which Şeyh Ḥamdullāh established the Ottoman tradition",
+      "The lacquer binding with deep red ground, gold shamsa with hatayi/rumi scrollwork, salbek pendants, and four köşebent corner pieces is characteristic of Bāyezīd II-era (r. 1481–1512) Istanbul court bookbinding",
+      "The elaborate compound candy-stripe cedvel framing system with 5–7 concentric diagonal bands is consistent with the highest-quality Istanbul nakkaşhane production of the late 15th century",
+      "The blue-and-gold serlevha with five-section composition reflects the Istanbul court illumination tradition of the Bāyezīd II era"
+    ],
+    "cross_tradition_caveats": [
+      "While the calligraphy is securely attributed to Şeyh Ḥamdullāh via multiple ketebe records, the decorative program (binding, framing, illumination) was executed by separate artisans at the nakkaşhane — the specific illuminator(s) and binder(s) are not identified",
+      "The album may have been assembled as a unified commission or compiled from separately produced kıtʿa — the uniform framing across all pages suggests coordinated production, but the 'muhtelif × muhtelif' dimensions note in the YEK record indicates the individual calligraphy panels are of varying sizes",
+      "Late 15th-century Istanbul court production shows Timurid influence in certain decorative motifs (the hatayi scrollwork on the binding, the serlevha composition), reflecting the ongoing absorption of Timurid visual language into Ottoman practice"
+    ]
+  },
+  "codicology": {
+    "paper": {
+      "color": "Calligraphy panels: cream/ivory āharlı paper, standard Ottoman luxury calligraphy paper. Margin papers: cream/buff tone on pp. 002–004; warm amber/gold tone on pp. 005–006 suggesting possible gold-worked (zerkarî) or gold-painted (ḥalkar) surface treatment. Endpapers: plain cream/white (pp. 002 left, 006 left, 007 right).",
+      "preparation": "The calligraphy text panels are written on āharlı (sized and burnished) cream paper of high quality, consistent with the premium paper used for Ottoman court calligraphy in the Bāyezīd II era. The outer margin papers on the later pages (pp. 005–006) show a warm amber/gold tone with visible gold floral vine motifs — probable ḥalkar (gold-painted decoration) applied to the margin ground outside the cedvel framing. The margin ground on earlier pages (pp. 002–003) appears plain cream/buff without gold painting.",
+      "weight": "Indeterminate from IIIF images. Heavier than average expected for a luxury court album with vassale-mounted panels.",
+      "decoration": "Multi-layer compound candy-stripe cedvel framing on all calligraphy pages. Illuminated serlevha on p002 right. Koltuk tezhibi (corner illumination) on pp. 003–004. Probable ḥalkar gold-painted margins on pp. 005–006.",
+      "paper_type": "Eastern/Oriental paper for calligraphy panels (āharlı cream); decorated margin papers with compound cedvel and probable ḥalkar."
+    },
+    "ruling": {
+      "system": "Compound multi-layer cedvel system with diagonal candy-stripe pattern in 5–7 concentric bands. Gold outer cetveller, colored diagonal stripe bands, inner gold and red ruling lines.",
+      "description": "The ruling/framing system on all calligraphy pages (pp. 002–006) consists of: (from outside in) (1) outermost gold ruling line at margin edge; (2) a wide compound band featuring diagonal candy-stripe pattern — alternating bands of green, gold, salmon/pink, and cream running diagonally at approximately 45° across the frame width, producing a distinctive barber-pole or 'şekerli' (candy) effect; (3) intermediate gold ruling; (4) narrow green, gold, or colored filler band; (5) inner gold ruling; (6) thin red inner cetvel immediately surrounding the vassale-mounted text panel. The candy-stripe pattern is consistent in color sequence and diagonal angle across all five calligraphy pages, indicating coordinated production — probably ruled by a single hand or workshop team. The wide candy-stripe band is the album's signature decorative element: at least 4–5 individual color bands are visible within the diagonal stripe, each approximately 2–3 mm wide, creating a compound visual rhythm. Small illuminated koltuk (corner) pieces with rosette/medallion motifs are placed at the inner corners of the framing on pp. 003–004. Section divider bands in red and gold separate the individual calligraphy entries within each panel."
+    },
+    "binding": {
+      "cover_description": "Both front (p001) and back (p008) covers are deep red/crimson lacquer (lâke) over pasteboard. Each cover bears: (1) a wide outer border frame with continuous gold vegetal/arabesque scrollwork (rumi and hatayi motifs) on the darkened lacquer ground; (2) four elaborate gilt köşebent (corner ornament) pieces with lobed profiles, filled with dense hatayi/rumi scrollwork, projecting inward from the cover corners; (3) a large central gilt shamsa — an oval/mandorla-shaped medallion with a dense field of hatayi floral scrollwork and rumi vine patterns; the shamsa has a scalloped/pointed edge and radiating spikes; (4) paired gilt salbek (pendant) pieces extending vertically above and below the shamsa — tear-drop shaped with pointed tips, containing miniature floral scrollwork. The deep red lacquer ground between the shamsa and border frame is plain, providing contrast for the gilt elements. A library accession label is affixed near the upper center of the front cover (p001). The back cover (p008) closely mirrors the front in design and execution. The doublure (inside back cover, p007 left) is brown leather with a faint oval pressed shamsa impression — suggesting an undecorated or lightly tooled doublure, simpler than the spectacular exterior covers.",
+      "cover_type": "Lâke cilt — Ottoman lacquer binding with gilt shamsa, salbek, and köşebent on deep red ground",
+      "notes": "This is a superb example of Bāyezīd II-era Ottoman lacquer bookbinding (late 15th century). The design vocabulary — dense hatayi/rumi scrollwork in the shamsa and köşebent, paired salbek pendants, wide border frame with continuous arabesque — is characteristic of the highest-quality Istanbul court bindings of the period c. 1480–1510. The close matching of front and back covers indicates simultaneous production. The binding's quality is commensurate with the album's contents — a presentation piece from one of Ottoman history's most celebrated calligraphers, produced under the direct patronage of Sultan Bāyezīd II. The general condition is good, with some surface wear and minor cracking of the lacquer on both covers, but the gilt decoration is well-preserved."
+    },
+    "format": "Muraqqaʿ — Ottoman calligraphic album (4 folios / 8 pages including covers), with 9 vassale-mounted kıtʿa",
+    "condition_summary": "The album is in generally good condition for a 530-year-old manuscript. The lacquer binding covers (pp. 001, 008) are intact with surface wear, minor cracking, and some abrasion but well-preserved gilt decoration. The calligraphy pages (pp. 002–006) are legible with mostly intact framing systems; some edge wear and minor foxing is visible, particularly at the gutter between openings. The candy-stripe cedvel retains its original polychromy — the green, gold, salmon, and cream bands are clearly distinguishable. The serlevha on p002 right is intact. The endpapers (pp. 002 left, 007 right) show minor pencil/stamp marks and institutional labels but no significant damage. The doublure (p007 left, brown leather) shows some wear and a faint pressed shamsa impression. No catastrophic damage, missing folios, or major repair campaigns are visible. The gold floral painting on pp. 005–006 margins shows some fading consistent with age.",
+    "conservation_history": null
+  },
+  "visual_confirmation": {
+    "verdict": "confirmed",
+    "confidence": 0.88,
+    "screenshots_examined": 8,
+    "folios_examined": [
+      "corpus/iiif/tiem_02429_p001_iiif.jpg",
+      "corpus/iiif/tiem_02429_p002_iiif.jpg",
+      "corpus/iiif/tiem_02429_p003_iiif.jpg",
+      "corpus/iiif/tiem_02429_p004_iiif.jpg",
+      "corpus/iiif/tiem_02429_p005_iiif.jpg",
+      "corpus/iiif/tiem_02429_p006_iiif.jpg",
+      "corpus/iiif/tiem_02429_p007_iiif.jpg",
+      "corpus/iiif/tiem_02429_p008_iiif.jpg"
+    ],
+    "visual_evidence": "Multi-layer compound candy-stripe cedvel framing confirmed on ALL calligraphy pages (pp. 002–006). The diagonal stripe pattern — green, gold, salmon/pink, cream — is clearly visible and consistent across all five calligraphy openings. At least 5–7 concentric layers are distinguishable on each page. Vassale (window-mounting) confirmed: the transition between mounted cream calligraphy paper and the frame/margin paper is visible on all pages. Blue-and-gold illuminated serlevha confirmed on p002 right — five-section headpiece composition. Lacquer binding confirmed: deep red ground with magnificent gilt shamsa (hatayi/rumi scrollwork), paired salbek, four köşebent on both front (p001) and back (p008) covers. Probable ḥalkar (gold floral vine painting) on pp. 005–006 outer margins — gold vine motifs faintly visible on amber-toned ground. Brown leather doublure with pressed shamsa on p007 left. Plain cream endpapers on pp. 002 left, 007 right. All 8 pages examined at native IIIF resolution.",
+    "limitations": [
+      "IIIF images examined at native download resolution; higher magnification would improve confidence for ḥalkar identification on pp. 005–006",
+      "The ketebe inscription texts are not independently readable from IIIF images — YEK catalogue text is relied upon for content transcription and calligrapher identification",
+      "Gold-sprinkled (zerefşân) paper: inconclusive at available resolution (0.40 confidence) — warm amber tone on some margin papers could indicate zerefşân, aging, or reflection effects from gold cedvel",
+      "Individual calligraphy entry divisions and script identification (sülüs vs. nesih vs. icāze) are based on visual assessment of letterform scale and style; precise line-by-line script attribution requires higher resolution",
+      "The doublure pressed shamsa impression (p007 left) is very faint and may not be original decoration"
+    ],
+    "source_agent": "metadata-generator (direct IIIF examination)",
+    "session": "catalog/searches/visual_tier2_tiem_02429.json"
+  },
+  "folio_analyses": [
+    {
+      "folio": "Front cover — lacquer binding (IIIF p001)",
+      "source_image": "corpus/iiif/tiem_02429_p001_iiif.jpg",
+      "decoration_present": true,
+      "decoration_types": ["framing_system"],
+      "elements": [
+        {
+          "motif": "Ottoman lacquer binding — deep red ground with gilt shamsa, salbek, and köşebent",
+          "description": "The front cover is a deep red/crimson Ottoman lacquer binding (lâke cilt) of exceptional quality. The central shamsa is a large oval/mandorla-shaped medallion with scalloped edges and radiating spike projections, filled with dense gilt hatayi floral scrollwork and rumi vine patterns on the lacquer ground. Paired gilt salbek (tear-drop pendants) extend vertically above and below the shamsa, each containing miniature floral scrollwork. Four elaborate gilt köşebent (corner ornament) pieces with lobed profiles project inward from the cover corners, filled with dense hatayi/rumi scrollwork matching the shamsa. A wide outer border frame features continuous gilt vegetal/arabesque scrollwork running around the full perimeter. Between the inner ornamental elements and the outer border, the deep red lacquer ground is left plain, providing visual contrast that highlights the gilt decoration. A library accession label is affixed near the upper center. The overall design vocabulary — hatayi scrollwork, rumi vine patterns, lobed köşebent profiles, paired salbek — is characteristic of the highest-quality Istanbul court bindings of the Bāyezīd II era (c. 1480–1510).",
+          "location": "Full front cover exterior",
+          "confidence": 0.97
+        }
+      ],
+      "confidence": 0.97,
+      "notes": "A magnificent lacquer binding of the late 15th century, entirely consistent with Bāyezīd II-era Istanbul court production. The quality and design are commensurate with a presentation album by Şeyh Ḥamdullāh for the sultan's court."
+    },
+    {
+      "folio": "Inside front cover + serlevha opening (IIIF p002)",
+      "source_image": "corpus/iiif/tiem_02429_p002_iiif.jpg",
+      "decoration_present": true,
+      "decoration_types": ["illuminated_margins", "framing_system"],
+      "elements": [
+        {
+          "motif": "Plain cream endpaper — inside front cover (left page)",
+          "description": "The left page of this opening is a plain cream/ivory endpaper with no significant decoration. Minor foxing and a faint institutional stamp/mark are visible. The endpaper appears to be relatively recent (possibly a later replacement or addition during conservation), given its clean, uniform appearance compared to the historical pages.",
+          "location": "Inside front cover, left page of opening",
+          "confidence": 0.90
+        },
+        {
+          "motif": "Blue-and-gold illuminated serlevha (headpiece)",
+          "description": "At the top of the right page, a rectangular illuminated serlevha (headpiece/unvan) spans the full width of the calligraphy panel. The serlevha has a five-section composition: a central rectangular panel on a lapis blue (lacivert) ground with gold illumination, flanked by two pairs of smaller decorative units — the inner pair appears to contain geometric/floral medallion motifs and the outer pair features triangular or pointed terminal elements in gold and polychrome. The overall color scheme is blue (lacivert) and gold, with accents of red and green visible in the side panels. This is a standard Ottoman serlevha composition type of the late 15th century, marking the opening of the calligraphic program.",
+          "location": "Top of right page, spanning full width of calligraphy panel",
+          "confidence": 0.88
+        },
+        {
+          "motif": "Compound candy-stripe cedvel framing — first calligraphy page",
+          "description": "The full calligraphy panel on the right page (below the serlevha) is framed by the album's signature multi-layer compound cedvel. From outside inward: outermost gold ruling, then the wide diagonal candy-stripe band with alternating green, gold, salmon/pink, and cream stripes running diagonally at c. 45°, then intermediate gold ruling, narrow filler, inner gold ruling, and thin red inner cetvel immediately surrounding the cream calligraphy text area. At least 6–7 distinct band layers are countable. The candy-stripe pattern is crisp and well-preserved on this page, showing all four colors clearly.",
+          "location": "Full perimeter frame surrounding calligraphy panel, right page",
+          "confidence": 0.95
+        },
+        {
+          "motif": "Nesih calligraphy panel with ḥadīth text",
+          "description": "Below the serlevha, a full-page calligraphy panel in nesih script on cream āharlī paper. The text appears to be ḥadīth (prophetic sayings) in Arabic. The nesih is written in a formal, carefully executed hand with gold roundel verse markers/section dividers. This is the first calligraphic entry of the 9 entries in the album.",
+          "location": "Central text panel, right page, below serlevha",
+          "confidence": 0.85
+        }
+      ],
+      "confidence": 0.92,
+      "notes": "The serlevha + first calligraphy page is the album's presentation opening. The combination of blue-and-gold illuminated headpiece and elaborate candy-stripe cedvel establishes the album's exceptional decorative program from the first calligraphic leaf. The left page (plain cream endpaper) provides a neutral foil for the richly decorated right page."
+    },
+    {
+      "folio": "Second calligraphy opening — multiple kıtʿa (IIIF p003)",
+      "source_image": "corpus/iiif/tiem_02429_p003_iiif.jpg",
+      "decoration_present": true,
+      "decoration_types": ["framing_system", "illuminated_margins"],
+      "elements": [
+        {
+          "motif": "Compound candy-stripe cedvel framing — both pages",
+          "description": "Both left and right pages of this opening display the multi-layer compound candy-stripe cedvel framing consistent with p002. The diagonal striped bands in green, gold, salmon/pink, and cream are clearly visible on both pages. The left page frame appears slightly wider than the right page frame, possibly due to differing kıtʿa panel dimensions.",
+          "location": "Full perimeter frames surrounding calligraphy panels, both pages",
+          "confidence": 0.95
+        },
+        {
+          "motif": "Sülüs and nesih calligraphy panels — left page",
+          "description": "The left page contains a calligraphy panel with mixed scripts: large-scale sülüs lines (bold, sweeping letterforms with strong diagonal strokes) alternating with smaller nesih lines. The content is ḥadīth text in Arabic. Multiple calligraphic entries are arranged vertically within the panel, separated by narrow gold or illuminated section divider bands. Gold roundel markers punctuate the text.",
+          "location": "Central text panel, left page",
+          "confidence": 0.88
+        },
+        {
+          "motif": "Icāze/nesih calligraphy panel — right page",
+          "description": "The right page contains a calligraphy panel with what appears to be icāze or formal nesih script — smaller, more densely written than the left page. The text is Arabic ḥadīth. Gold roundel markers and sectional dividers are present.",
+          "location": "Central text panel, right page",
+          "confidence": 0.82
+        }
+      ],
+      "confidence": 0.90,
+      "notes": "This opening presents the album's multi-script character: large sülüs and fine nesih on the left, denser icāze/nesih on the right. The candy-stripe framing is consistent with the adjacent pages. The different panel sizes and script scales demonstrate the typical muraqqaʿ practice of assembling separately produced calligraphy specimens."
+    },
+    {
+      "folio": "Third calligraphy opening — sülüs/nesih panels with koltuk (IIIF p004)",
+      "source_image": "corpus/iiif/tiem_02429_p004_iiif.jpg",
+      "decoration_present": true,
+      "decoration_types": ["framing_system", "illuminated_margins"],
+      "elements": [
+        {
+          "motif": "Compound candy-stripe cedvel framing — both pages",
+          "description": "Both pages display the consistent multi-layer candy-stripe cedvel. On this opening the diagonal stripe pattern is particularly clear, with the green, gold, salmon/pink, and cream bands each distinctly visible. The framing width appears substantial — the candy-stripe band occupies approximately 15–20 mm of the frame depth on each side.",
+          "location": "Full perimeter frames, both pages",
+          "confidence": 0.95
+        },
+        {
+          "motif": "Koltuk tezhibi (corner illumination) and section divider bands",
+          "description": "At the inner corners of the framing on both pages, small illuminated koltuk (corner) pieces are visible — gold and polychrome medallion elements set within the angle between the inner cetvel and the calligraphy panel. Between individual calligraphy entries within each panel, narrow horizontal section divider bands in gold and red separate the calligraphic compositions. Several entries on the right page feature small red rectangular cartouches or medallion pieces between the sülüs and nesih lines.",
+          "location": "Inner frame corners and between calligraphic entries, both pages",
+          "confidence": 0.85
+        },
+        {
+          "motif": "Mixed sülüs/nesih ḥadīth calligraphy — both pages",
+          "description": "Both pages contain calligraphy panels with large sülüs lines (bold, monumental letterforms in black ink) alternating with smaller nesih or icāze lines. The ḥadīth content continues from the previous opening. The right page shows 'Qāla al-nabī ʿalayhi al-salām' (The Prophet, peace be upon him, said) in large sülüs at the opening of an entry, clearly identifying the ḥadīth text genre. Multiple calligraphic entries are arranged within each panel.",
+          "location": "Central text panels, both pages",
+          "confidence": 0.88
+        }
+      ],
+      "confidence": 0.90,
+      "notes": "This opening is notable for the visible koltuk illumination pieces and section divider bands that punctuate the calligraphic program. The explicit 'Qāla al-nabī ʿalayhi al-salām' formula visible on the right page confirms the YEK catalogue's description of ḥadīth content."
+    },
+    {
+      "folio": "Fourth calligraphy opening — probable ḥalkar margins (IIIF p005)",
+      "source_image": "corpus/iiif/tiem_02429_p005_iiif.jpg",
+      "decoration_present": true,
+      "decoration_types": ["framing_system", "illuminated_margins", "gold_worked"],
+      "elements": [
+        {
+          "motif": "Compound candy-stripe cedvel framing — both pages",
+          "description": "Both pages display the compound candy-stripe cedvel consistent with the rest of the album. The diagonal stripe pattern in green, gold, salmon/pink, and cream is clearly legible.",
+          "location": "Full perimeter frames, both pages",
+          "confidence": 0.95
+        },
+        {
+          "motif": "Probable ḥalkar (gold floral vine painting) on outer margins",
+          "description": "The outer margin ground outside the cedvel framing on both pages shows a warm amber/gold tone distinctly different from the cream/buff margins on pp. 002–004. At native IIIF resolution, faint gold floral vine motifs are discernible on this amber ground — gold-painted (or gold-stenciled) botanical patterns consistent with the ḥalkar (gold-painted margin decoration) tradition. The motifs appear to be scrolling vine patterns with small flower and leaf elements, executed in gold on the amber/gold-toned paper ground, creating a subtle gold-on-gold effect. Classification as 'probable' rather than 'confirmed' due to the subtlety of the gold-on-gold contrast at available resolution.",
+          "location": "Outer margins outside cedvel frame, both pages",
+          "confidence": 0.65
+        },
+        {
+          "motif": "Calligraphy panels with mixed scripts",
+          "description": "Left page: calligraphy panel framed by the candy-stripe cedvel, with gold-toned margin outside. The text panel features dense nesih/icāze calligraphy. Right page: calligraphy panel with larger sülüs lines and smaller nesih/icāze text. The final entries of the album may begin on this page.",
+          "location": "Central text panels, both pages",
+          "confidence": 0.85
+        }
+      ],
+      "confidence": 0.82,
+      "notes": "This opening is distinguished from the earlier pages by the warm amber/gold-toned margins with probable ḥalkar painting. The presence of gold floral vine painting on the outer margins represents an additional decorative layer beyond the cedvel framing system — suggesting that the later pages of the album received enhanced decorative treatment, possibly marking the concluding entries containing the ketebe records. Physical examination at higher magnification is needed to confirm the ḥalkar identification."
+    },
+    {
+      "folio": "Fifth calligraphy opening — final kıtʿa with ḥalkar margins (IIIF p006)",
+      "source_image": "corpus/iiif/tiem_02429_p006_iiif.jpg",
+      "decoration_present": true,
+      "decoration_types": ["framing_system", "illuminated_margins", "gold_worked"],
+      "elements": [
+        {
+          "motif": "Plain cream endpaper (left page)",
+          "description": "The left page of this opening is a plain cream/white endpaper with no significant decoration. Minor marks and slight discoloration visible.",
+          "location": "Left page of opening",
+          "confidence": 0.90
+        },
+        {
+          "motif": "Compound candy-stripe cedvel framing — right page",
+          "description": "The right page displays the multi-layer candy-stripe cedvel consistent with the rest of the album. This is the final calligraphy page, framing the last mounted kıtʿa panel.",
+          "location": "Full perimeter frame, right page",
+          "confidence": 0.95
+        },
+        {
+          "motif": "Probable ḥalkar (gold floral vine painting) on outer margins — right page",
+          "description": "The outer margin ground on the right page shows the same warm amber/gold tone observed on p005, with visible gold floral vine painting. The gold vine motifs on this page appear more clearly than on p005 — scrolling hatayi-style floral patterns with leaves and small blossoms executed in gold paint on the amber ground. This page has the most clearly visible ḥalkar decoration in the album, suggesting it was given the most elaborate margin treatment as the album's concluding leaf.",
+          "location": "Outer margins outside cedvel frame, right page",
+          "confidence": 0.70
+        },
+        {
+          "motif": "Final calligraphy panel with probable ketebe",
+          "description": "The right page contains the final calligraphy panel of the album. The text is in nesih/icāze script on cream āharlī paper. Per the YEK catalogue, the 9th and final entry contains an extended colophon record by Şeyh Ḥamdullāh with the date AH 901 (1495–96). The ketebe text is not independently readable at IIIF resolution, but the text layout is consistent with a concluding colophon entry.",
+          "location": "Central text panel, right page",
+          "confidence": 0.80
+        }
+      ],
+      "confidence": 0.85,
+      "notes": "This opening presents the album's final calligraphy leaf (right page) with the most clearly visible ḥalkar margin painting, and a plain cream endpaper (left page) marking the transition to the rear of the album. The enhanced ḥalkar decoration on this concluding page is consistent with a compositional hierarchy: the final leaf — containing Şeyh Ḥamdullāh's extended ketebe with the AH 901 date — received the most elaborate margin treatment."
+    },
+    {
+      "folio": "Inside back cover — leather doublure and endpaper (IIIF p007)",
+      "source_image": "corpus/iiif/tiem_02429_p007_iiif.jpg",
+      "decoration_present": true,
+      "decoration_types": ["framing_system"],
+      "elements": [
+        {
+          "motif": "Brown leather doublure with faint pressed shamsa (left page)",
+          "description": "The inside back cover (doublure) is brown leather — darker and simpler than the spectacular lacquer exterior covers. A faint oval/mandorla-shaped pressed shamsa impression is visible in the center, suggesting a tooled (but not gilt) decorative treatment. A library accession label reading '2429' is affixed in the upper left corner. The doublure's relatively simple treatment contrasts with the magnificent exterior lacquer covers.",
+          "location": "Inside back cover, left page of opening",
+          "confidence": 0.75
+        },
+        {
+          "motif": "Plain cream/white endpaper (right page)",
+          "description": "The right page is a plain cream/white endpaper with no decoration. Some faint pencil marks or institutional stamps are visible. The endpaper appears to be the conjugate of the rear endpaper.",
+          "location": "Rear endpaper, right page of opening",
+          "confidence": 0.90
+        }
+      ],
+      "confidence": 0.80,
+      "notes": "The brown leather doublure with faint pressed shamsa is significantly simpler than the lacquer exterior covers. This disparity between exterior and interior binding decoration is not uncommon in Ottoman album bindings, where the exterior was designed for display and the interior for structural function."
+    },
+    {
+      "folio": "Back cover — lacquer binding (IIIF p008)",
+      "source_image": "corpus/iiif/tiem_02429_p008_iiif.jpg",
+      "decoration_present": true,
+      "decoration_types": ["framing_system"],
+      "elements": [
+        {
+          "motif": "Ottoman lacquer binding — back cover matching front",
+          "description": "The back cover closely mirrors the front cover (p001) in design and execution: deep red/crimson lacquer ground, central gilt oval shamsa with hatayi/rumi scrollwork, paired gilt salbek pendants above and below, four elaborate gilt köşebent corner pieces with lobed profiles, and wide outer border frame with continuous gilt arabesque scrollwork. The back cover is in slightly better condition than the front, with less surface wear and clearer gilt detail. The bilateral symmetry of front and back covers confirms simultaneous production by a single workshop.",
+          "location": "Full back cover exterior",
+          "confidence": 0.97
+        }
+      ],
+      "confidence": 0.97,
+      "notes": "The back cover confirms the bilaterally symmetrical binding program characteristic of Ottoman court bookbinding. The near-identical design of front and back covers is standard for luxury album bindings."
+    }
+  ],
+  "terminology": {
+    "terms_used": [
+      {
+        "concept": "Calligraphic album",
+        "ottoman": "muraqqaʿ / murakkaat (مرقعات)",
+        "arabic": "muraqqa (مرقع) / muraqqa'at (مرقعات)",
+        "persian": "muraqqa (مرقع)",
+        "english": "Muraqqaʿ: a bound Ottoman calligraphic (and sometimes pictorial) album. This album contains 9 kıtʿa (specimen sheets) in sülüs, nesih, and icāze scripts by Şeyh Ḥamdullāh, with ḥadīth content and four ketebe records. Dated AH 901/1495–96."
+      },
+      {
+        "concept": "Calligraphic specimen sheet",
+        "ottoman": "kıtʿa (قطعة) / kıtʿa-i hat",
+        "arabic": "qiṭʿa (قطعة)",
+        "persian": "qiṭʿa (قطعه)",
+        "english": "Kıtʿa: a single calligraphic specimen sheet, typically displaying one or more lines of formal calligraphy in one or more scripts. This album contains nine kıtʿa in Arabic, with ḥadīth content, individually vassale-mounted into the decorated frame/margin paper."
+      },
+      {
+        "concept": "Window mounting (album technique)",
+        "ottoman": "vassale / pencere montajı",
+        "arabic": "waṣṣāla (وصّالة)",
+        "persian": "vaṣṣāle (وصّاله)",
+        "english": "Vassale: the technique of window-mounting individual calligraphy pieces (kıtʿa) into cut-out openings in a larger sheet of margin/frame paper. Standard construction technique for Ottoman muraqqaʿ albums. In this album, all 9 calligraphy panels are vassale-mounted into the margin paper, with the compound cedvel framing applied to the margin paper surrounding each mounted piece."
+      },
+      {
+        "concept": "Compound candy-stripe ruling frame",
+        "ottoman": "bileşik cetvel / şekerli cetvel / çok katlı renkli cetvel",
+        "arabic": "jadwal murakkab (جدول مركّب)",
+        "persian": "jadval-e murakkab (جدول مرکب)",
+        "english": "Compound cedvel with diagonal candy-stripe pattern: an elaborate multi-layer ruling/framing system in which alternating bands of color (green, gold, salmon/pink, cream) are arranged in diagonal stripes across the frame width, producing a distinctive barber-pole or 'candy' (şekerli) visual effect. In this album, 5–7 concentric band layers are present on all calligraphy pages (pp. 002–006). This framing type is among the most elaborate cedvel systems documented in the Ottoman muraqqaʿ corpus and is characteristic of late 15th-century Istanbul luxury album production."
+      },
+      {
+        "concept": "Gold ruling lines",
+        "ottoman": "altın cetvel / cetvelli / altın cetveller",
+        "arabic": "jadwal mudhahdhab (جدول مذهّب)",
+        "persian": "jadval-e zar (جدول زر)",
+        "english": "Altın cetvel: ruling lines applied in gold, framing the calligraphic text panel. In this album, gold cetveller form the innermost and outermost boundaries of the compound candy-stripe framing system, with a red inner cetvel immediately surrounding the text panels."
+      },
+      {
+        "concept": "Illuminated headpiece",
+        "ottoman": "serlevha / unvan tezhibi",
+        "arabic": "ʿunwān (عنوان)",
+        "persian": "sarlawḥ (سرلوح)",
+        "english": "Serlevha: an illuminated rectangular headpiece placed at the top of the first page of text or calligraphy, marking the formal opening of the manuscript's content. In this album, the serlevha on p002 right is a five-section composition in blue (lacivert) and gold, consistent with late 15th-century Ottoman illumination practice."
+      },
+      {
+        "concept": "Corner illumination",
+        "ottoman": "koltuk tezhibi / köşe süslemesi",
+        "arabic": "tazwīq al-zāwiya (تزويق الزاوية)",
+        "persian": "tazʾīn-e gūsha (تزئین گوشه)",
+        "english": "Koltuk tezhibi: decorative illuminated elements placed at the inner corners of a framing system, within the angle (koltuk) formed by the cetvelli borders. In this album, small illuminated medallion pieces are visible at the inner corners of the calligraphy panel frames on pp. 003–004."
+      },
+      {
+        "concept": "Gold-painted margin decoration",
+        "ottoman": "ḥalkâr / halkârî / altın boyalı kenar süslemesi",
+        "arabic": "tazwīq bi-al-dhahab (تزويق بالذهب)",
+        "persian": "ḥalkār (حالکار) / ḥalkārī (حالکاری)",
+        "english": "Ḥalkar/halkârî: a decorative technique in which gold paint is applied to the margins of a manuscript page, typically in floral vine (islimi) patterns. The gold painting creates a subtle gold-on-gold or gold-on-cream effect. In this album, probable ḥalkar is visible on the outer margins of pp. 005–006, where gold floral vine motifs are faintly visible on the amber-toned margin ground."
+      },
+      {
+        "concept": "Sülüs script",
+        "ottoman": "sülüs hattı",
+        "arabic": "thuluth (ثلث)",
+        "persian": null,
+        "english": "Sülüs (thuluth): one of the six classical Arabic scripts, characterized by large rounded letterforms with strong contrast between thick and thin strokes. One of the three scripts present in this album. Şeyh Ḥamdullāh is credited with transforming the Yāqūtī sülüs tradition into the distinctly Ottoman form that prevailed for five centuries."
+      },
+      {
+        "concept": "Nesih script",
+        "ottoman": "nesih hattı",
+        "arabic": "naskh (نسخ)",
+        "persian": null,
+        "english": "Nesih (naskh): a small, rounded, clear Arabic script widely used for manuscript copying. Present in the smaller-scale lines of the calligraphy panels in this album. Şeyh Ḥamdullāh's nesih was particularly celebrated for its clarity, evenness, and refined proportion."
+      },
+      {
+        "concept": "İcāze script",
+        "ottoman": "icāze hattı / icâzet",
+        "arabic": "ijāza (إجازة)",
+        "persian": null,
+        "english": "İcāze: a composite calligraphic style combining elements of sülüs and nesih, traditionally used for calligraphic diplomas and certificates. Present in this album alongside sülüs and nesih. The term can refer both to the script type and to the diploma/certificate genre."
+      },
+      {
+        "concept": "Colophon inscription",
+        "ottoman": "ketebe kaydı / ketebe",
+        "arabic": "kitāba (كتابة) / fārigha (فارغة)",
+        "persian": "ketābe (کتابه)",
+        "english": "Ketebe kaydı: the closing inscription in which the calligrapher records their name (and often the date and place of copying). In this album, four ketebe records identify the calligrapher under variant name forms: 'İbnü'ş-Şeyḥ' (entry 4), 'Ḥamdullāh' (entry 6), 'Ḥamdullāhi'l-maʿrūf bi-ibni'ş-Şeyḥ' (entry 7), and an extended record with the date AH 901 (entry 9). The four ketebe provide an exceptionally strong attribution chain."
+      },
+      {
+        "concept": "Ottoman lacquer binding",
+        "ottoman": "lâke cilt / lake cilt",
+        "arabic": null,
+        "persian": "jild-e lāk (جلد لاک)",
+        "english": "Lâke cilt: a binding technique in which boards are covered with layers of lacquer (shellac-based or oil-based varnish) applied over tooled or painted decoration, creating a hard, glossy, and durable surface. In this album, the deep red lacquer covers with gilt shamsa, salbek, and köşebent represent a superb example of Bāyezīd II-era Ottoman court bookbinding."
+      },
+      {
+        "concept": "Central binding medallion",
+        "ottoman": "şemse / yaldızlı şemse",
+        "arabic": "shams (شمس)",
+        "persian": "shamsa (شمسه)",
+        "english": "Şemse (shamsa): a central oval, round, or mandorla-shaped medallion placed on a manuscript binding cover. In this album, the shamsa is a large oval/mandorla form with scalloped edges and radiating spikes, filled with dense hatayi/rumi scrollwork in gold on the red lacquer ground."
+      },
+      {
+        "concept": "Binding pendant ornaments",
+        "ottoman": "salbek / salbekler",
+        "arabic": null,
+        "persian": "sāl-bek (سال بک)",
+        "english": "Salbek: paired pendant ornaments extending vertically above and below the central shamsa on a binding cover. In this album, the salbek are tear-drop shaped with pointed tips, containing miniature hatayi/rumi scrollwork matching the shamsa."
+      },
+      {
+        "concept": "Binding corner pieces",
+        "ottoman": "köşebent / köşelikler",
+        "arabic": null,
+        "persian": "gūsha-band (گوشه بند)",
+        "english": "Köşebent: corner ornament pieces on a binding cover, typically triangular or lobed in profile, projecting inward from the four cover corners. In this album, four elaborate gilt köşebent with lobed profiles and dense hatayi/rumi scrollwork are present on both front and back covers."
+      },
+      {
+        "concept": "Hatayi scrollwork (floral style)",
+        "ottoman": "hatâyî / hatayi",
+        "arabic": null,
+        "persian": "khatāyī (ختایی)",
+        "english": "Hatayi: a style of floral decoration originating in Chinese-influenced Timurid art, featuring naturalistic or semi-naturalistic flowers (lotuses, peonies, rosettes) connected by curving vine stems. The shamsa, salbek, and köşebent on this album's lacquer binding are filled with dense hatayi scrollwork — a standard Ottoman decorative vocabulary of the late 15th century that reflects the ongoing absorption of Timurid visual language."
+      }
+    ]
+  },
+  "bibliography": [
+    {
+      "citation": "Derman, M. Uğur. Letters in Gold: Ottoman Calligraphy from the Sakıp Sabancı Collection, Istanbul. New York: The Metropolitan Museum of Art, 1998.",
+      "relevance": "The primary English-language exhibition catalogue on Ottoman calligraphy, with the most comprehensive published treatment of Şeyh Ḥamdullāh's life, career, and calligraphic legacy. Derman documents Şeyh Ḥamdullāh's relationship with Sultan Bāyezīd II, his transformation of the classical scripts into Ottoman forms, and his documented works across Istanbul collections. Essential for contextualizing this AH 901 album within the chronology of Şeyh Ḥamdullāh's known oeuvre and for evaluating the four ketebe records.",
+      "relevance_score": 0.98,
+      "access_notes": "Exhibition catalogue (Metropolitan Museum of Art, 1998); widely held at Islamic art and Ottoman studies libraries. ISBN 978-0870998843."
+    },
+    {
+      "citation": "Serin, Muhittin. Hattat Şeyh Hamdullah: Hayatı, Talebeleri, Eserleri. Istanbul: Kubbealtı Neşriyatı, 1992.",
+      "relevance": "The most detailed monographic study of Şeyh Ḥamdullāh's life, students (talebeleri), and works (eserleri) in Turkish. Serin's catalogue of documented Şeyh Ḥamdullāh works is the primary reference for verifying the attribution of TIEM 02429 and for comparing its ketebe formulations with those in other authenticated albums. His analysis of Şeyh Ḥamdullāh's signing practices — using both 'İbnü'ş-Şeyḥ' and 'Ḥamdullāh' variants — is directly relevant to this album's four ketebe records.",
+      "relevance_score": 0.98,
+      "access_notes": "Turkish-language monograph. Available at major Turkish libraries and Islamic calligraphy research collections."
+    },
+    {
+      "citation": "Derman, M. Uğur. 'Şeyh Hamdullah.' In Türkiye Diyanet Vakfı İslam Ansiklopedisi, vol. 38, 482–87. Istanbul: TDV, 2010.",
+      "relevance": "The authoritative encyclopedia article on Şeyh Ḥamdullāh in the most comprehensive Turkish-language Islamic encyclopedia. Provides a concise overview of his biography, calligraphic innovation, relationship with Bāyezīd II, and documented works — essential for the biographical and historical context of this album.",
+      "relevance_score": 0.95,
+      "access_notes": "Available online at https://islamansiklopedisi.org.tr and in print."
+    },
+    {
+      "citation": "Blair, Sheila S. 'Color and Gold: The Decorated Papers Used in Manuscripts in Later Islamic Times.' Muqarnas 17 (2000): 24–36.",
+      "relevance": "Foundational taxonomic study providing the classification framework for decorated paper types in Islamic manuscripts, including gold-sprinkled (zerefşân), gold-worked (zerkarî), and ḥalkar traditions. Relevant for classifying the probable ḥalkar margin painting on pp. 005–006 and for situating the album's decorated paper program within the broader Islamic manuscript tradition.",
+      "relevance_score": 0.90,
+      "access_notes": "Peer-reviewed article. Available via JSTOR (Brill/Muqarnas Online). Open-access PDF accessible at Academia.edu."
+    },
+    {
+      "citation": "Çağman, Filiz, and Zeren Tanındı. The Topkapı Saray Museum: The Albums and Illustrated Manuscripts. Translated and edited by J. M. Rogers. Boston: Little, Brown, 1986.",
+      "relevance": "Standard reference for Ottoman calligraphic albums and their decorated paper programs in the Topkapı collections. Provides direct comparanda for Bāyezīd II-era (late 15th/early 16th-century) muraqqaʿ albums with compound cedvel framing, illuminated serlevha, and lacquer bindings. Essential for contextualizing TIEM 02429's decorative program within the broader corpus of Ottoman court albums.",
+      "relevance_score": 0.90,
+      "access_notes": "Exhibition catalogue; widely held at Turkish and Islamic art research libraries."
+    },
+    {
+      "citation": "Raby, Julian, and Zeren Tanındı. Turkish Bookbinding in the 15th Century: The Foundation of an Ottoman Court Style. London: Azimuth Editions, 1993.",
+      "relevance": "The definitive study of 15th-century Ottoman bookbinding, directly relevant to the lacquer binding on TIEM 02429. Raby and Tanındı document the development of the shamsa-salbek-köşebent binding program, the transition from Timurid to Ottoman design vocabulary, and the specific binding types associated with the Bāyezīd II court. This album's binding — deep red lacquer with gilt hatayi/rumi shamsa, paired salbek, and four köşebent — is a canonical example of the type they describe.",
+      "relevance_score": 0.95,
+      "access_notes": "Monograph; specialist publication, held at major Islamic art and bookbinding libraries."
+    },
+    {
+      "citation": "Roxburgh, David J. The Persian Album, 1400–1600: From Dispersal to Collection. New Haven: Yale University Press, 2005.",
+      "relevance": "Essential study of the muraqqaʿ album format and its role in the Persianate-Ottoman cultural tradition. Provides the theoretical framework for understanding album composition, the relationship between calligraphy and framing, and the significance of vassale (window-mounting) technique. Relevant for interpreting the album's compositional structure — 9 kıtʿa arranged across 4 folios with graduated decorative treatment.",
+      "relevance_score": 0.85,
+      "access_notes": "Monograph; widely held at research libraries."
+    },
+    {
+      "citation": "Déroche, François. Islamic Codicology: An Introduction to the Study of Manuscripts in Arabic Script. Translated by Deke Dusinberre and David Radzinowicz. London: Al-Furqan Islamic Heritage Foundation, 2005.",
+      "relevance": "Foundational reference for Islamic manuscript codicology, covering paper decoration types, binding forms, ruling systems, and physical manuscript description. Provides the motif classification framework (extended for Ottoman-specific forms) used throughout this catalog record, including the terminology for cetvel, vassale, shamsa, and related elements.",
+      "relevance_score": 0.80,
+      "access_notes": "Monograph; available at specialist libraries."
+    },
+    {
+      "citation": "Gacek, Adam. Arabic Manuscripts: A Vademecum for Readers. Leiden: Brill, 2009.",
+      "relevance": "Standard reference for Islamic manuscript codicological terminology and script identification. Relevant for the identification and description of the sülüs, nesih, and icāze scripts in this album, and for general codicological terms (ketebe, kıtʿa, cetvel) used in this record.",
+      "relevance_score": 0.78,
+      "access_notes": "Reference monograph; widely held."
+    },
+    {
+      "citation": "Scheper, Karin. The Technique of Islamic Bookbinding: Methods, Materials and Regional Varieties. Leiden: Brill, 2015.",
+      "relevance": "Systematic study of Islamic bookbinding techniques, relevant for the physical analysis of the lacquer binding. The shamsa-salbek-köşebent program and the lacquer-on-red-ground technique documented in this album are within the scope of Scheper's regional and chronological survey of Ottoman bookbinding.",
+      "relevance_score": 0.75,
+      "access_notes": "Monograph; available at Islamic bookbinding and manuscript studies libraries."
+    },
+    {
+      "citation": "Bağcı, Serpil, Filiz Çağman, Günsel Renda, and Zeren Tanındı. Ottoman Painting. Ankara: Ministry of Culture and Tourism, 2006.",
+      "relevance": "Comprehensive survey of Ottoman visual arts, covering the album tradition, calligraphic practices, and court illumination workshop (nakkaşhane) production from the late 15th century onward. Provides context for the Bāyezīd II-era artistic milieu in which this album was produced — the period when the Istanbul nakkaşhane was consolidating its synthesis of Timurid and Ottoman decorative traditions.",
+      "relevance_score": 0.75,
+      "access_notes": "Museum publication; widely held at Turkish studies collections."
+    },
+    {
+      "citation": "Bloom, Jonathan M. Paper Before Print: The History and Impact of Paper in the Islamic World. New Haven: Yale University Press, 2001.",
+      "relevance": "Comprehensive history of paper production and use in the Islamic world, providing material-culture background for the āharlı calligraphy paper and decorated margin papers used in this album. Relevant for understanding the paper preparation and gold-working techniques that underpin the album's decorative program.",
+      "relevance_score": 0.70,
+      "access_notes": "Widely held monograph."
+    }
+  ],
+  "suggested_collections": [
+    {
+      "institution": "Türk ve İslam Eserleri Müzesi (TIEM), Istanbul — broader muraqqaʿ corpus",
+      "reason": "The TIEM muraqqaʿ corpus (93 positive albums confirmed in visual triage) contains direct comparanda for the compound cedvel framing system and vassale technique. TIEM 02450, 02453, and 02465 are Bāyezīd II-era or near-contemporary albums that should be compared for framing system similarities. The candy-stripe cedvel documented here should be cross-referenced against other TIEM murakkaat to determine whether it is unique to this album or a feature of a specific workshop group.",
+      "digital_access": "https://portal.yek.gov.tr"
+    },
+    {
+      "institution": "Topkapı Sarayı Müzesi Kütüphanesi, Istanbul",
+      "reason": "Holds the largest corpus of authenticated Şeyh Ḥamdullāh works, including multiple muraqqaʿ albums and individual kıtʿa. Physical comparison with documented Topkapı albums by Şeyh Ḥamdullāh is essential for confirming the calligraphic attribution and for identifying parallel compound cedvel framing programs and Bāyezīd II-era lacquer bindings.",
+      "digital_access": "https://kutuphane.tsmk.gov.tr"
+    },
+    {
+      "institution": "Sakıp Sabancı Museum, Istanbul",
+      "reason": "Holds major Şeyh Ḥamdullāh calligraphic works studied in Derman (1998). The Sabancı collection provides the closest comparative material for evaluating the calligraphic attribution and for situating TIEM 02429 within the documented corpus of Şeyh Ḥamdullāh's muraqqaʿ albums.",
+      "digital_access": null
+    },
+    {
+      "institution": "Süleymaniye Kütüphanesi, Istanbul",
+      "reason": "Holds additional Şeyh Ḥamdullāh calligraphic specimens, including albums and individual kıtʿa from various collections deposited at the Süleymaniye. Comparative examination may reveal parallel candy-stripe cedvel framing or matching lacquer binding programs.",
+      "digital_access": "https://portal.yek.gov.tr"
+    },
+    {
+      "institution": "Chester Beatty Library, Dublin",
+      "reason": "Major collection of Ottoman calligraphic albums with decorated papers, including late 15th/early 16th-century albums with compound framing systems and lacquer bindings. Provides international comparanda for the decorative program and for Şeyh Ḥamdullāh's documented works outside Turkey.",
+      "digital_access": "https://viewer.cbl.ie"
+    }
+  ],
+  "provenance": {
+    "donor": null,
+    "waqf": null,
+    "previous_shelfmarks": [],
+    "notes": "Held at Türk ve İslam Eserleri Müzesi (TIEM), Istanbul, under shelfmark T 2429. TIEM is a Turkish state museum housed in the İbrahim Paşa Palace on the Hippodrome (At Meydanı). The manuscript entered the TIEM collection at an undetermined date prior to YEK registration. A library accession label is visible on p001 (front cover) and a '2429' label on p007 (inside back cover). No waqf (endowment) information is available in the YEK record. The original patronage context — Sultan Bāyezīd II's court in Istanbul, c. 1495–96 — suggests the album was produced for the Ottoman royal library or a high-status courtier's collection. Its subsequent provenance between the late 15th century and its entry into the TIEM collection is unknown. YEK ID: 705373. IIIF ID: 0000000662586. Catalogued by Nalan Kutsal."
+  },
+  "analysis_metadata": {
+    "analyzed_date": "2026-02-28",
+    "analyzer": "claude-code-manuscript-pipeline",
+    "pipeline_stage": "metadata-generator",
+    "image_source": "YEK Portal IIIF images, TIEM Yazma Eser Koleksiyonu, YEK ID 705373, IIIF ID 0000000662586. All 8 pages downloaded and examined at native IIIF resolution.",
+    "image_quality_notes": "IIIF images at native resolution are clear and support confident identification of the compound candy-stripe cedvel framing system (green, gold, salmon/pink, cream diagonal bands), the lacquer binding elements (shamsa, salbek, köşebent), the illuminated serlevha, and the koltuk corner pieces. The ḥalkar (gold floral vine painting) on pp. 005–006 margins is visible but at the threshold of confident identification due to the gold-on-gold contrast — classified as 'probable' (0.65–0.70). The ketebe inscription texts are not independently readable from IIIF images; the YEK catalogue text is relied upon for content transcription, calligrapher identification, and dating. Individual calligraphy script identification (sülüs vs. nesih vs. icāze) is based on visual assessment of letterform scale and style at IIIF resolution. Gold-sprinkled (zerefşân) paper classification remains inconclusive (0.40) — the warm amber tone on some margin papers could indicate zerefşân, natural paper aging, or reflective effects from adjacent gold cedvel.",
+    "folios_examined": [
+      "corpus/iiif/tiem_02429_p001_iiif.jpg",
+      "corpus/iiif/tiem_02429_p002_iiif.jpg",
+      "corpus/iiif/tiem_02429_p003_iiif.jpg",
+      "corpus/iiif/tiem_02429_p004_iiif.jpg",
+      "corpus/iiif/tiem_02429_p005_iiif.jpg",
+      "corpus/iiif/tiem_02429_p006_iiif.jpg",
+      "corpus/iiif/tiem_02429_p007_iiif.jpg",
+      "corpus/iiif/tiem_02429_p008_iiif.jpg"
+    ],
+    "folios_not_examined": "All 8 IIIF pages examined. The album is complete (8 pages covering front cover, inside front cover/endpaper + serlevha opening, three calligraphy openings, final calligraphy + rear endpaper, inside back cover + endpaper, back cover).",
+    "corpus_priority": "HIGHEST — one of the earliest securely dated Şeyh Ḥamdullāh muraqqaʿ albums (AH 901/1495–96). The compound candy-stripe cedvel is among the most elaborate framing systems in the project corpus. The Bāyezīd II-era lacquer binding is a superb example of late 15th-century Ottoman court bookbinding. Priority follow-up: (1) higher-resolution imaging of ketebe inscriptions on entries 4, 6, 7, 9 for independent reading; (2) confirm ḥalkar vs. zerefşân on pp. 005–006 margins at higher magnification; (3) compare candy-stripe cedvel with other Bāyezīd II-era albums (TIEM 02450, 02453, 02465) to identify workshop group; (4) cross-reference ketebe formulations with Serin (1992) catalogue of Şeyh Ḥamdullāh works; (5) physical examination of lacquer binding technique and pigment analysis.",
+    "source_data": {
+      "visual_confirmation_file": "catalog/searches/visual_tier2_tiem_02429.json",
+      "yek_id": "705373",
+      "iiif_id": "0000000662586",
+      "batch": "Muraqqaʿ IIIF deep analysis batch (2026-02-28)"
+    }
+  }
+}

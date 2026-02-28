@@ -1,0 +1,555 @@
+{
+  "record_id": "tiem_02493",
+  "collection": {
+    "institution": "Türk ve İslam Eserleri Müzesi",
+    "city": "Istanbul",
+    "country": "Turkey",
+    "shelfmark": "02493",
+    "yek_url": "https://portal.yek.gov.tr/works/detail/705426"
+  },
+  "manuscript": {
+    "title": "Muraqqaʿ / مرقع",
+    "title_script": "مرقع",
+    "title_alt": "Hüseyin Haffâfzâde Muraqqaʿı",
+    "author": null,
+    "author_dates": null,
+    "calligrapher": "Hüseyin Haffâfzâde (حسین حفافزاده)",
+    "calligrapher_dates": "d. 1149/1736 (?) — see calligrapher_note for death-date discrepancy",
+    "calligrapher_note": "Hüseyin Haffâfzâde (also transliterated Hüseyin Haffafzade) was an Ottoman calligrapher active in the first half of the 12th century AH / early 18th century CE. All 10 calligraphy pieces in this album bear his ketebe inscription. The YEK catalogue's genel_notlar field names him as the calligrapher with ketebe on all pieces. DEATH DATE DISCREPANCY: The visual confirmation triage file records d. 1149/1736, while the visual_tier2 file records d. 1154/1741 with a '?' flag. The date 1149 AH appears on pieces 3 and 4 of the album as a completion date — this is the date of the calligraphic works, not necessarily the death date. The discrepancy (1149 vs. 1154) likely reflects confusion between the album's dated calligraphy (AH 1149) and the calligrapher's reported death date. Further biographical verification is needed. His style is firmly within the post-Hâfız Osmân Istanbul sülüs-nesih tradition.",
+    "date_ah": "1149",
+    "date_ce": "1736–37",
+    "date_note": "The date AH 1149 / 1736–37 CE is recorded on pieces 3 and 4 of the album, following the ketebe inscription, per the YEK catalogue. This dates the calligraphic content; the album's assembly and decorated paper program were presumably produced concurrently or shortly after. The battal ebru marbling style is consistent with early-to-mid 18th-century Ottoman production.",
+    "place_of_copy": null,
+    "format": "Muraqqaʿ / مرقع — calligraphic album with battal ebru covers and polychrome battal ebru interior margin papers throughout",
+    "format_note": "A bound Ottoman calligraphic album (muraqqaʿ) of 10 yaprak (leaves), imaged as 7 IIIF pages: front cover + 5 bifolio spreads (each showing 2 leaves) + back cover. Contains 10 kıtʿa (calligraphic specimen sheets) in Arabic sülüs and nesih scripts, with hadith content. The album's defining decorative feature is the comprehensive use of battal ebru (stone marbling) on ALL surfaces: both covers are battal ebru marbled boards, and ALL five interior openings (pp. 002–006) use battal ebru as the margin paper for vassale-mounted calligraphy panels. This pervasive interior use of battal ebru as margin paper is distinctive — most Ottoman calligraphic albums reserve battal ebru for covers only, using zerefşân, plain colored, or halkar-decorated papers for interior margins. At least 3–4 distinct battal ebru color palettes are employed across the five interior openings, creating a chromatic sequence: vivid pink/rose → grey-blue/teal → grey-blue/lavender → mixed pink/grey → cream/yellow-green + pink/mauve.",
+    "language": "Arabic",
+    "script": "Sülüs (ثلث) and Nesih (نسخ) — per YEK catalogue: 'Arap harfli — Sülüs, Nesih'",
+    "dimensions_mm": {
+      "height": 256,
+      "width": 170,
+      "writing_area_mm": {
+        "height": null,
+        "width": null
+      },
+      "note": "Outer dimensions 256×170 mm per YEK catalogue; writing area 'muhtelif×muhtelif' (variable) — each of the 10 calligraphy panels varies in size within the standardized margin format."
+    },
+    "folio_count": 10,
+    "yek_id": "705426",
+    "iiif_id": "0000000662639",
+    "notes": "A battal ebru album of exceptional consistency: the same marbling technique is used on every surface, from the covers through all interior margins, with deliberate palette variation across the five interior openings. The 10 calligraphy pieces — all by Hüseyin Haffâfzâde, all with ketebe inscriptions, in sülüs-nesih with hadith content — form a uniform calligraphic program, while the surrounding marbled papers create a polychrome environment for the writing. The use of battal ebru as interior margin paper (as opposed to covers only) elevates the album from the standard pattern and suggests a deliberate commission rather than ad hoc assembly. Small floral sprinkle decoration (serpme tezyinat) visible in upper corners of some margin zones (p002 right page). Small orange/coral triangular corner ornaments (köşe güle) visible at the outer margin corners on p004. Gold cetvelli framing on all 10 vassale-mounted panels throughout the album. A round seal/stamp is visible at the bottom-left of the left panel on p006. YEK catalogue notes: 'Sülüs-nesih hatlarıyla hadis-i şeriflerin yer aldığı, 10 parça yazıdan oluşan bu murakkadaki bütün yazılarda Hüseyin Haffâfzâde'nin ketebe kaydı bulunmaktadır. Murakkadaki 3. ve 4. yazılarda ketebe kaydından sonra 1149 (1736-37) tarihi de ilave edilmiştir.' Catalogue entry by Nalan Kutsal."
+  },
+  "paper_decoration": {
+    "types": [
+      "marbled",
+      "framing_system"
+    ],
+    "summary": "TIEM 02493 exhibits a comprehensive battal ebru (stone marbling) program of unusual extent: battal ebru is used on ALL surfaces of the album — both covers and all interior margin papers — making this one of the most thoroughly marbled albums in the project corpus. The covers (pp. 001, 007) are marbled boards in a cream/buff ground with red/crimson, dark blue-black, and grey-blue swirling stone pattern — a standard battal ebru palette for Ottoman album covers. What distinguishes TIEM 02493 is the interior program: all five bifolio openings (pp. 002–006) use battal ebru sheets as the margin paper for vassale-mounted calligraphy panels. At least 3–4 distinct battal ebru color palettes are employed across these openings, creating deliberate chromatic variety: (1) p002: vivid pink/rose battal ebru — the warmest and most saturated palette, with pink/rose tones dominating the swirled stone pattern alongside cream and red; (2) p003: grey-blue/teal + red/crimson — a darker, cooler palette with prominent teal and blue-grey tones intermixed with red/crimson, resembling the cover palette but with a cooler shift; (3) p004: grey-blue/lavender — a muted, cool palette with lavender and grey-blue tones predominating; small orange/coral triangular corner ornaments (köşe güle) at the margin corners add warm accent; (4) p005: mixed pink/rose + grey — an intermediate palette combining the warmth of p002 with the cooler grey-blue tones; (5) p006: two distinct palettes side by side — left page in cream/yellow-green (the lightest palette in the album), right page in pink/mauve + grey-blue. The calligraphy panels are uniformly framed with gold cetvelli (ruling lines) around each of the 10 vassale-mounted kıtʿa pieces. The battal ebru throughout is of the standard stone/spot type (irregular spotted or mottled swirling pattern without combing or floral manipulation), characteristic of the Ottoman ebru tradition.",
+    "distribution_notes": "Battal ebru covers: front (p001) and rear (p007) marbled boards in cream/red/dark blue palette. Battal ebru interior margins: p002 (pink/rose), p003 (grey-blue/teal), p004 (grey-blue/lavender), p005 (pink/grey mixed), p006 (cream/yellow-green left, pink/mauve right). The marbled papers are present on every surface of the album without exception. The calligraphy panels (cream/buff âharlı paper) are the only non-marbled elements, window-mounted (vassale) into the battal ebru margin sheets.",
+    "technique_terms": {
+      "ottoman": "battal ebru / ebrî (taşlı/benekli desen); ebrulu yan kağıtları (marbled margin papers); vassale yöntemiyle ebrulu kağıda monte edilmiştir (window-mounted onto marbled paper); altın cetvelli (gold-ruled); köşe güle (corner ornament)",
+      "persian": "abrī (ابری) — marbled; kāġaḏ-e abrī (کاغذ ابری) — marbled paper",
+      "arabic": "waraq muʿarraq (ورق معرّق) — marbled paper; jadwal mudhahdhab (جدول مذهّب) — gold-ruled frame"
+    },
+    "catalogue_description": {
+      "paper_field": null,
+      "paper_field_normalized": null,
+      "paper_field_translation": null,
+      "notes_field": "Sülüs-nesih hatlarıyla hadis-i şeriflerin yer aldığı, 10 parça yazıdan oluşan bu murakkadaki bütün yazılarda Hüseyin Haffâfzâde'nin ketebe kaydı bulunmaktadır. Murakkadaki 3. ve 4. yazılarda ketebe kaydından sonra 1149 (1736-37) tarihi de ilave edilmiştir.",
+      "notes_field_normalized": "Sülüs-nesih hatlarıyla hadis-i şeriflerin yer aldığı, 10 parça yazıdan oluşan bu murakkadaki bütün yazılarda Hüseyin Haffâfzâde'nin ketebe kaydı bulunmaktadır. Murakkadaki 3. ve 4. yazılarda ketebe kaydından sonra 1149 (1736-37) tarihi de ilave edilmiştir.",
+      "notes_field_translation": "This album consisting of 10 calligraphic specimens in sülüs-nesih scripts containing hadith (prophetic sayings) has the ketebe inscription of Hüseyin Haffâfzâde on all pieces. A date of 1149 (1736-37) has been added after the ketebe inscription on the 3rd and 4th pieces in the album.",
+      "decoration_field": null,
+      "source": "YEK portal, genel notlar field, record 705426, Türk ve İslam Eserleri Müzesi. Catalogued by Nalan Kutsal. Kâğıt özellikleri and tezhip/minyatür fields are null in the YEK record. All paper decoration observations derive from visual examination of IIIF images."
+    }
+  },
+  "workshop_attribution": {
+    "primary_tradition": "ottoman",
+    "workshop_centre": "Istanbul",
+    "date_range_ce": "c. 1736–1750",
+    "confidence": 0.80,
+    "key_indicators": [
+      "The ketebe of Hüseyin Haffâfzâde on all 10 pieces with dates of AH 1149 (1736-37) on pieces 3 and 4 places the calligraphic content in Istanbul in the second quarter of the 18th century",
+      "The sülüs-nesih script pairing for hadith content is a core Istanbul calligraphic repertoire format of the post-Hâfız Osmân era (early-mid 18th century)",
+      "Battal ebru (stone marbling) as both cover and interior margin paper is a documented Ottoman album technique; the deliberate palette variation across openings — using 3–4 distinct color schemes in a coordinated program — indicates a sophisticated Istanbul workshop commission rather than provincial or ad hoc assembly",
+      "The gold cetvelli framing system on all 10 vassale-mounted panels follows standard Istanbul album-production conventions of the 18th century",
+      "The album format — leather spine with marbled boards, vassale-mounted calligraphy — is characteristic of Istanbul murakka production of the early 18th century"
+    ],
+    "cross_tradition_caveats": [
+      "Battal ebru is the most widespread and least geographically distinctive of Ottoman marbling types — the technique itself does not uniquely point to Istanbul, though the coordinated polychrome program and the calligrapher's known Istanbul activity do",
+      "The calligrapher's death date is disputed (1149 vs. 1154 AH); if the later date (1154/1741) is correct, the album may have been produced in or near the year of the calligrapher's death; if the earlier date reflects only the pieces' completion, the album assembly may postdate the calligraphy",
+      "No explicit patron, waqf, or institutional commission information is available — the high quality of the program suggests court or elite patronage but this cannot be confirmed without further provenance research"
+    ]
+  },
+  "codicology": {
+    "paper": {
+      "color": "Battal ebru margin papers in multiple color palettes: (1) pink/rose (p002), (2) grey-blue/teal with red/crimson (p003), (3) grey-blue/lavender (p004), (4) mixed pink/grey (p005), (5) cream/yellow-green and pink/mauve (p006). Cover boards: cream/buff ground with red/crimson and dark blue-black battal ebru. Calligraphy text panels: cream/off-white burnished âharlı paper.",
+      "preparation": "The calligraphy text panels are written on âharlı (sized and burnished) cream paper, consistent with Ottoman luxury calligraphy paper of the early 18th century. The battal ebru margin papers were produced using the stone-marbling technique: pigments floated on a gum-tragacanth (kitre) bath in the marbling trough (tekne), agitated to create the characteristic irregular stone/spot pattern, and transferred to the paper surface. The variety of color palettes across openings indicates that multiple battal ebru sheets were produced with different pigment combinations, then selected and distributed across the album openings for chromatic effect.",
+      "weight": "Indeterminate from IIIF images. Standard Ottoman album weight expected — heavier stock for margin papers to support vassale mounting.",
+      "decoration": "Battal ebru on all surfaces (covers and interior margins). Gold cetvelli framing on all calligraphy panels. Small floral sprinkle decoration (serpme tezyinat) in upper corners of some margins (p002). Small orange/coral triangular köşe güle corner ornaments at margin corners (p004).",
+      "paper_type": "Eastern/Oriental paper for calligraphy panels (âharlı); battal ebru marbled paper for interior margins; battal ebru marbled paper-covered boards for covers."
+    },
+    "ruling": {
+      "system": "Altın cetvelli (gold ruling) framing each of the 10 vassale-mounted calligraphy panels. Visible as single or double gold lines forming a rectangular frame around each panel, with the battal ebru margin paper surrounding the frame externally.",
+      "description": "Each of the 10 calligraphy panels across 5 bifolio openings (pp. 002–006) is framed by gold cetvelli: (from outside in) the battal ebru outer margin paper; a gold cetvel line (outer rule); the cream calligraphy text area. The cetvelli system is simpler than the multi-layer system observed in some albums (e.g., TIEM 02437): a single or double gold rule rather than a 3–4 line system with red inner strips. The framing is consistent and well-executed across all 10 panels, with clean edges at the vassale join between the calligraphy panel and the surrounding marbled margin paper. On p004, small orange/coral triangular ornaments (köşe güle) appear at the outer corners of the margin zone, outside the cetvelli frame."
+    },
+    "binding": {
+      "cover_description": "Both front (p001) and back (p007) covers are battal ebru marbled boards: cream/buff ground with red/crimson, dark blue-black, and grey-blue swirling stone-marbled pattern. The marbling covers the full surface of each board. The front cover bears a white label '2493' (shelfmark) affixed center-top, and an Ottoman inscription in red ink at the upper portion. A leather spine binding is visible at the left edge. The rear cover (p007) is the same battal ebru palette without labels or inscriptions. No gilt shamsa or corner ornaments on the covers — the marbled paper itself IS the decorative binding surface.",
+      "cover_type": "Ebrulu mukavva — battal ebru marbled board covers with leather spine",
+      "notes": "The use of battal ebru for the covers is standard for Ottoman murakka albums. What is distinctive is that the same battal ebru technique extends to all interior margins, creating a unified marbled environment throughout. The front and rear cover marbling appears from the same batch: the cream/buff + red/crimson + dark blue-black palette and the scale of the stone patterning are closely matched on both covers."
+    },
+    "format": "Muraqqaʿ — Ottoman calligraphic album (10 yaprak / 7 IIIF pages: covers + 5 bifolio openings)",
+    "condition_summary": "The album is generally well-preserved. The battal ebru margin papers across all five interior openings are vivid and clearly legible at IIIF resolution, with the color palettes well-differentiated. The cover marbling (pp. 001, 007) is intact with some light surface wear and minor edge darkening. The calligraphy panels are legible and clean, with ink well-preserved. The gold cetvelli framing is intact on all 10 panels. No catastrophic damage, missing leaves, or major repair campaigns are visible. Some minor foxing/spotting is present on individual margin papers but does not significantly affect legibility. The leather spine binding appears intact. A round seal/stamp is visible at the bottom-left of the left panel on p006 — appears to be an ownership or institutional stamp.",
+    "conservation_history": null
+  },
+  "visual_confirmation": {
+    "verdict": "confirmed",
+    "confidence": 0.95,
+    "screenshots_examined": 7,
+    "folios_examined": [
+      "corpus/iiif/tiem_02493_p001.jpg",
+      "corpus/iiif/tiem_02493_p002.jpg",
+      "corpus/iiif/tiem_02493_p003.jpg",
+      "corpus/iiif/tiem_02493_p004.jpg",
+      "corpus/iiif/tiem_02493_p005.jpg",
+      "corpus/iiif/tiem_02493_p006.jpg",
+      "corpus/iiif/tiem_02493_p007.jpg"
+    ],
+    "visual_evidence": "Battal ebru confirmed on all 7 IIIF pages without exception. (1) Front cover (p001) and rear cover (p007): clear multi-color battal ebru stone marbling in cream/buff + red/crimson + dark blue-black palette, consistent between both covers. (2) All five interior openings (pp. 002–006): battal ebru used as margin paper for vassale-mounted calligraphy panels, with 3–4 distinct color palettes — pink/rose (p002, most vivid), grey-blue/teal (p003, coolest), grey-blue/lavender (p004), mixed pink/grey (p005), and cream/yellow-green + pink/mauve (p006). (3) Gold cetvelli framing confirmed around all 10 calligraphy panels. (4) Vassale (window-mounting) confirmed throughout — panel edges and seams visible at the transition between cream calligraphy paper and surrounding marbled margin paper. (5) Small floral sprinkle decoration at upper corners of p002 right page. (6) Köşe güle corner ornaments at outer margin corners on p004. (7) Round seal/stamp at bottom-left of p006 left panel.",
+    "limitations": [
+      "IIIF images examined at download resolution (0.95 quality); native resolution not systematically checked for marbling microstructure",
+      "Calligraphic attribution to Hüseyin Haffâfzâde accepted from YEK catalogue (ketebe recorded on all 10 pieces); cannot be independently verified from available images without comparison to documented works",
+      "The calligrapher's death date is disputed: 1149 AH (1736 CE) vs. 1154 AH (1741 CE) — biographical verification needed",
+      "No ketebe inscription text is independently readable from IIIF images at available resolution; YEK catalogue text is relied upon for content description",
+      "Writing area dimensions not measurable from IIIF images — 'muhtelif×muhtelif' (variable) per YEK catalogue"
+    ],
+    "source_agent": "metadata-generator (direct IIIF examination)",
+    "session": "catalog/searches/visual_tier2_tiem_02493.json"
+  },
+  "folio_analyses": [
+    {
+      "folio": "Front cover (IIIF p001)",
+      "source_image": "corpus/iiif/tiem_02493_p001.jpg",
+      "decoration_present": true,
+      "decoration_types": ["marbled"],
+      "elements": [
+        {
+          "motif": "Battal ebru marbled board — front cover",
+          "description": "The front cover is a full-surface battal ebru marbled board. The stone-marbling pattern displays a cream/buff ground with prominent red/crimson patches, dark blue-black swirling veins, and grey-blue intermediate tones. The pattern is characteristic battal ebru: irregular, freely swirled stone/spot marbling without combing or floral manipulation. The marbling covers the entire board surface. The cream/buff ground is the lightest tone, forming the base through which the darker colors (red, dark blue-black, grey-blue) are distributed in organic, flowing shapes. A white rectangular shelfmark label reading '2493' is affixed at the center-top. An Ottoman inscription in red ink occupies the upper portion of the cover — this appears to be a title or cataloguing notation in Ottoman script. A leather spine binding is visible at the left edge, dark brown/black in color.",
+          "location": "Full front cover exterior",
+          "confidence": 0.97
+        }
+      ],
+      "confidence": 0.97,
+      "notes": "The front cover battal ebru is a high-quality, multi-color stone marbling in excellent condition. The palette — cream/buff + red/crimson + dark blue-black + grey-blue — is one of the standard Ottoman battal ebru color combinations for album covers. The marbling closely matches the rear cover (p007), indicating simultaneous production."
+    },
+    {
+      "folio": "First interior opening — pink/rose battal ebru margins (IIIF p002)",
+      "source_image": "corpus/iiif/tiem_02493_p002.jpg",
+      "decoration_present": true,
+      "decoration_types": ["marbled", "framing_system"],
+      "elements": [
+        {
+          "motif": "Pink/rose battal ebru — margin paper, both pages",
+          "description": "The outer margin of both pages in the first interior opening is covered with battal ebru marbled paper in a vivid pink/rose palette — the warmest and most saturated of the album's interior palettes. The stone-marbling pattern shows pink/rose tones as the dominant color, interspersed with cream/buff areas, darker red/crimson veins, and touches of grey. The pink dominance gives this opening a distinctly warm, rosy character. The marbled paper completely fills the margins surrounding the vassale-mounted calligraphy panels. This is the most vivid and visually striking of the five interior openings.",
+          "location": "Outer margins surrounding calligraphy panels, both pages",
+          "confidence": 0.95
+        },
+        {
+          "motif": "Gold cetvelli framing — both panels",
+          "description": "Both calligraphy panels are framed by gold cetvelli (ruling lines) forming a clean rectangular frame at the junction between the cream calligraphy paper and the surrounding pink/rose battal ebru margin paper. The gold lines are clearly visible at IIIF resolution.",
+          "location": "Panel frames, both pages",
+          "confidence": 0.93
+        },
+        {
+          "motif": "Vassale (window-mounting) — both panels",
+          "description": "Both calligraphy panels are vassale-mounted: the cream/buff calligraphy paper is cut to the panel size and set into a window cut from the larger battal ebru margin sheet. The transition between calligraphy paper and marbled margin paper is visible at the panel edges, with the gold cetvelli framing lines covering the join.",
+          "location": "Both calligraphy panels",
+          "confidence": 0.95
+        },
+        {
+          "motif": "Floral sprinkle decoration (serpme tezyinat)",
+          "description": "Small floral sprinkle decoration is visible in the upper-right corner area of the right page's margin zone, above and to the right of the calligraphy panel. These appear as small scattered floral motifs superimposed on or adjacent to the battal ebru surface.",
+          "location": "Upper-right corner area of right page margin",
+          "confidence": 0.75
+        },
+        {
+          "motif": "Calligraphy panels — sülüs-nesih kıtʿalar (2 panels)",
+          "description": "Each page carries a vassale-mounted calligraphy panel on cream âharlı paper. The panels follow the standard sülüs-nesih kıtʿa format: a large sülüs line above (bold, with pronounced diagonal and curved strokes), smaller nesih text lines in the middle, and a diagonal sülüs closing line at the bottom. Small gold rosette dividers (gold dots) are visible between text sections. The content is hadith (prophetic sayings) per the YEK catalogue.",
+          "location": "Central text panels, both pages",
+          "confidence": 0.90
+        }
+      ],
+      "confidence": 0.93,
+      "notes": "The pink/rose battal ebru of this opening is the most vivid and visually distinctive of the five interior palettes. The dominance of warm pink tones in the stone marbling is unusual — most battal ebru uses a more neutral cream/buff base. This may reflect deliberate pigment selection to create a warm first impression upon opening the album. The small floral decoration at upper-right is subtle and may represent a later addition or a coordinated serpme element."
+    },
+    {
+      "folio": "Second interior opening — grey-blue/teal battal ebru margins (IIIF p003)",
+      "source_image": "corpus/iiif/tiem_02493_p003.jpg",
+      "decoration_present": true,
+      "decoration_types": ["marbled", "framing_system"],
+      "elements": [
+        {
+          "motif": "Grey-blue/teal + red/crimson battal ebru — margin paper, both pages",
+          "description": "The outer margin of both pages in the second opening is covered with battal ebru marbled paper in a darker, cooler palette than p002. Grey-blue and teal tones dominate the marbling, with prominent red/crimson patches creating strong contrast, plus cream/buff and dark blue-black veining. The palette is the coolest and most dramatic of the interior openings, with the grey-blue/teal creating a noticeably different visual atmosphere from the warm pink of p002. The stone-marbling pattern is bolder here, with larger color patches and more pronounced swirling.",
+          "location": "Outer margins surrounding calligraphy panels, both pages",
+          "confidence": 0.95
+        },
+        {
+          "motif": "Gold cetvelli framing — both panels",
+          "description": "Gold cetvelli ruling lines frame both calligraphy panels, consistent with the system on p002. The gold rules form clean rectangular frames at the vassale junction.",
+          "location": "Panel frames, both pages",
+          "confidence": 0.93
+        },
+        {
+          "motif": "Vassale (window-mounting) — both panels",
+          "description": "Both calligraphy panels are vassale-mounted into the grey-blue/teal battal ebru margin sheets, with visible panel edges and gold cetvelli covering the joins.",
+          "location": "Both calligraphy panels",
+          "confidence": 0.95
+        },
+        {
+          "motif": "Calligraphy panels — sülüs-nesih kıtʿalar (2 panels)",
+          "description": "Two sülüs-nesih calligraphy panels on cream âharlı paper, following the same format as p002: large sülüs line, nesih text section, diagonal sülüs closing. Gold rosette dividers between sections. Hadith content.",
+          "location": "Central text panels, both pages",
+          "confidence": 0.90
+        }
+      ],
+      "confidence": 0.93,
+      "notes": "The grey-blue/teal palette of this opening provides the sharpest chromatic contrast to the preceding pink/rose opening (p002). The combination of cool grey-blue/teal with warm red/crimson in the same battal ebru sheet demonstrates the range of color effects achievable within the stone-marbling technique by varying pigment selection. The similarity of this palette to the cover marbling (pp. 001, 007) — both use grey-blue and red/crimson — may be intentional, linking the interior program to the exterior."
+    },
+    {
+      "folio": "Third interior opening — grey-blue/lavender battal ebru margins (IIIF p004)",
+      "source_image": "corpus/iiif/tiem_02493_p004.jpg",
+      "decoration_present": true,
+      "decoration_types": ["marbled", "framing_system"],
+      "elements": [
+        {
+          "motif": "Grey-blue/lavender battal ebru — margin paper, both pages",
+          "description": "The outer margin of both pages in the third opening is covered with battal ebru marbled paper in a muted grey-blue/lavender palette. The marbling is dominated by cool grey-blue and lavender tones, with less vivid red and more subdued patterning than pp. 002–003. The overall effect is quieter and more restrained — a chromatic 'cool-down' from the more saturated palettes of the preceding openings. Cream/buff ground tones are present but less prominent than on the covers.",
+          "location": "Outer margins surrounding calligraphy panels, both pages",
+          "confidence": 0.93
+        },
+        {
+          "motif": "Köşe güle — orange/coral triangular corner ornaments",
+          "description": "Small orange/coral triangular ornaments (köşe güle) are visible at the outer corners of the margin zone on both pages. These appear as small triangular accent pieces, likely painted or applied, positioned at the four corners of each margin area outside the cetvelli frame. The warm orange/coral color provides a chromatic accent against the cool grey-blue/lavender battal ebru ground. These corner ornaments are present on this opening but not observed on the other four interior openings, suggesting a deliberate decorative choice for this central opening.",
+          "location": "Outer corners of margin zone, both pages",
+          "confidence": 0.82
+        },
+        {
+          "motif": "Gold cetvelli framing — both panels",
+          "description": "Gold cetvelli ruling lines frame both calligraphy panels, consistent with the system across the album.",
+          "location": "Panel frames, both pages",
+          "confidence": 0.93
+        },
+        {
+          "motif": "Vassale (window-mounting) — both panels",
+          "description": "Both calligraphy panels are vassale-mounted into the grey-blue/lavender battal ebru margin sheets.",
+          "location": "Both calligraphy panels",
+          "confidence": 0.95
+        },
+        {
+          "motif": "Calligraphy panels — sülüs-nesih kıtʿalar (2 panels)",
+          "description": "Two sülüs-nesih calligraphy panels on cream âharlı paper, following the standard format. Hadith content. These panels include pieces 5 and 6 of the album.",
+          "location": "Central text panels, both pages",
+          "confidence": 0.90
+        }
+      ],
+      "confidence": 0.91,
+      "notes": "This opening is the physical center of the album (opening 3 of 5). The addition of köşe güle corner ornaments — present only on this opening — may mark it as a compositional focal point. The muted grey-blue/lavender palette combined with the warm orange/coral köşe güle creates a distinctive chromatic pairing found nowhere else in the album. This is the opening that falls between the more saturated 'warm' (p002) and 'cool' (p003) palettes, and the subsequent 'mixed' (p005) and 'varied' (p006) palettes."
+    },
+    {
+      "folio": "Fourth interior opening — mixed pink/grey battal ebru margins (IIIF p005)",
+      "source_image": "corpus/iiif/tiem_02493_p005.jpg",
+      "decoration_present": true,
+      "decoration_types": ["marbled", "framing_system"],
+      "elements": [
+        {
+          "motif": "Mixed pink/rose + grey battal ebru — margin paper, both pages",
+          "description": "The outer margin of both pages in the fourth opening is covered with battal ebru marbled paper in a mixed pink/rose and grey palette. The marbling combines the warm pink/rose tones seen on p002 with the cooler grey-blue seen on pp. 003–004, producing an intermediate effect. Neither the pink nor the grey dominates — the two tone families interweave across the marbled surface. The result is visually 'between' the warm and cool extremes of the album.",
+          "location": "Outer margins surrounding calligraphy panels, both pages",
+          "confidence": 0.90
+        },
+        {
+          "motif": "Gold cetvelli framing — both panels",
+          "description": "Gold cetvelli ruling lines frame both calligraphy panels.",
+          "location": "Panel frames, both pages",
+          "confidence": 0.93
+        },
+        {
+          "motif": "Vassale (window-mounting) — both panels",
+          "description": "Both calligraphy panels are vassale-mounted into the mixed battal ebru margin sheets.",
+          "location": "Both calligraphy panels",
+          "confidence": 0.95
+        },
+        {
+          "motif": "Calligraphy panels — sülüs-nesih kıtʿalar (2 panels)",
+          "description": "Two sülüs-nesih calligraphy panels on cream âharlı paper. Hadith content. These panels include pieces 7 and 8 of the album.",
+          "location": "Central text panels, both pages",
+          "confidence": 0.90
+        }
+      ],
+      "confidence": 0.91,
+      "notes": "This opening uses a mixed palette that combines elements of both the warm (p002) and cool (p003–004) palettes. The intermediate character may be deliberate — providing a transition back toward warmer tones before the final opening (p006), or it may simply reflect the natural variation in a battal ebru production session where multiple sheets are pulled from the same trough."
+    },
+    {
+      "folio": "Fifth interior opening — cream/yellow-green + pink/mauve battal ebru margins (IIIF p006)",
+      "source_image": "corpus/iiif/tiem_02493_p006.jpg",
+      "decoration_present": true,
+      "decoration_types": ["marbled", "framing_system"],
+      "elements": [
+        {
+          "motif": "Cream/yellow-green battal ebru — left page margin paper",
+          "description": "The outer margin of the left page is covered with battal ebru in the lightest and warmest palette in the album: cream/yellow-green tones dominate, with muted grey-blue and subtle green-yellow creating a distinctly warm, light character. This is markedly different from all other interior openings and represents the widest departure from the standard cream/red/blue battal ebru palette. The lighter tones suggest either a deliberate choice of pale pigments or a sheet produced early in a marbling session when pigment concentrations were lower.",
+          "location": "Outer margin surrounding left calligraphy panel",
+          "confidence": 0.90
+        },
+        {
+          "motif": "Pink/mauve + grey-blue battal ebru — right page margin paper",
+          "description": "The outer margin of the right page uses battal ebru in a pink/mauve palette with grey-blue undertones. This is warmer than pp. 003–004 but less saturated than p002, with a more muted mauve quality. The deliberate pairing of two different battal ebru palettes on facing pages within a single bifolio opening is a notable compositional choice — this is the only opening in the album where the two facing pages clearly use different battal ebru color schemes.",
+          "location": "Outer margin surrounding right calligraphy panel",
+          "confidence": 0.90
+        },
+        {
+          "motif": "Round seal/stamp — left panel",
+          "description": "A round seal or stamp is visible at the bottom-left area of the left calligraphy panel. It appears dark/black and circular, likely an ownership seal, institutional stamp, or collector's mark. The inscription within the seal is not legible at available IIIF resolution.",
+          "location": "Bottom-left of left calligraphy panel (p006 left page)",
+          "confidence": 0.85
+        },
+        {
+          "motif": "Gold cetvelli framing — both panels",
+          "description": "Gold cetvelli ruling lines frame both calligraphy panels.",
+          "location": "Panel frames, both pages",
+          "confidence": 0.93
+        },
+        {
+          "motif": "Vassale (window-mounting) — both panels",
+          "description": "Both calligraphy panels are vassale-mounted into their respective battal ebru margin sheets.",
+          "location": "Both calligraphy panels",
+          "confidence": 0.95
+        },
+        {
+          "motif": "Calligraphy panels — sülüs-nesih kıtʿalar (2 panels)",
+          "description": "Two sülüs-nesih calligraphy panels on cream âharlı paper. Hadith content. These panels include pieces 9 and 10 (the final pieces) of the album. Piece 10 (right page) presumably contains the final ketebe, as all 10 pieces are recorded as bearing Hüseyin Haffâfzâde's ketebe. Per the YEK catalogue, pieces 3 and 4 carry dates; the status of the other ketebe inscriptions (including this final pair) regarding dates is not specified.",
+          "location": "Central text panels, both pages",
+          "confidence": 0.90
+        }
+      ],
+      "confidence": 0.90,
+      "notes": "This final interior opening is the only one to pair two distinctly different battal ebru palettes on facing pages (cream/yellow-green left vs. pink/mauve right). The cream/yellow-green left page is the lightest-toned battal ebru in the album, providing a closing contrast to the vivid pink/rose opening (p002). The round seal on the left panel is the only owner/institutional stamp observed in the album and may contain provenance information readable under magnification or UV. This opening also presumably contains the album's final pieces (9 and 10), and may be where accumulated seals of ownership were applied."
+    },
+    {
+      "folio": "Rear cover (IIIF p007)",
+      "source_image": "corpus/iiif/tiem_02493_p007.jpg",
+      "decoration_present": true,
+      "decoration_types": ["marbled"],
+      "elements": [
+        {
+          "motif": "Battal ebru marbled board — rear cover",
+          "description": "The rear cover is a full-surface battal ebru marbled board closely matching the front cover (p001): cream/buff ground with red/crimson patches, dark blue-black swirling veins, and grey-blue intermediate tones. The stone-marbling pattern and color proportions are consistent with the front cover, indicating that both covers were produced from the same batch of marbled paper (or the same marbling session). The rear cover is clean — no shelfmark labels or inscriptions are present. Minor edge darkening is visible at the perimeter. The leather spine binding is visible at the right edge.",
+          "location": "Full rear cover exterior",
+          "confidence": 0.97
+        }
+      ],
+      "confidence": 0.97,
+      "notes": "The rear cover confirms the bilateral symmetry of the battal ebru binding program: front and rear covers are matched in palette and pattern, as is standard for Ottoman album bindings. The matching marbling on both covers provides a coherent exterior frame for the polychrome interior."
+    }
+  ],
+  "terminology": {
+    "terms_used": [
+      {
+        "concept": "Stone/spot marbling (battal ebru)",
+        "ottoman": "battal ebru / ebrî / ebrulu",
+        "arabic": "waraq muʿarraq (ورق معرّق) — marbled paper",
+        "persian": "abrī (ابری) — marbled; kāġaḏ-e abrī (کاغذ ابری) — marbled paper",
+        "english": "Battal ebru: the most basic Ottoman marbling type, producing an irregular stone/spot pattern by floating pigments on a gum-tragacanth bath and transferring the resulting pattern to paper without combing, needle, or other manipulation. The term 'battal' means 'broad' or 'bold,' referring to the large-scale, freely-formed shapes. This album employs battal ebru throughout — on covers and all interior margin papers — in at least 3–4 distinct color palettes, making it one of the most thoroughly battal-ebru-decorated albums in the project corpus."
+      },
+      {
+        "concept": "Marbled margin papers",
+        "ottoman": "ebrulu yan kağıtları / yan kağıtları ebrulu",
+        "arabic": null,
+        "persian": null,
+        "english": "Ebrulu yan kağıtları: marbled margin papers used as the decorative ground surrounding vassale-mounted calligraphy or painting panels in an album. In this album, battal ebru sheets serve as the margin paper for all 10 calligraphy panels across 5 interior openings. This use of battal ebru as interior margin paper (rather than zerefşân, colored, or halkar-decorated paper) is distinctive and less common than battal ebru on covers alone."
+      },
+      {
+        "concept": "Window-mounting technique",
+        "ottoman": "vassale / vassale yöntemi",
+        "arabic": null,
+        "persian": null,
+        "english": "Vassale: the technique of mounting a calligraphy or painting panel into a window cut from a larger sheet of decorated paper. The panel is set into the window opening and secured from behind, with the decorated paper forming a border/margin around it. In this album, all 10 calligraphy panels are vassale-mounted into battal ebru margin sheets. The technique is described in the YEK terminology as 'vassale yöntemiyle ebrulu kağıda monte edilmiştir' (window-mounted onto marbled paper via the vassale technique)."
+      },
+      {
+        "concept": "Calligraphic album",
+        "ottoman": "muraqqaʿ / murakkaat (مرقعات)",
+        "arabic": "muraqqa (مرقع) / muraqqa'at (مرقعات)",
+        "persian": "muraqqa (مرقع)",
+        "english": "Muraqqaʿ: a bound Ottoman calligraphic (and sometimes pictorial) album. This album contains 10 kıtʿa (specimen sheets) in sülüs and nesih scripts, all by Hüseyin Haffâfzâde with ketebe inscriptions, with hadith content."
+      },
+      {
+        "concept": "Calligraphic specimen sheet",
+        "ottoman": "kıtʿa (قطعة) / kıtʿa-i hat",
+        "arabic": "qiṭʿa (قطعة)",
+        "persian": "qiṭʿa (قطعه)",
+        "english": "Kıtʿa: a single calligraphic specimen sheet, typically displaying one or more lines of formal calligraphy in one or more scripts. This album contains 10 kıtʿa in Arabic, all in sülüs-nesih format with hadith content."
+      },
+      {
+        "concept": "Sülüs script",
+        "ottoman": "sülüs hattı",
+        "arabic": "thuluth (ثلث)",
+        "persian": null,
+        "english": "Sülüs (thuluth): one of the six classical Arabic scripts, characterized by large rounded letterforms with strong contrast between thick and thin strokes. Used for the large main lines in each calligraphy panel of this album."
+      },
+      {
+        "concept": "Nesih script",
+        "ottoman": "nesih hattı",
+        "arabic": "naskh (نسخ)",
+        "persian": null,
+        "english": "Nesih (naskh): a small, rounded, clear Arabic script widely used for manuscript copying. Used for the smaller-scale interlinear text in each calligraphy panel of this album."
+      },
+      {
+        "concept": "Corner ornament",
+        "ottoman": "köşe güle / köşe süslemesi",
+        "arabic": null,
+        "persian": "gusha (گوشه)",
+        "english": "Köşe güle: decorative corner ornaments placed at the outer corners of a margin zone or framing system. In this album, small orange/coral triangular köşe güle appear at the margin corners of the third opening (p004), providing a warm accent against the cool grey-blue/lavender battal ebru ground."
+      },
+      {
+        "concept": "Gold ruling lines",
+        "ottoman": "altın cetvel / cetvelli / altın cetveller",
+        "arabic": "jadwal mudhahdhab (جدول مذهّب)",
+        "persian": "jadval-e zar (جدول زر)",
+        "english": "Altın cetvel: ruling lines applied in gold, framing the calligraphic text panel within the decorated margin paper. In this album, gold cetvelli frame all 10 vassale-mounted calligraphy panels, providing a consistent gold border at the junction between the cream calligraphy paper and the surrounding battal ebru margin paper."
+      },
+      {
+        "concept": "Colophon inscription",
+        "ottoman": "ketebe kaydı",
+        "arabic": "kitāb al-fāriġ (كتاب الفارغ) / fāriġa",
+        "persian": "ketābe (کتابه)",
+        "english": "Ketebe kaydı: the closing inscription in which the calligrapher records their name (and often the date and place of copying). In this album, the ketebe of Hüseyin Haffâfzâde appears on all 10 calligraphy pieces. Pieces 3 and 4 additionally carry the date AH 1149 (1736-37)."
+      },
+      {
+        "concept": "Marbled board covers",
+        "ottoman": "ebrulu mukavva / ebrulu kapak",
+        "arabic": null,
+        "persian": null,
+        "english": "Ebrulu mukavva: marbled board covers — boards covered with marbled paper, used for the exterior binding of albums and manuscripts. In this album, both front and rear covers are battal ebru marbled boards with a leather spine, a standard Ottoman album binding format."
+      }
+    ]
+  },
+  "bibliography": [
+    {
+      "citation": "Derman, M. Uğur. Letters in Gold: Ottoman Calligraphy from the Sakıp Sabancı Collection, Istanbul. New York: The Metropolitan Museum of Art, 1998.",
+      "relevance": "The primary English-language exhibition catalogue on Ottoman calligraphy, with extensive coverage of the sülüs-nesih tradition, calligraphic albums (murakkaat), and the Istanbul calligraphic schools of the 17th–18th centuries. Essential for contextualizing the sülüs-nesih script combination, the murakka format with hadith content, and the ketebe convention documented in this album. Provides the framework for situating Hüseyin Haffâfzâde within the post-Hâfız Osmân tradition of Istanbul calligraphy.",
+      "relevance_score": 0.95,
+      "access_notes": "Exhibition catalogue (Metropolitan Museum of Art, 1998); widely held at Islamic art and Ottoman studies libraries. ISBN 978-0870998843."
+    },
+    {
+      "citation": "Blair, Sheila S. 'Color and Gold: The Decorated Papers Used in Manuscripts in Later Islamic Times.' Muqarnas 17 (2000): 24–36.",
+      "relevance": "Foundational taxonomic study providing the classification framework for decorated papers in Islamic manuscripts, including marbled papers (abrī). Blair's discussion of the range of decorated paper types — marbled, gold-sprinkled, colored, stenciled — and their deployment in album contexts is directly relevant to the classification of this album's battal ebru program. Her coverage of the relationship between cover papers and interior papers in albums provides comparative context for the unusual extension of battal ebru to all interior margins in TIEM 02493.",
+      "relevance_score": 0.95,
+      "access_notes": "Peer-reviewed article. Available via JSTOR (Brill/Muqarnas Online). Open-access PDF accessible at Academia.edu."
+    },
+    {
+      "citation": "Déroche, François. Islamic Codicology: An Introduction to the Study of Manuscripts in Arabic Script. Translated by Deke Dusinberre and David Radzinowicz. London: Al-Furqan Islamic Heritage Foundation, 2005.",
+      "relevance": "Foundational reference for Islamic manuscript codicology, covering paper decoration types (including marbled papers), binding forms, ruling systems, and physical manuscript description. The classification of marbled papers and the terminology for album formats used in this catalog record are grounded in Déroche's framework.",
+      "relevance_score": 0.88,
+      "access_notes": "Monograph; available at specialist libraries."
+    },
+    {
+      "citation": "Biçici, Nedim. Türk Ebru Sanatı (Turkish Art of Marbling). Istanbul: Timaş Yayınları, 2012.",
+      "relevance": "Comprehensive Turkish-language study of Ottoman marbling (ebru) techniques and history. Provides detailed documentation of battal ebru as a marbling type, including its technical production (pigment preparation, gum-tragacanth bath, transfer technique) and its use in manuscript bindings and album decoration. Directly relevant for the technical classification of the battal ebru observed throughout TIEM 02493 and for understanding the production context of polychrome battal ebru programs.",
+      "relevance_score": 0.90,
+      "access_notes": "Turkish-language monograph; held at Turkish art research libraries."
+    },
+    {
+      "citation": "Roxburgh, David J. The Persian Album, 1400–1600: From Dispersal to Collection. New Haven: Yale University Press, 2005.",
+      "relevance": "Essential study of the murakkaat album format and decorated paper programs in the Persianate-Ottoman tradition. Provides the theoretical framework for understanding how paper decoration programs function as compositional elements in album design — applicable to understanding the deliberate polychrome battal ebru sequence (5 distinct palettes across 5 openings) in TIEM 02493 as a coherent artistic program.",
+      "relevance_score": 0.85,
+      "access_notes": "Monograph; widely held at research libraries."
+    },
+    {
+      "citation": "Çağman, Filiz, and Zeren Tanındı. The Topkapı Saray Museum: The Albums and Illustrated Manuscripts. Translated and edited by J. M. Rogers. Boston: Little, Brown, 1986.",
+      "relevance": "Standard reference for Ottoman calligraphic albums and their decorated paper programs in the Topkapı collections. Provides comparanda for 18th-century murakkaat albums with marbled paper programs and vassale-mounted calligraphy. Relevant for contextualizing the album's format within the broader corpus of Istanbul album production.",
+      "relevance_score": 0.82,
+      "access_notes": "Exhibition catalogue; widely held at Turkish and Islamic art research libraries."
+    },
+    {
+      "citation": "Gacek, Adam. Arabic Manuscripts: A Vademecum for Readers. Leiden: Brill, 2009.",
+      "relevance": "Standard reference for Islamic manuscript codicological terminology and script identification. Relevant for the identification and description of the sülüs and nesih scripts, the murakka format, and general codicological terms (ketebe, kıtʿa, cetvel) used throughout this catalog record.",
+      "relevance_score": 0.78,
+      "access_notes": "Reference monograph; widely held."
+    },
+    {
+      "citation": "Bloom, Jonathan M. Paper Before Print: The History and Impact of Paper in the Islamic World. New Haven: Yale University Press, 2001.",
+      "relevance": "Comprehensive history of paper production and use in the Islamic world, providing material-culture background for marbled paper production techniques and the role of decorated papers in luxury manuscript and album production in the Ottoman context.",
+      "relevance_score": 0.75,
+      "access_notes": "Widely held monograph."
+    },
+    {
+      "citation": "Scheper, Karin. The Technique of Islamic Bookbinding: Methods, Materials and Regional Varieties. Leiden: Brill, 2015.",
+      "relevance": "Systematic study of Islamic bookbinding techniques, relevant for the physical analysis of the leather-spine binding with marbled board covers. The battal ebru marbled board binding type documented in this album — with leather spine and full-surface marbled paper on front and back boards — is within the scope of Scheper's regional and chronological survey of Ottoman binding types.",
+      "relevance_score": 0.72,
+      "access_notes": "Monograph; available at Islamic bookbinding and manuscript studies libraries."
+    },
+    {
+      "citation": "Bağcı, Serpil, Filiz Çağman, Günsel Renda, and Zeren Tanındı. Ottoman Painting. Ankara: Ministry of Culture and Tourism, 2006.",
+      "relevance": "Comprehensive survey of Ottoman visual arts, covering the album tradition, calligraphic practices, and decorative arts of the 18th century. Provides comparative context for the early 18th-century album production associated with the post-Hâfız Osmân era during which this album was produced.",
+      "relevance_score": 0.72,
+      "access_notes": "Museum publication; widely held at Turkish studies collections."
+    }
+  ],
+  "suggested_collections": [
+    {
+      "institution": "Türk ve İslam Eserleri Müzesi (TIEM), Istanbul — broader murakka corpus",
+      "reason": "The TIEM murakka corpus (93 positive albums confirmed in visual triage) contains numerous comparanda for the battal ebru album format. Direct comparison with other TIEM murakkaat using battal ebru margins (as opposed to covers only) would establish how common or rare this comprehensive battal ebru program is within the collection. Other TIEM albums by or attributed to Hüseyin Haffâfzâde, if they exist, would provide calligraphic comparanda.",
+      "digital_access": "https://portal.yek.gov.tr"
+    },
+    {
+      "institution": "Topkapı Sarayı Müzesi Kütüphanesi, Istanbul",
+      "reason": "Holds a major corpus of Ottoman calligraphic albums with various decorated paper programs. Comparison with Topkapı murakkaat featuring battal ebru interior margins would help assess whether the comprehensive use of battal ebru in TIEM 02493 reflects a specific workshop practice, period fashion, or patron preference. The Topkapı collection also holds authenticated examples of early 18th-century Istanbul calligraphy that could confirm or refine the Hüseyin Haffâfzâde attribution.",
+      "digital_access": "https://kutuphane.tsmk.gov.tr"
+    },
+    {
+      "institution": "Sakıp Sabancı Museum, Istanbul",
+      "reason": "Major collection of Ottoman calligraphy and calligraphic albums. Contains documented examples of the sülüs-nesih hadith album format from the early 18th century, studied in Derman (1998), providing direct comparanda for the calligraphic program and album format of TIEM 02493.",
+      "digital_access": null
+    },
+    {
+      "institution": "Chester Beatty Library, Dublin",
+      "reason": "Holds major Ottoman calligraphic albums with various decorated paper programs, including albums with marbled papers. The Chester Beatty corpus provides international comparanda for assessing whether battal ebru was used as interior margin paper in other Ottoman murakka traditions outside Istanbul.",
+      "digital_access": "https://viewer.cbl.ie"
+    },
+    {
+      "institution": "GlobalDecoPaper ERC Project, LMU Munich",
+      "reason": "The primary active research project on decorated papers in Islamic manuscripts. The comprehensive battal ebru program of TIEM 02493 — using multiple color palettes across all surfaces of a single album — is a strong candidate for their polychrome marbling studies and for spectroscopic analysis of the pigments used in the different battal ebru sheets.",
+      "digital_access": null
+    }
+  ],
+  "provenance": {
+    "donor": null,
+    "waqf": null,
+    "previous_shelfmarks": [],
+    "notes": "Held at Türk ve İslam Eserleri Müzesi (TIEM), Istanbul, under shelfmark T 2493. TIEM is a Turkish state museum; the manuscript entered the collection at an undetermined date prior to YEK registration. The white shelfmark label '2493' is affixed to the front cover (p001). An Ottoman inscription in red ink on the front cover may contain provenance or cataloguing information — partially legible at IIIF resolution. A round seal/stamp on the left calligraphy panel of p006 may contain an ownership mark, collector's seal, or institutional stamp — not legible at available resolution. No waqf (endowment) information is available. YEK ID: 705426. IIIF ID: 0000000662639. The album is dated AH 1149 (1736-37) on pieces 3 and 4, with calligraphy by Hüseyin Haffâfzâde, placing its production in early 18th-century Istanbul."
+  },
+  "analysis_metadata": {
+    "analyzed_date": "2026-02-28",
+    "analyzer": "claude-code-manuscript-pipeline",
+    "pipeline_stage": "metadata-generator",
+    "image_source": "YEK Portal IIIF images, TIEM Yazma Eser Koleksiyonu, YEK ID 705426, IIIF ID 0000000662639. All 7 pages downloaded and examined at IIIF resolution (0.95 quality). No supplementary triage screenshots available — only native IIIF images.",
+    "image_quality_notes": "IIIF images are clear and support confident identification of the battal ebru marbling on all surfaces and the distinct color palettes across the five interior openings. The stone-marbling pattern is clearly legible at download resolution. The gold cetvelli framing is visible on all 10 calligraphy panels. The vassale mounting technique is confirmed by visible panel edge transitions. The köşe güle corner ornaments on p004 are small but identifiable. The round seal/stamp on p006 is visible but its inscription is not legible at available resolution. No ketebe inscription text is independently readable from IIIF images — YEK catalogue text is relied upon for calligraphic attribution and dating. The specific battal ebru pigments cannot be definitively identified from photographic reproduction alone — color descriptions are based on screen appearance of IIIF images.",
+    "folios_examined": [
+      "corpus/iiif/tiem_02493_p001.jpg",
+      "corpus/iiif/tiem_02493_p002.jpg",
+      "corpus/iiif/tiem_02493_p003.jpg",
+      "corpus/iiif/tiem_02493_p004.jpg",
+      "corpus/iiif/tiem_02493_p005.jpg",
+      "corpus/iiif/tiem_02493_p006.jpg",
+      "corpus/iiif/tiem_02493_p007.jpg"
+    ],
+    "folios_not_examined": "All 7 IIIF pages examined. The album is complete as imaged (7 pages covering front cover, 5 bifolio spreads, and back cover = 10 leaves + 2 covers).",
+    "corpus_priority": "High — the comprehensive use of battal ebru as INTERIOR margin paper (not just covers) across all openings is distinctive and potentially rare in the corpus. Most Ottoman murakkaat use battal ebru for covers only, with zerefşân, halkar, or colored papers for interior margins. TIEM 02493's all-battal-ebru program — with deliberate polychrome palette variation — represents either an unusual workshop practice, a specific patron request, or a period fashion of the early 18th century that warrants comparative investigation. Priority follow-up: (1) physical examination to identify specific marbling pigments in the different battal ebru palettes; (2) comparison with other TIEM murakkaat to assess how common the all-battal-ebru interior program is; (3) biographical research on Hüseyin Haffâfzâde to resolve the death-date discrepancy (1149 vs. 1154 AH); (4) higher-resolution imaging of the round seal on p006 and the Ottoman inscription on the front cover for provenance research.",
+    "source_data": {
+      "visual_confirmation_file": "catalog/searches/visual_tier2_tiem_02493.json",
+      "yek_id": "705426",
+      "iiif_id": "0000000662639",
+      "batch": "Muraqqaʿ IIIF deep analysis batch (2026-02-28)"
+    }
+  }
+}

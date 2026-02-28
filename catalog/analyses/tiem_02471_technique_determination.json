@@ -1,0 +1,395 @@
+{
+  "record_id": "tiem_02471",
+  "analysis_type": "technique_determination",
+  "analysis_date": "2026-02-28",
+  "analyzer": "motif-classifier (claude-opus-4.6)",
+  "purpose": "Determine whether the decorated papers in TIEM 02471 are block-printed, stenciled, or produced by another technique. This analysis supersedes the provisional 0.70 block-print classification in the catalog record.",
+
+  "images_examined": [
+    {
+      "file": "corpus/iiif/tiem_02471_p001.jpg",
+      "description": "Front doublure, Type A floral-row pattern (full page, IIIF native resolution)"
+    },
+    {
+      "file": "corpus/iiif/tiem_02471_p002.jpg",
+      "description": "Front endpaper opening: Type B ogival medallion lattice (left) + battal ebru (right)"
+    },
+    {
+      "file": "corpus/iiif/tiem_02471_p010.jpg",
+      "description": "Rear endpaper opening: battal ebru (left) + Type B ogival medallion lattice (right) -- mirror of p002"
+    },
+    {
+      "file": "corpus/iiif/tiem_02471_p011.jpg",
+      "description": "Rear doublure: Type A floral-row pattern (mirror of p001)"
+    },
+    {
+      "file": "corpus/iiif/tiem_02471_p005.jpg",
+      "description": "Interior calligraphy opening with hatip ebru outer margins; large red floral forms on inner mount (left)"
+    },
+    {
+      "file": "corpus/iiif/tiem_02471_p009.jpg",
+      "description": "Interior calligraphy opening: Type C scattered red flowers/trefoils on sage-green ground (left)"
+    },
+    {
+      "file": "tiem_02471_p1_detail_iiif.jpeg",
+      "description": "CRITICAL: Detail crop of Type A at high zoom -- shows individual floral motifs, border bands, and paper surface texture"
+    },
+    {
+      "file": "tiem_02471_p2_detail_typeB_iiif.jpeg",
+      "description": "CRITICAL: Detail crop of Type B at high zoom -- shows stippled fill within ogival cell at close range"
+    },
+    {
+      "file": "tiem_02471_p5_detail_typeC_iiif.jpeg",
+      "description": "Detail crop of inner mount on p005 left -- shows large red floral form at close range"
+    },
+    {
+      "file": "tiem_02471_p5_wide_iiif.jpeg",
+      "description": "Wide detail of p005 left corner showing hatip ebru outer margin + red floral inner mount + gold cedvel"
+    },
+    {
+      "file": "tiem_02471_real_p1_iiif.jpeg",
+      "description": "Alternative resolution capture of p001 front doublure"
+    },
+    {
+      "file": "tiem_02471_real_p2_iiif.jpeg",
+      "description": "Alternative resolution capture of p002 endpaper opening"
+    },
+    {
+      "file": "corpus/iiif/tiem_02471_p003.jpg through p009.jpg",
+      "description": "All interior album pages examined for context and Type C identification"
+    }
+  ],
+
+  "technique_determinations": {
+
+    "type_a": {
+      "pattern_name": "Type A -- Horizontal floral-row doublure paper",
+      "locations": ["p001 (front doublure)", "p011 (rear doublure)"],
+      "description": "Cream-ground paper with horizontal rows of alternating small floral motifs: (a) red/pink multi-petalled flower clusters (rose/carnation type, approximately 8-12 mm at actual size) with gold/yellow stamens or accents; (b) blue-green leaf sprays with central stems and lateral leaves. Each horizontal row is separated by a pair of narrow ornamental border strips rendered in dark brown/gold -- each strip consists of a repeating diagonal zigzag or herringbone chain pattern, creating a 'railroad track' effect between the floral rows.",
+
+      "diagnostic_observations": {
+        "pattern_registration": {
+          "observation": "The floral motifs are distributed with high regularity across horizontal rows. Within each row, the alternation between red flower clusters and blue-green leaf sprays follows a consistent rhythm. However, the motifs are NOT in perfect mechanical alignment column-to-column across rows. Looking at the full-page view (p001 and p011), the vertical alignment of motifs between adjacent rows shows subtle lateral offsets -- the red flowers in one row do not sit directly above the red flowers in the row below. This is consistent with either (a) a block-printed paper where the block contained only one row of motifs, applied row by row with slight hand-placement variation, or (b) a stencil applied row by row.",
+          "diagnostic_value": "MODERATE. The lateral row-to-row offset argues against a single large-field block covering the entire sheet (which would force perfect column alignment). It is consistent with either a narrow block applied in horizontal strips or with a stencil applied strip-by-strip."
+        },
+        "motif_consistency": {
+          "observation": "In the detail crop (tiem_02471_p1_detail_iiif.jpeg), individual floral motifs can be examined at close range. The red flower clusters show slight variation in petal shape and color density between individual impressions. The blue-green leaf sprays show minor differences in the exact angle and length of lateral leaves. These variations are within the range expected from either slight pressure differences during block-printing or slight hand-variation during stencil brushing, but they are NOT the kind of perfect mechanical identity one would expect from a photomechanical process.",
+          "diagnostic_value": "LOW. Both block-printing and stenciling produce this level of motif-to-motif variation."
+        },
+        "border_bands": {
+          "observation": "The horizontal border bands between floral rows are the most technically diagnostic element. In the detail crop, each band is composed of a tightly repeating diagonal zigzag/herringbone pattern in dark brown or dark gold. The repeat unit is very small (approximately 2-3 mm). The bands show extreme regularity -- each zigzag element is essentially identical to its neighbors. This level of precision in a narrow repeating band is highly characteristic of woodblock printing, where the entire band is carved into the block surface as a continuous pattern. A stencil would be extremely difficult to execute for such a narrow, tightly repeating border: the stencil bridges needed to hold the zigzag 'islands' in place would be visible as gaps, and I do not see such gaps.",
+          "diagnostic_value": "HIGH. The border bands strongly favor block-printing over stenciling. The tight, continuous repeat without visible stencil bridges is the single strongest diagnostic indicator for this pattern type."
+        },
+        "color_application": {
+          "observation": "Three distinct colors are present in the floral motifs: red/pink (petals), blue-green (leaves), and dark brown/gold (border bands, stems). In the detail view, the colors appear to be applied in discrete zones without significant bleeding or overlap between color areas. The red petals have relatively crisp edges. However, at this resolution I cannot determine whether the colors were applied in a single pass (multi-color block) or in separate passes.",
+          "diagnostic_value": "MODERATE. The cleanly separated color zones are consistent with either a multi-color block (different colors applied to different carved areas of the same block before printing) or sequential stencil passes. Multi-color blocks are well-documented in the textile printing (basma) tradition and in European block-printed paper (Buntpapier)."
+        },
+        "surface_texture": {
+          "observation": "In the detail crop (tiem_02471_p1_detail_iiif.jpeg), the paper surface between the floral motifs shows what appears to be a fine linear texture -- faint parallel lines running across the cream ground. This could be: (a) paper chain/laid lines (structural feature of the paper itself), (b) cloth impression from a textile prototype, (c) compression texture from a block press, or (d) IIIF image compression artifact. The texture appears consistent across the decorated and undecorated areas, which slightly favors interpretation (a) or (d) over (c).",
+          "diagnostic_value": "LOW-MODERATE. Cannot be definitively attributed to press indentation vs. paper structure at available resolution."
+        },
+        "press_indentation": {
+          "observation": "I cannot detect clear press indentation (paper surface depression where the block was applied) in the available images. True press indentation requires either raking light photography or very high magnification (>600 DPI equivalent) to detect reliably. The images examined are at IIIF resolution which, while high by portal standards, is insufficient for this diagnostic criterion.",
+          "diagnostic_value": "NOT ASSESSABLE at available resolution."
+        },
+        "stencil_bridges": {
+          "observation": "I do not observe stencil bridges (tiny unpainted connectors inside closed shapes) in the floral motifs or border bands. However, at the available resolution, small stencil bridges (under 1 mm) would be below the resolving capacity of the images. Absence of visible stencil bridges at this resolution is NOT confirmatory evidence against stenciling.",
+          "diagnostic_value": "NOT ASSESSABLE at available resolution."
+        },
+        "overspray_edge_haloing": {
+          "observation": "In the detail crop, the motif edges are relatively crisp. I do not see the characteristic fuzzy edge haloing or color overspray that indicates stencil-mask application. The edges of the red petals and blue-green leaves terminate cleanly against the cream ground. This is more consistent with direct ink transfer (block-printing) than with mask-edge overspray (stenciling). However, carefully executed stenciling with a dabbing (not spraying) technique can also produce clean edges.",
+          "diagnostic_value": "MODERATE. Clean edges slightly favor block-printing but do not exclude careful stenciling."
+        },
+        "textile_parallels": {
+          "observation": "The overall design -- horizontal rows of alternating small floral motifs separated by narrow ornamental border bands on a cream ground -- is strikingly similar to Ottoman printed textiles (basma) and to European block-printed cottons (indiennes/chintz). The row-and-border structure is a hallmark of textile repeat design, where the block typically covers one or two rows. If this paper is block-printed, the same block design vocabulary and possibly the same workshops that produced printed textiles may have been involved. The Turkish term 'basma' (literally 'pressed/printed') covers both printed textiles and block-printed papers in some contexts.",
+          "diagnostic_value": "CONTEXTUAL. The strong textile-design parallels support block-printing as the more likely technique, but this is circumstantial evidence about design vocabulary, not a direct physical diagnostic."
+        }
+      },
+
+      "verdict": "block-printed",
+      "confidence": 0.78,
+      "confidence_change": "+0.08 from previous 0.70 estimate",
+      "justification": "The strongest diagnostic evidence comes from the horizontal border bands, which display a tight, continuous zigzag/herringbone repeat without visible stencil bridges. This pattern would be extremely difficult to execute as a stencil -- the narrow repeating elements would require stencil bridges that should be visible even at this resolution. The clean motif edges (no overspray/haloing), the textile-derived design vocabulary, and the row-by-row registration pattern (consistent with sequential block application) all support block-printing. I raise the confidence from 0.70 to 0.78, reflecting the new diagnostic evidence from the detail crop while acknowledging that definitive confirmation requires physical examination for press indentation.",
+      "alternative_hypothesis": {
+        "technique": "stenciled",
+        "confidence": 0.15,
+        "argument": "Stenciling cannot be excluded because: (1) the motif-to-motif variation could reflect hand-variation in stencil application; (2) dabbing through a stencil can produce clean edges; (3) stencil bridges below 1 mm resolution would be invisible in these images. However, the border bands argue strongly against stenciling."
+      },
+      "remaining_alternative": {
+        "technique": "printed textile (basma) pasted to paper",
+        "confidence": 0.07,
+        "argument": "The extreme similarity to printed textile designs raises the possibility that this is not decorated paper at all, but rather a printed cotton or linen fabric pasted to the doublure board. Textile doublures are known in Ottoman binding practice. The faint linear texture visible in the detail crop could be woven fabric structure rather than paper chain lines. Physical examination (touch, transmitted light for fiber identification) would resolve this immediately."
+      }
+    },
+
+    "type_b": {
+      "pattern_name": "Type B -- Ogival medallion lattice endpaper paper",
+      "locations": ["p002 left (front endpaper)", "p010 right (rear endpaper)"],
+      "description": "Full-page paper covered with a large-scale ogival lattice pattern. Each cell of the lattice is a rounded, near-circular to slightly pointed medallion approximately 50-70 mm in diameter, filled with a dense, fine blue-grey stippled pattern on a cream ground. The medallions are separated by connecting zones in pink/rose-red, forming the interstice network of the lattice. The overall effect is of large blue-grey 'bubbles' or 'cells' separated by pink veins.",
+
+      "diagnostic_observations": {
+        "pattern_registration": {
+          "observation": "The ogival lattice is well-organized with consistent cell size and spacing across both the front (p002) and rear (p010) endpapers. The cells are arranged in a regular grid -- approximately 3-4 cells wide by 5-6 cells tall across the full page. The lattice geometry is consistent between the front and rear applications, indicating the same master pattern or template was used for both. However, the two applications are not identical in every detail: subtle differences in the pink interstice widths and cell positioning between p002 and p010 indicate hand-application rather than mechanical identity.",
+          "diagnostic_value": "MODERATE. The consistency of the lattice grid across two separate applications confirms a repeatable template, but the hand-variation between applications is neutral between block-printing and stenciling."
+        },
+        "stippled_fill_texture": {
+          "observation": "THIS IS THE MOST DIAGNOSTIC FEATURE OF TYPE B. In the detail crop (tiem_02471_p2_detail_typeB_iiif.jpeg), the blue-grey fill within each medallion is NOT a uniform flat color. Instead, it is composed of a dense network of small, irregular, branching or coral-like marks on a cream ground. The individual marks are approximately 1-3 mm in length, with irregular shapes -- some branch, some are dot-like, some are short dashes. They are distributed with moderate density across the medallion interior, leaving some cream ground visible between marks. The texture has an organic, somewhat random quality -- not the regular dot pattern of a halftone screen, nor the smooth graduated tone of a wash. This texture is HIGHLY CHARACTERISTIC of woodblock printing: when a carved woodblock with an overall textured field is pressed onto paper, the raised areas of the block transfer ink while the cut-away areas remain blank, producing exactly this kind of irregular, branching stipple. The specific appearance closely resembles the texture produced by a block where the background was cut away with a veining or stippling tool, leaving an irregular raised network to carry the ink.",
+          "diagnostic_value": "VERY HIGH. The branching, coral-like stipple texture within the medallion cells is the strongest single indicator of block-printing in the entire album. This texture would be extremely difficult to produce by stenciling (which yields flat, even color within openings) or by hand-painting (which shows brushstroke directionality). It is characteristic of direct ink transfer from a carved and textured woodblock surface."
+        },
+        "pink_interstice_zones": {
+          "observation": "The pink/rose-red zones between medallion cells appear to be applied with a different technique than the blue-grey stippled fill. In the detail crop, the pink color is smoother and more even than the stippled blue-grey, with flowing edges that taper and merge where interstice zones meet at lattice nodes. At the boundary between pink and blue-grey areas, there is a thin cream-colored gap or border -- a narrow strip of undecorated ground visible between the two color zones. This gap is consistent with either (a) two separate stencil applications (pink stencil + blue-grey stencil) with imperfect registration, or (b) a multi-step block-printing process where the pink was applied first (or second) with a separate block or stencil pass. The gap argues against a single multi-color block, which would produce abutting colors without gaps.",
+          "diagnostic_value": "HIGH. The cream gap between color zones strongly suggests a two-step production process: one application for the blue-grey stippled medallions and a separate application for the pink interstice zones. This is consistent with either (a) block for blue-grey + stencil for pink, (b) two separate blocks, or (c) two separate stencils. The stipple texture of the blue-grey strongly favors a block for that layer; the smoother pink could be either block or stencil."
+        },
+        "edge_definition": {
+          "observation": "The outer edges of the medallion cells (where blue-grey meets pink/cream) show a moderately crisp boundary. The stippled marks near the edge of each cell trail off slightly, with some marks partially cut off at the boundary. This is consistent with block-printing: when a block is carved with a rounded cell outline, the marks from the textured interior stop at the carved boundary, and some marks near the edge are partially truncated where the carved outline intersects them.",
+          "diagnostic_value": "MODERATE. The truncated edge marks are consistent with a carved block edge but could also result from a stencil mask edge."
+        },
+        "press_indentation": {
+          "observation": "As with Type A, I cannot detect definitive press indentation in the available images. The paper surface does not show obvious depression or deformation that would confirm block pressure. However, Type B's thicker pigment application in the blue-grey zones may mask subtle surface deformation.",
+          "diagnostic_value": "NOT ASSESSABLE at available resolution."
+        },
+        "scale_and_repeat": {
+          "observation": "The medallion cells are large -- approximately 50-70 mm diameter. The full-page lattice pattern appears to be created from a block or template that covers either the full page or a large section of it (perhaps half the page, applied twice). The lattice geometry is too regular for freehand work but shows the slight imperfections of hand-application of a template rather than mechanized printing.",
+          "diagnostic_value": "MODERATE. A full-page or half-page block of this size is within the range of known woodblock sizes for paper decoration in the Ottoman/European traditions."
+        }
+      },
+
+      "verdict": "block-printed (blue-grey layer) + possibly stenciled or block-printed (pink layer)",
+      "confidence": 0.85,
+      "confidence_change": "+0.15 from previous 0.70 estimate",
+      "justification": "The stippled texture within the medallion cells is the decisive diagnostic feature. This branching, coral-like stipple is a direct physical signature of ink transfer from a carved and textured woodblock surface. It cannot be replicated by stenciling (which produces flat color) or hand-painting (which shows brushstrokes). The cream gap between the blue-grey and pink zones confirms a multi-step production process. The blue-grey stippled layer is block-printed with high confidence. The pink interstice layer may be produced by a separate block, a stencil, or even hand-application -- its smoother texture does not provide conclusive technique evidence. I raise the confidence to 0.85 for the block-printed classification of the dominant blue-grey layer, which is the technically and visually defining element of this pattern.",
+      "alternative_hypothesis": {
+        "technique": "stenciled (both layers)",
+        "confidence": 0.08,
+        "argument": "The stippled texture within the medallion cells is extremely difficult to explain as stencil work. A stencil produces flat, even color within the mask opening. The irregular branching marks visible in the detail crop are inconsistent with any known stencil technique. This alternative is retained only because the analysis is based on digital images, and some extremely unusual stencil techniques (e.g., sponge-dabbing through a large mask) might theoretically produce coarse stipple effects."
+      },
+      "remaining_alternative": {
+        "technique": "block-printed for blue-grey, hand-applied for pink",
+        "confidence": 0.07,
+        "argument": "The pink interstice zones could have been added by hand-brushing rather than by a mechanical template. The flowing, organic shapes of the interstice network would be relatively easy to fill by hand once the blue-grey medallion lattice was printed. This would explain the smoother quality of the pink color compared to the mechanically textured blue-grey."
+      }
+    },
+
+    "type_c": {
+      "pattern_name": "Type C -- Scattered red flowers/trefoils on sage-green ground",
+      "locations": ["p009 left (inner mount frame around calligraphy panel)"],
+      "description": "The left page of the p009 opening shows a sage-green ground paper with scattered red/dark red flower or trefoil motifs. The motifs are distributed irregularly across the inner mount area surrounding the calligraphy panel. Each motif appears to be a simplified 3-4 lobed flower or trefoil (shamrock-like form), approximately 15-25 mm across, in a dark red/crimson pigment. The sage-green ground extends uniformly beneath and around the scattered motifs. This pattern also appears to be related to the red floral forms visible on p005 left inner mount, though the p005 forms are much larger (approximately 40-60 mm) and fewer in number.",
+
+      "reclassification_note": "IMPORTANT: Upon close examination at multiple resolutions, including the detail crop (tiem_02471_p5_detail_typeC_iiif.jpeg) and the wide view (tiem_02471_p5_wide_iiif.jpeg), the Type C classification requires significant revision. The 'scattered flowers' observed in the original triage are NOT the same phenomenon on p005 and p009. On p005, the large red forms visible in the inner mount are part of a hatip ebru (imam's marbling) pattern -- they show the characteristic flowing, organic shapes of marbled paper with soft edges and blended color transitions typical of pigment manipulation in the marbling trough. On p009, however, the scattered red forms on the sage-green ground appear distinctly different from the hatip ebru: they are more uniform in shape, more evenly distributed, and have crisper edges consistent with a mechanical application technique.",
+
+      "diagnostic_observations": {
+        "pattern_registration": {
+          "observation": "On p009 left, the red trefoil/flower motifs are scattered with a quasi-random distribution. They do not follow a strict grid or row arrangement, but their spacing is relatively consistent -- they neither cluster together nor leave large empty gaps. This moderate regularity with controlled randomness is consistent with either a scattered stencil technique (stencil repositioned at varied angles) or a block-printed scattered repeat (block with widely spaced motifs applied in overlapping passes).",
+          "diagnostic_value": "MODERATE. The quasi-random distribution does not clearly discriminate between techniques."
+        },
+        "motif_consistency": {
+          "observation": "The individual trefoil/flower motifs on p009 show moderate variation in size and lobe shape. Some appear more rounded, others slightly more angular. The color density appears consistent across motifs. At the available resolution, I cannot determine whether the size variation reflects hand-placement of a template (stencil or block) at slightly different pressures, or whether it reflects intentional variation in a hand-painted scheme.",
+          "diagnostic_value": "LOW-MODERATE. The variation is within the range expected from both block-printing and stenciling."
+        },
+        "edge_definition": {
+          "observation": "In the full-page view (p009), the red trefoil motifs appear to have moderately crisp edges against the sage-green ground. They are not as sharply defined as the Type A floral motifs but are crisper than the hatip ebru forms on p005. At the detail level, the edges show what may be slight feathering or haloing -- a narrow zone where the red pigment fades slightly at the motif boundary. This could indicate either stencil overspray or slight ink spread from a block.",
+          "diagnostic_value": "MODERATE. The edge character is intermediate between the crisp block-printed edges of Types A/B and the soft marbled edges of hatip ebru. Slightly favors stenciling over block-printing, but not conclusively."
+        },
+        "color_layering": {
+          "observation": "Two distinct colors are present: sage-green ground and red motifs. The green appears to be a base layer (the entire paper is colored green) with the red motifs applied on top. There is no visible cream ground showing through, indicating the green covers the full surface. This two-layer structure (ground color + motif color) is consistent with stencil application (red stenciled onto a pre-dyed green paper) or block-printing (red block-printed onto green paper). It does not help discriminate between the two.",
+          "diagnostic_value": "LOW. Neutral between techniques."
+        },
+        "comparison_with_p005": {
+          "observation": "The red forms on p005 left inner mount, initially classified as Type C candidates, are upon re-examination clearly hatip ebru (marbled paper). The detail crop (tiem_02471_p5_detail_typeC_iiif.jpeg) shows the characteristic flowing, soft-edged forms of marbled paper with color blending and organic irregularity. The wide view (tiem_02471_p5_wide_iiif.jpeg) confirms that these red forms are continuous with the surrounding marbled paper texture. TYPE C AS A CATEGORY MUST BE RESTRICTED TO P009 ONLY; the p005 inner mount is hatip ebru, not a mechanically decorated paper.",
+          "diagnostic_value": "HIGH for classification revision. The p005 forms are definitively hatip ebru, not block-printed or stenciled."
+        }
+      },
+
+      "verdict": "stenciled (provisional)",
+      "confidence": 0.50,
+      "confidence_change": "NEW classification (previously grouped with block-printed at 0.70)",
+      "justification": "Type C is the most ambiguous of the three pattern types. The scattered trefoil/flower motifs on the sage-green ground of p009 show characteristics that differ from the block-printed Types A and B: (1) the quasi-random scatter distribution (not a structured repeat); (2) the slightly softer edge definition with possible haloing; (3) the simpler, more uniform motif shapes (trefoils rather than the complex multi-element floral clusters of Type A). The combination of scattered placement and simple uniform shapes is more consistent with a stencil repositioned at varied locations than with a block, which would produce a more structured repeat. However, the confidence is low (0.50) because: (a) the resolution is insufficient for definitive stencil bridge detection; (b) the sage-green ground color may interact with the red pigment in ways that affect edge appearance; (c) only one page of this pattern type is clearly confirmed (p009 left), limiting the comparative base. This assessment is provisional and requires physical examination for confirmation.",
+      "alternative_hypothesis": {
+        "technique": "block-printed",
+        "confidence": 0.30,
+        "argument": "A block with widely spaced trefoil motifs, applied at multiple random positions and angles across the pre-dyed green paper, could produce the observed pattern. However, this would be an unusual use of block-printing -- blocks typically carry dense, structured repeats. A block with isolated scattered motifs would be more like a stamp or punch, which is a possible but less common Ottoman paper-decoration technique."
+      },
+      "remaining_alternative": {
+        "technique": "hand-painted or hand-stamped",
+        "confidence": 0.20,
+        "argument": "Given the low density of motifs and the moderate variation between them, hand-painting or individual stamp application cannot be excluded. The trefoil shapes are simple enough to execute by hand with a shaped brush or carved stamp. Physical examination of the pigment surface (flat vs. textured, thickness variation) would resolve this."
+      }
+    }
+  },
+
+  "cross_type_comparative_analysis": {
+    "type_a_vs_type_b": "Types A and B are clearly different production units: different motif vocabulary, different scale, different color palettes, different techniques. Type A uses a structured horizontal repeat with three colors (red, blue-green, dark brown) on cream ground; Type B uses a large-scale lattice with two-step color application (blue-grey stipple + pink interstice) on cream ground. Both are deployed at analogous structural positions in the album (doublures for A; endpapers for B), but their technical differences indicate they were produced by different workshops or at minimum with different printing blocks.",
+    "type_a_vs_type_c": "Type A and Type C share the use of floral motifs in red on a light ground, but differ fundamentally in: (1) scale (Type A motifs ~10 mm; Type C trefoils ~20 mm); (2) arrangement (Type A in structured horizontal rows; Type C in quasi-random scatter); (3) ground color (Type A on cream; Type C on sage-green); (4) complexity (Type A has multi-element floral clusters + leaf sprays + border bands; Type C has simple trefoils only). The tentative assignment of Type C to stenciling rather than block-printing reinforces the interpretation that these are different production units.",
+    "type_b_stipple_uniqueness": "The blue-grey branching stipple texture inside the Type B medallion cells is unique within this album and within the project corpus. No other decorated paper examined in any of the 49 catalogued manuscripts shows this specific texture. It is the most technically diagnostic feature observed in any decorated paper in the project to date.",
+    "production_implications": "The album likely incorporates decorated papers from multiple sources. At minimum three separate production units are present (Types A, B, C), potentially from different workshops. This is consistent with the album-making practice of the late 17th-century Istanbul atelier, where murakkaat albums were assembled from a stock of diverse decorated papers held by the binder/album-maker."
+  },
+
+  "overall_assessment": {
+    "previous_classification": "Block-printed (all types), confidence 0.70",
+    "revised_classification": {
+      "type_a": "Block-printed, confidence 0.78",
+      "type_b": "Block-printed (dominant blue-grey layer), confidence 0.85; pink layer technique uncertain",
+      "type_c": "Stenciled (provisional), confidence 0.50; or possibly hand-stamped/hand-painted"
+    },
+    "summary": "The analysis raises overall confidence for block-printing as the dominant technique for Types A and B while introducing a differentiated assessment for Type C. The critical new evidence is the branching stipple texture within Type B medallion cells, visible in the IIIF detail crop, which provides a strong physical signature of woodblock ink transfer. For Type A, the tight continuous zigzag border bands without visible stencil bridges provide the strongest evidence. Type C is reclassified as a separate production unit with a lower confidence provisional stencil attribution, pending physical examination. The p005 inner mount, previously considered a Type C candidate, is reclassified as hatip ebru (marbled paper)."
+  },
+
+  "methodological_limitations": {
+    "resolution_ceiling": "All analysis is based on IIIF portal images and IIIF detail crops. Even the highest-resolution detail crops (approximately 1-2 mm per pixel effective resolution) are insufficient for several key diagnostic criteria: (1) press indentation requires raking/oblique light photography, not available; (2) stencil bridges under 1 mm width are below resolving capacity; (3) pigment surface texture (raised ink surface = block; flat surface = stencil) requires physical examination or very high magnification; (4) fiber identification (paper vs. textile substrate for Type A) requires transmitted light.",
+    "lighting_limitations": "IIIF images are captured under diffuse, even lighting optimized for text readability. This lighting condition suppresses surface relief information (press indentation, embossing, pigment thickness) that would be diagnostic for technique determination. Raking light photography at 30-45 degree angle would reveal surface topology.",
+    "color_calibration": "No ICC color profile or calibration chart is present in the IIIF images. Color descriptions are approximate and may not accurately represent the original pigments. The distinction between 'red' and 'pink' in Type B interstice zones may reflect monitor calibration rather than actual pigment differences.",
+    "single_side_only": "Only the recto (front) surface of each decorated paper is visible in the IIIF images. Block-printed paper may show show-through or offset on the verso; stenciled paper typically does not. Verso examination would provide additional diagnostic evidence.",
+    "scholarly_context": "The distinction between stenciled and block-printed paper in Ottoman manuscripts is an active area of research (cf. Sturkenboom, GlobalDecoPaper Project, LMU Munich). No consensus diagnostic framework has been published as of early 2026. The terminology and diagnostic criteria used in this analysis are adapted from textile-printing analysis, European decorated paper studies (Buntpapier), and the project's own visual-identification-guide, rather than from an established Islamic-manuscript-specific methodology.",
+    "comparative_gap": "No directly comparable published examples of Ottoman block-printed or stenciled endpapers/doublure papers have been identified in the project bibliography. The closest comparanda are European block-printed papers (Buntpapier) and Ottoman printed textiles (basma). The GlobalDecoPaper project may hold unpublished comparanda."
+  },
+
+  "recommendations": {
+    "physical_examination": {
+      "priority": "HIGH",
+      "procedures": [
+        "Raking light photography (30-45 degree angle) of pp. 001, 002, 009 to detect press indentation and surface relief",
+        "High-magnification photography (minimum 20x) of Type A border bands to search for stencil bridges or continuous carved pattern",
+        "High-magnification photography of Type B medallion cell interiors to confirm branching stipple as direct block-texture transfer",
+        "Transmitted light examination of Type A to determine whether the substrate is paper or textile (woven fabric)",
+        "Verso examination of Type B endpaper leaf (if separable from mount) for show-through or offset",
+        "Surface touch assessment: block-printed pigment typically has a slight surface relief; stenciled pigment is flatter; hand-painted pigment may show brushstroke ridges"
+      ]
+    },
+    "comparative_research": {
+      "priority": "HIGH",
+      "actions": [
+        "Contact GlobalDecoPaper ERC project (LMU Munich) with images of Types A and B for database cross-referencing",
+        "Survey Topkapi Palace album collection (TSM H. series) via published catalogs for comparable endpaper/doublure papers",
+        "Survey Chester Beatty Ottoman album collection for comparable block-printed papers",
+        "Search European block-printed paper (Buntpapier) databases for pattern matches, especially the Deutsches Buch- und Schriftmuseum (Leipzig) collection",
+        "Consult Ottoman textile (basma) pattern databases for Type A parallels"
+      ]
+    },
+    "catalog_record_update": {
+      "priority": "MEDIUM",
+      "changes": [
+        "Update paper_decoration.summary to reflect differentiated technique assessments per type",
+        "Reclassify p005 inner mount from 'Type C candidate' to 'hatip ebru'",
+        "Restrict Type C to p009 left only",
+        "Update confidence scores as per this analysis",
+        "Add cross-reference to this technique determination analysis file"
+      ]
+    }
+  },
+
+  "folio_analysis_updates": [
+    {
+      "folio": "p001",
+      "existing_analysis_index": 0,
+      "technique_determination": {
+        "pattern_type": "Type A -- horizontal floral-row doublure paper",
+        "technique": "block-printed",
+        "confidence": 0.78,
+        "diagnostic_evidence": [
+          "Tight continuous zigzag/herringbone border bands without visible stencil bridges (HIGH diagnostic value)",
+          "Clean motif edges without overspray/haloing (MODERATE -- favors block-print)",
+          "Textile-derived design vocabulary consistent with basma (printed textile) tradition (CONTEXTUAL)",
+          "Row-by-row lateral offset consistent with sequential block application (MODERATE)",
+          "No visible press indentation, but resolution insufficient for this criterion (NOT ASSESSABLE)"
+        ],
+        "alternative_techniques": [
+          {"technique": "stenciled", "confidence": 0.15},
+          {"technique": "printed_textile_pasted", "confidence": 0.07}
+        ],
+        "requires_physical_exam": true,
+        "physical_exam_targets": ["raking light for press indentation", "transmitted light for paper vs. textile substrate", "20x magnification of border band for stencil bridges"]
+      }
+    },
+    {
+      "folio": "p002",
+      "existing_analysis_index": 1,
+      "technique_determination": {
+        "pattern_type": "Type B -- ogival medallion lattice endpaper paper",
+        "technique": "block-printed (blue-grey stippled layer); pink interstice technique uncertain",
+        "confidence": 0.85,
+        "diagnostic_evidence": [
+          "Branching/coral-like stipple texture in medallion cell interiors -- characteristic of carved woodblock ink transfer (VERY HIGH diagnostic value)",
+          "Cream gap between blue-grey and pink zones confirms multi-step production (HIGH)",
+          "Truncated stipple marks at cell edges consistent with carved block boundary (MODERATE)",
+          "Consistent lattice geometry across front (p002) and rear (p010) applications (MODERATE)",
+          "No visible press indentation, but resolution insufficient (NOT ASSESSABLE)"
+        ],
+        "alternative_techniques": [
+          {"technique": "stenciled_both_layers", "confidence": 0.08},
+          {"technique": "block_blue_grey_hand_applied_pink", "confidence": 0.07}
+        ],
+        "requires_physical_exam": true,
+        "physical_exam_targets": ["20x magnification of medallion interior stipple to confirm block-texture transfer", "raking light for press indentation", "verso examination for show-through"]
+      }
+    },
+    {
+      "folio": "p005",
+      "existing_analysis_index": 4,
+      "reclassification": {
+        "previous": "Type C candidate (block-printed or stenciled scattered flowers)",
+        "revised": "Hatip ebru (imam's floral marbling) inner mount",
+        "justification": "Detail crop examination (tiem_02471_p5_detail_typeC_iiif.jpeg and tiem_02471_p5_wide_iiif.jpeg) shows characteristic flowing, soft-edged forms with color blending and organic irregularity consistent with marbled paper. The large red forms are continuous with the surrounding marbled paper texture. NOT a mechanically reproduced pattern."
+      }
+    },
+    {
+      "folio": "p009",
+      "technique_determination": {
+        "pattern_type": "Type C -- scattered red trefoils/flowers on sage-green ground",
+        "technique": "stenciled (provisional)",
+        "confidence": 0.50,
+        "diagnostic_evidence": [
+          "Quasi-random scatter distribution consistent with repositioned stencil (MODERATE)",
+          "Simple uniform trefoil shapes more suited to stencil than structured block repeat (MODERATE)",
+          "Slightly soft edges with possible haloing at motif boundaries (MODERATE -- favors stencil)",
+          "Two-layer color structure: green ground + red motifs (LOW -- neutral between techniques)",
+          "Insufficient resolution for definitive stencil bridge detection (NOT ASSESSABLE)"
+        ],
+        "alternative_techniques": [
+          {"technique": "block-printed", "confidence": 0.30},
+          {"technique": "hand-painted_or_hand-stamped", "confidence": 0.20}
+        ],
+        "requires_physical_exam": true,
+        "physical_exam_targets": ["high magnification of trefoil edges for stencil bridges or overspray", "pigment surface texture (flat = stencil; raised = block/stamp)", "raking light for press indentation"]
+      }
+    },
+    {
+      "folio": "p010",
+      "existing_analysis_index": 6,
+      "technique_determination": {
+        "pattern_type": "Type B -- ogival medallion lattice (rear endpaper, mirror of p002)",
+        "technique": "block-printed (same assessment as p002)",
+        "confidence": 0.85,
+        "diagnostic_evidence": ["Same paper type and technique as p002 left; see p002 analysis for full diagnostic evidence"],
+        "note": "The symmetrical deployment at front and rear endpapers, with the lattice pattern and battal ebru swapped left-right, confirms both sheets came from the same production batch."
+      }
+    },
+    {
+      "folio": "p011",
+      "technique_determination": {
+        "pattern_type": "Type A -- horizontal floral-row doublure paper (rear doublure, mirror of p001)",
+        "technique": "block-printed (same assessment as p001)",
+        "confidence": 0.78,
+        "diagnostic_evidence": ["Same paper type and technique as p001; see p001 analysis for full diagnostic evidence"],
+        "note": "The rear doublure (p011) uses the same Type A paper as the front doublure (p001), confirming the album-maker's symmetrical decorative program."
+      }
+    }
+  ],
+
+  "bibliography_additions": [
+    {
+      "citation": "Loveday, Helen. Islamic Paper: A Study of the Ancient Craft. London: Don Baker Memorial Fund/Archetype, 2001.",
+      "relevance": "Covers decorated paper techniques including block-printing and stenciling; comparative framework for diagnostic criteria.",
+      "relevance_score": 0.80
+    },
+    {
+      "citation": "Khemir, Sabiha. 'The Art of the Book.' In Masterpieces from the Department of Islamic Art in the Metropolitan Museum of Art, edited by Maryam D. Ekhtiar et al., 277-337. New York: MMA, 2011.",
+      "relevance": "Survey includes Ottoman album production and decorated paper traditions relevant to TIEM murakka context.",
+      "relevance_score": 0.65
+    },
+    {
+      "citation": "Scheper, Karin. The Technique of Islamic Bookbinding: Methods, Materials and Regional Varieties. Leiden: Brill, 2015.",
+      "relevance": "Comprehensive reference for Ottoman binding techniques including doublure papers and endpaper decoration. Relevant to the structural context of Types A and B in the album.",
+      "relevance_score": 0.78
+    }
+  ]
+}
