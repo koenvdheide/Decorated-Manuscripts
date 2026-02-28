@@ -1,6 +1,6 @@
 {
-  "generated": "2026-02-28",
-  "manuscript_count": 61,
+  "generated": "2026-02-28T22:46:20.911Z",
+  "manuscript_count": 100,
   "note": "Auto-maintained by metadata-generator. Do not edit manually.",
   "entries": [
     {
@@ -1073,7 +1073,7 @@
       "key_features": [
         "Ilk sayfa kenarı halkârî — first-page margin halkâr only; confirmed genuine YEK phrase",
         "Nefis müzehhep serlevha at opening; renkli müzehhep cedveller throughout",
-        "Ahmet Siyahi Efendi vakıf mührü on f. 1a; Halîdiyye Medresesi provenance",
+        "Ahmet Siyahi Efendi vakıf mühürü on f. 1a; Halîdiyye Medresesi provenance",
         "Incomplete copy (sonu yarım bırakılmıştır); GAL S. II, 616"
       ],
       "visual_confirmation": "probable",
@@ -1817,6 +1817,1233 @@
       "visual_confirmation": "confirmed",
       "primary_tradition": "ottoman",
       "workshop_centre": "Istanbul",
+      "confidence": 0.95,
+      "catalogued_date": "2026-02-28"
+    },
+    {
+      "record_id": "tiem_02481",
+      "collection": "Türk ve İslam Eserleri Müzesi",
+      "shelfmark": "02481",
+      "title": "Muraqqaʿ / مرقع",
+      "author": null,
+      "date_ah": null,
+      "date_ce": "late 17th-early 18th century (c. 1670-1727, probable)",
+      "decoration_types": [
+        "marbled",
+        "colored",
+        "framing_system",
+        "halkar_margins"
+      ],
+      "paper_categories": [
+        "battal ebru (5-6 palettes)",
+        "gel-git ebru (p006L)",
+        "mülevven kagit (pink endpapers)",
+        "halkar-on-ebru (probable)",
+        "cetvelli"
+      ],
+      "key_features": [
+        "SYSTEMATIC WARM/COOL TWO-SCHEME MARBLING: pink/rose battal left margins, blue-grey battal right margins across all 5 openings",
+        "GEL-GIT ebru on p006 left -- sole non-battal variant in interior; rare accent in TIEM murakka corpus",
+        "Probable HALKAR-ON-EBRU floral overlay (green sprigs + red dots) on pink battal margins pp004/005/007 left (0.75)",
+        "Complete AKLAM-I SITTE (six-script) exhibition album: sulus, nesih, muhakkak, reyhani, tevki, icaze. No calligrapher/date. 10 kitaa. YEK ID 705417."
+      ],
+      "visual_confirmation": "confirmed",
+      "primary_tradition": "ottoman",
+      "workshop_centre": "Istanbul",
+      "confidence": 0.97,
+      "catalogued_date": "2026-02-28"
+    },
+    {
+      "record_id": "vahid_pasa_01220",
+      "collection": "Kütahya Vahid Paşa Kütüphanesi",
+      "shelfmark": "1220",
+      "title": "Muraqqaʿāt / مرقعات",
+      "author": null,
+      "date_ah": null,
+      "date_ce": "c. 1770–1798",
+      "decoration_types": [
+        "other",
+        "colored",
+        "framing_system"
+      ],
+      "paper_categories": [
+        "serpme kırmızı/pembe",
+        "mülevven teal (mavi-yeşil)",
+        "bileşik cedvel",
+        "vassale"
+      ],
+      "key_features": [
+        "RARE RED/PINK serpme — only 2nd non-gold serpme in corpus; physical exam urgently needed to identify the sprinkled substance",
+        "Red/pink serpme in dual structural role: full-ground endpapers (pp001+008) AND inner border band of compound cedvel on all 6 calligraphy spreads",
+        "Yesârî Mehmed Es'ad ketebe confirmed on p007 (d. 1213/1798) — foremost Ottoman taʿlîk calligrapher; hurûfât pedagogical mesk album",
+        "European floral fabric/printed-paper doublures (p009) — late 18th-century Ottoman-European binding hybrid; unique in corpus"
+      ],
+      "visual_confirmation": "confirmed",
+      "primary_tradition": "ottoman",
+      "workshop_centre": "Istanbul (probable) or Kütahya",
+      "confidence": 0.95,
+      "catalogued_date": "2026-02-28"
+    },
+    {
+      "record_id": "tiem_02489",
+      "collection": "Türk ve İslam Eserleri Müzesi",
+      "shelfmark": "02489",
+      "title": "Muraqqaʿ / مرقع",
+      "author": null,
+      "date_ah": null,
+      "date_ce": "late 15th–early 16th century (c. 1485–1525, attributed to Şeyh Hamdullah circle)",
+      "decoration_types": [
+        "colored",
+        "marbled",
+        "gold_sprinkled",
+        "illuminated_margins",
+        "framing_system"
+      ],
+      "paper_categories": [
+        "mülevven kâğıt (5 renk)",
+        "battal ebru (p007)",
+        "hatip ebru (doublure çifti)",
+        "zerefşân/zerkâri (muhtemelen)",
+        "altın cetvelli"
+      ],
+      "key_features": [
+        "RICHEST POLYCHROME MÜLEVVEN in corpus: 5 distinct colors (yellow, sage-green, pink, blue-grey, lacivert) across alternating openings in palindromic sequence",
+        "BATTAL EBRU as final calligraphy opening margins (p007, vivid red-blue-cream) — potentially earliest Ottoman battal ebru if Şeyh Hamdullah circle attribution accepted",
+        "MATCHED HATIP EBRU DOUBLURE PAIR (pp. 001, 009) — pinkish-red curvilinear marks + scattered blue-green bird motifs on cream; symmetrical bilateral frame",
+        "Attribution: el-fakir İbnü'ş-Şeyh ketebe (Son of the Shaykh — indirect Şeyh Hamdullah attribution); 10 kıtʿa sülüs-nesih hadith; Ayasofya 4883 provenance stamp on p002",
+        "YEK ID 705422; IIIF ID 0000000662635; 10 yaprak / 9 IIIF pages; 245×152 mm"
+      ],
+      "visual_confirmation": "confirmed",
+      "primary_tradition": "ottoman",
+      "workshop_centre": "Istanbul — Bayezid II court circle (probable)",
+      "confidence": 0.95,
+      "catalogued_date": "2026-02-28"
+    },
+    {
+      "record_id": "tiem_02426",
+      "collection": "Türk ve İslam Eserleri Müzesi",
+      "shelfmark": "02426",
+      "title": "Muraqqaʿ / مرقع (meşk muraqqaʿı)",
+      "author": null,
+      "date_ah": null,
+      "date_ce": "17th–18th century (undated)",
+      "decoration_types": [
+        "marbled",
+        "framing_system"
+      ],
+      "paper_categories": [
+        "hatip ebru",
+        "battal ebru",
+        "cetvelli",
+        "vassale"
+      ],
+      "key_features": [
+        "4th confirmed hatip ebru in corpus; spectacular pink+orange flowers on grey-green battal ground (front cover p001)",
+        "MISMATCHED COVER PAIR: hatip ebru front vs. abstract leaf/petal ebru back (p015) — unique in corpus; possible repair/replacement",
+        "Meşk muraqqaʿı (practice album): 21 harf meşki in sülüs-nesih, no ketebe or date",
+        "Interior margins plain cream/nohudi throughout; triage-claimed mülevven NOT confirmed at IIIF native resolution; YEK ID corrected 705363→705372"
+      ],
+      "visual_confirmation": "confirmed",
+      "primary_tradition": "ottoman",
+      "workshop_centre": "Istanbul (uncertain)",
+      "confidence": 0.9,
+      "catalogued_date": "2026-02-28"
+    },
+    {
+      "record_id": "tiem_02462",
+      "collection": "Türk ve İslam Eserleri Müzesi",
+      "shelfmark": "02462",
+      "title": "Muraqqaʿ / مرقع",
+      "author": null,
+      "date_ah": null,
+      "date_ce": "18th century, probable (c. 1700–1830)",
+      "decoration_types": [
+        "marbled",
+        "halkar_margins",
+        "framing_system"
+      ],
+      "paper_categories": [
+        "hâtip ebrûsu",
+        "pembe çiçekli kenar nakışı",
+        "cetvelli",
+        "vassale"
+      ],
+      "key_features": [
+        "MATCHED HATIP EBRU COVER PAIR — 3rd confirmed hatip ebru in corpus",
+        "Polychrome pink-pigment floral margin decoration (unique non-gold margin pigment)",
+        "6-script aklâm-ı sitte program (muhakkak, reyhânî, sülüs, nesih, nestaʿlîk, tevkîʿ)"
+      ],
+      "visual_confirmation": "confirmed",
+      "primary_tradition": "ottoman",
+      "workshop_centre": "Istanbul",
+      "confidence": 0.93,
+      "catalogued_date": "2026-02-28"
+    },
+    {
+      "record_id": "hamidiye_00026",
+      "collection": "Süleymaniye Kütüphanesi — Hamidiye Koleksiyonu",
+      "shelfmark": "00026",
+      "title": "Muraqqaʿ / مرقع (Murakkaʿât / 11 Kıtʿa)",
+      "author": null,
+      "date_ah": null,
+      "date_ce": "17th–18th century (c. 1650–1750, undated)",
+      "decoration_types": [
+        "marbled",
+        "colored",
+        "framing_system"
+      ],
+      "paper_categories": [
+        "hatip ebru (kalp motifli — heart-shaped)",
+        "battal ebru (9 ayrı tabaka)",
+        "mülevven pembe şerit",
+        "çok renkli cetvel"
+      ],
+      "key_features": [
+        "5th confirmed hatip ebru in corpus — UNIQUE heart-shaped golden motifs (vs. rosette/flower type in all other corpus specimens)",
+        "Battal ebru on ALL 9 calligraphy pages, each a distinct sheet with its own palette — one of the most systematic battal ebru margin programs in corpus",
+        "Dual ebru subtype combination (hatip cover + battal margins) — paralleled only by tiem_02489 in corpus",
+        "Pink/rose mülevven strips as writing surface for selected sülüs lines (pp009 bottom, p011 top); Hamidiye waqf provenance; YEK ID 265201"
+      ],
+      "visual_confirmation": "confirmed",
+      "primary_tradition": "ottoman",
+      "workshop_centre": "Istanbul",
+      "confidence": 0.97,
+      "catalogued_date": "2026-02-28"
+    },
+    {
+      "record_id": "pertevniyal_00049",
+      "collection": "Süleymaniye Yazma Eser Kütüphanesi — Pertevniyal Koleksiyonu",
+      "shelfmark": "00049",
+      "title": "Qaṣīdat al-Burda / قصيدة البردة",
+      "author": "Muḥammad ibn Saʿid al-Būṣīrī",
+      "date_ah": null,
+      "date_ce": "c. 1680–1731 (probable; Seyyid Abdullah el-Yedikuli attribution)",
+      "decoration_types": [
+        "gold_sprinkled",
+        "colored",
+        "framing_system"
+      ],
+      "paper_categories": [
+        "mülevven kâğıt (7+ renk)",
+        "lacivert zerefşân serpmeli",
+        "renkli cetvel sistemi",
+        "vassale"
+      ],
+      "key_features": [
+        "MOST SYSTEMATIC coordinated cetvel-mülevven program in corpus — cetvel color changes every opening to complement margin paper color across 8 documented pairings",
+        "UNIQUE zerefşân-on-lacivert mülevven (pp018-019) — only murakkaʿ in corpus combining colored paper and zerefşân in this combination",
+        "Probable Seyyid Abdullah el-Yedikuli attribution (d. 1144/1731) — ketebe p035 reads al-Sayyid ʿAbdullāh; Burda Qaṣīda complete in 34 sülüs-nesih leaves",
+        "Polychrome mülevven in 7+ confirmed hues: olive-green, yellow, sage-green, lacivert, orange, pink/mauve, rose pink; 19 of 36 pages unexamined"
+      ],
+      "visual_confirmation": "confirmed",
+      "primary_tradition": "ottoman",
+      "workshop_centre": "Istanbul",
+      "confidence": 0.93,
+      "catalogued_date": "2026-02-28"
+    },
+    {
+      "record_id": "hamidiye_00037",
+      "collection": "Süleymaniye Kütüphanesi — Hamidiye Koleksiyonu",
+      "shelfmark": "00037",
+      "title": "Muraqqaʿāt / مرقعات",
+      "author": null,
+      "date_ah": null,
+      "date_ce": "late 18th–early 19th century (probable; undated)",
+      "decoration_types": [
+        "marbled",
+        "colored",
+        "gold_sprinkled",
+        "illuminated_margins",
+        "framing_system"
+      ],
+      "paper_categories": [
+        "hâtip ebrûsu (ön kapak)",
+        "mülevven kâğıt (5 renk + pembe kapak içliği)",
+        "zerefşân (kırmızı, yeşil, sarı marginda teyit edildi)",
+        "köşe parçaları tezhibi",
+        "bileşik altın cetvel + vassale"
+      ],
+      "key_features": [
+        "FIVE-TECHNIQUE album: hatip ebru cover + five-color mulevven margin sequence + zerefşân + tezhipli köşe parçaları + compound cetvelli vassale system",
+        "RARE LAVENDER/MAUVE-PURPLE mulevven (pp007–008) — first confirmed lavender mulevven in Hamidiye corpus; significant addition to project color inventory",
+        "2-LAYER MULEVVEN SYSTEM: each of 5 openings uses both a distinct outer margin color AND a contrasting inner border band color (iç pervaz) — 10 distinct mulevven applications total",
+        "TWO calligraphers identified by ketebe: Beşikerzâde (pp003–008, sülüs-nesih hadith) and Muhammed Râsim (pp009–010); hurufat mesk on pp011–012"
+      ],
+      "visual_confirmation": "confirmed",
+      "primary_tradition": "ottoman",
+      "workshop_centre": "Istanbul",
+      "confidence": 0.97,
+      "catalogued_date": "2026-02-28"
+    },
+    {
+      "record_id": "pertevniyal_00050",
+      "collection": "Süleymaniye Yazma Eser Kütüphanesi — Pertevniyal Koleksiyonu",
+      "shelfmark": "00050",
+      "title": "Muraqqaʿ / مرقع",
+      "date_ah": "late 12th/early 13th c. AH",
+      "date_ce": "c. 1775–1806",
+      "decoration_types": [
+        "marbled",
+        "colored",
+        "framing_system"
+      ],
+      "paper_categories": [
+        "battal ebru (teal + 2x polychrome)",
+        "mülevven kâğıt (turuncu + sarı)",
+        "boya efşân (muhtemelen, P7)",
+        "çok renkli cetvel",
+        "vassale"
+      ],
+      "key_features": [
+        "ONLY album in corpus combining mülevven AND battal ebru: 2 mülevven pages (P1 orange, P4 yellow) + 4 battal ebru pages (P6 teal, P8 mixed, P9-P10 polychrome)",
+        "PP9-10 polychrome battal ebru (5+ colors: red, green, grey-blue, yellow, cream) — among the finest in the corpus",
+        "P7 probable boya efşân (0.70): pink/rose pigment-sprinkled paper; 2nd non-gold serpme candidate in corpus (after vahid_pasa_01220)",
+        "Ismaʿil al-Zuhdī (d. 1221/1806), student of Mustafa Râkım; ketebe on P10; Pertevniyal Valide Sultan imperial waqf; YEK ID 320125; IIIF ID 0000000361865; 10 yaprak"
+      ],
+      "visual_confirmation": "confirmed",
+      "primary_tradition": "ottoman",
+      "workshop_centre": "Istanbul",
+      "confidence": 0.95,
+      "catalogued_date": "2026-02-28"
+    },
+    {
+      "record_id": "hamidiye_00019",
+      "collection": "Süleymaniye Kütüphanesi — Hamidiye Koleksiyonu",
+      "shelfmark": "00019",
+      "title": "Muraqqaʿ / مرقع",
+      "date_ah": null,
+      "date_ce": null,
+      "decoration_types": [
+        "marbled",
+        "framing_system"
+      ],
+      "paper_categories": [
+        "battal ebru (4+ palet)",
+        "bileşik cedvel (altın + çam yeşili + altın + koyu kahve)",
+        "vassale"
+      ],
+      "key_features": [
+        "POLYCHROME BATTAL EBRU with 3–4 distinct palette variants across 5 decorated surfaces (cover + 4 calligraphy-page margins)",
+        "Two-zone marbling effect: lighter inner battal ebru border strips + vivid outer margin fields on all calligraphy pages",
+        "4-band compound cedvel (gold / sage-green / gold / dark brown-black) paralleling hamidiye_00010 and tiem_02471",
+        "Partially legible ketebe on p006 ('kataba-hu al-faqīr...'); Hamidiye vakf; YEK ID 265194; IIIF ID 0000000289495; 6 pages"
+      ],
+      "visual_confirmation": "confirmed",
+      "primary_tradition": "ottoman",
+      "workshop_centre": "Istanbul",
+      "confidence": 0.97,
+      "catalogued_date": "2026-02-28"
+    },
+    {
+      "record_id": "hamidiye_00034",
+      "collection": "Süleymaniye Kütüphanesi — Hamidiye Koleksiyonu",
+      "shelfmark": "00034",
+      "title": "Muraqqaʿ / مرقع",
+      "date_ah": "947",
+      "date_ce": "1540–1541",
+      "decoration_types": [
+        "marbled",
+        "colored",
+        "gold_worked",
+        "halkar_margins",
+        "illuminated_margins",
+        "framing_system"
+      ],
+      "paper_categories": [
+        "hatip ebru (eşleştirilmiş çift — ön+arka kapak)",
+        "mülevven kâğıt (4 renk: sarı, yeşil, pembe, turuncu)",
+        "halkâr bordür",
+        "zerkârî zemin",
+        "taraklı ebru şeridi"
+      ],
+      "key_features": [
+        "FIVE-CATEGORY decoration program: matched hatip ebru covers + 4-color mulevven sequence + polychrome halkar borders + illuminated/zerkari grounds + compound cedvel with ebru inner borders",
+        "ORANGE MULEVVEN (pp009–010) unique in project corpus; 4-color mulevven progression: yellow → olive-green → pink/salmon → orange",
+        "Dated AH 947/1540-41 — one of the earliest dated specimens in corpus; Shah Muhammad ketebe (probable Safavid-trained nastaʿlīq master)",
+        "Matched hatip ebru cover pair with large naturalistic composite rosettes; halkar-on-mulevven on pp007–011; YEK ID 265209; 13 pages"
+      ],
+      "visual_confirmation": "confirmed",
+      "primary_tradition": "ottoman",
+      "workshop_centre": "Istanbul (with possible Safavid calligrapher contribution)",
+      "confidence": 0.96,
+      "catalogued_date": "2026-02-28"
+    },
+    {
+      "record_id": "na_00166",
+      "collection": "Süleymaniye Yazma Eser Kütüphanesi — Nuri Arlasez Koleksiyonu",
+      "shelfmark": "00166",
+      "title": "Muraqqaʿāt / مرقعات",
+      "author": null,
+      "date_ah": null,
+      "date_ce": "17th–18th century (undated)",
+      "decoration_types": [
+        "marbled",
+        "colored",
+        "framing_system"
+      ],
+      "paper_categories": [
+        "battal ebru (kapak + iç kapak doublure)",
+        "sarı/altın mülevven kâğıt (tüm iç sayfalar)",
+        "bileşik cetvelli çerçeve (vassale montaj)"
+      ],
+      "key_features": [
+        "Two-zone decoration: vivid polychrome battal ebru covers (red/navy/cream, p001) + uniform saffron-yellow mülevven on ALL interior calligraphy pages (pp003-013)",
+        "TRIAGE CORRECTION: triage claimed battal ebru throughout + blue mülevven — corrected to ebru on covers only; interior is yellow mülevven (not blue)",
+        "Battal ebru two-palette contrast: vivid exterior (red/navy/cream) vs. subdued doublure (brown/grey-blue + scattered blue speckles)",
+        "First yellow-mülevven-only muraqqaʿ documented in corpus; Nuri Arlasez donation in memory of Raif Yelkenci; YEK ID 406102"
+      ],
+      "visual_confirmation": "confirmed",
+      "primary_tradition": "ottoman",
+      "workshop_centre": "Istanbul (probable)",
+      "confidence": 0.92,
+      "catalogued_date": "2026-02-28"
+    },
+    {
+      "record_id": "sm_00002",
+      "collection": "Süleymaniye Kütüphanesi — Süleymaniye Murakka Koleksiyonu",
+      "shelfmark": "SM 00002",
+      "title": "Muraqqaʿāt / مرقعات",
+      "author": null,
+      "date_ah": null,
+      "date_ce": "late 17th–early 18th century (c. 1680–1720)",
+      "decoration_types": [
+        "colored",
+        "gold_sprinkled",
+        "illuminated_margins",
+        "framing_system",
+        "other"
+      ],
+      "paper_categories": [
+        "mülevven kâğıt (5 renk: pembe, yeşil, sarı, turuncu/toprak rengi, krem/nohudi)",
+        "zerefşân-on-mülevven (pembe + yeşil marginda teyit edildi)",
+        "polychrome block border / çok renkli blok bordür (pp014–016 — UNIQUE in corpus)",
+        "bileşik cedvel (altın + renkli bantlar)",
+        "tezhipli başlık (p002)"
+      ],
+      "key_features": [
+        "UNIQUE POLYCHROME BLOCK BORDER (pp014–016) — only rectangular block-border framing in 73-record corpus at time of cataloguing: two palette variants A (pink+yellow+terracotta+olive+cream) on pp014–015 and B (yellow+olive+cream) on p016; triage term 'zencirek' RECLASSIFIED — blocks are rectangular cartouches, not chain rings",
+        "FIVE-COLOR MULEVVEN sequence: pink (p006R), green (p008R), yellow (p013), orange/terracotta (p016 outer margin), cream/nohudi (baseline) — with zerefşân visible on pink and green margins",
+        "FOUR calligraphers by ketebe: Yûsuf (student of Hâfız Osmân, d. 1698); Ramazân; Hamdullah ibni'ş-Şeyh; Muhammed Arabzâde — linking Şeyh Hamdullah and Hâfız Osmân lineages in a single album",
+        "Fethizâde Mustafa Efendi vakf seal AH 1202/1787–88 (shared with SM 00003 and SM 00009); YEK ID 325914; IIIF ID 0000000356074; 22 yaprak; 8 of 20 pages examined"
+      ],
+      "visual_confirmation": "confirmed",
+      "primary_tradition": "ottoman",
+      "workshop_centre": "Istanbul",
+      "confidence": 0.96,
+      "catalogued_date": "2026-02-28"
+    },
+    {
+      "record_id": "na_00270",
+      "collection": "Süleymaniye Yazma Eser Kütüphanesi — Nuri Arlasez Koleksiyonu",
+      "shelfmark": "00270",
+      "title": "Muraqqaʿ / مرقعات",
+      "author": null,
+      "date_ah": "1195",
+      "date_ce": "1781",
+      "decoration_types": [
+        "marbled",
+        "colored",
+        "framing_system"
+      ],
+      "paper_categories": [
+        "battal ebru (5 palet varyantı — en çeşitli Nuri Arlasez albümü)",
+        "gel-git ebru (p003 — IIIF çözünürlüğünde teyit edildi)",
+        "mülevven iç şerit (firuze/pembe alternating)",
+        "kırmızı lak cilt (rumi arabeskli şemse + salbek)",
+        "bileşik altın cedvel"
+      ],
+      "key_features": [
+        "MOST PALETTE-DIVERSE Nuri Arlasez album: 5 distinct battal ebru palette variants + 1 gel-git ebru (p003, 5-color, confirmed at IIIF resolution) across 12 pages — gel-git confirmed by sinuous feather/flame shapes from single-stylus movement, distinct from taraklı parallel striations",
+        "TRIAGE CORRECTION: triage claimed blue mülevven throughout entire album — corrected by IIIF exam to polychrome battal/gel-git ebru as outer margin grounds; mülevven appears only as narrow teal/pink alternating inner strips between ebru and gold cedvel",
+        "THREE-LAYER compound framing system on every spread: (1) battal/gel-git ebru full outer margin, (2) narrow mülevven inner strip (teal or pink, alternating), (3) compound multi-band gold cedvel",
+        "Red lacquer rumi-arabesque şemse+salbek binding (p001); dated AH 1195/1781 CE by ketebe p012; calligrapher Muhammed el-Vasfî; meşk abjad sülüs album; YEK ID 406230; IIIF ID 0000000398191; 10 yaprak; 8/12 pages examined"
+      ],
+      "visual_confirmation": "confirmed",
+      "primary_tradition": "ottoman",
+      "workshop_centre": "Istanbul",
+      "confidence": 0.97,
+      "catalogued_date": "2026-02-28"
+    },
+    {
+      "record_id": "sm_00003",
+      "collection": "Süleymaniye Kütüphanesi — Süleymaniye Murakka Koleksiyonu",
+      "shelfmark": "SM 00003",
+      "title": "Muraqqaʿāt / مرقعات",
+      "author": null,
+      "date_ah": "before 1202 AH (terminus ante quem from vakf seal)",
+      "date_ce": "before 1787–88 CE; probably assembled c. 1673–1787",
+      "decoration_types": [
+        "colored",
+        "marbled",
+        "gold_sprinkled",
+        "illuminated_margins",
+        "framing_system"
+      ],
+      "paper_categories": [
+        "mülevven kâğıt (6+ renk: sarı/chartreuse, pembe/gül, zeytin yeşili, parlak yeşil + turuncu iki renkli sistem, mavi-gri, lacivert)",
+        "battal ebru polychrome (pp019–020 — 4+ renk: pembe, kırmızı, yeşil, mavi-gri)",
+        "zerefşân-on-mülevven (pembe p007, yeşil p012)",
+        "lacivert + altın diagonal crosshatch aydınlatılmış bordür (p019)",
+        "altın çiçekli asma başlık/ʿunvân (p018)",
+        "bileşik cedvel (altın → kırmızı + lacivert sistemine evrilen)"
+      ],
+      "key_features": [
+        "SIX-COLOR MULEVVEN sequence — most extensive polychrome mülevven among examined Süleymaniye Murakka albums: yellow/chartreuse (p002), pink/rose with zerefşân (p007), olive/sage-green (p008), bright green inner + orange/terracotta outer two-color system (p012), blue-grey panels (p016), lacivert illuminated border (p019)",
+        "CRITICAL HALKAR → BATTAL EBRU RECLASSIFICATION (p020): polychrome four-color battal ebru (pink, red, green, blue-grey) on closing pages pp019–020 — triage misidentified as halkar at thumbnail scale; unmistakably confirmed as stone marbling at IIIF resolution",
+        "FIVE named calligraphers by ketebe: Derviş Ali (d. 1085/1673, teacher of Hâfız Osmân) + Osman (prob. Hâfız Osmân d. 1110/1698) + İsmâʿîl Zühdî (d. 1221/1806, brother of Mustafa Râkım) + Ayasofya Muarrifi Muhammed + İsmâʿîl b. Ali — spanning 133 years; Fethizâde Mustafa Efendi vakf AH 1202/1787–88 (shared with SM 00009)",
+        "Lacivert + gold diagonal crosshatch illuminated border (p019); gold floral vine başlık (p018); compound cedvel evolving from gold-only to red+gold+lacivert across album; YEK ID 325915; IIIF ID 0000000356075; 22 yaprak; 9 of 20 pages examined"
+      ],
+      "visual_confirmation": "confirmed",
+      "primary_tradition": "ottoman",
+      "workshop_centre": "Istanbul",
+      "confidence": 0.95,
+      "catalogued_date": "2026-02-28"
+    },
+    {
+      "record_id": "na_00120",
+      "collection": "Süleymaniye Yazma Eser Kütüphanesi — Nuri Arlasez Koleksiyonu",
+      "shelfmark": "00120",
+      "title": "Muraqqaʿāt / مرقعات",
+      "author": null,
+      "date_ah": null,
+      "date_ce": null,
+      "decoration_types": [
+        "marbled",
+        "colored",
+        "framing_system"
+      ],
+      "paper_categories": [
+        "hatip ebrûsu (biz ile çizilmiş — koyu zemin üzerinde botanik yaprak/tüy motifleri)",
+        "mülevven kâğıt (derin çam yeşili / sage-green)",
+        "basit cetvel / kenarlık"
+      ],
+      "key_features": [
+        "Hatip ebru cover (p001): unusual dark-ground palette (olive-green/gold-cream/blue-grey botanical motifs with orange-red dots) — 7th confirmed hatip ebru in corpus",
+        "FIRST confirmed green mülevven in Nuri Arlasez collection; sage-green dyed paper as full-page calligraphy mounting ground throughout interior (pp003–006)",
+        "Zühdü Efendi calligrapher; inside cover note 'Duble renkli kâğıt üzerine' explicitly records colored paper",
+        "YEK ID 406054; IIIF ID 0000000398367; 8 yaprak; 6 IIIF pages"
+      ],
+      "visual_confirmation": "confirmed",
+      "primary_tradition": "ottoman",
+      "workshop_centre": null,
+      "confidence": 0.96,
+      "catalogued_date": "2026-02-28"
+    },
+    {
+      "record_id": "na_00114",
+      "collection": "Süleymaniye Yazma Eser Kütüphanesi — Nuri Arlasez Koleksiyonu",
+      "shelfmark": "00114",
+      "title": "Muraqqaʿāt / مرقعات",
+      "author": null,
+      "date_ah": null,
+      "date_ce": null,
+      "decoration_types": [
+        "marbled",
+        "gold_sprinkled",
+        "framing_system"
+      ],
+      "paper_categories": [
+        "taraklı ebrulu kâğıt (kapak — ONLY confirmed taraklı cover in 252-album triage)",
+        "battal ebrulu kâğıt (pembe/gül-kestane kenar kâğıdı)",
+        "zerefşân / serpme (muhtemel, güven 0.70)",
+        "altın cetvel"
+      ],
+      "key_features": [
+        "ONLY confirmed taraklı ebru cover in entire 252-album visual triage corpus — regular evenly-spaced parallel arcs from multi-toothed comb (tarak), definitively NOT gel-git",
+        "DUAL-SUBTYPE ebru program: taraklı cover (p001) + battal margins (pp002–003) — intentional pairing of two marbling techniques for two structural zones",
+        "Polychrome taraklı palette: green, orange, cream/gold, brownish-purple/mauve, blue-grey",
+        "Mehmed Nuri calligrapher; YEK ID 406048; IIIF ID 0000000398373; 3 yaprak"
+      ],
+      "visual_confirmation": "confirmed",
+      "primary_tradition": "ottoman",
+      "workshop_centre": null,
+      "confidence": 0.95,
+      "catalogued_date": "2026-02-28"
+    },
+    {
+      "record_id": "sm_00008",
+      "collection": "Süleymaniye Kütüphanesi — Süleymaniye Murakka Koleksiyonu",
+      "shelfmark": "SM 00008",
+      "title": "Muraqqaʿāt / مرقعات",
+      "author": null,
+      "date_ah": null,
+      "date_ce": null,
+      "decoration_types": [
+        "marbled",
+        "colored",
+        "gold_sprinkled",
+        "illuminated_margins",
+        "framing_system"
+      ],
+      "paper_categories": [
+        "hatip ebrûsu (gül motifli pembe/somon — pp002, 005, 008)",
+        "mülevven kâğıt (somon/şeftali, lacivert, sarı muhtemelen)",
+        "zerefşân (p028 margins confirmed; cream pages muhtemel)",
+        "halkârî muhtemelen (p025 çiçekli kenar)",
+        "şekerpare cedveli / candy-stripe cedvel",
+        "mavi örme cedvel",
+        "lak cilt (kuşluk motifli)"
+      ],
+      "key_features": [
+        "LARGEST murakkaʿ in 252-album triage (28 pages / 27 yk.) with 12+ decorated pages (vs 4 in triage)",
+        "7th confirmed hatip ebru: pink/salmon gül rosettes on grey-green battal grounds (pp002, 005, 008) — FIRST hatip ebru in Süleymaniye Murakka Koleksiyonu",
+        "Extraordinary p028: gold nastaliq-influenced calligraphy on LACIVERT mulevven writing surface with zerefşân margins — one of very few colored-paper writing surfaces in corpus",
+        "Five-category decoration program; candy-stripe cetvels (workshop marker paralleling hamidiye_00010 and tiem_02471); three calligraphers (Hüseyin b. Ramazan, Muhammed b. İsmail, İbrahim); YEK ID 325920; IIIF ID 0000000356070"
+      ],
+      "visual_confirmation": "confirmed",
+      "primary_tradition": "ottoman",
+      "workshop_centre": "Istanbul",
+      "confidence": 0.95,
+      "catalogued_date": "2026-02-28"
+    },
+    {
+      "record_id": "kastamonu_4209",
+      "collection": "Kastamonu Yazma Eser Kütüphanesi",
+      "shelfmark": "4209",
+      "title": "Muraqqaʿāt / مرقعات",
+      "author": null,
+      "date_ah": null,
+      "date_ce": "second half 19th century (probable, c. 1850–1887)",
+      "decoration_types": [
+        "marbled",
+        "framing_system"
+      ],
+      "paper_categories": [
+        "battal ebrusu",
+        "gel-git ebrusu",
+        "cetvelli meşin cilt"
+      ],
+      "key_features": [
+        "THREE DISTINCT EBRU TYPES in one album: 1 battal + 2 gel-git in different palettes",
+        "Bright green-painted pervaz border frame on all three calligraphic openings (unusual)",
+        "Calligrapher: Mehmet Şevki (prob. Mehmed Şevki Efendi, 1829–1887)",
+        "Closest parallel: na_00270 (5 battal palettes + gel-git, AH 1195)"
+      ],
+      "visual_confirmation": "confirmed",
+      "primary_tradition": "ottoman",
+      "workshop_centre": "Istanbul (probable)",
+      "confidence": 0.95,
+      "catalogued_date": "2026-02-28"
+    },
+    {
+      "record_id": "arkeoloji_01454",
+      "collection": "İstanbul Arkeoloji Müzeleri Kütüphanesi",
+      "shelfmark": "01454",
+      "title": "Muraqqaʿāt / مرقعات",
+      "author": null,
+      "date_ah": "AH 1138 (second text); AH 1204 (chronogram)",
+      "date_ce": "1725-26 CE (second text); 1789-90 CE (chronogram)",
+      "decoration_types": [
+        "other",
+        "framing_system"
+      ],
+      "paper_categories": [
+        "kalip baskili kagit (TEKNIK BELIRSIZ — block-print muhtemelen)",
+        "vassale",
+        "altin cetvel",
+        "deri cilt semse+salbek+koselik"
+      ],
+      "key_features": [
+        "TECHNIQUE UNCERTAIN: block-print (0.70) vs. controlled battal ebru (0.25) — physical examination required; potentially first block-printed specimen in corpus",
+        "Two color variants (cool grey-blue + warmer greenish-sage)",
+        "Menzil taşı (milestone inscription) genre — rare epigraphic album",
+        "Başçuhadar Hüseyin Ağa attribution (court official patron, AH 1138/1725-26)"
+      ],
+      "visual_confirmation": "confirmed",
+      "primary_tradition": "ottoman",
+      "workshop_centre": "Istanbul",
+      "confidence": 0.93,
+      "catalogued_date": "2026-02-28"
+    },
+    {
+      "record_id": "kastamonu_4213",
+      "collection": "Kastamonu Yazma Eser Kütüphanesi",
+      "shelfmark": "4213",
+      "title": "Muraqqaʿāt / مرقعات",
+      "author": null,
+      "date_ah": null,
+      "date_ce": "early 16th century (if İbn Hamdullah attribution is authentic)",
+      "decoration_types": [
+        "marbled",
+        "colored",
+        "framing_system"
+      ],
+      "paper_categories": [
+        "battal ebru",
+        "yeşil mülevven",
+        "yaldız cetvelli"
+      ],
+      "key_features": [
+        "İbn Hamdullah (son of Şeyh Hamdullah, d. 1520) attribution — potentially earliest muraqqaʿ in corpus if authentic",
+        "Battal ebru endpapers at BOTH structural ends (front p002 + rear p007) — distinct palettes (silver-grey vs. green dominant)",
+        "Green mülevven margins on all calligraphy openings — catalogue-undocumented bonus finding",
+        "Old TIEM accession T.I.E.M. No. 2503 confirmed on cover (not 4503) — transferred from TIEM to Kastamonu"
+      ],
+      "visual_confirmation": "confirmed",
+      "primary_tradition": "ottoman",
+      "workshop_centre": "Istanbul (probable)",
+      "confidence": 0.92,
+      "catalogued_date": "2026-02-28"
+    },
+    {
+      "record_id": "hamidiye_00036",
+      "collection": "Süleymaniye Kütüphanesi — Hamidiye Koleksiyonu",
+      "shelfmark": "00036",
+      "title": "Muraqqaʿāt / مرقعات",
+      "author": null,
+      "date_ah": null,
+      "date_ce": "late 17th century (c. 1680-1698)",
+      "decoration_types": [
+        "marbled",
+        "gold_sprinkled",
+        "halkar_margins",
+        "illuminated_margins",
+        "framing_system",
+        "colored"
+      ],
+      "paper_categories": [
+        "hatip ebru",
+        "zerefşân / boya efşân",
+        "halkârî"
+      ],
+      "key_features": [
+        "Hatip ebru endpapers (pp003-004) — floral marbling",
+        "Zerefşân or boya efşân metallic lustre on cover page (p001)",
+        "Gold halkâr vine margins with polychrome flowers (pp005-007)",
+        "Attributed to Hâfız Osmân (d. 1110/1698)"
+      ],
+      "visual_confirmation": "confirmed",
+      "primary_tradition": "ottoman",
+      "workshop_centre": "Istanbul",
+      "confidence": 0.93,
+      "catalogued_date": "2026-02-28"
+    },
+    {
+      "record_id": "afyon_gedik_17679-1",
+      "collection": "Afyon Gedik Ahmed Paşa İl Halk Kütüphanesi",
+      "shelfmark": "03 Gedik 17679-1",
+      "title": "Muraqqaʿāt / مرقعات",
+      "author": null,
+      "date_ah": null,
+      "date_ce": "18th century (stylistic estimate)",
+      "decoration_types": [
+        "colored",
+        "marbled",
+        "illuminated_margins",
+        "framing_system"
+      ],
+      "paper_categories": [
+        "sarı mülevven",
+        "battal ebru",
+        "altın cetvelli"
+      ],
+      "key_features": [
+        "Sarı mülevven (yellow-dyed) calligraphy panels alternating from p007",
+        "Battal ebru margins in 3 distinct color palettes — missed by triage",
+        "Lacquer (lake) binding with şemse-salbek",
+        "Vol. 1 of companion pair with 17679-2"
+      ],
+      "visual_confirmation": "confirmed",
+      "primary_tradition": "ottoman",
+      "workshop_centre": null,
+      "confidence": 0.93,
+      "catalogued_date": "2026-02-28"
+    },
+    {
+      "record_id": "afyon_gedik_17679-2",
+      "collection": "Afyon Gedik Ahmed Paşa İl Halk Kütüphanesi",
+      "shelfmark": "03 Gedik 17679-2",
+      "title": "Muraqqaʿāt / مرقعات",
+      "author": null,
+      "date_ah": null,
+      "date_ce": "18th century (stylistic estimate)",
+      "decoration_types": [
+        "marbled",
+        "colored",
+        "framing_system",
+        "other"
+      ],
+      "paper_categories": [
+        "battal ebru",
+        "pembe mülevven",
+        "zeytin yeşili mülevven",
+        "altın/okr mülevven"
+      ],
+      "key_features": [
+        "Three distinct mülevven colors (pink, olive-green, gold/ochre)",
+        "Battal ebru margins on 2 pages",
+        "Tughra specimen (p010) — unusual in calligraphic album",
+        "Vol. 2 of companion pair with 17679-1"
+      ],
+      "visual_confirmation": "confirmed",
+      "primary_tradition": "ottoman",
+      "workshop_centre": null,
+      "confidence": 0.9,
+      "catalogued_date": "2026-02-28"
+    },
+    {
+      "record_id": "sm_00004",
+      "collection": "Süleymaniye Kütüphanesi — Süleymaniye Murakka Koleksiyonu",
+      "shelfmark": "SM 00004",
+      "title": "Muraqqaʿāt / مرقعات",
+      "author": null,
+      "date_ah": "before AH 1202",
+      "date_ce": "before 1787–88 CE (probably c. 1680–1787)",
+      "decoration_types": [
+        "colored",
+        "marbled",
+        "halkar_margins",
+        "framing_system"
+      ],
+      "paper_categories": [
+        "mülevven",
+        "battal ebru",
+        "halkârî",
+        "altın cedvel"
+      ],
+      "key_features": [
+        "Eight named calligraphers including Hâfız Osmân and İsmâʿîl Zühdî",
+        "Battal ebru side papers (blue-green p017, blue-grey p024) — key finding not in triage",
+        "High-quality halkârî sukufe margin painting on p003 (museum quality)",
+        "Dual-color mülevven: green panels p003 + blue panels p024"
+      ],
+      "visual_confirmation": "confirmed",
+      "primary_tradition": "ottoman",
+      "workshop_centre": "Istanbul",
+      "confidence": 0.95,
+      "catalogued_date": "2026-02-28"
+    },
+    {
+      "record_id": "sm_00007",
+      "collection": "Süleymaniye Kütüphanesi — Süleymaniye Murakka Koleksiyonu",
+      "shelfmark": "SM 00007",
+      "title": "Muraqqaʿāt / مرقعات",
+      "author": null,
+      "date_ah": "before AH 1202",
+      "date_ce": "before 1787–88 CE (18th century probable)",
+      "decoration_types": [
+        "colored",
+        "framing_system",
+        "other"
+      ],
+      "paper_categories": [
+        "mülevven (yeşil + lacivert)",
+        "altın cedvel",
+        "şükûfe nakış"
+      ],
+      "key_features": [
+        "Dual-color mülevven: olive-green central panel + lacivert blue side papers on p008",
+        "Color-integrated compound cetvelli (red + gold + blue) echoing mülevven scheme",
+        "Naturalistic polychrome botanical painting at base of p012 (şükûfe-style, NOT halkârî)",
+        "Huruf meski (letter-exercise) page p008 — calligraphy training album"
+      ],
+      "visual_confirmation": "confirmed",
+      "primary_tradition": "ottoman",
+      "workshop_centre": "Istanbul",
+      "confidence": 0.9,
+      "catalogued_date": "2026-02-28"
+    },
+    {
+      "record_id": "sm_00001",
+      "collection": "Süleymaniye Kütüphanesi — Süleymaniye Murakka Koleksiyonu",
+      "shelfmark": "SM 00001",
+      "title": "Muraqqaʿāt / مرقعات",
+      "author": null,
+      "date_ah": "before AH 1202",
+      "date_ce": "before 1787–88 CE (multi-period: Şeyh Hamdullah component c. 1480s–1515)",
+      "decoration_types": [
+        "colored",
+        "gold_sprinkled",
+        "marbled",
+        "framing_system"
+      ],
+      "paper_categories": [
+        "mülevven",
+        "zerefşân",
+        "battal ebru (possible)",
+        "altın cedvel"
+      ],
+      "key_features": [
+        "Four distinct mülevven colors: pink, orange/saffron, cream, blue/teal",
+        "Dense zerefşân (gold sprinkling) on multiple pages",
+        "Possible battal ebru on p018 (blue-white cloud patterning)",
+        "Şeyh Hamdullah specimens among the earliest calligraphic content"
+      ],
+      "visual_confirmation": "confirmed",
+      "primary_tradition": "ottoman",
+      "workshop_centre": "Istanbul",
+      "confidence": 0.85,
+      "catalogued_date": "2026-02-28"
+    },
+    {
+      "record_id": "sm_00006",
+      "collection": "Süleymaniye Kütüphanesi — Süleymaniye Murakka Koleksiyonu",
+      "shelfmark": "SM 00006",
+      "title": "Muraqqaʿāt / مرقعات",
+      "author": null,
+      "date_ah": "before AH 1202",
+      "date_ce": "before 1787–88 CE (probably c. 1750–1787)",
+      "decoration_types": [
+        "colored",
+        "gold_sprinkled",
+        "illuminated_margins",
+        "framing_system"
+      ],
+      "paper_categories": [
+        "mülevven",
+        "zerefşân",
+        "şükûfe",
+        "altın cedvel"
+      ],
+      "key_features": [
+        "Four-color mülevven: yellow, green, salmon/peach, teal",
+        "Şükûfe (flower painting) corner panels on p003",
+        "Lacquer binding with floral design (cover confirmed)",
+        "İbrâhîm Hatibzâde calligraphy"
+      ],
+      "visual_confirmation": "confirmed",
+      "primary_tradition": "ottoman",
+      "workshop_centre": "Istanbul",
+      "confidence": 0.9,
+      "catalogued_date": "2026-02-28"
+    },
+    {
+      "record_id": "sm_00012",
+      "collection": "Süleymaniye Kütüphanesi — Süleymaniye Murakka Koleksiyonu",
+      "shelfmark": "SM 00012",
+      "title": "Muraqqaʿāt / مرقعات",
+      "author": null,
+      "date_ah": "before AH 1202",
+      "date_ce": "before 1787–88 CE (probably c. 1750–1787)",
+      "decoration_types": [
+        "colored",
+        "gold_sprinkled",
+        "marbled",
+        "illuminated_margins",
+        "framing_system"
+      ],
+      "paper_categories": [
+        "mülevven",
+        "zerefşân",
+        "battal ebru",
+        "altın cedvel"
+      ],
+      "key_features": [
+        "Two-palette battal ebru: warm and cool tones",
+        "Vivid yellow mülevven throughout",
+        "Zerefşân on multiple pages",
+        "Copy from Şeyh Hamdullah (nukile min hatti Şeyh)"
+      ],
+      "visual_confirmation": "confirmed",
+      "primary_tradition": "ottoman",
+      "workshop_centre": "Istanbul",
+      "confidence": 0.9,
+      "catalogued_date": "2026-02-28"
+    },
+    {
+      "record_id": "sm_00013",
+      "collection": "Süleymaniye Kütüphanesi — Süleymaniye Murakka Koleksiyonu",
+      "shelfmark": "SM 00013",
+      "title": "Muraqqaʿāt / مرقعات",
+      "author": null,
+      "date_ah": "before AH 1202",
+      "date_ce": "before 1787–88 CE (possibly 15th–16th c.)",
+      "decoration_types": [
+        "gold_sprinkled",
+        "illuminated_margins",
+        "framing_system"
+      ],
+      "paper_categories": [
+        "zerefşân",
+        "altın cedvel",
+        "serlevha"
+      ],
+      "key_features": [
+        "Elaborate serlevha (headpiece illumination) on p012",
+        "Diagonal striped border system — NOT mülevven (triage corrected)",
+        "Muhammed el-Muhlisî Hamdullah İbnü'ş-Şeyh attribution",
+        "Lacquer binding with central şemse"
+      ],
+      "visual_confirmation": "confirmed",
+      "primary_tradition": "ottoman",
+      "workshop_centre": "Istanbul",
+      "confidence": 0.8,
+      "catalogued_date": "2026-02-28"
+    },
+    {
+      "record_id": "sm_00014",
+      "collection": "Süleymaniye Kütüphanesi — Süleymaniye Murakka Koleksiyonu",
+      "shelfmark": "SM 00014",
+      "title": "Muraqqaʿāt / مرقعات",
+      "author": null,
+      "date_ah": "before AH 1202",
+      "date_ce": "before 1787–88 CE (probable c. 1520–1620)",
+      "decoration_types": [
+        "colored",
+        "framing_system"
+      ],
+      "paper_categories": [
+        "mülevven",
+        "altın cedvel"
+      ],
+      "key_features": [
+        "Smallest SM album: single leaf (2 pages)",
+        "Pink/salmon mülevven margin paper",
+        "İbnü'ş-Şeyh (descendant of Şeyh Hamdullah) — NOT Şeyh Hamdullah himself"
+      ],
+      "visual_confirmation": "confirmed",
+      "primary_tradition": "ottoman",
+      "workshop_centre": "Istanbul",
+      "confidence": 0.8,
+      "catalogued_date": "2026-02-28"
+    },
+    {
+      "record_id": "sm_00015",
+      "collection": "Süleymaniye Kütüphanesi — Süleymaniye Murakka Koleksiyonu",
+      "shelfmark": "SM 00015",
+      "title": "Muraqqaʿāt / مرقعات",
+      "author": null,
+      "date_ah": "before AH 1202",
+      "date_ce": "before 1787–88 CE (content from c. 1520 onward)",
+      "decoration_types": [
+        "colored",
+        "framing_system"
+      ],
+      "paper_categories": [
+        "mülevven",
+        "altın cedvel"
+      ],
+      "key_features": [
+        "Scattered mülevven: green, pink/terra cotta, reddish tones",
+        "Ahmed Karahisârî specimens (d. 963/1556)",
+        "p020 is undecorated meşk (practice sheet) — not paper decoration",
+        "Five named calligraphers across 23 folios"
+      ],
+      "visual_confirmation": "confirmed",
+      "primary_tradition": "ottoman",
+      "workshop_centre": "Istanbul",
+      "confidence": 0.8,
+      "catalogued_date": "2026-02-28"
+    },
+    {
+      "record_id": "hamidiye_00032",
+      "collection": "Süleymaniye Kütüphanesi — Hamidiye Koleksiyonu",
+      "shelfmark": "00032",
+      "title": "Muraqqaʿāt / مرقعات",
+      "author": null,
+      "date_ah": null,
+      "date_ce": null,
+      "decoration_types": [
+        "marbled",
+        "colored",
+        "halkar_margins",
+        "illuminated_margins",
+        "gold_sprinkled",
+        "framing_system"
+      ],
+      "paper_categories": [
+        "battal ebru",
+        "hatip ebru",
+        "mülevven",
+        "halkar/halkârî",
+        "zerefşân",
+        "cetvelli"
+      ],
+      "key_features": [
+        "Dual-ebru-type: battal ebru endpaper (p002) + hatip ebru interleaf (p010)",
+        "Polychrome halkar margins with illuminated cartouches (p016)",
+        "Green mülevven outer border on p016",
+        "Battal ebru in two distinct palettes as margin paper"
+      ],
+      "visual_confirmation": "confirmed",
+      "primary_tradition": "ottoman",
+      "workshop_centre": "Istanbul (probable)",
+      "confidence": 0.95,
+      "catalogued_date": "2026-02-28"
+    },
+    {
+      "record_id": "hamidiye_00033",
+      "collection": "Süleymaniye Kütüphanesi — Hamidiye Koleksiyonu",
+      "shelfmark": "00033",
+      "title": "Muraqqaʿāt / مرقعات",
+      "author": null,
+      "date_ah": "1135",
+      "date_ce": "1722-1723",
+      "decoration_types": [
+        "marbled",
+        "colored",
+        "gold_sprinkled",
+        "illuminated_margins",
+        "framing_system"
+      ],
+      "paper_categories": [
+        "battal ebru",
+        "mülevven",
+        "zerefşân",
+        "cetvelli"
+      ],
+      "key_features": [
+        "Battal ebru cover (pink battal, p002)",
+        "Ottoman tuğra specimens (pp003-004)",
+        "Zerefşân over mülevven confirmed",
+        "Dated AH 1135 — Tulip Era specimen"
+      ],
+      "visual_confirmation": "confirmed",
+      "primary_tradition": "ottoman",
+      "workshop_centre": "Istanbul (probable)",
+      "confidence": 0.92,
+      "catalogued_date": "2026-02-28"
+    },
+    {
+      "record_id": "hamidiye_00035",
+      "collection": "Süleymaniye Kütüphanesi — Hamidiye Koleksiyonu",
+      "shelfmark": "00035",
+      "title": "Muraqqaʿāt / مرقعات",
+      "author": null,
+      "date_ah": null,
+      "date_ce": null,
+      "decoration_types": [
+        "marbled",
+        "halkar_margins",
+        "framing_system"
+      ],
+      "paper_categories": [
+        "hatip ebru",
+        "halkar/halkârî (tahrirli)",
+        "cetvelli"
+      ],
+      "key_features": [
+        "Spectacular hatip ebru cover with large naturalistic leaf/frond motifs",
+        "Consistent tahrirli halkar margins throughout",
+        "Persian taʿlīq calligraphy (Ḥāfiẓ poetry)",
+        "Compact format (230×150mm)"
+      ],
+      "visual_confirmation": "confirmed",
+      "primary_tradition": "ottoman",
+      "workshop_centre": "Istanbul (probable)",
+      "confidence": 0.95,
+      "catalogued_date": "2026-02-28"
+    },
+    {
+      "record_id": "hamidiye_00018",
+      "collection": "Süleymaniye Kütüphanesi — Hamidiye Koleksiyonu",
+      "shelfmark": "00018",
+      "title": "Muraqqaʿāt / مرقعات",
+      "author": null,
+      "date_ah": null,
+      "date_ce": null,
+      "decoration_types": [
+        "marbled",
+        "colored",
+        "gold_sprinkled",
+        "framing_system"
+      ],
+      "paper_categories": [
+        "hatip ebru",
+        "battal ebru (gel-git)",
+        "mülevven",
+        "zerefşân",
+        "cetvelli"
+      ],
+      "key_features": [
+        "Dual-ebru-type: hatip ebru cover + 4-color battal/gel-git endpapers",
+        "Battal ebru also used as margin paper (p010)",
+        "Orange mülevven + possible stenciled motifs (p015)",
+        "Multiple calligraphers (sülüs + nesih + taʿlīq)"
+      ],
+      "visual_confirmation": "confirmed",
+      "primary_tradition": "ottoman",
+      "workshop_centre": "Istanbul (probable)",
+      "confidence": 0.95,
+      "catalogued_date": "2026-02-28"
+    },
+    {
+      "record_id": "galata_mevlevihanesi_00110",
+      "collection": "Süleymaniye Kütüphanesi — Galata Mevlevîhânesi Koleksiyonu",
+      "shelfmark": "00110",
+      "title": "Muraqqaʿāt / مرقعات",
+      "author": null,
+      "date_ah": null,
+      "date_ce": "late 18th–early 19th century",
+      "decoration_types": [
+        "colored",
+        "gold_sprinkled",
+        "illuminated_margins",
+        "framing_system"
+      ],
+      "paper_categories": [
+        "mülevven (5-6 colors)",
+        "zerefşân",
+        "tezhibli serlevha",
+        "cetvelli"
+      ],
+      "key_features": [
+        "One of the richest mülevven programs: 5-6 distinct colors across 8 openings",
+        "Zerefşân throughout (catalogue-confirmed: 'zerefşanlıdır')",
+        "Polychrome illuminated headbands (hatāyī) on every opening",
+        "Mahmud Celaleddin calligraphy (d. 1829)"
+      ],
+      "visual_confirmation": "confirmed",
+      "primary_tradition": "ottoman",
+      "workshop_centre": "Istanbul (probable)",
+      "confidence": 0.95,
+      "catalogued_date": "2026-02-28"
+    },
+    {
+      "record_id": "galata_mevlevihanesi_00112",
+      "collection": "Süleymaniye Kütüphanesi — Galata Mevlevîhânesi Koleksiyonu",
+      "shelfmark": "00112",
+      "title": "Muraqqaʿāt / مرقعات",
+      "author": null,
+      "date_ah": null,
+      "date_ce": null,
+      "decoration_types": [
+        "marbled",
+        "framing_system"
+      ],
+      "paper_categories": [
+        "ebru (binding cover)",
+        "cetvelli"
+      ],
+      "key_features": [
+        "Ebru-covered front binding board (çiçekli/battal subtype uncertain)",
+        "Asymmetric covering (front only; back plain)",
+        "Rare hadis muraqqaʿāsı (hadith calligraphy album)",
+        "Mustafa el-Giridi calligraphy (Cretan-origin)"
+      ],
+      "visual_confirmation": "confirmed",
+      "primary_tradition": "ottoman",
+      "workshop_centre": "Ottoman lands (Istanbul or Crete)",
+      "confidence": 0.92,
+      "catalogued_date": "2026-02-28"
+    },
+    {
+      "record_id": "pertevniyal_00048",
+      "collection": "Süleymaniye Yazma Eser Kütüphanesi — Pertevniyal Koleksiyonu",
+      "shelfmark": "00048",
+      "title": "Muraqqaʿāt / مرقعات",
+      "author": null,
+      "date_ah": "1208",
+      "date_ce": "1793-1794",
+      "decoration_types": [
+        "colored",
+        "gold_sprinkled",
+        "framing_system"
+      ],
+      "paper_categories": [
+        "mülevven (6 colors)",
+        "zerefşân (probable)",
+        "cetvelli"
+      ],
+      "key_features": [
+        "Six-color mülevven program (richest in Pertevniyal sub-group)",
+        "Colors: green, pink, sky blue, lacivert, olive-green, orange/saffron",
+        "Pure mülevven album — no ebru observed",
+        "Largest Pertevniyal album (44 pages); İbrāhīm Ṭāhir AH 1208"
+      ],
+      "visual_confirmation": "confirmed",
+      "primary_tradition": "ottoman",
+      "workshop_centre": "Istanbul (presumed)",
       "confidence": 0.95,
       "catalogued_date": "2026-02-28"
     }

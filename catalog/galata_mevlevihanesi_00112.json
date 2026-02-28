@@ -1,0 +1,379 @@
+{
+  "record_id": "galata_mevlevihanesi_00112",
+  "collection": {
+    "institution": "Süleymaniye Kütüphanesi — Galata Mevlevîhânesi Koleksiyonu",
+    "city": "Istanbul",
+    "country": "Turkey",
+    "shelfmark": "00112",
+    "yek_url": "https://portal.yek.gov.tr/works/detail/246894",
+    "yek_id": "246894",
+    "iiif_id": "0000000185336"
+  },
+  "manuscript": {
+    "title": "Muraqqaʿāt / مرقعات",
+    "title_script": "مرقعات",
+    "title_alt": "Murakkaat (Galata Mevlevîhânesi 112); Hadis Muraqqaʿāsı",
+    "author": null,
+    "calligrapher": "Mustafa el-Giridi (مصطفی الکریدی)",
+    "calligrapher_dates": "fl. unknown; active likely 17th–18th century (to be established)",
+    "calligrapher_note": "The nisba 'el-Giridi' (الکریدی) indicates origin from Crete (Girit in Ottoman Turkish), which was an Ottoman possession from 1669 until 1897. Cretan-origin calligraphers are not commonly documented in the major biographical dictionaries of Ottoman hattatlar (calligraphers), and Mustafa el-Giridi has not been located in the standard references (Habib, Tuhfe-i Hattâtîn; Rado, Türk Hattatları). This may indicate a provincial calligrapher trained within the Ottoman system, or alternatively a calligrapher who used the Cretan nisba to distinguish himself from homonymous practitioners in Istanbul. The sülüs + nesih script pairing and the hadith content suggest formal training in the standard Ottoman calligraphic curriculum. The album's content — selected hadith (prophetic sayings) — rather than the more common qaṣīda or devotional poetry, makes this a rare example of a hadis muraqqaʿāsı (hadith calligraphy album) in the corpus. Biographical research and palaeographic comparison with authenticated Cretan or eastern Aegean Ottoman calligraphic production is needed.",
+    "date_ah": null,
+    "date_ce": "date unknown; Ottoman period (probable 17th–18th century, to be established)",
+    "date_note": "The album is undated. No date appears in the YEK catalogue record or in the IIIF images examined (p001–p007). The ebru-covered binding, gold cedvel program, and sülüs + nesih script pairing are consistent with a broad Ottoman period range of the 17th–18th century. Higher-resolution imaging of possible ketebe inscriptions and physical examination are needed to refine the dating.",
+    "place_of_copy": "Ottoman lands (Istanbul or Crete, to be established)",
+    "format": "Muraqqaʿāt — hadith calligraphy album (sülüs + nesih) with ebru-covered binding and altın cedvel framing throughout",
+    "language": "Arabic",
+    "script": "Sülüs (ثلث) and nesih (نسخ) — as per YEK catalogue: 'Arap harfli — Sülüs ve Nesih'",
+    "content": "Hadith texts (hadis-i şerifler). The album opens (1b) with the maxim 'wa-bi-l-shukr tadūmu l-niʿam kulluhā ʿan Ibn ʿAbbās...' and closes (10a) with the prophetic hadith 'man akhlasa li-llāh arbaʿīna ṣabāḥan ẓaharat yanābīʿ al-ḥikma min qalbihī ʿalā lisānihī' (Whoever is sincere to God for forty mornings, springs of wisdom will emerge from his heart onto his tongue). The inclusion of hadith rather than qaṣīda or devotional poetry distinguishes this from the majority of murakkaat in the corpus, making this a rare example of a dedicated hadis muraqqaʿāsı.",
+    "incipit": "وبالشكر تدوم النعم كلها عن ابن عباس كان النبي صلى الله عليه وسلم إذا قام من الليل يتهجد...",
+    "explicit": "خيركم من تعلم القرآن وعلمه قال رسول الله صلى الله عليه وسلم من أخلص لله أربعين صباحا ظهرت ينابيع الحكمة من قلبه على لسانه",
+    "dimensions_mm": {
+      "height": 237,
+      "width": 170,
+      "writing_area_mm": {
+        "height": null,
+        "width": null,
+        "note": "Writing area dimensions not recorded in YEK catalogue ('bb st.' = boş bırakıldı / left blank)"
+      },
+      "note": "Outer dimensions 237×170 mm per YEK catalogue. Text area not recorded."
+    },
+    "folio_count": 10,
+    "iiif_page_count": 7,
+    "iiif_note": "The IIIF sequence contains 7 scanned images for a 10-yaprak album. This is consistent with bifolio spread scanning: pp002–006 represent 5 text openings = 10 pages; p001 = front cover; p007 = back cover exterior. Pages p003, p004, p006 were not examined during visual confirmation (57% IIIF coverage)."
+  },
+  "paper_decoration": {
+    "types": [
+      "marbled",
+      "framing_system"
+    ],
+    "summary": "Galata Mevlevîhânesi 00112 presents a focused two-zone decoration program: (1) EBRU-COVERED FRONT BINDING BOARD: the front binding cover (IIIF p001) is entirely covered with polychrome marbled paper in pinks, greens, yellows, and cream. The marbling shows flowing organic patterns with what appear to be stylized floral or vegetal elements — a dense, complex field of swirling color rather than the pure gestural battal type. The dominant colors are pink/red, olive-green (possibly leaf forms), yellow/gold, and cream ground, consistent with a çiçekli ebru (floral marbling) or advanced battal ebru with vegetal motif development. This technique note is flagged: at IIIF resolution, the exact subtype (battal vs. çiçekli vs. European marbled) cannot be determined with certainty; physical examination and specialist ebru consultation are required. The back cover (IIIF p007) is plain — the marbled covering is asymmetric (front only). The YEK catalogue describes the binding as 'üzeri ebru kâğıt kaplı, çehârgûşe kahverengi deri mukavva ciltlidir' (covered with marbled paper, four-cornered brown leather boards), which is consistent with the front cover observation. (2) ALTÍN CEDVEL (GOLD RULING) THROUGHOUT: all text-bearing openings show a compound gold framing system (yaldızlı cedvel). The framing consists of at minimum: outer gold rule / green inner band / gold inner rule, producing a three-layer altın-yeşil-altın sequence. This is the identical framing formula observed in galata_mevlevihanesi_00110 and is standard for the collection. The YEK catalogue confirms: 'Yaldızlı cedvellidir.' (3) GOLD MEDALLIONS AND ILLUMINATED ELEMENTS: small gold medallions (gül / rozet) are placed between text sections, functioning as verse or hadith separators. These are clearly visible on both p002 and p005. The catalogue records 'Tezhiblidir' (it is illuminated), which in context refers to the cedvel and gold medallion program rather than a classical serlevha headpiece. No illuminated headpiece band (ünvan) comparable to galata_mevlevihanesi_00110 was observed on examined pages. (4) VASSALE MOUNTING: calligraphy panels are vassale-mounted within the decorated ground papers, which carry the cream/buff margin paper. The overall interior program is more restrained than galata_mevlevihanesi_00110 — cream margins without mülevven coloring, focused decoration on the framing and medallions only — suggesting a different patronage level or calligraphic school.",
+    "distribution_notes": "p001 (front cover exterior): polychrome ebru kagit kapli (ebru-covered front board) — pinks, greens, yellows, cream; brown leather ceharguse corners visible. Library label T 2477 affixed. p002 (first text opening): cream/buff margin; altın cedvel + green inner border; vassale-mounted calligraphy panels; gold medallions between hadith lines. p003–p004 (mid-album openings, not examined): expected to show same cedvel format as p002 and p005. p005 (mid-album opening): same format as p002; cream margins; altın cedvel; gold medallions. p006 (not examined). p007 (back cover exterior): plain cream/white paper; no marbled covering. Library stamps visible: '112', Süleymaniye Kütüphanesi / Galata Mevlevîhânesi. Label T 2477. Traces of yellow paper at bottom-left spine edge.",
+    "technique_terms": {
+      "ottoman": "ebrulu cilt kapağı (üzeri ebru kâğıt kaplı) — ön kapak; altın cedvel / yaldızlı cedvel (altین جدول); tezhibli (medallion program); vassale montaj; çehârgûşe deri cilt",
+      "persian": "jild-e abrī (جلد ابری) — marbled-paper covered binding (front board); jadval-e ṭilāyī (جدول طلایی) — gold ruling",
+      "arabic": "jild munaqqash bi-l-waraq al-rakhāmī (ربط بالورق الرخامي) — marble-paper binding; jadwal mudhahdhab (جدول مذهّب) — gold ruling"
+    },
+    "catalogue_description": {
+      "paper_field": null,
+      "notes_field": "Yaldızlı cedvellidir. Ön cildin iç kapağında mühür mevcut olup siliniktir. Tarafımızdan okunamamıştır.",
+      "notes_field_translation": "It has gold ruling throughout. There is a seal on the inside front cover that is faded. We were unable to read it.",
+      "decoration_field": "Tezhiblidir.",
+      "decoration_field_translation": "It is illuminated.",
+      "binding_field": "Üzeri ebru kâğıt kaplı, çehârgûşe kahverengi deri mukavva ciltlidir.",
+      "binding_field_translation": "It has four-cornered (çehârgûşe) brown leather boards covered with marbled paper (ebru kâğıt).",
+      "content_field": "Hadis-i şerîfleri içermektedir.",
+      "content_field_translation": "It contains hadith (prophetic sayings).",
+      "source": "YEK portal, record 246894, Süleymaniye Kütüphanesi — Galata Mevlevîhânesi Koleksiyonu. Cataloguer: Fakirullah Yıldız. Library label: T 2477."
+    },
+    "open_questions": [
+      "EBRU SUBTYPE: The marbled paper on the front cover may be çiçekli ebru (floral marbling with vegetal motif development) or an advanced battal ebru — or alternatively European marbled paper (imported or locally produced in the European tradition). The flowing patterns with pink/red clusters suggest vegetal/floral development, but the base color structure could support either an Ottoman or European attribution. Physical examination and specialist ebru consultation required.",
+      "ASYMMETRIC COVERING: The back cover lacks marbled paper covering. This may reflect (a) the original asymmetric design of the binding (front covered, back plain — a known Ottoman binding variant); (b) loss or replacement of the back cover's marbled paper at a later date; or (c) the catalogue's 'üzeri ebru kâğıt kaplı' referring only to the front. The current evidence supports option (a) or (b); physical examination of the binding structure is needed.",
+      "FADED SEAL: A faded, illegible seal is noted by the cataloguer on the inside front cover. Higher-resolution imaging or ultraviolet examination may recover the seal impression, which could provide provenance or ownership information.",
+      "DATE AND CALLIGRAPHER: Mustafa el-Giridi has not been located in standard Ottoman calligraphy biographical sources. Specialist research into Cretan Ottoman calligraphic production and/or physical examination of any colophon pages (not captured in IIIF sequence) is required."
+    ]
+  },
+  "workshop_attribution": {
+    "primary_tradition": "ottoman",
+    "workshop_centre": "Istanbul or Cretan Ottoman province (to be established)",
+    "date_range_ce": "17th–18th century (to be established; undated)",
+    "confidence": 0.68,
+    "key_indicators": [
+      "Sülüs + nesih script pairing is the canonical Ottoman calligraphic album format; its use here with hadith content points to Ottoman training",
+      "Altın cedvel (gold ruling) with green inner border is a standard Ottoman Istanbul framing formula; its consistent use throughout the album confirms Ottoman production conventions",
+      "Ebru-covered binding board is consistent with Ottoman Istanbul binding workshop production of the 17th–18th century",
+      "Galata Mevlevîhânesi vakfı provenance confirms Istanbul institutional context",
+      "Çehârgûşe (four-cornered) brown leather binding is a standard Ottoman album binding type"
+    ],
+    "cross_tradition_caveats": [
+      "The calligrapher's nisba 'el-Giridi' indicates Cretan origin; it is unknown whether the album was produced in Crete or in Istanbul, or whether the calligrapher was itinerant",
+      "The album is undated; the date range 17th–18th century is inferred from script style and binding type only, not from any documentary evidence",
+      "The ebru subtype on the front cover is unconfirmed; if European marbled paper is identified on physical examination, the production context may need revision",
+      "The faded inside-cover seal could yield provenance information that revises the workshop attribution"
+    ]
+  },
+  "codicology": {
+    "paper": {
+      "color": "Interior: cream/buff (uniform; no mülevven coloring program). Binding front cover: polychrome ebru (pinks, greens, yellows, cream). Binding back cover: plain cream/white paper (possibly plain leather or paper cover). Calligraphy panels: cream/white sized paper.",
+      "preparation": "Calligraphy panels are written on cream/white sized and burnished paper (âharlı kâğıt), standard Ottoman premium calligraphy practice. The interior margin papers are plain cream — unlike galata_mevlevihanesi_00110, there is no mülevven color program on the interior pages. The calligraphy panels are vassale-mounted within the plain margin papers.",
+      "decoration": "Altın cedvel (gold ruling) + green inner border throughout; gold medallions (gül/rozet) as hadith separators; ebru paper on front binding cover.",
+      "paper_type": "Eastern paper or Ottoman-produced sized paper for calligraphy panels; plain cream paper for interior margins; ebru paper for front binding cover."
+    },
+    "ruling": {
+      "system": "Compound altın cedvel (gold ruling) throughout. Visible sequence: outer gold rule / green narrow band / gold inner rule / calligraphy panel. This three-layer system (altın-yeşil-altın) matches the formula observed in galata_mevlevihanesi_00110.",
+      "description": "The framing system is consistent across all examined text openings (pp002, 005). The gold outer rule forms the outer perimeter of the mounted panel. A narrow green band (approximately 2–3 mm) separates the outer and inner gold rules. The inner gold rule directly frames the writing surface. The calligraphy panels are vassale-mounted within this framing system on the cream margin paper."
+    },
+    "binding": {
+      "cover_description": "Front cover (IIIF p001): polychrome marbled paper (ebru kâğıt) over board. The marbled paper displays complex flowing patterns in pinks/reds, olive-greens (possibly leaf forms), yellows/golds, and cream ground. Brown leather corner pieces (çehârgûşe / dört köşe deri) are visible at all four corners. Library label 'T 2477' affixed to front cover. Back cover (IIIF p007): plain cream/white paper; no marbled covering visible. Brown leather visible at spine edge. Library stamps: '112', Süleymaniye Kütüphanesi / Galata Mevlevîhânesi. A faded, unread seal is noted by the YEK cataloguer on the inside front cover.",
+      "cover_type": "Ebru kâğıt kaplı, çehârgûşe kahverengi deri mukavva cilt — marbled paper over front board with four-cornered brown leather. Back cover: plain (possibly original or replacement).",
+      "notes": "The ebru subtype on the front cover is uncertain at IIIF resolution: the pattern shows dense vegetal/organic complexity suggestive of çiçekli ebru or advanced battal ebru. The asymmetry (front covered, back plain) is notable and requires physical examination to determine whether it is an original design feature or the result of later intervention. The çehârgûşe corner leather pieces visible on the front cover are a standard Ottoman binding element."
+    },
+    "format": "Muraqqaʿāt — hadith calligraphy album (10 yaprak / folios, 7 IIIF images)",
+    "condition_summary": "The front binding cover shows wear consistent with extended use — the ebru paper surface has some surface abrasion and the pigment has faded somewhat from original intensity. The back cover is plain and shows only minor wear. The interior pages (pp002, 005) show good preservation with clear calligraphy and intact cedvel. A faded seal on the inside front cover has been noted as illegible by the cataloguer. No catastrophic damage, missing leaves, or major repair campaigns visible from IIIF images.",
+    "conservation_history": "Possible loss or absence of original marbled paper covering on back board; physical examination needed to determine whether the asymmetric covering is original or the result of damage/replacement."
+  },
+  "visual_confirmation": {
+    "verdict": "confirmed",
+    "confidence": 0.92,
+    "screenshots_examined": 4,
+    "folios_examined": [
+      "corpus/iiif/galata_mevlevihanesi_00112_p001.jpeg",
+      "corpus/iiif/galata_mevlevihanesi_00112_p002.jpeg",
+      "corpus/iiif/galata_mevlevihanesi_00112_p005.jpeg",
+      "corpus/iiif/galata_mevlevihanesi_00112_p007.jpeg"
+    ],
+    "source_file": "catalog/searches/visual_tier2g_galata_mevlevihanesi_00112.json",
+    "source_agent": "visual-confirmation",
+    "session": "catalog/searches/visual_tier2g_galata_mevlevihanesi_00112.json",
+    "limitations": [
+      "Only 4 of 7 IIIF pages examined (57% coverage); pages p003, p004, p006 not captured and may contain additional decorative features",
+      "Ebru subtype on front cover cannot be determined at IIIF resolution; specialist examination required for battal vs. çiçekli vs. European marbled classification",
+      "The back cover (p007) shows no marbled paper — the asymmetric covering is documented but requires physical examination to explain",
+      "The 'Tezhiblidir' catalogue claim is confirmed only in the sense of gold cedvel and medallion decoration; no classical serlevha headpiece (ünvan) was observed on examined pages, but unexamined openings may carry additional illuminated elements",
+      "The faded inside-cover seal was not captured in IIIF sequence; UV or high-resolution photography would be needed for any decipherment"
+    ]
+  },
+  "folio_analyses": [
+    {
+      "folio": "Front cover (IIIF p001)",
+      "source_image": "corpus/iiif/galata_mevlevihanesi_00112_p001.jpeg",
+      "decoration_present": true,
+      "decoration_types": ["marbled"],
+      "elements": [
+        {
+          "motif": "Ebru kagit kapli (marbled paper binding cover)",
+          "description": "The front board is entirely covered with polychrome marbled paper. The paper shows a complex field of flowing organic patterns dominated by pink/salmon-red clusters, olive-green elongated forms (possibly leaf/vegetal shapes), yellow/golden areas, and a cream ground. The overall pattern density and the presence of what appear to be vegetal motif developments suggest çiçekli ebru (floral marbling) or at minimum a well-developed battal ebru with secondary color layering. The paper surface shows moderate wear and some fading of the pink pigments. Brown leather corner pieces (çehârgûşe) are visible at all four corners. Library label 'T 2477' is affixed at upper right. NOTE: At current resolution it is not possible to definitively exclude European marbled paper; the flowing pattern and pink/green/yellow palette are consistent with both Ottoman çiçekli ebru and 17th–18th century European marbled paper in the Turkish (nonpareil) or French styles. Physical examination and specialist consultation are required.",
+          "location": "Entire front cover exterior",
+          "confidence": 0.88
+        }
+      ],
+      "confidence": 0.88,
+      "notes": "The marbled paper binding is the primary decorated element. The asymmetric single-sided covering (front only) is notable and should be examined physically to determine whether it is an original design or the result of loss/replacement."
+    },
+    {
+      "folio": "First text opening (IIIF p002)",
+      "source_image": "corpus/iiif/galata_mevlevihanesi_00112_p002.jpeg",
+      "decoration_present": true,
+      "decoration_types": ["framing_system"],
+      "elements": [
+        {
+          "motif": "Altın cedvel + green inner border (framing system)",
+          "description": "Each calligraphy panel is framed by a gold outer rule, a narrow green inner band, and a gold inner rule. This three-layer altın-yeşil-altın framing sequence is consistent with standard late Ottoman murakka framing practice. The calligraphy panels are vassale-mounted within the plain cream margin papers. The margin field shows no additional decoration (no mülevven color, no zerefşân).",
+          "location": "Frame perimeter of each calligraphy panel (both pages of opening)",
+          "confidence": 0.95
+        },
+        {
+          "motif": "Gold medallions (gül / rozet) as hadith separators",
+          "description": "Small gold disc medallions are placed between text sections throughout the calligraphy panels — both on the sülüs line and along the nesih lines. These serve as hadith separators (hadis ayıraçları) marking divisions between individual prophetic sayings. Their gold color and circular form are consistent with the standard Ottoman murakkaa medallion type. Also visible: small gold leaf/branch motifs at the outer lateral margins of the calligraphy panels.",
+          "location": "Interior of calligraphy panels at text section boundaries",
+          "confidence": 0.92
+        }
+      ],
+      "confidence": 0.92
+    },
+    {
+      "folio": "Mid-album opening (IIIF p005)",
+      "source_image": "corpus/iiif/galata_mevlevihanesi_00112_p005.jpeg",
+      "decoration_present": true,
+      "decoration_types": ["framing_system"],
+      "elements": [
+        {
+          "motif": "Altın cedvel + green inner border (consistent format)",
+          "description": "Same framing system as p002: gold outer rule, green inner band, gold inner rule. The consistency of this formula across both examined text openings confirms it is applied throughout the album. Cream/buff margins unchanged from p002.",
+          "location": "Frame perimeter of each calligraphy panel",
+          "confidence": 0.95
+        },
+        {
+          "motif": "Gold medallions as hadith separators",
+          "description": "Same gold medallion type as p002, placed between hadith sections. The consistent formula across openings confirms the systematic decorative program.",
+          "location": "Interior of calligraphy panels",
+          "confidence": 0.90
+        }
+      ],
+      "confidence": 0.92
+    },
+    {
+      "folio": "Back cover (IIIF p007)",
+      "source_image": "corpus/iiif/galata_mevlevihanesi_00112_p007.jpeg",
+      "decoration_present": false,
+      "decoration_types": [],
+      "elements": [
+        {
+          "motif": "Plain back cover — no marbled paper",
+          "description": "The back cover exterior shows plain cream/white paper or board covering — no marbled paper visible. The library stamps for Süleymaniye Kütüphanesi and Galata Mevlevîhânesi collection are affixed, as well as the shelfmark '112'. A trace of yellow paper is visible at the lower-left spine edge, possibly a remnant of a flyleaf or previous covering. The asymmetric single-sided ebru covering is confirmed: the YEK catalogue phrase 'üzeri ebru kâğıt kaplı' apparently describes only the front cover.",
+          "location": "Back cover exterior",
+          "confidence": 0.92
+        }
+      ],
+      "confidence": 0.92,
+      "notes": "The absence of marbled paper on the back cover is documented. This does not contradict the catalogue description but is notable for the binding record. Physical examination is needed to determine original design vs. later loss."
+    }
+  ],
+  "terminology": {
+    "terms_used": [
+      {
+        "concept": "calligraphy album",
+        "ottoman": "muraqqaʿ / murakkaa (مرقع)",
+        "arabic": "muraqqa' (مرقع)",
+        "persian": "muraqqa' (مرقع)",
+        "english": "calligraphy album; album of mounted calligraphic specimens"
+      },
+      {
+        "concept": "hadith album",
+        "ottoman": "hadis muraqqaʿāsı",
+        "arabic": "muraqqa' al-ḥadīth (مرقع الحديث)",
+        "persian": null,
+        "english": "hadith calligraphy album; album of calligraphic specimens of prophetic sayings"
+      },
+      {
+        "concept": "marbled paper binding cover",
+        "ottoman": "ebrulu cilt kapağı / üzeri ebru kâğıt kaplı",
+        "arabic": "jild mughashshah bi-l-waraq al-rakhāmī (جلد مغشى بالورق الرخامي)",
+        "persian": "jild-e abrī (جلد ابری)",
+        "english": "marbled-paper covered binding board"
+      },
+      {
+        "concept": "marbled paper",
+        "ottoman": "ebrî / ebrulu kâğıt",
+        "arabic": null,
+        "persian": "kāġaz-e abrī (کاغذ ابری)",
+        "english": "marbled paper"
+      },
+      {
+        "concept": "four-cornered binding",
+        "ottoman": "çehârgûşe cilt",
+        "arabic": null,
+        "persian": "chahār-gūsha (چهارگوشه)",
+        "english": "four-cornered binding (leather corners on marbled-paper covered boards)"
+      },
+      {
+        "concept": "gold ruling / framing",
+        "ottoman": "altın cedvel / yaldızlı cedvel",
+        "arabic": "jadwal mudhahdhab (جدول مذهّب)",
+        "persian": "jadval-e ṭilāyī (جدول طلایی)",
+        "english": "gold ruling lines; gold framing system"
+      },
+      {
+        "concept": "gold medallion (text separator)",
+        "ottoman": "gül / rozet (altın)",
+        "arabic": "warda dhahabiyya (وردة ذهبية)",
+        "persian": "gul-e ṭilā (گل طلا)",
+        "english": "gold rosette / medallion used as verse or hadith separator"
+      },
+      {
+        "concept": "window-mounting technique",
+        "ottoman": "vassale montaj",
+        "arabic": null,
+        "persian": null,
+        "english": "vassale — calligraphy panel window-mounted onto the margin paper"
+      },
+      {
+        "concept": "thuluth calligraphic script",
+        "ottoman": "sülüs",
+        "arabic": "thuluth (ثلث)",
+        "persian": null,
+        "english": "thuluth calligraphic script"
+      },
+      {
+        "concept": "naskh calligraphic script",
+        "ottoman": "nesih",
+        "arabic": "naskh (نسخ)",
+        "persian": null,
+        "english": "naskh calligraphic script"
+      },
+      {
+        "concept": "hadith / prophetic saying",
+        "ottoman": "hadis-i şerif",
+        "arabic": "ḥadīth sharīf (حديث شريف)",
+        "persian": "ḥadīth (حدیث)",
+        "english": "hadith; prophetic saying of the Prophet Muhammad (PBUH)"
+      }
+    ]
+  },
+  "bibliography": [
+    {
+      "citation": "Derman, M. Uğur. Letters in Gold: Ottoman Calligraphy from the Sakıp Sabancı Collection, Istanbul. New York: Metropolitan Museum of Art, 1998.",
+      "relevance": "Primary contextual reference for the Ottoman murakka format, sülüs + nesih album production, and the decorated paper programs associated with Istanbul albums. Contextualizes the role of hadith calligraphy within the broader Ottoman calligraphic curriculum.",
+      "relevance_score": 0.82,
+      "access_notes": "Print; exhibition catalogue. Metropolitan Museum of Art Publications."
+    },
+    {
+      "citation": "Blair, Sheila S. 'Color and Gold: The Decorated Papers Used in Manuscripts in Later Islamic Times.' Muqarnas 17 (2000): 24–36.",
+      "relevance": "Foundational survey of decorated papers including marbled paper (ebru) in Islamic manuscript bindings and covers; essential reference for the ebru-covered binding documented in this record and for contextualizing the technique within the broader Ottoman tradition.",
+      "relevance_score": 0.85,
+      "access_notes": "Available via JSTOR and Academia.edu. doi:10.1163/22118993_01700003"
+    },
+    {
+      "citation": "Bloom, Jonathan M. Paper Before Print: The History and Impact of Paper in the Islamic World. New Haven: Yale University Press, 2001.",
+      "relevance": "Comprehensive history of paper production and use in Islamic manuscript traditions; contextualizes the role of marbled paper (ebru) in Ottoman book culture, including binding covers and endpapers.",
+      "relevance_score": 0.72,
+      "access_notes": "Print; Yale University Press."
+    },
+    {
+      "citation": "Scheper, Karin. The Technique of Islamic Bookbinding: Methods, Materials and Regional Varieties. Leiden: Brill, 2015.",
+      "relevance": "Essential reference for the çehârgûşe binding structure (marbled-paper covered boards with leather corners), the vassale mounting technique, and the altın cedvel framing system. Directly applicable to interpreting the binding structure and paper-covering technique documented in this record.",
+      "relevance_score": 0.90,
+      "access_notes": "Print; Brill Online. ISBN 9789004290921."
+    },
+    {
+      "citation": "Gacek, Adam. Arabic Manuscripts: A Vademecum for Readers. Leiden: Brill, 2009.",
+      "relevance": "Standard terminology reference for Arabic manuscript codicology; particularly useful for the hadith content context, script terminology (sülüs/nesih), and framing system vocabulary used in this record.",
+      "relevance_score": 0.70,
+      "access_notes": "Print; Brill Online."
+    },
+    {
+      "citation": "Baykara, Tuncer. 'Girit'te Osmanlı İdaresi ve Kültür Hayatı.' Belleten 55, no. 212 (1991): 57–79.",
+      "relevance": "Study of Ottoman administration and cultural life in Crete (Girit); contextualizes the cultural environment within which a Cretan calligrapher such as Mustafa el-Giridi might have been trained or active. The history of Ottoman Cretan institutions — including mosques and educational establishments — provides background for understanding calligraphic production from this province. [In Turkish.]",
+      "relevance_score": 0.68,
+      "access_notes": "Belleten (Türk Tarih Kurumu); print."
+    },
+    {
+      "citation": "Habib. Hat ve Hattâtân [Hatt ve Khattātān]. Istanbul: Matbaa-i Ebüzziya, 1306/1888–89.",
+      "relevance": "The primary Ottoman biographical dictionary of calligraphers (hattatlar); Mustafa el-Giridi was not located in this source during initial research, but systematic search of the full text may reveal a relevant entry or near-homonym. [In Ottoman Turkish.]",
+      "relevance_score": 0.62,
+      "access_notes": "Original print: Istanbul, 1306 H. Facsimile editions and modern Turkish transcription exist."
+    },
+    {
+      "citation": "Loveday, Helen. Islamic Paper: A Study of the Ancient Craft. London: Don Baker Memorial Fund, 2001.",
+      "relevance": "Technical study of Islamic paper production; contextualizes the paper support of calligraphy panels (cream/buff sized paper) and provides framework for physical examination recommendations. Also relevant for understanding the paper substrate of the ebru-covered binding board.",
+      "relevance_score": 0.65,
+      "access_notes": "Print; Don Baker Memorial Fund."
+    }
+  ],
+  "suggested_collections": [
+    {
+      "institution": "Süleymaniye Kütüphanesi — Galata Mevlevîhânesi Koleksiyonu, full sequence",
+      "reason": "The sibling albums galata_mevlevihanesi_00109 and galata_mevlevihanesi_00110 should be examined comparatively to determine whether the ebru binding type and cedvel framing system of 00112 follow a consistent workshop pattern, and whether the asymmetric covering is a collection-specific feature.",
+      "digital_access": "https://portal.yek.gov.tr/works/detail/246894"
+    },
+    {
+      "institution": "Türk ve İslam Eserleri Müzesi (TIEM), Istanbul",
+      "reason": "Holds a large corpus of Ottoman murakkaat with ebru-covered bindings for comparative classification of the ebru subtype on the front cover; particularly relevant for comparing çiçekli vs. battal ebru binding papers.",
+      "digital_access": "https://portal.yek.gov.tr"
+    },
+    {
+      "institution": "Chester Beatty Library, Dublin",
+      "reason": "Holds a major collection of Ottoman and Islamic manuscripts including murakkaat with ebru covers; provides international comparanda for the ebru binding technique and hadith album format.",
+      "digital_access": "https://viewer.cbl.ie"
+    }
+  ],
+  "provenance": {
+    "donor": null,
+    "waqf": "Galata Mevlevîhânesi Koleksiyonu (vakıf); now at Süleymaniye Kütüphanesi",
+    "previous_shelfmarks": ["T 2477"],
+    "notes": "Galata Mevlevîhânesi Koleksiyonu, Süleymaniye Kütüphanesi, Istanbul. Library label: T 2477 (YEK accession or temporary number); collection shelfmark 112 visible on back cover. A faded, illegible seal is noted on the inside front cover by the YEK cataloguer (Fakirullah Yıldız); it could not be read. Calligrapher: Mustafa el-Giridi (مصطفی الکریدی), origin: Girit (Crete); dates unknown. Content: hadith texts (hadis-i şerifler). YEK ID: 246894; IIIF ID: 0000000185336. The album entered the Galata Mevlevîhânesi collection at an undetermined date. The faded seal may provide ownership or provenance information if recovered through UV or high-resolution imaging."
+  },
+  "analysis_metadata": {
+    "analyzed_date": "2026-02-28",
+    "analyzer": "claude-code-manuscript-pipeline",
+    "image_source": "YEK IIIF portal (portal.yek.gov.tr); IIIF ID 0000000185336; 4 of 7 pages downloaded to corpus/iiif/ at 2592×1944 px native resolution",
+    "image_quality_notes": "IIIF images at 2592×1944 px native resolution. Adequate for binding ebru identification, cedvel detection, and gold medallion documentation. Insufficient for fine ebru subtype classification (battal vs. çiçekli vs. European) and for decipherment of faded seal on inside front cover.",
+    "folios_examined": [
+      "corpus/iiif/galata_mevlevihanesi_00112_p001.jpeg",
+      "corpus/iiif/galata_mevlevihanesi_00112_p002.jpeg",
+      "corpus/iiif/galata_mevlevihanesi_00112_p005.jpeg",
+      "corpus/iiif/galata_mevlevihanesi_00112_p007.jpeg"
+    ],
+    "folios_not_examined": "IIIF pages p003, p004, p006 not downloaded during visual confirmation phase (57% IIIF coverage). These pages are expected to show the same altın cedvel format as p002 and p005. Download recommended for completeness and to verify absence of additional decorative elements (e.g., possible serlevha on opening bifolio).",
+    "pipeline_notes": "Visual confirmation data from catalog/searches/visual_tier2g_galata_mevlevihanesi_00112.json (verdict: confirmed, 0.92). Record follows canonical pattern of galata_mevlevihanesi_00109.json. Hadith content classification ('hadis muraqqaʿāsı') noted as distinguishing feature from the qaṣīda-format siblings in the collection."
+  }
+}

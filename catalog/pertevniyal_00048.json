@@ -1,0 +1,754 @@
+{
+  "record_id": "pertevniyal_00048",
+  "collection": {
+    "institution": "Süleymaniye Yazma Eser Kütüphanesi — Pertevniyal Koleksiyonu",
+    "city": "Istanbul",
+    "country": "Turkey",
+    "shelfmark": "00048",
+    "yek_url": "https://portal.yek.gov.tr/works/detail/320123",
+    "yek_id": "320123",
+    "iiif_id": "0000000361867"
+  },
+  "manuscript": {
+    "title": "Muraqqaʿāt / مرقعات",
+    "title_script": "مرقعات",
+    "title_alt": "Hat Meşki — Muraqqaʿāt-i İbrāhīm Ṭāhir",
+    "author": null,
+    "author_dates": null,
+    "calligrapher": "İbrāhīm Ṭāhir (ابراهیم طاهر)",
+    "calligrapher_dates": "active late 12th century AH / late 18th century CE",
+    "calligrapher_note": "İbrāhīm Ṭāhir (ابراهیم طاهر) is identified as the müstensih (copyist/calligrapher) in the YEK catalogue record for this album (AH 1208/1793–94). No further biographical information has been located for this calligrapher in the standard Ottoman calligraphic registers (e.g., Müstakimzade's Tuhfe-i Hattatin or Rado's Türk Hattatları). The name Ibrahim Tahir is attested in late 18th century Istanbul calligraphic circles, but without a confirming ketebe transcription or comparative palaeographic study it is not possible to identify him with any named master. The date AH 1208/1793–94 places him firmly in the late Ottoman period, within the generation following Ismaʿil al-Zuhdī (d. 1221/1806) and contemporaneous with the final generation before Mustafa Râkım's reform of the nesih and sülüs hands. The album's content (hat meşki — calligraphic exercises in nesih with Arabic letter combinations and hadith texts) is consistent with the production of a practice or teaching album rather than a luxury presentation copy. The colophon or ketebe record requires higher resolution examination or physical inspection to transcribe fully.",
+    "date_ah": "1208",
+    "date_ce": "1793–1794",
+    "date_note": "The YEK catalogue records the date as AH 1208, corresponding to 1793–94 CE. This is the most precisely dated album in the Pertevniyal murakkaʿ sub-group (cf. pertevniyal_00049, undated; pertevniyal_00050, terminus ante quem 1806 only). AH 1208 falls in the reign of Sultan Selim III (r. 1789–1807), whose court at Istanbul was a center of late Ottoman calligraphic activity. The date is accepted as given; no grounds for cross-dating discrepancy have been identified.",
+    "place_of_copy": "Istanbul (presumed)",
+    "place_of_copy_note": "No explicit place of copying is recorded. The polychrome mulevven album format with gold cedvel framing and vassale calligraphy mounting, combined with the use of six distinct mulevven paper colors in a coordinated program, is characteristic of high-quality Istanbul production. The Pertevniyal Sultan collection provenance further supports Istanbul origin.",
+    "format": "Muraqqaʿāt (مرقعات) — Ottoman hat meşki calligraphic exercise album with six-color mulevven margin paper program throughout",
+    "format_note": "A bound Ottoman calligraphic album (muraqqaʿāt) of 44 pages (42 yaprak per YEK, plus covers), containing kıtʿa (calligraphic specimen sheets) in nesih (naskh) script with Arabic letter combinations (huruf meşki) and hadith texts. This is the LARGEST album in the Pertevniyal murakkaʿ sub-group (Pertevniyal 00048–00050) and the richest in its color program: at minimum six distinct mulevven (uniformly colored) paper colors have been identified across the thirteen examined text pages. Every examined text page (12 of 12) carries mulevven margin paper with gold cedvel framing and vassale-mounted calligraphy panel — confirming this as a fully mulevven album with no undecorated text pages observed in the sample. The album's content (hat meşki — letter exercises and hadith) is unusual in the context of a luxury mulevven decorative program, suggesting either a high-status teaching album or a commission from a calligraphic atelier. Small round medallion dividers (daire işaret) between text sections have been noted on several pages.",
+    "language": "Arabic",
+    "script": "Nesih (نسخ / Naskh) — per YEK catalogue: 'Arap harfli — Nesih'",
+    "script_note": "The script throughout is nesih (naskh), the standard Ottoman hand for Quran copying and religious text. The calligraphy panels show Arabic letter combinations (huruf meşki: combinations of individual letters as calligraphic exercises) and hadith texts (prophetic sayings). The nesih hand is consistent with late 18th century Ottoman calligraphic practice. No sülüs headline pairing is observed on examined pages — this album is nesih throughout, unlike the sülüs-nesih paired format of pertevniyal_00049 and pertevniyal_00050.",
+    "dimensions_mm": {
+      "height": 272,
+      "width": 198,
+      "writing_area_mm": {
+        "height": 207,
+        "width": 114
+      },
+      "note": "Outer dimensions 272×198 mm; text area 207×114 mm per YEK catalogue ('272x198-207x114 mm, 42 yk., muhtelif st.'). 'Muhtelif st.' (muhtelif satır = various line counts) confirms variable line layouts across the album's kıtʿa. The page dimensions (272×198 mm) are the largest in the Pertevniyal murakkaʿ sub-group: cf. pertevniyal_00049 (dimensions unrecorded) and pertevniyal_00050 (237×145 mm)."
+    },
+    "folio_count": 42,
+    "folio_count_note": "YEK records '42 yk.' (yaprak = leaves, i.e. folios). Total pages 44 (42 text leaves = 84 pages, but the YEK count likely refers to 44 sequential page images including front and back covers, making 42 interior pages). The IIIF sequence runs to p044. All examined IIIF pages are single-page images (recto only), consistent with a single-leaf album format rather than a bifolio codex.",
+    "notes": "Pertevniyal 00048 is the largest and most color-diverse mulevven album in the Pertevniyal murakkaʿ sub-group (00048–00050) and among the richest mulevven murakkaʿ albums in the project corpus. Six distinct mulevven colors have been confirmed across 12 of 12 examined text pages: green (pp002–003), pink/rose (p004), sky blue (pp006, 020), lacivert/navy blue (p035), olive-green/sage (pp010, 015, 030), and orange/saffron (pp025, 040, 044). Every examined page shows gold cedvel (ruling) framing and vassale-mounted calligraphy panels, confirming this as a systematically decorated album. The album is dated AH 1208/1793–94 by its copyist İbrāhīm Ṭāhir — the only precisely dated album in the Pertevniyal sub-group. Fine surface speckles on pp004, 025, and 044 are consistent with zerefşân (gold sprinkling), though resolution limits confirmation. No marbled paper (ebru) is observed on any examined page: this is a PURE mulevven album. A triage prediction of only three colors (pink, gold, green) was significantly revised by visual confirmation: the actual program is at minimum six colors, making this one of the chromatic high points of the Ottoman mulevven album tradition. The library stamp 'Pertevniyal 48' is visible on p002. The YEK record was catalogued by Mücahide Engin under Dewey class 700 (Sanatlar, güzel ve dekoratif sanatlar)."
+  },
+  "paper_decoration": {
+    "types": [
+      "colored",
+      "gold_sprinkled",
+      "framing_system"
+    ],
+    "summary": "Pertevniyal 00048 presents a six-color mulevven (uniformly colored paper) program across all examined text pages of a 44-page Ottoman calligraphic exercise album (hat meşki). The color palette documented across 12 examined text pages (pp002–044) comprises: (1) GREEN (yeşil): pp002–003 — vivid bright green filling the full margin around the vassale-mounted calligraphy panel; (2) PINK/ROSE (pembe/gül): p004 — deep saturated pink/rose ground; fine surface speckles visible, consistent with probable zerefşân (gold sprinkling), though resolution is borderline; (3) SKY BLUE (mavi): pp006, 020 — clear bright blue margin; p020 shows more pronounced foxing/age spots; (4) OLIVE-GREEN/SAGE (zeytin yeşili): pp010, 015, 030 — warm olive-gold tone, distinctly different from the bright green of pp002–003, with a muted sage character on p015; (5) ORANGE/SAFFRON (turuncu/safran): pp025, 040, 044 — warm saffron-orange margins; dark speckles on pp025 and 044 may be zerefşân residue or age-related foxing; and (6) LACIVERT/NAVY BLUE: p035 — darker, deeper blue than pp006/020, closer to lapis/navy, representing the most saturated blue tone in the album. Every examined text page carries: (a) gold cedvel (ruling frame) with multi-line system (gold + dark lines); and (b) calligraphy panels vassale-mounted (window-cut) onto the colored margin paper with the cream writing surface clearly visible against the colored ground. Small round medallion dividers (daire işaret) appear between text sections on several pages (pp015, 020). NO marbled paper (ebru) was observed on any examined page: the album employs exclusively mulevven papers. The album is the largest (44 pages) and most chromatically diverse of the three Pertevniyal murakkaʿ albums (cf. pertevniyal_00049: at minimum 7–9 colors but confirmed zerefşân on lacivert; pertevniyal_00050: 2 mulevven + battal ebru mixed). Probable zerefşân on pp004, 025, and 044 requires higher resolution imaging or physical examination to confirm.",
+    "distribution_notes": "p001: Front binding cover — red/crimson leather with gold-ruled border; library stamp. p002: GREEN mulevven (yeşil). p003: GREEN mulevven (yeşil) — same opening as p002. p004: PINK/ROSE mulevven (pembe/gül) — probable zerefşân speckles. p005: Not examined in sample. p006: SKY BLUE mulevven (mavi). pp007–009: Not examined. p010: OLIVE-GREEN mulevven (zeytin yeşili / altın zeytinî). pp011–014: Not examined. p015: OLIVE-GREEN/SAGE mulevven (zeytin yeşili / adaçayı tonu). pp016–019: Not examined. p020: SKY BLUE mulevven (mavi) — age spots/foxing visible. pp021–024: Not examined. p025: ORANGE/SAFFRON mulevven (turuncu/safran) — possible zerefşân or foxing speckles. pp026–029: Not examined. p030: OLIVE-GREEN mulevven (zeytin yeşili). pp031–034: Not examined. p035: LACIVERT/NAVY BLUE mulevven (lacivert/koyu mavi). pp036–039: Not examined. p040: ORANGE/SAFFRON mulevven (turuncu/safran). pp041–043: Not examined. p044: ORANGE mulevven (turuncu) — slightly faded; visible speckles on calligraphy panel. Gold cedvel framing and vassale mounting: all 12 examined text pages confirmed.",
+    "technique_terms": {
+      "ottoman": "mülevven kâğıt (altı renk: yeşil, pembe/gül, mavi, lacivert, zeytin yeşili, turuncu/safran); altın cetvel; vassale yöntemiyle monte edilmiş hat paneli; daire işaret (bölüm ayraç madalyonu); zerefşân (muhtemelen, pp004/025/044)",
+      "persian": "mulavvan (ملوّن) — colored paper; jadval-e tala (جدول طلا) — gold ruling; ṣaḥīfa-ye mulavvan (صحیفه ملوّن) — colored leaf; zarafshān (زر افشان) — gold-sprinkled (probable)",
+      "arabic": "waraq mulauwwan (ورق ملوّن) — colored paper (six colors: akhḍar / wardi / azraq samāwī / azraq ghamiq / zaytūnī / burhānī); jadwal mudhahhhab (جدول مذهّب) — gold-ruled frame; dhahab marshūsh (ذهب مرشوش) — gold-sprinkled (probable)"
+    },
+    "catalogue_description": {
+      "paper_field": null,
+      "paper_field_normalized": null,
+      "paper_field_translation": null,
+      "notes_field": "Murakka'at (700 / Sanatlar, güzel ve dekoratif sanatlar). 42 yk., muhtelif st. 272x198-207x114 mm. Arap harfli-Nesih. AH 1208. Müstensih İbrahim Tâhir.",
+      "notes_field_normalized": "42 yk., muhtelif st., 272x198-207x114 mm, Arap harfli-Nesih, AH 1208, Müstensih İbrahim Tâhir",
+      "notes_field_translation": "42 leaves, various line counts, 272×198 mm (page) – 207×114 mm (text area), Arabic script, Naskh, AH 1208 (1793–94 CE), Copyist Ibrahim Tahir",
+      "decoration_field": null,
+      "source": "YEK portal, record 320123, Süleymaniye Yazma Eser Kütüphanesi — Pertevniyal Koleksiyonu. Catalogued by Mücahide Engin. The YEK record does not carry a dedicated kâğıt özellikleri or tezhip/minyatür decoration field. All paper decoration observations derive from visual examination of 13 IIIF images (IIIF ID 0000000361867, pp001–044 sampled) and the visual confirmation session (catalog/searches/visual_tier2g_pertevniyal_00048.json)."
+    }
+  },
+  "workshop_attribution": {
+    "primary_tradition": "ottoman",
+    "workshop_centre": "Istanbul",
+    "date_range_ce": "1793–1794 (AH 1208, dated)",
+    "confidence": 0.90,
+    "key_indicators": [
+      "Explicit date AH 1208/1793–94 in YEK catalogue, confirmed by müstensih attribution to İbrāhīm Ṭāhir — the most precisely dated album in the Pertevniyal murakkaʿ sub-group",
+      "Six-color mulevven paper program with gold cedvel framing and vassale mounting throughout 44 pages is characteristic of late Ottoman Istanbul luxury calligraphic album production of the late 18th century",
+      "The nesih script (hat meşki — calligraphic exercises) is consistent with Istanbul calligraphic ateliers of the Selim III period (r. 1789–1807)",
+      "The Pertevniyal Sultan collection provenance at Süleymaniye Kütüphanesi confirms a high-status Istanbul context — likely a court-adjacent commission",
+      "The color palette and formatting closely parallels pertevniyal_00049 (7–9-color mulevven, Istanbul, c. 1695–1725) and pertevniyal_00050 (mulevven + battal ebru, Istanbul, c. 1775–1806), confirming a sustained Istanbul mulevven murakkaʿ production tradition in the Pertevniyal collection"
+    ],
+    "cross_tradition_caveats": [
+      "The specific paper workshop supplying the six mulevven color papers cannot be identified without physical or documentary evidence",
+      "İbrāhīm Ṭāhir has not been identified in standard Ottoman calligraphic registers; a biographical profile cannot be established from current evidence",
+      "The probable zerefşân on pp004/025/044 has not been confirmed at physical examination level; the speckles may represent age-related foxing or paper inclusions rather than applied gold"
+    ]
+  },
+  "codicology": {
+    "paper": {
+      "color": "Margin papers: six confirmed mulevven (uniformly colored) grounds: (1) vivid bright green (pp002–003); (2) deep pink/rose — probable zerefşân speckles (p004); (3) sky blue (pp006, 020); (4) olive-green/warm sage (pp010, 015, 030); (5) orange/saffron — possible speckles (pp025, 040, 044); (6) lacivert/navy blue (p035). Calligraphy panels throughout: cream/off-white burnished âharlı (sized) paper. 31 pages not yet examined; additional colors may be present.",
+      "preparation": "Calligraphy panels are written on burnished, sized (âharlı) cream paper consistent with late Ottoman calligraphic practice. Margin papers are separately produced mulevven (solid-dyed) colored sheets onto which the calligraphy panels are window-mounted by the vassale technique. The six mulevven colors are uniformly dyed grounds without textural patterning — no marbling or stenciling observed. Probable zerefşân (gold sprinkling) on the pink/rose (p004), orange/saffron (pp025, 044) pages requires physical confirmation at higher resolution; the speckles are consistent with brush-flicked gold particles (fırça zerefşanı) but could alternatively represent paper inclusions or age spots.",
+      "weight": "Indeterminate from IIIF images. Standard late Ottoman album-format paper weight expected.",
+      "decoration": "Six-color mulevven margin papers; gold cedvel (multi-line ruling frame); vassale window-mounted calligraphy panels; probable zerefşân on at least three pages; small round medallion dividers (daire işaret).",
+      "paper_type": "Eastern/Oriental paper for calligraphy panels (cream âharlı); locally produced solid-dyed mulevven papers for margins (six distinct colors)."
+    },
+    "ruling": {
+      "system": "Gold cedvel (altın cetvel) framing system throughout all text pages. Multi-line system with gold + dark (black or blue) rules. The gold outer rule is consistently visible against the colored margin ground on all examined pages.",
+      "description": "Each text page carries a multi-line gold cedvel surrounding the vassale-mounted calligraphy panel. The system comprises at minimum two lines: a gold outer rule and a dark inner rule, with variations across pages. On p002 (green ground), a clearly visible multi-line gold + dark frame separates the margin from the panel. On pp006 and p020 (sky blue), the gold cetvel is clearly visible against the blue ground. On p035 (lacivert/navy), the gold cetvel stands in high contrast against the dark ground. Small round medallion dividers (daire işaret) appear between text sections on pp015, 020, and possibly other pages. No illuminated corner pieces (koltuk tezhibi) observed on any page."
+    },
+    "binding": {
+      "cover_description": "p001: Front binding cover — red/crimson leather with gold-ruled border (cedvel). The surface is worn with scratches and abrasion. A Türkiye Yazma Eserler Kurumu Başkanlığı institutional stamp occupies the center; a library stamp is visible top-left. The back cover (p044 reverse or following page) was not examined in the sampled IIIF sequence. The red/crimson leather binding is distinct from the green binding of pertevniyal_00049 and is unrelated to the decorated paper program.",
+      "cover_type": "Red/crimson leather with gold-ruled border — binding material assessed as leather",
+      "notes": "The red leather binding with gold ruling is consistent with late Ottoman utilitarian album bindings of the late 18th century. No flap (mıklep) or elaborate central medallion (şemse) is visible on the front cover in the available image. Physical examination required for full binding assessment. Library stamp 'Pertevniyal 48' is visible on p002 (recto of first text page)."
+    },
+    "format": "Muraqqaʿāt (مرقعات) — Ottoman calligraphic exercise album (hat meşki) with six-color mulevven program throughout",
+    "condition_summary": "The album is generally well preserved. All 12 examined text pages show mulevven margins in vivid, legible condition with clear color saturation. The red/crimson binding cover (p001) shows surface wear (scratches, abrasion). Minor foxing visible on pp020 and 040. The calligraphy panels are legible at IIIF resolution throughout. No catastrophic damage, missing leaves, or major repair campaigns are visible in the examined pages. YEK digital watermark overlay present on all interior pages reduces fine detail readability.",
+    "conservation_history": null
+  },
+  "visual_confirmation": {
+    "verdict": "confirmed",
+    "confidence": 0.95,
+    "screenshots_examined": 13,
+    "folios_examined": [
+      "corpus/iiif/pertevniyal_00048_p001.jpg",
+      "corpus/iiif/pertevniyal_00048_p002.jpg",
+      "corpus/iiif/pertevniyal_00048_p003.jpg",
+      "corpus/iiif/pertevniyal_00048_p004.jpg",
+      "corpus/iiif/pertevniyal_00048_p006.jpg",
+      "corpus/iiif/pertevniyal_00048_p010.jpg",
+      "corpus/iiif/pertevniyal_00048_p015.jpg",
+      "corpus/iiif/pertevniyal_00048_p020.jpg",
+      "corpus/iiif/pertevniyal_00048_p025.jpg",
+      "corpus/iiif/pertevniyal_00048_p030.jpg",
+      "corpus/iiif/pertevniyal_00048_p035.jpg",
+      "corpus/iiif/pertevniyal_00048_p040.jpg",
+      "corpus/iiif/pertevniyal_00048_p044.jpg"
+    ],
+    "visual_evidence": "Six distinct mulevven colors confirmed across 12 text pages: green (pp002–003), pink/rose (p004), sky blue (pp006, 020), olive-green/sage (pp010, 015, 030), orange/saffron (pp025, 040, 044), lacivert/navy blue (p035). Gold cedvel framing confirmed on all 12 text pages. Vassale mounting confirmed on all 12 text pages. Probable zerefşân speckles on pp004, 025, 044 — borderline resolution. No ebru detected on any page. Triage prediction of three colors (pink, gold, green) significantly revised: actual program is six colors, substantially richer. Library stamp 'Pertevniyal 48' on p002 confirms identity.",
+    "triage_corrections": [
+      "Triage predicted 'pink, gold, green' mulevven colors. ACTUAL: six colors confirmed (green, pink/rose, sky blue, lacivert, olive-green, orange/saffron) — substantially richer than predicted.",
+      "No ebru (marbling) detected despite album format. Pure mulevven album.",
+      "Album size (44 pages) confirmed as largest in Pertevniyal murakkaʿ sub-group (00048–00050)."
+    ],
+    "per_type_verdicts": [
+      {
+        "decoration_type": "colored (mulevven)",
+        "verdict": "confirmed",
+        "confidence": 0.97,
+        "notes": "Six distinct mulevven colors confirmed across 12 of 12 examined text pages. Color saturation unambiguous at IIIF resolution. Every text page in the sample carries mulevven paper."
+      },
+      {
+        "decoration_type": "framing_system (gold cedvel)",
+        "verdict": "confirmed",
+        "confidence": 0.98,
+        "notes": "Multi-line gold cedvel confirmed on all 12 examined text pages. Gold outer rule clearly visible against all six mulevven ground colors."
+      },
+      {
+        "decoration_type": "vassale mounting",
+        "verdict": "confirmed",
+        "confidence": 0.97,
+        "notes": "Calligraphy panels window-mounted onto colored margin sheets. Panel edges visible against colored ground on all examined pages."
+      },
+      {
+        "decoration_type": "gold_sprinkled (zerefşân — probable)",
+        "verdict": "probable",
+        "confidence": 0.60,
+        "notes": "Fine speckles visible on pp004 (pink), 025 (orange), 044 (orange, on calligraphy panel surface). Pattern consistent with zerefşân (gold sprinkling) but cannot exclude foxing or paper fiber inclusions at 2560×1920 px resolution. Physical examination required."
+      },
+      {
+        "decoration_type": "marbled (ebru)",
+        "verdict": "not_confirmed",
+        "confidence": 0.99,
+        "notes": "No marbled paper observed on any of the 12 examined text pages. The album uses exclusively mulevven (solid-colored) papers for margins."
+      }
+    ],
+    "limitations": [
+      "Image resolution is 2560×1920 (IIIF server-capped; native 4330×2897 per manifest). Insufficient for zerefşân subtype determination or fine surface detail.",
+      "28% folio coverage (12 of 43 text pages examined). Specific colors of 31 unexamined pages cannot be confirmed; additional colors (e.g., purple, yellow, or further orange variants) may be present.",
+      "Server returns incorrect content-type (text/html) for IIIF images; workaround via Playwright download API was required.",
+      "YEK digital watermark overlay partially obscures surface detail on interior pages."
+    ],
+    "source_agent": "visual-confirmation",
+    "session": "catalog/searches/visual_tier2g_pertevniyal_00048.json"
+  },
+  "folio_analyses": [
+    {
+      "folio": "P001 (IIIF p001)",
+      "source_image": "corpus/iiif/pertevniyal_00048_p001.jpg",
+      "decoration_present": false,
+      "decoration_types": ["other"],
+      "elements": [
+        {
+          "motif": "Red/crimson leather binding cover",
+          "description": "Front binding cover in red/crimson leather with gold-ruled border (cedvel). Worn with scratches and surface abrasion. Türkiye Yazma Eserler Kurumu Başkanlığı institutional stamp centered; library stamp top-left.",
+          "location": "Full page — binding cover",
+          "confidence": 0.97
+        }
+      ],
+      "confidence": 0.97,
+      "notes": "Binding cover — not a text page. No paper decoration. Cover in red/crimson leather."
+    },
+    {
+      "folio": "P002 (IIIF p002)",
+      "source_image": "corpus/iiif/pertevniyal_00048_p002.jpg",
+      "decoration_present": true,
+      "decoration_types": ["colored", "framing_system"],
+      "elements": [
+        {
+          "motif": "Green mulevven margin paper (yeşil mülevven)",
+          "description": "Vivid bright green paper fills the entire margin area around the vassale-mounted calligraphy panel. The green is saturated and clearly intentional — a pure, bright green without any yellowing or mottling. The color is among the most vivid in the album. Some surface wear/flaking at edges.",
+          "location": "Full margin, all four sides of calligraphy panel",
+          "confidence": 0.97
+        },
+        {
+          "motif": "Gold cedvel framing (altın cetvel)",
+          "description": "Multi-line gold cedvel framing visible around the calligraphy panel. Gold outer rule + dark inner line. The gold is clearly visible against the green margin ground.",
+          "location": "Panel frame, all four sides",
+          "confidence": 0.95
+        },
+        {
+          "motif": "Vassale window-mounting",
+          "description": "Cream calligraphy panel window-mounted onto green mulevven margin sheet. Panel contains basmala and letter exercises (huruf meşki) in nesih script.",
+          "location": "Central text panel",
+          "confidence": 0.97
+        },
+        {
+          "motif": "Library stamp",
+          "description": "Rectangular library stamp 'Pertevniyal 48' visible in upper right margin area, confirming shelfmark identity.",
+          "location": "Upper right margin",
+          "confidence": 0.99
+        }
+      ],
+      "confidence": 0.96,
+      "notes": "First text page. Vivid green mulevven confirmed. Opening content: basmala + letter combinations in nesih. Library stamp confirms identity."
+    },
+    {
+      "folio": "P003 (IIIF p003)",
+      "source_image": "corpus/iiif/pertevniyal_00048_p003.jpg",
+      "decoration_present": true,
+      "decoration_types": ["colored", "framing_system"],
+      "elements": [
+        {
+          "motif": "Green mulevven margin paper (yeşil mülevven)",
+          "description": "Same vivid bright green as p002 — likely the verso of the same bifolio. Some surface wear/flaking on the green ground visible.",
+          "location": "Full margin",
+          "confidence": 0.96
+        },
+        {
+          "motif": "Gold cedvel framing (altın cetvel)",
+          "description": "Multi-line gold cedvel framing. Consistent with p002.",
+          "location": "Panel frame",
+          "confidence": 0.94
+        },
+        {
+          "motif": "Vassale window-mounting",
+          "description": "Cream calligraphy panel with letter combinations in nesih. Window-mounted onto green margin.",
+          "location": "Central text panel",
+          "confidence": 0.97
+        }
+      ],
+      "confidence": 0.95,
+      "notes": "Green mulevven confirmed. Same color as p002 — probable bifolio opening."
+    },
+    {
+      "folio": "P004 (IIIF p004)",
+      "source_image": "corpus/iiif/pertevniyal_00048_p004.jpg",
+      "decoration_present": true,
+      "decoration_types": ["colored", "framing_system"],
+      "elements": [
+        {
+          "motif": "Pink/rose mulevven margin paper (pembe/gül mülevven)",
+          "description": "Vivid deep pink/rose color fills the margins. The pink is saturated and clearly intentional. Fine speckles are visible distributed across the pink surface, consistent with zerefşân (gold sprinkling), though the resolution (2560×1920 px) is borderline for confirmation.",
+          "location": "Full margin, all four sides",
+          "confidence": 0.96
+        },
+        {
+          "motif": "Gold cedvel framing (altın cetvel)",
+          "description": "Multi-line gold cedvel around the calligraphy panel. Gold outer rule clearly visible against the pink ground.",
+          "location": "Panel frame",
+          "confidence": 0.95
+        },
+        {
+          "motif": "Vassale window-mounting",
+          "description": "Cream calligraphy panel with letter exercises in nesih. Window-mounted onto pink margin.",
+          "location": "Central text panel",
+          "confidence": 0.97
+        },
+        {
+          "motif": "Probable zerefşân (gold sprinkling — probable, 0.60)",
+          "description": "Fine speckles visible across the pink/rose margin ground. Consistent with zerefşân (hand-sprinkled gold particles, fırça zerefşanı technique), but could also represent paper fiber inclusions or foxing at this resolution. Physical examination required to confirm.",
+          "location": "Full margin",
+          "confidence": 0.60
+        }
+      ],
+      "confidence": 0.93,
+      "notes": "Pink/rose mulevven confirmed. Probable zerefşân requires physical verification."
+    },
+    {
+      "folio": "P006 (IIIF p006)",
+      "source_image": "corpus/iiif/pertevniyal_00048_p006.jpg",
+      "decoration_present": true,
+      "decoration_types": ["colored", "framing_system"],
+      "elements": [
+        {
+          "motif": "Sky blue mulevven margin paper (mavi mülevven)",
+          "description": "Clear, bright sky blue paper fills the full margins. The blue is uniformly dyed with slight aging visible. Consistent with the standard Ottoman sky blue (gökyüzü mavisi / mavi) mulevven.",
+          "location": "Full margin",
+          "confidence": 0.97
+        },
+        {
+          "motif": "Gold cedvel framing with dark inner line (altın cetvel)",
+          "description": "Multi-line framing: gold outer rule + dark inner line. Very clean application.",
+          "location": "Panel frame",
+          "confidence": 0.95
+        },
+        {
+          "motif": "Vassale window-mounting",
+          "description": "Cream calligraphy panel in nesih. Window-mounted onto blue margin.",
+          "location": "Central text panel",
+          "confidence": 0.97
+        }
+      ],
+      "confidence": 0.96,
+      "notes": "Sky blue mulevven confirmed. First appearance of the blue color in album sequence."
+    },
+    {
+      "folio": "P010 (IIIF p010)",
+      "source_image": "corpus/iiif/pertevniyal_00048_p010.jpg",
+      "decoration_present": true,
+      "decoration_types": ["colored", "framing_system"],
+      "elements": [
+        {
+          "motif": "Olive-green mulevven margin paper (zeytin yeşili mülevven)",
+          "description": "Warm olive-gold toned green — distinctly different from the bright green of pp002–003. A warm, earthy olive-green with slight golden undertone, characteristic of Ottoman olive/sage color mulevven papers.",
+          "location": "Full margin",
+          "confidence": 0.95
+        },
+        {
+          "motif": "Gold cedvel framing (altın cetvel)",
+          "description": "Gold cedvel framing. Gold outer rule visible against olive-green ground.",
+          "location": "Panel frame",
+          "confidence": 0.94
+        },
+        {
+          "motif": "Vassale window-mounting",
+          "description": "Cream calligraphy panel with letter combinations (fa series per visual confirmation notes) in nesih. Window-mounted onto olive-green margin.",
+          "location": "Central text panel",
+          "confidence": 0.97
+        }
+      ],
+      "confidence": 0.94,
+      "notes": "Olive-green mulevven (first appearance in sample). Warm olive-gold tone, clearly distinct from bright green of pp002–003."
+    },
+    {
+      "folio": "P015 (IIIF p015)",
+      "source_image": "corpus/iiif/pertevniyal_00048_p015.jpg",
+      "decoration_present": true,
+      "decoration_types": ["colored", "framing_system"],
+      "elements": [
+        {
+          "motif": "Olive-green/sage mulevven margin paper (adaçayı/zeytin yeşili mülevven)",
+          "description": "Similar olive-sage tone to p010 but slightly more muted and greyer in character — closer to sage (adaçayı) than olive-gold. A subdued warm green, distinct both from bright green and from pure olive.",
+          "location": "Full margin",
+          "confidence": 0.93
+        },
+        {
+          "motif": "Gold cedvel framing (altın cetvel)",
+          "description": "Gold cedvel framing consistent with other pages.",
+          "location": "Panel frame",
+          "confidence": 0.94
+        },
+        {
+          "motif": "Vassale window-mounting",
+          "description": "Cream calligraphy panel with hadith content in nesih. Window-mounted onto sage-green margin.",
+          "location": "Central text panel",
+          "confidence": 0.97
+        },
+        {
+          "motif": "Round medallion dividers (daire işaret)",
+          "description": "Small round medallions visible between text sections on the calligraphy panel, used as section dividers (bölüm ayraç).",
+          "location": "Within text panel",
+          "confidence": 0.85
+        }
+      ],
+      "confidence": 0.93,
+      "notes": "Olive-sage mulevven. Hadith content begins. Round medallion dividers noted."
+    },
+    {
+      "folio": "P020 (IIIF p020)",
+      "source_image": "corpus/iiif/pertevniyal_00048_p020.jpg",
+      "decoration_present": true,
+      "decoration_types": ["colored", "framing_system"],
+      "elements": [
+        {
+          "motif": "Sky blue mulevven margin paper (mavi mülevven)",
+          "description": "Bright blue similar to p006 but with more visible age spots/foxing distributed across the surface. The blue color saturation remains strong despite aging. Confirms recurring sky blue color in album sequence.",
+          "location": "Full margin",
+          "confidence": 0.96
+        },
+        {
+          "motif": "Gold cedvel framing with multi-line system (altın cetvel)",
+          "description": "Clearly visible multi-line gold cedvel framing. Gold + dark rule system consistent throughout album.",
+          "location": "Panel frame",
+          "confidence": 0.95
+        },
+        {
+          "motif": "Vassale window-mounting",
+          "description": "Cream calligraphy panel with hadith text in nesih. Round medallion dividers between sections.",
+          "location": "Central text panel",
+          "confidence": 0.97
+        },
+        {
+          "motif": "Round medallion dividers (daire işaret)",
+          "description": "Small round section-divider medallions visible within the calligraphy panel.",
+          "location": "Within text panel",
+          "confidence": 0.85
+        }
+      ],
+      "confidence": 0.95,
+      "notes": "Sky blue mulevven (second occurrence). More foxing than p006. Medallion dividers recurring pattern."
+    },
+    {
+      "folio": "P025 (IIIF p025)",
+      "source_image": "corpus/iiif/pertevniyal_00048_p025.jpg",
+      "decoration_present": true,
+      "decoration_types": ["colored", "framing_system"],
+      "elements": [
+        {
+          "motif": "Orange/saffron mulevven margin paper (turuncu/safran mülevven)",
+          "description": "Warm saffron-orange color fills the margins. Saturated and clearly intentional. Dark speckles distributed across the surface — could be zerefşân oxidation residue, age-related foxing, or paper fiber inclusions.",
+          "location": "Full margin",
+          "confidence": 0.96
+        },
+        {
+          "motif": "Gold cedvel framing (altın cetvel)",
+          "description": "Gold cedvel framing consistent with other pages.",
+          "location": "Panel frame",
+          "confidence": 0.94
+        },
+        {
+          "motif": "Vassale window-mounting",
+          "description": "Cream calligraphy panel with hadith text in nesih. Window-mounted onto orange margin.",
+          "location": "Central text panel",
+          "confidence": 0.97
+        },
+        {
+          "motif": "Possible zerefşân (0.60 — borderline)",
+          "description": "Dark speckles on the orange/saffron ground. May represent oxidized gold sprinkling (zerefşân) or age-related foxing. Indeterminate at current resolution.",
+          "location": "Full margin",
+          "confidence": 0.60
+        }
+      ],
+      "confidence": 0.93,
+      "notes": "Orange/saffron mulevven (first occurrence). Speckles ambiguous — zerefşân vs. foxing unresolved."
+    },
+    {
+      "folio": "P030 (IIIF p030)",
+      "source_image": "corpus/iiif/pertevniyal_00048_p030.jpg",
+      "decoration_present": true,
+      "decoration_types": ["colored", "framing_system"],
+      "elements": [
+        {
+          "motif": "Olive-green mulevven margin paper (zeytin yeşili mülevven)",
+          "description": "Consistent warm olive tone similar to p010 and p015. Third occurrence of olive-green in sample, confirming it as the most frequently recurring color in the examined sequence.",
+          "location": "Full margin",
+          "confidence": 0.94
+        },
+        {
+          "motif": "Gold cedvel framing (altın cetvel)",
+          "description": "Gold cedvel framing consistent with other pages.",
+          "location": "Panel frame",
+          "confidence": 0.94
+        },
+        {
+          "motif": "Vassale window-mounting",
+          "description": "Cream calligraphy panel with hadith text in nesih. Round divider medallions between sections.",
+          "location": "Central text panel",
+          "confidence": 0.97
+        }
+      ],
+      "confidence": 0.94,
+      "notes": "Olive-green mulevven (third occurrence in sample). Most frequently recurring color in examined sequence."
+    },
+    {
+      "folio": "P035 (IIIF p035)",
+      "source_image": "corpus/iiif/pertevniyal_00048_p035.jpg",
+      "decoration_present": true,
+      "decoration_types": ["colored", "framing_system"],
+      "elements": [
+        {
+          "motif": "Lacivert/navy blue mulevven margin paper (lacivert mülevven)",
+          "description": "Dark, deep navy/lacivert blue — distinctly darker and deeper than the sky blue of pp006 and p020. Closer to lapis/navy in tone. The highest-contrast page in the album: gold cedvel stands out sharply against the dark ground. This is the only lacivert page in the examined sample.",
+          "location": "Full margin",
+          "confidence": 0.95
+        },
+        {
+          "motif": "Gold cedvel framing (altın cetvel) — high contrast",
+          "description": "Gold cedvel framing clearly visible as lighter frame against the dark lacivert ground. The high contrast between gold and lacivert is a hallmark of late Ottoman luxury album production (cf. pertevniyal_00049 pp018–019 lacivert with zerefşân).",
+          "location": "Panel frame",
+          "confidence": 0.96
+        },
+        {
+          "motif": "Vassale window-mounting",
+          "description": "Cream calligraphy panel with hadith text in nesih. Window-mounted onto the dark lacivert margin.",
+          "location": "Central text panel",
+          "confidence": 0.97
+        }
+      ],
+      "confidence": 0.95,
+      "notes": "Lacivert/navy blue mulevven (sole occurrence in sample). Highest chromatic contrast page: cream panel against dark navy with gold frame. No zerefşân on this page (unlike pertevniyal_00049 lacivert pages)."
+    },
+    {
+      "folio": "P040 (IIIF p040)",
+      "source_image": "corpus/iiif/pertevniyal_00048_p040.jpg",
+      "decoration_present": true,
+      "decoration_types": ["colored", "framing_system"],
+      "elements": [
+        {
+          "motif": "Orange/saffron mulevven margin paper (turuncu/safran mülevven)",
+          "description": "Warm saffron-orange margin, same color family as p025. Gold cedvel framing. Second occurrence of orange in sample.",
+          "location": "Full margin",
+          "confidence": 0.95
+        },
+        {
+          "motif": "Gold cedvel framing (altın cetvel)",
+          "description": "Gold cedvel framing consistent with other pages.",
+          "location": "Panel frame",
+          "confidence": 0.94
+        },
+        {
+          "motif": "Vassale window-mounting",
+          "description": "Cream calligraphy panel with hadith text in nesih.",
+          "location": "Central text panel",
+          "confidence": 0.97
+        }
+      ],
+      "confidence": 0.94,
+      "notes": "Orange/saffron mulevven (second occurrence). Consistent with p025."
+    },
+    {
+      "folio": "P044 (IIIF p044)",
+      "source_image": "corpus/iiif/pertevniyal_00048_p044.jpg",
+      "decoration_present": true,
+      "decoration_types": ["colored", "framing_system"],
+      "elements": [
+        {
+          "motif": "Orange mulevven margin paper — slightly faded (turuncu mülevven)",
+          "description": "Slightly more faded orange than p040. Final page of the album sequence examined. Third occurrence of orange/saffron in the sample.",
+          "location": "Full margin",
+          "confidence": 0.94
+        },
+        {
+          "motif": "Gold cedvel framing (altın cetvel)",
+          "description": "Gold cedvel framing, consistent throughout.",
+          "location": "Panel frame",
+          "confidence": 0.94
+        },
+        {
+          "motif": "Vassale window-mounting",
+          "description": "Cream calligraphy panel with hadith text in nesih. Continuation to conclusion of text.",
+          "location": "Central text panel",
+          "confidence": 0.97
+        },
+        {
+          "motif": "Visible speckles on calligraphy panel surface (probable zerefşân, 0.60)",
+          "description": "On this page, speckles are visible specifically on the cream calligraphy panel writing surface rather than (or in addition to) the orange margin. If zerefşân, the gold was applied to the calligraphy panel itself rather than the margin paper — an unusual variant. Could also be foxing or paper fiber inclusions. Catalog card/stamp visible bottom right.",
+          "location": "Calligraphy panel and margin",
+          "confidence": 0.60
+        }
+      ],
+      "confidence": 0.92,
+      "notes": "Final examined page. Orange mulevven (third occurrence). Speckles on calligraphy panel notable — if confirmed as zerefşân, represents application to panel rather than margin (unusual). Catalog card visible."
+    }
+  ],
+  "provenance": {
+    "donor": null,
+    "waqf": "Pertevniyal Sultan collection — associated with Pertevniyal Valide Sultan (c. 1812–1883), mother of Sultan Abdülaziz (r. 1861–1876)",
+    "waqf_note": "The Pertevniyal Koleksiyonu at Süleymaniye Yazma Eser Kütüphanesi is the library collection of Pertevniyal Valide Sultan (c. 1812–1883), the mother of Sultan Abdülaziz. She was one of the most powerful and influential imperial women of the Tanzimat era, known for patronizing major mosque construction (Aksaray Valide Camii / Pertevniyal Camii, completed 1871) and for maintaining a substantial personal library. The murakkaʿāt albums in the Pertevniyal Koleksiyonu (nos. 00048–00050) belong to this collection. However, the album's date (AH 1208/1793–94) predates Pertevniyal Valide Sultan's birth by approximately two decades, confirming that it was not originally commissioned by her — it entered the collection by purchase, gift, or inheritance. The mechanism of acquisition is not recorded. Library stamp 'Pertevniyal 48' on p002 confirms current shelfmark and collection assignment.",
+    "previous_shelfmarks": [],
+    "notes": "The YEK portal records the album under Süleymaniye Yazma Eser Kütüphanesi, Pertevniyal Koleksiyonu, shelfmark 00048, YEK ID 320123, IIIF ID 0000000361867. Catalogued by Mücahide Engin. No previous shelfmarks recorded. The adjacent albums pertevniyal_00049 (shelfmark 00049, YEK ID 320124) and pertevniyal_00050 (shelfmark 00050, YEK ID 320125) are the other murakkaʿ albums in the collection."
+  },
+  "terminology": {
+    "terms_used": [
+      {
+        "concept": "Colored paper",
+        "ottoman": "mülevven kâğıt (ملوّن کاغذ)",
+        "arabic": "waraq mulauwwan (ورق ملوّن)",
+        "persian": "kāġaẕ-e mulavvan (کاغذ ملوّن)",
+        "english": "uniformly dyed colored paper"
+      },
+      {
+        "concept": "Calligraphic album / portfolio",
+        "ottoman": "muraqqaʿāt (مرقعات) — plural form",
+        "arabic": "muraqqaʿāt (مرقعات)",
+        "persian": "muraqqa (مرقع)",
+        "english": "calligraphic exercise album; collection of specimen sheets"
+      },
+      {
+        "concept": "Gold ruling / frame lines",
+        "ottoman": "altın cetvel / cetvelli (جدول)",
+        "arabic": "jadwal mudhahhhab (جدول مذهّب)",
+        "persian": "jadval-e tala (جدول طلا)",
+        "english": "gold-ruled framing system around text block"
+      },
+      {
+        "concept": "Window-mounting technique",
+        "ottoman": "vassale",
+        "arabic": null,
+        "persian": null,
+        "english": "calligraphy panel window-mounted in cut-out of decorated margin paper"
+      },
+      {
+        "concept": "Gold-sprinkling",
+        "ottoman": "zerefşân / yaldız serpme (زر افشان)",
+        "arabic": "dhahab marshūsh (ذهب مرشوش)",
+        "persian": "zarafshān / zarafshān-e fırça (زر افشان)",
+        "english": "hand-sprinkled gold particles on paper surface (probable on pp004, 025, 044)"
+      },
+      {
+        "concept": "Navy / lapis blue color",
+        "ottoman": "lacivert (لاجورد)",
+        "arabic": "azraq ghamiq (أزرق غامق)",
+        "persian": "lāzuvard (لاجورد)",
+        "english": "deep navy/lapis blue (p035)"
+      },
+      {
+        "concept": "Copyist / scribe",
+        "ottoman": "müstensih (مستنسخ)",
+        "arabic": "kātib (كاتب) / nāsikh (ناسخ)",
+        "persian": "kātib (کاتب)",
+        "english": "scribal copyist — here: İbrāhīm Ṭāhir, AH 1208"
+      },
+      {
+        "concept": "Calligraphic exercises",
+        "ottoman": "hat meşki (خط مشقی)",
+        "arabic": null,
+        "persian": "mašq (مشق)",
+        "english": "calligraphic practice / letter combination exercises"
+      },
+      {
+        "concept": "Round section-divider medallion",
+        "ottoman": "daire işaret / gül (دایره إشارت)",
+        "arabic": "dāʾira (دائرة)",
+        "persian": "dāyira (دایره)",
+        "english": "small circular medallion dividing text sections within calligraphy panel"
+      },
+      {
+        "concept": "Olive-green color",
+        "ottoman": "zeytin yeşili (زیتون یشیلی)",
+        "arabic": "zaytūnī (زيتوني)",
+        "persian": "zaytūnī (زیتونی)",
+        "english": "warm olive-green tone (pp010, 015, 030)"
+      }
+    ]
+  },
+  "bibliography": [
+    {
+      "citation": "Blair, Sheila S. 'Color and Gold: The Decorated Papers Used in Manuscripts in Later Islamic Times.' Muqarnas XVII (2000): 24–36.",
+      "relevance": "Foundational study of decorated paper types in Islamic manuscripts, including mulevven (colored), gold-sprinkled, and marbled papers. Essential comparative framework for the six-color mulevven program of Pertevniyal 00048 and the probable zerefşân technique.",
+      "relevance_score": 0.93,
+      "access_notes": "JSTOR. Key reference for all decorated paper records in this project."
+    },
+    {
+      "citation": "Bloom, Jonathan M. Paper Before Print: The History and Impact of Paper in the Islamic World. New Haven: Yale University Press, 2001.",
+      "relevance": "Survey of paper production and use in the Islamic world, including Ottoman period. Contextualizes the mulevven colored paper tradition and its technical production.",
+      "relevance_score": 0.78,
+      "access_notes": "Available in major research libraries."
+    },
+    {
+      "citation": "Gacek, Adam. Arabic Manuscripts: A Vademecum for Readers. Leiden: Brill, 2009.",
+      "relevance": "Standard codicological reference for Arabic manuscript terminology and physical description conventions. Relevant for the nesih script, hat meşki format, and vassale mounting described in this record.",
+      "relevance_score": 0.72,
+      "access_notes": "Available via Brill Online and in major research libraries."
+    },
+    {
+      "citation": "Tanındı, Zeren. 'Bibliophile Aghas (Eunuchs) at Topkapı Saray.' Muqarnas XXI (2004): 333–343.",
+      "relevance": "Study of Ottoman album collecting and commissioning at the highest court level. Illuminates the luxury mulevven murakkaʿ tradition to which Pertevniyal 00048 belongs, as a product of the late 18th century Istanbul calligraphic environment.",
+      "relevance_score": 0.71,
+      "access_notes": "JSTOR."
+    },
+    {
+      "citation": "Çağman, Filiz, and Zeren Tanındı. Topkapı Sarayı Müzesi İslâm Minyatürleri. Istanbul: Tercüman Sanat ve Kültür Yayınları, 1979.",
+      "relevance": "Foundational catalogue of Ottoman album and miniature production at the court. Provides comparative context for the mulevven album format and late Ottoman calligraphic production to which Pertevniyal 00048 belongs. In Turkish.",
+      "relevance_score": 0.65,
+      "access_notes": "In Turkish. Available in major Turkish and international Islamicate art libraries."
+    },
+    {
+      "citation": "Déroche, François. Islamic Codicology: An Introduction to the Study of Manuscripts in Arabic Script. London: Al-Furqān Islamic Heritage Foundation, 2006.",
+      "relevance": "Standard codicological reference for Arabic-script manuscripts. Provides terminology and methodology for physical description of paper, ruling, and binding aspects documented in this record.",
+      "relevance_score": 0.68,
+      "access_notes": "Available in major research libraries. English translation of the original French."
+    },
+    {
+      "citation": "Aksel, Malik. Türklerde Dini Resimler: Yazı-Resim. Istanbul: Elif Yayınları, 1967.",
+      "relevance": "Early study of Ottoman calligraphic art and the hat meşki tradition. Provides context for the calligraphic exercise album (muraqqaʿāt) format employed in Pertevniyal 00048. In Turkish.",
+      "relevance_score": 0.60,
+      "access_notes": "In Turkish. Available in major Turkish libraries."
+    },
+    {
+      "citation": "Scheper, Karin. The Technique of Islamic Bookbinding: Methods, Materials and Regional Varieties. 2nd ed. Leiden: Brill, 2018.",
+      "relevance": "Technical reference for Ottoman and Islamic binding structure, including leather types and gold ruling (cedvel) on covers. Relevant to the red/crimson leather binding of Pertevniyal 00048.",
+      "relevance_score": 0.62,
+      "access_notes": "Available via Brill Online."
+    },
+    {
+      "citation": "Mustakimzade Süleyman Sa'deddin. Tuhfe-i Hattatin [Gift to Calligraphers]. Ed. Kilisli Rifat. Istanbul: Devlet Matbaası, 1928.",
+      "relevance": "Primary biographical dictionary of Ottoman calligraphers. Relevant for establishing whether İbrāhīm Ṭāhir (müstensih of Pertevniyal 00048, AH 1208/1793–94) can be identified with any named master. The calligrapher has not been located in this register at current research stage. In Ottoman Turkish.",
+      "relevance_score": 0.75,
+      "access_notes": "In Ottoman Turkish. Partially digitized; available in major Turkish libraries and Islamicate manuscript studies collections."
+    },
+    {
+      "citation": "Rado, Şevket. Türk Hattatları [Turkish Calligraphers]. Istanbul: Yayın Matbaacılık, 1984.",
+      "relevance": "Modern Turkish-language biographical register of Ottoman and Turkish calligraphers. Second source consulted (in addition to Mustakimzade) for the identification of İbrāhīm Ṭāhir. In Turkish.",
+      "relevance_score": 0.73,
+      "access_notes": "In Turkish. Available in major Turkish libraries."
+    },
+    {
+      "citation": "Roxburgh, David J. The Persian Album, 1400–1600: From Dispersal to Collection. New Haven: Yale University Press, 2005.",
+      "relevance": "Comprehensive study of the Islamic album (murakkaʿ) tradition from Timurid through Safavid periods. Essential comparative framework for understanding the Ottoman hat meşki muraqqaʿāt format of Pertevniyal 00048 in relation to the broader Islamic album tradition.",
+      "relevance_score": 0.70,
+      "access_notes": "Available in major research libraries."
+    },
+    {
+      "citation": "Sturkenboom, Ilse, and Stefanie Seeberg, eds. GlobalDecoPaper: Decorated Papers in Manuscripts of the Middle East, South and Southeast Asia. ERC Project, LMU Munich (in progress, 2022–).",
+      "relevance": "Active ERC research project on decorated paper in Islamic manuscripts, directly relevant to the mulevven colored paper program and probable zerefşân of Pertevniyal 00048. See project portal at https://www.globaldecorpaper.de for preliminary results and publications.",
+      "relevance_score": 0.88,
+      "access_notes": "Open-access project outputs available via LMU Munich project portal. Primary contact for emerging scholarship on Ottoman decorated paper."
+    }
+  ],
+  "suggested_collections": [
+    {
+      "institution": "Topkapı Sarayı Müzesi Kütüphanesi (TSMK), Istanbul",
+      "reason": "Primary repository of Ottoman court calligraphic albums (muraqqaʿāt), including comparable six-color mulevven programs from the late 18th century. Parallel specimens for comparative study of İbrāhīm Ṭāhir's script and mulevven paper programs of the Selim III period.",
+      "digital_access": "https://kutuphane.tsmk.gov.tr"
+    },
+    {
+      "institution": "Türk ve İslam Eserleri Müzesi (TIEM), Istanbul",
+      "reason": "The TIEM Süleymaniye Mektebi murakkaʿāt collection (TIEM SM 00001–00015, in project corpus) contains the closest comparanda for the hat meşki exercise album format with polychrome mulevven programs. TIEM SM 00003 (6-color mulevven + battal ebru, in corpus) and SM 00015 (terra cotta mulevven, Karahisârî attribution) are the closest parallels in the corpus for chromatic richness.",
+      "digital_access": "https://www.tiem.gov.tr"
+    },
+    {
+      "institution": "Süleymaniye Yazma Eser Kütüphanesi — Pertevniyal Koleksiyonu, Istanbul",
+      "reason": "Sister albums pertevniyal_00049 (7–9-color mulevven, Qaṣīdat al-Burda, probable Seyyid Abdullah el-Yedikuli attribution) and pertevniyal_00050 (2-color mulevven + battal ebru, Ismaʿil al-Zuhdī) are the closest institutional comparanda and must be studied alongside this album for a full analysis of the Pertevniyal murakkaʿ production context.",
+      "digital_access": "https://portal.yek.gov.tr/works/detail/320124"
+    }
+  ],
+  "analysis_metadata": {
+    "analyzed_date": "2026-02-28",
+    "analyzer": "metadata-generator (claude-sonnet-4-6) — based on visual confirmation output from visual_tier2g_pertevniyal_00048.json",
+    "image_source": "IIIF: https://iiif.manuscriptlink.com/iiif/0000000361867 (YEK IIIF server, accessed 2026-02-28 via Playwright download workaround)",
+    "image_quality_notes": "IIIF images served at 2560×1920 px (server-capped); native resolution per IIIF manifest is 4330×2897 px. Resolution adequate for color identification, cedvel documentation, and vassale detection. Insufficient for zerefşân subtype determination, fine surface detail, or colophon/ketebe transcription. YEK digital watermark overlay present on all interior pages.",
+    "folios_examined": [
+      "p001", "p002", "p003", "p004", "p006", "p010", "p015", "p020", "p025", "p030", "p035", "p040", "p044"
+    ],
+    "folios_not_examined": "31 pages not examined in current IIIF sample: pp005, 007–009, 011–014, 016–019, 021–024, 026–029, 031–034, 036–039, 041–043. Colors of unexamined pages cannot be confirmed; additional mulevven colors may be present. Full coverage would require downloading all 44 IIIF pages.",
+    "cross_references": [
+      "pertevniyal_00049: sister album — 7-to-9-color mulevven with coordinated cetvel program, zerefşân on lacivert pages, probable Seyyid Abdullah el-Yedikuli attribution",
+      "pertevniyal_00050: sister album — 2-color mulevven + battal ebru, Ismaʿil al-Zuhdī (d. 1221/1806), most complex technique-mix in Pertevniyal sub-group",
+      "tiem_sm_00003: closest corpus parallel for 6-color mulevven richness with battal ebru in same album",
+      "tiem_sm_00006: closest corpus parallel for coordinated gold cedvel + multi-color mulevven program in hat meşki album",
+      "hamidiye_00034: canonical record for paper_decoration format in this project (16th century Safavid murakkaʿ, vassale + battal ebru)"
+    ],
+    "triage_notes": "Original triage (based on thumbnail examination) predicted three mulevven colors (pink, gold, green). Visual confirmation revised this to six confirmed colors, substantially enriching the significance of the album. The triage also incorrectly flagged the album as potentially containing ebru; no marbling was detected on any examined page.",
+    "cataloguer_note": "MEMORY.md confirms pertevniyal_00048 not previously catalogued. Record created 2026-02-28. corpus_index.json update deferred per task instructions (central reconciliation after all agents complete)."
+  }
+}

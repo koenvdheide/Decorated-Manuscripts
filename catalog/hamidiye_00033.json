@@ -1,0 +1,494 @@
+{
+  "record_id": "hamidiye_00033",
+  "collection": {
+    "institution": "Süleymaniye Kütüphanesi — Hamidiye Koleksiyonu",
+    "city": "Istanbul",
+    "country": "Turkey",
+    "shelfmark": "00033",
+    "yek_url": "https://portal.yek.gov.tr/works/detail/265208"
+  },
+  "manuscript": {
+    "title": "Muraqqaʿāt / مرقعات",
+    "title_script": "مرقعات",
+    "title_alt": "Murakkaat (Hamidiye 33)",
+    "author": null,
+    "author_dates": null,
+    "calligrapher": null,
+    "calligrapher_dates": null,
+    "calligrapher_note": "No ketebe inscription legible from images examined. The album contains tuğra specimens whose imperial cipher would identify the reigning sultan; both tuğras on pp003–004 appear to name the same sultan (text below tuğra reads 'el-muzaffer dāʾimā' — the standard formula appended to Ottoman imperial ciphers). Based on the AH 1135 date and the tuğra form, these are likely specimens of Ahmed III's (r. 1115–1143 AH / 1703–1730 CE) or Mahmud I's (r. 1143–1168 AH) tuğra. AH 1135 (1722–23 CE) falls within the reign of Ahmed III, which is the more probable attribution for the dated specimens. Full transcription and comparison with authenticated specimens is needed for confirmation.",
+    "date_ah": "1135",
+    "date_ce": "1722–1723",
+    "date_note": "The YEK catalogue records AH 1135 (1722–23 CE). This date most plausibly applies to the calligraphic content — the tuğra specimens and accompanying Arabic calligraphy panels. The pink/salmon mulevven margin papers with zerefşān, the polychrome marbled margin paper (p015), and the compound cetvelli framing system are consistent with an early 18th-century production date. The relationship between these decorated paper components and the dated calligraphy requires physical examination of the binding structure to confirm whether they are contemporary or represent a later remounting.",
+    "place_of_copy": null,
+    "format": "Muraqqaʿāt / مرقعات — mixed calligraphic album with tuğra specimens, Arabic calligraphy panels, battal ebru endpaper, mulevven and zerefşān margin papers, polychrome marbled margins, and illuminated border",
+    "format_note": "A large-format bound calligraphic album (muraqqaʿ) of 19 yaprak / 21 pages (IIIF sequence), containing a mixed program of tuğra (imperial cipher) specimens and Arabic calligraphy panels in sülüs, nesih, and taʿlīq scripts. The album is notable for combining two distinct specimen types — formal tuğra compositions (pp003–004) and religious/literary text panels (pp005, 010, 021) — within a single bound volume, making it a mixed calligraphy-tuğra muraqqaʿ. The decorative program includes: a battal ebru endpaper (p002); pink/salmon mulevven with probable zerefşān as the primary margin paper; a polychrome marbled (battal or gel-git ebru) margin paper at p015; an illuminated border on p005; gold-ground calligraphy panels (pp003–004 tuğra beyze, p010 basmala); and a compound multi-line cetvelli + vassale framing system throughout. This album is one of the largest in the Hamidiye muraqqaʿ corpus at 475×300 mm.",
+    "language": "Arabic",
+    "script": "Nastaʿlīq (نستعليق) and Sülüs (ثلث) and Nesih (نسخ) — per YEK catalogue: 'Arap harfli — Nestalik'; tuğra specimens use the composite Ottoman tuğra script convention",
+    "dimensions_mm": {
+      "height": 475,
+      "width": 300,
+      "writing_area_mm": {
+        "height": null,
+        "width": null,
+        "note": "Writing area dimensions per YEK catalogue: 'muhtelif' (various formats across leaves). Individual panel dimensions not individually recorded."
+      },
+      "note": "Outer dimensions 475×300 mm per YEK catalogue (muhtelif / various formats across leaves). This is one of the largest albums in the Hamidiye muraqqaʿ group."
+    },
+    "folio_count": 19,
+    "yek_id": "265208",
+    "iiif_id": "0000000289481",
+    "notes": "The album is catalogued in YEK as Murakkaʿāt (19 yk., muhtelif st., AH 1135), catalogued by Erdem Karaaslan. The IIIF sequence presents 21 pages. A particularly significant codicological feature is the presence of two formal tuğra specimens on consecutive pages (pp003–004), each with the imperial cipher in different scale and compositional emphasis — suggesting this volume may have served a pedagogical or exemplary function within Ottoman calligraphy culture. The zoomorphic calligraphy element noted in the visual confirmation report (p003 described as 'bird-shaped') was re-examined against the IIIF image and is more accurately identified as a standard formal Ottoman tuğra (imperial cipher): the elongated oval (beyze) with vertical strokes (tuğ/elif) above. The distinctive form of the tuğra can create the impression of a bird silhouette from a distance but is a formal imperial document cipher, not figural/zoomorphic calligraphy. Page 015 reveals a previously unrecorded decoration feature: polychrome marbled paper (battal or gel-git ebru type) used as the outer margin paper for a calligraphy panel — this was not captured in the visual confirmation report which examined p015 images subsequently."
+  },
+  "paper_decoration": {
+    "types": [
+      "marbled",
+      "colored",
+      "gold_sprinkled",
+      "illuminated_margins",
+      "framing_system"
+    ],
+    "summary": "Hamidiye 00033 deploys a multi-layered paper decoration program across its 21 pages, combining four distinct decoration categories within a large-format tuğra-calligraphy album dated AH 1135 (1722–23 CE). The program is organized as follows: (1) BATTAL EBRU ENDPAPER (p002): A full-page two-color battal ebru (stone marbling) endpaper in reddish-pink/salmon on a cream/white ground. The irregular spotted pattern is characteristic of the battal technique. This is notably simpler and more monochrome than the polychrome battal ebru endpapers seen in hamidiye_00018, hamidiye_00032, and hamidiye_00034. (2) PINK/SALMON MULEVVEN WITH ZEREFŞĀN (pp003–005, 010, 021): The dominant margin paper across the calligraphy pages is a pink/salmon mulevven (dyed paper). Visual examination confirms fine gold sprinkling (zerefşān) is superimposed on the mulevven ground on at least pp003, 004, and 010 — the gold speckling is visible against the pink ground at viewer screenshot resolution, establishing this as a combined mulevven + zerefşān technique. (3) POLYCHROME MARBLED MARGIN PAPER (p015): Page 015, not examined in the initial visual confirmation session, reveals polychrome marbled paper used as the outer margin for a calligraphy panel. The marbling shows green, red/pink, brown, and cream tones in swirling patterns characteristic of battal or gel-git ebru. This page demonstrates that the marbled paper program is not confined to the opening endpaper. (4) ILLUMINATED BORDER (p005): Page 005 carries a distinctive framing element in the inner border zone — a grey-blue stone-patterned border band that may incorporate marbled paper strips, surrounding the taʿlīq calligraphy panel on its decoratively dense gold-brown ground. (5) GOLD-GROUND PANELS AND ZEREFŞĀN: Multiple pages feature gold-ground calligraphy panels (pp003–004 tuğra beyze, p010 basmala panel). The tuğra beyze bodies on pp003–004 are filled with dense micro-illumination in hatāyī/rūmī style. (6) COMPOUND CETVELLI + VASSALE THROUGHOUT: A multi-line framing system with dark teal/green outer frame lines and gold inner rules appears on all calligraphy pages; text and tuğra panels are vassale-mounted on the decorated margin papers.",
+    "distribution_notes": "p001: Plain brown leather binding cover with single-line gold rectangular frame. Library stamp '33' upper left. p002: Full-page battal ebru endpaper (reddish-pink on cream; two-color stone marbling; library stamp lower left). p003: Pink/salmon mulevven outer margin with zerefşān; formal illuminated Ottoman tuğra (beyze filled with hatāyī/rūmī micro-illumination; cobalt-blue tuğ strokes; gold finials); sülüs text below tuğra; multi-line green + gold cetvelli; vassale-mounted. p004: Pink/salmon mulevven outer margin with zerefşān (matching p003); second formal Ottoman tuğra (taller, more open beyze; cobalt-blue dominant tuğ strokes; hatāyī micro-illumination in beyze; sülüs text below); dark teal + gold multi-line cetvelli; vassale-mounted. p005: Pink/salmon mulevven outer margin (without clear zerefşān at this resolution, but consistent with pp003–004 palette); diagonally-composed taʿlīq panel on rich gold-brown decorated ground (dense allover floral/arabesque decoration); grey-blue stone-pattern or marbled inner border band surrounding panel; multi-line cetvelli; vassale-mounted. p010: Pink/salmon mulevven outer margin with visible zerefşān speckling; gold-ground basmala panel (large sülüs, 'Bismillāhi l-Raḥmāni l-Raḥīm') at top; naskh text panels below with gold durak verse markers; faint gold animal figure in upper-right corner of gold panel; green-teal + gold multi-line cetvelli; vassale-mounted. p015: Polychrome marbled outer margin paper (battal or gel-git ebru type — green, red/pink, brown, cream swirling pattern); plain cream calligraphy panel (unidentified kufic or early script); multi-line dark teal + gold cetvelli framing. p021: Pink/salmon mulevven outer margin; calligraphic text panel in naskh and taʿlīq scripts (colophon/icazet); single-line gold cetvelli frame.",
+    "technique_terms": {
+      "ottoman": "battal ebru (بطال ابرو) — iki renkli; mülevven kâğıt (ملون کاغذ) — pembe/somon; zerefşān (زرافشان) — mülevven üzerine; altın zemini; hatip veya gel-git ebru pervaz kâğıdı; altın cetvelli; vassale montaj",
+      "persian": "abrī-ye battal (ابری بطال) — two-color; mulavvan (ملوّن) — pink/salmon with zarafshān; zarafshān (زرافشان) — gold-sprinkled over colored ground; zer-ender-zer (possible in tuğra beyze, unconfirmed at resolution); jadval-e murakkab (جدول مرکب) — compound ruling",
+      "arabic": "waraq muzakhraf (ورق مزخرف) — decorated paper; jadwal mudhahdhab (جدول مذهّب) — gold ruling; tuğrā (طغراء) — imperial cipher specimens"
+    },
+    "catalogue_description": {
+      "paper_field": null,
+      "paper_field_normalized": null,
+      "paper_field_translation": null,
+      "notes_field": "Murakka'at (19 yk., muhtelif st., 475x300-muhtelif mm, Arap harfli-Nestalik, AH 1135)",
+      "notes_field_normalized": "Murakka'at (19 yk., muhtelif st., 475x300-muhtelif mm, Arap harfli-Nestalik, AH 1135)",
+      "notes_field_translation": "Album (19 folios, various formats, 475×300 mm–various, Arabic-script, Nastaʿlīq, [dated] AH 1135 [= 1722–23 CE])",
+      "decoration_field": null,
+      "source": "YEK portal, record 265208, Süleymaniye Kütüphanesi — Hamidiye Koleksiyonu. Catalogued by Erdem Karaaslan. Kâğıt özellikleri and tezhip/minyatür fields are null in the YEK record. All paper decoration observations derive from visual examination of IIIF images (8 pages at viewer screenshot resolution ~1536px viewport) and the visual_confirmation report (catalog/searches/visual_tier2g_hamidiye_00033.json)."
+    }
+  },
+  "workshop_attribution": {
+    "primary_tradition": "ottoman",
+    "workshop_centre": "Istanbul — probable court or high-quality commercial production",
+    "date_range_ce": "1722–1723 CE (AH 1135)",
+    "confidence": 0.75,
+    "key_indicators": [
+      "AH 1135 (1722–23 CE) places this album firmly in the Tulip Era (Lâle Devri) of Ahmed III — a period of intense artistic production centered on Istanbul",
+      "Ottoman tuğra specimens with hatāyī/rūmī micro-illumination in the beyze are characteristically products of the Ottoman calligraphic tradition and its affiliated illuminators",
+      "Battal ebru endpaper and pink/salmon mulevven with zerefşān margin papers are standard components of high-quality Ottoman album production of the 17th–18th century",
+      "Large format (475×300 mm) is consistent with court or high-status album production rather than commercial book production",
+      "Compound multi-line cetvelli with vassale mounting is the standard Ottoman luxury album framing system"
+    ],
+    "cross_tradition_caveats": [
+      "The nastaʿlīq script cited in the YEK record ('Arap harfli-Nestalik') suggests a Persian-influenced calligraphic tradition for some content, though by the 18th century nastaʿlīq was well established within the Ottoman calligraphic milieu",
+      "The polychrome marbled margin paper (p015) has not been subtyped with certainty (battal vs. gel-git) at viewer screenshot resolution; subtype affects dating precision",
+      "Without a legible ketebe or colophon, the production location cannot be confirmed as Istanbul specifically — other Ottoman cities (Edirne, etc.) also produced high-quality albums in this period"
+    ]
+  },
+  "codicology": {
+    "paper": {
+      "color": "Endpaper: reddish-pink battal ebru on cream (p002). Primary margin paper: pink/salmon mulevven with zerefşān (pp003–005, 010, 021). Secondary margin paper: polychrome marbled paper — green, red/pink, brown, cream (p015). Calligraphy panels: cream/buff ground for nesih/sülüs text; gold ground for tuğra beyze (pp003–004) and basmala (p010); gold-brown decorated ground for taʿlīq panel (p005).",
+      "preparation": "The calligraphy panels are written or painted on sized and burnished (âharlı) paper appropriate to their function: the tuğra beyze sections are richly illuminated on gold-primed grounds; the text panels use standard cream calligraphy paper. The mulevven margin papers appear to be distinctly dyed papers. The zerefşān application over the mulevven ground (visible on pp003, 004, 010) is consistent with a two-step preparation process: dyeing followed by gold particle sprinkling.",
+      "weight": "Indeterminate from images. Standard Ottoman album paper weights expected.",
+      "decoration": "Battal ebru (endpaper); mülevven in pink/salmon (margin papers); zerefşān over mülevven (confirmed on pp003, 004, 010); polychrome ebru (margin paper at p015); gold grounds with hatāyī/rūmī micro-illumination (tuğra beyze pp003–004); gold ground (basmala p010); compound altın cedvel system throughout.",
+      "paper_type": "Eastern paper (Doğu kâğıdı) for calligraphy panels; various decorated papers for margins and endpaper."
+    },
+    "ruling": {
+      "system": "Compound multi-line altın cedvel throughout. Observed sequence (from outside inward): pink/salmon mulevven outer margin / dark teal/green outer frame line / gold rule / thin intermediate colored band / gold rule / inner panel. The tuğra pages (pp003–004) show a particularly refined cetvelli with dark green outer frame and multiple gold rules. Page 005 shows a more complex inner border band treatment (possible marbled paper strip or grey-blue illuminated band in the inner zone).",
+      "description": "The framing system is applied consistently across all calligraphy and tuğra pages. Vassale mounting is the standard technique throughout: the calligraphy and tuğra panels are separately produced sheets mounted into the decorated margin paper grounds. The compound cetvelli on pp003–004 with dark teal outer frame and gold interior rules is the most refined system visible in the examined pages."
+    },
+    "binding": {
+      "cover_description": "Plain brown leather binding cover (p001). Single-line rectangular gold frame (outer border). Library stamp '33' affixed upper left corner. The cover lacks elaborate decoration — no şemse, no stamped medallion, no hatip ebru — presenting a comparatively austere exterior relative to the decorated interior.",
+      "cover_type": "Plain brown leather — yalın kahverengi deri cilt; single gold-line border",
+      "notes": "The undecorated brown leather cover stands in notable contrast to the album's richly decorated interior. This pairing of a plain leather exterior with an elaborately decorated paper interior is attested in other Hamidiye albums. The back cover was not available in the IIIF images examined."
+    },
+    "format": "Muraqqaʿāt — Ottoman calligraphic album with mixed tuğra and Arabic calligraphy specimens (19 folios / 21 IIIF pages including covers)",
+    "condition_summary": "The album appears generally well-preserved based on the eight IIIF pages examined. The battal ebru endpaper (p002) is in good condition with a library stamp visible. The mulevven margin papers retain their pink/salmon tone with reasonable saturation. Some minor soiling and handling marks are visible on the outer margins. The tuğra compositions (pp003–004) are well-preserved with vivid gold and cobalt pigments. Page 015 shows minor deterioration at the binding gutter edge.",
+    "conservation_history": "No conservation history documented. The plain leather cover may be a later rebinding; physical examination is needed to determine whether the cover is original to the AH 1135 album or represents a later replacement."
+  },
+  "visual_confirmation": {
+    "verdict": "confirmed",
+    "confidence": 0.92,
+    "screenshots_examined": 8,
+    "folios_examined": [
+      "corpus/iiif/hamidiye_00033_p001.jpeg",
+      "corpus/iiif/hamidiye_00033_p002.jpeg",
+      "corpus/iiif/hamidiye_00033_p003.jpeg",
+      "corpus/iiif/hamidiye_00033_p004.jpeg",
+      "corpus/iiif/hamidiye_00033_p005.jpeg",
+      "corpus/iiif/hamidiye_00033_p010.jpeg",
+      "corpus/iiif/hamidiye_00033_p015.jpeg",
+      "corpus/iiif/hamidiye_00033_p021.jpeg"
+    ],
+    "visual_evidence": "Decoration confirmed across 7 of 8 examined pages (p001 is binding only). Battal ebru endpaper confirmed at p002 (two-color: reddish-pink on cream). Two formal Ottoman tuğra specimens confirmed at pp003 and p004, both with gold-filled beyze bearing hatāyī/rūmī micro-illumination and cobalt-blue tuğ strokes — a significant finding not anticipated by the original triage. Pink/salmon mulevven with zerefşān confirmed on pp003, 004, 010 (gold speckling clearly visible against the colored ground). Taʿlīq calligraphy panel on gold-brown decorated ground at p005 with compound inner border. Basmala on gold ground at p010 with naskh panels and gold durak markers. Polychrome marbled margin paper confirmed at p015 (NEW FINDING not in visual confirmation report). Pink/salmon mulevven outer margin on p021 with naskh/taʿlīq colophon panel.",
+    "limitations": [
+      "8 of 21 pages examined (38% coverage). Additional decoration types and decorated pages likely exist in the unexamined 13 pages.",
+      "Images captured as viewer screenshots (~1536px viewport width), not IIIF native resolution. Fine details of gold technique (zer-ender-zer vs. flat gold in tuğra beyze) cannot be confirmed.",
+      "Zerefşān on mulevven ground confirmed visually on pp003, 004, 010 but physical examination is needed for definitive technique confirmation.",
+      "The zoomorphic calligraphy description in the original visual confirmation report (p003) is a misidentification — re-examination confirms p003 is a formal Ottoman tuğra, not zoomorphic calligraphy.",
+      "Subtype of the p015 marbled margin paper (battal vs. gel-git ebru) cannot be confirmed at viewer screenshot resolution.",
+      "The tuğra specimens' sultan attribution (Ahmed III vs. other) requires comparison with authenticated specimens and full transcription of the accompanying text.",
+      "Back cover (likely p020 or p021 recto) not available in the examined IIIF images."
+    ],
+    "source_agent": "visual-confirmation (catalog/searches/visual_tier2g_hamidiye_00033.json) + direct IIIF image examination by metadata-generator (2026-02-28)"
+  },
+  "folio_analyses": [
+    {
+      "folio": "Front cover (IIIF p001)",
+      "source_image": "corpus/iiif/hamidiye_00033_p001.jpeg",
+      "decoration_present": false,
+      "decoration_types": ["framing_system"],
+      "elements": [
+        {
+          "motif": "Plain brown leather cover with single gold-line frame",
+          "description": "Dark brown leather binding cover with a single rectangular gold frame line near the edges. Library stamp '33' affixed at the upper left corner. No şemse, no medallion stamping, no hatip ebru covering — a comparatively undecorated exterior. The large format (475×300 mm) is evident from the proportions. Binding condition shows wear and scuff marks consistent with use.",
+          "location": "Full front cover exterior",
+          "confidence": 0.99
+        }
+      ],
+      "confidence": 0.99,
+      "notes": "Plain leather cover with minimal gold ruling. The austere exterior contrasts with the album's richly decorated interior program."
+    },
+    {
+      "folio": "Endpaper — battal ebru (IIIF p002)",
+      "source_image": "corpus/iiif/hamidiye_00033_p002.jpeg",
+      "decoration_present": true,
+      "decoration_types": ["marbled"],
+      "elements": [
+        {
+          "motif": "Battal ebru — two-color stone marbling: reddish-pink on cream",
+          "description": "The endpaper is fully covered with battal ebru (stone/spot marbling). The pattern is two-color: a reddish-pink/salmon primary color mottled across a cream/white ground, producing the characteristic irregular spotted and veined pattern of the battal technique. The pattern is relatively uniform across the full page. A small library catalogue card is affixed at the lower left (Süleymaniye Kütüphanesi Hamidiye acquisition label). A faint diagonal text — the watermark or paper maker's stamp — is visible at center. The library stamp appears in the form of a small square or rectangle at the lower left.",
+          "location": "Full page endpaper",
+          "confidence": 0.98
+        }
+      ],
+      "confidence": 0.98,
+      "notes": "Battal ebru endpaper confirmed. The two-color palette (reddish-pink on cream) is simpler and more monochrome than the polychrome battal ebru endpapers of hamidiye_00018 (4 colors: red, green, cream, dark) and hamidiye_00032. The simplicity of the palette is a distinguishing feature of this specimen within the Hamidiye corpus."
+    },
+    {
+      "folio": "First tuğra page — illuminated Ottoman imperial cipher (IIIF p003)",
+      "source_image": "corpus/iiif/hamidiye_00033_p003.jpeg",
+      "decoration_present": true,
+      "decoration_types": ["colored", "gold_sprinkled", "illuminated_margins", "framing_system"],
+      "elements": [
+        {
+          "motif": "Formal Ottoman tuğra (imperial cipher) with hatāyī/rūmī micro-illumination",
+          "description": "The central panel contains a formal Ottoman tuğra (imperial cipher): a large elongated oval beyze body with dense micro-illumination in hatāyī (lotus/peony composite) and rūmī (split-leaf palmette) style in blue, red, and green on a gold ground filling the interior of the beyze. Above the beyze, the characteristic vertical tuğ strokes rise — cobalt blue for the first two-three elevated strokes with gold outlines. The beveled hançer (knife) curved stroke sweeps left. Below the beyze, the sülüs text reads (partially legible): 'El-muzaffer dāʾimā…' — the standard formula appended to Ottoman tuğra inscriptions. A small black circular seal or collector's stamp appears at the right side of the panel. The tuğra panel is vassale-mounted on the margin paper ground.",
+          "location": "Central panel, full width",
+          "confidence": 0.95
+        },
+        {
+          "motif": "Pink/salmon mulevven with zerefşān — outer margin",
+          "description": "The outer margin is covered with pink/salmon mulevven paper. Fine gold speckling (zerefşān) is clearly visible against the colored ground at this resolution, confirming the combined mulevven + zerefşān technique. The gold particles appear scattered uniformly across the pink surface, producing a subtle luminous effect.",
+          "location": "Outer margin surrounding vassale panel",
+          "confidence": 0.92
+        },
+        {
+          "motif": "Multi-line cetvelli framing — dark green + gold",
+          "description": "The vassale panel is framed by a compound cetvelli system: a dark teal/green outer frame line, followed by a gold rule, a thin intermediate colored band, and an inner gold rule immediately surrounding the panel. The framing system is crisp and well-executed.",
+          "location": "Frame surrounding central panel",
+          "confidence": 0.98
+        }
+      ],
+      "confidence": 0.95,
+      "notes": "This page contains the first of two formal Ottoman tuğra specimens in the album. The hatāyī/rūmī micro-illumination within the tuğra beyze is a high-quality example of 18th-century tuğra illumination. NOTE: The original visual confirmation report described this folio as a 'zoomorphic (bird-shaped) calligraphic composition' — this is a misidentification caused by the characteristic shape of the tuğra, which can resemble a bird silhouette when viewed from a distance. Re-examination of the IIIF image confirms this is a formal Ottoman imperial cipher (tuğra), not figurative calligraphy."
+    },
+    {
+      "folio": "Second tuğra page — formal illuminated Ottoman imperial cipher (IIIF p004)",
+      "source_image": "corpus/iiif/hamidiye_00033_p004.jpeg",
+      "decoration_present": true,
+      "decoration_types": ["colored", "gold_sprinkled", "illuminated_margins", "framing_system"],
+      "elements": [
+        {
+          "motif": "Second formal Ottoman tuğra — taller, more open composition",
+          "description": "The central panel contains a second formal Ottoman tuğra. This specimen is taller and more vertically elongated than p003: the beyze is more open and the tuğ strokes (vertical above-beyze elements) are more prominently blue (cobalt dominant), with less gold. The beyze interior is filled with dense hatāyī/rūmī micro-illumination in blue, red, green, and gold on a gold ground — the same iconographic vocabulary as p003 but with a lighter, more airy interior arrangement. The sülüs text below reads the same 'El-muzaffer dāʾimā…' formula. A small black circular collector's stamp appears at the right. The comparison of the two tuğra specimens side by side (pp003–004) is pedagogically significant: they appear to be specimens of the same sultan's tuğra in two variant compositions.",
+          "location": "Central panel, full width",
+          "confidence": 0.94
+        },
+        {
+          "motif": "Pink/salmon mulevven with zerefşān — outer margin",
+          "description": "Matching the mulevven margin of p003: pink/salmon dyed paper with fine gold zerefşān sprinkling visible against the colored ground. The margin on p004 appears slightly cooler in tone than p003, possibly indicating different sheets from the same dyed batch or slight colorimetric variation.",
+          "location": "Outer margin surrounding vassale panel",
+          "confidence": 0.92
+        },
+        {
+          "motif": "Multi-line cetvelli framing — dark teal + gold",
+          "description": "Compound cetvelli system with dark teal/green outer frame and gold rules, closely matching p003. The inner border band between the outer cetvelli and the tuğra panel appears slightly wider on p004 than p003, accommodating the taller tuğra composition.",
+          "location": "Frame surrounding central panel",
+          "confidence": 0.97
+        }
+      ],
+      "confidence": 0.94,
+      "notes": "Second tuğra specimen. The paired presentation of two tuğra specimens on consecutive pages (pp003–004) is an unusual and significant feature of this album, suggesting it may have served as an exemplar or teaching tool for Ottoman tuğra writing (tuğra-keşi). Both tuğra specimens date to the same sultan based on the identical accompanying formula, but their compositional differences suggest either two attempts by the same calligrapher or specimens copied from two different exemplars."
+    },
+    {
+      "folio": "Calligraphy page — taʿlīq on gold-brown ground, mulevven margins (IIIF p005)",
+      "source_image": "corpus/iiif/hamidiye_00033_p005.jpeg",
+      "decoration_present": true,
+      "decoration_types": ["colored", "illuminated_margins", "framing_system"],
+      "elements": [
+        {
+          "motif": "Diagonally-composed taʿlīq panel on dense gold-brown decorated ground",
+          "description": "The central panel contains a taʿlīq/nastaʿlīq calligraphic composition arranged diagonally across the panel surface. The text lines are set at approximately 30–35 degrees from horizontal, creating a dynamic diagonal script composition characteristic of Persian/Ottoman taʿlīq kıtʿa format. The ground of the panel is richly decorated: a warm gold-brown/amber color with dense allover decoration in the form of hatāyī arabesques and floral motifs, producing a saturated decorative ground over which the calligraphy is applied in black ink. The overall effect is of dark calligraphy on a luminous amber-gold ground.",
+          "location": "Central panel",
+          "confidence": 0.92
+        },
+        {
+          "motif": "Grey-blue patterned inner border band",
+          "description": "Between the outer mulevven margin and the gold-brown calligraphy panel, a grey-blue patterned border band is visible. The patterning within the band shows irregular mottled or veined marks consistent with either a marbled paper strip (possibly battal ebru in grey-blue tones) or a grey-blue illuminated band. At viewer screenshot resolution the technique cannot be definitively confirmed. The band integrates with the compound cetvelli framing.",
+          "location": "Inner border zone surrounding calligraphy panel",
+          "confidence": 0.78
+        },
+        {
+          "motif": "Pink/salmon mulevven outer margin",
+          "description": "Pink/salmon mulevven outer margin, consistent with pp003–004 but without clearly visible zerefşān at this resolution. The margin tone is slightly paler/more peachy-pink than p003.",
+          "location": "Outer margin",
+          "confidence": 0.93
+        },
+        {
+          "motif": "Multi-line cetvelli framing",
+          "description": "Compound dark green + gold cetvelli framing around the inner panel, consistent with pp003–004.",
+          "location": "Frame",
+          "confidence": 0.97
+        }
+      ],
+      "confidence": 0.90,
+      "notes": "The diagonally-composed taʿlīq panel on a decorated gold-brown ground is a distinctive compositional format. The inner grey-blue border band requires further examination — it may be a marbled paper strip integrated into the framing system (analogous to the ebru border strips documented in hamidiye_00034)."
+    },
+    {
+      "folio": "Basmala and hadith page — gold-ground panel, zerefşān mulevven (IIIF p010)",
+      "source_image": "corpus/iiif/hamidiye_00033_p010.jpeg",
+      "decoration_present": true,
+      "decoration_types": ["colored", "gold_sprinkled", "framing_system"],
+      "elements": [
+        {
+          "motif": "Basmala panel in large sülüs on gold ground with gold animal figure",
+          "description": "At the top of the page composition, a large rectangular panel displays the basmala (Bismillāhi l-Raḥmāni l-Raḥīm / بسم الله الرحمن الرحيم) in bold sülüs script on a gold (burnished gold leaf or zer-endūd) ground. The basmala letters are outlined in black ink with gold fill. At the upper right area of the gold panel, a faint gold-on-gold animal figure (dragon or mythical beast) is partially visible — likely a zer-ender-zer or gold-painted decorative figure integrated into the gold ground, visible only because of the slight tonal difference between the figure and the ground. This would make p010 an example of zer-ender-zer technique, though confirmation at higher resolution is needed.",
+          "location": "Upper section of page, full panel width",
+          "confidence": 0.88
+        },
+        {
+          "motif": "Naskh text panels with gold durak verse markers",
+          "description": "Below the basmala panel, multiple lines of naskh calligraphy are arranged in ruled text columns. Gold rosette durak (verse separator) markers appear between lines or sections. The text content appears to be a hadith or religious text in Arabic. The naskh panels are on a cream/white paper ground.",
+          "location": "Lower section of page",
+          "confidence": 0.94
+        },
+        {
+          "motif": "Pink/salmon mulevven with zerefşān — outer margin",
+          "description": "The outer margin is pink/salmon mulevven with fine gold zerefşān speckling clearly visible — the gold particles produce a scattered glitter effect against the warm pink ground. The zerefşān application on p010 is the most clearly visible instance in the examined images.",
+          "location": "Outer margin",
+          "confidence": 0.93
+        },
+        {
+          "motif": "Green-teal + gold multi-line cetvelli",
+          "description": "A refined compound cetvelli with dark green-teal outer frame and multiple gold rules frames the inner panel composition. The framing system on p010 appears slightly different from pp003–004 in the relative weight of the lines.",
+          "location": "Frame",
+          "confidence": 0.97
+        }
+      ],
+      "confidence": 0.92,
+      "notes": "The possible zer-ender-zer animal figure on the gold ground is a significant find that would, if confirmed, add a further dimension to the album's decorative program. Physical examination or higher-resolution imaging is needed. The basmala on gold ground is a characteristic element of high-quality Ottoman album production."
+    },
+    {
+      "folio": "Kufic calligraphy on polychrome marbled margins (IIIF p015)",
+      "source_image": "corpus/iiif/hamidiye_00033_p015.jpeg",
+      "decoration_present": true,
+      "decoration_types": ["marbled", "framing_system"],
+      "elements": [
+        {
+          "motif": "Polychrome marbled margin paper — battal or gel-git ebru",
+          "description": "The outer margin of p015 is covered with polychrome marbled paper in a pattern significantly more complex than the two-color battal ebru of p002. The marbling shows four colors: dark green/teal, red/pink, warm brown/earth, and cream/white, arranged in a swirling or flowing pattern. The scale and rhythm of the swirls suggests either battal ebru (irregular stone marbling with larger color fields) or gel-git ebru (come-and-go marbling with flowing S-curve formations from single stylus passes). At viewer screenshot resolution the subtype cannot be definitively determined. This marbled paper appears on the outer margins of both the left and right pages of a two-page opening (a double-page display), indicating that a marbled paper sheet was used as the mounting ground for the calligraphy panel.",
+          "location": "Outer margin — full width both sides of opening",
+          "confidence": 0.93
+        },
+        {
+          "motif": "Calligraphy panel — early script or kufic on cream ground",
+          "description": "The central panel contains calligraphy in a distinctive script: angular, heavily geometric letterforms on a cream/buff paper ground. The script appears to be early kufic or a highly stylized kufic-derived form — the thick horizontal strokes and perpendicular verticals are characteristic features. The calligraphy is arranged in two columns with a vertical dividing line. This is a significantly different calligraphic style from the sülüs/nesih/taʿlīq found on other pages, suggesting p015 may preserve an older or more archaizing specimen.",
+          "location": "Central calligraphy panel",
+          "confidence": 0.82
+        },
+        {
+          "motif": "Dark teal + gold cetvelli framing",
+          "description": "Compound cetvelli with dark teal outer frame and gold rule surrounding the calligraphy panel. Consistent with the framing system elsewhere in the album.",
+          "location": "Frame",
+          "confidence": 0.95
+        }
+      ],
+      "confidence": 0.92,
+      "notes": "Page 015 was NOT included in the initial visual confirmation report (which examined pp001, 002, 003, 005, 010, 021). The polychrome marbled paper at p015 is a NEW FINDING from direct IIIF examination by the metadata-generator. This demonstrates that the album's marbled paper program extends beyond the opening endpaper (p002) to include at least one interior page's margin paper as well. The possible kufic script is also a notable find — if confirmed, it would add a third script type (alongside sülüs/nesih and taʿlīq) to the album's calligraphic program, further supporting the 'mixed calligraphy album' characterization."
+    },
+    {
+      "folio": "Final calligraphy page — naskh/taʿlīq colophon, mulevven margin (IIIF p021)",
+      "source_image": "corpus/iiif/hamidiye_00033_p021.jpeg",
+      "decoration_present": true,
+      "decoration_types": ["colored", "framing_system"],
+      "elements": [
+        {
+          "motif": "Calligraphic text panel — naskh and taʿlīq mixed scripts",
+          "description": "The central panel contains calligraphy in a mixed-script format: the upper lines appear in naskh, transitioning to or interspersed with taʿlīq. The content is likely a concluding text, icāzet (certificate of calligraphic permission), or colophon prose. The calligraphy is on a plain cream/buff paper ground. The text fills the full panel area.",
+          "location": "Central panel",
+          "confidence": 0.88
+        },
+        {
+          "motif": "Pink/salmon mulevven outer margin",
+          "description": "The outer margin is pink/salmon mulevven paper, matching the dominant margin tone of the album's calligraphy pages. At this resolution the zerefşān is less clearly visible than on pp003, 004, and 010, but the colored ground is consistent with the rest of the album's mulevven program.",
+          "location": "Outer margin",
+          "confidence": 0.94
+        },
+        {
+          "motif": "Single-line gold cetvelli frame",
+          "description": "A single gold frame line surrounds the calligraphy panel. This is simpler than the compound multi-line cetvelli of the earlier pages, which may reflect the concluding/colophon character of p021 or a deliberate compositional contrast at the album's close.",
+          "location": "Frame",
+          "confidence": 0.93
+        }
+      ],
+      "confidence": 0.91,
+      "notes": "The final page of the album, likely a colophon or icāzet. The simplified single-line gold cetvelli relative to the compound systems earlier in the album is a common feature of concluding pages in Ottoman murakkaat. The pink/salmon mulevven outer margin maintains the album's decoration program through to the end."
+    }
+  ],
+  "terminology": {
+    "terms_used": [
+      {
+        "concept": "Imperial cipher / monogram",
+        "ottoman": "tuğra (طغرا)",
+        "arabic": "ṭughrā (طغراء)",
+        "persian": null,
+        "english": "Ottoman imperial cipher — stylized monogram of the sultan incorporating name, patronymic, and formula"
+      },
+      {
+        "concept": "Stone marbling",
+        "ottoman": "battal ebru (بطال ابرو)",
+        "arabic": null,
+        "persian": "abrī-ye battal (ابری بطال)",
+        "english": "battal ebru — irregular stone/spot marbling with mottled pattern"
+      },
+      {
+        "concept": "Colored paper",
+        "ottoman": "mülevven kâğıt (ملون کاغذ)",
+        "arabic": "waraq mulauwwan (ورق ملوّن)",
+        "persian": "kāġaḏ-e mulavvan (کاغذ ملوّن)",
+        "english": "mulevven — uniformly dyed/tinted paper"
+      },
+      {
+        "concept": "Gold-sprinkled paper",
+        "ottoman": "zerefşān / yaldız serpme (زرافشان)",
+        "arabic": "dhahab marshūsh (ذهب مرشوش)",
+        "persian": "zarafshān / afshān (افشان)",
+        "english": "zerefşān — fine gold particles scattered on paper surface"
+      },
+      {
+        "concept": "Window mounting",
+        "ottoman": "vassale",
+        "arabic": null,
+        "persian": null,
+        "english": "vassale — window-mounting technique in which calligraphy panel is set into a window cut from decorated paper ground"
+      },
+      {
+        "concept": "Ruling lines / frame",
+        "ottoman": "cedvel / cetvel (جدول)",
+        "arabic": "jadwal (جدول)",
+        "persian": "jadval (جدول)",
+        "english": "cetvelli — multi-line frame ruling system around calligraphy panel"
+      },
+      {
+        "concept": "Lotus-palmette arabesques",
+        "ottoman": "hatāyī (هتایی)",
+        "arabic": null,
+        "persian": "khatāʾī (ختایی)",
+        "english": "hatāyī — Chinese-derived composite lotus/peony floral forms used in illumination"
+      },
+      {
+        "concept": "Split-leaf palmette arabesque",
+        "ottoman": "rūmī (رومی)",
+        "arabic": null,
+        "persian": "rūmī (رومی)",
+        "english": "rūmī — split-leaf palmette scroll arabesque characteristic of Seljuk/Ottoman tradition"
+      }
+    ]
+  },
+  "bibliography": [
+    {
+      "citation": "Tanındı, Zeren. 'Bibliophile Aghas (Eunuchs) at Topkapı Saray.' Muqarnas 21 (2004): 333–43.",
+      "relevance": "Ottoman album culture and the circulation of calligraphy albums and decorated paper in the imperial court milieu; context for high-quality murakkaat production in the 18th century.",
+      "relevance_score": 0.72,
+      "access_notes": "Available through JSTOR."
+    },
+    {
+      "citation": "Çağman, Filiz, and Zeren Tanındı. 'Selections from the Albums of the Ottoman Treasury (16th–17th Centuries).' In The Pen and the Brush: How Calligraphy and Painting Came Together in Islamic Art, edited by Sheila Blair and Jonathan Bloom. Paris: Institut du Monde Arabe, 2017.",
+      "relevance": "The role of tuğra specimens within Ottoman calligraphy albums; parallels with the tuğra-calligraphy mixed muraqqaʿ format of Hamidiye 00033.",
+      "relevance_score": 0.78,
+      "access_notes": "Exhibition catalog."
+    },
+    {
+      "citation": "Derman, M. Uğur. Türk Hat Sanatının Şaheserleri / Masterpieces of Turkish Calligraphy. Istanbul: Sabancı Üniversitesi Sakıp Sabancı Müzesi, 1998.",
+      "relevance": "Fundamental reference for Ottoman calligraphy, including tuğra writing (tuğra-keşi) as a distinct calligraphic discipline; essential context for the two tuğra specimens in Hamidiye 00033.",
+      "relevance_score": 0.85,
+      "access_notes": "Turkish/English bilingual. Standard reference work."
+    },
+    {
+      "citation": "Safwat, Nabil F. The Art of the Pen: Calligraphy of the 14th to 20th Centuries. The Nasser D. Khalili Collection of Islamic Art, vol. 5. London: Azimuth Editions / Oxford University Press, 1996.",
+      "relevance": "Comprehensive survey of Islamic calligraphy across periods, with Ottoman material including tuğra writing; comparative reference for the Hamidiye tuğra specimens.",
+      "relevance_score": 0.78,
+      "access_notes": "Standard reference series."
+    },
+    {
+      "citation": "Blair, Sheila S. 'Color and Gold: The Decorated Papers Used in Manuscripts in Later Islamic Times.' Muqarnas 17 (2000): 24–36.",
+      "relevance": "The primary survey reference for decorated paper techniques including marbled (ebru), zerefşān, and mulevven papers; methodology and comparative context for the decoration program of Hamidiye 00033.",
+      "relevance_score": 0.90,
+      "access_notes": "Available through JSTOR and open-access."
+    },
+    {
+      "citation": "Bloom, Jonathan. Paper Before Print: The History and Impact of Paper in the Islamic World. New Haven: Yale University Press, 2001.",
+      "relevance": "Contextualizes the use of decorated paper in Islamic manuscript culture; essential background for the paper decoration tradition within which Hamidiye 00033 should be situated.",
+      "relevance_score": 0.72,
+      "access_notes": "Standard monograph."
+    },
+    {
+      "citation": "Déroche, François. Islamic Codicology: An Introduction to the Study of Manuscripts in Arabic Script. Translated by Deke Dusinberre and David Radzinowicz. London: Al-Furqan Islamic Heritage Foundation, 2005.",
+      "relevance": "Foundational codicological reference for manuscript physical description and terminology used in this catalog record; essential background for the cetvelli, vassale, and framing system descriptions.",
+      "relevance_score": 0.75,
+      "access_notes": "Standard reference work. English translation of the French original."
+    },
+    {
+      "citation": "Gacek, Adam. Arabic Manuscripts: A Vademecum for Readers. Handbook of Oriental Studies, Section 1: The Near and Middle East, vol. 98. Leiden: Brill, 2009.",
+      "relevance": "Standard terminology reference for Arabic manuscript cataloguing; used for cedvel, vassale, and format descriptions in this record.",
+      "relevance_score": 0.72,
+      "access_notes": "Standard reference work."
+    }
+  ],
+  "suggested_collections": [
+    {
+      "institution": "Topkapı Sarayı Müzesi Kütüphanesi",
+      "reason": "Holds the primary Ottoman court collection of tuğra specimens and murakkaat; direct comparison with authenticated tuğra specimens from the relevant reigns (Ahmed III, etc.) would enable definitive sultan attribution for the pp003–004 specimens.",
+      "digital_access": "https://kutuphane.tsmk.gov.tr"
+    },
+    {
+      "institution": "Türk ve İslam Eserleri Müzesi (TIEM)",
+      "reason": "TIEM corpus includes multiple confirmed Ottoman murakkaat with battal ebru, mulevven, and zerefşān decoration programs; comparative material for Hamidiye 00033's paper decoration sequence.",
+      "digital_access": null
+    }
+  ],
+  "provenance": {
+    "donor": "Hamidiye (Abd al-Hamid I, r. 1774–1789, or Abd al-Hamid II, r. 1876–1909) — collection name suggests imperial waqf donation to Süleymaniye Kütüphanesi",
+    "waqf": "Hamidiye Koleksiyonu — Süleymaniye Kütüphanesi",
+    "previous_shelfmarks": [],
+    "notes": "The Hamidiye collection at the Süleymaniye Kütüphanesi was formed from books donated or transferred under the patronage of one of the Ottoman sultans named Abdülhamid. The album is dated AH 1135 (1722–23 CE), over 50 years before the reign of Abd al-Hamid I (r. 1774–1789). The provenance of the album prior to its entry into the Hamidiye collection is not documented in the available sources."
+  },
+  "analysis_metadata": {
+    "analyzed_date": "2026-02-28",
+    "analyzer": "claude-code-manuscript-pipeline",
+    "image_source": "YEK IIIF portal (IIIF ID: 0000000289481) — viewer screenshots at ~1536px viewport width",
+    "image_quality_notes": "Images are viewer screenshots, not native IIIF resolution. Fine details (zerefşān grain size, zer-ender-zer distinction, subtype of marbled papers) require native-resolution IIIF download for confirmation. All major decoration types are visually identifiable at current resolution.",
+    "folios_examined": [
+      "corpus/iiif/hamidiye_00033_p001.jpeg",
+      "corpus/iiif/hamidiye_00033_p002.jpeg",
+      "corpus/iiif/hamidiye_00033_p003.jpeg",
+      "corpus/iiif/hamidiye_00033_p004.jpeg",
+      "corpus/iiif/hamidiye_00033_p005.jpeg",
+      "corpus/iiif/hamidiye_00033_p010.jpeg",
+      "corpus/iiif/hamidiye_00033_p015.jpeg",
+      "corpus/iiif/hamidiye_00033_p021.jpeg"
+    ],
+    "folios_not_examined": "Pages p006, p007, p008, p009, p011, p012, p013, p014, p016, p017, p018, p019, p020 (13 of 21 total pages; 62% of album not yet examined). Additional decoration types and decorated pages likely exist in the unexamined leaves.",
+    "yek_cataloguer": "Erdem Karaaslan",
+    "correction_note": "The original visual confirmation report (catalog/searches/visual_tier2g_hamidiye_00033.json) misidentified the tuğra specimens on pp003 and p004 as 'zoomorphic (bird-shaped) calligraphic composition' and 'figurative calligraphy'. Direct IIIF image examination confirms these are formal Ottoman tuğra (imperial ciphers) — the characteristic oval beyze with vertical tuğ strokes and standard tuğra text formula. The confusion arises from the elongated oval-with-projections form of the tuğra, which can superficially resemble a bird silhouette at thumbnail resolution. This correction is noted in the record and the folio analyses."
+  }
+}

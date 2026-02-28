@@ -319,11 +319,18 @@
         "english": "Somaki: an Ottoman term for the deep red or crimson stone-marble aesthetic, derived from the appearance of red porphyry (sumaqqī). Applied here to describe the deep crimson + white battal ebru palette on pp. 002–003. The somaki battal is the most unusual palette in the project corpus. Whether 'somaki ebru' is an established Ottoman technical term for this specific battal color variant requires specialist confirmation; the term is used here descriptively."
       },
       {
-        "concept": "Gel-git / combed marbling",
-        "ottoman": "gel-git ebru / taraklı ebru",
+        "concept": "Gel-git ebru — back-and-forth marbling",
+        "ottoman": "gel-git ebru",
         "arabic": null,
-        "persian": null,
-        "english": "Gel-git (back-and-forth) or taraklı (combed) ebru: marbled paper produced by drawing a comb or rake through floated pigments in alternating directions, creating flowing wave-like or feathered patterns. Present in this album only as the narrow cover border strip (p001), contrasting with the battal technique of the main cover field."
+        "persian": "abrī-ye gel-git (ابری گل‌گیت)",
+        "english": "Gel-git ebru ('come-go'): a single stylus (biz) is drawn back and forth through pigment on the marbling size, creating flowing, organic S-curve wave patterns. Distinct from taraklı ebru."
+      },
+      {
+        "concept": "Taraklı ebru — combed marbling",
+        "ottoman": "taraklı ebru",
+        "arabic": null,
+        "persian": "abrī-ye şāna (ابری شانه)",
+        "english": "Taraklı ebru ('combed'): a multi-toothed comb (tarak) is drawn through pigment on the marbling size, creating regular, evenly-spaced parallel lines. Distinct from gel-git ebru. Present in this album as the narrow cover border strip (p001), contrasting with the battal technique of the main cover field. Subtype (gel-git vs. taraklı) unconfirmed at screenshot resolution."
       },
       {
         "concept": "Calligraphic album",

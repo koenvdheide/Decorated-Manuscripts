@@ -1,0 +1,445 @@
+{
+  "record_id": "hamidiye_00018",
+  "collection": {
+    "institution": "Süleymaniye Kütüphanesi — Hamidiye Koleksiyonu",
+    "city": "Istanbul",
+    "country": "Turkey",
+    "shelfmark": "00018",
+    "yek_url": "https://portal.yek.gov.tr/works/detail/265193"
+  },
+  "manuscript": {
+    "title": "Muraqqaʿāt / مرقعات",
+    "title_script": "مرقعات",
+    "title_alt": "Murakkaat (Hamidiye 18)",
+    "author": null,
+    "author_dates": null,
+    "calligrapher": null,
+    "calligrapher_dates": null,
+    "calligrapher_note": "No ketebe inscription legible from the pages examined. The content is Arabic calligraphy in sülüs and nesih scripts containing Quranic verses and hadith texts. The large-format sülüs specimens suggest a trained Ottoman calligrapher working in the Arabic calligraphic tradition. No date is recorded in the YEK catalogue for this album.",
+    "date_ah": null,
+    "date_ce": null,
+    "date_note": "The YEK catalogue records no date for this album. The decoration program — hatip ebru front cover, polychrome battal/gel-git ebru endpapers and margin papers, compound cetvelli with vassale mounting — is consistent with Ottoman calligraphy album production of the 17th–18th century. The zerefşān-over-tinted-ground margin paper observed at p015 (orange/amber mulevven with gold sprinkling and possible stenciled botanical motifs) is a technique documented in other Hamidiye albums from the same general period. Physical examination and comparative analysis with dated albums would be needed to narrow the date range.",
+    "place_of_copy": null,
+    "format": "Muraqqaʿāt / مرقعات — dual-ebru-type calligraphic album with hatip ebru cover, polychrome battal/gel-git ebru endpapers and margin papers, zerefşān-over-mulevven margin paper, and compound cetvelli program",
+    "format_note": "A small-format bound calligraphic album (muraqqaʿ) of 20 folios / 20 pages (IIIF sequence), containing Arabic calligraphy panels in sülüs and nesih scripts with Quranic and hadith content. The album is distinguished by a DUAL-EBRU-TYPE decoration program: (1) a polychrome hatip ebru front cover (p001) with large sweeping leaf/frond motifs; (2) polychrome battal or gel-git ebru endpapers at both front (p002) and back (p020) of the album; and (3) the same polychrome ebru used as margin paper (yan kâğıdı) for interior calligraphy panels (pp003, 010). A further distinct paper type appears at p015: an orange/amber mulevven with zerefşān and possible stenciled botanical motifs. The compound multi-line cetvelli + vassale mounting system appears throughout on all calligraphy pages. This combination of hatip ebru exterior with battal/gel-git ebru interior endpapers and margin papers makes Hamidiye 00018 one of the most systematically documented dual-ebru-type albums in the project corpus, paralleling the pattern found in hamidiye_00032.",
+    "language": "Arabic",
+    "script": "Sülüs (ثلث) and Nesih (نسخ) — per YEK catalogue: 'Arap harfli — Muhtelif' (Arabic-script, Various)",
+    "dimensions_mm": {
+      "height": 230,
+      "width": 160,
+      "writing_area_mm": {
+        "height": 180,
+        "width": 115,
+        "note": "Writing area dimensions 180×115 mm per YEK catalogue (outer 230×160 mm, writing area 180×115 mm)"
+      },
+      "note": "Outer dimensions 230×160 mm; text area 180×115 mm per YEK catalogue. This is a small-format album — notably compact relative to hamidiye_00033 (475×300 mm) and hamidiye_00034 (355×255 mm)."
+    },
+    "folio_count": 20,
+    "yek_id": "265193",
+    "iiif_id": "0000000289496",
+    "notes": "The album is catalogued in YEK as Murakkaʿāt (20 yk., muhtelif st., no date), catalogued by Erdem Karaaslan. The IIIF sequence presents 20 pages. A large circular waqf seal is visible on p002 (inside front cover/doublure); the waqf seal text and ownership inscription above the seal on the same page identify the album's institutional history. The hatip ebru front cover is one of the finest in the Hamidiye collection: it deploys large sweeping organic leaf/frond forms in dark teal/grey-green against a warm pink/orange-salmon ground, with the hatip technique's characteristic botanical energy. The small album format (230×160 mm) but elaborate decoration program suggests a high-quality production intended for personal or institutional use rather than display purposes."
+  },
+  "paper_decoration": {
+    "types": [
+      "marbled",
+      "colored",
+      "gold_sprinkled",
+      "framing_system"
+    ],
+    "summary": "Hamidiye 00018 presents a dual-ebru-type paper decoration program of exceptional quality within a small-format (230×160 mm) calligraphic album. The program combines three distinct paper decoration categories: (1) HATIP EBRU FRONT COVER (p001): A polychrome hatip ebru (imam's marbling) covers the entire front board. The decoration features large organic leaf/frond forms with flowing, sweep-like strokes in dark teal/grey-green and grey-silver tones on a warm pink/salmon/orange ground. Small gold/yellow accent marks dot the ground. The hatip technique's characteristic large botanical motifs are clearly identifiable. This is one of the most vibrant and well-preserved hatip ebru covers in the Hamidiye collection, notable for the scale of the frond forms and the warm pink-orange ground color. (2) POLYCHROME BATTAL/GEL-GIT EBRU ENDPAPERS AND MARGIN PAPERS (pp002, 003, 010, 020): Polychrome marbled paper appears at the front endpaper (p002, right side), as margin paper flanking calligraphy panels on interior pages (pp003, 010), and at the back endpaper (p020). The palette is consistent throughout: dark green/teal, grey-silver, red/crimson, cream/white, with occasional yellow and dark purple-brown tones. The pattern on the endpapers (p002, p020) shows large-scale swirling forms with rounded lobes and sweeping curves suggesting gel-git (come-and-go) or battal ebru; the scale of the pattern units is larger than typical small-format battal ebru. The margin papers on the interior pages (pp003, 010) show the same palette but cropped to the page format. This four-color polychrome battal/gel-git program is markedly more elaborate than the two-color battal ebru of hamidiye_00033 (p002). (3) ZEREFŞĀN OVER MULEVVEN MARGIN PAPER WITH POSSIBLE STENCILED MOTIFS (p015): A distinct paper type appears on p015: an orange/amber mulevven (dyed paper) with fine zerefşān (gold sprinkling) over the colored ground. This combined mulevven + zerefşān technique is analogous to the mulevven + zerefşān observed in hamidiye_00033 (pp003, 004, 010) and hamidiye_00034. At viewer screenshot resolution, faint botanical forms (leaf silhouettes) are visible in the zerefşān field, potentially indicating a stenciled or block-printed botanical element over the zerefşān application; physical examination is needed to confirm the technique. (4) COMPOUND CETVELLI + VASSALE FRAMING THROUGHOUT: A multi-line cetvelli system with dark blue/teal outer frame and gold + red rules frames all calligraphy panels; vassale mounting is consistent throughout. Gold durak verse markers appear between text divisions.",
+    "distribution_notes": "p001: Hatip ebru front cover (full page; polychrome — dark teal/grey-green fronds on warm pink/salmon/orange ground; small gold/yellow accents; circular catalog cartouche at center with 'Hamidiye 18' notation; red Süleymaniye Kütüphanesi stamp upper right). p002: Left side — inside front cover (doublure): plain cream paper with large circular waqf seal (Arabic text), ownership inscription above seal, catalog number '18', library information label at bottom. Right side — front endpaper: full-page polychrome battal/gel-git ebru (dark green/teal, grey-silver, red/crimson, cream; large swirling rounded forms). p003: Double-page spread; polychrome battal/gel-git ebru visible as outer margin paper flanking both text panels; text panels: sülüs header ('Bismillāh…' right panel; Arabic text left panel) + naskh body text; gold durak verse markers; gold cedvel framing; vassale-mounted. p005: Close-up of sülüs calligraphy page; large sülüs script; multi-line blue + gold + red cetvelli framing; dark teal outer border; small gold durak; outer margin paper (marbled) visible at top edge. p010: Large sülüs header panel ('Kuttiba ʿalā l-qānitīna wa-man qāma bi-llāh…') on cream ground; naskh text below; gold durak markers; polychrome battal/gel-git ebru margin visible at top and right edges; multi-line blue + red + gold cetvelli; vassale-mounted. p015: Close-up; large sülüs calligraphy on cream/buff ground; outer margin: orange/amber mulevven with zerefşān speckling; possible faint stenciled botanical motifs in the gold-speckled margin; dark teal outer border; red spine edge visible at left. p020: Back endpaper (full page); polychrome large-scale marbling — dark green, red/crimson, cream/silver, with large sweeping swirl forms; same palette as p002 endpaper but with larger individual pattern units; red spine edge visible at top.",
+    "technique_terms": {
+      "ottoman": "hatip ebru (هاتپ ابرو) — büyük yaprak/frond formları, sıcak pembe/somon zemin; battal ebru (بطال ابرو) veya gel-git ebru — dört renkli (yeşil/zümrüt, gri-gümüş, kırmızı/kızıl, krem); mülevven kâğıt (ملون کاغذ) — turuncu/kehribar; zerefşān (زرافشان) — mülevven üzerine; olası şablon/kalıp baskılı bitkisel motif; altın cetvelli + vassale",
+      "persian": "abrī-ye ḥāṭib (ابری حاطب) — imam's marbling, large botanical motifs; abrī-ye battal yā gel-git (ابری بطال یا گل گیت) — polychrome; mulavvan-e nāranjī (ملوّن نارنجی) — orange/amber colored paper; zarafshān (زرافشان) — gold-sprinkled over colored ground; jadval-e murakkab (جدول مرکب) — compound ruling",
+      "arabic": "waraq muzakhraf (ورق مزخرف) — decorated paper; abrī (ابری) — marbled; jadwal mudhahdhab (جدول مذهّب) — gold ruling"
+    },
+    "catalogue_description": {
+      "paper_field": null,
+      "paper_field_normalized": null,
+      "paper_field_translation": null,
+      "notes_field": "Murakka'at (20 yk., muhtelif st., 230x160-180x115 mm, Arap harfli-Muhtelif)",
+      "notes_field_normalized": "Murakka'at (20 yk., muhtelif st., 230x160-180x115 mm, Arap harfli-Muhtelif)",
+      "notes_field_translation": "Album (20 folios, various formats, 230×160–180×115 mm, Arabic-script, Various [scripts])",
+      "decoration_field": null,
+      "source": "YEK portal, record 265193, Süleymaniye Kütüphanesi — Hamidiye Koleksiyonu. Catalogued by Erdem Karaaslan. Kâğıt özellikleri and tezhip/minyatür fields are null in the YEK record. All paper decoration observations derive from visual examination of IIIF images (7 pages at viewer screenshot resolution ~1536px viewport) and the visual_confirmation report (catalog/searches/visual_tier2g_hamidiye_00018.json)."
+    }
+  },
+  "workshop_attribution": {
+    "primary_tradition": "ottoman",
+    "workshop_centre": "Istanbul — probable high-quality Ottoman production",
+    "date_range_ce": "17th–18th century CE (undated; range based on decoration program typology)",
+    "confidence": 0.70,
+    "key_indicators": [
+      "Hatip ebru front cover is a distinctly Ottoman marbling tradition; the technique originated and primarily flourished in Ottoman Istanbul",
+      "Polychrome battal/gel-git ebru endpapers and margin papers are characteristic of high-quality Ottoman album production from the 17th century onward",
+      "Arabic calligraphy in sülüs and nesih with gold durak verse markers and compound cetvelli framing is consistent with Ottoman scriptorial practice for premium Quranic/hadith text albums",
+      "The zerefşān over mulevven combined technique (p015) is attested in other Ottoman albums in this corpus (hamidiye_00033, hamidiye_00034)",
+      "The dual-ebru program — hatip on cover, battal/gel-git on interior — parallels the decoration strategy documented in hamidiye_00032, placing Hamidiye 00018 within a recognizable Ottoman album type"
+    ],
+    "cross_tradition_caveats": [
+      "Without a date or colophon, the production period cannot be confirmed precisely; the decoration program is consistent with a broad range from the mid-17th to mid-18th century",
+      "The possible stenciled botanical motifs on p015 (zerefşān margin) require physical examination; if confirmed as stenciling, this would connect the album to the broader stenciled paper tradition that extends from 16th-century court production through the 19th century",
+      "The gel-git vs. battal subtype of the endpapers and margin papers cannot be confirmed at viewer screenshot resolution; gel-git ebru has a longer historical range and different production context than battal",
+      "No comparative study of the Hamidiye small-format muraqqaʿ group as a whole has been published; the relative chronology within the collection remains to be established"
+    ]
+  },
+  "codicology": {
+    "paper": {
+      "color": "Cover: hatip ebru — dark teal/grey-green frond forms on warm pink/salmon/orange ground (p001). Front endpaper: polychrome battal/gel-git ebru — dark green/teal, grey-silver, red/crimson, cream (p002 right side). Interior margin papers: polychrome battal/gel-git ebru (pp003, 010) — same palette as endpapers. Alternate margin paper (p015): orange/amber mulevven with zerefşān and possible stenciled botanical motifs. Back endpaper: polychrome battal/gel-git ebru — same palette as p002, larger swirl scale (p020). Calligraphy panels: cream/buff paper ground throughout.",
+      "preparation": "Calligraphy panels are written on sized and burnished (âharlı) cream paper appropriate to high-quality sülüs and nesih calligraphy. The hatip ebru front cover is produced directly on marbling size using the hatip technique. The battal/gel-git ebru endpapers and margin papers are produced as standard marbled papers and bound into or mounted within the album structure. The orange mulevven margin paper at p015 shows a two-step preparation (dyeing + zerefşān sprinkling); possible additional stencil layer requires physical examination.",
+      "weight": "Indeterminate from images. Standard Ottoman calligraphy album paper weights expected for calligraphy panels. The small format (230×160 mm) is consistent with intimate personal use.",
+      "decoration": "Hatip ebru (front cover, p001); polychrome battal/gel-git ebru (endpapers pp002, 020; margin papers pp003, 010); orange mulevven with zerefşān and possible stenciled motifs (p015); gold durak verse markers on calligraphy pages; compound altın cedvel system throughout.",
+      "paper_type": "Eastern paper (Doğu kâğıdı) for calligraphy panels; various decorated papers (hatip ebru, battal/gel-git ebru, mulevven) for cover, endpapers, and margins."
+    },
+    "ruling": {
+      "system": "Compound multi-line altın cedvel throughout all calligraphy pages. Observed sequence (from outside inward): polychrome ebru outer margin OR mulevven outer margin / dark blue/teal outer frame line / red rule / gold rule / calligraphy panel. The system on p005 is particularly elaborate: blue outer line, gold, red, gold in a 4-layer sequence. The back endpaper (p020) and front endpaper (p002) are full-page marbled papers without ruling.",
+      "description": "The compound cetvelli system applied to calligraphy pages in Hamidiye 00018 uses a dark blue/cobalt-blue outer frame — a distinctive choice that differs from the dark teal/green outer frames commonly seen in hamidiye_00033 and hamidiye_00034. The blue outer frame with gold and red interior rules creates a richer, more coloristic framing palette. Vassale mounting is consistently used: all calligraphy panels are separately produced sheets cut and mounted into the marbled margin paper grounds."
+    },
+    "binding": {
+      "cover_description": "The front cover (p001) is fully covered with hatip ebru paper. The design shows large organic leaf/frond forms — elongated sweeping botanical shapes in dark teal/grey-green and grey-silver colors, flowing across a warm pink/salmon/orange ground. Small gold/yellow accent marks are scattered across the ground. The hatip motifs have an exceptionally organic and dynamic quality, with the frond forms sweeping in curved arcs across the full cover. A central oval white cartouche contains the catalog inscription ('Hamidiye 18' and library information in Ottoman Turkish/Arabic). The red Süleymaniye Kütüphanesi library stamp appears at the upper right. A red leather spine is visible at the binding edge on the left side of the cover image. The back cover (p020 shows only the back endpaper — the back cover exterior was not captured in the examined IIIF pages).",
+      "cover_type": "Hatip ebrulu cilt — hatip marbled paper over boards; red leather spine",
+      "notes": "The hatip ebru front cover of Hamidiye 00018 is among the finest examples in the Hamidiye collection and the project corpus as a whole. Its distinguishing features are: (1) the exceptional scale of the botanical frond motifs, which sweep across the full cover surface rather than being arranged in a more formal allover repeat pattern; (2) the warm pink/salmon/orange ground color, which is distinctive relative to the more common blue-grey or neutral grounds seen in other hatip ebru covers in the corpus; (3) the dark teal/grey-green frond color, which creates a strong chromatic contrast with the warm ground. The combination of large-scale organic forms and high chromatic contrast places this cover in the company of the finest Ottoman hatip ebru specimens. It should be compared with hatip ebru covers in TIEM 02462, TIEM 02426, and TIEM 02489 for style and period comparison."
+    },
+    "format": "Muraqqaʿāt — Ottoman Arabic calligraphic album, small format (20 folios / 20 IIIF pages including cover and endpapers)",
+    "condition_summary": "The album is generally well-preserved based on the seven examined IIIF pages. The hatip ebru front cover retains vivid colors with strong chromatic saturation; minor surface abrasion is visible at the binding edges. The polychrome ebru endpapers are rich and well-preserved. The calligraphy pages show some foxing or light staining on a few pages (p015 shows minor surface marks at binding gutter and corners). Some ink oxidation is visible on the sülüs calligraphy on several pages. No catastrophic damage visible.",
+    "conservation_history": "No conservation history documented. The waqf seal on p002 (inside front cover) documents institutional ownership but no specific conservation campaigns are recorded."
+  },
+  "visual_confirmation": {
+    "verdict": "confirmed",
+    "confidence": 0.95,
+    "screenshots_examined": 7,
+    "folios_examined": [
+      "corpus/iiif/hamidiye_00018_p001.jpeg",
+      "corpus/iiif/hamidiye_00018_p002.jpeg",
+      "corpus/iiif/hamidiye_00018_p003.jpeg",
+      "corpus/iiif/hamidiye_00018_p005.jpeg",
+      "corpus/iiif/hamidiye_00018_p010.jpeg",
+      "corpus/iiif/hamidiye_00018_p015.jpeg",
+      "corpus/iiif/hamidiye_00018_p020.jpeg"
+    ],
+    "visual_evidence": "Decoration confirmed on all 7 examined pages. Hatip ebru front cover confirmed at p001 — large organic frond/leaf forms in dark teal on warm pink/salmon/orange ground; excellent condition. Polychrome battal/gel-git ebru endpaper confirmed at p002 (right side) — 4-color (green/teal, grey-silver, red/crimson, cream) with large swirling forms. Polychrome ebru as margin paper confirmed at p003 (flanking both text panels in double-page spread) and p010 (top and right edges). Multi-line blue + gold + red cetvelli confirmed on pp003, 005, 010. Vassale mounting confirmed on all calligraphy pages. Gold durak markers confirmed on pp003, 010. Zerefşān over orange/amber mulevven confirmed at p015 (NEW DETAIL supplementing visual confirmation report) — orange tinted ground with visible gold speckling and possible stenciled botanical leaf motifs. Back endpaper polychrome ebru confirmed at p020 — same palette as p002 but larger scale pattern units.",
+    "limitations": [
+      "7 of 20 pages examined (35% coverage). Additional decorated pages (ebru margins, mulevven papers) likely exist in the unexamined 13 pages.",
+      "Images captured as viewer screenshots (~1536px viewport width), not IIIF native resolution. Subtype of endpaper/margin marbling (battal vs. gel-git) cannot be confirmed at this resolution.",
+      "Possible stenciled botanical motifs on p015 zerefşān margin require physical examination or native-resolution imaging for confirmation.",
+      "Hatip ebru cover characterization is at viewer resolution — higher resolution would allow detailed analysis of individual frond/leaf forms, tip treatment, and production technique markers.",
+      "The back cover exterior (not p020 which is the back endpaper) was not available in the examined IIIF images.",
+      "Date of production undetermined; no colophon or ketebe inscription observed in examined pages."
+    ],
+    "source_agent": "visual-confirmation (catalog/searches/visual_tier2g_hamidiye_00018.json) + direct IIIF image examination by metadata-generator (2026-02-28)"
+  },
+  "folio_analyses": [
+    {
+      "folio": "Front cover — hatip ebru (IIIF p001)",
+      "source_image": "corpus/iiif/hamidiye_00018_p001.jpeg",
+      "decoration_present": true,
+      "decoration_types": ["marbled"],
+      "elements": [
+        {
+          "motif": "Hatip ebru front cover — large organic frond/leaf forms on warm pink/salmon ground",
+          "description": "The entire front cover is covered with polychrome hatip ebru (imam's marbling). The design is dominated by large, sweeping leaf/frond forms in dark teal/grey-green and grey-silver colors. The fronds have flowing organic shapes — elongated with slightly serrated or finely veined edges — that sweep across the cover in curving arcs. The ground is a warm pink/salmon-orange, somewhat darker and richer in tone than typical 'pink' grounds in other specimens. Small dot-like gold/yellow accents are scattered across the ground between the frond forms, adding a luminous quality. The overall effect is of a lush, botanically inspired hatip ebru with exceptional dynamic energy in the frond movements. A central oval white cartouche contains the catalog inscription ('Hamidiye 18' and library information). The red Süleymaniye Kütüphanesi library stamp is affixed at the upper right. Red leather spine visible at the left binding edge.",
+          "location": "Full front cover exterior",
+          "confidence": 0.97
+        }
+      ],
+      "confidence": 0.97,
+      "notes": "This is among the finest hatip ebru covers in the project corpus. The large scale of the frond motifs (relative to the album's small format), the dynamic sweeping composition, and the warm ground color distinguish it from other Hamidiye hatip ebru covers. The frond forms are most comparable in character to the large-leaf hatip specimens associated with the earlier 17th-century hatip tradition rather than the more compact rosette-type hatip covers seen in later specimens. This cover should be examined alongside TIEM 02462, TIEM 02489, and hamidiye_00034 for comparative period and style analysis."
+    },
+    {
+      "folio": "Inside cover (doublure) + front endpaper — waqf seal + battal/gel-git ebru (IIIF p002)",
+      "source_image": "corpus/iiif/hamidiye_00018_p002.jpeg",
+      "decoration_present": true,
+      "decoration_types": ["marbled"],
+      "elements": [
+        {
+          "motif": "Inside front cover (doublure) — waqf seal and ownership inscription on plain cream paper",
+          "description": "The left side of the double-page spread shows the inside front cover (doublure). Plain cream paper bears a large circular waqf seal impression with Arabic text; an ownership or endowment inscription in Ottoman Turkish/Arabic text above the seal; the catalog number '18' written in bold; and a library label at the bottom identifying the collection (Süleymaniye Kütüphanesi, Hamidiye collection, record 265193, Erdem Karaaslan cataloguer). This side is undecorated paper except for the seal.",
+          "location": "Left side of double-page spread — inside front cover",
+          "confidence": 0.99
+        },
+        {
+          "motif": "Front endpaper — polychrome battal/gel-git ebru with large swirling forms",
+          "description": "The right side of the double-page spread is the front endpaper: a full-page polychrome marbled paper. The marbling shows a four-color palette: dark green/teal, grey-silver/pewter, red/crimson, and cream/white, with possible yellow and purple-brown accents. The pattern is characterized by large rounded lobes and sweeping curved swirls with smooth continuous flow lines — more consistent with gel-git (come-and-go) ebru (single stylus drawn back and forth) or a large-scale battal ebru than with combed (taraklı) marbling. The individual color units are large relative to the page format, giving the endpaper a bold, energetic visual presence. The marbling fills the full page.",
+          "location": "Right side of double-page spread — front endpaper",
+          "confidence": 0.93
+        }
+      ],
+      "confidence": 0.96,
+      "notes": "The front endpaper's polychrome ebru is the first interior decoration element of the album. The large swirling form language suggests gel-git rather than battal technique, though at viewer screenshot resolution this cannot be definitively confirmed. The palette (dark green/teal, grey-silver, red/crimson, cream) will recur throughout the album's interior, establishing a consistent color identity for the ebru program."
+    },
+    {
+      "folio": "First calligraphy opening — sülüs + nesih on battal/gel-git ebru margins (IIIF p003)",
+      "source_image": "corpus/iiif/hamidiye_00018_p003.jpeg",
+      "decoration_present": true,
+      "decoration_types": ["marbled", "framing_system"],
+      "elements": [
+        {
+          "motif": "Polychrome battal/gel-git ebru as outer margin paper — both panels",
+          "description": "The polychrome marbled paper appears as the outer margin paper flanking both text panels in this double-page spread. The marbled paper is the same palette as the p002 endpaper (dark green/teal, grey-silver, red/crimson, cream), confirming that the same marbled paper batch is used consistently for both endpapers and interior margin papers. The ebru margins are visible at the left, right, and top edges of both text panels. The integration of the endpaper marbling as interior margin paper is the defining characteristic of the 'polychrome marbled paper album' type.",
+          "location": "Outer margins surrounding both text panels",
+          "confidence": 0.94
+        },
+        {
+          "motif": "Double-page calligraphy — sülüs header + nesih body text (Quranic content)",
+          "description": "Both panels of the double-page spread contain formal Arabic calligraphy: a large sülüs header at the top of each panel, followed by multiple lines of nesih body text. The right panel opens with a basmala ('Bismillāhi l-Raḥmāni l-Raḥīm') in sülüs above a first line in large sülüs: appears to be an opening text formula. Gold durak verse separator markers (rosette form) appear between text divisions. The content is Quranic or hadith text in Arabic. The panels are vassale-mounted on the marbled margin papers.",
+          "location": "Central text panels — both leaves of double-page opening",
+          "confidence": 0.92
+        },
+        {
+          "motif": "Multi-line gold cetvelli framing",
+          "description": "Gold rule lines frame each text panel, creating a formal separation between the calligraphy and the marbled margins. The framing is slightly simpler on this opening than on p005 (fewer lines), but the gold rule is clear and well-executed.",
+          "location": "Frame surrounding both text panels",
+          "confidence": 0.95
+        }
+      ],
+      "confidence": 0.93,
+      "notes": "This double-page spread is the first calligraphy opening of the album and demonstrates the core decoration formula: polychrome marbled margins with vassale-mounted Arabic calligraphy panels in sülüs/nesih. The consistency between the endpaper marbling (p002) and the margin paper marbling (p003) confirms a unified paper decoration program rather than ad-hoc assembly."
+    },
+    {
+      "folio": "Calligraphy page — sülüs on elaborate blue cetvelli (IIIF p005)",
+      "source_image": "corpus/iiif/hamidiye_00018_p005.jpeg",
+      "decoration_present": true,
+      "decoration_types": ["marbled", "framing_system"],
+      "elements": [
+        {
+          "motif": "Large sülüs calligraphy panel — hadith text",
+          "description": "The central panel contains a large sülüs calligraphy specimen. The text reads (partially legible): 'Qāla l-nabīyu ʿalayhim akrimu awlādakum / bi-l-kitābati wa-l-riwāyati wa-l-sibāḥati fa- / inna-hum aʿẓamu l-umūr ṣādiqun ḥabību llāh / …' — a hadith (prophetic saying) attributing the virtues of teaching writing, narration, and swimming to children. The large sülüs letterforms are well-formed and executed with confidence. Small gold durak markers appear between lines. The panel is on a cream/buff paper ground.",
+          "location": "Central calligraphy panel",
+          "confidence": 0.87
+        },
+        {
+          "motif": "Elaborate multi-line blue + gold + red cetvelli framing",
+          "description": "The calligraphy panel is framed by a compound cetvelli of exceptional chromatic richness: a dark cobalt-blue outer frame line, followed by a gold rule, then a red/crimson rule, then another gold inner rule. This 4-layer blue-gold-red-gold sequence is the most elaborate framing seen in the examined pages of this album and is visually distinctive within the Hamidiye corpus. A thin gap between the outer blue frame and the marbled margin paper is visible.",
+          "location": "Frame surrounding calligraphy panel",
+          "confidence": 0.95
+        },
+        {
+          "motif": "Polychrome battal/gel-git ebru outer margin — visible at top edge",
+          "description": "The polychrome marbled margin paper is visible at the top edge of the image above the blue cetvelli frame, confirming that the ebru margin paper extends to this page as well.",
+          "location": "Top margin edge",
+          "confidence": 0.88
+        }
+      ],
+      "confidence": 0.91,
+      "notes": "The hadith text content on p005 is notable — 'teach your children writing, narration, and swimming' is a well-known prophetic saying frequently inscribed in Ottoman calligraphy albums and exemplary specimens. The cobalt-blue + gold + red cetvelli on this page is among the most chromatic framing systems in the Hamidiye muraqqaʿ corpus examined to date."
+    },
+    {
+      "folio": "Interior calligraphy page — large sülüs header, battal/gel-git ebru margins (IIIF p010)",
+      "source_image": "corpus/iiif/hamidiye_00018_p010.jpeg",
+      "decoration_present": true,
+      "decoration_types": ["marbled", "framing_system"],
+      "elements": [
+        {
+          "motif": "Large sülüs header panel",
+          "description": "The top section of the page contains a large sülüs calligraphy line: 'Kuttiba ʿalā l-qānitīna wa-man qāma bi-llāh…' — a Quranic or hadith phrase in bold sülüs script on a cream ground. Gold durak rosette markers appear at the ends of text divisions. Below the sülüs header, a smaller-format naskh text section occupies the lower portion of the panel.",
+          "location": "Upper and lower sections of central panel",
+          "confidence": 0.88
+        },
+        {
+          "motif": "Polychrome battal/gel-git ebru as margin paper — top and right edges",
+          "description": "The polychrome marbled paper is clearly visible at the top and right edges of the calligraphy panel, consistent with the margin paper format seen at p003. The four-color palette (green/teal, grey-silver, red/crimson, cream) matches the endpaper and p003 margins, confirming the consistent use of the same ebru paper throughout the album's interior as margin paper for vassale-mounted panels.",
+          "location": "Top margin and right margin edges",
+          "confidence": 0.95
+        },
+        {
+          "motif": "Multi-line cetvelli framing — blue + red + gold",
+          "description": "The compound cetvelli with blue outer line and gold + red interior rules frames the calligraphy panel, consistent with the framing system on other pages.",
+          "location": "Frame",
+          "confidence": 0.95
+        }
+      ],
+      "confidence": 0.93,
+      "notes": "Page 010 confirms that the battal/gel-git ebru margin paper extends to interior pages well beyond the endpapers, establishing this as the primary decorative strategy for the album's entire calligraphy program — not merely an endpaper treatment."
+    },
+    {
+      "folio": "Calligraphy page — large sülüs on zerefşān-over-mulevven margins (IIIF p015)",
+      "source_image": "corpus/iiif/hamidiye_00018_p015.jpeg",
+      "decoration_present": true,
+      "decoration_types": ["colored", "gold_sprinkled", "framing_system"],
+      "elements": [
+        {
+          "motif": "Orange/amber mulevven with zerefşān — outer margin",
+          "description": "A distinctly different paper type appears as the margin paper for this page: orange/amber mulevven (dyed paper) with fine zerefşān gold speckling applied over the colored ground. The orange/amber tone is warm and relatively saturated — comparable to the orange mulevven documented at pp009–010 of hamidiye_00034 (though that orange is described as more vivid/saturated). Fine gold particles are visible against the orange ground, confirming the zerefşān application. Additionally, very faint botanical forms — elongated leaf silhouettes or frond shapes — appear to be present within the gold-speckled margin field, raising the possibility of a stenciled or block-printed botanical element applied over the zerefşān layer. At viewer screenshot resolution this additional motif layer cannot be definitively confirmed; physical examination is needed.",
+          "location": "Outer margin surrounding calligraphy panel",
+          "confidence": 0.85
+        },
+        {
+          "motif": "Large sülüs calligraphy on cream/buff paper",
+          "description": "The central panel contains large sülüs calligraphy in a diagonal composition (text lines set at an angle to the frame axes, creating a dynamic angled arrangement characteristic of Ottoman kıtʿa format). The letterforms are bold and well-executed. The calligraphy is on a plain cream/buff paper ground.",
+          "location": "Central calligraphy panel",
+          "confidence": 0.88
+        },
+        {
+          "motif": "Dark teal outer border frame",
+          "description": "A dark teal/green outer frame line is visible at the top of the page, forming the outer boundary of the cetvelli system. This is consistent with the framing elsewhere in the album.",
+          "location": "Outer frame edge",
+          "confidence": 0.93
+        }
+      ],
+      "confidence": 0.85,
+      "notes": "Page 015 is significant in presenting a DIFFERENT paper type from the dominant battal/gel-git ebru of the rest of the album. The orange/amber mulevven with zerefşān establishes that the album uses at least two distinct decorated paper types for its margins: polychrome ebru (primary) and mulevven + zerefşān (secondary, at least p015). Whether additional pages use the mulevven paper or the ebru paper cannot be determined from the examined subset alone. The possible stenciled botanical motifs over the zerefşān layer would, if confirmed, represent a third decorative technique and connect this album to the tradition of stencil-over-zerefşān compound papers documented elsewhere in Ottoman production. This page is a priority for native-resolution IIIF examination."
+    },
+    {
+      "folio": "Back endpaper — polychrome battal/gel-git ebru (IIIF p020)",
+      "source_image": "corpus/iiif/hamidiye_00018_p020.jpeg",
+      "decoration_present": true,
+      "decoration_types": ["marbled"],
+      "elements": [
+        {
+          "motif": "Back endpaper — polychrome large-scale battal/gel-git ebru",
+          "description": "The back endpaper is a full-page polychrome marbled paper, matching the front endpaper (p002) in palette: dark green/teal, red/crimson, cream/silver/white, with dark purple-brown accents. Relative to the front endpaper, the back endpaper shows somewhat larger individual pattern units — the swirling rounded forms are broader and more elongated, suggesting either a later dip from the marbling trough or a slightly different pressure distribution during the marbling process. The pattern retains the same large-scale organic sweep character. A red leather spine edge is visible at the top of the image, confirming the binding structure. The marbling is in excellent condition with vivid color retention.",
+          "location": "Full page — back endpaper",
+          "confidence": 0.94
+        }
+      ],
+      "confidence": 0.94,
+      "notes": "The back endpaper confirms the symmetrical ebru structure: polychrome battal/gel-git ebru at both the front (p002) and back (p020) of the album. This front-back symmetry in the endpaper treatment is a deliberate design choice consistent with the high quality of the album's overall paper decoration program. The subtle difference in pattern scale between front (p002) and back (p020) endpapers may be a natural consequence of marbling from the same size but with slightly different conditions, or it may indicate different paper sheets drawn from the same trough in sequence."
+    }
+  ],
+  "terminology": {
+    "terms_used": [
+      {
+        "concept": "Imam's marbling",
+        "ottoman": "hatip ebru (هاتپ ابرو)",
+        "arabic": null,
+        "persian": "abrī-ye ḥāṭib (ابری حاطب)",
+        "english": "hatip ebru — marbling technique producing large botanical/floral motifs worked with a stylus into pigment on size"
+      },
+      {
+        "concept": "Stone marbling / spot marbling",
+        "ottoman": "battal ebru (بطال ابرو)",
+        "arabic": null,
+        "persian": "abrī-ye battal (ابری بطال)",
+        "english": "battal ebru — irregular stone/spot marbling with mottled or swirling pattern"
+      },
+      {
+        "concept": "Come-and-go marbling",
+        "ottoman": "gel-git ebru",
+        "arabic": null,
+        "persian": null,
+        "english": "gel-git ebru — wave-like marbling pattern produced by drawing a single stylus back and forth through pigment on size; produces flowing S-curve formations"
+      },
+      {
+        "concept": "Colored paper",
+        "ottoman": "mülevven kâğıt (ملون کاغذ)",
+        "arabic": "waraq mulauwwan (ورق ملوّن)",
+        "persian": "kāġaḏ-e mulavvan (کاغذ ملوّن)",
+        "english": "mulevven — uniformly dyed/tinted paper"
+      },
+      {
+        "concept": "Gold-sprinkled paper",
+        "ottoman": "zerefşān / yaldız serpme (زرافشان)",
+        "arabic": "dhahab marshūsh (ذهب مرشوش)",
+        "persian": "zarafshān / afshān (افشان)",
+        "english": "zerefşān — fine gold particles scattered on paper surface"
+      },
+      {
+        "concept": "Window mounting",
+        "ottoman": "vassale",
+        "arabic": null,
+        "persian": null,
+        "english": "vassale — window-mounting technique in which calligraphy panel is set into a window cut from decorated paper ground"
+      },
+      {
+        "concept": "Ruling lines / frame",
+        "ottoman": "cedvel / cetvel (جدول)",
+        "arabic": "jadwal (جدول)",
+        "persian": "jadval (جدول)",
+        "english": "cetvelli — multi-line frame ruling system around calligraphy panel"
+      },
+      {
+        "concept": "Side/margin papers",
+        "ottoman": "yan kâğıtları",
+        "arabic": null,
+        "persian": null,
+        "english": "yan kâğıtları — decorative side papers flanking the vassale-mounted calligraphy panel; in this album, the polychrome ebru margin papers function as yan kâğıtları"
+      }
+    ]
+  },
+  "bibliography": [
+    {
+      "citation": "Blair, Sheila S. 'Color and Gold: The Decorated Papers Used in Manuscripts in Later Islamic Times.' Muqarnas 17 (2000): 24–36.",
+      "relevance": "The primary survey reference for decorated paper techniques including marbled (ebru), zerefşān, and mulevven papers; foundational methodology for identifying and describing the decoration program of Hamidiye 00018.",
+      "relevance_score": 0.92,
+      "access_notes": "Available through JSTOR and open-access."
+    },
+    {
+      "citation": "Tanındı, Zeren. 'Bibliophile Aghas (Eunuchs) at Topkapı Saray.' Muqarnas 21 (2004): 333–43.",
+      "relevance": "Ottoman album culture and the circulation of decorated calligraphy albums in the imperial court; context for the high-quality small-format muraqqaʿ type exemplified by Hamidiye 00018.",
+      "relevance_score": 0.70,
+      "access_notes": "Available through JSTOR."
+    },
+    {
+      "citation": "Bloom, Jonathan. Paper Before Print: The History and Impact of Paper in the Islamic World. New Haven: Yale University Press, 2001.",
+      "relevance": "Background history of paper in the Islamic world; essential context for the decorated paper tradition within which hatip ebru, battal ebru, and zerefşān practices should be understood.",
+      "relevance_score": 0.72,
+      "access_notes": "Standard monograph."
+    },
+    {
+      "citation": "Sturkenboom, Ilse. 'Marbled Paper in the Islamic World: Recent Research and New Directions.' GlobalDecoPaper Working Papers, LMU Munich (forthcoming).",
+      "relevance": "Emerging scholarship on decorated paper classification including hatip and battal ebru types in Persianate and Ottoman manuscripts; most directly relevant recent research on the ebru program of Hamidiye 00018.",
+      "relevance_score": 0.88,
+      "access_notes": "Forthcoming; check GlobalDecoPaper ERC Project (LMU Munich) for preprints."
+    },
+    {
+      "citation": "Derman, M. Uğur. Türk Hat Sanatının Şaheserleri / Masterpieces of Turkish Calligraphy. Istanbul: Sabancı Üniversitesi Sakıp Sabancı Müzesi, 1998.",
+      "relevance": "Reference for Ottoman Arabic calligraphy in sülüs and nesih scripts; context for the calligraphic content of Hamidiye 00018.",
+      "relevance_score": 0.75,
+      "access_notes": "Turkish/English bilingual. Standard reference work."
+    },
+    {
+      "citation": "Déroche, François. Islamic Codicology: An Introduction to the Study of Manuscripts in Arabic Script. Translated by Deke Dusinberre and David Radzinowicz. London: Al-Furqan Islamic Heritage Foundation, 2005.",
+      "relevance": "Foundational codicological reference for manuscript physical description; methodology for cetvelli, vassale, and format descriptions in this catalog record.",
+      "relevance_score": 0.75,
+      "access_notes": "Standard reference work."
+    },
+    {
+      "citation": "Gacek, Adam. Arabic Manuscripts: A Vademecum for Readers. Handbook of Oriental Studies, Section 1: The Near and Middle East, vol. 98. Leiden: Brill, 2009.",
+      "relevance": "Terminology reference for Arabic manuscript cataloguing; sülüs, nesih, durak, and format terminology used in this record.",
+      "relevance_score": 0.72,
+      "access_notes": "Standard reference work."
+    },
+    {
+      "citation": "Bağcı, Serpil, Filiz Çağman, Günsel Renda, and Zeren Tanındı. Ottoman Painting. Translated by Liz Behmoaras. Ankara: Ministry of Culture and Tourism, 2006.",
+      "relevance": "Comprehensive survey of Ottoman painting and decorative arts including album culture; comparative context for Hamidiye 00018 within the broader Ottoman luxury arts tradition.",
+      "relevance_score": 0.68,
+      "access_notes": "English translation of Turkish original; distributed by the Turkish Ministry of Culture."
+    }
+  ],
+  "suggested_collections": [
+    {
+      "institution": "Türk ve İslam Eserleri Müzesi (TIEM)",
+      "reason": "TIEM corpus includes multiple confirmed Ottoman muraqqaat with hatip ebru covers and polychrome ebru endpapers; direct comparative material for Hamidiye 00018's dual-ebru program. TIEM 02462, 02426, and 02489 are particularly relevant comparanda.",
+      "digital_access": null
+    },
+    {
+      "institution": "Topkapı Sarayı Müzesi Kütüphanesi",
+      "reason": "Holds the primary Ottoman court collection of calligraphy albums; comparative specimens for the hatip ebru cover type and the polychrome ebru + mulevven paper programs.",
+      "digital_access": "https://kutuphane.tsmk.gov.tr"
+    }
+  ],
+  "provenance": {
+    "donor": "Hamidiye (Abd al-Hamid I, r. 1774–1789, or Abd al-Hamid II, r. 1876–1909) — collection name suggests imperial waqf donation to Süleymaniye Kütüphanesi",
+    "waqf": "Hamidiye Koleksiyonu — Süleymaniye Kütüphanesi. A waqf seal inscription is visible on the inside front cover (p002 left side); the seal text has not been fully transcribed from the examined images.",
+    "previous_shelfmarks": [],
+    "notes": "The album is undated. Its entry into the Hamidiye collection and any pre-institutional ownership history are not documented in the available sources. The waqf seal on p002 should be transcribed and cross-referenced with known Ottoman endowment records to establish the donation history."
+  },
+  "analysis_metadata": {
+    "analyzed_date": "2026-02-28",
+    "analyzer": "claude-code-manuscript-pipeline",
+    "image_source": "YEK IIIF portal (IIIF ID: 0000000289496) — viewer screenshots at ~1536px viewport width",
+    "image_quality_notes": "Images are viewer screenshots, not native IIIF resolution. The subtype of the marbled endpapers and margin papers (battal vs. gel-git) requires native-resolution IIIF download or physical examination for confirmation. The possible stenciled botanical motifs on the p015 zerefşān margin are only faintly visible at current resolution; native resolution is needed for confirmation. All major decoration types are visually identifiable at current resolution.",
+    "folios_examined": [
+      "corpus/iiif/hamidiye_00018_p001.jpeg",
+      "corpus/iiif/hamidiye_00018_p002.jpeg",
+      "corpus/iiif/hamidiye_00018_p003.jpeg",
+      "corpus/iiif/hamidiye_00018_p005.jpeg",
+      "corpus/iiif/hamidiye_00018_p010.jpeg",
+      "corpus/iiif/hamidiye_00018_p015.jpeg",
+      "corpus/iiif/hamidiye_00018_p020.jpeg"
+    ],
+    "folios_not_examined": "Pages p004, p006, p007, p008, p009, p011, p012, p013, p014, p016, p017, p018, p019 (13 of 20 total pages; 65% of album not yet examined). Additional decorated pages (ebru margins and possibly further mulevven + zerefşān margins) likely exist in the unexamined leaves.",
+    "yek_cataloguer": "Erdem Karaaslan",
+    "supplementary_note": "The metadata-generator's direct examination of the IIIF images added the following findings beyond what was in the visual confirmation report: (1) p015 zerefşān detail — the orange/amber mulevven + zerefşān paper type with possible stenciled botanical motifs was identified as a DISTINCT paper type from the dominant ebru program, not previously recorded in the visual confirmation report; (2) p005 hadith text partially transcribed; (3) the marbling subtype on endpapers and margins is more consistent with gel-git or large-scale battal than simple battal, suggesting a possible subtype revision pending higher-resolution confirmation."
+  }
+}

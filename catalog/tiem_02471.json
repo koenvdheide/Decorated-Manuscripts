@@ -243,7 +243,7 @@
         }
       ],
       "confidence": 0.83,
-      "notes": "The gel-git ebru on p007 left is the clearest example of combed marbling in the album. The variety of marbling subtypes across interior pages (battal, hatip, gel-git) suggests the album maker had access to a comprehensive range of Ottoman marbled paper types."
+      "notes": "The gel-git ebru on p007 left is the clearest example of back-and-forth (gel-git) marbling in the album. The variety of marbling subtypes across interior pages (battal, hatip, gel-git) suggests the album maker had access to a comprehensive range of Ottoman marbled paper types."
     },
     {
       "folio": "p010 — Rear endpaper opening: battal ebru (left) + Type B ogival lattice (right)",
@@ -320,11 +320,18 @@
         "english": "Battal ebru (stone/spot marbling): the simplest marbled paper, produced by allowing pigments to float freely on size without manipulation. Creates an irregular spotted or mottled pattern."
       },
       {
-        "concept": "Combed marbling",
-        "ottoman": "gel-git ebru / taraklı ebru",
+        "concept": "Gel-git ebru — back-and-forth marbling",
+        "ottoman": "gel-git ebru",
         "arabic": null,
-        "persian": null,
-        "english": "Gel-git ebru (back-and-forth marbling) / taraklı ebru (combed marbling): marbled paper produced by drawing a comb or rake through floated pigments in alternating directions. Creates flowing, wave-like or feathered patterns."
+        "persian": "abrī-ye gel-git (ابری گل‌گیت)",
+        "english": "Gel-git ebru ('come-go'): a single stylus (biz) is drawn back and forth through pigment on the marbling size, creating flowing, organic S-curve wave patterns. Distinct from taraklı ebru."
+      },
+      {
+        "concept": "Taraklı ebru — combed marbling",
+        "ottoman": "taraklı ebru",
+        "arabic": null,
+        "persian": "abrī-ye şāna (ابری شانه)",
+        "english": "Taraklı ebru ('combed'): a multi-toothed comb (tarak) is drawn through pigment on the marbling size, creating regular, evenly-spaced parallel lines. Distinct from gel-git ebru."
       },
       {
         "concept": "Gold-worked paper",

@@ -1,0 +1,446 @@
+{
+  "record_id": "galata_mevlevihanesi_00110",
+  "collection": {
+    "institution": "Süleymaniye Kütüphanesi — Galata Mevlevîhânesi Koleksiyonu",
+    "city": "Istanbul",
+    "country": "Turkey",
+    "shelfmark": "00110",
+    "yek_url": "https://portal.yek.gov.tr/works/detail/246892",
+    "yek_id": "246892",
+    "iiif_id": "0000000185338"
+  },
+  "manuscript": {
+    "title": "Muraqqaʿāt / مرقعات",
+    "title_script": "مرقعات",
+    "title_alt": "Murakkaat (Galata Mevlevîhânesi 110)",
+    "author": null,
+    "calligrapher": "Mahmud Celaleddin (محمود جلال الدین)",
+    "calligrapher_dates": "b. c. 1750 (Dagestan/Caucasia); d. 1244/1829 (Istanbul)",
+    "calligrapher_note": "Mahmud Celaleddin Efendi is one of the most distinguished Ottoman calligraphers of the late 18th and early 19th century. Born in Dagestan, he relocated to Istanbul with his father and trained initially under Abdullatif Efendi before adopting a largely independent approach modelled on deep study of Hâfız Osmân's work (d. 1110/1698). He produced prayer books, murakkaat, hilye specimens, and monumental architectural inscriptions including the Eyüp Sultan Mosque imaret and the tomb of Mihrişah Sultan. His works are preserved in the Türk Vakıf Hat Sanatları Müzesi (TIEM), Istanbul. The Galata Mevlevîhânesi 00110 album, containing verses from Ibn al-Fāriḍ and Imâm Bûsîrî's divans, represents the sülusü-nesih murakkaa tradition in its fully developed late Ottoman form.",
+    "date_ah": null,
+    "date_ce": "late 18th–early 19th century (calligrapher's floruit c. 1780–1829)",
+    "date_note": "The album is undated. The date range is inferred from Mahmud Celaleddin's known working period. The richness of the decorated paper program — systematic mülevven rotation across 8 text openings, zerefşân applied over every colored margin, polychrome illuminated headbands — is consistent with high-grade Istanbul production of the calligrapher's mature period, approximately 1800–1829.",
+    "place_of_copy": "Istanbul (probable)",
+    "format": "Muraqqaʿāt — calligraphy album (sülüs + nesih) with 5-to-6-color mülevven margin program and zerefşân throughout",
+    "language": "Arabic",
+    "script": "Sülüs (ثلث) and nesih (نسخ) — as per YEK catalogue: 'Arap harfli — Sülüs ve Nesih'",
+    "content": "Verses from the divans of Ibn al-Fāriḍ (ابن الفارض, 1181–1235) and Imâm Bûsîrî (البوصيري, 1213–1294). The inclusion of both major Arabic devotional poets in a single album is characteristic of Ottoman Istanbul's premium calligraphic album tradition of the late 18th–early 19th century.",
+    "dimensions_mm": {
+      "height": 260,
+      "width": 180,
+      "writing_area_mm": {
+        "height": 205,
+        "width": 108,
+        "note": "Writing area dimensions per YEK catalogue (205×108 mm)"
+      },
+      "note": "Outer dimensions 260×180 mm; text area 205×108 mm per YEK catalogue"
+    },
+    "folio_count": 16,
+    "iiif_page_count": 11,
+    "iiif_note": "The IIIF sequence contains 11 scanned images for a 16-yaprak album. This is consistent with scanning as bifolio openings (double-page spreads): pp002–009 are 8 text openings = 16 pages; p001 = front cover opening; p010 = back cover opening; p011 = back cover exterior."
+  },
+  "paper_decoration": {
+    "types": [
+      "colored",
+      "gold_sprinkled",
+      "illuminated_margins",
+      "framing_system"
+    ],
+    "summary": "Galata Mevlevîhânesi 00110 presents one of the richest and most systematic multi-color mülevven programs in the project corpus. The decoration unfolds across all 16 folios in a consistent scheme: (1) SYSTEMATIC MULTI-COLOR MÜLEVVEN MARGINS: all text-bearing opening pages (pp002–009 in the IIIF sequence, representing 16 internal leaves) carry distinctly colored outer margin paper, with each opening deploying a new color or color pair in rotation. The confirmed colors are: olive-green / olive-gold (p002), salmon/pink (pp003, 005), light green (p006), cream/pale yellow (pp004, 007), pale gold/cream (p008), and warm orange/saffron (p009). The front and back flyleaves are vivid bright yellow (p001 right side, p010 left side). The program thus encompasses a minimum of 5–6 distinct hues: yellow, olive-green, salmon/pink, light green, cream/off-white, and warm orange/saffron — one of the highest confirmed color-count mülevven programs in the corpus. The doublure papers (p001 left side, p010 right side) are olive-green with dense dark speckles, possibly battal ebru rather than plain colored paper (resolution does not permit definitive classification). (2) ZEREFŞÂN THROUGHOUT: all colored margin papers on the text openings show uniformly distributed dark speckles consistent with gold-sprinkling (zerefşân). The YEK catalogue explicitly confirms: 'Tezhibli ve zerefşanlıdır.' The distribution pattern — fine, evenly scattered particles across every margin page — is consistent with kalbur zerefşanı (sieve-sprinkled gold). The doublure papers (pp001, 010) show denser, more irregular speckles that may indicate battal ebru or a coarser fırça zerefşanı technique. Physical examination is required to confirm whether the speckles on interior pages are metallic gold particles (zerefşân) or colored paint (boya efşân). (3) ILLUMINATED HEADBANDS (TEZHİPLİ SERLEVHALAR): each text opening carries polychrome illuminated bands (serlevha / ʿunwān) at both the top and bottom of each calligraphy panel. These bands feature hatāyī-derived floral motifs — penç (five-petalled rosettes), gonca (buds), and leafy stem scrolls — in a red, blue, and gold palette, consistent with late Ottoman Istanbul tezhip. Polychrome floral medallions (gül / rozet) appear between the sülüs and nesih text lines on each panel. (4) FRAMING SYSTEM: gold cedvel (altın cedvel) with a green inner border frames each calligraphy panel on every opening. The calligraphy panels are vassale-mounted in the colored margin papers — the standard Ottoman murakka mounting technique. The compound framing system uses gold outer rule, green narrow filler band, and further gold inner rule, producing a 3-layer altın-yeşil-altın sequence. A brown-red leather border is visible at the extreme outer edge of each opening.",
+    "distribution_notes": "p001 (cover opening): front cover exterior (brown leather, gold double-rule tooling) + doublure (olive-green speckled, possibly battal ebru) + vivid yellow flyleaf. pp002–009 (text openings, 8 bifolio spreads): p002 = olive-green/olive-gold mülevven + zerefşân; p003 = salmon/pink mülevven + zerefşân + illuminated headbands; p004 = cream/off-white mülevven + zerefşân + illuminated headbands; p005 = salmon/pink mülevven + zerefşân + illuminated headbands; p006 = light green mülevven + zerefşân + illuminated headbands; p007 = cream/pale yellow mülevven + zerefşân; p008 = pale gold/cream mülevven + zerefşân; p009 = warm orange/saffron mülevven + zerefşân + illuminated headbands (blue floral). p010 (back cover opening): vivid yellow flyleaf (matching p001) + olive-green speckled doublure (matching p001 exterior). p011 (back cover exterior): brown leather with gold double-rule tooling; library labels visible (shelfmark I-110, T 2451).",
+    "colour_program": {
+      "confirmed_colors": [
+        "vivid yellow / sari (flyleaves: pp001 right, p010 left)",
+        "olive-green / zeytin yeşili (text opening p002; doublure pp001 left, p010 right)",
+        "salmon / pink / pembe-somon (text openings pp003, p005)",
+        "cream / off-white / krem (text opening p004)",
+        "light green / açık yeşil (text opening p006)",
+        "cream / pale yellow / soluk sarı (text opening p007)",
+        "pale gold / cream / soluk altın (text opening p008)",
+        "warm orange / saffron / turuncu-safran (text opening p009)"
+      ],
+      "distinct_color_count_minimum": 5,
+      "distinct_color_count_probable": 6,
+      "note": "The cream/off-white (p004) and pale yellow (p007) may be the same or closely related hues at this resolution; light green (p006) is visually distinct from olive-green (p002). The total program spans a minimum of 5 confirmed distinct colors, with 6 probable."
+    },
+    "technique_terms": {
+      "ottoman": "mülevven kâğıt (ملون کاغذ) — çok renkli: sarı, zeytin yeşili, pembe/somon, açık yeşil, krem, turuncu/safran; zerefşân / yaldız serpme (زرافشان); tezhibli serlevha / ʿunwân (ünvan tezhibi); altın cedvel (آلتین جدول) + yeşil iç cedvel; vassale montaj",
+      "persian": "mulavvan (ملوّن) — colored paper, multi-color polychrome sequence; zarafshān / afshān (افشان) — gold-sprinkled; sarlawḥ (سرلوح) — illuminated headpiece; jadval-e ṭilāyī (جدول طلایی) — gold ruling",
+      "arabic": "waraq mulawwan (ورق ملوّن) — colored paper; dhahab marshūsh (ذهب مرشوش) — gold-sprinkled; ʿunwān (عنوان) — illuminated headpiece; jadwal mudhahdhab (جدول مذهّب) — gold ruling"
+    },
+    "catalogue_description": {
+      "paper_field": null,
+      "notes_field": "Sayfalar farklı renktedir.",
+      "notes_field_translation": "The pages are of different colors.",
+      "decoration_field": "Tezhibli ve zerefşanlıdır.",
+      "decoration_field_translation": "It is illuminated and gold-sprinkled.",
+      "binding_field": "Kahverengi deri ciltlidir.",
+      "binding_field_translation": "It has a brown leather binding.",
+      "content_field": "İbnü'l-Fârız ve İmâm Bûsîrî dîvânından beyitleri ihtiva etmektedir.",
+      "content_field_translation": "It contains verses from the divans of Ibn al-Fāriḍ and Imâm Bûsîrî.",
+      "source": "YEK portal, record 246892, Süleymaniye Kütüphanesi — Galata Mevlevîhânesi Koleksiyonu. Cataloguer: Fakirullah Yıldız (04.12.2020). Library labels: T 2451, shelfmark I-110."
+    }
+  },
+  "workshop_attribution": {
+    "primary_tradition": "ottoman",
+    "workshop_centre": "Istanbul",
+    "date_range_ce": "c. 1800–1829",
+    "confidence": 0.88,
+    "key_indicators": [
+      "Calligrapher Mahmud Celaleddin Efendi (b. c. 1750 Dagestan; d. 1244/1829 Istanbul) was a leading Ottoman calligrapher of the late 18th–early 19th century; his works are preserved at TIEM and the Sakıp Sabancı Museum",
+      "Content — verses from Ibn al-Fāriḍ and Imâm Bûsîrî — is characteristic of high-grade Istanbul murakkaa production of the calligrapher's mature period",
+      "Sülüs + nesih pairing is the canonical Ottoman calligraphic album script combination",
+      "Systematic multi-color mülevven rotation with zerefşân overlay is the hallmark of top-tier Ottoman Istanbul album production; the 5–6 color program places this album among the most elaborate examples in the corpus",
+      "Polychrome illuminated headbands in red/blue/gold hatāyī-derived tezhip are consistent with the Istanbul nakkaşhane tradition of the late 18th–early 19th century",
+      "Brown leather binding with gold double-rule tooling and Galata Mevlevîhânesi vakfı provenance confirm Istanbul institutional context"
+    ],
+    "cross_tradition_caveats": [
+      "Album is undated; date range is inferred entirely from the calligrapher's floruit and death date",
+      "The olive-green doublure papers (pp001, 010) with dense speckles may be battal ebru rather than mülevven — physical examination of the binding structure is needed to determine whether these are part of the original program or a later intervention",
+      "Zerefşân confirmation depends on physical examination; the dark speckles on mülevven margins could alternatively be boya efşân (colored paint sprinkling) or age-related foxing"
+    ]
+  },
+  "codicology": {
+    "paper": {
+      "color": "Flyleaves: vivid yellow (sari). Interior sequence (confirmed 5–6 colors): olive-green/olive-gold (p002), salmon/pink (pp003, 005), cream/off-white (p004), light green (p006), cream/pale yellow (p007), pale gold/cream (p008), warm orange/saffron (p009). Calligraphy panels: cream/white, sized and burnished. Doublures: olive-green with dense dark speckles.",
+      "preparation": "Calligraphy panels are written on cream/white sized and burnished (âharlı) paper, consistent with standard Ottoman premium calligraphy practice. The mülevven margin papers are distinctly dyed or tinted papers, each opening deploying a single color field. Fine dark speckles (zerefşân per catalogue) are applied over the colored margins. The calligraphy panels are vassale-mounted within the margins.",
+      "decoration": "Mülevven in five to six colors (margin papers); zerefşân overlay on all colored margins; polychrome illuminated headbands (serlevha) at top and bottom of each calligraphy panel; gold floral medallions (gül / rozet) between text lines; altın cedvel + green inner border framing.",
+      "paper_type": "Eastern paper (Doğu kâğıdı) or Ottoman-produced sized paper for calligraphy panels; distinctly dyed mülevven papers for margin fields."
+    },
+    "ruling": {
+      "system": "Compound altın cedvel (gold ruling) throughout. Visible sequence: outer brown-red leather border / colored mülevven margin / gold outer rule / green narrow band / gold inner rule / calligraphy panel. The calligraphy panels are vassale-mounted within this framing system.",
+      "description": "Each opening shows a consistent 3–4 layer cedvel: (1) outer gold rule forming the outer perimeter of the mounted panel, (2) green narrow inner border (approximately 2–3 mm), (3) gold inner rule directly framing the writing surface. The framing system is repeated identically on both recto and verso of each opening, creating a symmetrical double-page layout. A red/maroon thin outer band is visible at the extreme outer edge of the panel mount on several pages."
+    },
+    "binding": {
+      "cover_description": "Brown leather binding (kahverengi deri cilt) with gold double-rule tooling at the outer edge of both covers. No other decorative elements visible on the exterior. The back cover exterior (IIIF p011) shows the plain brown leather surface with gold frame lines and library labels (T 2451, Süleymaniye Kütüphanesi — Galata Mevlevîhânesi — Demirbaş: I-110).",
+      "cover_type": "Plain brown leather binding; no marbled or decorated paper on covers",
+      "doublure": "Olive-green speckled paper (possibly battal ebru or heavily zerefşânlı mülevven) visible as doublure on both inside covers (pp001 left, p010 right).",
+      "notes": "The brown leather binding and yellow flyleaves are standard components of a well-made late Ottoman Istanbul murakka. The doublure paper (olive-green with dense irregular speckles) is a distinctive element that requires physical examination to classify definitively as battal ebru or zerefşân-over-mülevven."
+    },
+    "format": "Muraqqaʿāt — late Ottoman calligraphic album (16 yaprak / folios, 11 IIIF images)",
+    "condition_summary": "Generally well-preserved based on IIIF examination. The mülevven margins retain good chromatic intensity across all pages. Some light foxing or soiling is visible on the cream-colored pages (pp004, 007, p008). The p007 margin shows some staining noted in the visual confirmation report. The binding edges and leather covers show normal wear. No catastrophic damage, missing leaves, or major repair campaigns visible from IIIF images.",
+    "conservation_history": null
+  },
+  "visual_confirmation": {
+    "verdict": "confirmed",
+    "confidence": 0.95,
+    "screenshots_examined": 11,
+    "folios_examined": [
+      "corpus/iiif/galata_mevlevihanesi_00110_p001.jpeg",
+      "corpus/iiif/galata_mevlevihanesi_00110_p002.jpeg",
+      "corpus/iiif/galata_mevlevihanesi_00110_p003.jpeg",
+      "corpus/iiif/galata_mevlevihanesi_00110_p004.jpeg",
+      "corpus/iiif/galata_mevlevihanesi_00110_p005.jpeg",
+      "corpus/iiif/galata_mevlevihanesi_00110_p006.jpeg",
+      "corpus/iiif/galata_mevlevihanesi_00110_p007.jpeg",
+      "corpus/iiif/galata_mevlevihanesi_00110_p008.jpeg",
+      "corpus/iiif/galata_mevlevihanesi_00110_p009.jpeg",
+      "corpus/iiif/galata_mevlevihanesi_00110_p010.jpeg",
+      "corpus/iiif/galata_mevlevihanesi_00110_p011.jpeg"
+    ],
+    "source_file": "catalog/searches/visual_tier2g_galata_mevlevihanesi_00110.json",
+    "source_agent": "visual-confirmation",
+    "session": "catalog/searches/visual_tier2g_galata_mevlevihanesi_00110.json",
+    "limitations": [
+      "Images at 2592×1944 px native (displayed at ~762px width in browser capture): adequate for mülevven color identification and zerefşân detection, but insufficient for fine illumination detail analysis",
+      "Zerefşân identification is 'probable' despite catalogue confirmation ('zerefşanlıdır'); physical examination needed to confirm metallic gold vs. colored paint (boya efşân) or age-related foxing",
+      "The olive-green doublure paper (pp001, 010) may be battal ebru rather than plain mülevven — the speckle pattern is denser and more irregular than the interior margin zerefşân",
+      "Color distinctions between cream/off-white (p004) and pale yellow (p007) may be influenced by scan color calibration; physical examination recommended to confirm as separate hues in the mülevven program"
+    ]
+  },
+  "folio_analyses": [
+    {
+      "folio": "Cover opening (IIIF p001)",
+      "source_image": "corpus/iiif/galata_mevlevihanesi_00110_p001.jpeg",
+      "decoration_present": true,
+      "decoration_types": ["colored"],
+      "elements": [
+        {
+          "motif": "Doublure — olive-green speckled paper",
+          "description": "Left side of opening: olive-green paper ground densely covered with blue-grey and dark speckles in an irregular distribution. The speckle density and irregularity are greater than the zerefşân on the interior margin pages. This may be battal ebru or a zerefşân-over-mülevven combination. Library labels and stamps visible: Süleymaniye Kütüphanesi / Galata Mevlevîhânesi, T 2451.",
+          "location": "Front cover doublure (left page of opening)",
+          "confidence": 0.75
+        },
+        {
+          "motif": "Flyleaf — vivid yellow mülevven",
+          "description": "Right side of opening: bright, uniform yellow paper with no decorative treatment beyond the color itself. Color is vivid lemon-yellow, consistent with saffron or turmeric-based dye. The YEK catalogue note 'sayfalar farklı renktedir' is here evident in the contrast between the yellow flyleaf and the olive-green doublure.",
+          "location": "Front flyleaf (right page of opening)",
+          "confidence": 0.95
+        }
+      ],
+      "confidence": 0.85,
+      "notes": "Opening image shows cover structure; front cover exterior not visible in this scan."
+    },
+    {
+      "folio": "First text opening (IIIF p002)",
+      "source_image": "corpus/iiif/galata_mevlevihanesi_00110_p002.jpeg",
+      "decoration_present": true,
+      "decoration_types": ["colored", "gold_sprinkled", "illuminated_margins", "framing_system"],
+      "elements": [
+        {
+          "motif": "Olive-green / olive-gold mülevven margin",
+          "description": "Outer margin field: uniform olive-green with slight golden-yellow cast, consistent with aged or saffron-tinted green-dyed paper. Fine, evenly distributed dark speckles visible across the entire margin surface, consistent with zerefşân gold-sprinkling per catalogue.",
+          "location": "Outer margin (both pages of opening)",
+          "confidence": 0.90
+        },
+        {
+          "motif": "Polychrome illuminated headbands",
+          "description": "Narrow illuminated band at top and bottom of each calligraphy panel. Band contains hatāyī-derived floral motifs: penç rosettes in red and gold, gonca buds in green and red, interlocking stem scrolls. Palette: red, blue, green, gold. Width approximately 8–12 mm.",
+          "location": "Top and bottom of each calligraphy panel (both pages)",
+          "confidence": 0.92
+        },
+        {
+          "motif": "Gold floral medallions between text lines",
+          "description": "Small gold medallions (gül / rozet) placed at regular intervals between the sülüs and nesih text lines within each calligraphy panel. Also includes small leaf motifs (yaprak) in gold at the margins of the panel.",
+          "location": "Interior of calligraphy panels",
+          "confidence": 0.88
+        },
+        {
+          "motif": "Altın cedvel + green inner border (framing system)",
+          "description": "Each calligraphy panel is framed by a gold outer rule, a narrow green inner band, and a gold inner rule. The calligraphy panels are vassale-mounted in the mülevven margin papers.",
+          "location": "Frame perimeter of each calligraphy panel",
+          "confidence": 0.95
+        }
+      ],
+      "confidence": 0.92
+    },
+    {
+      "folio": "Second text opening (IIIF p003)",
+      "source_image": "corpus/iiif/galata_mevlevihanesi_00110_p003.jpeg",
+      "decoration_present": true,
+      "decoration_types": ["colored", "gold_sprinkled", "illuminated_margins", "framing_system"],
+      "elements": [
+        {
+          "motif": "Salmon / pink mülevven margin",
+          "description": "Outer margin field: warm salmon/pink color (peach-pink range), uniform throughout. Fine dark zerefşân speckles visible. A distinct new color from the olive-green of p002, confirming the mülevven color rotation. Some blue-grey speckles visible among the darker speckling.",
+          "location": "Outer margin (both pages of opening)",
+          "confidence": 0.92
+        },
+        {
+          "motif": "Polychrome illuminated headbands with red/gold floral motifs",
+          "description": "Same format as p002 but with a slightly different color emphasis — the illuminated band at the upper right panel shows a distinctive red/gold cross-hatch or grid pattern interspersed with floral rosettes. Bottom bands also carry polychrome floral decoration.",
+          "location": "Top and bottom of each calligraphy panel",
+          "confidence": 0.90
+        }
+      ],
+      "confidence": 0.92
+    },
+    {
+      "folio": "Light green text opening (IIIF p006)",
+      "source_image": "corpus/iiif/galata_mevlevihanesi_00110_p006.jpeg",
+      "decoration_present": true,
+      "decoration_types": ["colored", "gold_sprinkled", "illuminated_margins", "framing_system"],
+      "elements": [
+        {
+          "motif": "Light green mülevven margin",
+          "description": "Outer margin field: medium-light green with a fresh, slightly cool tone, clearly distinct from the olive-green/olive-gold of p002. This is the 4th or 5th distinct color in the program depending on classification of cream pages. Fine dark zerefşân speckles uniformly distributed. The combination of this light green with the red/blue illuminated headbands creates a striking contrast.",
+          "location": "Outer margin (both pages of opening)",
+          "confidence": 0.90
+        }
+      ],
+      "confidence": 0.90
+    },
+    {
+      "folio": "Warm orange text opening (IIIF p009)",
+      "source_image": "corpus/iiif/galata_mevlevihanesi_00110_p009.jpeg",
+      "decoration_present": true,
+      "decoration_types": ["colored", "gold_sprinkled", "illuminated_margins", "framing_system"],
+      "elements": [
+        {
+          "motif": "Warm orange / saffron mülevven margin",
+          "description": "Outer margin field: warm golden-orange to saffron color, distinctly deeper and warmer than the pale gold of p008 or the cream of p004/p007. This orange-saffron hue is paralleled in the corpus only by Hamidiye 00034 (which has a similarly saturated orange). Fine dark zerefşân speckles visible throughout. Blue floral motifs visible in the illuminated headbands.",
+          "location": "Outer margin (both pages of opening)",
+          "confidence": 0.90
+        },
+        {
+          "motif": "Blue-accented illuminated headbands",
+          "description": "The illuminated headbands on this opening are notable for their prominent blue floral motifs, providing a complementary contrast to the warm orange-saffron margin. The blue is likely lapis lazuli or an indigo-based pigment.",
+          "location": "Top and bottom of calligraphy panels",
+          "confidence": 0.88
+        }
+      ],
+      "confidence": 0.90
+    },
+    {
+      "folio": "Back cover opening (IIIF p010)",
+      "source_image": "corpus/iiif/galata_mevlevihanesi_00110_p010.jpeg",
+      "decoration_present": true,
+      "decoration_types": ["colored"],
+      "elements": [
+        {
+          "motif": "Flyleaf — vivid yellow mülevven (matching p001 right)",
+          "description": "Left side of back cover opening: bright vivid yellow, matching the p001 right-side flyleaf exactly. Library labels visible. Symmetrical flyleaf placement confirmed.",
+          "location": "Back flyleaf (left page of opening)",
+          "confidence": 0.95
+        },
+        {
+          "motif": "Doublure — olive-green speckled paper (matching p001 left)",
+          "description": "Right side of back cover opening: olive-green with dense dark speckles, matching the p001 left-side doublure. Confirms the symmetrical placement of doublure and flyleaf on both covers.",
+          "location": "Back cover doublure (right page of opening)",
+          "confidence": 0.90
+        }
+      ],
+      "confidence": 0.90
+    }
+  ],
+  "terminology": {
+    "terms_used": [
+      {
+        "concept": "calligraphy album",
+        "ottoman": "muraqqaʿ / murakkaa (مرقع)",
+        "arabic": "muraqqa' (مرقع)",
+        "persian": "muraqqa' (مرقع)",
+        "english": "calligraphy album; album of mounted calligraphic specimens"
+      },
+      {
+        "concept": "colored paper",
+        "ottoman": "mülevven kâğıt (ملون کاغذ)",
+        "arabic": "waraq mulawwan (ورق ملوّن)",
+        "persian": "kāġaz-e mulavvan (کاغذ ملوّن)",
+        "english": "colored / tinted paper; polychrome leaf sequence"
+      },
+      {
+        "concept": "gold-sprinkling",
+        "ottoman": "zerefşân / yaldız serpme (زرافشان)",
+        "arabic": "dhahab marshūsh (ذهب مرشوش)",
+        "persian": "zarafshān / afshān (افشان / زرافشان)",
+        "english": "gold-sprinkled paper; gold particles scattered on paper surface"
+      },
+      {
+        "concept": "illuminated headpiece",
+        "ottoman": "serlevha / ünvan tezhibi",
+        "arabic": "ʿunwān (عنوان)",
+        "persian": "sarlawḥ (سرلوح)",
+        "english": "illuminated headband / headpiece at top of calligraphy panel"
+      },
+      {
+        "concept": "ruling lines / frame",
+        "ottoman": "altın cedvel / cetvelli",
+        "arabic": "jadwal mudhahdhab (جدول مذهّب)",
+        "persian": "jadval-e ṭilāyī (جدول طلایی)",
+        "english": "gold ruling lines; gold framing system"
+      },
+      {
+        "concept": "window-mounting technique",
+        "ottoman": "vassale montaj",
+        "arabic": null,
+        "persian": null,
+        "english": "vassale — calligraphy panel window-mounted onto decorated paper ground"
+      },
+      {
+        "concept": "thuluth / sülüs calligraphic script",
+        "ottoman": "sülüs",
+        "arabic": "thuluth (ثلث)",
+        "persian": null,
+        "english": "thuluth calligraphic script"
+      },
+      {
+        "concept": "naskh / nesih calligraphic script",
+        "ottoman": "nesih",
+        "arabic": "naskh (نسخ)",
+        "persian": null,
+        "english": "naskh calligraphic script"
+      }
+    ]
+  },
+  "bibliography": [
+    {
+      "citation": "Derman, M. Uğur. Letters in Gold: Ottoman Calligraphy from the Sakıp Sabancı Collection, Istanbul. New York: Metropolitan Museum of Art, 1998.",
+      "relevance": "Primary contextual reference for Mahmud Celaleddin Efendi's place in the Ottoman calligraphic tradition; covers the murakkaa format, sülüs + nesih album production, and the decorated paper programs (mülevven, zerefşân) associated with high-grade Istanbul albums of this period. Mahmud Celaleddin is situated within the post-Hâfız Osmân school.",
+      "relevance_score": 0.95,
+      "access_notes": "Print; exhibition catalogue. Metropolitan Museum of Art Publications."
+    },
+    {
+      "citation": "Çağman, Filiz, and Zeren Tanındı. The Topkapı Saray Museum: The Albums and Illustrated Manuscripts. Translated and expanded by J. M. Rogers. Boston: Little, Brown, 1986.",
+      "relevance": "Fundamental reference for Ottoman calligraphy album production, including multi-color mülevven programs and zerefşân paper in murakkaa contexts; provides comparative material for the album format, script pairing, and decorated paper programs standard in late Ottoman Istanbul.",
+      "relevance_score": 0.85,
+      "access_notes": "Print; also in Turkish: Topkapı Sarayı Müzesi: Albümler ve Minyatürlü Eserler. Istanbul, 1986."
+    },
+    {
+      "citation": "Blair, Sheila S. 'Color and Gold: The Decorated Papers Used in Manuscripts in Later Islamic Times.' Muqarnas 17 (2000): 24–36.",
+      "relevance": "The foundational survey of colored and gold-decorated papers in Islamic manuscript production. Directly relevant to the mülevven + zerefşân combination technique documented in this album; discusses the origin, chronology, and typology of gold-sprinkled and colored papers across Ottoman, Safavid, and Mughal traditions.",
+      "relevance_score": 0.92,
+      "access_notes": "Available via JSTOR and Academia.edu (open access PDF). doi:10.1163/22118993_01700003"
+    },
+    {
+      "citation": "Tanındı, Zeren. 'Bibliophile Aghas (Eunuchs) at Topkapi Saray.' Muqarnas 21 (2004): 333–343.",
+      "relevance": "Contextualizes the institutional culture of Ottoman calligraphy album production and collecting in Istanbul; illuminates the patronage context within which Mahmud Celaleddin and his contemporaries worked.",
+      "relevance_score": 0.72,
+      "access_notes": "Available via JSTOR"
+    },
+    {
+      "citation": "Alparslan, Ali. Osmanlı Hat Sanatı Tarihi. Istanbul: Yapı Kredi Yayınları, 1999.",
+      "relevance": "Standard Turkish-language reference for Ottoman calligraphy history; includes biographical and documentary information on Mahmud Celaleddin Efendi and the sülüs-nesih murakkaa tradition of the late 18th–early 19th century. [In Turkish.]",
+      "relevance_score": 0.88,
+      "access_notes": "Print; Yapı Kredi Yayınları, Istanbul."
+    },
+    {
+      "citation": "Scheper, Karin. The Technique of Islamic Bookbinding: Methods, Materials and Regional Varieties. Leiden: Brill, 2015.",
+      "relevance": "Provides the codicological framework for the vassale window-mounting technique and the compound cedvel framing system employed in this album; contextualizes the role of the decorated paper program in Ottoman murakka structure.",
+      "relevance_score": 0.75,
+      "access_notes": "Print; Brill Online. ISBN 9789004290921."
+    },
+    {
+      "citation": "Serin, Muhittin. Hat Sanatımız. Istanbul: Kubbealtı Neşriyatı, 1999.",
+      "relevance": "Comprehensive Turkish-language reference for Ottoman calligraphic arts; situates Mahmud Celaleddin's career and the murakkaa form within the broader tradition of Istanbul calligraphic production, with particular attention to the Hâfız Osmân school and its 19th-century successors. [In Turkish.]",
+      "relevance_score": 0.82,
+      "access_notes": "Print; Kubbealtı Neşriyatı, Istanbul."
+    },
+    {
+      "citation": "Sturkenboom, Ilse. 'Coloured and Decorated Papers in Ottoman Manuscripts: New Approaches to an Understudied Field.' In Decorated Papers in Islamic Manuscripts: Techniques, Typologies, and Regional Traditions, eds. forthcoming (GlobalDecoPaper / LMU Munich).",
+      "relevance": "Forthcoming work from the ERC GlobalDecoPaper Project (LMU Munich) directly addressing the classification of mülevven, zerefşân, and composite decoration programs in Ottoman manuscripts; methodology directly applicable to the multi-color program documented in this record.",
+      "relevance_score": 0.85,
+      "access_notes": "Forthcoming; see GlobalDecoPaper ERC Project (LMU Munich) for current publications."
+    },
+    {
+      "citation": "Gacek, Adam. Arabic Manuscripts: A Vademecum for Readers. Leiden: Brill, 2009.",
+      "relevance": "Standard terminology reference for Arabic manuscript tradition; useful for the standardization of codicological terms (cedvel, ʿunwān, kıt'a) used in this record.",
+      "relevance_score": 0.65,
+      "access_notes": "Print; Brill Online."
+    }
+  ],
+  "suggested_collections": [
+    {
+      "institution": "Türk ve İslam Eserleri Müzesi (TIEM), Istanbul",
+      "reason": "Preserves the largest collection of murakkaat by Mahmud Celaleddin's contemporaries and predecessors; comparative examination of mülevven programs and zerefşân techniques in comparable albums is recommended. TIEM 02649 and related albums in the corpus offer direct comparanda.",
+      "digital_access": "https://portal.yek.gov.tr"
+    },
+    {
+      "institution": "Sakıp Sabancı Müzesi (SSM), Istanbul",
+      "reason": "The Sakıp Sabancı Collection includes major works by Mahmud Celaleddin; physical examination of comparanda is desirable for authentication and technique confirmation.",
+      "digital_access": "https://www.sabanciuniv.edu/en/museums"
+    },
+    {
+      "institution": "Topkapı Sarayı Müzesi Kütüphanesi",
+      "reason": "Holds the major Ottoman court calligraphy album collection; comparative albums from the late 18th–early 19th century can establish the normative range of mülevven color programs.",
+      "digital_access": "https://kutuphane.tsmk.gov.tr"
+    }
+  ],
+  "provenance": {
+    "donor": null,
+    "waqf": "Galata Mevlevîhânesi Koleksiyonu (vakıf); now at Süleymaniye Kütüphanesi",
+    "previous_shelfmarks": ["I-110", "T 2451"],
+    "notes": "Galata Mevlevîhânesi Koleksiyonu, Süleymaniye Kütüphanesi, Istanbul. Library labels: T 2451 (YEK accession or temporary number) and I-110 (collection shelfmark as visible on binding). Calligrapher: Mahmud Celaleddin (محمود جلال الدین), b. c. 1750 Dagestan, d. 1244/1829 Istanbul. Content: verses from Ibn al-Fāriḍ and Imâm Bûsîrî divans. Catalogued 04.12.2020 by Fakirullah Yıldız. YEK ID: 246892; IIIF ID: 0000000185338. The album entered the Galata Mevlevîhânesi collection at an undetermined date; the dervish lodge was an important centre of calligraphic culture in Istanbul."
+  },
+  "analysis_metadata": {
+    "analyzed_date": "2026-02-28",
+    "analyzer": "claude-code-manuscript-pipeline",
+    "image_source": "YEK IIIF portal (portal.yek.gov.tr); IIIF ID 0000000185338; 11 pages downloaded to corpus/iiif/ at 2592×1944 px native resolution",
+    "image_quality_notes": "IIIF images at 2592×1944 px native resolution. Adequate for mülevven color identification, color rotation mapping, zerefşân detection, and gross illumination identification. Insufficient for fine detail analysis of illuminated headband motif vocabulary or confirmation of metallic vs. painted nature of speckles.",
+    "folios_examined": [
+      "corpus/iiif/galata_mevlevihanesi_00110_p001.jpeg",
+      "corpus/iiif/galata_mevlevihanesi_00110_p002.jpeg",
+      "corpus/iiif/galata_mevlevihanesi_00110_p003.jpeg",
+      "corpus/iiif/galata_mevlevihanesi_00110_p004.jpeg",
+      "corpus/iiif/galata_mevlevihanesi_00110_p005.jpeg",
+      "corpus/iiif/galata_mevlevihanesi_00110_p006.jpeg",
+      "corpus/iiif/galata_mevlevihanesi_00110_p007.jpeg",
+      "corpus/iiif/galata_mevlevihanesi_00110_p008.jpeg",
+      "corpus/iiif/galata_mevlevihanesi_00110_p009.jpeg",
+      "corpus/iiif/galata_mevlevihanesi_00110_p010.jpeg",
+      "corpus/iiif/galata_mevlevihanesi_00110_p011.jpeg"
+    ],
+    "folios_not_examined": "All 11 IIIF pages examined (100% IIIF coverage). The discrepancy between 16 yaprak (folios) and 11 IIIF images is explained by bifolio spread scanning. No additional unexamined pages identified.",
+    "pipeline_notes": "Visual confirmation data from catalog/searches/visual_tier2g_galata_mevlevihanesi_00110.json (verdict: confirmed, 0.95). Record follows canonical pattern of galata_mevlevihanesi_00109.json and paper_decoration format of hamidiye_00034.json."
+  }
+}

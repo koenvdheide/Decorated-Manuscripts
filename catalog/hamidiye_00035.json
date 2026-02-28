@@ -1,0 +1,411 @@
+{
+  "record_id": "hamidiye_00035",
+  "collection": {
+    "institution": "Süleymaniye Kütüphanesi — Hamidiye Koleksiyonu",
+    "city": "Istanbul",
+    "country": "Turkey",
+    "shelfmark": "00035",
+    "yek_url": "https://portal.yek.gov.tr/works/detail/265210"
+  },
+  "manuscript": {
+    "title": "Muraqqaʿāt / مرقعات",
+    "title_script": "مرقعات",
+    "title_alt": "Murakkaat (Hamidiye 35)",
+    "author": null,
+    "author_dates": null,
+    "calligrapher": null,
+    "calligrapher_dates": null,
+    "calligrapher_note": "No calligrapher name has been identified from the pages examined. The Persian nastaʿlīq (taʿlīq) calligraphy is of high quality and consistent execution throughout. An Ottoman description cartouche on the cover (p001) reads 'Talik murakka / Üç agit muhtevdir...' (partially legible), indicating this is a taʿlīq calligraphy album containing 'three' unspecified items (gazels? murabbaʿāt?). Several pages contain poetry attributed to Ḥāfiẓ of Shiraz (d. 791/1390) — visible in the main text lines of p011. A gold tughra-like seal is visible at the lower-left corner of p003. Physical examination and full text transcription are required to establish calligrapher identity and the complete content of the album.",
+    "date_ah": null,
+    "date_ce": null,
+    "date_note": "No explicit date has been confirmed from the pages examined. The decorative program — hatip ebru cover with large naturalistic leaf motifs, consistent tahrirli halkâr on all calligraphy pages, and multi-line cetvelli with vassale throughout — is consistent with Ottoman Istanbul production in the 11th–12th centuries AH (c. 17th–18th century CE). The taʿlīq calligraphy with Persian poetry (including Ḥāfiẓ) and the systematic halkâr program suggest a luxury commission rather than a workshop exercise. Physical examination and palaeographic analysis are required for a more precise date.",
+    "place_of_copy": null,
+    "format": "Muraqqaʿāt / مرقعات — calligraphic album with hatip ebru cover, tahrirli halkar margins throughout all calligraphy pages, and multi-line cetvelli + vassale framing system",
+    "format_note": "A small bound calligraphic album (muraqqaʿāt) of 10 folios / 12 IIIF pages (including covers), containing Persian nastaʿlīq (taʿlīq) kıtʿalar with poetry attributed to Ḥāfiẓ of Shiraz. The album's decorative program is unified and consistent: (1) a spectacular hatip ebru cover (p001) with large sweeping leaf/frond motifs in dark grey-blue/teal and pink/salmon on a warm cream/gold ground — one of the finest hatip ebru covers in the Hamidiye collection and in the project corpus; (2) a consistent tahrirli halkâr margin program on all calligraphy pages examined (pp003, 006, 011, 012), featuring composite roses/peonies, oak-leaf/vine-leaf forms, and dense curving stems in gold with dark grey/olive outlines on warm cream/buff ground; (3) multi-line cetvelli (red + green + gold ruling lines) and vassale mounting throughout all calligraphy pages. The small physical format (230×150 mm) is notable — smaller than most Hamidiye murakkaat — suggesting an intimate album for personal use or scholarly gift. The cover description cartouche identifies this as a 'talik murakka' of three items.",
+    "language": "Persian",
+    "script": "Nastaʿlīq (نستعليق) — taʿlīq (تعليق) subtype throughout all calligraphy panels; per YEK catalogue: 'Arap harfli — Taʿlīk'",
+    "dimensions_mm": {
+      "height": 230,
+      "width": 150,
+      "note": "Outer dimensions 230×150 mm per YEK catalogue (10 yaprak). Notably smaller than the typical Hamidiye murakkaat (e.g. Hamidiye 00032: 325×250 mm; Hamidiye 00034: 355×255 mm)."
+    },
+    "folio_count": 10,
+    "yek_id": "265210",
+    "iiif_id": "0000000289479",
+    "notes": "The album is catalogued in YEK as a muraqqaʿāt of 10 yaprak (folios), with dimensions 230×150 mm. The IIIF sequence presents 12 pages (p001–p012). The description cartouche on the cover (p001) reads (partially legible): 'Talik murakka / Üç agit muhtevdir ab-i...' — 'a talik murakka containing three [units / gazels / compositions]'. The library registration stamp on p002 reads 'Süleymaniye U. Kol. / Kısım: Hamidiye / Yeni Kayıt: 35'. The waqf seal on p002 is circular with an Arabic inscription (partially legible). The catalogue was prepared by Erdem Karaaslan. At 50% page coverage (6 of 12 pages examined), the remaining 6 unexamined pages (pp004–005, 007–010) are likely additional calligraphy pages with the same halkar margin program based on the triage thumbnails."
+  },
+  "paper_decoration": {
+    "types": [
+      "marbled",
+      "halkar_margins",
+      "framing_system"
+    ],
+    "summary": "Hamidiye 00035 presents a two-part decorative program of exceptional quality: a spectacular hatip ebru cover and a consistent tahrirli halkâr margin program on all calligraphy pages. The hatip ebru cover (p001) is among the finest in the project corpus and in the Hamidiye collection: large, sweeping naturalistic leaf and frond motifs in dark grey-blue/teal and pink/salmon are distributed across a warm cream/golden-buff ground using the imam's marbling technique. The motifs resemble botanical fronds and crescent-moon forms rather than the three-petaled flowers of other hatip ebru specimens, suggesting a distinct workshop or master's hand. A white oval cartouche with Ottoman text is embedded at the upper center. The interior calligraphy pages (pp003, 006, 011, 012 examined, and presumably the remaining six pages) carry a consistent gold halkâr margin program: warm cream/buff ground paper with gold-and-grey/olive-toned composite flowers (peonies, roses), oak-leaf/vine-leaf forms, and dense curving stems painted in the tahrirli (outlined) halkârî technique. The dark grey/olive outlines on the gold/warm-toned motifs — likely oxidized silver or a cool-toned gold — create a distinctive tonality different from the bright polychrome halkâr seen in other corpus specimens. Multi-line cetvelli (red + green + gold ruling) and vassale mounting are consistent throughout. On p012, blue/turquoise horizontal bands (lacivert filler strips) appear between the calligraphy text lines within the vassale panel, adding a further coloristic element.",
+    "distribution_notes": "p001: Hatip ebru front cover (full page) — spectacular polychrome with large leaf/frond motifs; Ottoman text cartouche at top. p002: Inside cover — plain cream/buff paper; circular waqf seal; library registration stamp 'Süleymaniye / Hamidiye 35'. p003: First calligraphy page — warm cream/buff ground paper with tahrirli halkâr margins (composite peonies, oak-leaf vine forms, gold + dark grey/olive); multi-line cetvelli (red + green + gold); vassale-mounted nastaʿlīq kıtʿa (landscape format, 4 text lines); gold oval tughra-like seal at lower-left corner; orange/salmon strip at top binding edge. pp004–005: Unexamined — likely calligraphy pages with matching halkâr margins per triage thumbnails. p006: Mid-album calligraphy page — same tahrirli halkâr margin program (composite roses/peonies in warmer gold tone); cetvelli (red + teal/blue + gold); vassale nastaʿlīq (landscape format). pp007–010: Unexamined — likely calligraphy pages with halkâr margins. p011: Penultimate calligraphy page — tahrirli halkâr with large composite rose/peony and oak-leaf patterns; cetvelli; vassale nastaʿlīq; Persian text includes attribution to Ḥāfiẓ of Shiraz. p012: Final calligraphy page — tahrirli halkâr (dark grey/olive leaf forms on warm cream ground); blue/turquoise horizontal filler bands within calligraphy panel between text lines; cetvelli; vassale nastaʿlīq. No back cover image in IIIF sequence — unknown whether a hatip ebru back cover or plain cover exists.",
+    "technique_terms": {
+      "ottoman": "hatip ebru (هاتپ ابرو) — full-page cover; tahrirli halkâr / halkârî (تحريرلى حلکاری) — outlined gold floral margin painting throughout interior; altın cetvelli — multi-line gold + red + green framing system; vassale — window-mounted calligraphy panels",
+      "persian": "abrī-ye khatīb (ابری خطیب) — hatip ebru cover; halkārī-ye taḥrīr (حلکاری تحریر) — tahrirli (outlined) halkâr technique; jadval-e murakkab — compound ruling",
+      "arabic": "waraq muzakhraf (ورق مزخرف) — decorated paper; jadwal mudhahdhab (جدول مذهّب) — gold ruling; tashʿīr (تشعير) — marginal decoration (general)"
+    },
+    "catalogue_description": {
+      "paper_field": null,
+      "paper_field_normalized": null,
+      "paper_field_translation": null,
+      "notes_field": "Murakka'at (10 yk., 230x150 mm, Arap harfli — Taʿlîk)",
+      "notes_field_normalized": "Murakka'at (10 yk., 230x150 mm, Arap harfli — Taʿlîk)",
+      "notes_field_translation": "Album (10 folios, 230×150 mm, Arabic-script — Taʿlīq)",
+      "decoration_field": null,
+      "source": "YEK portal, record 265210, Süleymaniye Kütüphanesi — Hamidiye Koleksiyonu. Kâğıt özellikleri and tezhip/minyatür fields are null in the YEK record. All paper decoration observations derive from visual examination of IIIF images (6 pages at 1600px width) and the visual_confirmation report (catalog/searches/visual_tier2g_hamidiye_00035.json). Catalogue prepared by Erdem Karaaslan."
+    }
+  },
+  "workshop_attribution": {
+    "primary_tradition": "ottoman",
+    "workshop_centre": "Istanbul (probable)",
+    "date_range_ce": "c. 17th–18th century CE (probable)",
+    "confidence": 0.65,
+    "key_indicators": [
+      "Hatip ebru with large naturalistic leaf/frond motifs on a warm cream/gold ground is characteristic of the Ottoman Istanbul ebru tradition; the leaf-frond type is particularly associated with 17th–18th century Ottoman hatip ebru production",
+      "The tahrirli halkâr margin program — consistent across all calligraphy pages — is characteristic of Ottoman luxury album production; the use of darker outlined forms (tahrirli) with warm cream/buff ground papers is consistent with Istanbul workshop practice",
+      "Persian nastaʿlīq (taʿlīq) calligraphy with Ḥāfiẓ poetry in an Ottoman album setting is consistent with the Ottoman bibliophile tradition of commissioning Persian calligraphy albums, especially during the 17th–18th centuries",
+      "The compact 230×150 mm format is consistent with personal-use luxury albums of the 11th–12th century AH Ottoman period",
+      "Multi-line cetvelli (red + green + gold) and vassale mounting are standard Ottoman high-end album-making conventions"
+    ],
+    "cross_tradition_caveats": [
+      "No date or calligrapher attribution has been confirmed. The album's Persianate content (nastaʿlīq, Ḥāfiẓ poetry) does not exclude production in a Safavid milieu with later Ottoman rebinding",
+      "The tahrirli halkâr with dark grey/olive outlines is unusual in the corpus — the cool grey tone could indicate either oxidized silver content in the outlining medium (which would suggest an earlier date, when silver was more commonly used) or a specific workshop practice; physical examination is needed",
+      "Only 50% of pages examined; the remaining 6 pages may reveal additional decoration types or inscription evidence that modifies the attribution",
+      "The cover description cartouche states 'three items' — the album's exact content and possible composite assembly history are unknown without full text transcription"
+    ]
+  },
+  "codicology": {
+    "paper": {
+      "color": "Cover (p001): hatip ebru — large dark grey-blue/teal and pink/salmon leaf/frond motifs on warm cream/golden-buff ground. Inside cover (p002): plain cream/buff. Calligraphy pages: warm cream/buff ground paper throughout (consistent across all four pages examined); no separate colored outer margin papers — the halkâr is painted directly on the cream/buff ground paper rather than on a distinctly dyed mülevven ground. Calligraphy panels: cream/off-white burnished paper (âharlı kâğıt).",
+      "preparation": "The calligraphy ground paper (used as the halkâr margin paper and as the vassale panel backing) appears to be a warm cream/buff paper of consistent tone across all pages — possibly the same batch throughout. The hatip ebru cover is on a separate, thicker support. The calligraphy panels are written on sized and burnished (âharlı) cream paper and then vassale-mounted within the halkâr ground paper.",
+      "weight": "Indeterminate from IIIF images. The 230×150 mm format and the apparent uniformity of the page paper suggest a consistent weight throughout.",
+      "decoration": "Hatip ebru cover (p001); tahrirli halkâr margins throughout interior pages; multi-line altın cedvel (gold + red + green ruling); vassale mounting of calligraphy panels; blue/turquoise filler bands within calligraphy panel on p012.",
+      "paper_type": "Eastern paper (Doğu kâğıdı) for calligraphy panels; hatip ebru paper on cover."
+    },
+    "ruling": {
+      "system": "Multi-line altın cedvel (gold ruling) throughout. Typical composition visible on examined pages: red outer rule + green/teal intermediate rule + gold inner rule (or variants thereof). The cetvelli is slightly varied in color choice across pages (red + green + gold on p003; red + teal/blue + gold on p006; red + green + gold on pp011–012) but structurally consistent. The calligraphy panels are in landscape (oblong) orientation, vassale-mounted in the center of each page with the halkâr margins visible on all four sides.",
+      "description": "The cetvelli framing system is relatively compact (as befits the small 230×150 mm format). Each page presents: (1) outer cream/buff halkâr ground extending to the page edges; (2) multi-line ruled frame (typically 3-line: red + green/teal + gold) surrounding the vassale panel; (3) the vassale-mounted nastaʿlīq kıtʿa panel. The landscape-format panel allows two large nastaʿlīq lines of poetry (bayts) plus a smaller commentary/attribution line between them. On p012, blue/turquoise rectangular filler bands are inserted between the calligraphy rows as an additional decorative element within the panel itself."
+    },
+    "binding": {
+      "cover_description": "The binding cover (p001) is covered with hatip ebru paper — large, sweeping naturalistic leaf and frond motifs in dark grey-blue/teal and pink/salmon on a warm cream/golden-buff ground. The motifs include elongated leaf fronds, crescent/comma-like forms, and broad sweeping strokes created by pulling the stylus through the size to form botanical shapes. An oval white cartouche at the upper center contains Ottoman text in black ink: 'Talik murakka / Üç agit muhtevdir ab-i...' (partially legible; describes the album's content). The Süleymaniye/Hamidiye circular library label ('Süleymaniye Hamidiye 35') is affixed at the upper right in red print. Red leather spine visible at the top/left binding edges. The inside cover (p002) is plain cream/buff paper. No back cover image is available in the IIIF sequence.",
+      "cover_type": "Hatip ebrulu cilt — hatip-marbled paper over boards; red leather spine",
+      "notes": "The hatip ebru cover of Hamidiye 00035 features a distinctive leaf/frond motif type — large, sweeping naturalistic botanical forms — that differs from the three-petaled flower type common in other Hamidiye hatip ebru specimens. The dark grey-blue + pink/salmon palette on a warm cream ground is also distinct from the predominantly red/blue or red/pink palettes seen in other confirmed hatip ebru covers in the corpus. The quality and scale of the motifs suggest a skilled ebru master. Physical examination is needed to confirm the binding structure (board type, sewing, flap presence) and whether a back cover exists."
+    },
+    "format": "Muraqqaʿāt — Ottoman-Persianate calligraphic album (10 folios / 12 IIIF pages including covers)",
+    "condition_summary": "The album is generally well-preserved based on IIIF examination of 6 pages. The hatip ebru cover (p001) is clear and legible, though some fading of the pink/salmon tones relative to the deeper grey-blue areas is visible — possibly light-induced color shift. The calligraphy pages are in good condition with intact halkâr margins and legible calligraphy. On p012, the bottom orange/salmon strip at the right binding edge is slightly worn. The inside cover (p002) shows minor surface marks and the waqf seal impression shows moderate ink adhesion. No major damage, water staining, or repair campaigns are visible from the examined pages.",
+    "conservation_history": null
+  },
+  "visual_confirmation": {
+    "verdict": "confirmed",
+    "confidence": 0.95,
+    "screenshots_examined": 6,
+    "folios_examined": [
+      "corpus/iiif/hamidiye_00035_p001.jpg",
+      "corpus/iiif/hamidiye_00035_p002.jpg",
+      "corpus/iiif/hamidiye_00035_p003.jpg",
+      "corpus/iiif/hamidiye_00035_p006.jpg",
+      "corpus/iiif/hamidiye_00035_p011.jpg",
+      "corpus/iiif/hamidiye_00035_p012.jpg"
+    ],
+    "visual_evidence": "Hatip ebru cover confirmed on p001 (full-page; large naturalistic leaf/frond motifs in dark grey-blue/teal + pink/salmon on warm cream/gold ground; Ottoman text cartouche at top; library label 'Süleymaniye Hamidiye 35'). Tahrirli halkâr margins confirmed on all four calligraphy pages examined: p003 (composite peonies/roses, oak-leaf vine forms, gold + dark grey/olive; gold oval seal at lower-left), p006 (warmer gold tone; composite roses/peonies + curving stems), p011 (large rose/peony and oak-leaf forms; tahrirli outlines clearly visible; Ḥāfiẓ attribution in text), p012 (dark grey/olive leaf-vine forms; blue/turquoise filler bands in calligraphy panel). Multi-line cetvelli and vassale mounting confirmed throughout. No battal ebru endpapers observed.",
+    "limitations": [
+      "Only 6 of 12 pages examined (50%). The remaining 6 pages (pp004–005, 007–010) are likely calligraphy pages with the same halkâr margin program, but were not individually verified.",
+      "Images at 1600px width (not native IIIF resolution). Fine details of the halkâr technique — specifically whether the dark outlines contain silver (oxidized) or are simply a darker gold ink — cannot be confirmed without physical examination or higher-resolution imaging.",
+      "Halkâr technique classification as tahrirli is based on visible dark outlines but could potentially be taramalı (hatched) technique at higher resolution — physical examination needed.",
+      "No back cover image available in the IIIF sequence; unknown whether a hatip ebru back cover or other cover decoration exists.",
+      "The gold oval seal at the lower-left of p003 has not been transcribed; it may indicate a collector or institution that could help date the album."
+    ],
+    "source_agent": "visual-confirmation (catalog/searches/visual_tier2g_hamidiye_00035.json) + direct IIIF image examination by metadata-generator (2026-02-28)"
+  },
+  "folio_analyses": [
+    {
+      "folio": "Hatip ebru front cover (IIIF p001)",
+      "source_image": "corpus/iiif/hamidiye_00035_p001.jpg",
+      "decoration_present": true,
+      "decoration_types": ["marbled"],
+      "elements": [
+        {
+          "motif": "Full-page hatip ebru cover — large naturalistic leaf/frond motifs",
+          "description": "The entire cover is covered with hatip ebru paper of exceptional quality. The ground is a warm cream/golden-buff color, onto which large sweeping naturalistic leaf and frond motifs have been drawn using the imam's marbling technique. The motifs include: (1) large elongated frond forms with curved tip points in dark grey-blue/teal, suggestive of botanical leaves (lily-family or iris-leaf type); (2) pink/salmon crescent and comma-shaped forms interspersed between the grey-blue fronds; (3) smaller secondary motifs (rounded forms, stippled areas) filling the ground between the main fronds. The overall composition is loose and naturalistic rather than formally arranged — the fronds sweep across the page in diagonal directions, creating a dynamic botanical field effect. The warm cream/gold ground paper is visible between the motifs. An oval white cartouche at the upper center contains Ottoman text in black ink: 'Talik murakka / Üç agit muhtevdir...' (partially legible). The Süleymaniye/Hamidiye circular library label is affixed at upper right.",
+          "location": "Full front cover exterior",
+          "confidence": 0.97
+        }
+      ],
+      "confidence": 0.97,
+      "notes": "Hatip ebru cover confirmed. The large naturalistic leaf/frond motif type is distinct from the three-petaled flower type (as in Hamidiye 00032 p010) and the globular rosette type (as in Hamidiye 00034). The dark grey-blue + pink/salmon palette on warm cream ground is unique in the project corpus. This is one of the finest hatip ebru covers examined in the Hamidiye collection."
+    },
+    {
+      "folio": "Inside cover — waqf seal (IIIF p002)",
+      "source_image": "corpus/iiif/hamidiye_00035_p002.jpg",
+      "decoration_present": false,
+      "decoration_types": ["other"],
+      "elements": [
+        {
+          "motif": "Inside cover — plain cream paper with waqf seal and ownership text",
+          "description": "The inside cover is plain cream/buff paper. A large circular waqf seal is at the top center, with an Arabic inscription (partially legible: includes phrases in Arabic script that appear to be a waqf declaration or ownership inscription). Below the seal, an extended Arabic text passage (ownership note or waqf declaration — approximately 12 lines) is written in a small nesih hand. At the right edge, a small rectangular library registration stamp reads: 'Süleymaniye U. Kol. [Kütüphane Koleksiyonu] / Kısım: Hamidiye / Yeni Kayıt: 35'. A handwritten number '25' (possibly a previous accession number) appears at the lower center.",
+          "location": "Full inside cover page",
+          "confidence": 0.95
+        }
+      ],
+      "confidence": 0.95,
+      "notes": "Inside cover confirmed as plain paper (no decorated paper). The extended waqf/ownership text is an important unpublished primary source for the album's provenance; transcription is strongly recommended."
+    },
+    {
+      "folio": "First calligraphy page — tahrirli halkâr margins (IIIF p003)",
+      "source_image": "corpus/iiif/hamidiye_00035_p003.jpg",
+      "decoration_present": true,
+      "decoration_types": ["halkar_margins", "framing_system"],
+      "elements": [
+        {
+          "motif": "Tahrirli halkâr margins — composite peonies, oak-leaf vine forms, gold + dark grey/olive",
+          "description": "The entire page surface outside the calligraphy panel is covered with tahrirli halkâr (outlined gold floral margin painting). The ground is warm cream/buff paper. Gold-toned vine scrolls carry large composite peony/rose forms and rounded leaf clusters (oak-leaf type). The defining feature is the tahrirli technique: each motif is outlined with a visibly darker stroke — a dark grey/olive color, possibly an oxidized silver ink or a cooler gold tone — that creates crisp, defined edges around the gold/warm-toned main fills. This outlined technique distinguishes this halkâr from the purely washed taramalı (hatched) subtype. The motifs visible in the upper portion: large rounded peony-type flowers with multiple petals, dense vine stems, and leaf clusters. In the lower portion: continuation of the vine scroll with further flowers and oval leaf forms. The halkâr covers all four margins (top, bottom, left, right) around the calligraphy panel. At the lower left corner, a small gold oval seal (tughra-type impression) is visible — possibly a calligraphic seal (mühür) or collector's stamp.",
+          "location": "Full margin zone — all four sides of calligraphy panel",
+          "confidence": 0.92
+        },
+        {
+          "motif": "Multi-line cetvelli — red + green + gold ruling",
+          "description": "A three-line ruling system frames the calligraphy panel: a red outer rule, a green intermediate rule, and a gold inner rule. The cetvelli is neatly executed. A narrow orange/salmon strip is visible at the top binding edge of the page — this appears to be a filler strip or a narrow mülevven margin strip at the very top of the leaf.",
+          "location": "Frame lines between halkâr margins and calligraphy panel",
+          "confidence": 0.95
+        },
+        {
+          "motif": "Vassale-mounted nastaʿlīq kıtʿa — landscape format (4 lines)",
+          "description": "The calligraphy panel is a separate cream/off-white sheet window-mounted (vassale) into the halkâr ground. The panel is in landscape (oblong) orientation. It contains four lines of Persian nastaʿlīq (taʿlīq style): two large bayt lines and two smaller commentary/attribution lines between them. The text appears to be Persian poetry (first bayt readable: 'gharq-at dar āb-e zindagī haḍr...'). The calligraphy is in elegant taʿlīq with excellent letter formation.",
+          "location": "Central calligraphy panel (vassale-mounted)",
+          "confidence": 0.93
+        }
+      ],
+      "confidence": 0.92,
+      "notes": "p003 is the first calligraphy opening. The tahrirli halkâr with dark grey/olive outlines sets the tonal character of the album's interior decoration — warm cream ground, dark-outlined motifs, consistent across all pages. The gold oval seal at the lower left warrants transcription and may indicate a prominent collector or royal ownership."
+    },
+    {
+      "folio": "Mid-album calligraphy page — tahrirli halkâr, warmer gold (IIIF p006)",
+      "source_image": "corpus/iiif/hamidiye_00035_p006.jpg",
+      "decoration_present": true,
+      "decoration_types": ["halkar_margins", "framing_system"],
+      "elements": [
+        {
+          "motif": "Tahrirli halkâr margins — composite roses/peonies, warmer gold tone",
+          "description": "Same tahrirli halkâr program as p003, with a warmer gold tone to the main fills on this page — the gold/warm-amber is more legible against the cream ground than on p003. The motifs include large composite roses (multiple-petal open rose forms with layered petals), further composite peony forms, and dense curving stem vine scrolls. The tahrirli outlines remain clearly visible as darker strokes around each motif. The overall pattern is dense and covers all four margin zones around the calligraphy panel. The halkâr extends with particular elaboration at the top and bottom margins.",
+          "location": "Full margin zone — all four sides",
+          "confidence": 0.93
+        },
+        {
+          "motif": "Multi-line cetvelli — red + teal + gold ruling",
+          "description": "Slightly variant cetvelli compared to p003: red outer rule, teal/blue-green intermediate rule, and gold inner rule. The teal choice for the intermediate rule is a minor variation within the same basic compound system.",
+          "location": "Frame lines between halkâr and calligraphy panel",
+          "confidence": 0.92
+        },
+        {
+          "motif": "Vassale-mounted nastaʿlīq kıtʿa — landscape format",
+          "description": "Matching landscape-format calligraphy panel as p003: two large taʿlīq bayt lines with smaller commentary text between them. Persian poetry text. The calligraphy style is consistent with p003 — same skilled hand.",
+          "location": "Central calligraphy panel",
+          "confidence": 0.93
+        }
+      ],
+      "confidence": 0.93,
+      "notes": "p006 confirms the halkâr program is consistent across mid-album pages. The warmer gold tone compared to p003 may reflect natural variation within the same batch of gold medium rather than a different production campaign. The tahrirli outline technique remains clearly diagnostic."
+    },
+    {
+      "folio": "Penultimate calligraphy page — tahrirli halkâr with Ḥāfiẓ text (IIIF p011)",
+      "source_image": "corpus/iiif/hamidiye_00035_p011.jpg",
+      "decoration_present": true,
+      "decoration_types": ["halkar_margins", "framing_system"],
+      "elements": [
+        {
+          "motif": "Tahrirli halkâr margins — large composite rose/peony and oak-leaf forms",
+          "description": "The margin halkâr on p011 features some of the largest and most clearly visible floral forms in the examined pages. Dominant motifs: large composite rose/peony forms with dense multiple petals at the top margin; broad oak-leaf/lobed leaf clusters in the side margins; vine stems curving in large S-forms. The tahrirli outlines are clearly visible — each major petal and leaf form is edged with a darker grey/olive stroke. The halkâr on this page has a slightly cooler, more muted tone than p006 — the grey/olive dominates more over the gold warm tone, consistent with a higher proportion of darker outlining medium relative to the gold wash. This cooler tone may confirm the outlining medium contains oxidized silver.",
+          "location": "Full margin zone — all four sides",
+          "confidence": 0.93
+        },
+        {
+          "motif": "Multi-line cetvelli — red + green + gold ruling",
+          "description": "Three-line compound cetvelli: red outer rule, green intermediate rule, gold inner rule — same as p003. Consistent throughout the album.",
+          "location": "Frame lines between halkâr and calligraphy panel",
+          "confidence": 0.95
+        },
+        {
+          "motif": "Vassale-mounted nastaʿlīq kıtʿa — Ḥāfiẓ of Shiraz attribution",
+          "description": "The calligraphy panel contains landscape-format taʿlīq calligraphy. The middle commentary line includes text that reads 'Hāfız' (حافظ) — a poet attribution identifying the verses as poetry by Ḥāfiẓ-e Shīrāzī (d. 791/1390). The two main bayt lines contain Persian verse text. The calligraphy is of the same skilled hand observed across all examined pages.",
+          "location": "Central calligraphy panel",
+          "confidence": 0.90
+        }
+      ],
+      "confidence": 0.92,
+      "notes": "p011 confirms Persian poetry by Ḥāfiẓ of Shiraz as part of the album content — consistent with the cover description 'talik murakka'. The Ḥāfiẓ attribution is the only clear textual identification from the examined pages. The increasingly cool/muted tone of the halkâr outlines across pages p003 → p006 → p011 → p012 may indicate gradual oxidation of a silver-containing outlining medium, which would support an earlier date for the album's production."
+    },
+    {
+      "folio": "Final calligraphy page — halkâr + blue filler bands (IIIF p012)",
+      "source_image": "corpus/iiif/hamidiye_00035_p012.jpg",
+      "decoration_present": true,
+      "decoration_types": ["halkar_margins", "framing_system"],
+      "elements": [
+        {
+          "motif": "Tahrirli halkâr margins — dark grey/olive leaf and vine forms",
+          "description": "The final page's halkâr margin displays predominantly dark grey/olive leaf-vine forms on the warm cream ground — the darkest and most olive-toned instance in the examined pages, consistent with progressive oxidation. The motifs include large leaf/vine forms with dense stems and rounded leaf clusters. The same tahrirli outlined technique is present but the warm gold fills are now less prominent relative to the dark grey outlines. The halkâr program extends consistently across all four margins.",
+          "location": "Full margin zone — all four sides",
+          "confidence": 0.92
+        },
+        {
+          "motif": "Multi-line cetvelli — red + green + gold",
+          "description": "Consistent three-line compound cetvelli: red outer rule, green intermediate rule, gold inner rule. The orange/salmon strip at the bottom right edge is visible — a narrow filler strip or binding-edge color.",
+          "location": "Frame lines between halkâr and calligraphy panel",
+          "confidence": 0.94
+        },
+        {
+          "motif": "Vassale-mounted nastaʿlīq with blue/turquoise horizontal filler bands",
+          "description": "The calligraphy panel on p012 includes a distinctive additional decorative element not observed on earlier pages: narrow blue/turquoise horizontal bands are used as filler strips between the calligraphy text rows within the vassale panel itself. These bright lacivert/turquoise strips add a coloristic accent within the calligraphy panel, creating a horizontal blue-and-cream striped effect between the taʿlīq poetry lines. The calligraphy text is Persian nastaʿlīq. This is the final calligraphy page of the examined sequence.",
+          "location": "Central calligraphy panel — blue filler bands between text rows",
+          "confidence": 0.92
+        }
+      ],
+      "confidence": 0.92,
+      "notes": "p012 is the final examined page and introduces a coloristic variation — the blue/turquoise filler bands within the calligraphy panel — not seen on earlier pages. This may indicate that the final page was given a slightly different treatment, or it may reflect a structural property of the kıtʿa format (the blue strips demarcating stanza/bayt divisions). The progressive darkening of the halkâr outlines across the sequence strongly suggests oxidized silver content in the outlining medium."
+    }
+  ],
+  "terminology": {
+    "terms_used": [
+      {
+        "concept": "imam's marbling",
+        "ottoman": "hatip ebru (هاتپ ابرو)",
+        "arabic": null,
+        "persian": "abrī-ye khatīb (ابری خطیب)",
+        "english": "floral marbled paper — stylus-drawn botanical/floral motifs on marbled ground; 'imam's marbling'"
+      },
+      {
+        "concept": "shaded gold floral margin painting — outlined subtype",
+        "ottoman": "tahrirli halkâr / halkârî (تحريرلى حلکاری)",
+        "arabic": null,
+        "persian": "halkārī-ye taḥrīr (حلکاری تحریر)",
+        "english": "outlined gold floral margin painting; motifs are edged with a darker ink or gold outline (tahrirli = outlined/delineated)"
+      },
+      {
+        "concept": "window-mounting",
+        "ottoman": "vassale",
+        "arabic": null,
+        "persian": null,
+        "english": "technique of mounting a text or painting panel in a window cut from the decorated margin paper"
+      },
+      {
+        "concept": "ruling / frame lines",
+        "ottoman": "cedvel / cetvel (جدول)",
+        "arabic": "jadwal (جدول)",
+        "persian": "jadval (جدول)",
+        "english": "ruling lines; the frame system around a text block or panel"
+      },
+      {
+        "concept": "calligraphy album",
+        "ottoman": "muraqqaʿāt / murakkaa (مرقعات)",
+        "arabic": "muraqqaʿāt (مرقعات)",
+        "persian": "muraqqa (مرقع)",
+        "english": "calligraphy or painting album consisting of assembled specimen sheets"
+      },
+      {
+        "concept": "calligraphic specimen sheet",
+        "ottoman": "kıtʿa",
+        "arabic": "qiṭʿa (قطعة)",
+        "persian": "qiṭʿa (قطعه)",
+        "english": "a calligraphic specimen sheet, typically a single leaf with a few lines of elegant calligraphy"
+      },
+      {
+        "concept": "hanging / suspended script style",
+        "ottoman": "taʿlīk (تعليق)",
+        "arabic": null,
+        "persian": "taʿlīq (تعلیق)",
+        "english": "the taʿlīq/taʿlīk variant of nastaʿlīq; the primary script for Persian poetry in Ottoman contexts"
+      }
+    ]
+  },
+  "bibliography": [
+    {
+      "citation": "Blair, Sheila S. 'Color and Gold: The Decorated Papers Used in Manuscripts in Later Islamic Times.' Muqarnas XVII (2000): 24–36.",
+      "relevance": "Foundational survey of decorated paper types in Islamic manuscripts; covers hatip ebru and gold-painted margin papers (halkâr equivalent). Essential for contextualizing the hatip ebru cover and the halkâr margin program.",
+      "relevance_score": 0.90,
+      "access_notes": "Available through JSTOR and institutional access."
+    },
+    {
+      "citation": "Sturkenboom, Ilse. 'Decorated Papers in Persianate Manuscripts: Marbled, Sprinkled, and Tinted Papers in the Islamic Book Arts.' GlobalDecoPaper ERC Project, LMU Munich (forthcoming).",
+      "relevance": "Most current research on hatip ebru typology (including the leaf/frond motif variants) and halkâr classification; directly relevant to the distinctive hatip ebru cover type and the tahrirli halkâr technique.",
+      "relevance_score": 0.92,
+      "access_notes": "Forthcoming; project information at GlobalDecoPaper ERC Project, LMU Munich."
+    },
+    {
+      "citation": "Bloom, Jonathan M. Paper Before Print: The History and Impact of Paper in the Islamic World. New Haven: Yale University Press, 2001.",
+      "relevance": "Historical context for decorated paper production including marbling and gold-painted margins in the Islamic world.",
+      "relevance_score": 0.70,
+      "access_notes": "Available in major research libraries."
+    },
+    {
+      "citation": "Tanındı, Zeren. 'Additions to Illustrated Manuscripts in Ottoman Workshops.' Muqarnas XVII (2000): 147–161.",
+      "relevance": "Ottoman workshop practices for album production and the assembly of murakkaat with decorated paper programs; relevant to the composite album structure of Hamidiye 00035.",
+      "relevance_score": 0.78,
+      "access_notes": "Available through JSTOR."
+    },
+    {
+      "citation": "Roxburgh, David J. The Persian Album, 1400–1600: From Dispersal to Collection. New Haven: Yale University Press, 2005.",
+      "relevance": "Definitive study of the muraqqaʿ album format in the Persianate and Ottoman traditions; directly relevant to the album format, the Ḥāfiẓ poetry content, and the nastaʿlīq kıtʿa format of Hamidiye 00035.",
+      "relevance_score": 0.88,
+      "access_notes": "Available in major research libraries."
+    },
+    {
+      "citation": "Blair, Sheila S., and Jonathan M. Bloom. The Grove Encyclopedia of Islamic Art and Architecture. 3 vols. Oxford: Oxford University Press, 2009. S.v. 'Calligraphy' and 'Marbling.'",
+      "relevance": "Reference for nastaʿlīq/taʿlīq calligraphy tradition and marbled paper terminology; relevant for contextualizing the album's script and decoration.",
+      "relevance_score": 0.72,
+      "access_notes": "Available in major research libraries and online via Oxford Reference."
+    },
+    {
+      "citation": "Scheper, Karin. The Technique of Islamic Bookbinding: Methods, Materials and Regional Varieties. Leiden: Brill, 2018.",
+      "relevance": "Standard reference for Islamic bookbinding techniques; relevant for understanding the relationship between the hatip ebru cover and the album binding structure.",
+      "relevance_score": 0.68,
+      "access_notes": "Available in major research libraries."
+    },
+    {
+      "citation": "Bağcı, Serpil, Filiz Çağman, Günsel Renda, and Zeren Tanındı. Ottoman Painting. Ankara: Ministry of Culture and Tourism, 2006.",
+      "relevance": "Survey of Ottoman painting and manuscript arts including album production, decorated paper use, and halkâr technique; provides comparanda for the halkâr margin program.",
+      "relevance_score": 0.75,
+      "access_notes": "Available in major research libraries."
+    },
+    {
+      "citation": "Soucek, Priscilla P. 'The Theory and Practice of Portraiture in the Persian Tradition.' Muqarnas XVII (2000): 97–108.",
+      "relevance": "Context for Persianate album culture and the role of Persian poetry (Ḥāfiẓ) in Ottoman calligraphic albums; indirectly relevant to the album's content.",
+      "relevance_score": 0.55,
+      "access_notes": "Available through JSTOR."
+    }
+  ],
+  "suggested_collections": [
+    {
+      "institution": "Topkapı Palace Museum Library (TSMK), Istanbul",
+      "reason": "Major repository of Ottoman murakkaat with hatip ebru covers and halkar margin programs; direct comparanda for the format and decorative program of Hamidiye 00035, particularly the taʿlīq calligraphy albums with Persian poetry.",
+      "digital_access": "https://kutuphane.tsmk.gov.tr"
+    },
+    {
+      "institution": "Chester Beatty Library, Dublin",
+      "reason": "Notable collection of Ottoman and Persianate calligraphic albums with hatip ebru bindings and halkar margins; useful for comparative analysis of the leaf/frond motif type in hatip ebru and the tahrirli halkâr technique.",
+      "digital_access": "https://viewer.cbl.ie"
+    }
+  ],
+  "provenance": {
+    "donor": null,
+    "waqf": "Hamidiye Vakfı — Türkiye Yazma Eserler Kurumu (TYEK). Waqf seal on p002 (circular, Arabic inscription — text not fully transcribed).",
+    "previous_shelfmarks": [],
+    "notes": "The album entered the Hamidiye collection as waqf property and is now held at the Süleymaniye Kütüphanesi under the Hamidiye Koleksiyonu. The library registration stamp on p002 reads 'Yeni Kayıt: 35', indicating the album received the shelfmark 35 upon entry into the collection. The extended Arabic text passage on p002 (approximately 12 lines below the waqf seal) likely contains a more detailed waqf declaration or ownership history that could significantly advance provenance understanding; transcription is strongly recommended. A handwritten number '25' at the lower center of p002 may be an earlier accession or inventory number. The gold oval seal at the lower left of p003 is an unread mark that warrants specialist attention."
+  },
+  "analysis_metadata": {
+    "analyzed_date": "2026-02-28",
+    "analyzer": "claude-code-manuscript-pipeline (metadata-generator Sub-Batch G)",
+    "image_source": "IIIF — Türkiye Yazma Eserler Kurumu portal (portal.yek.gov.tr/works/detail/265210); IIIF manifest ID 0000000289479; images downloaded at 1600px width by visual-confirmation agent",
+    "image_quality_notes": "6 of 12 pages examined at 1600px width (not native IIIF resolution). This corresponds to approximately 178 DPI for a 230mm manuscript — adequate for hatip ebru and halkâr identification but insufficient for fine-detail confirmation of the tahrirli vs. taramalı halkâr subtype distinction, or for detection of possible zerefşân beneath or over the halkâr margin ground. Native-resolution download (typically 2560–3200px for YEK IIIF) is recommended for technique confirmation, seal transcription, and calligrapher attribution.",
+    "folios_examined": [
+      "p001 (hatip ebru cover)",
+      "p002 (inside cover)",
+      "p003 (first calligraphy page)",
+      "p006 (mid-album calligraphy page)",
+      "p011 (penultimate calligraphy page)",
+      "p012 (final calligraphy page)"
+    ],
+    "folios_not_examined": "6 pages not examined: pp004–005 and pp007–010. These are almost certainly calligraphy pages with matching tahrirli halkâr margins and multi-line cetvelli based on triage thumbnails. A back cover (beyond p012) is either not present in the binding or was not captured in the IIIF sequence."
+  }
+}

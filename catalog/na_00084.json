@@ -41,7 +41,7 @@
     "summary": "The decorative program of this compact 2-folio murakkaʿ is organised around two distinct types of Ottoman marbled paper used in complementary roles. The first leaf (p001) functions as a full-page hatip ebru specimen: the entire recto surface is covered with a spectacular combed leaf/feather marbling in at least six colours (blue, orange/burnt sienna, gold/ochre, sage green, dark red/maroon, and cream), with scattered circular dot splashes distributed across the pattern, all enclosed within a narrow dark ornamental border frame. This is one of the most chromatic and spatially complex hatip ebru leaves in the corpus. The fourth page (p004) presents a double-page calligraphic opening in which wide battal ebru (stone/spot marbling) borders frame the text area on all four sides: the marbling is predominantly blue-grey/cream with scattered gold and cream florets in an irregular pattern characteristic of the battal technique, providing a rich textural contrast to the intimate calligraphic surface. The text panels are on burnished cream paper (âharlı kâğıt) and are framed by a multi-line compound cetvel system (dark blue, red, gold, and green rules), creating a five-zone framing sequence: battal ebru outer margin — multi-line cedvel — cream text surface. Pages p002 and p003 (recto and verso of the inner leaf) are on plain cream/buff paper with no decorated paper treatment: p002 carries the calligraphic mesk exercises and p003 the ownership inscription and institutional stamp.",
     "distribution_notes": "Hatip ebru: p001 only (full-page, single leaf). Battal ebru: p004 only (wide outer borders framing calligraphic kıtʿa, double-page). Framing system (multi-line cedvel): p004. Plain paper (undecorated): p002 (calligraphic mesk), p003 (ownership/institutional leaf). The two ebru types are used in structurally distinct roles — the hatip ebru as the decorative object itself; the battal ebru as the ground framing the calligraphic text — demonstrating a sophisticated compositional logic in a very small album.",
     "technique_terms": {
-      "ottoman": "hatip ebru (taraklı / combed leaf-feather marbling); battal ebru (taş ebru, leke ebru — stone/spot marbling); çok renkli (multi-colour); altın cetvelli; sülüs hattı; merhum Mustafa Râkım Efendi'ye ait (attributed to, per ownership note)",
+      "ottoman": "hatip ebru (biz ile çekme yaprak/tüy deseni — stylus-drawn leaf/feather marbling); battal ebru (taş ebru, leke ebru — stone/spot marbling); çok renkli (multi-colour); altın cetvelli; sülüs hattı; merhum Mustafa Râkım Efendi'ye ait (attributed to, per ownership note)",
       "persian": "abrī-ye ḥatīp (ابری حطیب — imam's marbling); abrī-ye battāl (ابری بطال — stone/spot marbling); jadval-e zar (جدول زر — gold ruling)",
       "arabic": "waraq al-abrī al-ḥatīp (ورق الابری الحطیب); waraq al-abrī al-battāl (ورق الابری البطال)"
     },
@@ -65,7 +65,7 @@
     "key_indicators": [
       "Ownership note 'merhum Mustafa Râkım Efendi' connects the album to the circle of the preeminent late Ottoman calligrapher (d. 1826) and implies Istanbul provenance",
       "The celî sülüs mesk exercises on p002 are consistent with the Râkım school's pedagogical format and the large-scale sülüs letterforms he standardized",
-      "Hatip ebru in multiple colours with combed leaf/feather pattern is well documented in late 18th–early 19th-century Istanbul marbling workshops; the colour palette (blue, orange, ochre, green, dark red) is consistent with the period",
+      "Hatip ebru in multiple colours with stylus-drawn leaf/feather pattern is well documented in late 18th–early 19th-century Istanbul marbling workshops; the colour palette (blue, orange, ochre, green, dark red) is consistent with the period",
       "The battal ebru border treatment — blue-grey stone marbling with gold/cream florets — on a calligraphic kıtʿa opening matches formats known from late Ottoman murakkaʿ production in Istanbul",
       "The album dimensions (315 × 190 mm) and format (compact two-folio murakkaʿ) are consistent with Ottoman private-collector and workshop presentation albums of the late 18th–early 19th century"
     ],
@@ -128,14 +128,14 @@
       "decoration_types": ["marbled"],
       "elements": [
         {
-          "motif": "Hatip ebru — full-page combed leaf/feather marbling",
+          "motif": "Hatip ebru — full-page stylus-drawn leaf/feather marbling",
           "description": "The entire recto surface of this leaf is covered with a hatip ebru (imam's marbling) pattern. The marbling displays the characteristic elongated feather/leaf forms of the hatip technique, created by drawing a stylus through a bed of floated pigments on a water-and-tragacanth size in a marbling trough. The colours are richly varied: a dominant blue ground (cobalt-tone), with overlying feather/leaf forms in orange/burnt sienna, gold/ochre, sage green, dark red/maroon, and cream/white. Scattered across the pattern are small circular dot splashes, creating a secondary texture within the larger feather forms. The overall visual effect is of an exceptionally dense, layered, and chromatically complex marbling that ranks among the finest hatip ebru specimens in the project corpus. The pattern is enclosed by a narrow dark ornamental border frame at the sheet edges — appearing as a dark grey-brown band approximately 5–8 mm wide, which may be a painted or printed border applied to the marbled sheet. The verso (p002) is plain cream paper with mesk calligraphy, confirming that only the recto of this leaf is marbled.",
           "location": "Full recto surface of the first leaf; bordered by narrow dark frame",
           "confidence": 0.97
         }
       ],
       "confidence": 0.97,
-      "notes": "The hatip ebru identification is unambiguous at the 2048 × 1536 px resolution. The colour complexity and the large scale of the feather/leaf motifs are consistent with high-quality late 18th–early 19th-century Ottoman marbling. This leaf is one of the finest hatip ebru specimens in the project corpus, notable for the six-colour palette and the integration of scattered dot splashes within the combed pattern."
+      "notes": "The hatip ebru identification is unambiguous at the 2048 × 1536 px resolution. The colour complexity and the large scale of the feather/leaf motifs are consistent with high-quality late 18th–early 19th-century Ottoman marbling. This leaf is one of the finest hatip ebru specimens in the project corpus, notable for the six-colour palette and the integration of scattered dot splashes within the stylus-drawn pattern."
     },
     {
       "folio": "p002 — Calligraphic mesk exercises, plain cream paper",
@@ -212,7 +212,7 @@
         "ottoman": "hatip ebru / hatip ebrusu",
         "arabic": "waraqa al-abrī al-ḥatīp (ورق الابری الحطیب)",
         "persian": "kāġaz-e abrī-ye ḥatīp (کاغذ ابری حطیب)",
-        "english": "Hatip ebru: marbled paper produced by drawing a stylus through floated pigments on marbling size to create elongated leaf/feather forms. Named in the Ottoman tradition after Hâtip Mehmed Efendi, who is credited with developing the technique. The defining characteristic — drawn, stylized feather or leaf motifs — clearly distinguishes hatip ebru from battal ebru (random drop) and gel-git/taraklı ebru (mechanically combed)."
+        "english": "Hatip ebru: marbled paper produced by drawing a stylus (biz) through floated pigments on marbling size to create elongated leaf/feather forms. Named in the Ottoman tradition after Hâtip Mehmed Efendi, who is credited with developing the technique. The defining characteristic — drawn, stylized feather or leaf motifs — clearly distinguishes hatip ebru from battal ebru (random drop), gel-git ebru (single-stylus back-and-forth wave patterns), and taraklı ebru (mechanically combed with a multi-toothed comb)."
       },
       {
         "concept": "Stone/spot marbling — battal ebru",
