@@ -1,0 +1,641 @@
+{
+  "record_id": "afyon_gedik_17679-2",
+  "collection": {
+    "institution": "Afyon Gedik Ahmed Paşa İl Halk Kütüphanesi",
+    "city": "Afyonkarahisar",
+    "country": "Turkey",
+    "shelfmark": "03 Gedik 17679-2",
+    "yek_url": "https://portal.yek.gov.tr/works/detail/619665"
+  },
+  "manuscript": {
+    "title": "Muraqqaʿāt / مرقعات",
+    "title_script": "مرقعات",
+    "title_alt": "Derviş Osmân Murakkaʿi (Cilt 2)",
+    "author": null,
+    "author_dates": null,
+    "calligrapher": "Derviş Osmân (درويش عثمان)",
+    "calligrapher_dates": null,
+    "calligrapher_note": "Attributed to Derviş Osmân per YEK catalogue. No biographical dates are recorded in the catalogue entry and the calligrapher has not been positively identified with a known documented master. The name 'Derviş Osmân' is a common Sufi-inflected Ottoman name; without a ketebe date or further archival evidence the calligrapher cannot be identified with certainty. Physical examination and calligraphic comparison with documented works would be required to establish attribution.",
+    "date_ah": null,
+    "date_ce": null,
+    "date_note": "No date is given in the YEK catalogue record. The decorated paper program — battal ebru and multi-color mülevven (pembe, zeytin yeşili, altın/okr) — is consistent with late Ottoman production, broadly 17th–18th century CE. Dating null pending physical examination or identification of the calligrapher Derviş Osmân.",
+    "place_of_copy": null,
+    "format": "Muraqqaʿāt / مرقعات — Ottoman calligraphic album (vol. 2 of companion pair with shelfmark 17679-1)",
+    "format_note": "Volume 2 of a companion pair of calligraphic albums (17679-1 and 17679-2) held together at the Afyon Gedik Ahmed Paşa İl Halk Kütüphanesi. The YEK catalogue records '12 yk.' (yaprak — leaves) for this volume, corresponding to 14 IIIF pages (front cover + 12 double-page spreads of text content + back cover). The album uses a vassale (window-mounting) format throughout: calligraphic specimens on cream âharlı paper are cut and mounted onto colored and/or marbled border papers. Three distinct mülevven (boyalı kâğıt) colors are used — pembe (pink/salmon), zeytin yeşili (olive-green), and altın/okr (gold/ochre) — plus two pages of polychrome battal ebru. This volume has more color variety than its companion (17679-1, which uses primarily battal ebru margins) but fewer ebru pages. Together the pair comprises 43 pages of decorated content. The binding shows a degraded lacquer (ruganî) surface on both covers.",
+    "language": "Arabic",
+    "script": "Sülüs (ثلث), Nesih (نسخ), and Tuğra — per YEK catalogue: 'Arap harfli'. Multiple calligraphic registers visible including formal sülüs and nesih lines and a single tuğra (monogram/cipher) specimen.",
+    "dimensions_mm": {
+      "height": null,
+      "width": null,
+      "note": "Physical dimensions not recorded in YEK catalogue entry. IIIF images indicate an oblong (landscape-oriented) album format, wider than tall; estimated c. 270–300 mm wide × 220–250 mm high based on scale ruler visible in IIIF images."
+    },
+    "folio_count": 12,
+    "yek_id": "619665",
+    "iiif_id": "0000000568290",
+    "companion_volume": {
+      "record_id": "afyon_gedik_17679-1",
+      "shelfmark": "03 Gedik 17679-1",
+      "yek_id": "619664",
+      "relationship": "Companion volume (vol. 1 of 2). Both albums are attributed to Derviş Osmân and held together at the same institution. The two volumes together comprise a complete murakka pair with a shared decorative vocabulary (battal ebru, mülevven papers, vassale mounting, probable matching lacquer bindings). Volume 1 is reported to use battal ebru margins more extensively (~half of its pages); volume 2 has more varied mülevven colors but fewer ebru pages. Combined decorated content: 43 pages across both volumes.",
+      "note": "17679-1 catalogued separately. See record afyon_gedik_17679-1.json when available."
+    },
+    "notes": "The album is one of the few Ottoman murakka volumes in the project corpus to use three distinct mülevven colors across a single volume (pembe, zeytin yeşili, altın/okr), alongside two battal ebru pages. The companion pair relationship with 17679-1 makes this a significant specimen for studying variation within a matched Ottoman album commission. The heavily degraded lacquer binding is a conservation concern. The tughra specimen on p010 (left page) is an unusual element in a calligraphic album and merits paleographic study. YEK catalogue entry by Mehmet Akif Alpaydın."
+  },
+  "paper_decoration": {
+    "types": [
+      "marbled",
+      "colored",
+      "framing_system",
+      "other"
+    ],
+    "summary": "Afyon Gedik 17679-2 presents a multi-technique decorated paper program of notable variety for a 12-leaf Ottoman calligraphic album. Three distinct mülevven (boyalı kâğıt / colored paper) types are employed as margin/border grounds for the vassale-mounted calligraphy specimens: (1) pembe/salmon (pink/salmon-toned paper, visible on the right page of p002); (2) zeytin yeşili (olive-green, the dominant margin color, present on pp005 right, 006–009 right, 012 left, 013 both pages); and (3) altın/okr (gold/ochre-toned paper, present on pp004 right, 010 right, 011 right). Additionally, two pages carry polychrome battal ebru (stone-marbled) paper as the margin ground: p005 left page and p012 right page, both displaying vivid swirling patterns in red, blue, yellow/ochre, grey, and cream. The calligraphy specimens are mounted by the vassale technique — cut panels of cream âharlı paper set into windows cut from the colored/marbled border paper, producing a flush-mounted appearance. Cetvelli (ruled-line) framing is visible around the mounted calligraphy panels, particularly on the olive-green mulevven pages. The binding covers (pp001, 014) exhibit a degraded lacquer (ruganî/lake) surface with reddish-brown and dark grey mottling; faint traces of an impressed or painted geometric lattice pattern are visible through the wear on the back cover (p014), consistent with a lacquer binding that has suffered extensive flaking and surface loss. The album thus combines at least four distinct decorative techniques: mülevven (three color variants), battal ebru, vassale mounting, cetvelli framing, and probable lacquer binding decoration.",
+    "distribution_notes": "Pembe mülevven: p002 right page only (single occurrence). Zeytin yeşili mülevven: pp005 right, 006 right, 007 right, 008 right, 009 right, 012 left, 013 left and right (dominant color, 8 page-sides). Altın/okr mülevven: pp004 right, 010 right, 011 right (3 page-sides). Battal ebru: p005 left, p012 right (2 page-sides). Plain cream/offwhite pages: left-side pages of pp003–011 and p003 both sides (interleaved blank or lightly used leaves, not decorated). Binding: lacquer (ruganî) on both covers (pp001, 014).",
+    "technique_terms": {
+      "ottoman": "battal ebru (taş ebrusu — polychrome stone-marbled paper); mülevven kâğıt / boyalı kâğıt (tinted/dyed paper: pembe, zeytin yeşili, altın/okr); vassale (pencere montajı — calligraphy panel window-mounting); cetvelli (altın/siyah cetvel — gold/dark ruling lines); ruganî cilt / lake cilt (lacquer binding); muraqqaʿāt (murakkaat — calligraphic album)",
+      "persian": "kāġaẕ-e abrī (کاغذ ابری) — marbled paper; kāġaẕ-e mulavvan (کاغذ ملوّن) — colored paper; ruġan (روغن) — lacquer",
+      "arabic": "waraq marjūsh / kāġhid abrī (ورق مرجوش) — marbled paper; waraq mulauwwan (ورق ملوّن) — colored paper; jild ruġānī (جلد روغاني) — lacquer binding; maqāss (مقاص) — window-cut mounting"
+    },
+    "catalogue_description": {
+      "paper_field": null,
+      "paper_field_normalized": null,
+      "paper_field_translation": null,
+      "notes_field": "Murakka'at. 12 yk. Arap harfli. Dervis Osman. Afyon Gedik Ahmet Pasa Il Halk Kutuphanesi 03 Gedik 17679-2.",
+      "notes_field_normalized": "Murakkaʿāt. 12 yaprak. Arap harfli. Derviş Osmân. Afyon Gedik Ahmed Paşa İl Halk Kütüphanesi 03 Gedik 17679-2.",
+      "notes_field_translation": "Calligraphic album. 12 leaves. Arabic script. [Calligrapher:] Derviş Osmân. Afyon Gedik Ahmed Paşa Public Library, 03 Gedik 17679-2.",
+      "decoration_field": null,
+      "source": "YEK portal, catalogue entry 619665, Afyon Gedik Ahmed Paşa İl Halk Kütüphanesi. Catalogued by Mehmet Akif Alpaydın. Kâğıt özellikleri and tezhip/minyatür fields are null in the YEK record. All paper decoration observations derive from direct visual examination of IIIF images (14 pages at native resolution, up to 5709×4160 px)."
+    }
+  },
+  "workshop_attribution": {
+    "primary_tradition": "ottoman",
+    "workshop_centre": null,
+    "date_range_ce": "18th century (stylistic estimate)",
+    "confidence": 0.65,
+    "key_indicators": [
+      "Battal ebru (polychrome stone-marbled paper) is a characteristically Ottoman decorated paper technique, most commonly documented in Istanbul production of the 17th–18th century",
+      "The vassale mounting format (calligraphy cut and window-mounted into decorated border papers) is a standard Ottoman murakka album technique",
+      "Multi-color mülevven paper program (pink, olive-green, gold/ochre) across a single album is consistent with late Ottoman luxury album production",
+      "The cetvelli framing system with multiple ruling lines around vassale-mounted panels is a standard Ottoman album layout convention",
+      "The lacquer binding (if confirmed) would suggest either direct Persian-tradition lacquer work or Ottoman adaptation of that tradition, both documented in the late 17th–18th century Ottoman court context"
+    ],
+    "cross_tradition_caveats": [
+      "No date is recorded in the catalogue and the calligrapher Derviş Osmân has not been identified with a documented master, precluding firm chronological attribution",
+      "The Afyonkarahisar provenance is provincial Anatolian — the album may have been produced in Istanbul and subsequently transferred, or may represent provincial Ottoman workshop production",
+      "Lacquer bindings in the Ottoman world derive from the Persian (Safavid) tradition; the degraded state of the binding makes definitive attribution of binding technique impossible without physical examination",
+      "The olive-green mülevven ground color is also documented in non-Ottoman Persianate contexts; Ottoman attribution rests on the overall program rather than any single element"
+    ]
+  },
+  "codicology": {
+    "paper": {
+      "color": "Multiple paper stocks: (1) cream/offwhite burnished âharlı paper for calligraphy text panels; (2) pink/salmon mülevven for border paper (p002 right); (3) zeytin yeşili (olive-green) mülevven for border paper (dominant: pp005 right, 006–009 right, 012 left, 013); (4) altın/okr (gold/ochre) tinted border paper (pp004 right, 010 right, 011 right); (5) polychrome battal ebru paper (pp005 left, 012 right) in red/blue/yellow-ochre/grey/cream; (6) plain cream/offwhite interleaved leaves (left-side pages of most double-page spreads).",
+      "preparation": "Calligraphy text panels are on burnished âharlı (sized and polished) cream paper, standard for Ottoman luxury calligraphy. Mülevven border papers are tinted throughout their mass or surface-dyed; the olive-green ground is a muted, even tone visible at IIIF resolution. The battal ebru papers show vivid polychrome swirling patterns in the standard stone-marbled (taş ebrusu) technique — colors float in sequence on a size bath and are manipulated with a stylus. The cream interleaved pages on left-side spreads appear unsized or lightly sized, with occasional water-staining and surface soiling.",
+      "weight": "Indeterminate from IIIF images. Standard Ottoman album paper weight expected (c. 80–120 g/m²).",
+      "decoration": "Mülevven (three color variants), battal ebru (two pages), cetvelli ruling on mounted panels.",
+      "paper_type": "Mixed: burnished Eastern/Oriental âharlı paper for calligraphy panels; mülevven (colored) paper for margin grounds; handmade marbled paper (ebru) for two margin pages. The interleaved blank pages may be Ottoman âharlı or European watermarked paper — not determinable from IIIF images at this resolution."
+    },
+    "ruling": {
+      "system": "Cetvelli (ruled-line) framing around vassale-mounted calligraphy panels, visible particularly on the olive-green mülevven pages (pp005–013). The ruling lines appear to be thin dark (black or very dark brown) lines, possibly with a gold cetvel on some pages. The ruling creates rectangular frames around individual calligraphy panel blocks.",
+      "description": "The dominant framing system comprises: (from outside in) the mülevven or ebru border paper as outer margin; a narrow dark ruling line (cetvel) forming the outer frame of each calligraphy panel; the cream calligraphy text area. On some pages (notably p005 right and pp006–009 right) a multi-panel grid layout is visible — two or three separate calligraphy panels stacked vertically within a single page frame, each separated by ruling lines. This grid arrangement of multiple stacked vassale-mounted panels within a single colored border is a recurrent compositional device across the album. The ruling appears to be consistent in width and likely applied with a cetvel ruler before panel mounting."
+    },
+    "binding": {
+      "cover_description": "Both front cover (p001) and back cover (p014) exhibit a heavily worn surface with a reddish-brown and dark grey mottled appearance, consistent with a degraded lacquer (ruganî / lake) binding that has suffered extensive flaking and surface loss. On the front cover (p001), the overall texture is mottled reddish-brown with dark areas — the original decorative surface has largely disintegrated. Two library labels are affixed to the front cover: a handwritten label reading '17679' in the upper left area, and a printed label '840 / 14.' (possibly a Dewey classification) in the center. Below these, handwritten Arabic script and a round label/seal are visible. The spine is intact and appears to be dark leather. On the back cover (p014), the same reddish-brown mottled deterioration is present; faint traces of a pressed or incised geometric pattern (possibly a diamond-lattice shamsa or cross-hatch grid) are discernible through the degraded surface on the back cover — this residual pattern impression suggests the original binding had a stamped or tooled decoration under the lacquer. A '79/1' reference label is affixed to the lower left of the back cover.",
+      "cover_type": "Ruganî cilt (lacquer binding) — degraded. Both covers show extensive flaking and surface loss consistent with a lacquer-painted binding. Original decorative program largely lost to wear and deterioration.",
+      "notes": "The lacquer (rugan/lake) binding technique in the Ottoman world derives from the Persian/Safavid tradition of lacquer bookbinding (jild-i ruġānī), which was adapted by Ottoman craftsmen from the 16th century onward. The degraded state of these covers represents a significant conservation concern: the original decorative surface (probable painted or gilded motifs under the lacquer layer) has been almost entirely lost. The reddish coloration and dark mottling are consistent with the failure of both the lacquer coating and the underlying painted pigments. Physical examination by a conservator is urgently recommended to assess stabilization options and any recoverable surface evidence beneath the current deterioration. The residual pattern impression on the back cover (p014) may provide evidence of the original binding design if examined under raking light or multispectral imaging."
+    },
+    "format": "Muraqqaʿāt — Ottoman calligraphic album, oblong (landscape) format, 12 leaves, vassale mounting throughout",
+    "condition_summary": "The album interior (calligraphy pages pp002–013) is generally well-preserved with legible calligraphy and clearly visible mülevven and ebru papers. The battal ebru pages (pp005 left, 012 right) are vivid and well-preserved. The mülevven border papers are in good condition. Several left-side interleaved pages show water-staining, foxing, and light soiling but are structurally sound. The binding is in poor condition: both covers have suffered extensive lacquer loss, surface deterioration, and structural weakening at the spine. Conservation intervention is required for the binding. The interior decoration is not at immediate risk but should be monitored for moisture-related deterioration given the condition of the binding.",
+    "conservation_history": null
+  },
+  "visual_confirmation": {
+    "verdict": "confirmed",
+    "confidence": 0.9,
+    "screenshots_examined": 14,
+    "folios_examined": [
+      "corpus/iiif/afyon_gedik_17679-2_p001.jpg",
+      "corpus/iiif/afyon_gedik_17679-2_p002.jpg",
+      "corpus/iiif/afyon_gedik_17679-2_p003.jpg",
+      "corpus/iiif/afyon_gedik_17679-2_p004.jpg",
+      "corpus/iiif/afyon_gedik_17679-2_p005.jpg",
+      "corpus/iiif/afyon_gedik_17679-2_p006.jpg",
+      "corpus/iiif/afyon_gedik_17679-2_p007.jpg",
+      "corpus/iiif/afyon_gedik_17679-2_p008.jpg",
+      "corpus/iiif/afyon_gedik_17679-2_p009.jpg",
+      "corpus/iiif/afyon_gedik_17679-2_p010.jpg",
+      "corpus/iiif/afyon_gedik_17679-2_p011.jpg",
+      "corpus/iiif/afyon_gedik_17679-2_p012.jpg",
+      "corpus/iiif/afyon_gedik_17679-2_p013.jpg",
+      "corpus/iiif/afyon_gedik_17679-2_p014.jpg"
+    ],
+    "visual_evidence": "All 14 IIIF pages examined at native resolution (up to 5709×4160 px). Mülevven (colored paper) confirmed on multiple pages: pink/salmon on p002 right (clearly distinct warm pink tone), olive-green on pp005 right, 006–009 right, 012 left, 013 (muted olive-green ground visible as wide border areas), gold/ochre tint on pp004 right, 010 right, 011 right. Battal ebru confirmed on p005 left (vivid polychrome swirling pattern in red, blue, yellow-ochre, grey, cream) and p012 right (vivid red-orange, blue, grey battal). Vassale mounting confirmed throughout: calligraphy panels are clearly cut and window-mounted into the border papers. Cetvelli framing confirmed around vassale panels particularly on olive-green pages. Lacquer binding confirmed as probable (degraded) on pp001 and 014: heavily worn reddish-brown mottled surface consistent with flaked lacquer. Faint geometric pattern impression (possible diamond-lattice) visible on p014. The album has more decorative variety than a single-technique album, with at least four technique types confirmed across 14 pages.",
+    "limitations": [
+      "Lacquer binding verdict is 'probable' rather than certain: the covers are so extensively degraded that the original surface has largely been lost; the reddish-brown mottled appearance is consistent with degraded lacquer but could also represent heavily worn painted or dyed leather",
+      "Calligrapher attribution to Derviş Osmân accepted from YEK catalogue; cannot be independently verified from images",
+      "Some left-side interleaved pages are plain cream/offwhite with no decoration; it is unclear whether these are blank leaves intentionally left undecorated or whether they originally had decoration that has been lost or is simply not a feature of the album's design",
+      "The cetvelli ruling on some pages is thin and partially obscured by the digital watermark overlay (Türkiye Kütüphaneleri institutional stamp) present on IIIF images",
+      "No date inscription or ketebe found in images examined; dating remains undetermined"
+    ],
+    "source_agent": "metadata-generator (direct IIIF examination, all 14 pages)",
+    "session": "catalog/searches/visual_tier2_afyon_gedik_17679-2.json"
+  },
+  "folio_analyses": [
+    {
+      "folio": "Front cover (IIIF p001)",
+      "source_image": "corpus/iiif/afyon_gedik_17679-2_p001.jpg",
+      "decoration_present": true,
+      "decoration_types": [
+        "other"
+      ],
+      "elements": [
+        {
+          "motif": "Degraded lacquer binding — front cover",
+          "description": "The front cover surface is heavily worn and mottled in reddish-brown, olive-grey, and dark tones. The overall texture and color pattern are consistent with an Ottoman or Persian-tradition lacquer (ruganî / lake) binding that has suffered extensive flaking and surface loss. The underlying structure suggests the original binding had a painted or gilded decorative surface beneath the lacquer coating, now almost entirely lost. Two library labels are affixed: a handwritten label '17679' upper left; a printed label '840 / 14.' center (possibly a Dewey classification); handwritten Arabic text and a round label/seal below these. The spine edge is dark brown leather, intact.",
+          "location": "Full front cover exterior",
+          "confidence": 0.8
+        }
+      ],
+      "confidence": 0.8,
+      "notes": "The degraded condition of the lacquer binding makes confident attribution of the original decorative program impossible from IIIF images alone. The reddish-brown palette and surface texture are the primary evidence for lacquer identification. Conservation examination under raking light and/or multispectral imaging is recommended."
+    },
+    {
+      "folio": "First text opening — pink/salmon mülevven right page (IIIF p002)",
+      "source_image": "corpus/iiif/afyon_gedik_17679-2_p002.jpg",
+      "decoration_present": true,
+      "decoration_types": [
+        "colored",
+        "framing_system"
+      ],
+      "elements": [
+        {
+          "motif": "Cream/offwhite left page — calligraphy on plain ground",
+          "description": "The left page carries two calligraphy specimens mounted on a cream/offwhite ground — the leftmost specimen shows large sülüs script in black ink; to the right of it a smaller specimen in nesih. A library stamp ('T.C. Afyon İl Halk Kütüphanesi, Sayı: 17679') and classification label are visible in the upper area. The page ground is plain cream/yellowish with no apparent mülevven coloring.",
+          "location": "Left page",
+          "confidence": 0.9
+        },
+        {
+          "motif": "Pink/salmon mülevven margin ground — right page",
+          "description": "The right page uses a distinctly pink/salmon-toned paper as the border ground. The warm pink color is clearly visible as the wide margin areas between and around the vassale-mounted calligraphy specimens. Two or three calligraphy specimens are mounted onto this pink ground: a central horizontal band of sülüs and a smaller nesih panel below. The pink tone is vivid, uniform, and clearly distinct from both the cream text-panel paper and the paper on the opposite page. A library stamp/label is affixed to the lower right. Black ruling lines (cetvelli) frame the mounted specimens.",
+          "location": "Right page",
+          "confidence": 0.92
+        }
+      ],
+      "confidence": 0.91,
+      "notes": "The pink/salmon mülevven on the right page of p002 is the sole occurrence of this color in the album. The asymmetry — left page plain cream, right page pink mülevven — is characteristic of an album assembled from specimens of varied origins rather than a unified production scheme. The pink ground is reminiscent of the pembe mülevven documented in na_00120 and sm_00003 in the project corpus."
+    },
+    {
+      "folio": "Second text opening — plain cream (IIIF p003)",
+      "source_image": "corpus/iiif/afyon_gedik_17679-2_p003.jpg",
+      "decoration_present": false,
+      "decoration_types": [],
+      "elements": [
+        {
+          "motif": "Plain cream calligraphy pages — both sides",
+          "description": "Both pages of this opening show calligraphy specimens on cream/offwhite paper grounds with brownish border edges. The border color appears to be the aged/toned natural paper edge rather than an applied mülevven color. Left page has two large calligraphy specimens in sülüs with nesih lines. Right page has similar multi-script calligraphy. The overall appearance is of plain cream paper without intentional coloring. The brownish border edges may reflect either a lightly applied tint or simple paper aging/foxing.",
+          "location": "Both pages",
+          "confidence": 0.78
+        }
+      ],
+      "confidence": 0.78,
+      "notes": "This opening is the only double-spread with both sides showing non-colored (or very lightly tinted) border grounds. The pages may represent specimens with their original uncolored border paper, or the color may have been so light as to be indistinguishable at this resolution."
+    },
+    {
+      "folio": "Third text opening — gold/ochre mülevven right page (IIIF p004)",
+      "source_image": "corpus/iiif/afyon_gedik_17679-2_p004.jpg",
+      "decoration_present": true,
+      "decoration_types": [
+        "colored",
+        "framing_system"
+      ],
+      "elements": [
+        {
+          "motif": "Single calligraphy specimen on cream — left page",
+          "description": "The left page carries a single small calligraphy specimen (nesih or small script) on a cream paper ground, centered within a generous cream margin. The specimen appears to be a short text block.",
+          "location": "Left page",
+          "confidence": 0.85
+        },
+        {
+          "motif": "Gold/ochre mülevven border — right page",
+          "description": "The right page uses a warm golden/ochre-tinted paper as the margin/border ground. The golden ochre tone is clearly visible as the wide border area surrounding the mounted calligraphy specimens. Two or three calligraphy panels are mounted onto this ochre ground. Dark ruling lines frame the panels. The gold/ochre tint is warmer and more saturated than the plain cream of the left page, clearly an intentional dyed or tinted paper.",
+          "location": "Right page",
+          "confidence": 0.88
+        }
+      ],
+      "confidence": 0.87,
+      "notes": "The gold/ochre mülevven border paper at p004 right is the first appearance of this color variant in the album sequence. Its warm golden tone contrasts with the cooler olive-green that dominates subsequent pages and the pink of p002."
+    },
+    {
+      "folio": "Fourth text opening — battal ebru left, olive-green mülevven right (IIIF p005)",
+      "source_image": "corpus/iiif/afyon_gedik_17679-2_p005.jpg",
+      "decoration_present": true,
+      "decoration_types": [
+        "marbled",
+        "colored",
+        "framing_system"
+      ],
+      "elements": [
+        {
+          "motif": "Polychrome battal ebru (taş ebrusu) margin — left page",
+          "description": "The left page features spectacular polychrome battal ebru (stone-marbled paper) as the full margin/border ground surrounding a vassale-mounted calligraphy panel. The ebru pattern shows vivid swirling marbled patterns in red/crimson, deep blue, yellow-ochre/golden, grey, and cream, distributed in large organic flowing masses characteristic of the battal (non-combed, free-flowing) technique. The pattern is energetic and well-preserved with high color contrast. The calligraphy panel — a large sülüs specimen with smaller nesih lines — is mounted in the center, surrounded on all sides by the ebru paper. The cetvelli ruling lines that frame the panel are clearly visible against the colored ebru ground. This is the most dramatically decorated page in the album.",
+          "location": "Left page",
+          "confidence": 0.97
+        },
+        {
+          "motif": "Olive-green mülevven border — right page",
+          "description": "The right page uses olive-green (zeytin yeşili) mülevven paper as the margin/border ground. The muted olive-green tone is the dominant margin color of this album and appears here for the first time. Multiple calligraphy panels are mounted onto the green ground in a stacked vertical arrangement (multi-panel layout), framed by dark ruling lines. The olive-green is even in tone across the visible margin areas.",
+          "location": "Right page",
+          "confidence": 0.93
+        }
+      ],
+      "confidence": 0.95,
+      "notes": "Page 5 is the most decoratively distinguished opening in the album, presenting the contrast between vivid battal ebru (left) and olive-green mülevven (right) within a single opening. The battal ebru on p005 left is among the finest and best-preserved examples of this technique in the project corpus, comparable in quality to the battal ebru documented in tiem_02649 and na_00270."
+    },
+    {
+      "folio": "Fifth text opening — blank left, olive-green mülevven right (IIIF p006)",
+      "source_image": "corpus/iiif/afyon_gedik_17679-2_p006.jpg",
+      "decoration_present": true,
+      "decoration_types": [
+        "colored",
+        "framing_system"
+      ],
+      "elements": [
+        {
+          "motif": "Blank/plain cream left page",
+          "description": "The left page is blank — a plain cream/offwhite sheet without calligraphy or decoration. Possibly an interleaved protective sheet or the verso of a flyleaf.",
+          "location": "Left page",
+          "confidence": 0.95
+        },
+        {
+          "motif": "Olive-green mülevven border with multi-panel calligraphy — right page",
+          "description": "The right page continues the olive-green (zeytin yeşili) mülevven program established at p005 right. The olive-green border ground is clearly visible. Multiple calligraphy panels are stacked vertically within a single framing system, with ruling lines separating each specimen. The arrangement includes large sülüs/nesih lines in horizontal bands.",
+          "location": "Right page",
+          "confidence": 0.93
+        }
+      ],
+      "confidence": 0.93,
+      "notes": "The blank left page pattern (pp006–009) is consistent with the album's construction logic: the calligraphy specimens were mounted onto right-side pages only, with interleaved blank leaves on the left to protect the facing recto specimens. This is a standard Ottoman murakka binding technique."
+    },
+    {
+      "folio": "Sixth text opening — blank left, olive-green mülevven right with three-panel layout (IIIF p007)",
+      "source_image": "corpus/iiif/afyon_gedik_17679-2_p007.jpg",
+      "decoration_present": true,
+      "decoration_types": [
+        "colored",
+        "framing_system"
+      ],
+      "elements": [
+        {
+          "motif": "Olive-green mülevven border with three-panel calligraphy — right page",
+          "description": "The right page continues the olive-green mülevven format. Three separate calligraphy panels are arranged in a stacked vertical layout on this page — a large horizontal sülüs panel at top, a rectangular nesih/script panel in the middle, and a third narrower band at the bottom. The olive-green margin ground is visible between and around the panels. The ruling lines framing each panel are dark (likely black). An inscribed folio number '6' is visible in the upper left area of the right page.",
+          "location": "Right page",
+          "confidence": 0.93
+        }
+      ],
+      "confidence": 0.93,
+      "notes": "The three-panel layout on p007 right is one of the more complex page layouts in the album, demonstrating the curator's attention to proportional arrangement of specimens within the olive-green mülevven format."
+    },
+    {
+      "folio": "Seventh text opening — blank left, olive-green mülevven right (IIIF p008)",
+      "source_image": "corpus/iiif/afyon_gedik_17679-2_p008.jpg",
+      "decoration_present": true,
+      "decoration_types": [
+        "colored",
+        "framing_system"
+      ],
+      "elements": [
+        {
+          "motif": "Olive-green mülevven border with calligraphy panels — right page",
+          "description": "Continuation of the olive-green mülevven program. The right page shows calligraphy specimens (sülüs and nesih) mounted onto the olive-green border ground. Two or three calligraphy panels are visible in a stacked arrangement.",
+          "location": "Right page",
+          "confidence": 0.92
+        }
+      ],
+      "confidence": 0.92,
+      "notes": "Consistent with the olive-green mülevven pattern of pp006–009."
+    },
+    {
+      "folio": "Eighth text opening — blank left, olive-green mülevven right (IIIF p009)",
+      "source_image": "corpus/iiif/afyon_gedik_17679-2_p009.jpg",
+      "decoration_present": true,
+      "decoration_types": [
+        "colored",
+        "framing_system"
+      ],
+      "elements": [
+        {
+          "motif": "Olive-green mülevven border with calligraphy panels — right page",
+          "description": "Continuation of the olive-green mülevven program. Calligraphy specimens mounted onto the olive-green border ground in a framed panel arrangement.",
+          "location": "Right page",
+          "confidence": 0.92
+        }
+      ],
+      "confidence": 0.92,
+      "notes": "The recurrence of the olive-green mülevven across five consecutive right-side pages (pp005–009) establishes it as the dominant decorative theme of this album's middle section."
+    },
+    {
+      "folio": "Ninth text opening — tuğra left page, gold/ochre mülevven right (IIIF p010)",
+      "source_image": "corpus/iiif/afyon_gedik_17679-2_p010.jpg",
+      "decoration_present": true,
+      "decoration_types": [
+        "colored",
+        "framing_system"
+      ],
+      "elements": [
+        {
+          "motif": "Tuğra specimen with surrounding nesih text — left page",
+          "description": "The left page presents a striking tuğra (monogram/cipher) calligraphy specimen as the central visual element. The tuğra, in black ink, shows the characteristic sweeping curved form with interlocking loops and vertical hafiza (body) elements. The tuğra is surrounded by smaller-script nesih text (possibly explanatory or accompanying the tuğra — perhaps a practice piece or a model tuğra for pedagogical use). The ground appears to be a light grey or cream-grey toned paper. This is the only tuğra specimen in the album and is an unusual inclusion in a non-official calligraphic album context.",
+          "location": "Left page",
+          "confidence": 0.9
+        },
+        {
+          "motif": "Gold/ochre mülevven border — right page",
+          "description": "The right page uses gold/ochre-tinted paper as the border ground (second occurrence of this color, after p004 right). Calligraphy panels are mounted onto the ochre ground in a multi-panel framed arrangement with dark ruling lines.",
+          "location": "Right page",
+          "confidence": 0.88
+        }
+      ],
+      "confidence": 0.89,
+      "notes": "The tuğra specimen on p010 left is a significant element. Tuğra writing — the highly formalized Ottoman imperial cipher — was a specialized calligraphic skill. The presence of a tuğra specimen in a murakka album attributed to 'Derviş Osmân' suggests the calligrapher may have had court or divan connections, or that the album incorporates specimens from multiple calligraphers. Paleographic analysis of the tuğra would be highly informative."
+    },
+    {
+      "folio": "Tenth text opening — blank left, gold/ochre mülevven right (IIIF p011)",
+      "source_image": "corpus/iiif/afyon_gedik_17679-2_p011.jpg",
+      "decoration_present": true,
+      "decoration_types": [
+        "colored",
+        "framing_system"
+      ],
+      "elements": [
+        {
+          "motif": "Gold/ochre mülevven border with calligraphy — right page",
+          "description": "The right page uses gold/ochre-tinted paper as the border ground (third occurrence: pp004, 010, 011). Calligraphy specimens mounted in a framed panel arrangement. The warm golden/ochre margin color is clearly distinct from the olive-green used on adjacent pages.",
+          "location": "Right page",
+          "confidence": 0.88
+        }
+      ],
+      "confidence": 0.88,
+      "notes": "The return to gold/ochre mülevven on p011 right (after the olive-green run of pp005–009) marks the transition into the album's final section."
+    },
+    {
+      "folio": "Eleventh text opening — olive-green mülevven left, battal ebru right (IIIF p012)",
+      "source_image": "corpus/iiif/afyon_gedik_17679-2_p012.jpg",
+      "decoration_present": true,
+      "decoration_types": [
+        "colored",
+        "marbled",
+        "framing_system"
+      ],
+      "elements": [
+        {
+          "motif": "Olive-green mülevven border — left page",
+          "description": "The left page uses olive-green mülevven paper as the border ground. Calligraphy specimens are mounted onto the green ground in a stacked arrangement. The olive-green tone matches the dominant color used in pp005–009.",
+          "location": "Left page",
+          "confidence": 0.92
+        },
+        {
+          "motif": "Polychrome battal ebru (taş ebrusu) margin — right page",
+          "description": "The right page features polychrome battal ebru as the margin/border ground — the second battal ebru occurrence in the album (first: p005 left). The swirling pattern is vivid in red/crimson-orange, blue-grey, and cream tones. The palette is slightly cooler and more orange-red than p005 left (which had more golden yellow). Calligraphy specimens are mounted centrally into the ebru paper. Dark ruling lines frame the mounted panels.",
+          "location": "Right page",
+          "confidence": 0.95
+        }
+      ],
+      "confidence": 0.94,
+      "notes": "Page 12 mirrors the decorative logic of p005 in reverse: there the left page had battal ebru and the right page olive-green mülevven; here the left page has olive-green and the right page battal ebru. This chiastic arrangement may be intentional, creating a balanced decorative bookend effect around the central olive-green section. The two battal ebru pages (pp005 left and 012 right) together define the decorative peaks of the album."
+    },
+    {
+      "folio": "Twelfth text opening — olive-green mülevven both pages (IIIF p013)",
+      "source_image": "corpus/iiif/afyon_gedik_17679-2_p013.jpg",
+      "decoration_present": true,
+      "decoration_types": [
+        "colored",
+        "framing_system"
+      ],
+      "elements": [
+        {
+          "motif": "Olive-green mülevven border — both pages",
+          "description": "Both pages of this final text opening use olive-green mülevven as the border ground. Calligraphy specimens are mounted onto the green ground on both pages — the only double-sided olive-green spread in the album (all previous olive-green occurrences were right-page only). A library stamp is visible on the right page. The calligraphy includes large sülüs and nesih on both sides.",
+          "location": "Both pages",
+          "confidence": 0.92
+        }
+      ],
+      "confidence": 0.92,
+      "notes": "The use of olive-green mülevven on both sides of the final text opening (p013) may indicate a concluding or summary function within the album structure — the dominant color closing the sequence. Alternatively, it may reflect a different batch of specimens from the right-page-only olive-green section earlier."
+    },
+    {
+      "folio": "Back cover (IIIF p014)",
+      "source_image": "corpus/iiif/afyon_gedik_17679-2_p014.jpg",
+      "decoration_present": true,
+      "decoration_types": [
+        "other"
+      ],
+      "elements": [
+        {
+          "motif": "Degraded lacquer binding — back cover with residual pattern impression",
+          "description": "The back cover shows the same heavily worn reddish-brown and dark grey mottled surface as the front cover, consistent with degraded lacquer (ruganî / lake). On this cover, faint traces of a pressed or incised geometric pattern are visible through the deteriorated surface — the residual impression appears to show a diamond-lattice or cross-hatch grid form, possibly the remains of a gilt shamsa (central medallion) or geometric binding ornament that was stamped or tooled beneath the lacquer layer. The impression is most visible in the central area. A '79/1' reference label is affixed to the lower left. The spine edge shows the dark leather structure.",
+          "location": "Full back cover exterior",
+          "confidence": 0.75
+        }
+      ],
+      "confidence": 0.75,
+      "notes": "The residual pattern impression on the back cover is a potentially significant finding: if the original binding had a stamped or tooled geometric lattice ornament beneath the lacquer, this would be consistent with a lacquer binding over a leather base with tooled decoration — a technique documented in Ottoman adaptations of the Persian lacquer binding tradition. Physical examination under raking light is recommended to recover as much of the original design as possible."
+    }
+  ],
+  "terminology": {
+    "terms_used": [
+      {
+        "concept": "Calligraphic album",
+        "ottoman": "muraqqaʿāt / murakkaat (مرقعات)",
+        "arabic": "muraqqa (مرقع) / muraqqa'āt (مرقعات)",
+        "persian": "muraqqa (مرقع)",
+        "english": "Muraqqaʿāt: a bound Ottoman calligraphic (and sometimes pictorial) album, typically comprising cut calligraphy specimens mounted onto decorated border papers. This album contains calligraphy in sülüs, nesih, and tuğra forms attributed to Derviş Osmân. It is volume 2 of a companion pair with 17679-1."
+      },
+      {
+        "concept": "Colored/tinted paper",
+        "ottoman": "mülevven kâğıt / boyalı kâğıt",
+        "arabic": "waraq mulauwwan (ورق ملوّن)",
+        "persian": "kāġaẕ-e mulavvan (کاغذ ملوّن)",
+        "english": "Mülevven (boyalı kâğıt): paper that has been tinted or dyed in a solid color before use. In this album three mülevven variants are present: (1) pembe (pink/salmon) on p002 right; (2) zeytin yeşili (olive-green) on multiple pages — dominant color; (3) altın/okr (gold/ochre) on pp004, 010, 011 right. The colored paper serves as the outer border/margin ground for the vassale-mounted calligraphy specimens."
+      },
+      {
+        "concept": "Pink/salmon tinted paper",
+        "ottoman": "pembe mülevven / pembe boyalı kâğıt",
+        "arabic": "waraq mulauwwan ward (ورق ملوّن وردي)",
+        "persian": "kāġaẕ-e sūratī (کاغذ صورتی)",
+        "english": "Pembe mülevven: paper tinted in pink or salmon-pink tones. In this album, a single page (p002 right) uses pink/salmon mülevven as the margin ground. Compare with na_00120 (green mülevven) and sm_00003 (six-color mülevven program) in the project corpus."
+      },
+      {
+        "concept": "Olive-green tinted paper",
+        "ottoman": "zeytin yeşili mülevven / yeşil boyalı kâğıt",
+        "arabic": "waraq mulauwwan zayTūnī (ورق ملوّن زيتوني)",
+        "persian": "kāġaẕ-e sabz-e zaytūnī (کاغذ سبز زیتونی)",
+        "english": "Zeytin yeşili mülevven: paper tinted in a muted olive-green color. This is the dominant margin color in the album, used across 8 page-sides (pp005 right, 006–009 right, 012 left, 013 both). The olive-green is a muted, somewhat grey-green tone — not a vivid grass green. Compare with kastamonu_4213 and na_00120 which also document green mülevven in the project corpus."
+      },
+      {
+        "concept": "Gold/ochre tinted paper",
+        "ottoman": "altın renkli mülevven / okr boyalı kâğıt / sarı mülevven",
+        "arabic": "waraq mulauwwan dhahabi (ورق ملوّن ذهبي)",
+        "persian": "kāġaẕ-e zard-e ṭilāʾī (کاغذ زرد طلایی)",
+        "english": "Altın/okr mülevven: paper tinted in a warm golden or ochre tone. Present on pp004 right, 010 right, 011 right. The golden-ochre color is warmer than the olive-green and cooler than a pure gold, suggesting a yellow-ochre pigment or dye. One of three mülevven color variants in this album."
+      },
+      {
+        "concept": "Stone-marbled paper",
+        "ottoman": "battal ebru / taş ebrusu",
+        "arabic": "waraq marjūsh (ورق مرجوش) / kāġhid abrī",
+        "persian": "kāġaẕ-e abrī-ye battal (کاغذ ابری بطّال)",
+        "english": "Battal ebru (taş ebrusu): polychrome marbled paper made by floating pigments on a size bath without combing or drawing (in contrast to gel-git and taraklı techniques). The result is a free-flowing organic swirling pattern in multiple colors. In this album, battal ebru appears on pp005 left and 012 right in vivid red/blue/ochre/grey/cream palettes. Standard polychrome battal type, comparable to tiem_02649 and na_00270 corpus specimens."
+      },
+      {
+        "concept": "Window-mounted panel technique",
+        "ottoman": "vassale / koltuk montajı / pencere montajı",
+        "arabic": "maqāss (مقاص) / tahrīr bi-l-qaTaʿ",
+        "persian": "lawh-e maqTaʿ (لوح مقطّع)",
+        "english": "Vassale: the technique of cutting a window (opening) in the border paper to the exact dimensions of the calligraphy panel, and then affixing the calligraphy specimen behind the cut opening so it appears flush with the border paper surface. The calligraphy appears 'set into' the border paper. Standard technique in Ottoman and Persianate murakka albums. Used throughout this album."
+      },
+      {
+        "concept": "Gold/dark ruling lines",
+        "ottoman": "cetvel / cetvelli / altın cetvel / siyah cetvel",
+        "arabic": "jadwal (جدول) / jadwal mudhahdhab (جدول مذهّب)",
+        "persian": "jadval (جدول) / jadval-e zar (جدول زر)",
+        "english": "Cetvel: ruling lines applied around the vassale-mounted calligraphy panels, creating a framed appearance. In this album the cetveller appear to be dark (black or very dark brown) lines; gold cetveller may also be present but are not clearly distinguishable at available resolution. The ruling is most clearly visible on the olive-green mülevven pages where the dark lines contrast with the colored ground."
+      },
+      {
+        "concept": "Lacquer binding",
+        "ottoman": "ruganî cilt / lake cilt",
+        "arabic": "jild ruġānī (جلد روغاني)",
+        "persian": "jild-e ruġanī (جلد روغنی) / jild-e lāk (جلد لاک)",
+        "english": "Ruganî/lake cilt: a binding in which the outer cover surface is decorated with painted designs (typically floral, figural, or geometric motifs) applied over a gessoed or prepared ground and then sealed with a transparent lacquer (rugan/lak) coating. The technique originates in the Persian manuscript tradition and was adopted in Ottoman bookbinding from the 16th century onward. In this album the lacquer surface has almost entirely disintegrated through flaking and wear, leaving only the reddish-brown mottled substrate visible."
+      },
+      {
+        "concept": "Tuğra",
+        "ottoman": "tuğra (طغراء)",
+        "arabic": "ṭughrā (طغراء)",
+        "persian": "ṭughrā (طغرا)",
+        "english": "Tuğra: the highly formalized calligraphic cipher used as the official monogram/signature of Ottoman sultans. The form comprises a characteristic arrangement of looped vertical (hafiza) elements and a sweeping baseline, enclosed within a defined form. Non-sultan tuğra forms were also produced as calligraphic exercises or models by master calligraphers. The tuğra specimen on p010 left of this album is an unusual inclusion in a personal calligraphic murakka and may indicate the calligrapher had official connections or included model pieces among practice specimens."
+      }
+    ]
+  },
+  "bibliography": [
+    {
+      "citation": "Blair, Sheila S. 'Color and Gold: The Decorated Papers Used in Manuscripts in Later Islamic Times.' Muqarnas 17 (2000): 24–36.",
+      "relevance": "Foundational classification framework for decorated papers in Islamic manuscripts. Blair's taxonomy distinguishes marbled (abrī), gold-sprinkled (zarafshān), and colored (mulauwwan) paper types — all three of which are present in this album. Her discussion of mülevven paper as a distinct category (dyed or tinted solid-color paper used as border grounds in luxury albums) is directly applicable. The present album's three-color mülevven program (pink, olive-green, gold/ochre) illustrates the variety of colored paper grounds documented in Blair's survey.",
+      "relevance_score": 0.97,
+      "access_notes": "Peer-reviewed article. Available via JSTOR and institutional library access. Open-access PDF accessible at Academia.edu."
+    },
+    {
+      "citation": "Bloom, Jonathan M. Paper Before Print: The History and Impact of Paper in the Islamic World. New Haven: Yale University Press, 2001.",
+      "relevance": "Comprehensive material-culture history of paper in the Islamic world, providing background for colored paper production, marbling (ebru) techniques, and the role of decorated papers in luxury manuscript and album production. Relevant for understanding the production context of both the mülevven and battal ebru papers in this album.",
+      "relevance_score": 0.8,
+      "access_notes": "Widely held monograph."
+    },
+    {
+      "citation": "Roxburgh, David J. The Persian Album, 1400–1600: From Dispersal to Collection. New Haven: Yale University Press, 2005.",
+      "relevance": "Foundational study of the murakkaat album format and decorated paper programs in the Persianate-Ottoman tradition. Provides the theoretical framework for the album as a deliberate curatorial and aesthetic object, applicable to the present volume's multi-technique paper program. Roxburgh's analysis of page layout choices, vassale mounting conventions, and the chromatic organization of decorated papers is directly relevant to interpreting the three-color mülevven sequence in this album.",
+      "relevance_score": 0.88,
+      "access_notes": "Monograph; widely held at research libraries."
+    },
+    {
+      "citation": "Çağman, Filiz, and Zeren Tanındı. The Topkapı Saray Museum: The Albums and Illustrated Manuscripts. Translated and edited by J. M. Rogers. Boston: Little, Brown, 1986.",
+      "relevance": "Standard reference for Ottoman calligraphic albums and their decorated paper programs. Provides comparanda for vassale-mounted murakka albums with colored border papers (mülevven) and battal ebru programs in the Topkapı collections. Relevant for contextualizing the album format and binding type within the Ottoman court tradition.",
+      "relevance_score": 0.85,
+      "access_notes": "Exhibition catalogue; widely held at Turkish and Islamic art research libraries."
+    },
+    {
+      "citation": "Bağcı, Serpil, Filiz Çağman, Günsel Renda, and Zeren Tanındı. Ottoman Painting. Ankara: Ministry of Culture and Tourism, 2006.",
+      "relevance": "Comprehensive survey of Ottoman visual arts covering the album tradition, calligraphic practices, and lacquer binding history from the 16th through 19th centuries. Provides comparative context for the tuğra specimen in this album and for the lacquer binding tradition in Ottoman bookbinding.",
+      "relevance_score": 0.8,
+      "access_notes": "Museum publication; widely held at Turkish studies collections."
+    },
+    {
+      "citation": "Tanındı, Zeren. 'Bibliophile Aghas (Eunuchs) at Topkapı Saray.' Muqarnas 21 (2004): 333–43.",
+      "relevance": "Documents album-collecting and commissioning practices at the Ottoman court in the late 17th century, providing context for the patronage environment within which murakka albums with decorated paper programs were produced. Relevant for understanding the social and institutional context of a companion-pair album commission such as 17679-1 and 17679-2.",
+      "relevance_score": 0.72,
+      "access_notes": "Peer-reviewed article. Available via JSTOR."
+    },
+    {
+      "citation": "Déroche, François. Islamic Codicology: An Introduction to the Study of Manuscripts in Arabic Script. Translated by Deke Dusinberre and David Radzinowicz. London: Al-Furqan Islamic Heritage Foundation, 2005.",
+      "relevance": "Foundational reference for Islamic manuscript codicology, covering paper decoration types, binding forms, ruling systems, and physical manuscript description. Provides the classification framework used throughout this catalog record, including terminology for vassale mounting, cetvelli ruling, and binding types.",
+      "relevance_score": 0.75,
+      "access_notes": "Monograph; available at specialist libraries."
+    },
+    {
+      "citation": "Gacek, Adam. Arabic Manuscripts: A Vademecum for Readers. Leiden: Brill, 2009.",
+      "relevance": "Standard reference for Islamic manuscript codicological terminology and script identification. Relevant for describing the sülüs, nesih, and tuğra scripts in this album and for general codicological terms (cetvel, vassale, kıtʿa) used in the catalog record.",
+      "relevance_score": 0.75,
+      "access_notes": "Reference monograph; widely held."
+    },
+    {
+      "citation": "Scheper, Karin. The Technique of Islamic Bookbinding: Methods, Materials and Regional Varieties. Leiden: Brill, 2015.",
+      "relevance": "Systematic study of Islamic bookbinding techniques, including lacquer (ruganî) bindings and their production methods. The present album's degraded lacquer binding makes it difficult to assess the original technique without physical examination; Scheper's typological framework provides the diagnostic criteria for distinguishing lacquer binding variants (painted lacquer, stamped lacquer over tooled leather) relevant to interpreting the residual pattern impression on the back cover.",
+      "relevance_score": 0.82,
+      "access_notes": "Monograph; available at Islamic bookbinding and manuscript studies libraries."
+    },
+    {
+      "citation": "Sturkenboom, Ilse. 'Chinese Decorated Paper in Persianate Manuscripts: Sourcing and Adaptation.' [Forthcoming, GlobalDecoPaper ERC Project, LMU Munich.]",
+      "relevance": "The GlobalDecoPaper ERC project's research on decorated paper taxonomy and international paper transfer in Persianate manuscripts is relevant for contextualizing the battal ebru and mülevven papers in Ottoman albums. Once published, Sturkenboom's findings on the categorization and provenance of colored papers will provide a direct methodological framework for this record.",
+      "relevance_score": 0.68,
+      "access_notes": "Forthcoming; check GlobalDecoPaper project website (LMU Munich) for preprints and project outputs."
+    }
+  ],
+  "suggested_collections": [
+    {
+      "institution": "Afyon Gedik Ahmed Paşa İl Halk Kütüphanesi, Afyonkarahisar — companion volume 17679-1",
+      "reason": "Companion volume (vol. 1 of 2) is held at the same institution under shelfmark 03 Gedik 17679-1. Physical comparison of both volumes is essential for understanding the pair's shared decorative vocabulary, the distribution of battal ebru and mülevven papers across the two volumes, and the relationship of their binding programs.",
+      "digital_access": "https://portal.yek.gov.tr"
+    },
+    {
+      "institution": "Türk ve İslam Eserleri Müzesi (TIEM), Istanbul",
+      "reason": "The TIEM murakka corpus (93 confirmed albums in visual triage) contains the largest concentration of comparable Ottoman calligraphic albums with battal ebru and mülevven paper programs. TIEM 02649 (catalogued: multi-color mülevven and battal ebru) and TIEM 02471 (catalogued: multi-color mülevven) provide close formal comparanda for the paper decoration techniques in this album.",
+      "digital_access": "https://portal.yek.gov.tr"
+    },
+    {
+      "institution": "Süleymaniye Kütüphanesi — Nuri Arlasez Koleksiyonu, Istanbul",
+      "reason": "The Nuri Arlasez collection includes na_00120 (hatip ebru + green mülevven) and na_00270 (gel-git + five battal palettes), which provide comparanda for the olive-green mülevven and battal ebru techniques documented here. Physical comparison would assist in dating and workshop attribution.",
+      "digital_access": "https://portal.yek.gov.tr"
+    },
+    {
+      "institution": "Chester Beatty Library, Dublin",
+      "reason": "Major international collection of Ottoman calligraphic albums with decorated papers, including lacquer-bound albums with battal ebru and mülevven border papers from the 17th–18th century. Provides comparative material for contextualizing the present album's paper program within the broader Ottoman album tradition.",
+      "digital_access": "https://viewer.cbl.ie"
+    },
+    {
+      "institution": "GlobalDecoPaper ERC Project, LMU Munich",
+      "reason": "The primary active research project on decorated papers in Islamic manuscripts. The three-color mülevven program in this album and the classification of the battal ebru variants fall within the project's research scope. Contact for potential collaboration and for situating this album within the broader comparative typology of Ottoman decorated papers.",
+      "digital_access": null
+    }
+  ],
+  "provenance": {
+    "donor": null,
+    "waqf": null,
+    "previous_shelfmarks": [],
+    "notes": "Held at Afyon Gedik Ahmed Paşa İl Halk Kütüphanesi, Afyonkarahisar, Turkey, under shelfmark 03 Gedik 17679-2 (library prefix '03 Gedik' denotes the Gedik Ahmed Paşa collection within the Afyon İl Halk Kütüphanesi system). YEK ID: 619665. IIIF ID: 0000000568290. The collection carries the name of Gedik Ahmed Paşa (d. 1482), an Ottoman grand vizier and military commander who established a waqf (pious endowment) institution in Afyonkarahisar; the library that bears his name is part of this endowment tradition, though specific waqf documentation for individual manuscripts requires archival investigation. No donor, waqf seal, or ownership inscription has been identified in the IIIF images. The album was catalogued by Mehmet Akif Alpaydın. Labels affixed to the front cover include: handwritten '17679' (shelfmark), printed '840 / 14.' (Dewey classification 840 = Turkish and Ottoman literature; '14.' possibly volume or accession number), handwritten Arabic text, and a round library stamp/seal."
+  },
+  "analysis_metadata": {
+    "analyzed_date": "2026-02-28",
+    "analyzer": "claude-code-manuscript-pipeline",
+    "pipeline_stage": "metadata-generator",
+    "image_source": "YEK Portal IIIF images, Afyon Gedik Ahmed Paşa İl Halk Kütüphanesi Yazma Eser Koleksiyonu, YEK ID 619665, IIIF ID 0000000568290. All 14 pages downloaded and examined at native IIIF resolution (cover pages: c. 3054×4145 px; text pages: 5709×4160 px).",
+    "image_quality_notes": "IIIF images are high quality and support confident identification of the mülevven color variants and battal ebru papers. The olive-green mülevven is clearly legible across multiple pages. The battal ebru patterns on pp005 left and 012 right are vivid and well-preserved. The pink/salmon mülevven on p002 right is unambiguous. The gold/ochre tinted paper on pp004, 010, 011 right is distinguishable from the cream/plain paper on left-side pages. The lacquer binding condition is difficult to assess from IIIF images alone; the heavily degraded surface limits confident technique identification. IIIF images carry a digital watermark overlay (institutional stamp 'Türkiye Kütüphaneleri') that obscures some areas of text and decoration, particularly ruling lines on some pages. No date inscription or ketebe was identified in any of the 14 pages examined.",
+    "folios_examined": [
+      "corpus/iiif/afyon_gedik_17679-2_p001.jpg",
+      "corpus/iiif/afyon_gedik_17679-2_p002.jpg",
+      "corpus/iiif/afyon_gedik_17679-2_p003.jpg",
+      "corpus/iiif/afyon_gedik_17679-2_p004.jpg",
+      "corpus/iiif/afyon_gedik_17679-2_p005.jpg",
+      "corpus/iiif/afyon_gedik_17679-2_p006.jpg",
+      "corpus/iiif/afyon_gedik_17679-2_p007.jpg",
+      "corpus/iiif/afyon_gedik_17679-2_p008.jpg",
+      "corpus/iiif/afyon_gedik_17679-2_p009.jpg",
+      "corpus/iiif/afyon_gedik_17679-2_p010.jpg",
+      "corpus/iiif/afyon_gedik_17679-2_p011.jpg",
+      "corpus/iiif/afyon_gedik_17679-2_p012.jpg",
+      "corpus/iiif/afyon_gedik_17679-2_p013.jpg",
+      "corpus/iiif/afyon_gedik_17679-2_p014.jpg"
+    ],
+    "folios_not_examined": "All 14 IIIF pages examined. Complete coverage of the album from front cover to back cover.",
+    "corpus_priority": "Medium-high — the combination of three distinct mülevven colors plus battal ebru within a 12-leaf album is noteworthy in the project corpus. The companion pair relationship with 17679-1 (when catalogued) will enable a comparative study of variation within a matched Ottoman murakka commission. Priority follow-up: (1) catalogue and compare with companion volume 17679-1; (2) physical examination of the lacquer binding — conservation urgent; (3) paleographic analysis of the tuğra specimen (p010 left) for attribution and dating; (4) identify calligrapher Derviş Osmân through archival comparison.",
+    "source_data": {
+      "visual_confirmation_file": "catalog/searches/visual_tier2_afyon_gedik_17679-2.json",
+      "yek_id": "619665",
+      "iiif_id": "0000000568290",
+      "batch": "Tier 2 Sub-Batch E (murakka albums, 2026-02-28)"
+    }
+  }
+}

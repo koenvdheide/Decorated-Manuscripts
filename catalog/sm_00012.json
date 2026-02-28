@@ -1,0 +1,481 @@
+{
+  "record_id": "sm_00012",
+  "collection": {
+    "institution": "Süleymaniye Kütüphanesi — Süleymaniye Murakka Koleksiyonu",
+    "city": "Istanbul",
+    "country": "Turkey",
+    "shelfmark": "SM 00012",
+    "yek_url": "https://portal.yek.gov.tr/works/detail/325924"
+  },
+  "manuscript": {
+    "title": "Muraqqaʿāt / مرقعات",
+    "title_script": "مرقعات",
+    "title_alt": "Süleymaniye Murakka Koleksiyonu 12 — Şeyh Hamdullah Kopyası Murakkaʿı (Album with Copies after Şeyh Hamdullah)",
+    "author": null,
+    "author_dates": null,
+    "calligrapher": "Anonymous (copying Şeyh Hamdullah); kıtʿa I and II inscribed 'Nukile min hatti Şeyh' (نقله من خط الشيخ — copied from the hand of the Shaykh)",
+    "calligrapher_dates": null,
+    "calligrapher_note": "The YEK catalogue records a significant annotation in the genel_notlar: 'I ve II. kıta Şeyh Hamdullah'ın hattından naklen yazılmış, \"Nukile min hatti Şeyh\" kaydı bulunmaktadır.' This inscription — 'Copied from the hand of the Shaykh' — establishes that the first two calligraphic kıtʿalar are deliberate copies made after the exemplars of Şeyh Hamdullah (d. 926/1520), the founding master of the classical Ottoman naskh tradition. The album is therefore a pedagogical or commemorative document in the Hamdullahi calligraphic lineage, not original Şeyh Hamdullah work. The copyist's identity is not named in the YEK record. The Fethizâde vakf seal dated AH 1202 / 1787–88 CE provides a terminus ante quem for the album's completion. Given the pedagogical Hamdullahi framing and the Fethizâde endowment, a late 18th-century production date (c. 1750–1787) is adopted as the working hypothesis.",
+    "date_ah": "before 1202 AH (terminus ante quem from vakf seal)",
+    "date_ce": "before 1787–88 CE (terminus ante quem); probably mid-to-late 18th century (c. 1750–1787)",
+    "date_note": "The vakf seal of Fethizâde Mustafa Efendi is dated AH 1202 / 1787–88 CE, establishing a firm terminus ante quem for the album's completion. No ketebe inscription with a production date is documented in the examined IIIF images. The album's calligraphic content — kıtʿa specimens copying Şeyh Hamdullah — is consistent with the wide Ottoman tradition of Hamdullahi pedagogical albums produced throughout the 17th and 18th centuries. The Fethizâde vakf seal reads: 'Vakf-ı Sâhibü'l-Hayrât el-Hâcc Seyyid Mustafa Fethizâde der-Kitâbhâne-i Câmi-i Sultan Süleyman, 1202.'",
+    "place_of_copy": "Istanbul (probable)",
+    "format": "Murakkaʿ (مرقعات) — bound calligraphic album. 20 yk. (yaprak, folios), muhtelif st. (muhtelif satır, various line counts). Script: Nesih (نسخ). Contains kıtʿa specimens in the Hamdullahi naskh tradition, with a multi-technique decorated paper program including yellow and peach/salmon mülevven grounds, zerefşân (gold-sprinkled) overlays, battal ebru side papers, an illuminated medallion, and compound cetvelli framing throughout.",
+    "format_note": "A bound Ottoman calligraphic album in the Süleymaniye Murakka Koleksiyonu sub-collection. The 14 IIIF pages digitized from 20 folios suggest approximately 20 kıtʿa specimen sheets. The album dimensions are recorded as 'muhtelif-muhtelif mm.' (various) in the YEK catalogue. The decoration program is notably richer than the triage assessment suggested: the IIIF images reveal mülevven-plus-zerefşân combinations (yellow + gold-sprinkled on pp006/008L; peach/salmon + gold-sprinkled on p010L), two distinct battal ebru palettes (blue-green monochrome on p008R; polychrome red/green/blue on p010R), an illuminated medallion in dark blue and gold at p012, and compound multi-layer cetvelli framing on all examined pages. The Fethizâde vakf seal appears on multiple pages.",
+    "language": "Arabic",
+    "script": "Nesih (نسخ) — classical Ottoman naskh in the Hamdullahi tradition",
+    "dimensions_mm": {
+      "height": null,
+      "width": null
+    },
+    "folio_count": 20,
+    "yek_id": "325924",
+    "iiif_id": "0000000356066",
+    "notes": "CORPUS SIGNIFICANCE: This album presents the richest multi-technique decorated paper program of any Süleymaniye Murakka album examined in Sub-Batch F. The combination of two mülevven color variants (yellow sarı and peach/salmon) each with zerefşân overlay, two distinct battal ebru palettes across facing pages, and an illuminated medallion element marks this as a high-quality production. The triage notes listed only 'yellow colored (p6) reddish/brown (p8)' and 'yellow mülevven' — the IIIF examination revealed zerefşân particles on both mülevven grounds, confirmed two separate battal ebru palettes, and documented the p012 medallion. The Hamdullahi calligraphic framing (kıtʿa I and II as explicit copies after Şeyh Hamdullah) adds significant art-historical value as evidence of the ongoing pedagogical lineage. See also: SM 00009 (triple-technique zerefşân+halkârî+teşʿîr), SM 00003 (6-color mülevven+battal ebru) for corpus comparanda."
+  },
+  "paper_decoration": {
+    "types": [
+      "colored",
+      "gold_sprinkled",
+      "marbled",
+      "illuminated_margins",
+      "framing_system"
+    ],
+    "summary": "SM 00012 has the most complex decorated paper program among the Süleymaniye Murakka albums examined in this sub-batch. The decoration operates across five overlapping techniques: (1) Mülevven (colored) margin grounds in two distinct hues — vivid yellow (sarı mülevven, pp006 and p008L) and peach/salmon (şeftali mülevven, p010L) — providing the dominant colored ground for the calligraphic kıtʿalar. (2) Zerefşân (gold-sprinkled) overlay on both mülevven colors: gold particles are scattered across both the yellow and peach/salmon grounds, creating a mülevven-plus-zerefşân combination. Zerefşân also appears on cream/off-white margins at p014. (3) Battal ebru (stone marbling) in two distinct palettes — used as side papers (yan kağıtları): blue-green monochrome battal on p008R, polychrome red/green/blue battal on p010R. These two palettes flank different mülevven openings, creating a deliberate two-scheme battal program. (4) Illuminated medallion: dark blue and gold medallion visible at the bottom-left corner of p012, integrated with a cetvelli frame. (5) Multi-layer compound cetvelli framing throughout all interior pages, with pink, grey-blue, and gold border layers documented on p006; gold outer borders and green rulings on p010.",
+    "distribution_notes": "Yellow mülevven + zerefşân: pp006 (confirmed, vivid), p008L (confirmed, gold speckles on yellow ground). Peach/salmon mülevven + zerefşân: p010L (confirmed, gold speckles on salmon ground). Blue-green battal ebru: p008R (confirmed, monochrome). Polychrome battal ebru (red/green/blue): p010R (confirmed). Cream zerefşân margins: p014 (confirmed). Illuminated medallion (dark blue + gold): p012 bottom-left (confirmed). Multi-layer compound cetvelli: all examined pages (pp006, 008, 010, 012, 014). Red/pink decorated side papers visible at left edge of p006 — possibly an additional decoration type on unexamined pages. 8 of 14 IIIF pages (pp002–005, 007, 009, 011, 013) not examined; distribution on these pages is inferred.",
+    "technique_terms": {
+      "ottoman": "mülevven kâğıt (sarı ve şeftali/somon rengi) — iki ayrı renk varyantı; zerefşân / yaldız serpme kâğıt — mülevven zemin üzerine ve krem zemin üzerine; battal ebrî (iki palet: mavi-yeşil tek renk ve kırmızı/yeşil/mavi çok renkli) — yan kağıtları; tezhipli madalyon (lacivert + altın); çok katmanlı bileşik cedvel — pembe, gri-mavi ve altın sınır bantları",
+      "persian": "kāġaz-e mulavvan (کاغذ ملون) — rañg-āmīzī; zarafshān / afshān (افشان) — zer-efşân; kāġaz-e abrī (کاغذ ابری) — battal abrī; jadval (جدول) — qāb-e murakkab",
+      "arabic": "waraq mulauwwan (ورق ملوّن) — aṣfar wa khawkh; dhahab marshūsh (ذهب مرشوش) — zerefşân; waraq marmari (ورق مرمري) — battal ebru; jadwal mudhahdhab (جدول مذهّب)"
+    },
+    "catalogue_description": {
+      "paper_field": null,
+      "paper_field_normalized": null,
+      "paper_field_translation": null,
+      "notes_field": "I ve II. kita Seyh Hamdullah'in hattindan naklen yazilmis, 'Nukile min hatti Seyh' kaydi bulunmaktadir. Vakif muhru: Vakf-i Sahibu'l-Hayrat el-Hacc Seyyid Mustafa Fethizade der-Kitabhane-i Cami-i Sultan Suleyman, 1202.",
+      "notes_field_normalized": "I ve II. kıta Şeyh Hamdullah'ın hattından naklen yazılmış, 'Nukile min hatti Şeyh' kaydı bulunmaktadır. Vakıf mühürü: Vakf-ı Sâhibü'l-Hayrât el-Hâcc Seyyid Mustafa Fethizâde der-Kitâbhâne-i Câmi-i Sultan Süleyman, 1202.",
+      "notes_field_translation": "Kıtʿa I and II were copied from the hand of Şeyh Hamdullah; the inscription 'Nukile min hatti'l-Şeyh' (Copied from the hand of the Shaykh) is present. Vakf seal: [Endowment of] the Charitable Owner the Ḥājī Seyyid Mustafa Fethizâde, [to] the Library of the Mosque of Sultan Süleyman, AH 1202.",
+      "decoration_field": null,
+      "source": "YEK portal, genel_notlar and muhürler fields, record 325924, Süleymaniye Kütüphanesi — Süleymaniye Murakka Koleksiyonu, SM 00012. Catalogued by Serra Bostan. Fields kağıt özellikleri and tezhip/minyatür are null in the YEK record; the entire multi-technique paper decoration program (mülevven+zerefşân, battal ebru, illuminated medallion, cetvelli) is documented here exclusively from visual examination of the IIIF images.",
+      "cataloguer_note": "The YEK cataloguing of SM 00012 records the textual/scribal dimension (Hamdullahi copy inscription, vakf seal text) but contains no description of the decorated paper program. The five-technique decoration — yellow and peach mülevven, zerefşân, two-palette battal ebru, illuminated medallion, and compound cetvelli — is entirely absent from the YEK record and is documented here from IIIF visual examination."
+    }
+  },
+  "workshop_attribution": {
+    "primary_tradition": "ottoman",
+    "workshop_centre": "Istanbul",
+    "date_range_ce": "c. 1750–1787 (mid-to-late 18th century, pre-vakf)",
+    "confidence": 0.78,
+    "key_indicators": [
+      "Vakf seal dated AH 1202 / 1787–88 CE provides a firm terminus ante quem",
+      "Mülevven+zerefşân combination on interior kıtʿa margins is a well-documented Istanbul luxury album technique of the 17th–18th centuries",
+      "Two-palette battal ebru program — each palette assigned to a specific mülevven color facing — reflects a deliberate compositional strategy consistent with Istanbul court album production",
+      "Multi-layer compound cetvelli with pink, grey-blue, and gold border bands is characteristic of Ottoman Istanbul luxury framing from the 17th century onward",
+      "Hamdullahi calligraphic lineage (copies after Şeyh Hamdullah) is an Istanbul tradition continuously practiced from the 16th through 18th centuries",
+      "Fethizâde vakf to Süleymaniye Kütüphanesi is an Istanbul institutional endowment"
+    ],
+    "cross_tradition_caveats": [
+      "No dated ketebe inscription is present; the vakf seal provides only a terminus ante quem, not a production date",
+      "The copyist's identity is not recorded; the range of possible production dates spans the full period from c. 1550 to 1787",
+      "The precise paper workshop(s) responsible for the mülevven, zerefşân, and battal ebru papers cannot be identified from image evidence alone",
+      "8 of 14 IIIF pages not examined; additional decoration types on unexamined pages may alter the attribution picture"
+    ]
+  },
+  "codicology": {
+    "paper": {
+      "color": "Multiple: (1) Vivid yellow (sarı mülevven) — confirmed pp006, p008L; (2) Peach/salmon (şeftali/somon mülevven) — confirmed p010L; (3) Blue-green battal ebru — p008R; (4) Polychrome red/green/blue battal ebru — p010R; (5) Cream/off-white with zerefşân — p014 margin. Binding: dark brown leather.",
+      "preparation": "Mülevven (dyed) paper grounds with zerefşân (gold-sprinkled) overlay on both color variants. Battal ebru side papers (yan kağıtları) flanking the mülevven openings. Text panels on âharlı (sized and burnished) cream paper. Compound cetvelli applied in multiple colors (pink, grey-blue, gold, green).",
+      "weight": "Indeterminate from IIIF images; standard album-format stock for mounting grounds.",
+      "decoration": "Yellow mülevven + zerefşân (pp006, p008L); peach/salmon mülevven + zerefşân (p010L); blue-green battal ebru (p008R); polychrome battal ebru (p010R); cream zerefşân margins (p014); illuminated medallion dark blue + gold (p012); multi-layer compound cetvelli throughout.",
+      "paper_type": "Mixed: mülevven margin papers (two color variants: yellow and peach/salmon); battal ebru side papers (two palettes); cream âharlı text panel paper; possible additional decorated papers on unexamined pages."
+    },
+    "ruling": {
+      "system": "Multi-layer compound cetvelli throughout all text-opening pages.",
+      "description": "Each calligraphic opening is framed by a compound multi-layer ruling system. On p006: pink inner border band, grey-blue middle band, and gold outer border — a three-layer cetvelli unusual in its polychrome character. On p008 and p010: elaborate multi-color cetvelli frame with gold and green ruling lines. On p012: gold ruled lines with cetvelli border at edges. On p014: dark green/black outer with gold inner double cetvelli frame. The cetvelli system separates the mülevven/ebrî outer ground from the cream calligraphic panel, functioning as both a zone boundary and a decorative element in its own right."
+    },
+    "binding": {
+      "cover_description": "Dark brown leather binding, visible on p001. Library round stamp (Süleymaniye Kütüphanesi) and red-bordered label '12 Murakkaʿât' visible. Fethizâde vakıf mührü embossed on cover. No visible gold decoration (şemse, köşebend) on exterior.",
+      "cover_type": "Deri cilt — plain leather binding with embossed vakf seal",
+      "notes": "The plain dark brown leather cover carries the vakf seal of Fethizâde Mustafa Efendi, confirming the binding as the album's presentation state at the time of endowment (AH 1202). The absence of elaborate cover decoration (şemse, ebrî, gold tooling) contrasts with the lavish interior paper program."
+    },
+    "format": "Murakkaʿ — bound Ottoman calligraphic album with mülevven+zerefşân+battal ebru+medallion program",
+    "condition_summary": "Interior pages as visible in IIIF images appear in good condition. Mülevven colors on pp006/008L/010L are vivid and well-preserved. Battal ebru on pp008R/010R clearly readable. Cetvelli frames intact across all sampled pages. P012 illuminated medallion legible. Binding cover shows some wear. Overall: good preservation.",
+    "conservation_history": null
+  },
+  "visual_confirmation": {
+    "verdict": "confirmed",
+    "confidence": 0.93,
+    "screenshots_examined": 6,
+    "folios_examined": [
+      "corpus/iiif/sm_00012_p001.jpeg",
+      "corpus/iiif/sm_00012_p006.jpeg",
+      "corpus/iiif/sm_00012_p008.jpeg",
+      "corpus/iiif/sm_00012_p010.jpeg",
+      "corpus/iiif/sm_00012_p012.jpeg",
+      "corpus/iiif/sm_00012_p014.jpeg"
+    ],
+    "visual_evidence": "ALL PRIORITY FEATURES CONFIRMED at high confidence. (1) YELLOW MÜLEVVEN: Vivid bright yellow mülevven margin paper confirmed on p006 (unmistakable sarı mülevven with Nesih kıtʿa) and p008L (yellow mülevven with gold zerefşân speckles). (2) PEACH/SALMON MÜLEVVEN: p010L shows peach/salmon-colored mülevven with gold zerefşân overlay — distinct from yellow pages. (3) ZEREFŞÂN: Gold speckles confirmed on yellow ground (p008L), peach/salmon ground (p010L), and cream margins (p014). (4) TWO-PALETTE BATTAL EBRU: Blue-green monochrome battal ebru on p008R; polychrome red/green/blue battal ebru on p010R — two distinct palette programs documented in facing pages of adjacent openings. (5) ILLUMINATED MEDALLION: Dark blue + gold medallion at bottom-left corner of p012, integrated with cetvelli frame. (6) COMPOUND CETVELLI: Multi-layer cetvelli confirmed throughout (pp006, 008, 010, 012, 014) including three-layer pink/grey-blue/gold variant on p006. SURPRISE FINDINGS: zerefşân on both mülevven colors not in triage notes; two battal palettes not in triage; p012 medallion not in triage. SUMMARY: Album is significantly richer than triage indicated.",
+    "limitations": [
+      "8 of 14 IIIF pages not examined (pp002–005, 007, 009, 011, 013); distribution of mülevven, zerefşân, and battal across these pages is inferred from the album's visual logic",
+      "Red/pink decorated side papers visible at left edge of p006 — possibly taraklı ebru or another decorated type; not examined at sufficient resolution to classify",
+      "Precise battal ebru subtype details (e.g., palette composition beyond general color terms) require physical examination or higher-resolution imaging",
+      "Illuminated medallion at p012 documented but not fully analyzed — further study needed to characterize the medallion type (şemse vs. gül vs. köşebend element)"
+    ],
+    "source_agent": "visual-confirmation",
+    "session": "catalog/searches/visual_tier2f_sm_00012.json"
+  },
+  "folio_analyses": [
+    {
+      "folio": "p001 — Front binding cover",
+      "source_image": "corpus/iiif/sm_00012_p001.jpeg",
+      "decoration_present": false,
+      "decoration_types": [],
+      "elements": [
+        {
+          "motif": "Dark brown leather binding cover with library stamps and vakf seal",
+          "description": "The front cover exterior is dark brown leather. The Süleymaniye Kütüphanesi circular stamp is visible, along with a red-bordered label reading '12 Murakkaʿât' (the album's title and number label). The Fethizâde Mustafa Efendi vakıf mühürü is embossed on the cover. No decorative stamping (şemse, köşebend), gold tooling, marbled paper, or other ornament is visible on the exterior.",
+          "location": "Full front cover exterior",
+          "confidence": 0.95
+        }
+      ],
+      "confidence": 0.95,
+      "notes": "The embossed vakf seal on the cover confirms the Fethizâde endowment at the binding level. The plain leather cover contrasts with the rich multi-technique interior decoration program."
+    },
+    {
+      "folio": "p006 — Single page: Nesih kıtʿa on vivid yellow mülevven, three-layer cetvelli",
+      "source_image": "corpus/iiif/sm_00012_p006.jpeg",
+      "decoration_present": true,
+      "decoration_types": ["colored", "framing_system"],
+      "elements": [
+        {
+          "motif": "Vivid yellow mülevven margin paper (sarı mülevven)",
+          "description": "The outer margin ground is a vivid bright yellow mülevven (dyed) paper — unmistakably sarı (yellow), uniform in color, consistent with paper dyed before writing. The yellow extends from the sheet edge to the compound cetvelli frame on all four sides of the text panel. This is the dominant yellow ground documented at p008L as well.",
+          "location": "Full outer margin (all four sides)",
+          "confidence": 0.95
+        },
+        {
+          "motif": "Three-layer compound cetvelli — pink inner, grey-blue middle, gold outer",
+          "description": "The framing system on this page is a three-layer compound cetvelli of unusual polychrome character: a pink inner border band immediately around the text panel, a grey-blue middle band, and a gold outer border marking the transition to the yellow mülevven margin. This three-color cetvelli combination (pink / grey-blue / gold) is uncommon and may indicate a high-quality album production environment.",
+          "location": "Full frame around the text panel",
+          "confidence": 0.95
+        },
+        {
+          "motif": "Fethizâde vakf seal — bottom of page",
+          "description": "The vakf seal of Fethizâde Mustafa Efendi (AH 1202) visible at the bottom of the page, confirming the album's institutional provenance.",
+          "location": "Bottom margin",
+          "confidence": 0.90
+        },
+        {
+          "motif": "Red/pink decorated side paper — left edge",
+          "description": "A red or pink decorated side paper is visible at the left edge of the page. The precise decoration type (battal ebru variant, taraklı ebru, or other) cannot be determined at this angle; it may belong to the adjacent page or a side strip.",
+          "location": "Left edge",
+          "confidence": 0.65
+        }
+      ],
+      "confidence": 0.95,
+      "notes": "P006 documents the vivid yellow sarı mülevven as the dominant album ground and the unusual three-layer polychrome cetvelli framing system. The Nesih calligraphy on cream panel is consistent with the Hamdullahi naskh tradition noted in the YEK genel_notlar. The red/pink side paper at the left edge warrants further examination."
+    },
+    {
+      "folio": "p008 — Spread: yellow mülevven + zerefşân (left) / blue-green battal ebru (right)",
+      "source_image": "corpus/iiif/sm_00012_p008.jpeg",
+      "decoration_present": true,
+      "decoration_types": ["colored", "gold_sprinkled", "marbled", "framing_system"],
+      "elements": [
+        {
+          "motif": "Yellow mülevven with zerefşân overlay — left page",
+          "description": "The left page margin continues the vivid yellow mülevven from p006, but here gold zerefşân speckles are clearly visible on the yellow ground. The gold particles scattered across the yellow base create a combined mülevven-plus-zerefşân effect. Gold cetvelli and gold verse markers are also present.",
+          "location": "Full outer margin, left page",
+          "confidence": 0.90
+        },
+        {
+          "motif": "Blue-green battal ebru — right page margin",
+          "description": "The right page margin is blue-green battal ebru — stone marbling in a monochrome blue-green palette, creating an irregular spotted or mottled pattern. This palette is distinct from the polychrome battal on p010R: the p008R battal is dominated by blue-green tones without the red component. The battal ebru extends around the calligraphic panel framed by the compound cetvelli.",
+          "location": "Full outer margin, right page",
+          "confidence": 0.93
+        },
+        {
+          "motif": "Elaborate multi-color cetvelli — both pages",
+          "description": "Both pages of this spread are framed by elaborate multi-color cetvelli systems. The compound frame is clearly visible coordinating the transition between the different margin papers (yellow zerefşân on left, blue-green battal on right) and the cream calligraphic panels.",
+          "location": "Full frame, both pages",
+          "confidence": 0.93
+        },
+        {
+          "motif": "Fethizâde vakf seal — gutter",
+          "description": "The vakf seal of Fethizâde Mustafa Efendi visible in the gutter between the two pages.",
+          "location": "Gutter / inner margin",
+          "confidence": 0.88
+        }
+      ],
+      "confidence": 0.93,
+      "notes": "P008 is the key page documenting the mülevven+zerefşân combination (left) alongside the blue-green battal ebru (right). The juxtaposition of these two distinct decorated paper types in a single opening reveals the album's deliberate two-scheme composition: mülevven+zerefşân grounds on left pages paired with battal ebru grounds on right pages — at least on this and the following opening."
+    },
+    {
+      "folio": "p010 — Spread: peach/salmon mülevven + zerefşân (left) / polychrome battal ebru (right)",
+      "source_image": "corpus/iiif/sm_00012_p010.jpeg",
+      "decoration_present": true,
+      "decoration_types": ["colored", "gold_sprinkled", "marbled", "framing_system"],
+      "elements": [
+        {
+          "motif": "Peach/salmon mülevven with zerefşân overlay — left page",
+          "description": "The left page margin is a peach or salmon-toned mülevven — distinctly different from the vivid yellow of pp006/008L. The color is a warm pinkish-orange (şeftali / somon), and gold zerefşân speckles are scattered across this ground, exactly as on the yellow mülevven pages. Gold cetvelli and green ruling lines frame the calligraphic panel. This peach/salmon mülevven+zerefşân combination is distinct from all other mülevven variants in the corpus and constitutes the album's second mülevven color.",
+          "location": "Full outer margin, left page",
+          "confidence": 0.92
+        },
+        {
+          "motif": "Polychrome red/green/blue battal ebru — right page margin",
+          "description": "The right page margin carries polychrome battal ebru in a red/green/blue palette — clearly distinct from the blue-green monochrome battal of p008R. The red tones are prominent, with green and blue secondary. This is the second battal ebru palette in the album, completing the two-palette battal program: blue-green (p008R) and polychrome warm (p010R).",
+          "location": "Full outer margin, right page",
+          "confidence": 0.93
+        },
+        {
+          "motif": "Compound multi-layer cetvelli with gold and green ruling",
+          "description": "Both pages of this spread are framed by compound cetvelli systems with gold cetvelli and green ruling lines visible on the left page. The cetvelli coordinates the peach mülevven+zerefşân (left) and polychrome battal (right) in a unified opening composition.",
+          "location": "Full frame, both pages",
+          "confidence": 0.92
+        },
+        {
+          "motif": "Fethizâde vakf seal — bottom-right",
+          "description": "Vakf seal of Fethizâde Mustafa Efendi at bottom-right of the opening.",
+          "location": "Bottom-right margin",
+          "confidence": 0.90
+        }
+      ],
+      "confidence": 0.93,
+      "notes": "P010 is the second key decorated spread. The transition from yellow mülevven (p008L) to peach/salmon mülevven (p010L), each with its own zerefşân overlay, establishes a two-color mülevven alternation across successive openings. Similarly, the transition from blue-green battal (p008R) to polychrome battal (p010R) creates a two-palette battal ebru program. This structured alternation is consistent with a deliberate compositional plan — likely by the album's assembler rather than its calligrapher."
+    },
+    {
+      "folio": "p012 — Single page: meşk/masq exercise page with gold ruled lines, cetvelli, marbled side papers, and illuminated medallion",
+      "source_image": "corpus/iiif/sm_00012_p012.jpeg",
+      "decoration_present": true,
+      "decoration_types": ["illuminated_margins", "marbled", "framing_system"],
+      "elements": [
+        {
+          "motif": "Gold ruled lines on calligraphic exercise page",
+          "description": "The page contains a meşk (calligraphic practice/exercise) or masq sheet with gold horizontal ruled lines as writing guides. The gold ruling is applied across the page surface as a luxury writing aid.",
+          "location": "Full page surface",
+          "confidence": 0.88
+        },
+        {
+          "motif": "Cetvelli border at edges",
+          "description": "A cetvelli frame borders the page edges, consistent with the compound framing system documented throughout the album.",
+          "location": "Page edges",
+          "confidence": 0.90
+        },
+        {
+          "motif": "Marbled side papers — bottom-left",
+          "description": "Marbled side papers (ebrî yan kağıtları) are visible at the bottom-left of the page — possibly a folded margin or a glimpse of an adjacent leaf's battal ebru ground.",
+          "location": "Bottom-left margin",
+          "confidence": 0.75
+        },
+        {
+          "motif": "Illuminated medallion — dark blue + gold, bottom-left corner",
+          "description": "An illuminated medallion in dark blue (lacivert) and gold is visible at the bottom-left corner of the page. The medallion is integrated with the cetvelli border system. It appears as a rectangular or semi-circular decorative element (possibly a köşebend — corner piece — or a small şemse variant). The dark blue ground with gold decoration is consistent with high-quality Istanbul illumination of the 17th–18th centuries. This is the only illuminated element documented in the album and is a significant find not noted in the triage.",
+          "location": "Bottom-left corner",
+          "confidence": 0.82
+        },
+        {
+          "motif": "Fethizâde vakf seal — top-right",
+          "description": "The vakf seal of Fethizâde Mustafa Efendi at the top-right of the page.",
+          "location": "Top-right margin",
+          "confidence": 0.90
+        }
+      ],
+      "confidence": 0.85,
+      "notes": "P012 is the most unusual page in the examined set: a meşk exercise sheet with gold ruled lines rather than a formal kıtʿa presentation. The illuminated medallion (dark blue + gold) at the bottom-left corner is the album's sole documented illuminated element and may indicate that this page originally had more elaborate decoration (a serlevha or full zahriye opening) that is now partially visible at this angle. Further examination at higher resolution is recommended."
+    },
+    {
+      "folio": "p014 — Final page: Nesih text on cream ground with zerefşân margins, double cetvelli",
+      "source_image": "corpus/iiif/sm_00012_p014.jpeg",
+      "decoration_present": true,
+      "decoration_types": ["gold_sprinkled", "framing_system"],
+      "elements": [
+        {
+          "motif": "Zerefşân (gold-sprinkled) margin paper on cream/off-white ground",
+          "description": "The final page margin is cream or off-white paper with gold zerefşân sprinkling. This is a different ground color from the yellow and peach/salmon mülevven pages — the zerefşân here is applied directly on a cream base without additional coloring, producing a subtler gold-on-cream effect. The zerefşân particles are visible at IIIF resolution.",
+          "location": "Outer margin",
+          "confidence": 0.90
+        },
+        {
+          "motif": "Dark green/black outer with gold inner double cetvelli frame",
+          "description": "The page is framed by a double cetvelli: a dark green or black outer ruling line with a gold inner ruling line. The calligraphic text in dark ink is contained within a gold cetvelli frame. The orange/brown leather binding spine is visible at the left edge.",
+          "location": "Full frame",
+          "confidence": 0.90
+        },
+        {
+          "motif": "Fethizâde vakf seal — bottom-left",
+          "description": "The vakf seal of Fethizâde Mustafa Efendi at the bottom-left of the final page.",
+          "location": "Bottom-left margin",
+          "confidence": 0.90
+        }
+      ],
+      "confidence": 0.90,
+      "notes": "P014 establishes that zerefşân also appears on a cream (uncolored) ground in the album — distinct from the mülevven+zerefşân combinations on pp008L and p010L. The darker, subtler tone of zerefşân on cream at p014 completes the picture: the album employs three zerefşân ground variants: yellow mülevven, peach/salmon mülevven, and plain cream."
+    }
+  ],
+  "terminology": {
+    "terms_used": [
+      {
+        "concept": "Calligraphic album",
+        "ottoman": "murakkaʿ / murakkaat (مرقعات)",
+        "arabic": "muraqqa' (مرقع) / muraqqa'āt (مرقعات)",
+        "persian": "muraqqa' (مرقع)",
+        "english": "Murakkaʿ: a bound album of calligraphic specimens (kıtʿa). SM 00012 is a pure calligraphic murakkaʿ in the Hamdullahi naskh tradition, with a multi-technique decorated paper program."
+      },
+      {
+        "concept": "Colored paper",
+        "ottoman": "mülevven kâğıt (کاغذ ملوّن)",
+        "arabic": "waraq mulauwwan (ورق ملوّن)",
+        "persian": "kāġaz-e mulavvan (کاغذ ملون)",
+        "english": "Mülevven: dyed or colored paper. SM 00012 presents two distinct mülevven color variants: (1) vivid yellow (sarı mülevven) on pp006 and p008L, and (2) peach/salmon (şeftali mülevven) on p010L. Both are used as outer margin grounds for the calligraphic kıtʿalar."
+      },
+      {
+        "concept": "Gold-sprinkled paper",
+        "ottoman": "zerefşân kâğıt / yaldız serpme kâğıt / serpme kâğıt",
+        "arabic": "waraq mudhahdhab mansūr (ورق مذهّب منثور) / dhahab marshūsh (ذهب مرشوش)",
+        "persian": "kāġaz-e zarafshān / kāġaz-e afshān (کاغذ افشان)",
+        "english": "Zerefşân: gold-sprinkled paper, produced by scattering fine metallic particles over sized paper. In SM 00012, zerefşân is documented on three grounds: yellow mülevven (p008L), peach/salmon mülevven (p010L), and cream paper (p014 margin), establishing a multi-ground zerefşân program throughout the album."
+      },
+      {
+        "concept": "Stone marbling / spot marbling",
+        "ottoman": "battal ebrî / battal ebrulu kâğıt",
+        "arabic": null,
+        "persian": "kāġaz-e abrī-ye battāl (کاغذ ابری بطّال)",
+        "english": "Battal ebru: stone marbling — irregular spotted or mottled pattern produced by dropping pigment onto size without stylus manipulation. SM 00012 documents two distinct battal ebru palettes: (1) blue-green monochrome (p008R) and (2) polychrome red/green/blue (p010R). The two palettes are systematically assigned to opposite pages of successive openings."
+      },
+      {
+        "concept": "Gold ruling lines / frame system",
+        "ottoman": "altın cedvel / cetvelli / bileşik cedvel",
+        "arabic": "jadwal mudhahdhab (جدول مذهّب)",
+        "persian": "jadval-e zar (جدول زر)",
+        "english": "Altın cedvel: compound multi-line gold ruling framing calligraphic text panels. SM 00012's cetvelli system is notably polychrome: the p006 three-layer frame (pink/grey-blue/gold) is unusual within the Süleymaniye murakkaʿ corpus."
+      },
+      {
+        "concept": "Calligraphic specimen sheet",
+        "ottoman": "kıtʿa (قطعه)",
+        "arabic": "qiṭʿa (قطعة)",
+        "persian": "qiṭʿa (قطعه)",
+        "english": "Kıtʿa: a single calligraphic specimen sheet. In SM 00012, kıtʿa I and II bear the inscription 'Nukile min hatti'l-Şeyh' — identifying them as deliberate copies made after the exemplars of Şeyh Hamdullah."
+      },
+      {
+        "concept": "Side papers / margin papers",
+        "ottoman": "yan kâğıtları",
+        "arabic": null,
+        "persian": null,
+        "english": "Yan kağıtları: the decorative papers (mülevven, ebrî, zerefşân) forming the outer margin or 'side' of mounted calligraphic panels in murakkaʿ albums. In SM 00012, the yan kağıtları are the primary carrier of the album's decoration program."
+      },
+      {
+        "concept": "Endowment deed / library seal",
+        "ottoman": "vakıf mühürü / vakf kaydı",
+        "arabic": "waqf (وقف) — pious endowment",
+        "persian": null,
+        "english": "Vakf: Islamic pious endowment. The vakf seal in SM 00012 reads: 'Vakf-ı Sâhibü'l-Hayrât el-Hâcc Seyyid Mustafa Fethizâde der-Kitâbhâne-i Câmi-i Sultan Süleyman, 1202 H.' — establishing that the album was endowed to the Süleymaniye Kütüphanesi library by Fethizâde Mustafa Efendi in AH 1202 / 1787–88 CE. Shared by all SM albums in this corpus."
+      }
+    ]
+  },
+  "bibliography": [
+    {
+      "citation": "Derman, M. Uğur. Letters in Gold: Ottoman Calligraphy from the Sakıp Sabancı Collection, Istanbul. New York: The Metropolitan Museum of Art, 1998.",
+      "relevance": "Essential reference for Ottoman calligraphy in the Hamdullahi tradition, covering Şeyh Hamdullah (d. 926/1520) as the founding master of classical Ottoman naskh and the subsequent tradition of copying his hand. Directly relevant to the 'Nukile min hatti'l-Şeyh' inscription in SM 00012 and to the broader context of late Ottoman calligraphic albums honoring the Hamdullahi lineage.",
+      "relevance_score": 0.93,
+      "access_notes": "Exhibition catalogue (Metropolitan Museum of Art). ISBN 978-0300086324."
+    },
+    {
+      "citation": "Blair, Sheila S. 'Color and Gold: The Decorated Papers Used in Manuscripts in Later Islamic Times.' Muqarnas 17 (2000): 24–36.",
+      "relevance": "The foundational classification study for all decorated paper types in SM 00012: mülevven (colored paper), zerefşân (gold-sprinkled), and battal ebru (stone marbling). Establishes the typological framework and terminology for the five-technique program documented in this record.",
+      "relevance_score": 0.97,
+      "access_notes": "Available via JSTOR and open-access PDF on Academia.edu."
+    },
+    {
+      "citation": "Roxburgh, David J. The Persian Album, 1400–1600: From Dispersal to Collection. New Haven: Yale University Press, 2005.",
+      "relevance": "Primary study of the murakkaʿ album format and its decorated paper programs in the Persianate and Ottoman traditions. Provides the theoretical framework for understanding SM 00012's compositional use of mülevven+zerefşân and battal ebru in a unified album program.",
+      "relevance_score": 0.88,
+      "access_notes": "Widely held monograph."
+    },
+    {
+      "citation": "Çağman, Filiz, and Zeren Tanındı. The Topkapı Saray Museum: The Albums and Illustrated Manuscripts. Translated and edited by J. M. Rogers. Boston: Little, Brown, 1986.",
+      "relevance": "Standard reference for Ottoman luxury albums with decorated paper programs from the Topkapı collections. Provides parallel examples of mülevven+zerefşân and battal ebru programs in 17th–18th-century Istanbul court murakkaʿ production.",
+      "relevance_score": 0.85,
+      "access_notes": "Exhibition catalogue; widely held."
+    },
+    {
+      "citation": "Tanındı, Zeren. 'Bibliophile Aghas (Eunuchs) at Topkapı Saray.' Muqarnas 21 (2004): 333–43.",
+      "relevance": "Documents album-collecting and commissioning at the late Ottoman court during the 18th century, providing patronage context for the Fethizâde vakf and the luxury decorated paper program of SM 00012.",
+      "relevance_score": 0.78,
+      "access_notes": "Peer-reviewed article. Available via JSTOR."
+    },
+    {
+      "citation": "Bağcı, Serpil, Filiz Çağman, Günsel Renda, and Zeren Tanındı. Ottoman Painting. Ankara: Ministry of Culture and Tourism, 2006.",
+      "relevance": "Comprehensive survey of Ottoman visual arts including the album tradition, Hamdullahi calligraphic lineage, and the role of decorated papers (mülevven, zerefşân, ebrî) in late Ottoman manuscript and album production.",
+      "relevance_score": 0.82,
+      "access_notes": "Museum publication; available at major Turkish studies collections."
+    },
+    {
+      "citation": "Sturkenboom, Ilse. 'Chinese Decorated Paper in Persianate Manuscripts.' Forthcoming / ERC Global Deco Paper Project (LMU Munich, ongoing).",
+      "relevance": "Active research on decorated paper classification in Persianate and Ottoman manuscripts, including battal ebru comparative typology. The GlobalDecoPaper project at LMU Munich is currently the leading research initiative for the systematic classification of Islamic decorated papers. Relevant to the two-palette battal ebru program documented in SM 00012.",
+      "relevance_score": 0.75,
+      "access_notes": "Forthcoming publication. Project website: https://www.en.kunstgeschichte.uni-muenchen.de/research/erc-projects/global-deco-paper/index.html"
+    },
+    {
+      "citation": "Bloom, Jonathan M. Paper Before Print: The History and Impact of Paper in the Islamic World. New Haven: Yale University Press, 2001.",
+      "relevance": "Background on the history of paper production and decorated paper traditions in the Islamic world, providing context for the mülevven and zerefşân programs in SM 00012.",
+      "relevance_score": 0.70,
+      "access_notes": "Widely held monograph."
+    },
+    {
+      "citation": "Gacek, Adam. Arabic Manuscripts: A Vademecum for Readers. Leiden: Brill, 2009.",
+      "relevance": "Standard reference for manuscript terminology (kıtʿa, murakkaʿ, cedvel, script identification) used throughout this record.",
+      "relevance_score": 0.72,
+      "access_notes": "Reference monograph; widely held."
+    }
+  ],
+  "suggested_collections": [
+    {
+      "institution": "Süleymaniye Kütüphanesi, Istanbul — Süleymaniye Murakka Koleksiyonu",
+      "reason": "Holding institution. Comparative study of SM 00012 with the broader SM sub-collection (SM 00001–SM 00020) would identify the distribution of mülevven+zerefşân and battal ebru programs across the Fethizâde vakf albums.",
+      "digital_access": "https://portal.yek.gov.tr"
+    },
+    {
+      "institution": "Topkapı Sarayı Müzesi Kütüphanesi, Istanbul",
+      "reason": "Largest comparative collection of Ottoman calligraphic albums with mülevven, zerefşân, and battal ebru programs, including albums in the Hamdullahi calligraphic tradition. Essential for comparative study of SM 00012's two-palette battal ebru design.",
+      "digital_access": "https://kutuphane.tsmk.gov.tr"
+    },
+    {
+      "institution": "Chester Beatty Library, Dublin",
+      "reason": "Major repository of Ottoman calligraphic albums with decorated paper programs. Good comparative collection for the Hamdullahi naskh tradition and the album-format decorated paper typology.",
+      "digital_access": "https://viewer.cbl.ie"
+    },
+    {
+      "institution": "Sakıp Sabancı Museum, Istanbul",
+      "reason": "Holds major examples of Hamdullahi naskh calligraphy and the tradition of copying Şeyh Hamdullah's hand. Comparative study of the 'Nukile min hatti'l-Şeyh' kıtʿalar in SM 00012 against authenticated copies is recommended.",
+      "digital_access": null
+    }
+  ],
+  "provenance": {
+    "donor": null,
+    "waqf": "Fethizâde Mustafa Efendi — Vakf-ı Sâhibü'l-Hayrât el-Hâcc Seyyid Mustafa Fethizâde; endowed to the library of the Mosque of Sultan Süleyman (Süleymaniye Kütüphanesi), AH 1202 / 1787–88 CE. Vakf seal visible on multiple interior pages and on the binding cover.",
+    "previous_shelfmarks": [],
+    "notes": "Currently held at Süleymaniye Kütüphanesi, Istanbul, under the Süleymaniye Murakka Koleksiyonu sub-collection, shelfmark SM 00012. The album was endowed to the Süleymaniye Kütüphanesi by Fethizâde Mustafa Efendi in AH 1202 / 1787–88 CE. Pre-Fethizâde provenance is unknown. YEK ID: 325924. IIIF ID: 0000000356066. Part of the Fethizâde vakf group of SM albums (SM 00009, 00012, 00015 and others all bearing the same vakf seal)."
+  },
+  "analysis_metadata": {
+    "analyzed_date": "2026-02-28",
+    "analyzer": "claude-code-manuscript-pipeline",
+    "pipeline_stage": "metadata-generator",
+    "image_source": "YEK Portal IIIF images, Süleymaniye Kütüphanesi — Süleymaniye Murakka Koleksiyonu, SM 00012. YEK ID 325924, IIIF ID 0000000356066. 6 IIIF pages downloaded at 4330×2897 px (p001, p006, p008, p010, p012, p014). Visual confirmation data from catalog/searches/visual_tier2f_sm_00012.json.",
+    "image_quality_notes": "All 6 downloaded pages at 4330×2897 px — excellent resolution, higher than earlier TIEM and Hamidiye batches. At this resolution the mülevven colors are unambiguous, the zerefşân particles on both mülevven grounds are clearly visible, and the two battal ebru palettes are distinguishable. The illuminated medallion at p012 is legible. 8 of 14 IIIF pages were not examined; the decoration program on these unexamined pages (pp002–005, 007, 009, 011, 013) is inferred.",
+    "folios_examined": [
+      "corpus/iiif/sm_00012_p001.jpeg",
+      "corpus/iiif/sm_00012_p006.jpeg",
+      "corpus/iiif/sm_00012_p008.jpeg",
+      "corpus/iiif/sm_00012_p010.jpeg",
+      "corpus/iiif/sm_00012_p012.jpeg",
+      "corpus/iiif/sm_00012_p014.jpeg"
+    ],
+    "folios_not_examined": "Pages p002–p005, p007, p009, p011, p013 (8 pages) were not downloaded in the IIIF image set for this analysis. The YEK record states 20 yaprak (folios) / 14 IIIF pages. The decoration program on these 8 unexamined pages is assumed to follow the mülevven+zerefşân / battal ebru alternating pattern documented on the sampled pages, but this has not been directly verified.",
+    "corpus_priority": "HIGH: Most complex decorated paper program in the Süleymaniye Murakka sub-batch F corpus, combining five techniques (mülevven+zerefşân in two colors, two-palette battal ebru, illuminated medallion, compound cetvelli) in a single album. Also notable for the 'Nukile min hatti'l-Şeyh' Hamdullahi copy inscription — a pedagogical document in the Ottoman calligraphic lineage. Follow-up priorities: (1) Download and examine pp002–005, 007, 009, 011, 013 to document full decoration distribution; (2) Higher-resolution examination of p012 illuminated medallion; (3) Characterization of the red/pink side paper at p006 left edge; (4) Specialist identification of the battal ebru subtype details and paper workshop.",
+    "source_data": {
+      "visual_confirmation_file": "catalog/searches/visual_tier2f_sm_00012.json",
+      "yek_id": "325924",
+      "iiif_id": "0000000356066",
+      "batch": "Phase 3 Track E — Tier 2F Süleymaniye Murakka Sub-Batch (2026-02-28)"
+    }
+  }
+}

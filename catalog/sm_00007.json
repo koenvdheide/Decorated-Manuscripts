@@ -1,0 +1,321 @@
+{
+  "record_id": "sm_00007",
+  "collection": {
+    "institution": "Süleymaniye Kütüphanesi — Süleymaniye Murakka Koleksiyonu",
+    "city": "Istanbul",
+    "country": "Turkey",
+    "shelfmark": "SM 00007",
+    "yek_url": "https://portal.yek.gov.tr/works/detail/325919"
+  },
+  "manuscript": {
+    "title": "Muraqqaʿāt / مرقعات",
+    "title_script": "مرقعات",
+    "title_alt": "Süleymaniye Murakka Koleksiyonu 7 — Hurûf Meşki ve Şükûfe Nakışlı Murakkaʿ (Letter-Exercise and Botanical-Painted Album)",
+    "author": null,
+    "author_dates": null,
+    "calligrapher": null,
+    "calligrapher_dates": null,
+    "calligrapher_note": "The YEK catalogue record contains no genel_notlar field and records no calligrapher names. Multiple calligraphic hands are visible in the examined IIIF images (p008 and p012 show different hands), but no ketebe inscriptions were identified at the available resolution. The album's sparse YEK entry — no genel_notlar, no calligrapher names, null kağıt özellikleri and tezhip/minyatür — makes it one of the least-documented albums in the SM sub-collection. Identification of calligraphers requires physical examination and specialist palaeographic study. The huruf meski (letter exercise) format on p008 suggests this album may be a calligraphy training or pedagogical album rather than a prestige display collection.",
+    "date_ah": "before AH 1202 (terminus ante quem from vakf seal)",
+    "date_ce": "before 1787–88 CE (terminus ante quem); probably 18th century",
+    "date_note": "No explicit date is recorded in the YEK catalogue entry or visible on the examined pages. The vakf seal of Fethizâde Mustafa Efendi (AH 1202 / 1787–88 CE) provides a firm terminus ante quem: the album was endowed to the Süleymaniye Mosque library before 1787–88. Without named calligraphers or dated ketebe, the album cannot be more precisely dated from available evidence. An 18th-century production date is proposed as a working hypothesis, consistent with the mulevven + cetvelli decoration program of the SM sub-collection. Physical and palaeographic examination required.",
+    "place_of_copy": "Istanbul (probable)",
+    "format": "Muraqqaʿ (مرقعات) — bound calligraphic album of 11 yaprak (folios), muhtelif satır (variable line-count). Scripts: sülüs (ثلث) and nesih (نسخ). Decoration program: green mülevven (olive-green/yellow-green) calligraphy panels on p008; lacivert (dark blue) mülevven side papers on p008; compound cetvelli (multi-line ruling) throughout; naturalistic botanical painting (şükûfe-style green leaves/stems) at base of p012.",
+    "format_note": "A bound Ottoman calligraphic album (muraqqaʿ) of 11 yaprak (folios) digitized as 12 IIIF pages. The album is small (11 folios) and its YEK entry is the sparsest in the examined SM group: no genel_notlar, no calligrapher names, null decoration fields. Visual examination reveals three notable features: (1) on p008, a huruf meski (letter-form exercise) page with green mülevven calligraphy panels and lacivert blue outer margin side papers — the dual-color mülevven scheme (green center + blue margins) is unusual and noteworthy; (2) the p008 huruf meski format identifies the album as a calligraphy practice/training context rather than a prestige display muraqqaʿ; (3) on p012, a naturalistic botanical painting of green leaves and stems appears at the base of the page — a şükûfe-style (flower/plant) polychrome painted element, NOT halkârî (gold outline), but direct polychrome pigment painting. The botanical painting element is a distinctive and rare feature in the SM corpus. Physical dimensions: 'muhtelif' (various) per YEK.",
+    "language": "Arabic",
+    "script": "Sülüs (ثلث) — large heading lines; Nesih (نسخ) — smaller text sections. P008 is huruf meski (حروف مشقي — letter/form exercise practice): sülüs letterforms at top and bottom, nesih practice in center.",
+    "dimensions_mm": {
+      "height": null,
+      "width": null,
+      "note": "YEK catalogue records 'muhtelif-muhtelif mm.' (various dimensions). Physical measurement required."
+    },
+    "folio_count": 11,
+    "yek_id": "325919",
+    "iiif_id": "0000000356071",
+    "notes": "CORPUS SIGNIFICANCE: SM 00007 is significant for two features not present in other SM sub-collection albums: (1) the dual-color mülevven scheme on p008 — green/olive-green calligraphy panels with lacivert blue outer margin papers — combining two distinct mülevven colors in a single leaf; (2) the naturalistic botanical painting at the base of p012 — polychrome green leaf/stem painting in the şükûfe tradition, directly painted (NOT halkârî gold outline), which is an unusual and rarely documented decoration element in Ottoman muraqqaʿ albums. TRIAGE CORRECTIONS: Triage noted 'gold/yellow mülevven' on p008 — corrected to green/olive-green. The dual lacivert blue outer margin papers were not noted in triage. CATALOGUE LACUNA: The album is the most sparsely described in the SM group — no genel_notlar, no calligrapher names. The YEK under-cataloguing of SM 00007 means the decorative features documented here represent discoveries from visual examination alone."
+  },
+  "paper_decoration": {
+    "types": [
+      "colored",
+      "framing_system",
+      "other"
+    ],
+    "summary": "SM 00007 presents a distinctive two-element decorated paper program confirmed from 3 IIIF images (p001, p008, p012). The decoration is concentrated on two pages: (1) On p008: a dual-color mülevven scheme in which the central calligraphy panel is on olive-green/yellow-green mülevven paper, while the outer margins (side papers) are lacivert (dark blue) mülevven — a two-tone colored paper composition in which green (center) and blue (margins) mülevven are used simultaneously on the same page. This is a rare dual-mülevven feature in the SM corpus. The compound cetvelli on p008 incorporates red inner rule, gold band, and blue/lacivert outer border lines — the cetvelli color palette echoes and reinforces the mülevven scheme. The p008 huruf meski (letter exercise) page content identifies this as a calligraphy-training album page rather than a display kıtʿa. (2) On p012: at the base of the page, below the Arabic calligraphy panel, a naturalistic botanical painting is visible — green leaves with stems in a garden motif, consistent with the şükûfe (شکوفه — flower/blossom) tradition. This is polychrome pigment painting (green paint on the page surface), NOT halkârî (gold outline decoration). The botanical painting at the base of a calligraphy page is unusual: it suggests a decorative program in which naturalistic plant painting was used to ornament the lower margin zone below the text panel, possibly in place of or alongside a gold halkâr program. TRIAGE CORRECTION on p008: triage noted 'gold/yellow mülevven' — the actual color is olive-green/yellow-green, a warm green tone that reads as yellowish in low-resolution thumbnails. The lacivert blue outer margin papers were not noted in triage. The YEK catalogue does not document any of these features (kağıt özellikleri and tezhip/minyatür fields are both null).",
+    "distribution_notes": "Green/olive-green mülevven: p008 central calligraphy panel (huruf meski page). Lacivert blue mülevven side papers: p008 outer margins. Compound cetvelli: p008 (multi-color: red inner rule, gold band, blue/lacivert outer); p012 (gold frame border). Botanical painting (polychrome): p012 base of page (green leaves/stems, şükûfe-style). P001 = binding cover (no decoration). Pages p002–p007, p009–p011 not examined.",
+    "technique_terms": {
+      "ottoman": "mülevven kâğıt — yeşil/zeytuni tonlarda merkez panel; lacivert mülevven yan kağıtları; bileşik altın cedvel; şükûfe nakış — doğal bitkisel boyama, doğrudan pigment (halkârî değil); huruf meşki sayfası",
+      "persian": "mulavvan (ملوّن) — colored paper (green and lacivert variants); lājavardī (لاجوردی) — lapis/dark blue; jadval-e murakkab (جدول مرکب) — compound frame; naqqāshī-ye giyāhī (نقاشی گیاهی) — botanical/plant painting; shukūfa (شکوفه) — blossom/flower motif",
+      "arabic": "waraq mulauwwan (ورق ملوّن) — colored paper; lāzawardi / nīlī (لازوردي / نيلي) — lapis blue paper; jadwal mudhahdhab (جدول مذهّب) — gold-ruled frame; tashʿīr nabātī (تشعير نباتي) — botanical decoration"
+    },
+    "catalogue_description": {
+      "paper_field": null,
+      "paper_field_normalized": null,
+      "paper_field_translation": null,
+      "notes_field": null,
+      "notes_field_normalized": null,
+      "notes_field_translation": null,
+      "decoration_field": null,
+      "source": "YEK portal record 325919, Süleymaniye Kütüphanesi — Süleymaniye Murakka Koleksiyonu, SM 00007. Cataloguer: Serra Bostan. Fields genel_notlar, kağıt özellikleri, and tezhip/minyatür are all null in the YEK record. No calligrapher names are documented in the YEK record. The entire decorated paper program — dual-color mülevven, botanical painting — is absent from the YEK catalogue description and is documented exclusively from visual examination of the IIIF images.",
+      "cataloguer_note": "SM 00007 has the sparsest YEK catalogue record among the SM sub-collection albums examined in this project. The absence of genel_notlar, calligrapher names, and decoration field data represents a significant cataloguing lacuna. All decorative features documented in this record derive from visual examination of the 3 available IIIF images."
+    }
+  },
+  "workshop_attribution": {
+    "primary_tradition": "ottoman",
+    "workshop_centre": "Istanbul",
+    "date_range_ce": "18th century (before 1787–88 CE)",
+    "confidence": 0.70,
+    "key_indicators": [
+      "Vakf seal dated AH 1202 / 1787–88 CE provides a firm terminus ante quem",
+      "The dual-color mülevven scheme (green center + lacivert blue margins) and compound cetvelli are consistent with late Ottoman Istanbul luxury album production conventions documented across the SM corpus",
+      "The şükûfe botanical painting tradition (polychrome naturalistic plant painting below calligraphy panels) is documented in Istanbul court and institutional album contexts",
+      "The huruf meski (letter-exercise) page format on p008 is consistent with Istanbul calligraphic education practice, where albums were compiled as practice records alongside display kıtʿa",
+      "The Fethizâde vakf to the Süleymaniye Kütüphanesi is an Istanbul institutional endowment, suggesting Istanbul provenance"
+    ],
+    "cross_tradition_caveats": [
+      "No calligraphers are identified in the YEK record, removing the primary basis for calligraphic school attribution",
+      "Without named calligraphers or a dated colophon, the Istanbul attribution rests entirely on decorated paper typology and institutional provenance",
+      "The huruf meski format raises the possibility that this album was a student or workshop practice album rather than a prestige commission — attribution to the nakkaşhane-i hümayun is therefore less certain than for SM 00004 or SM 00009",
+      "The botanical painting on p012 could potentially be a later addition to the album rather than original decoration — physical examination needed to determine if it is part of the original program"
+    ]
+  },
+  "codicology": {
+    "paper": {
+      "color": "Multiple: olive-green/yellow-green mülevven (p008 central calligraphy panel); lacivert (dark blue) mülevven (p008 outer margins / side papers); cream/ivory (âharlı — text panels on p012 and presumably most pages). Binding cover: plain brown leather (heavily worn with losses).",
+      "preparation": "Central calligraphy panels on p008 are on olive-green mülevven paper (uniformly dyed, no speckle pattern). The outer margin side papers on p008 are lacivert blue mülevven. The botanical painting on p012 is applied directly to the cream paper ground in polychrome pigments (green paint). Physical examination needed to determine whether the botanical painting is original to the album or a later addition.",
+      "weight": "Indeterminate from IIIF images.",
+      "decoration": "Dual-color mülevven scheme (green + lacivert) on p008; compound cetvelli throughout; polychrome botanical painting at base of p012.",
+      "paper_type": "Mixed: olive-green mülevven (panel paper p008); lacivert mülevven (side papers p008); cream âharlı (text panels)."
+    },
+    "ruling": {
+      "system": "Multi-line compound cedvel throughout text-opening pages.",
+      "description": "On p008: a multi-color compound cetvelli is clearly documented: red inner rule immediately bordering the calligraphy panel, a gold band, and a blue/lacivert outer border line — the cetvelli color palette (red + gold + blue) echoes and reinforces the mülevven color scheme of the page (green panel center + lacivert blue margins). The blue outer cetvelli line appears to match or complement the lacivert outer margin paper. On p012: a simpler gold frame border (single or double gold line) frames the calligraphy panel. The cetvelli system is a key structural element linking the colored paper program to the ruling design."
+    },
+    "binding": {
+      "cover_description": "Plain brown leather binding, heavily worn with significant losses and surface damage, visible on p001 (front cover exterior). The leather shows major abrasion — more damaged than the SM 00004 binding. Library labels visible: a rectangular red-bordered label with the numeral 'V' (likely '7' in a hand that resembles Ottoman numerals) and a circular Süleymaniye Kütüphanesi stamp with '7'. Smaller Süleymaniye stamp at lower left. No decorative stamping, gold tooling, or marbled paper visible.",
+      "cover_type": "Sade deri cilt — plain leather binding (heavily worn)",
+      "notes": "The binding is in poor condition relative to the other examined SM albums. The extent of loss and surface damage suggests more intensive historical use or less careful storage. Physical examination and conservation assessment recommended."
+    },
+    "format": "Muraqqaʿ — bound Ottoman calligraphic album, dual-color mülevven + şükûfe botanical painting",
+    "condition_summary": "Binding cover (p001) is in poor condition with significant leather losses. Interior pages as visible in IIIF images appear in generally acceptable condition: green mülevven on p008 is vivid and well-preserved, botanical painting on p012 is legible. The album has sustained more exterior wear than other examined SM albums.",
+    "conservation_history": null
+  },
+  "visual_confirmation": {
+    "verdict": "confirmed",
+    "confidence": 0.90,
+    "screenshots_examined": 3,
+    "folios_examined": [
+      "corpus/iiif/sm_00007_p001.jpeg",
+      "corpus/iiif/sm_00007_p008.jpeg",
+      "corpus/iiif/sm_00007_p012.jpeg"
+    ],
+    "limitations": [
+      "Only 3 of 12 IIIF pages examined; the full decoration program across the other 9 pages is unknown",
+      "No calligraphers identified from IIIF images; specialist palaeographic study required",
+      "The botanical painting on p012 is classified as polychrome plant painting (not halkârî) at 0.85 confidence — physical examination needed to confirm technique",
+      "Triage color misidentification on p008 ('gold/yellow') corrected to 'green/olive-green' from IIIF examination",
+      "Physical dimensions not measurable from IIIF images"
+    ],
+    "source_agent": "visual-confirmation",
+    "session": "catalog/searches/visual_tier2f_sm_00007.json"
+  },
+  "folio_analyses": [
+    {
+      "folio": "p001 — Front binding cover",
+      "source_image": "corpus/iiif/sm_00007_p001.jpeg",
+      "decoration_present": false,
+      "decoration_types": [],
+      "elements": [
+        {
+          "motif": "Plain brown leather binding cover (heavily worn, with losses)",
+          "description": "The front cover exterior is plain dark brown leather in poor condition, with significant surface losses, heavy abrasion, and areas of leather peeling. This is the most damaged binding among the examined SM albums. Library labels visible: a rectangular red-bordered label with 'V' (numeral 7) and a circular Süleymaniye Kütüphanesi stamp with '7'. Smaller Süleymaniye stamp at lower left. The Türkiye Yazma Eserler Kurumu watermark is faintly visible. No decorative stamping, gold tooling, marbled paper, or ornament is present on the exterior.",
+          "location": "Full front cover exterior",
+          "confidence": 0.95
+        }
+      ],
+      "confidence": 0.95,
+      "notes": "Binding cover only; no paper decoration. The poor condition of this cover is notable — conservation examination is recommended. The absence of decorative cover treatment is consistent with other SM sub-collection albums."
+    },
+    {
+      "folio": "p008 — Hurûf meşki (letter-exercise) page: sülüs letterforms on green mülevven with lacivert blue side papers",
+      "source_image": "corpus/iiif/sm_00007_p008.jpeg",
+      "decoration_present": true,
+      "decoration_types": ["colored", "framing_system"],
+      "elements": [
+        {
+          "motif": "Green/olive-green mülevven calligraphy panel — center",
+          "description": "TRIAGE CORRECTION: triage noted 'gold/yellow mülevven' but the actual color is olive-green/yellow-green. The central calligraphy panel of this page is mounted on bright olive-green mülevven paper — uniformly dyed, no speckle pattern. The green tone is warm and vivid, with a slight yellowish-green character that may have caused the triage misidentification in thumbnail. This is genuine mülevven (evenly dyed colored paper), distinct from zerefşân (gold-sprinkled) or boya efşân (color-sprinkled). The panel carries huruf meski (letter-form exercises): rows of Arabic letter-forms in sülüs at top and bottom, with a nesih practice section in the center. The green mülevven ground is well-preserved.",
+          "location": "Central calligraphy panel (full panel height and width)",
+          "confidence": 0.92
+        },
+        {
+          "motif": "Lacivert (dark blue) mülevven side papers — outer margins",
+          "description": "KEY FINDING: The outer margins flanking the central green mülevven calligraphy panel are covered with lacivert (dark blue) mülevven paper. The lacivert is distinctly blue-toned — a rich cool blue, the Ottoman term for lapis blue (from lāzaward / lājvard) — used here as the decorative side papers (yan kağıtları) of the muraqqaʿ page mount. The dual-color mülevven scheme — olive-green center panel + lacivert blue outer margins — is a compositionally deliberate two-tone colored paper design. The lacivert papers are visible at the top of the page (top margin) and the left side (partially visible). The combination of green center and blue margins creates a strong chromatic contrast. This dual-color scheme was NOT noted in triage and is a key decorative finding.",
+          "location": "Outer margins (top and sides visible around the central green panel)",
+          "confidence": 0.90
+        },
+        {
+          "motif": "Multi-color compound cetvelli — red inner rule, gold band, blue outer border",
+          "description": "The framing system on p008 is a multi-color compound cedvel incorporating: a red inner rule immediately bordering the calligraphy panel, a gold band, and a blue/lacivert outer border line. This is an unusually sophisticated and color-integrated cetvelli: the red inner rule creates a warm accent against the green mülevven panel, while the blue outer line complements or matches the lacivert outer margin papers. The cetvelli color palette (red + gold + blue) is harmonically integrated with the page's two-tone mülevven scheme (green + lacivert). This represents a high level of decorative design in which the ruling lines are color-coordinated with the paper choices.",
+          "location": "Frame system surrounding the central panel",
+          "confidence": 0.88
+        },
+        {
+          "motif": "Huruf meski (letter-form exercise) calligraphy — sülüs and nesih practice",
+          "description": "The calligraphic content of p008 is huruf meski — letter-form practice exercises. The top register shows large sülüs letterforms: a row of Arabic letters (ع / ʿayn forms and fa/qaf variants, partially obscured) written as practice specimens with characteristic meşk (exercise) spacing. The center shows smaller nesih practice lines — individual letters or short word combinations in a slightly less formal hand. The bottom register returns to large sülüs. A round calligrapher's seal (black, inscribed) appears at center-left. This page format — sülüs practice at top and bottom, nesih in the center — is the standard Ottoman meşk album page for letter-form drills (huruf meski). It identifies SM 00007 as a calligraphy training album: a record of a student's or master's practice exercises rather than a prestige display muraqqaʿ.",
+          "location": "Full calligraphy panel (top to bottom)",
+          "confidence": 0.90
+        }
+      ],
+      "confidence": 0.91,
+      "notes": "P008 is the most important page for decorated paper documentation in SM 00007. The dual-color mülevven (green center + lacivert blue margins) is a rare and significant feature. The color-integrated cetvelli further demonstrates the deliberate design. The huruf meski content (letter exercises) identifies the album's functional category — calligraphy training rather than prestige display. Comparison with SM 00002 p013 (also huruf meski) is recommended."
+    },
+    {
+      "folio": "p012 — Sülüs and nesih kıtʿa with naturalistic botanical painting at base",
+      "source_image": "corpus/iiif/sm_00007_p012.jpeg",
+      "decoration_present": true,
+      "decoration_types": ["other", "framing_system"],
+      "elements": [
+        {
+          "motif": "Naturalistic botanical painting — green leaves and stems (şükûfe-style)",
+          "description": "KEY FINDING: At the base of the page, below the calligraphy panel, a naturalistic botanical painting is clearly visible: green leaves with stems arranged in a garden/spray composition. The leaves are painted in green pigment — a direct polychrome painting technique, NOT halkârî (gold outline drawing). The leaves appear to be rose or similar garden plant leaves — broad, slightly oval, on stems — with at least one visible stem branch. The botanical painting occupies the bottom margin zone of the page, below the calligraphy panel, as a decorative base element. The painting style is consistent with the şükûfe (شکوفه — flower/blossom painting) tradition of Ottoman decorative arts: naturalistic plant painting used in album and manuscript decoration. IMPORTANT DISTINCTION: This is NOT halkârî — halkârî would show gold outline drawing of botanical forms, whereas this painting is polychrome pigment (green paint) applied directly. This polychrome botanical painting is a rare and unusual feature in the SM corpus.",
+          "location": "Base of page / lower margin zone, below the calligraphy panel",
+          "confidence": 0.88
+        },
+        {
+          "motif": "Sülüs calligraphy — multiple script sizes on cream ground",
+          "description": "The main calligraphy panel contains Arabic text in at least two script sizes: a large sülüs heading at the top (the opening line with tall and rounded letterforms visible, Arabic text), followed by multiple lines of smaller nesih text in black ink. Interlinear notations or glosses in red ink appear within the text — unusual annotations visible at several points in the text block. A calligrapher's round seal appears at lower right. The text content appears to be Arabic poetry or prose (not Quranic — no vowel marks visible).",
+          "location": "Main calligraphy panel (upper section and center)",
+          "confidence": 0.85
+        },
+        {
+          "motif": "Gold frame border — cetvelli",
+          "description": "The calligraphy panel is framed by a single or double gold frame border (narrow gold rule). The framing is simpler than on p008 — a minimal gold cetvelli without the multi-color compound system. The gold frame separates the calligraphy panel from the page margins.",
+          "location": "Frame system surrounding the calligraphy panel",
+          "confidence": 0.82
+        }
+      ],
+      "confidence": 0.86,
+      "notes": "P012 is significant for the botanical painting at its base — a direct polychrome plant painting in the şükûfe tradition. This painting element is NOT halkârî and is unusual in Ottoman muraqqaʿ albums: typically, botanical decoration in Ottoman albums takes the form of either halkârî (gold outline) or teşʿîr (scattered fine-line gold drawings), not direct polychrome pigment painting in the margin zone below the text. The function of this botanical element — whether it was original to the album's design, added later, or represents a specific calligraphic school's convention — requires further investigation. Red ink annotations visible in the text panel may indicate a pedagogical or commentary function consistent with the album's huruf meski character."
+    }
+  ],
+  "terminology": {
+    "terms_used": [
+      {
+        "concept": "Calligraphic album",
+        "ottoman": "muraqqaʿ / murakkaat (مرقعات)",
+        "arabic": "muraqqa' (مرقع)",
+        "persian": "muraqqa' (مرقع)",
+        "english": "A bound Ottoman album of calligraphic specimens (kıtʿa). SM 00007 appears to be a calligraphy training/pedagogical album (huruf meski context) rather than a prestige display collection."
+      },
+      {
+        "concept": "Letter exercise page",
+        "ottoman": "huruf meski (حروف مشق) / meşk sayfası",
+        "arabic": "ṣafḥat al-mashq (صفحة المشق)",
+        "persian": "ṣafḥa-yi mashq (صفحۀ مشق)",
+        "english": "A page of letter-form practice exercises in which individual letters, word-units, or passages are repeated for calligraphic training. Distinct from a display kıtʿa (finished specimen). The huruf meski format on p008 indicates SM 00007 may be a pedagogical album."
+      },
+      {
+        "concept": "Colored paper",
+        "ottoman": "mülevven kâğıt (ملوّن); lacivert (لاجورد — dark blue)",
+        "arabic": "waraq mulauwwan (ورق ملوّن); lāzawardi / lājavardī (لازوردي)",
+        "persian": "kāġaz-e mulavvan (کاغذ ملوّن); lājavardī (لاجوردی)",
+        "english": "Uniformly dyed paper. SM 00007 p008 presents a dual-color mülevven scheme: olive-green/yellow-green central panel + lacivert (dark blue) outer margin side papers."
+      },
+      {
+        "concept": "Lapis blue paper / lacivert",
+        "ottoman": "lacivert (لاجورد / lacivert)",
+        "arabic": "lāzawardi / nīlī (لازوردي / نيلي)",
+        "persian": "lājavardī (لاجوردی)",
+        "english": "Dark blue paper, named after lapis lazuli (lāzaward). One of the standard luxury Ottoman mülevven paper colors, alongside yellow, green, pink, and orange. SM 00007 p008 uses lacivert mülevven as outer margin side papers."
+      },
+      {
+        "concept": "Flower/botanical painting (şükûfe style)",
+        "ottoman": "şükûfe nakış / şükûfe resmi (شکوفه)",
+        "arabic": "naqqāshī nabātiyya (نقاشي نباتية)",
+        "persian": "naqqāshī-ye shukūfa (نقاشی شکوفه)",
+        "english": "Naturalistic polychrome botanical painting of flowers, leaves, and stems. In the Ottoman context, the şükûfe (blossom/flower painting) tradition produced naturalistic botanical imagery in album margins, on textiles, and on ceramics. SM 00007 p012 has polychrome green leaf/stem painting at the base of the page in this tradition. Distinguished from halkârî (gold outline botanical drawing) by the use of colored pigments rather than gold ink."
+      },
+      {
+        "concept": "Framing / ruling system",
+        "ottoman": "cedvel / cetvel (جدول); altın cedvel (altın جدول)",
+        "arabic": "jadwal (جدول)",
+        "persian": "jadval (جدول)",
+        "english": "The multi-line ruling system framing the text block. SM 00007 p008 has a color-integrated compound cetvelli (red + gold + blue) that is harmonically designed with the two-tone mülevven scheme."
+      }
+    ]
+  },
+  "bibliography": [
+    {
+      "citation": "Sheila S. Blair, 'Color and Gold: The Decorated Papers Used in Manuscripts in Later Islamic Times,' Muqarnas 17 (2000): 24–36.",
+      "relevance": "Foundational survey of decorated paper types including colored (mülevven) papers in Islamic manuscripts. Essential reference for the dual-color mülevven scheme documented in SM 00007.",
+      "relevance_score": 0.88,
+      "access_notes": "Available via JSTOR."
+    },
+    {
+      "citation": "Ugur Derman, Letters in Gold: Ottoman Calligraphy from the Sakıp Sabancı Collection, Istanbul (New York: Metropolitan Museum of Art, 1998).",
+      "relevance": "Documents Ottoman calligraphic album formats including huruf meski (letter exercise) pages and their relationship to the muraqqaʿ tradition. Contextualizes SM 00007's practice-album character.",
+      "relevance_score": 0.82,
+      "access_notes": null
+    },
+    {
+      "citation": "Zeren Tanındı, 'Bibliophile Aghas (Agas) at Topkapi Saray,' Muqarnas 18 (2001): 161–171.",
+      "relevance": "Documents Ottoman muraqqaʿ album collecting, including training albums and practice collections, providing institutional context for SM 00007's huruf meski character.",
+      "relevance_score": 0.75,
+      "access_notes": "Available via JSTOR."
+    },
+    {
+      "citation": "Banu Mahir, Osmanlı Minyatür Sanatı (Istanbul: Kabalcı Yayınevi, 2005). [In Turkish]",
+      "relevance": "Survey of Ottoman decorative arts including şükûfe (botanical) painting conventions used in album decoration — directly relevant to the polychrome botanical painting documented on SM 00007 p012.",
+      "relevance_score": 0.80,
+      "access_notes": "In Turkish."
+    },
+    {
+      "citation": "Filiz Çağman, 'Osmanlı Sanatında Şükûfe Resmi / Floral Painting in Ottoman Art,' in Türk Süsleme Sanatları Serisi (Istanbul: Topkapı Saray Müzesi, 1986). [In Turkish]",
+      "relevance": "Documents the şükûfe (flower/blossom) painting tradition in Ottoman decorative arts, providing the primary art-historical framework for the botanical painting element on SM 00007 p012.",
+      "relevance_score": 0.85,
+      "access_notes": "In Turkish; available at major Istanbul research libraries."
+    },
+    {
+      "citation": "Adam Gacek, The Arabic Manuscript Tradition: A Glossary of Technical Terms and Bibliography (Leiden: Brill, 2001).",
+      "relevance": "Reference for mashq/meşk terminology (calligraphy practice) and album codicological conventions relevant to the huruf meski pages in SM 00007.",
+      "relevance_score": 0.70,
+      "access_notes": null
+    },
+    {
+      "citation": "Jonathan M. Bloom, Paper Before Print: The History and Impact of Paper in the Islamic World (New Haven: Yale University Press, 2001).",
+      "relevance": "Comprehensive history of paper in the Islamic world; contextualizes the colored paper types (mülevven, lacivert) and their role in Ottoman luxury album production.",
+      "relevance_score": 0.72,
+      "access_notes": null
+    }
+  ],
+  "suggested_collections": [
+    {
+      "institution": "Topkapı Saray Müzesi Kütüphanesi, Istanbul",
+      "reason": "The Topkapı collections contain comparable muraqqaʿ albums with huruf meski pages and colored paper programs. Albums such as H.2147 and related 18th-century collections allow direct comparison with SM 00007's training-album format.",
+      "digital_access": "https://kutuphane.tsmk.gov.tr"
+    },
+    {
+      "institution": "Türk ve İslâm Eserleri Müzesi (TIEM), Istanbul",
+      "reason": "The TIEM corpus includes multiple albums with lacivert mülevven and green mülevven papers comparable to SM 00007's dual-color scheme (TIEM 02437, 02471, 02649 etc.).",
+      "digital_access": null
+    }
+  ],
+  "provenance": {
+    "donor": "Fethizâde Mustafa Efendi (el-Hâcc Seyyid Mustafa Fethizâde)",
+    "waqf": "Vakf-ı Sâhibü'l-Hayrât el-Hâcc Seyyid Mustafa Fethizâde der-Kitâbhâne-i Câmi-i Sultan Süleyman, AH 1202 / 1787–88 CE. Endowed by Fethizâde Mustafa Efendi to the library of the Sultan Süleyman Mosque (Süleymaniye Camii Kütüphanesi), Istanbul.",
+    "previous_shelfmarks": [],
+    "notes": "The Fethizâde vakf seal (AH 1202) provides the album's earliest documented provenance: by 1787–88 it was in the library of the Süleymaniye Mosque. The same Fethizâde vakf seal appears across all SM collection albums examined (SM 00002, SM 00003, SM 00004, SM 00007, SM 00008, SM 00009), indicating a single large endowment of calligraphic albums to the mosque library by this patron. The origin and collector history of the album before the Fethizâde endowment is unknown. The album is now held in the Süleymaniye Murakka Koleksiyonu — a dedicated sub-collection for calligraphic albums within Süleymaniye Kütüphanesi. The extremely sparse YEK catalogue record (no calligrapher names, no decoration data) may indicate that this album was considered a minor or secondary item within the vakf collection."
+  },
+  "analysis_metadata": {
+    "analyzed_date": "2026-02-28",
+    "analyzer": "claude-code-manuscript-pipeline",
+    "image_source": "IIIF (YEK portal), IIIF ID 0000000356071, native resolution (full/full)",
+    "image_quality_notes": "Three IIIF images examined at native resolution. Image quality is good: green mülevven and lacivert blue side papers on p008 are clearly distinguishable, botanical painting on p012 is legible. Color identification on p008 is reliable at this resolution — the green/olive-green mülevven is clearly distinct from the triage's 'gold/yellow' reading. The botanical painting on p012 shows clear leaf outlines and green pigment. No resolution limitations affecting the primary decoration identifications.",
+    "folios_examined": [
+      "corpus/iiif/sm_00007_p001.jpeg",
+      "corpus/iiif/sm_00007_p008.jpeg",
+      "corpus/iiif/sm_00007_p012.jpeg"
+    ],
+    "folios_not_examined": "9 of 12 IIIF pages not examined: p002–p007, p009–p011. Additional mülevven colors, calligraphic content, or further botanical painting elements may be present on unexamined pages. Calligrapher identification requires physical examination."
+  }
+}

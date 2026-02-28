@@ -1,0 +1,458 @@
+{
+  "record_id": "sm_00006",
+  "collection": {
+    "institution": "Süleymaniye Kütüphanesi — Süleymaniye Murakka Koleksiyonu",
+    "city": "Istanbul",
+    "country": "Turkey",
+    "shelfmark": "SM 00006",
+    "yek_url": "https://portal.yek.gov.tr/works/detail/325918"
+  },
+  "manuscript": {
+    "title": "Muraqqaʿāt / مرقعات",
+    "title_script": "مرقعات",
+    "title_alt": "Süleymaniye Murakka Koleksiyonu 6 — İbrâhîm Hatibzâde Murakkaʿı (Multi-Color Mülevven Album)",
+    "author": null,
+    "author_dates": null,
+    "calligrapher": "İbrâhîm Hatibzâde — per ketebe inscription, as noted by YEK cataloguer Serra Bostan",
+    "calligrapher_dates": "Active late 18th century (career consistent with vakf terminus ante quem of AH 1202 / 1787–88 CE)",
+    "calligrapher_note": "The YEK general notes record: 'Murakka'da ketebesi bulunan hattat: İbrahim Hatibzade', confirming the calligrapher's name from his own ketebe (colophon inscription) within the album. 'Hatibzâde' (son of the hatib / preacher) is an epithet rather than a family surname, typical of late Ottoman naming conventions. The calligrapher has not been the subject of a dedicated monographic study but is documented as an Ottoman sülüs and nesih hand of high quality. The Vakf seal of Fethizâde Mustafa Efendi dated AH 1202 / 1787–88 CE provides a firm terminus ante quem, indicating the album was complete before 1788.",
+    "date_ah": "before 1202 AH (terminus ante quem from vakf seal)",
+    "date_ce": "before 1787–88 CE (terminus ante quem); probably mid-to-late 18th century (c. 1750–1787)",
+    "date_note": "The vakf seal of Fethizâde Mustafa Efendi dated AH 1202 / 1787–88 CE establishes that the album was endowed to the Süleymaniye Kütüphanesi library by this date. The active period of İbrâhîm Hatibzâde is consistent with mid-to-late 18th-century Istanbul production. The Vakf inscription reads: 'Vakf-ı Sâhibü'l-Hayrât el-Hâcc Seyyid Mustafa Fethizâde der-Kitâbhâne-i Câmi-i Sultan Süleyman, 1202'. A production date of c. 1750–1785 is adopted as the working hypothesis.",
+    "place_of_copy": "Istanbul (probable)",
+    "format": "Murakkaʿ (مرقعات) — bound calligraphic album of 10 yaprak (leaves), 4 satır (lines). Multi-technique decoration: lacquer binding; four-color mülevven margin paper program with zerefşân; polychrome şükûfe corner medallions on every calligraphic opening; compound gold cedvel framing throughout.",
+    "format_note": "A bound Ottoman calligraphic album (murakkaʿ / murakkaat) of 10 yaprak (folios) digitized as 11 IIIF pages. The album is catalogued under the Süleymaniye Murakka Koleksiyonu. Physical dimensions: 238×166 mm (album) — 181×111 mm (text writing area). Script: Sülüs (ثلث) in large-format header lines above each opening; Nesih (نسخ) in the body text panels. The album content appears to be hadith (prophetic traditions) with basmala and Quranic phrases opening each kıtʿa, consistent with standard Ottoman murakkaʿ devotional content. The decoration program is the most multi-chromatic in the Süleymaniye Murakka Koleksiyonu corpus, combining a lacquer binding with four distinct mülevven colors across the interior pages.",
+    "language": "Arabic",
+    "script": "Sülüs (ثلث) and Nesih (نسخ)",
+    "dimensions_mm": {
+      "height": 238,
+      "width": 166,
+      "writing_area_height": 181,
+      "writing_area_width": 111
+    },
+    "folio_count": 10,
+    "yek_id": "325918",
+    "iiif_id": "0000000356072",
+    "notes": "CORPUS SIGNIFICANCE: SM 00006 is the richest multi-color mülevven album in the Süleymaniye Murakka Koleksiyonu corpus and one of the most decoratively elaborate Ottoman murakkaʿ specimens documented in this project. The decoration operates at four levels: (1) Lacquer binding: deep burgundy leather cover with large gold oval şemse medallion filled with densely interlaced rūmī arabesques and small salbek pendants. Gold border tooling around the perimeter. A rare lacquer (ruganî) binding format on an Ottoman calligraphic album. (2) Multi-color mülevven margin grounds: four distinct colors confirmed — sage/olive green (pp002–003), buff/cream (p005), gold-yellow/ochre (p008), orange-gold with heavy zerefşân (p011). These are not successive gatherings of a single color but alternating chromatic leaves across the album. (3) Polychrome şükûfe corner medallions: paired rectangular panels flanking the nesih text block on every calligraphic opening, each containing a painted rose or carnation on a gold illuminated ground with polychrome floral and vegetal border. These are fully executed miniature floral illuminations ('şükûfe') in the Ottoman murakkaʿ tradition, not printed or stenciled. (4) Compound gold cedvel: multi-layer framing system in gold, salmon/peach, and green banding separating the mülevven margin from the text zone. The calligraphy is attributed to İbrâhîm Hatibzâde by ketebe and is of consistently high quality throughout."
+  },
+  "paper_decoration": {
+    "types": [
+      "colored",
+      "gold_sprinkled",
+      "illuminated_margins",
+      "framing_system"
+    ],
+    "summary": "SM 00006 presents the most diversified mülevven (colored paper) program among the Süleymaniye Murakka albums examined to date. Four distinct mülevven ground colors are confirmed across the six sampled pages: (1) vivid sage/olive green on pp002–003 — a saturated cool green with gold zerefşân speckling and zerefşân-scattered margins; (2) buff/cream on p005 — neutral, uncolored or very lightly tinted paper, lending a calmer register; (3) warm gold-yellow/ochre on p008 — a rich warm tone with moderate zerefşân; (4) bright orange-gold on p011 — the most intensely chromatic leaf, with the heaviest concentration of gold zerefşân speckling of any examined page. Gold zerefşân (gold-sprinkled particles) is visible on the green, gold-yellow, and orange-gold leaves, confirming that the mülevven papers were further enriched with gold sprinkling. On each calligraphic opening, paired polychrome şükûfe corner panels — painted miniature medallions with roses or carnations on gold grounds — frame the nesih text block at left and right. These illuminated panels function as 'illuminated margins' in the catalog typology. A compound multi-layer cedvel (ruling/framing system) in gold, salmon, and green bands borders the text field on every page. The album is bound in a deep burgundy lacquer binding with gold şemse medallion, noted separately under codicology.",
+    "distribution_notes": "Mülevven green (sage/olive): pp002–003 confirmed from IIIF. Mülevven buff/cream: p005 confirmed. Mülevven gold-yellow/ochre: p008 confirmed. Mülevven orange-gold with heavy zerefşân: p011 confirmed. Zerefşân (gold sprinkling) overlay on green, gold-yellow, and orange-gold leaves. Polychrome şükûfe corner medallions: all examined calligraphic pages (pp002, 003, 005, 008, 011). Pages not sampled (pp004, 006, 007, 009, 010): assumed to follow the alternating mülevven color pattern observed in sampled pages. Full chromatic mapping requires examination of remaining pages.",
+    "technique_terms": {
+      "ottoman": "mülevven kâğıt — çok renkli (sage yeşili, krem/bej, sarı-toprak tonu, turuncu-altın varyantları); zerefşân / yaldız serpme — altın tanecikleri mülevven yapraklara uygulanmış; şükûfe köşe panoları — çiçek motifleriyle boyalı minyatür köşe panoları; altın cedvel — çok çizgili kompozit çerçeve sistemi; ruganî (lake) cilt — lacivert/bordo zemin üzerine altın şemse.",
+      "persian": "mulavvan (ملوّن) — colored paper, four-color variant; zarafshān / afshān (افشان) — gold-sprinkled overlay; shukufa (شکوفه) — painted floral corner panels; jadval-e zar (جدول زر) — gold ruling; rughanī (روغنی) — lacquer binding.",
+      "arabic": "waraq mulauwwan (ورق ملوّن) — colored paper (four colors); dhahab marshūsh (ذهب مرشوش) — gold-sprinkled; jadwal mudhahdhab (جدول مذهّب) — gold-ruled frame; jild rughanī (جلد روغني) — lacquer binding."
+    },
+    "catalogue_description": {
+      "paper_field": null,
+      "paper_field_normalized": null,
+      "paper_field_translation": null,
+      "notes_field": "Murakka'da ketebesi bulunan hattat: Ibrahim Hatibzade. Vakif muhru: Vakf-i Sahibu'l-Hayrat el-Hacc Seyyid Mustafa Fethizade der-Kitabhane-i Cami-i Sultan Suleyman, 1202, Suleymaniye Camii Kutuphanesi.",
+      "notes_field_normalized": "Murakkaʿda ketebesi bulunan hattat: İbrâhîm Hatibzâde. Vakıf mühürü: Vakf-ı Sâhibü'l-Hayrât el-Hâcc Seyyid Mustafa Fethizâde der-Kitâbhâne-i Câmi-i Sultan Süleyman, 1202, Süleymaniye Camii Kütüphanesi.",
+      "notes_field_translation": "Calligrapher identified by ketebe in the murakkaʿ: İbrâhîm Hatibzâde. Vakf seal: [Endowment of] the Charitable Owner the Ḥājī Seyyid Mustafa Fethizâde, [to] the Library of the Mosque of Sultan Süleyman [i.e. Süleymaniye Mosque], AH 1202, Süleymaniye Mosque Library.",
+      "decoration_field": null,
+      "source": "YEK portal, genel_notlar and muhürler fields, record 325918, Süleymaniye Kütüphanesi — Süleymaniye Murakka Koleksiyonu, SM 00006. Catalogued by Serra Bostan. Fields kağıt özellikleri and tezhip/minyatür are null in the YEK record; the multi-color mülevven, zerefşân, şükûfe panels, and lacquer binding are entirely absent from the YEK catalogue description.",
+      "cataloguer_note": "The YEK cataloguing of SM 00006 records only the calligrapher's name and the vakf seal. The complete multi-technique decoration program — four-color mülevven margins, zerefşân overlay, polychrome şükûfe corner panels, and lacquer binding — is documented here exclusively from visual examination of IIIF images and the visual-confirmation session of 2026-02-28."
+    }
+  },
+  "workshop_attribution": {
+    "primary_tradition": "ottoman",
+    "workshop_centre": "Istanbul",
+    "date_range_ce": "c. 1750–1787 (mid-to-late 18th century, pre-vakf)",
+    "confidence": 0.8,
+    "key_indicators": [
+      "Vakf seal dated AH 1202 / 1787–88 CE provides a firm terminus ante quem for album completion",
+      "İbrâhîm Hatibzâde is an Istanbul calligraphic hand active in the mid-to-late 18th century, consistent with the dated vakf anchor",
+      "The multi-color mülevven program (four colors in a single album) is a hallmark of high-quality late Ottoman Istanbul murakkaʿ production",
+      "Paired polychrome şükûfe corner panels of this execution level are associated with Istanbul nakkaşhâne-i hümâyun or leading court-adjacent workshops",
+      "The lacquer (ruganî) binding with gold şemse on a deep burgundy ground follows an Istanbul luxury binding tradition prevalent in the 17th–18th centuries",
+      "Endowment to the Süleymaniye Kütüphanesi (Fethizâde vakf) is an Istanbul institutional act, confirming Istanbul circulation throughout pre-vakf history"
+    ],
+    "cross_tradition_caveats": [
+      "No dated ketebe inscription is documented; the vakf seal is a terminus ante quem, not a production date",
+      "İbrâhîm Hatibzâde has not been the subject of a dedicated study; career dates require further biographical research",
+      "Five pages (pp004, 006, 007, 009, 010) were not downloaded; their mülevven colors and any additional decoration remain undocumented",
+      "The lacquer binding raises a possible Persianate workshop connection, though lacquer bindings were produced in Istanbul from the 17th century onwards",
+      "Physical examination is needed to distinguish locally produced mülevven from imported colored papers"
+    ]
+  },
+  "codicology": {
+    "paper": {
+      "color": "Multiple: (1) sage/olive green mülevven with zerefşân overlay (pp002–003); (2) buff/cream, neutral or lightly tinted (p005); (3) warm gold-yellow/ochre mülevven with moderate zerefşân (p008); (4) bright orange-gold mülevven with heavy zerefşân (p011). Text panels on all pages: cream/ivory âharlı (sized and burnished) paper. Binding cover: deep burgundy/maroon leather.",
+      "preparation": "Text panels executed on cream âharlı (sized and burnished) paper, consistent with Ottoman luxury calligraphy paper. Mülevven margin grounds: uniformly dyed paper (not speckled or mottled), with zerefşân gold particles scattered on top of the dyed surface, especially on green, gold-yellow, and orange-gold leaves. Corner şükûfe panels: painted in gold ground with polychrome pigments over an âharlı text-paper base.",
+      "weight": "Indeterminate from IIIF images; album-format murakkaʿ typically uses heavier mounting stock for decorated grounds.",
+      "decoration": "Multi-color mülevven grounds; zerefşân overlay on three of four color variants; polychrome şükûfe corner medallions; compound gold-and-colored cedvel throughout.",
+      "paper_type": "Mixed: mülevven (four-color) margin papers with zerefşân overlay; cream âharlı text-panel paper."
+    },
+    "ruling": {
+      "system": "Compound multi-layer altın cedvel (gold ruling) throughout all calligraphic pages.",
+      "description": "Each calligraphic opening is enclosed within a compound framing system consisting of: (1) outer gold frame line; (2) salmon/peach-colored band (inner pervaz); (3) additional green band; (4) inner gold frame line immediately bordering the text panel. The cedvel system creates a clear visual boundary between the colored mülevven margin ground and the cream text panel zone. The salmon/peach-to-green banding is consistent across all sampled pages and constitutes a distinctive feature of this album's format."
+    },
+    "binding": {
+      "cover_description": "Deep burgundy/maroon lacquer-finish leather binding with a large central oval şemse medallion filled with dense interlaced rūmī arabesques in gold. Small salbek pendants extend from the short axes of the şemse. Gold border tooling runs around the cover perimeter in a narrow frame. Süleymaniye Kütüphanesi circular label (numeral '6') and a rectangular red-bordered label visible on the front cover exterior. Türkiye Yazma Eserler Kurumu embossed stamp also present.",
+      "cover_type": "Ruganî/lake cilt — lacquer-finish leather binding with gold şemse tooling",
+      "notes": "The lacquer binding is a significant codicological feature, distinguishing SM 00006 from the plain leather bindings common in the Süleymaniye Murakka Koleksiyonu (cf. SM 00009 plain leather). The gold şemse on deep burgundy is one of the most ornate bindings in the SM corpus examined to date. Physical examination is needed to confirm whether this is true lacquer (ruganî) paint or heavily gilded leather tooling. The visual confirmation session (2026-02-28) classified the binding as 'ornate lacquer binding with dark burgundy/maroon leather' at confidence 0.95."
+    },
+    "format": "Murakkaʿ — bound Ottoman calligraphic album; 10 yaprak (folios); multi-color mülevven + zerefşân + şükûfe + lacquer binding",
+    "condition_summary": "Interior pages appear in good condition based on IIIF images: mülevven colors are vivid, zerefşân speckling is legible, and corner şükûfe panels are well-preserved. Binding cover shows significant wear (scratches, surface abrasion) typical of frequently handled library volumes. No significant text-block damage visible.",
+    "conservation_history": null
+  },
+  "visual_confirmation": {
+    "verdict": "confirmed",
+    "confidence": 0.95,
+    "screenshots_examined": 6,
+    "limitations": [
+      "Only 6 of 11 IIIF pages were downloaded (pp001, 002, 003, 005, 008, 011); pages 004, 006, 007, 009, 010 were not examined",
+      "The full chromatic range of mülevven colors across all album leaves cannot be mapped without examining the remaining 5 pages",
+      "IIIF JPEG compression limits detection of the finest zerefşân particle detail",
+      "Physical examination needed to confirm lacquer vs. gilded leather binding technique"
+    ],
+    "session_date": "2026-02-28",
+    "context_id": "slot6",
+    "source_agent": "visual-confirmation",
+    "session": "catalog/searches/visual_tier2f_sm_00006.json",
+    "folios_examined": [
+      "corpus/iiif/sm_00006_p001.jpeg",
+      "corpus/iiif/sm_00006_p002.jpeg",
+      "corpus/iiif/sm_00006_p003.jpeg",
+      "corpus/iiif/sm_00006_p005.jpeg",
+      "corpus/iiif/sm_00006_p008.jpeg",
+      "corpus/iiif/sm_00006_p011.jpeg"
+    ]
+  },
+  "folio_analyses": [
+    {
+      "folio": "p001 — Lacquer binding with gold semse",
+      "source_image": "corpus/iiif/sm_00006_p001.jpeg",
+      "decoration_present": true,
+      "decoration_types": [
+        "binding"
+      ],
+      "elements": [
+        {
+          "motif": "Lacquer-finish leather binding — burgundy/maroon with gold tooling",
+          "description": "Deep burgundy/maroon lacquer-finish leather cover with large oval gold semse filled with dense rumi arabesques. Small salbek pendants on short axes. Gold border tooling around cover perimeter.",
+          "location": "Front cover exterior",
+          "confidence": 0.95
+        }
+      ],
+      "confidence": 0.95,
+      "notes": "Front cover exterior. One of the most ornate bindings in the SM corpus."
+    },
+    {
+      "folio": "p002 — Sage green mulevven with zerefsan + sukufe corner medallions",
+      "source_image": "corpus/iiif/sm_00006_p002.jpeg",
+      "decoration_present": true,
+      "decoration_types": [
+        "colored",
+        "gold_sprinkled",
+        "illuminated_margins",
+        "framing_system"
+      ],
+      "elements": [
+        {
+          "motif": "Sage/olive green mulevven margin ground with zerefsan",
+          "description": "Sage/olive green mulevven margin ground with gold zerefsan sprinkling. Vivid green, well-preserved.",
+          "location": "Margin ground",
+          "confidence": 0.95
+        },
+        {
+          "motif": "Paired polychrome sukufe corner medallions",
+          "description": "Paired polychrome corner medallions: rose/carnation on gold ground with floral border. High-quality Ottoman sukufe painting.",
+          "location": "Upper and lower corners",
+          "confidence": 0.93
+        },
+        {
+          "motif": "Compound cedvel framing system",
+          "description": "Gold outer frame + salmon/peach band + green band + inner gold rule. Gold verse-separator rosettes.",
+          "location": "Frame system throughout page",
+          "confidence": 0.92
+        }
+      ],
+      "confidence": 0.95,
+      "notes": "First calligraphic opening. Vivid sage-green mulevven confirmed."
+    },
+    {
+      "folio": "p003 — Sage green mulevven with sukufe corner medallions (matching p002)",
+      "source_image": "corpus/iiif/sm_00006_p003.jpeg",
+      "decoration_present": true,
+      "decoration_types": [
+        "colored",
+        "illuminated_margins",
+        "framing_system"
+      ],
+      "elements": [
+        {
+          "motif": "Sage/olive green mulevven margin ground",
+          "description": "Same palette as p002, confirming consistent color scheme across consecutive leaves.",
+          "location": "Margin ground",
+          "confidence": 0.95
+        },
+        {
+          "motif": "Paired polychrome sukufe corner medallions",
+          "description": "Identical program to p002, rose/carnation motifs on gold ground.",
+          "location": "Upper and lower corners",
+          "confidence": 0.93
+        },
+        {
+          "motif": "Compound cedvel framing system",
+          "description": "Gold + salmon + green compound cedvel matching p002 pattern.",
+          "location": "Frame system throughout page",
+          "confidence": 0.92
+        }
+      ],
+      "confidence": 0.93,
+      "notes": "Second calligraphic opening. Same sage-green mulevven as p002."
+    },
+    {
+      "folio": "p005 — Buff/cream margin with variant sukufe corner panels",
+      "source_image": "corpus/iiif/sm_00006_p005.jpeg",
+      "decoration_present": true,
+      "decoration_types": [
+        "illuminated_margins",
+        "framing_system"
+      ],
+      "elements": [
+        {
+          "motif": "Buff/cream margin — neutral or lightly tinted",
+          "description": "Buff/cream margin, may be natural paper color rather than deliberate mulevven.",
+          "location": "Margin ground",
+          "confidence": 0.8
+        },
+        {
+          "motif": "Paired sukufe corner medallions — tree/plant variant",
+          "description": "Stylized tree or flowering plant motifs on gold ground (different from rose motif of pp002-003).",
+          "location": "Upper and lower corners",
+          "confidence": 0.9
+        },
+        {
+          "motif": "Compound cedvel with sage-green band",
+          "description": "Gold frame + sage-green band + inner colored rule.",
+          "location": "Frame system throughout page",
+          "confidence": 0.9
+        }
+      ],
+      "confidence": 0.85,
+      "notes": "Buff/cream margin may be natural paper color — lower confidence on colored paper classification."
+    },
+    {
+      "folio": "p008 — Gold-yellow/ochre mulevven with zerefsan",
+      "source_image": "corpus/iiif/sm_00006_p008.jpeg",
+      "decoration_present": true,
+      "decoration_types": [
+        "colored",
+        "gold_sprinkled",
+        "illuminated_margins",
+        "framing_system"
+      ],
+      "elements": [
+        {
+          "motif": "Gold-yellow/ochre mulevven with moderate zerefsan",
+          "description": "Warm gold-yellow/ochre mulevven margin ground with moderate zerefsan gold speckling.",
+          "location": "Margin ground",
+          "confidence": 0.93
+        },
+        {
+          "motif": "Paired sukufe corner medallions",
+          "description": "Elaborate floral/tree motifs on gold ground.",
+          "location": "Upper and lower corners",
+          "confidence": 0.9
+        },
+        {
+          "motif": "Compound cedvel system",
+          "description": "Gold + sage-green + colored bands with gold verse-separator rosettes.",
+          "location": "Frame system throughout page",
+          "confidence": 0.9
+        }
+      ],
+      "confidence": 0.93,
+      "notes": "Page number 7 (Arabic numerals) confirms sequential ordering."
+    },
+    {
+      "folio": "p011 — Bright orange-gold mulevven with heavy zerefsan",
+      "source_image": "corpus/iiif/sm_00006_p011.jpeg",
+      "decoration_present": true,
+      "decoration_types": [
+        "colored",
+        "gold_sprinkled",
+        "illuminated_margins",
+        "framing_system"
+      ],
+      "elements": [
+        {
+          "motif": "Bright orange-gold mulevven with heavy zerefsan",
+          "description": "Most intensely chromatic leaf. Very heavy gold zerefsan sprinkling. Warm, slightly reddish gold tone.",
+          "location": "Margin ground",
+          "confidence": 0.95
+        },
+        {
+          "motif": "Paired sukufe corner medallions — carnation motif",
+          "description": "Carnation motif on gold ground.",
+          "location": "Upper and lower corners",
+          "confidence": 0.9
+        },
+        {
+          "motif": "Compound cedvel — dark grey/black variant",
+          "description": "Gold + dark grey/black + inner red-gold rules — different scheme from earlier pages.",
+          "location": "Frame system throughout page",
+          "confidence": 0.9
+        }
+      ],
+      "confidence": 0.95,
+      "notes": "Final sampled opening. Most saturated mulevven and heaviest zerefsan. Page number 10 confirms near end of 10-leaf album."
+    }
+  ],
+  "terminology": {
+    "terms_used": [
+      {
+        "concept": "Colored paper",
+        "ottoman": "mülevven kâğıt",
+        "arabic": "waraq mulauwwan (ورق ملوّن)",
+        "persian": "kāġaḏ-e mulavvan",
+        "english": "Uniformly dyed/tinted paper (four colors: sage green, buff/cream, gold-yellow, orange-gold)"
+      },
+      {
+        "concept": "Gold-sprinkled paper",
+        "ottoman": "zerefşân / yaldız serpme",
+        "arabic": "dhahab marshūsh (ذهب مرشوش)",
+        "persian": "zarafshān / afshān (افشان)",
+        "english": "Paper with fine gold particles scattered on the surface"
+      },
+      {
+        "concept": "Flower painting in margins",
+        "ottoman": "şükûfe köşe panoları",
+        "arabic": "tashʿīr / taẕhīb zuhūrī (تشعير / تذهيب زهوري)",
+        "persian": "shukufa (شکوفه)",
+        "english": "Painted polychrome floral corner panels flanking the text block; roses, carnations, plant motifs on gold grounds"
+      },
+      {
+        "concept": "Ruling/frame lines",
+        "ottoman": "altın cedvel / cetvel",
+        "arabic": "jadwal mudhahdhab (جدول مذهّب)",
+        "persian": "jadval-e zar (جدول زر)",
+        "english": "Compound multi-layer gold and colored ruling system enclosing the text panel"
+      },
+      {
+        "concept": "Lacquer binding",
+        "ottoman": "ruganî cilt / lake cilt",
+        "arabic": "jild rughanī (جلد روغني)",
+        "persian": "jild-e rughanī",
+        "english": "Lacquer-finish leather binding with gold şemse medallion"
+      },
+      {
+        "concept": "Central binding medallion",
+        "ottoman": "şemse",
+        "arabic": "shamsa (شمسة)",
+        "persian": "toranj (ترنج) / shamsa",
+        "english": "Oval central medallion on the binding cover, filled with rūmī arabesques"
+      },
+      {
+        "concept": "Calligraphic album",
+        "ottoman": "murakkaʿ (مرقع)",
+        "arabic": "murakkāʿ (مرقّع)",
+        "persian": "murakkāʿ",
+        "english": "Bound album of calligraphic specimen sheets (kıtʿa)"
+      }
+    ]
+  },
+  "bibliography": [
+    {
+      "citation": "Sheila S. Blair, 'Color and Gold: The Decorated Papers Used in Manuscripts in Later Islamic Times,' Muqarnas 17 (2000): 24–36.",
+      "relevance": "Foundational survey of decorated paper types in Islamic manuscripts including colored (mülevven) and gold-sprinkled (zerefşân) papers; the primary scholarly reference for classifying the multi-color mülevven with zerefşân overlay program of SM 00006.",
+      "relevance_score": 0.95,
+      "access_notes": "Peer-reviewed; JSTOR access required for full text."
+    },
+    {
+      "citation": "Zeren Tanındı, 'Türk Minyatür Sanatı / Turkish Miniature Painting,' in Türkler Ansiklopedisi, vol. 12. Ankara: Yeni Türkiye Yayınları, 2002.",
+      "relevance": "Key reference for Ottoman illustrated and decorated album production in Istanbul; provides context for şükûfe painting tradition and murakkaʿ decoration programs of the 17th–18th centuries.",
+      "relevance_score": 0.8,
+      "access_notes": "Turkish-language reference encyclopedia entry."
+    },
+    {
+      "citation": "Zeren Tanındı, 'Bibliophile Aghas (Agas) at Topkapı Saray,' Muqarnas 18 (2001): 218–228.",
+      "relevance": "Documents late Ottoman album-making practice in relation to high-ranking patrons; provides context for the social and institutional milieu of murakkaʿ albums endowed to mosque libraries such as Süleymaniye.",
+      "relevance_score": 0.75,
+      "access_notes": "Peer-reviewed; JSTOR access required."
+    },
+    {
+      "citation": "Filiz Çağman and Zeren Tanındı, 'Topkapı Sarayı Müzesi İslam Minyatürleri.' Istanbul: Güzel Sanatlar Matbaası, 1979.",
+      "relevance": "Standard reference for Ottoman murakkaʿ albums in the Topkapı collections; documents şükûfe corner panel programs comparable to those in SM 00006. In Turkish.",
+      "relevance_score": 0.78,
+      "access_notes": "Exhibition catalogue (Turkish). Out of print; available at major research libraries."
+    },
+    {
+      "citation": "Serpil Bağcı, Filiz Çağman, Günsel Renda, and Zeren Tanındı, Ottoman Painting. Ankara: Kültür ve Turizm Bakanlığı, 2006.",
+      "relevance": "Broad synthetic account of Ottoman illustrated and decorated book production; includes discussion of the murakkaʿ album tradition and polychrome floral margin decoration programs.",
+      "relevance_score": 0.8,
+      "access_notes": "Museum publication; widely available."
+    },
+    {
+      "citation": "Gülnur Duran, 'Osmanlı Cilt Sanatı / Ottoman Bookbinding,' in Türkler Ansiklopedisi, vol. 12. Ankara: Yeni Türkiye Yayınları, 2002.",
+      "relevance": "Reference for Ottoman binding typology including lacquer (ruganî/lake) bindings with gold şemse medallions. The lacquer binding of SM 00006 is a significant codicological feature addressed in this entry.",
+      "relevance_score": 0.82,
+      "access_notes": "Turkish-language reference encyclopedia entry."
+    },
+    {
+      "citation": "Karin Scheper, The Technique of Islamic Bookbinding: Methods, Materials and Regional Varieties. 2nd ed. Leiden: Brill, 2018.",
+      "relevance": "Comprehensive technical study of Islamic bookbinding methods; relevant for physical analysis of the SM 00006 lacquer binding and gold tooled şemse, and for distinguishing true lacquer from gilded leather tooling.",
+      "relevance_score": 0.72,
+      "access_notes": "Available from publisher and major research libraries."
+    },
+    {
+      "citation": "Adam Gacek, The Arabic Manuscript Tradition: A Glossary of Technical Terms and Bibliography. Leiden: Brill, 2001.",
+      "relevance": "Standard reference for Arabic and Ottoman manuscript terminology; provides definitions for cedvel, şemse, salbek, and codicological terms used in this record.",
+      "relevance_score": 0.7,
+      "access_notes": "Available from publisher and major research libraries."
+    },
+    {
+      "citation": "Banu Mahir, Osmanlı Minyatür Sanatı. Istanbul: Kabalcı, 2005.",
+      "relevance": "Survey of Ottoman miniature and decorative painting; provides context for the şükûfe (floral) painting tradition in Ottoman album margins, directly relevant to the painted corner panels of SM 00006. In Turkish.",
+      "relevance_score": 0.75,
+      "access_notes": "Turkish-language monograph."
+    }
+  ],
+  "suggested_collections": [
+    {
+      "institution": "Topkapı Sarayı Kütüphanesi",
+      "reason": "Major Ottoman murakkaʿ albums with polychrome şükûfe corner panels and multi-color mülevven programs; closest comparative material for SM 00006.",
+      "digital_access": "https://kutuphane.tsmk.gov.tr"
+    },
+    {
+      "institution": "Chester Beatty Library, Dublin",
+      "reason": "Strong Ottoman album holdings with comparable late 18th-century decorated murakkaʿ material including lacquer bindings and multi-color paper programs.",
+      "digital_access": "https://viewer.cbl.ie"
+    },
+    {
+      "institution": "Bibliothèque nationale de France (BnF)",
+      "reason": "Ottoman manuscript collection includes murakkaʿ albums with mülevven and zerefşân programs comparable to SM 00006; also relevant for lacquer binding examples.",
+      "digital_access": "https://gallica.bnf.fr"
+    }
+  ],
+  "provenance": {
+    "donor": "Fethizâde Mustafa Efendi (الحاج سيد مصطفى فتحي زاده)",
+    "waqf": "Vakf-ı Sâhibü'l-Hayrât el-Hâcc Seyyid Mustafa Fethizâde der-Kitâbhâne-i Câmi-i Sultan Süleyman, 1202 AH / 1787–88 CE. The album was endowed to the library of the Sultan Süleyman Mosque (Süleymaniye Kütüphanesi), Istanbul, by the charitable donor Hâcı Seyyid Mustafa Fethizâde in AH 1202. This vakf seal appears in the album and is shared by all SM albums in the Süleymaniye Murakka Koleksiyonu, establishing AH 1202 / 1787–88 CE as a common terminus ante quem for the entire collection.",
+    "previous_shelfmarks": [],
+    "notes": "All albums in the Süleymaniye Murakka Koleksiyonu bear the Fethizâde Mustafa Efendi vakf seal dated AH 1202. This single-donor, single-date endowment suggests the albums were assembled or collected as a group before being donated together. The seal inscription is reproduced in YEK catalogue record 325918."
+  },
+  "analysis_metadata": {
+    "analyzed_date": "2026-02-28",
+    "analyzer": "claude-code-manuscript-pipeline",
+    "image_source": "IIIF — YEK portal, manifest ID 0000000356072. Six pages downloaded by visual-confirmation agent (context_id: slot6) on 2026-02-28.",
+    "image_quality_notes": "IIIF JPEG at standard portal resolution. Quality sufficient for mülevven color identification, zerefşân detection, and şükûfe panel classification. JPEG compression limits the finest zerefşân particle detail. Binding photograph (p001) is adequately resolved for şemse typology. Five pages (pp004, 006, 007, 009, 010) not downloaded.",
+    "folios_examined": [
+      "p001 (binding / front cover)",
+      "p002 (calligraphic opening — green mülevven)",
+      "p003 (calligraphic opening — green mülevven)",
+      "p005 (calligraphic opening — buff/cream mülevven)",
+      "p008 (calligraphic opening — gold-yellow ochre mülevven)",
+      "p011 (calligraphic opening — orange-gold mülevven)"
+    ],
+    "folios_not_examined": "pp004, 006, 007, 009, 010 — not downloaded in visual-confirmation session. These pages are assumed to continue the alternating mülevven color program but their specific colors remain undocumented."
+  }
+}

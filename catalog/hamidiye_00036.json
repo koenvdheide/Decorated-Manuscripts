@@ -1,0 +1,566 @@
+{
+  "record_id": "hamidiye_00036",
+  "collection": {
+    "institution": "Süleymaniye Kütüphanesi — Hamidiye Koleksiyonu",
+    "city": "Istanbul",
+    "country": "Turkey",
+    "shelfmark": "00036",
+    "yek_url": "https://portal.yek.gov.tr/works/detail/265211",
+    "yek_id": "265211",
+    "iiif_id": "0000000289478"
+  },
+  "manuscript": {
+    "title": "Muraqqaʿāt / مرقعات",
+    "title_script": "مرقعات",
+    "title_alt": "Hâfız Osmân Muraqqaʿı — Taʿlîk Kıtʿalar",
+    "author": null,
+    "author_dates": null,
+    "calligrapher": "Hâfız Osmân (حافظ عثمان)",
+    "calligrapher_dates": "c. 1052–1110 AH / c. 1642–1698 CE",
+    "calligrapher_note": "Hâfız Osmân (d. 1110/1698) is one of the three canonical pillars of Ottoman calligraphy alongside Şeyh Hamdullah (d. 926/1520) and Ahmed Karahisârî (d. 963/1556). He is especially celebrated for his perfection of the nesih and sülüs hands, and his influence dominated Ottoman calligraphic practice through the 19th century. The YEK catalogue and the album's cover label both attribute this album directly to Hâfız Osmân. The front page (p001) bears a label cartouche reading 'Hâfız Osmân mürakkabı / taʿlîk kıtʿa / adad 3 adad' — identifying the album as 'the album of Hâfız Osmân, taʿlîk specimen sheets, 3 in number.' The three calligraphy pages (pp005–007) present the muravvak (diagonal) taʿlîk format associated with Hâfız Osmân's circle in the late 17th century. Attribution is firm on the basis of the cover label and YEK record; no signed ketebe (colophon) is visible in the available images but the catalogue description is explicit.",
+    "date_ah": null,
+    "date_ce": null,
+    "date_ah_note_discrepancy": "AH 914 was noted in preliminary triage. This date is impossible for Hâfız Osmân's autograph work: AH 914 = CE 1508–09, predating his birth by approximately 130 years. Three possible explanations: (1) the triage note misread the numeral — 914 could be an error for 1114 AH (= CE 1702–03) or another plausible date; (2) the date in the record refers to the calligraphic text being copied (a classical work composed or first transcribed in AH 914), not the album's production date; (3) it is a library shelfmark or accession number misread as a date. The YEK catalogue does not record a production date. This field is set to null pending physical examination of the album and clarification of the source of the AH 914 figure.",
+    "date_note": "No production date is given in the YEK catalogue record. The attribution to Hâfız Osmân (d. 1110/1698) places the album before or at 1110 AH / 1698 CE. The decorative program — hatip ebru endpapers, zerefşân margins, halkar kıtʿa panels — is consistent with late 17th-century Istanbul luxury album production, likely from the 1680s–1698 range. Date null pending physical examination or archival research.",
+    "place_of_copy": "Istanbul (probable)",
+    "format": "Muraqqaʿ / مرقع — calligraphic album of 3 kıtʿa in muravvak (diagonal) taʿlîk with hatip ebru endpapers, zerefşân margins, and halkar-filled triangular panels",
+    "format_note": "A compact Ottoman calligraphic album (muraqqaʿ) consisting of 3 leaves (7 pages including covers) containing 3 kıtʿa-i hat (calligraphic specimen sheets) in taʿlîk script written in the distinctive muravvak (diagonal) format. Each kıtʿa presents text in two facing triangular zones separated by an X-shaped diagonal composition; the triangular corner fills are richly decorated with halkar (gold floral painting on a gold ground). The album is enclosed within full-page hatip ebru endpapers and bound in plain red leather. The exterior cover page (p001) carries a dense boya efşân or zerefşân speckled decoration (see paper_decoration notes on p001 ambiguity).",
+    "language": "Persian (probable — taʿlîk script; content appears to be Persian poetry based on muravvak format conventions)",
+    "script": "Taʿlîk (تعلیق) — specifically the muravvak (diagonal/oblique) kıtʿa format associated with Persian and Ottoman taʿlîk practice. Per YEK catalogue: 'Arap harfli — Talik'",
+    "dimensions_mm": {
+      "height": 205,
+      "width": 145,
+      "writing_area_mm": {
+        "height": 130,
+        "width": 70
+      },
+      "note": "Overall dimensions 205×145 mm; text area 130×70 mm per YEK catalogue. Compact album format, characteristic of Ottoman pocket-sized muraqqaʿāt."
+    },
+    "folio_count": 3,
+    "page_count": 7,
+    "notes": "The YEK catalogue describes '3 yk., 4 st.' — 3 leaves (yaprak), 4 columns (sütun). This translates to 7 pages including front and back covers: p001 (cover/title page), p002 (inside cover/ownership page), pp003–004 (hatip ebru endpaper opening, each side of one leaf), pp005–007 (3 calligraphy kıtʿa, each on one side of the three content leaves). The album's 3 calligraphy leaves are the 'adad 3' referenced on the title label. The binding format means p001 is the front cover face and p002 is its verso/inside, which carries the vakf seal and ownership inscription."
+  },
+  "paper_decoration": {
+    "types": [
+      "marbled",
+      "gold_sprinkled",
+      "halkar_margins",
+      "illuminated_margins",
+      "framing_system",
+      "colored"
+    ],
+    "summary": "Hamidiye 00036 exhibits one of the most complete and varied decorated paper programs in the project's muraqqaʿ corpus: four distinct decoration techniques are deployed across the album's seven pages, each assigned to a specific structural zone. (1) BOYA EFŞÂNor ZEREFŞÂN — front cover/title page (p001): the entire surface of the cover page is covered with dense fine speckles in red/brown/pink tones on a warm off-white or cream ground. The speckles are fine and very uniformly distributed across the full page surface, including the area around the title label cartouche. At IIIF native resolution the speckles appear matte rather than metallic, consistent with boya efşân (pigment-sprinkled) rather than zerefşân (gold-sprinkled); however metallic lustre cannot be definitively excluded without physical examination. This is the album's most ambiguous decoration type and is flagged for physical examination. (2) HATIP EBRU — guard/endpaper leaves (pp003–004): two facing full-page hatip ebru leaves form the innermost endpaper opening of the album. The hatip ebru presents three colors on a cream/white ground: (a) salmon/apricot large rounded leaf-blob forms — the dominant shapes, rounded and slightly irregular; (b) green medium-scale leaf forms with characteristic stippled/dotted internal texture created by the biz (stylus) drawing action; (c) dark grey-brown rounded dense stippled forms. All three motif types show the characteristic internal texture of hatip ebru created by the stylus drawing. The two pages are from the same printing session (same palette) but show different compositions, confirming a genuine facing endpaper pair. (3) ZEREFŞÂN — outer margins of calligraphy pages (pp005–007): the wide outer margins of all three calligraphy kıtʿa pages carry zerefşân (gold-sprinkled) paper. The ground is a warm buff/tan-beige or slightly grey-toned paper, and the sprinkling appears as dark-on-light speckles at this resolution — consistent with oxidized or tarnished gold zerefşân, or possibly a dark-colored boya efşân. The margin decoration is uniform across all three calligraphy pages. (4) HALKAR — triangular panel fills (pp005–007): within the muravvak (diagonal) kıtʿa composition on each of the three calligraphy pages, the triangular corner zones flanking the diagonal text bands are filled with dense halkar (shaded gold floral painting). The halkar presents a gold ground with red/pink small flowers or rosettes and gold vine-scroll/arabesque brushwork. This is a distinctive feature of the muravvak kıtʿa format and represents some of the finest floral painting in the project corpus. The combination of hatip ebru endpapers + zerefşân margins + halkar panel fills + cedvel framing constitutes an integrated luxury decorative program of the highest quality for a late 17th-century Ottoman muraqqaʿ.",
+    "distribution_notes": "p001 (front cover / title page): boya efşân or zerefşân sprinkling on entire page surface. p002 (inside cover / colophon page): undecorated. pp003–004 (hatip ebru endpaper opening): full-page hatip ebru, three colors (salmon, green, dark brown). pp005–007 (calligraphy kıtʿa pages, 3 leaves): wide outer margins in zerefşân; triangular panel corner fills in halkar; multi-line cedvel framing; lobed shamsa medallion upper left corner of each page. The album's cover (p001) is unusual in receiving speckled decoration rather than being plain leather, suggesting the 'cover' here may actually be a decorated paper flyleaf bound to the outside of the leather covers.",
+    "technique_terms": {
+      "ottoman": "hatip ebru (imam mermeri); zerefşân (altın yaldız serpme) veya boya efşân (boyalı serpme); halkârî (altın çiçek resmi); muravvak kıtʿa (diyagonal hat düzeni); altın cetvelli; şemse (bulutlu madalyon)",
+      "persian": "hatīb abrī (خطیب ابری) — imam's marbling; zar-afshān (زر افشان) — gold-sprinkled; rang-afshān (رنگ افشان) — color-sprinkled; halkārī (حلکاری) — shaded gold margin painting; qiṭʿa-yi muravvaq (قطعه مروق) — diagonal specimen sheet",
+      "arabic": "waraq muzakhraf (ورق مزخرف) — decorated paper; jadwal mudhahdhab (جدول مذهّب) — gold-ruled frame; shamsa (شمسة) — medallion"
+    },
+    "p001_ambiguity_note": "The speckled decoration on p001 (the front cover/title page) presents a diagnostic ambiguity: the speckles appear matte and red/brown/pink in tone rather than metallic gold, which would identify the technique as boya efşân (pigment-sprinkled paper, rangafshān in Persian). However, gold zerefşân can tarnish or oxidize to a dark reddish-brown or grey tone over centuries, potentially mimicking the appearance of boya efşân. At the 1920×2560 IIIF resolution, no metallic lustre or reflective quality is visible in the speckles. Physical examination under raking light and/or spectroscopic analysis (XRF or Raman spectroscopy) would resolve this ambiguity definitively. The corpus comparandum Vahid Paşa 01220 (confirmed boya efşân) is the closest parallel for physical comparison. For cataloguing purposes this element is typed as 'colored' (boya efşân probable) with a confidence note.",
+    "catalogue_description": {
+      "paper_field": null,
+      "paper_field_normalized": null,
+      "paper_field_translation": null,
+      "notes_field": "Hamidiye Murakka 00036. Murakka'at. 3 yk., 4 st. 205x145-130x70 mm. Arap harfli-Talik.",
+      "notes_field_normalized": "Hamidiye Murakka 00036. Muraqqaʿāt. 3 yk., 4 st. 205×145–130×70 mm. Arap harfli — Talik.",
+      "notes_field_translation": "Hamidiye Album no. 36. Calligraphic album. 3 leaves, 4 columns. 205×145 – 130×70 mm. Arabic-scripted — Taʿlîk.",
+      "decoration_field": "Hatip ebru + zerefşân + halkârî (per visual confirmation; YEK catalogue does not have a separate decoration field for this record)",
+      "source": "YEK portal, record 265211, Süleymaniye Kütüphanesi — Hamidiye Koleksiyonu. Catalogued under the Hamidiye collection series. Paper decoration observations derive from visual examination of IIIF images (7 pages at 1920×2560 / 2560×1920 native resolution) and visual confirmation verdict in catalog/searches/visual_tier2_hamidiye_00036.json."
+    }
+  },
+  "workshop_attribution": {
+    "primary_tradition": "ottoman",
+    "workshop_centre": "Istanbul",
+    "date_range_ce": "late 17th century (c. 1680–1698)",
+    "confidence": 0.88,
+    "key_indicators": [
+      "Cover label explicitly identifies the album as 'Hâfız Osmân mürakkabı' — the album of Hâfız Osmân (d. 1110/1698), placing production in Istanbul before 1698",
+      "Muravvak (diagonal) taʿlîk kıtʿa format is characteristic of Ottoman Istanbul calligraphic practice in the late 17th century, particularly associated with the Persian-Ottoman taʿlîk tradition cultivated in Istanbul court circles",
+      "Hatip ebru in the three-color (salmon/green/dark brown) palette is the most prestigious Ottoman marbling subtype and is consistently associated with Istanbul luxury album production in the 17th–18th centuries",
+      "Halkar floral painting in the triangular kıtʿa corner fills reflects the Istanbul nakkaşhane tradition of late 17th-century illumination, with small polychrome flowers on gold ground",
+      "The multi-layer altın cedvel (gold ruling) framing system with pink inner bands and gold outer frames is standard for Istanbul luxury muraqqaʿāt of the Hâfız Osmân period"
+    ],
+    "cross_tradition_caveats": [
+      "No ketebe signature or production date is independently legible in the available images; attribution to Hâfız Osmân's own hand rests on the cover label and YEK catalogue record",
+      "The album could postdate Hâfız Osmân's death (1698) if it was assembled from his kıtʿalar by a later collector or if the cover label was added after the fact",
+      "Hatip ebru papers were produced by specialist marblers (hatip) in Istanbul; the specific marbling atelier cannot be identified without additional documentation",
+      "The boya efşân / zerefşân ambiguity on p001 (cover) does not affect workshop attribution but may indicate material sourcing from more than one specialist supplier"
+    ]
+  },
+  "codicology": {
+    "paper": {
+      "color": "Three distinct paper types: (1) Warm off-white/cream with dense red/brown boya efşân or zerefşân sprinkling (p001, cover); (2) Plain undecorated cream (p002, inside cover); (3) Cream/white with hatip ebru in salmon, green, and dark brown (pp003–004, endpapers); (4) Warm buff/tan with zerefşân sprinkling in outer margins, and cream âharlı paper in calligraphy panels (pp005–007).",
+      "preparation": "Calligraphy panels (pp005–007) are written on âharlı (sized and burnished) cream paper of high quality, consistent with Istanbul luxury calligraphy paper of the late 17th century. The hatip ebru endpapers (pp003–004) show the characteristic smooth surface of marbled paper prepared on a gum-tragacanth or similar size. The zerefşân margin papers of pp005–007 are attached as border strips around the central calligraphy panels — the vassale mounting technique cannot be confirmed or excluded at this resolution, but the clean rectangular junction between margin paper and panel paper is consistent with mounted rather than integral construction.",
+      "weight": "Indeterminate from IIIF images. Standard Ottoman luxury album weight expected; hatip ebru papers tend to be slightly heavier than plain paper due to pigment absorption.",
+      "decoration": "Boya efşân or zerefşân (p001); hatip ebru three-color (pp003–004); zerefşân on tan/buff outer margins (pp005–007); halkar floral painting in triangular panel corners (pp005–007); altın cedvel multi-layer ruling (pp005–007); lobed shamsa medallions in upper left of each kıtʿa (pp005–007).",
+      "paper_type": "Eastern/Oriental paper for calligraphy panels; specialist decorated papers (hatip ebru, zerefşân) for endpapers and margins."
+    },
+    "ruling": {
+      "system": "Multi-layer altın cedvel (gold ruling) framing each calligraphy panel: (from outside in) zerefşân outer margin paper; gold outer cetvel; pink/rose middle band; gold inner cetvel; thin additional ruling immediately around the calligraphy zone.",
+      "description": "Each of the three calligraphy kıtʿa pages (pp005–007) is framed by an elaborate cedvel system clearly legible in the IIIF images. Reading from the outer edge inward: (1) wide outer margin of zerefşân paper; (2) gold outer cetvel (wide gold ruling line); (3) narrow pink/rose colored band (approximately 2–3 mm); (4) gold inner cetvel; (5) possibly a further thin gold or black rule immediately surrounding the muravvak text zone. Within the calligraphy zone, the diagonal (muravvak) text fills two opposing triangular areas of cream paper, with the halkar-decorated triangular fills completing the rectangular panel. The combination of gold outer + pink middle + gold inner cetvels is a refined variant of the altın cetvelli framing type characteristic of Istanbul late 17th-century luxury muraqqaʿāt. A lobed cloud-form shamsa medallion in black and gold appears in the upper left corner of each calligraphy page, above or alongside the frame, consistent with the Ottoman convention for marking the album's opening with a marker."
+    },
+    "binding": {
+      "cover_description": "Both front (p001 exterior) and back covers visible through the IIIF sequence are plain red/brown leather. No gilt shamsa or tooled decoration is visible on the exterior covers at the current image resolution — the exterior binding face is not captured as a separate image in this IIIF sequence; p001 as captured shows the interior/recto of what appears to be a decorated paper page attached inside the front cover. The red leather binding is visible at the edges of pp003–004 (hatip ebru pages), confirming the binding is red/brown leather, consistent with standard Ottoman album bindings of the late 17th century.",
+      "cover_type": "Red/brown leather binding — standard Ottoman muraqqaʿ binding",
+      "doublure": "p001 serves as the decorated cover/title page — a paper leaf pasted or mounted as the innermost face of the front cover, carrying the boya efşân / zerefşân decoration and the title label. This arrangement (decorated paper as the presented face of the cover) is documented in Ottoman album practice.",
+      "notes": "The red leather binding visible at the margins of pp003–004 is in good condition with no signs of major rebinding. The compact format (205×145 mm) is consistent with Ottoman portable muraqqaʿāt designed for personal use or presentation."
+    },
+    "format": "Muraqqaʿ — compact Ottoman calligraphic album, 3 kıtʿa leaves (7 pages including cover sequence)",
+    "condition_summary": "The album is generally well preserved. The hatip ebru endpapers (pp003–004) retain vivid, saturated colors — the salmon, green, and dark brown tones are strong and undimmed. The calligraphy pages (pp005–007) are legible with clear gold cetvels and readable taʿlîk script. The ownership/colophon page (p002) shows some foxing and yellowing consistent with age. The cover/title page (p001) shows the boya efşân or zerefşân decoration intact across the entire surface; some faint earlier inscriptions are partially visible through the speckling, suggesting the decorated paper may have been applied over a previously written page. No catastrophic damage, missing leaves, or major repair campaigns are visible in the IIIF sequence.",
+    "conservation_history": null
+  },
+  "visual_confirmation": {
+    "verdict": "confirmed",
+    "confidence": 0.93,
+    "screenshots_examined": 7,
+    "folios_examined": [
+      "corpus/iiif/hamidiye_00036_p001.jpg",
+      "corpus/iiif/hamidiye_00036_p002.jpg",
+      "corpus/iiif/hamidiye_00036_p003.jpg",
+      "corpus/iiif/hamidiye_00036_p004.jpg",
+      "corpus/iiif/hamidiye_00036_p005.jpg",
+      "corpus/iiif/hamidiye_00036_p006.jpg",
+      "corpus/iiif/hamidiye_00036_p007.jpg"
+    ],
+    "visual_evidence": "All 7 pages examined at native IIIF resolution (1920×2560 or 2560×1920). Hatip ebru (pp003–004): fully confirmed — three-color (salmon/green/dark brown) full-page marbling in classic hatip ebru style with characteristic biz-drawn internal textures. Zerefşân margins (pp005–007): confirmed — warm buff/tan paper with visible dark sprinkling in outer margin zones surrounding all three calligraphy panels. Halkar (pp005–007): confirmed — triangular panel fills with floral gold and red painting in muravvak corner zones. Cedvel framing (pp005–007): confirmed — multi-layer gold and pink ruling systems visible on all three kıtʿa pages. Shamsa medallions (pp005–007): confirmed — lobed cloud-form medallions in upper left of each kıtʿa. Cover decoration (p001): confirmed — dense fine-grained red/brown sprinkling across entire page surface, technique ambiguous between boya efşân and zerefşân.",
+    "limitations": [
+      "The metallic or non-metallic character of the p001 cover sprinkling cannot be determined at available resolution; XRF or Raman spectroscopy required for definitive boya efşân vs. zerefşân identification",
+      "The zerefşân on pp005–007 outer margins appears dark/oxidized; confirmation of gold (vs. other metallic or pigment) requires raking-light or spectroscopic examination",
+      "The halkar brushwork technique (taramalı vs. tahrirli) in the triangular corner fills cannot be determined at available resolution; physical examination under magnification required",
+      "The muravvak kıtʿa content (Persian poetry or other text) is not fully transcribed; further reading of the taʿlîk text is recommended",
+      "No ketebe (colophon) inscription is independently legible in the IIIF sequence; attribution to Hâfız Osmân rests on the cover label and YEK catalogue"
+    ],
+    "source_agent": "metadata-generator (direct IIIF examination)",
+    "session": "catalog/searches/visual_tier2_hamidiye_00036.json"
+  },
+  "folio_analyses": [
+    {
+      "folio": "Cover / title page (IIIF p001)",
+      "source_image": "corpus/iiif/hamidiye_00036_p001.jpg",
+      "image_dimensions": "1920×2560 px",
+      "decoration_present": true,
+      "decoration_types": ["colored"],
+      "elements": [
+        {
+          "motif": "Dense fine-grained sprinkling — boya efşân or zerefşân (ambiguous)",
+          "description": "The entire surface of the cover/title page is covered with dense, fine, uniformly distributed speckles in red-brown, rust, and pink tones on a warm off-white/cream ground. The speckle density is very high — the speckles cover approximately 70–80% of the visible surface, leaving only minimal cream ground between them. The speckles are fine-grained (under 1 mm in apparent diameter) and appear matte rather than reflective at this resolution. The overall tone of the page is warm red-brown rather than gold. A small number of slightly larger red/orange flecks are visible amidst the finer speckling. The technique is consistent with either boya efşân (red/brown pigment scattered by brush-flicking) or zerefşân with heavily oxidized/tarnished gold particles that have lost their metallic lustre. The closest corpus parallel is Vahid Paşa 01220 (confirmed boya efşân: red/pink sprinkling as full-page endpapers). However, oxidized zerefşân can also appear similarly dark and matte. Physical examination required for resolution.",
+          "location": "Full page surface, including area around title label",
+          "confidence": 0.75,
+          "technique_note": "Classified as 'colored' (boya efşân probable) for cataloguing purposes; 'gold_sprinkled' (zerefşân oxidized) cannot be excluded. Flag for physical examination."
+        },
+        {
+          "motif": "Title label cartouche",
+          "description": "In the upper quarter of the page, a small rectangular label cartouche with a gold-ruled border contains an inscription in Ottoman Turkish (or Persian) identifying the album. The text reads: 'Hâfız Osmân mürakkabı / taʿlîk kıtʿa / adad 3 adad' — 'The album of Hâfız Osmân / taʿlîk specimen sheets / number: 3.' This label is the primary attribution evidence for the calligrapher.",
+          "location": "Upper quarter, centre",
+          "confidence": 0.90
+        },
+        {
+          "motif": "Süleymaniye Hamidiye stamp",
+          "description": "A circular red ink stamp in the upper right corner reads 'Süleymaniye Hamidiye 36' — the library's collection stamp, confirming the current holding institution and shelfmark.",
+          "location": "Upper right",
+          "confidence": 0.99
+        }
+      ],
+      "confidence": 0.75,
+      "notes": "The boya efşân / zerefşân ambiguity is the primary unresolved question for this page. See paper_decoration.p001_ambiguity_note for full discussion. Corpus comparandum: Vahid Paşa 01220 (boya efşân, URGENT XRF). Some faint traces of earlier inscription are visible through the sprinkling layer, possibly indicating the decorated paper was applied over a used leaf."
+    },
+    {
+      "folio": "Inside cover / colophon page (IIIF p002)",
+      "source_image": "corpus/iiif/hamidiye_00036_p002.jpg",
+      "image_dimensions": "2560×1920 px",
+      "decoration_present": false,
+      "decoration_types": ["none"],
+      "elements": [
+        {
+          "motif": "Vakf seal (circular, black ink)",
+          "description": "A large circular ink seal occupies the upper centre of the page. The seal contains densely written Arabic text in multiple registers, including a pious formula and ownership/donation inscription. The outer ring of the seal reads '...Süleymaniye...' confirming the Süleymaniye vakfı (foundation). This is a standard vakf seal indicating the manuscript's endowment to the Süleymaniye library.",
+          "location": "Upper centre",
+          "confidence": 0.98
+        },
+        {
+          "motif": "Ownership inscription in taʿlîk / talik (cascading heart arrangement)",
+          "description": "Below the seal, a lengthy ownership or transmission inscription is written in taʿlîk script arranged in a cascading triangular or tear-drop composition. The text diminishes in line length from top to bottom, creating a characteristic calligraphic display form. The content includes names and possibly dates related to ownership history.",
+          "location": "Centre, below seal",
+          "confidence": 0.85
+        },
+        {
+          "motif": "Library label — Süleymaniye Hamidiye 36",
+          "description": "A rectangular library accession card/label reads 'Süleymani[ye] / r Hamidiye / 36' — confirming the collection and shelfmark.",
+          "location": "Right margin, lower half",
+          "confidence": 0.99
+        },
+        {
+          "motif": "Numeral '246'",
+          "description": "A handwritten Arabic numeral '246' in large format appears at the bottom centre of the page. This may be an older accession number, a catalogue sequence number, or an inventory reference.",
+          "location": "Bottom centre",
+          "confidence": 0.90
+        }
+      ],
+      "confidence": 0.99,
+      "notes": "No paper decoration on this page. The hatip ebru edges of pp003–004 are visible along the top of this image, showing the adjacent marbled leaf. The top strip of the IIIF image crops into the facing hatip ebru page, confirming the album sequence. The ownership inscription composition is itself a calligraphic specimen of interest but is not classified as 'paper decoration.'"
+    },
+    {
+      "folio": "Hatip ebru endpaper — recto (IIIF p003)",
+      "source_image": "corpus/iiif/hamidiye_00036_p003.jpg",
+      "image_dimensions": "2560×1920 px",
+      "decoration_present": true,
+      "decoration_types": ["marbled"],
+      "elements": [
+        {
+          "motif": "Hatip ebru — three-color full-page marbling",
+          "description": "Full-page hatip ebru (imam's marbling) in three colors on a cream/white ground. The three color types are: (1) SALMON/APRICOT — large rounded leaf-blob forms, smooth surface, warm pink-orange tone, the largest and most visually dominant element; typically 3–5 cm in apparent width. These forms have irregular but rounded outlines and no visible internal texture, suggesting they were formed by the hatip technique of dropping rounded pigment pools onto the marbling size. (2) GREEN — medium-scale leaf forms with characteristic dark-green stippled or dotted internal texture; the green leaves have a distinctly serrated or lobed outline and rich internal texture created by the stylus (biz) drawing the pigment, creating the signature 'prickle' effect of hatip ebru green leaves. (3) DARK GREY-BROWN / MAROON — dense stippled rounded forms occupying the interstices between the salmon and green elements; these have a very dense, almost black-appearing stippled surface texture, again characteristic of the hatip ebru technique. The overall composition shows a natural, irregular tiling of the three motif types across the full page, with no visible cream ground remaining between the interlocking forms — the page surface is fully covered. A faint watermark stamp is visible mid-page ('Türkiye Kütüphaneleri' or similar institutional stamp, reversed).",
+          "location": "Full page",
+          "confidence": 0.97,
+          "subtype": "hatip ebru (imam's marbling) — three-color (salmon/green/dark brown)",
+          "ebru_colors": ["salmon/apricot", "green (dark-textured)", "dark grey-brown/maroon"],
+          "ebru_ground": "cream/white"
+        }
+      ],
+      "confidence": 0.97,
+      "notes": "This is a high-quality hatip ebru specimen. The three-color palette (salmon/green/dark brown on cream) is the most common Ottoman hatip ebru palette and the most closely associated with the 'imam' (hatip) marbling tradition. The composition fully covers the page surface with no ground showing between motifs — a mark of high technical quality. The green leaves' internal stippled texture and the dark forms' dense speckle pattern are both classic hatip ebru diagnostic features produced by biz (stylus) manipulation. Compare with damad_ibrahim_pasa_00027-001 (confirmed hatip ebru in the project corpus)."
+    },
+    {
+      "folio": "Hatip ebru endpaper — verso / facing page (IIIF p004)",
+      "source_image": "corpus/iiif/hamidiye_00036_p004.jpg",
+      "image_dimensions": "2560×1920 px",
+      "decoration_present": true,
+      "decoration_types": ["marbled"],
+      "elements": [
+        {
+          "motif": "Hatip ebru — three-color full-page marbling, facing leaf",
+          "description": "Full-page hatip ebru in the same three-color palette as p003 (salmon/apricot, green, dark grey-brown/maroon on cream ground), but with a distinct composition. The facing page relationship to p003 confirms this is a genuine opening pair from the same marbling session: both pages carry the same pigment batch and technique but differ in the specific arrangement of motifs, as is natural when consecutive sheets are pulled from the same trough. Motif types as on p003: large rounded salmon blobs, stippled-texture green leaf forms with serrated edges, dense dark maroon stippled forms. On this page, a central portion of the composition shows a cluster of overlapping salmon and dark forms with green intervening, creating a slightly denser central arrangement than p003. A faint institutional watermark stamp is visible. The red leather binding is visible as a narrow brown strip at the bottom and right edges of the image.",
+          "location": "Full page",
+          "confidence": 0.97,
+          "subtype": "hatip ebru (imam's marbling) — three-color (salmon/green/dark brown)",
+          "ebru_colors": ["salmon/apricot", "green (dark-textured)", "dark grey-brown/maroon"],
+          "ebru_ground": "cream/white"
+        }
+      ],
+      "confidence": 0.97,
+      "notes": "Confirmed facing pair with p003 from the same marbling session. The slight compositional differences between pp003 and pp004 are expected and confirm both pages are genuine hand-marbled (not mechanical reproductions). The red leather binding strip at the bottom of p004 confirms the physical structure: p004 is the verso of the first endpaper leaf, facing the first calligraphy page (p005)."
+    },
+    {
+      "folio": "First calligraphy kıtʿa — muravvak taʿlîk (IIIF p005)",
+      "source_image": "corpus/iiif/hamidiye_00036_p005.jpg",
+      "image_dimensions": "2560×1920 px",
+      "decoration_present": true,
+      "decoration_types": ["gold_sprinkled", "halkar_margins", "illuminated_margins", "framing_system"],
+      "elements": [
+        {
+          "motif": "Zerefşân outer margin",
+          "description": "The wide outer margin surrounding the calligraphy panel is covered with warm buff/tan-beige paper carrying visible dark sprinkling — consistent with zerefşân (gold-sprinkled, possibly oxidized to dark brown/grey) or boya efşân. The sprinkling on the margins of pp005–007 appears denser and darker than the p001 cover sprinkling, with a slightly different tone (more blue-grey in some areas). The margin paper is uniform across all three kıtʿa pages. This is a standard feature of Ottoman luxury muraqqaʿāt where the calligraphy panel is surrounded by decorated paper margins, often zerefşân.",
+          "location": "Outer margin, all four sides of the calligraphy panel",
+          "confidence": 0.82,
+          "technique_note": "Probable zerefşân (oxidized); boya efşân cannot be excluded. See paper_decoration notes."
+        },
+        {
+          "motif": "Muravvak taʿlîk calligraphy — diagonal kıtʿa format",
+          "description": "The calligraphy panel presents the muravvak (diagonal/oblique) kıtʿa format: the text is written diagonally across the panel, with lines running at approximately 45 degrees from lower-left to upper-right. The composition creates two facing triangular white space zones at the top-left and bottom-right corners, and two facing triangular text zones. The script is taʿlîk (taʿlīq / نستعلیق) — the characteristic Persian-Ottoman diagonal-flowing script. The text appears to be Persian poetry, with multiple lines of varying length. The cream âharlı paper of the calligraphy panel is clearly differentiated from the surrounding margin paper. The calligraphy is in black ink with some red ink for emphasis or initial letters. A small cloud-formed shamsa medallion in the lower-left white space area contains additional text in smaller script.",
+          "location": "Central panel, cream paper",
+          "confidence": 0.93
+        },
+        {
+          "motif": "Halkar — triangular corner fills with floral painting",
+          "description": "The two triangular 'corner' zones flanking the diagonal calligraphy (upper-right and lower-left) are filled with dense halkar (halkâr / halkârî — shaded gold floral painting). The halkar presents: a warm gold/ochre painted ground; small red, pink, or coral rosette flowers (approximately 5–8 mm apparent diameter) in scattered arrangement; gold vine scrollwork and arabesque stems connecting the flowers; and some green or blue accents visible at higher resolution. The floral motifs are consistent with the şükûfe (flower) vocabulary of Ottoman illumination — small, naturalistic roses or pinks. The overall effect is rich and layered. At the available resolution the brushwork technique (taramalı vs. tahrirli halkâr) cannot be determined.",
+          "location": "Upper-right and lower-left triangular zones of the muravvak panel",
+          "confidence": 0.90,
+          "technique_note": "Halkar subtype (taramalı vs. tahrirli) undetermined at available resolution; physical examination under magnification required."
+        },
+        {
+          "motif": "Multi-layer altın cedvel framing",
+          "description": "The calligraphy panel is framed by a multi-line ruling system: (from outside in) a wide gold outer cetvel line; a narrow pink/rose colored band (approximately 2–3 mm); a narrower gold inner cetvel; with possibly an additional thin black or gold rule at the panel's immediate edge. The pink-between-gold pattern is a characteristic feature of late Ottoman luxury muraqqaʿāt cedvel systems. The gold and pink lines are clearly legible at IIIF resolution.",
+          "location": "Frame surrounding calligraphy panel on all four sides",
+          "confidence": 0.93
+        },
+        {
+          "motif": "Lobed shamsa medallion",
+          "description": "In the upper-left corner area, a lobed cloud-form shamsa medallion in black and gold is placed above or adjacent to the calligraphy panel. The medallion has an irregular lobed outline (bulut / cloud-band form) with internal text or a decorative device. This shamsa functions as a page/section marker for the album opening. Its cloud-form (bulut) outline is consistent with Ottoman illumination conventions of the late 17th century.",
+          "location": "Upper left, outside or at edge of calligraphy panel",
+          "confidence": 0.88
+        }
+      ],
+      "confidence": 0.90,
+      "notes": "The muravvak (diagonal) kıtʿa format with halkar-filled triangular corners is a distinctive Ottoman luxury album feature. The combination of diagonal taʿlîk calligraphy + halkar corner decoration + zerefşân margins + altın cedvel framing represents a complete and sophisticated kıtʿa mount. This is the highest-status calligraphic format for Ottoman taʿlîk muraqqaʿāt."
+    },
+    {
+      "folio": "Second calligraphy kıtʿa — muravvak taʿlîk (IIIF p006)",
+      "source_image": "corpus/iiif/hamidiye_00036_p006.jpg",
+      "image_dimensions": "2560×1920 px",
+      "decoration_present": true,
+      "decoration_types": ["gold_sprinkled", "halkar_margins", "illuminated_margins", "framing_system"],
+      "elements": [
+        {
+          "motif": "Zerefşân outer margin — second kıtʿa",
+          "description": "Same zerefşân (or boya efşân) margin paper as p005. The buff/tan-beige margin with dark sprinkling is consistent across pp005–007, confirming a unified margin paper stock for all three calligraphy pages.",
+          "location": "Outer margin",
+          "confidence": 0.82
+        },
+        {
+          "motif": "Muravvak taʿlîk calligraphy — second kıtʿa",
+          "description": "Same diagonal taʿlîk kıtʿa format as p005. Different text content (new poem or continuation). The diagonal composition and cream panel are consistent with p005. A lobed cloud shamsa in the upper left carries additional text.",
+          "location": "Central panel",
+          "confidence": 0.93
+        },
+        {
+          "motif": "Halkar — triangular corner fills, second kıtʿa",
+          "description": "Same halkar floral painting as p005 in the triangular corner zones. The red flowers and gold scrollwork are consistent with the first kıtʿa, confirming a unified decoration program across all three calligraphy pages.",
+          "location": "Upper-right and lower-left triangular zones",
+          "confidence": 0.90
+        },
+        {
+          "motif": "Multi-layer altın cedvel framing — second kıtʿa",
+          "description": "Same multi-layer gold + pink cedvel framing as p005. The pink middle band and gold outer/inner rules are clearly legible.",
+          "location": "Frame surrounding calligraphy panel",
+          "confidence": 0.93
+        },
+        {
+          "motif": "Lobed shamsa medallion — second kıtʿa",
+          "description": "Lobed cloud-form shamsa in upper left, consistent with p005.",
+          "location": "Upper left",
+          "confidence": 0.88
+        }
+      ],
+      "confidence": 0.90,
+      "notes": "Second of three calligraphy kıtʿa pages. Decorative program identical to p005, confirming a unified luxury program across all three leaves."
+    },
+    {
+      "folio": "Third calligraphy kıtʿa — muravvak taʿlîk (IIIF p007)",
+      "source_image": "corpus/iiif/hamidiye_00036_p007.jpg",
+      "image_dimensions": "2560×1920 px",
+      "decoration_present": true,
+      "decoration_types": ["gold_sprinkled", "halkar_margins", "illuminated_margins", "framing_system"],
+      "elements": [
+        {
+          "motif": "Zerefşân outer margin — third kıtʿa",
+          "description": "Same zerefşân (or boya efşân) margin paper as pp005–006. At the bottom of p007, the top edge of the hatip ebru leaf (pp003–004) is visible, confirming the album's physical structure: the third kıtʿa page faces the rear endpaper (hatip ebru), completing the album's decorative frame.",
+          "location": "Outer margin; hatip ebru of rear endpaper visible at bottom edge",
+          "confidence": 0.82
+        },
+        {
+          "motif": "Muravvak taʿlîk calligraphy — third and final kıtʿa",
+          "description": "Third and final muravvak taʿlîk kıtʿa. Same format as pp005–006. This is likely the leaf that carries or is associated with the Hâfız Osmân attribution (the title label on p001 refers to 3 kıtʿa). A lobed cloud shamsa in upper left.",
+          "location": "Central panel",
+          "confidence": 0.93
+        },
+        {
+          "motif": "Halkar — triangular corner fills, third kıtʿa",
+          "description": "Same halkar floral decoration in triangular zones as pp005–006.",
+          "location": "Upper-right and lower-left triangular zones",
+          "confidence": 0.90
+        },
+        {
+          "motif": "Multi-layer altın cedvel framing — third kıtʿa",
+          "description": "Same multi-layer gold + pink cedvel framing as pp005–006.",
+          "location": "Frame surrounding calligraphy panel",
+          "confidence": 0.93
+        },
+        {
+          "motif": "Lobed shamsa medallion — third kıtʿa",
+          "description": "Lobed cloud-form shamsa in upper left, consistent with pp005–006.",
+          "location": "Upper left",
+          "confidence": 0.88
+        }
+      ],
+      "confidence": 0.90,
+      "notes": "Third and final calligraphy kıtʿa. The hatip ebru rear endpaper visible at the bottom confirms the physical completeness of the album. The unified decoration program across pp005–007 (zerefşân margins + halkar corner fills + altın cedvel + shamsa) demonstrates that all three calligraphy leaves were mounted and decorated as a unified commission, not assembled from separate sources."
+    }
+  ],
+  "terminology": {
+    "terms_used": [
+      {
+        "concept": "Calligraphic album",
+        "ottoman": "muraqqaʿ (مرقع) / muraqqaʿāt (مرقعات)",
+        "arabic": "muraqqa (مرقع) / muraqqa'āt (مرقعات)",
+        "persian": "muraqqa (مرقع)",
+        "english": "Muraqqaʿ: a bound Ottoman (or Persian) calligraphic album. This album contains 3 kıtʿa (calligraphic specimen sheets) in taʿlîk script attributed to Hâfız Osmân. The plural form muraqqaʿāt (with macron-ā per IJMES transliteration) is used in the title field. Note: the form 'Muraqqaʿāt' (not 'Murakkaa' or 'Murakka') is the standard IJMES-compliant transliteration."
+      },
+      {
+        "concept": "Diagonal calligraphic specimen sheet",
+        "ottoman": "muravvak kıtʿa (مروق قطعة) / kıtʿa-i muravvak",
+        "arabic": "qiṭʿa murawwaqa (قطعة مروقة)",
+        "persian": "qiṭʿa-yi muravvaq (قطعه مروق)",
+        "english": "Muravvak kıtʿa: a calligraphic specimen sheet (kıtʿa) written in the muravvak (diagonal/oblique) format, in which lines of text run diagonally across the panel, creating two triangular text zones and two triangular blank or decorated corner zones. The diagonal format is especially associated with the taʿlîk script tradition. The triangular corner fills in this album are decorated with halkar."
+      },
+      {
+        "concept": "Taʿlîk script",
+        "ottoman": "taʿlîk hattı (تعلیق)",
+        "arabic": "taʿlīq (تعلیق)",
+        "persian": "taʿlīq (تعلیق) / nastaʿlīq (نستعلیق)",
+        "english": "Taʿlîk (taʿlīq): a flowing, diagonal Arabic-derived script developed in Persia and widely used for Persian poetry in the Ottoman Empire. Distinct from nestaʿlîk (nastaʿlīq), which is the more refined Persian variant. The YEK catalogue describes the script as 'Talik' (taʿlîk). The muravvak format is especially suited to taʿlîk's flowing diagonal strokes."
+      },
+      {
+        "concept": "Imam's marbling",
+        "ottoman": "hatip ebru (خطیب ابرو)",
+        "arabic": null,
+        "persian": "hatīb abrī (خطیب ابری)",
+        "english": "Hatip ebru (hatīb abrī): a specialized Ottoman marbling technique in which floral, leaf, and botanical motifs are drawn on the marbling size using a biz (stylus) after pigment has been floated, creating characteristic stippled internal textures in the leaf/petal forms. Named after the imam (hatip) said to have invented or popularized the technique. Subtypes include single-color and multi-color variants; the three-color (salmon/green/dark brown) palette in this album is the most common Ottoman hatip ebru palette. Hatip ebru is DISTINCT from gel-git ebru (single stylus wave patterns) and taraklı ebru (combed parallel stripes)."
+      },
+      {
+        "concept": "Color-sprinkled paper",
+        "ottoman": "boya efşân (بویا افشان) / serpme-i boyalı",
+        "arabic": null,
+        "persian": "rang-afshān (رنگ افشان)",
+        "english": "Boya efşân (rang-afshān): paper decorated by scattering colored pigment particles across the surface using a brush-flicking technique identical to zerefşân (gold-sprinkled paper) but using colored paint instead of gold. The matte appearance and red/brown/pink coloring of the p001 cover decoration is more consistent with boya efşân than zerefşân. Corpus parallel: Vahid Paşa 01220 (confirmed boya efşân with red/pink sprinkling)."
+      },
+      {
+        "concept": "Gold-sprinkled paper",
+        "ottoman": "zerefşân (زرافشان) / serpme / altın yaldız serpmeli kâğıt",
+        "arabic": "waraq muzakhraf bi-al-dhahab (ورق مزخرف بالذهب)",
+        "persian": "zar-afshān (زر افشان)",
+        "english": "Zerefşân (zar-afshān): paper decorated by scattering fine gold particles across the surface. The outer margins of the calligraphy pages (pp005–007) carry zerefşân (probable; may be oxidized). Zerefşân is the most prestigious form of Ottoman decorated paper and a standard feature of luxury muraqqaʿāt. Oxidized zerefşân can appear dark brown or grey rather than gold, which is the probable explanation for the dark tone of the margin sprinkling in this album."
+      },
+      {
+        "concept": "Shaded gold floral margin painting",
+        "ottoman": "halkâr / halkârî (حلکاری)",
+        "arabic": null,
+        "persian": "halkārī (حلکاری)",
+        "english": "Halkâr (halkârī): a technique of painting delicate floral motifs in gold (and sometimes polychrome) directly onto the page margins or decorative panels. The halkar in this album appears as red/pink rosette flowers and gold arabesque vine scrolls in the triangular corner fills of the muravvak kıtʿa panels (pp005–007). The combination of halkar corner fills with muravvak calligraphy format is a characteristic Ottoman late 17th-century luxury muraqqaʿ feature."
+      },
+      {
+        "concept": "Gold ruling lines",
+        "ottoman": "altın cetvel (altın cedvel) / cetvelli",
+        "arabic": "jadwal mudhahdhab (جدول مذهّب)",
+        "persian": "jadval-e zar (جدول زر)",
+        "english": "Altın cetvel: ruling lines applied in gold, framing the calligraphic text panel. In this album, multi-layer cetvels (gold outer, pink middle band, gold inner) frame each of the three muravvak kıtʿa pages (pp005–007)."
+      },
+      {
+        "concept": "Medallion (page or binding)",
+        "ottoman": "şemse (شمسه)",
+        "arabic": "shamsa (شمسة)",
+        "persian": "shamsa (شمسه) / toranj (ترنج)",
+        "english": "Şemse (shamsa): a central oval, round, or lobed medallion placed on a binding cover or calligraphy page. In this album, lobed cloud-form (bulut) shamsa medallions appear in the upper-left corner of each of the three calligraphy pages (pp005–007), serving as page markers. The cloud-form (bulut) outline is a distinct sub-type of Ottoman shamsa associated with the 17th-century Istanbul illumination tradition."
+      },
+      {
+        "concept": "Sized and burnished paper",
+        "ottoman": "âharlı kâğıt (آهارلی کاغذ)",
+        "arabic": null,
+        "persian": "kāġaz-i āhārdār (کاغذ آهاردار)",
+        "english": "Âharlı kâğıt: paper that has been sized (coated with a starch, gelatin, or similar sizing agent — âhar) and burnished (polished with a mühre, a hard polishing stone or glass) to create a smooth, lustrous surface optimal for fine calligraphy. The calligraphy panels in this album (pp005–007) are written on âharlı paper."
+      }
+    ]
+  },
+  "bibliography": [
+    {
+      "citation": "Derman, M. Uğur. Letters in Gold: Ottoman Calligraphy from the Sakıp Sabancı Collection, Istanbul. New York: The Metropolitan Museum of Art, 1998.",
+      "relevance": "Primary English-language exhibition catalogue on Ottoman calligraphy, with extensive coverage of Hâfız Osmân's scripts, calligraphic albums, and the Istanbul court calligraphic tradition of the late 17th century. Essential for contextualizing the attribution of this album to Hâfız Osmân, evaluating the muravvak taʿlîk kıtʿa format, and situating the album within the documented corpus of Hâfız Osmân's works. Derman's analysis of the late Ottoman taʿlîk tradition (pp. 42–57) is directly applicable to the script identified here.",
+      "relevance_score": 0.97,
+      "access_notes": "Exhibition catalogue (Metropolitan Museum of Art, 1998); widely held at Islamic art and Ottoman studies libraries. ISBN 978-0870998843."
+    },
+    {
+      "citation": "Serin, Muhittin. Hat Sanatı ve Meşhur Hattatlar. Istanbul: Kubbealtı Neşriyâtı, 1999.",
+      "relevance": "Standard Turkish-language reference on Ottoman calligraphers, with a detailed entry on Hâfız Osmân (pp. 153–168). Documents his calligraphic output, students, and the albums attributed to his hand. Provides context for evaluating the attribution of Hamidiye 00036 to Hâfız Osmân and for interpreting the muravvak taʿlîk format in relation to his oeuvre. [In Turkish.]",
+      "relevance_score": 0.93,
+      "access_notes": "Monograph in Turkish; widely held at Turkish studies and Islamic art libraries in Turkey."
+    },
+    {
+      "citation": "Blair, Sheila S. 'Color and Gold: The Decorated Papers Used in Manuscripts in Later Islamic Times.' Muqarnas 17 (2000): 24–36.",
+      "relevance": "Foundational taxonomic study of decorated papers in Islamic manuscripts, providing the classification framework for zerefşân, boya efşân, and marbled papers. Blair's distinctions between gold-sprinkled, color-sprinkled, and marbled paper types are directly applicable to the classification challenges presented by Hamidiye 00036 (boya efşân vs. zerefşân on p001; zerefşân vs. boya efşân on pp005–007 margins).",
+      "relevance_score": 0.96,
+      "access_notes": "Peer-reviewed article. Available via JSTOR (Brill/Muqarnas Online). Open-access PDF accessible at Academia.edu."
+    },
+    {
+      "citation": "Roxburgh, David J. The Persian Album, 1400–1600: From Dispersal to Collection. New Haven: Yale University Press, 2005.",
+      "relevance": "Essential study of the muraqqaʿ album format and its decorated paper programs in the Persianate-Ottoman tradition. Provides the theoretical framework for understanding the muravvak kıtʿa format, album assembly practices, and the relationship between decorated papers and calligraphic prestige in albums. Relevant for situating Hamidiye 00036's format within the broader Persian-Ottoman album-making tradition that Hâfız Osmân inherited.",
+      "relevance_score": 0.88,
+      "access_notes": "Monograph; widely held at research libraries."
+    },
+    {
+      "citation": "Çağman, Filiz, and Zeren Tanındı. The Topkapı Saray Museum: The Albums and Illustrated Manuscripts. Translated and edited by J. M. Rogers. Boston: Little, Brown, 1986.",
+      "relevance": "Standard reference for Ottoman calligraphic albums and their decorated paper programs in the Topkapı collections. Provides direct comparanda for Hâfız Osmân-era (late 17th-century) muraqqaʿāt with hatip ebru endpapers, zerefşân margins, and halkar corner decoration. Relevant for contextualizing the album's multi-technique decorative program within the corpus of documented Ottoman luxury albums.",
+      "relevance_score": 0.88,
+      "access_notes": "Exhibition catalogue; widely held at Turkish and Islamic art research libraries."
+    },
+    {
+      "citation": "Bağcı, Serpil, Filiz Çağman, Günsel Renda, and Zeren Tanındı. Ottoman Painting. Ankara: Ministry of Culture and Tourism, 2006.",
+      "relevance": "Comprehensive survey of Ottoman visual arts, covering the calligraphic album tradition and illumination practices of the 17th century. Provides comparative context for the halkar floral painting in the muravvak kıtʿa panels, the lobed shamsa medallion form, and the multi-layer cedvel framing systems characteristic of late Ottoman luxury muraqqaʿāt.",
+      "relevance_score": 0.83,
+      "access_notes": "Museum publication; widely held at Turkish studies collections."
+    },
+    {
+      "citation": "Tanındı, Zeren. 'Bibliophile Aghas (Eunuchs) at Topkapı Saray.' Muqarnas 21 (2004): 333–43.",
+      "relevance": "Documents album-collecting and commissioning practices at the Ottoman court in the late 17th century — the period of this album's probable production. Provides context for the patronage environment within which Hâfız Osmân created calligraphic albums and for the decorated paper programs (hatip ebru, zerefşân, halkar) associated with high-status Ottoman album commissions in this period.",
+      "relevance_score": 0.79,
+      "access_notes": "Peer-reviewed article. Available via JSTOR and institutional library access."
+    },
+    {
+      "citation": "Bloom, Jonathan M. Paper Before Print: The History and Impact of Paper in the Islamic World. New Haven: Yale University Press, 2001.",
+      "relevance": "Comprehensive history of paper production and use in the Islamic world, providing material-culture background for hatip ebru, zerefşân, and boya efşân paper production techniques. Relevant for situating the album's decorated paper program within the broader Ottoman luxury paper production context.",
+      "relevance_score": 0.75,
+      "access_notes": "Widely held monograph."
+    },
+    {
+      "citation": "Gacek, Adam. Arabic Manuscripts: A Vademecum for Readers. Leiden: Brill, 2009.",
+      "relevance": "Standard reference for Islamic manuscript codicological terminology and calligraphic script identification. Relevant for the identification and description of the taʿlîk script, muravvak format, muraqqaʿ format, and codicological terms (ketebe, kıtʿa, cetvel) used in this record.",
+      "relevance_score": 0.75,
+      "access_notes": "Reference monograph; widely held."
+    },
+    {
+      "citation": "Scheper, Karin. The Technique of Islamic Bookbinding: Methods, Materials and Regional Varieties. Leiden: Brill, 2015.",
+      "relevance": "Systematic study of Islamic bookbinding techniques, relevant for the physical analysis of the red leather binding and the structural understanding of the album's paper sequence (cover page, endpaper leaves, calligraphy leaves).",
+      "relevance_score": 0.68,
+      "access_notes": "Monograph; available at Islamic bookbinding and manuscript studies libraries."
+    }
+  ],
+  "suggested_collections": [
+    {
+      "institution": "Topkapı Sarayı Müzesi Kütüphanesi, Istanbul",
+      "reason": "Holds the largest corpus of authenticated Hâfız Osmân calligraphic works. Physical comparison with documented Topkapı muraqqaʿāt by Hâfız Osmân is essential for confirming the attribution of Hamidiye 00036 and for locating parallel muravvak taʿlîk kıtʿa albums with hatip ebru + zerefşân + halkar programs.",
+      "digital_access": "https://kutuphane.tsmk.gov.tr"
+    },
+    {
+      "institution": "Sakıp Sabancı Museum, Istanbul",
+      "reason": "Holds major Hâfız Osmân calligraphic works studied in Derman (1998). The closest comparative corpus for evaluating the attribution of this album to Hâfız Osmân's hand and for comparing the muravvak taʿlîk format.",
+      "digital_access": null
+    },
+    {
+      "institution": "Türk ve İslam Eserleri Müzesi (TIEM), Istanbul",
+      "reason": "The TIEM muraqqaʿ corpus (93 albums confirmed in visual triage for this project) contains numerous comparanda for hatip ebru endpapers, zerefşân margins, and halkar kıtʿa programs. TIEM 02471 (catalogued) and TIEM 02437 (catalogued) are the closest parallels currently in the project corpus.",
+      "digital_access": "https://portal.yek.gov.tr"
+    },
+    {
+      "institution": "Chester Beatty Library, Dublin",
+      "reason": "Major collection of Ottoman calligraphic albums with decorated papers, including albums with hatip ebru, zerefşân, and halkar programs from the late 17th century. Provides international comparanda for the decorative program.",
+      "digital_access": "https://viewer.cbl.ie"
+    },
+    {
+      "institution": "GlobalDecoPaper ERC Project, LMU Munich",
+      "reason": "The primary active research project on decorated papers in Islamic manuscripts. The boya efşân vs. zerefşân ambiguity on p001 and the oxidized zerefşân identification on pp005–007 are classification questions within GlobalDecoPaper's research scope. The hatip ebru specimens (pp003–004) are also relevant to their marbled paper typology.",
+      "digital_access": null
+    }
+  ],
+  "provenance": {
+    "donor": null,
+    "waqf": "Süleymaniye Vakfı (vakf seal visible on p002, identifying the manuscript as an endowment of the Süleymaniye library foundation)",
+    "previous_shelfmarks": ["246 (possible earlier accession number, visible as handwritten numeral on p002)"],
+    "notes": "Held at Süleymaniye Kütüphanesi, Hamidiye Koleksiyonu, Istanbul, under shelfmark 00036. The album bears a circular vakf seal on p002 recording endowment to the Süleymaniye library. A rectangular library card/label on p002 reads 'Süleymaniye / r Hamidiye / 36' confirming the current holding. YEK ID: 265211; IIIF ID: 0000000289478. The album is attributed to Hâfız Osmân (d. 1110/1698) by the title label on p001 and by the YEK catalogue record. No earlier collection history (before acquisition by the Hamidiye Koleksiyonu) is documented in the available sources. The Hamidiye Koleksiyonu was assembled under Sultan Abdülhamid II (r. 1876–1909) and transferred to the Süleymaniye Library."
+  },
+  "analysis_metadata": {
+    "analyzed_date": "2026-02-28",
+    "analyzer": "claude-code-manuscript-pipeline",
+    "pipeline_stage": "metadata-generator",
+    "image_source": "YEK Portal IIIF images, Süleymaniye Kütüphanesi — Hamidiye Koleksiyonu, YEK ID 265211, IIIF ID 0000000289478. All 7 pages downloaded and examined at native IIIF resolution (1920×2560 or 2560×1920 px). Supplementary triage screenshots in project root (hamidiye_00036_p2.jpg, hamidiye_00036_p3.jpg) also examined.",
+    "image_quality_notes": "IIIF native resolution images are clear and support confident identification of hatip ebru (pp003–004), multi-layer cedvel framing (pp005–007), halkar panel fills (pp005–007), and lobed shamsa medallions (pp005–007). The p001 cover sprinkling is legible but the metallic/matte distinction cannot be resolved at any available digital resolution — physical examination required. The zerefşân on pp005–007 outer margins appears dark and possibly oxidized; metallic quality cannot be confirmed without raking-light photography or spectroscopic analysis. The taʿlîk calligraphy on pp005–007 is legible for script identification but full transcription was not attempted. No ketebe signature text is independently legible.",
+    "folios_examined": [
+      "corpus/iiif/hamidiye_00036_p001.jpg",
+      "corpus/iiif/hamidiye_00036_p002.jpg",
+      "corpus/iiif/hamidiye_00036_p003.jpg",
+      "corpus/iiif/hamidiye_00036_p004.jpg",
+      "corpus/iiif/hamidiye_00036_p005.jpg",
+      "corpus/iiif/hamidiye_00036_p006.jpg",
+      "corpus/iiif/hamidiye_00036_p007.jpg"
+    ],
+    "folios_not_examined": "All 7 IIIF pages examined. The album appears complete: cover, inside cover/colophon, hatip ebru endpaper pair, three calligraphy kıtʿa pages. No back cover image is present in the IIIF sequence as a separate page — the back cover appears to be the exterior of the leaf containing p007.",
+    "corpus_priority": "High — one of the finest multi-technique muraqqaʿ specimens in the Süleymaniye Hamidiye corpus. The combination of hatip ebru endpapers + zerefşân (or boya efşân) margins + halkar muravvak kıtʿa fills represents a complete luxury program attributed to the most celebrated Ottoman calligrapher. Priority follow-up: (1) physical examination to resolve boya efşân vs. zerefşân on p001 and the oxidized zerefşân identification on pp005–007; (2) transcription of the taʿlîk kıtʿa text for content identification; (3) comparison with authenticated Hâfız Osmân muravvak taʿlîk kıtʿa at TSMK and Sakıp Sabancı Museum for attribution confirmation.",
+    "source_data": {
+      "visual_confirmation_file": "catalog/searches/visual_tier2_hamidiye_00036.json",
+      "yek_id": "265211",
+      "iiif_id": "0000000289478",
+      "batch": "Tier 2 Sub-Batch E — murakka albums (2026-02-28)"
+    },
+    "flags": [
+      "DATE DISCREPANCY: AH 914 noted in preliminary triage predates Hâfız Osmân's birth by ~130 years. Probable explanations: misread numeral (914 → 1114?) or date applies to text being copied. YEK record has no date. Flagged as null pending clarification.",
+      "TECHNIQUE AMBIGUITY (p001): boya efşân vs. zerefşân on cover page — matte appearance favors boya efşân; oxidized zerefşân cannot be excluded. XRF or Raman spectroscopy required.",
+      "TECHNIQUE AMBIGUITY (pp005–007 margins): dark/oxidized sprinkling may be zerefşân (gold, tarnished) or boya efşân (non-gold pigment). Raking-light photography or spectroscopic analysis required."
+    ]
+  }
+}

@@ -1,0 +1,521 @@
+{
+  "record_id": "kastamonu_4213",
+  "collection": {
+    "institution": "Kastamonu Yazma Eser Kütüphanesi",
+    "city": "Kastamonu",
+    "country": "Turkey",
+    "shelfmark": "4213",
+    "yek_url": "https://portal.yek.gov.tr/works/detail/702700",
+    "yek_id": 702700,
+    "iiif_id": "0000000673480",
+    "tasnif_no": "745.6"
+  },
+  "manuscript": {
+    "title": "Muraqqaʿāt / مرقعات",
+    "title_script": "مرقعات",
+    "title_alt": "Muraqqaʿ of İbn Hamdullah",
+    "author": null,
+    "author_dates": null,
+    "calligrapher": "İbn Hamdullah (ابن حمد الله)",
+    "calligrapher_dates": "son of Şeyh Hamdullah (d. 926/1520); active early 16th century",
+    "calligrapher_note": "İbn Hamdullah was the son of the canonical Ottoman master calligrapher Şeyh Hamdullah (d. 926/1520), who is credited with establishing the canonical Ottoman form of the six classical scripts. As the son and direct heir of Şeyh Hamdullah's calligraphic lineage, İbn Hamdullah represents the first generation of transmission of the Amasya-Istanbul sülüs tradition. This album, attributed to İbn Hamdullah in the YEK catalogue, would date to the early 16th century if the attribution is to his own hand, or could be a later copy assembled in homage to this lineage. The attribution has significant implications for dating the decorated paper program: a genuine early 16th-century date would make this one of the earliest documented examples of battal ebru and mülevven margin programs in the Ottoman corpus. Expert palaeographic verification is required to confirm the attribution.",
+    "date_ah": null,
+    "date_ce": null,
+    "date_note": "No date inscribed in the album. If the İbn Hamdullah attribution is to his own hand, production would fall in the early 16th century (c. 1490–1540 CE) given his father's death in 926/1520. The decorated paper program — battal ebru endpapers and green mülevven margins — is consistent with early to mid-16th-century Istanbul production, though the same techniques persisted into the 17th and 18th centuries. The old TIEM accession label visible on the front cover reads 'T.I.E.M. No. 2503' (confirmed from IIIF p001 at native resolution). Date remains null pending physical examination and palaeographic analysis.",
+    "place_of_copy": null,
+    "place_of_copy_note": "Istanbul is the most probable place of production given the İbn Hamdullah attribution (who was based in Istanbul, following his father's court position under Bayezid II). However, Şeyh Hamdullah and his son also worked in Amasya; provincial origin cannot be excluded. No colophon or place-name inscription is visible in the IIIF images.",
+    "format": "Muraqqaʿ / مرقع — calligraphic album with battal ebru endpapers and green mülevven margin papers",
+    "format_note": "A bound Ottoman calligraphic album (muraqqaʿ) of 8 pages total (including front and back covers, two ebru endpaper leaves, and four calligraphy openings). The album contains multiple kıtʿa (calligraphic specimen sheets) in Arabic sülüs script with accompanying nesih lines, attributed to İbn Hamdullah. The decorative program combines three distinct paper-decoration types: (1) battal ebru endpapers at both ends of the binding, (2) green mülevven (intentionally tinted) margin paper on all calligraphy openings, and (3) a gold cetvelli (gold-ruled) framing system throughout. The YEK catalogue description — 'Altın yaldız cetvelli meşin cilt. Cildin iç kısımları ebrulu.' — accurately documents the binding and ebru endpapers but omits the green mülevven margins, which constitute an independent decorative discovery.",
+    "language": "Arabic",
+    "script": "Sülüs (ثلث) and Nesih (نسخ) — per YEK catalogue: 'Arap harfli — Sülüs'",
+    "dimensions_mm": {
+      "height": null,
+      "width": null,
+      "note": "Physical dimensions not recorded in the YEK catalogue entry. Estimated from IIIF image proportions at approximately 240–270 mm height by 160–190 mm width (album format, portrait orientation), but this requires physical confirmation."
+    },
+    "folio_count": 8,
+    "folio_count_note": "8 pages in the IIIF sequence: p001 (front cover), p002 (flyleaf/doublure opening with front ebru endpaper), p003–p006 (four calligraphy openings), p007 (final calligraphy page + back ebru endpaper), p008 (back cover). The album likely contains 3 paper bifolios plus binding boards.",
+    "yek_id": 702700,
+    "iiif_id": "0000000673480",
+    "notes": "The combination of İbn Hamdullah attribution + battal ebru endpapers + green mülevven margins makes this a potentially significant specimen. If the attribution is authentic, the album documents the decorated paper practices of the immediate post-Hamdullah generation in Istanbul/Amasya, contemporaneous with or shortly after the consolidation of the Ottoman sülüs tradition. The old TIEM label 'T.I.E.M. No. 2503' on the front cover (confirmed at IIIF resolution) indicates this album formerly resided in the Türk ve İslam Eserleri Müzesi before transfer to Kastamonu. The Kastamonu library accession label on p002 shows Kayıt No: 4213 and Tasnif No: 745.6, confirming the current shelfmark. Compare with galata_mevlevihanesi_00109 (also a sülüs muraqqaʿ with minimal decoration) and tiem_02437 (Hâfız Osmân muraqqaʿ with polychrome zerefşân) as calligraphic album parallels. The green mülevven margins are directly comparable with na_00120 (hatip ebru + green mülevven) in the corpus."
+  },
+  "paper_decoration": {
+    "types": [
+      "marbled",
+      "colored",
+      "framing_system"
+    ],
+    "summary": "Kastamonu 4213 presents a three-component decorative program: (1) Battal ebru (stone marbling) endpapers at both ends of the binding; (2) green mülevven (intentionally tinted) margin paper used throughout all four calligraphy openings; and (3) a multi-line cetvelli (ruled) framing system combining gold and red lines around each calligraphy panel. The ebru endpapers are the catalogue-documented element ('cildin iç kısımları ebrulu'), while the green mülevven margins are an undocumented additional decoration type discovered during visual confirmation. The two ebru endpapers are visibly distinct in color balance: p002 (front) is silver-grey and red-dominant with yellow and green accents; p007 (rear) is green-dominant with red, yellow, and grey — both are unmistakably battal ebru in the classic Ottoman sense (large, rounded, organic color pools without combing). The green mülevven paper is a uniform pale green tint, clearly distinct from the cream calligraphy panels it surrounds, and its consistency across all calligraphy openings strongly indicates intentional dyeing rather than age discoloration. The binding itself bears a gold diamond-lattice şemse with salbek on dark burgundy leather — a standard early-to-mid Ottoman album binding format.",
+    "distribution_notes": "Battal ebru: front endpaper (p002, right page) and rear endpaper (p007, left page) — at both structural ends of the album interior. Green mülevven: outer margin paper on all calligraphy openings (pp003–006, both pages of each opening, and p007 right page calligraphy panel). Cetvelli framing: all calligraphy openings — multi-line system with green outer rule, gold inner rule(s), and red innermost rule visible at IIIF resolution. Exterior binding covers (p001, p008): plain burgundy leather with gold şemse — no marbling on exterior covers.",
+    "catalogue_description": {
+      "paper_field": null,
+      "paper_field_normalized": null,
+      "paper_field_translation": null,
+      "notes_field": "Altın yaldız cetvelli meşin cilt. Cildin iç kısımları ebrulu.",
+      "notes_field_normalized": "Altın yaldız cetvelli meşin cilt. Cildin iç kısımları ebrulu.",
+      "notes_field_translation": "Gold gilt ruled leather binding. The interior parts of the binding are marbled.",
+      "decoration_field": null,
+      "discrepancy_note": "The YEK catalogue accurately describes the cetvelli binding and ebru interior but omits the green mülevven margins on the calligraphy openings. The mülevven paper is a genuine independent decoration type covering all calligraphy pages — its absence from the catalogue description represents an incomplete record, not a false positive. No contradictions between catalogue text and visual evidence.",
+      "source": "YEK portal, cilt/bezeme field, record 702700, Kastamonu Yazma Eser Kütüphanesi. All paper decoration observations derive from visual examination of IIIF native-resolution images (3317–3572 px width)."
+    },
+    "technique_terms": {
+      "ottoman": "battal ebru (büyük havuz tekniği, taşlı ebru); mülevven kâğıt (yeşil boyalı); altın yaldız cetvelli; kırmızı iç cetvel; meşin cilt; elmas kafes şemse; salbek",
+      "persian": "kāġaḏ-e abrī (کاغذ ابری) — marbled paper; mulavvan (ملوّن) — colored paper; jadval-e zar (جدول زر) — gold ruling",
+      "arabic": "waraq marmūr (ورق مرمور) — marbled paper; waraq mulawwan (ورق ملوّن) — colored paper; jadwal mudhahdhab (جدول مذهّب) — gold-ruled frame"
+    }
+  },
+  "workshop_attribution": {
+    "primary_tradition": "ottoman",
+    "workshop_centre": "Istanbul (probable)",
+    "date_range_ce": "early 16th century (c. 1500–1540) if attribution is original; possibly later copy",
+    "confidence": 0.65,
+    "key_indicators": [
+      "Attribution to İbn Hamdullah (son of Şeyh Hamdullah, d. 1520) places production in the early 16th century Istanbul/Amasya orbit if the calligraphic attribution is to his own hand",
+      "The sülüs script tradition directly descends from Şeyh Hamdullah's canonical Ottoman reform — the script forms visible in the IIIF images are consistent with the Hamdullah school (strong diagonal and curved thick strokes in sülüs)",
+      "Battal ebru endpapers at both structural ends of the binding are consistent with early Ottoman album production; ebru paper is documented in Ottoman sources from the 16th century onwards",
+      "Green mülevven margin paper is a distinctive feature paralleled in na_00120 (hatip ebru + green mülevven, same corpus) and possibly related to a specific early Ottoman paper program tradition",
+      "The dark burgundy leather binding with gold diamond-lattice şemse and salbek is a standard Ottoman album binding type without strong datable characteristics beyond general Ottoman tradition"
+    ],
+    "cross_tradition_caveats": [
+      "The İbn Hamdullah attribution is from the YEK catalogue and has not been independently verified through palaeographic comparison with authenticated works; the album may be a later copy produced in homage to the Hamdullah lineage rather than an autograph work",
+      "Battal ebru is a long-lived Ottoman technique; its presence does not constrain the date to the early 16th century — the paper program could have been applied during a rebinding or reassembly at any point in the album's history",
+      "The old TIEM accession number 'T.I.E.M. No. 2503' indicates the album formerly resided at TIEM; the history of its acquisition by TIEM and subsequent transfer to Kastamonu is unknown and could affect dating of the decorative program",
+      "No dated colophon or waqf inscription is present to corroborate the early dating; the Kastamonu accession records may hold additional provenance documentation not captured in the YEK digital record"
+    ]
+  },
+  "codicology": {
+    "paper": {
+      "color": "Three paper types: (1) cream/off-white burnished âharlı paper for calligraphy panels; (2) pale green mülevven (tinted) paper for outer margins of all calligraphy openings; (3) battal ebru (stone-marbled) paper for endpapers (front: silver-grey, red, yellow, green; rear: green, red, yellow, grey).",
+      "preparation": "The calligraphy panels are written on âharlı (sized and burnished) paper consistent with Ottoman luxury calligraphy practice. The green mülevven margins have a uniform pale green tint; the color appears even across the paper surface, consistent with through-dyeing (vat dyeing) rather than surface pigment application. At IIIF native resolution (3317–3572 px), no zerefşân (gold speckling) is visible on the green margin paper, distinguishing this from the zerefşân-on-colored-ground found in tiem_02437 — this is plain mülevven, not zerefşân. The battal ebru endpapers show the characteristic large organic color pools of the battal technique produced without combing instruments.",
+      "weight": "Indeterminate from IIIF images. Standard Ottoman album weight expected.",
+      "decoration": "Battal ebru endpapers; green mülevven margins; gold and red cetvelli framing; gold şemse binding.",
+      "paper_type": "Eastern/Oriental paper (probably Ottoman) for all interior papers."
+    },
+    "ruling": {
+      "system": "Multi-line cetvelli framing: green outer rule, gold intermediate rule(s), red innermost rule framing each calligraphy panel. The layered color sequence (green/gold/red) is visible across all calligraphy openings at IIIF resolution.",
+      "description": "Each calligraphy opening (pp003–007) presents a consistent framing system: the green mülevven outer margin paper is bounded on its inner edge by a thin green ruling line; inside this a gold cetvel; then a narrower red iç cetvel immediately surrounding the cream calligraphy text panel. The cetvelli system thus uses three colors (green, gold, red) to create a graduated transition from the green margin to the cream text area. The system is relatively simple compared to the multi-layer cetvelli of high-Ottoman court production (e.g. tiem_02437, tiem_02471) but is consistent and legible. Small circular library/vakf seals are stamped on various pages, interrupting but not obscuring the calligraphic program. Small gold dots (possibly rosette/gül markers between lines) are visible within the nesih line sections at higher magnification.",
+      "note_on_p007_right": "The final calligraphy page (p007, right page) shows a small rectangular illuminated panel at the top of the calligraphy area — this appears to be a blue-ground cartouche with gold lettering, possibly a basmala, title panel, or ketebe attribution. At IIIF resolution it is too small for reliable text identification but it represents a tezhip element not present on the other calligraphy pages."
+    },
+    "binding": {
+      "cover_description": "Both front (p001) and back (p008) covers are dark burgundy/maroon leather (meşin). Each cover bears: (1) a gilt outer cetvelli border running along all four edges; (2) a central gilt diamond-lattice şemse (elmas kafes şemse) — a square medallion formed by a cross-hatched grid of diagonal lines within a diamond outline; (3) a vertical gilt salbek (pendant bar) extending above and below the şemse on the central vertical axis. The binding is intact and original to the album. The front cover (p001) carries a printed label 'T.I.E.M. No. 2503' in the upper left — the old TIEM accession number. A small printed label at the lower right of p001 is partially legible. The back cover (p008) has a similar small label at the lower edge reading '70[?]'.",
+      "cover_type": "Meşin cilt — dark burgundy leather binding with gold cetvelli border, elmas kafes şemse, and salbek",
+      "notes": "The diamond-lattice (elmas kafes) şemse is a consistently documented Ottoman binding type with precedents from the 15th century onward; it was particularly common on smaller-format albums and kıtʿa collections. The salbek (vertical pendant bar) extending from the şemse top and bottom is a standard Ottoman binding feature. This binding type does not provide strong chronological constraint on its own. The dark burgundy leather color is consistent with high-quality Ottoman leather (probably dyed goatskin). The gold tooling is clean and well-preserved on both covers."
+    },
+    "format": "Muraqqaʿ — Ottoman calligraphic album (8 pages/4 openings including covers and ebru endpapers)",
+    "condition_summary": "The album is generally well-preserved. The leather binding covers (p001, p008) show moderate wear and some surface scuffing but no catastrophic damage. The front flyleaf/doublure (p002 left) shows foxing, soiling, and some surface loss but library ownership stamps are clearly legible. The battal ebru endpapers (p002 right, p007 left) are vivid and well-preserved with no significant fading. The green mülevven calligraphy pages (p003–p007) are in reasonable condition with scattered foxing and some surface spotting visible at IIIF resolution; the cetvelli ruling lines are intact. The calligraphy panels show some aging (foxing, minor soiling) but the script remains clearly legible. No missing leaves or major structural damage are visible from the IIIF sequence.",
+    "conservation_history": null
+  },
+  "visual_confirmation": {
+    "verdict": "confirmed",
+    "confidence": 0.92,
+    "screenshots_examined": 8,
+    "folios_examined": [
+      "corpus/iiif/kastamonu_4213_p001.jpg",
+      "corpus/iiif/kastamonu_4213_p002.jpg",
+      "corpus/iiif/kastamonu_4213_p003.jpg",
+      "corpus/iiif/kastamonu_4213_p004.jpg",
+      "corpus/iiif/kastamonu_4213_p005.jpg",
+      "corpus/iiif/kastamonu_4213_p006.jpg",
+      "corpus/iiif/kastamonu_4213_p007.jpg",
+      "corpus/iiif/kastamonu_4213_p008.jpg"
+    ],
+    "visual_evidence": "All three decoration types confirmed across 8 IIIF pages examined at native resolution (3317–3572 px width). (1) Battal ebru: unambiguous stone-marbling on p002 (right page, front endpaper) and p007 (left page, rear endpaper). Both show classic battal ebru: large organic rounded color pools without combing, in vivid polychrome. Front endpaper (p002): silver-grey dominant with red, yellow, and green pools. Rear endpaper (p007): green dominant with red, yellow, and grey pools — different palette balance but same technique from the same tradition. (2) Green mülevven: pale green tinted margin paper clearly visible on all calligraphy openings (pp003–007). The green is distinctly different from the cream calligraphy panels and shows no zerefşân; it is consistent with plain through-dyed mülevven paper. The uniformity of tint across all calligraphy openings confirms intentional dyeing rather than discoloration. (3) Cetvelli framing: multi-line green/gold/red ruling system visible on all calligraphy pages, framing each calligraphy panel within the green mülevven margin. Gold and red lines clearly legible at native resolution. Binding: dark burgundy leather with gold diamond-lattice şemse and salbek on both covers (p001, p008). Old TIEM label 'T.I.E.M. No. 2503' confirmed on p001 — note this reads '2503' not '4503' (OCR/transcription discrepancy in the task brief; IIIF image is authoritative).",
+    "limitations": [
+      "The İbn Hamdullah calligraphic attribution is from the YEK catalogue and cannot be independently verified from IIIF images without comparison to documented authenticated works",
+      "The green tint on margin papers, while consistent with intentional mülevven, could theoretically include an element of age-related yellowing shifted to green by the original paper substrate; physical examination would confirm through-dyeing",
+      "The small illuminated cartouche panel at the top of p007 right is too small for reliable text identification at available IIIF resolution; it may contain a ketebe attribution or title",
+      "The front ebru endpaper and rear ebru endpaper have different color balance — whether these are from the same production batch or were assembled from different ebru papers requires physical examination",
+      "No independent calligraphic analysis or codicological examination has been performed; the record relies on YEK catalogue attribution and visual confirmation from IIIF images"
+    ],
+    "source_agent": "metadata-generator (direct IIIF examination at native resolution)",
+    "source_file": "catalog/searches/visual_tier2_kastamonu_4213.json"
+  },
+  "folio_analyses": [
+    {
+      "folio": "Front cover (IIIF p001)",
+      "source_image": "corpus/iiif/kastamonu_4213_p001.jpg",
+      "dimensions_px": { "width": 3479, "height": 2771 },
+      "decoration_present": true,
+      "decoration_types": ["framing_system"],
+      "elements": [
+        {
+          "motif": "Dark burgundy leather binding with gold diamond-lattice şemse and salbek",
+          "description": "The front cover is dark burgundy/maroon leather (meşin). A gilt diamond-lattice şemse (elmas kafes şemse) occupies the center of the cover: a square medallion composed of a grid of diagonal crossing lines creating a cross-hatched net pattern within a diamond outline. Above and below the şemse, a vertical gilt salbek (pendant bar) extends along the central vertical axis to upper and lower cetvelli border lines. A gilt outer cetvelli border runs along all four edges of the cover. The label 'T.I.E.M. No. 2503' (green and cream paper, printed) is affixed in the upper left corner — the former TIEM accession number. A small partially legible label appears at the lower right. The right half of the IIIF image shows the inside cover/doublure (dark, suggesting no doublure paper visible at this angle).",
+          "location": "Full front cover exterior",
+          "confidence": 0.97
+        }
+      ],
+      "confidence": 0.97,
+      "notes": "The TIEM label reads '2503' at native resolution — not '4503' as mentioned in the task brief. The diamond-lattice şemse with salbek is a standard early-to-mid Ottoman album binding format, consistent with the İbn Hamdullah period attribution but not exclusively datable to it."
+    },
+    {
+      "folio": "Flyleaf / doublure opening — front battal ebru endpaper (IIIF p002)",
+      "source_image": "corpus/iiif/kastamonu_4213_p002.jpg",
+      "dimensions_px": { "width": 3479, "height": 2771 },
+      "decoration_present": true,
+      "decoration_types": ["marbled"],
+      "elements": [
+        {
+          "motif": "Blank flyleaf / inside cover doublure with library ownership documentation",
+          "description": "The left page shows a plain cream/off-white paper with handwritten accession notes ('2503' in Arabic numerals, and other inscriptions), a rectangular label impression (removed or faded), and a clearly legible KASTAMONU YAZMA ESER KÜTÜPHANESİ ownership stamp with Kayıt No: 4213 and Tasnif No: 745.6. No decorative paper on this side.",
+          "location": "Left page of inside front cover opening (flyleaf/doublure)",
+          "confidence": 0.99
+        },
+        {
+          "motif": "Battal ebru endpaper — front (silver-grey, red, yellow, green stone marbling)",
+          "description": "The right page of the opening is covered with battal ebru (stone marbling, büyük havuz tekniği). The pattern consists of large organic rounded color pools without combing: silver-grey/blue-grey dominates (the largest pools), interspersed with vivid red/crimson, bright yellow, and muted green pools. White/cream areas provide ground between the color masses. The pools are rounded, irregular, and bounded by thin dark outline traces — the characteristic appearance of battal ebru produced by dropping colors onto a plain size (without the combing of hatip or gel-git techniques). The overall effect is vigorous and polychromatic. The paper appears to extend to the binding edge, consistent with endpaper function.",
+          "location": "Right page of inside front cover opening (front endpaper)",
+          "confidence": 0.96
+        }
+      ],
+      "confidence": 0.96,
+      "notes": "This is the ebru interior documented in the catalogue ('cildin iç kısımları ebrulu'). The color composition of the front endpaper — silver-grey dominant with red, yellow, and green — is subtly different from the rear endpaper (p007 left, which is green-dominant). Both are battal ebru but likely from different production batches or from within the same batch with natural palette variation."
+    },
+    {
+      "folio": "First calligraphy opening — green mülevven margins (IIIF p003)",
+      "source_image": "corpus/iiif/kastamonu_4213_p003.jpg",
+      "dimensions_px": { "width": 3479, "height": 2771 },
+      "decoration_present": true,
+      "decoration_types": ["colored", "framing_system"],
+      "elements": [
+        {
+          "motif": "Green mülevven outer margin paper — both pages",
+          "description": "The outer margins of both pages are a uniform pale green tinted paper (mülevven kâğıt). The green tint is clearly distinct from the cream calligraphy text panels. At IIIF native resolution, no gold speckling (zerefşân) is visible on the green paper — this is plain mülevven, not zerefşân on a colored ground. The green tone is consistent across both pages, indicating the same paper stock for both leaves of this opening. The green margin paper extends from the binding edge to the cetvelli framing system on all sides.",
+          "location": "Outer margins, both pages",
+          "confidence": 0.91
+        },
+        {
+          "motif": "Multi-line cetvelli framing — green, gold, and red rules",
+          "description": "Between the green mülevven margin and the cream calligraphy panel, a multi-line framing system is visible: an outer green rule, then a gold cetvel, then a red iç cetvel immediately surrounding the calligraphy text area. The three-color layering (green/gold/red) creates a graduated visual transition from the green margin to the cream text ground. The lines are cleanly drawn and intact.",
+          "location": "Panel frame, both pages",
+          "confidence": 0.90
+        },
+        {
+          "motif": "Sülüs and nesih calligraphy kıtʿa panels",
+          "description": "Both pages contain calligraphy panels in two registers: large bold sülüs lines (tall, strongly curved and diagonal letterforms with emphatic thick-thin contrast), and smaller nesih lines between the sülüs lines. The sülüs occupies single diagonal sweeping lines across the panel; the nesih provides the supporting text in smaller dense horizontal lines. On the left page, a large circular library/vakf seal is visible in the lower left of the calligraphy panel. On the right page, the panel layout is divided into upper and lower sections with a horizontal divider. Small gold dots (possible gül/verse markers) appear within the nesih text lines.",
+          "location": "Central calligraphy panels, both pages",
+          "confidence": 0.88
+        }
+      ],
+      "confidence": 0.90,
+      "notes": "The green mülevven is the catalogue-undocumented decoration type discovered during visual confirmation. The combination of sülüs + nesih in a single kıtʿa panel is consistent with the multi-script exhibition format typical of Ottoman calligraphic albums. The circular seals are library/ownership stamps added after the album's production."
+    },
+    {
+      "folio": "Second calligraphy opening — green mülevven margins (IIIF p004)",
+      "source_image": "corpus/iiif/kastamonu_4213_p004.jpg",
+      "dimensions_px": { "width": 3572, "height": 2834 },
+      "decoration_present": true,
+      "decoration_types": ["colored", "framing_system"],
+      "elements": [
+        {
+          "motif": "Green mülevven outer margin paper — both pages",
+          "description": "Same pale green mülevven margin paper as p003, consistently tinted. The green is slightly more vivid on this opening than on p003, possibly due to lighting differences in the IIIF capture, or slight variation within the same paper batch. No zerefşân visible at native resolution.",
+          "location": "Outer margins, both pages",
+          "confidence": 0.91
+        },
+        {
+          "motif": "Multi-line cetvelli framing — green, gold, and red rules",
+          "description": "Same three-color ruling system as p003 (green outer, gold mid, red iç cetvel). Clean and intact.",
+          "location": "Panel frame, both pages",
+          "confidence": 0.90
+        },
+        {
+          "motif": "Sülüs and nesih calligraphy kıtʿa panels",
+          "description": "Both pages continue the sülüs + nesih format. The left page has large sülüs lines with diagonal sweeping forms and accompanying nesih text, plus a circular library seal in the lower left. The right page shows a three-register panel layout with sülüs lines separated by nesih passages. Gold dot markers are visible in the nesih sections.",
+          "location": "Central calligraphy panels, both pages",
+          "confidence": 0.88
+        }
+      ],
+      "confidence": 0.90,
+      "notes": "The consistency of the green mülevven margin across all calligraphy openings is strong evidence for intentional mülevven paper selection for the album's calligraphy pages as a programmatic choice."
+    },
+    {
+      "folio": "Third calligraphy opening — green mülevven margins (IIIF p005)",
+      "source_image": "corpus/iiif/kastamonu_4213_p005.jpg",
+      "dimensions_px": { "width": 3572, "height": 2834 },
+      "decoration_present": true,
+      "decoration_types": ["colored", "framing_system"],
+      "elements": [
+        {
+          "motif": "Green mülevven outer margin paper — both pages",
+          "description": "Green mülevven margins consistent with pp003–004. The tint appears slightly more faded/muted on this opening, possibly from differential exposure or the position within the album (center). A small gold decorative element (possibly a tezhip rosette or corner piece) is visible at the upper right corner of the left page calligraphy panel frame.",
+          "location": "Outer margins, both pages",
+          "confidence": 0.89
+        },
+        {
+          "motif": "Multi-line cetvelli framing",
+          "description": "The three-color cetvelli framing system (green/gold/red) continues, though the gold ruling appears slightly less vivid here than on earlier openings, possibly due to surface oxidation or photographic lighting.",
+          "location": "Panel frame, both pages",
+          "confidence": 0.87
+        },
+        {
+          "motif": "Sülüs and nesih calligraphy kıtʿa panels with circular seals",
+          "description": "Both pages show the standard sülüs + nesih panel layout. A circular vakf/ownership seal is visible on the right page. Gold dots appear within nesih sections. The left page panel shows a possible illuminated small corner piece (tezhip koltuk) at the upper right of the panel frame, suggesting this may be a more elaborately framed opening than a first impression suggests.",
+          "location": "Central calligraphy panels, both pages",
+          "confidence": 0.87
+        }
+      ],
+      "confidence": 0.88,
+      "notes": "The possible koltuk tezhip element at upper right of the left page panel requires higher-resolution examination to confirm. If present, it would indicate a more elaborate framing program than is evident from the outer cetvelli alone."
+    },
+    {
+      "folio": "Fourth calligraphy opening — green mülevven margins (IIIF p006)",
+      "source_image": "corpus/iiif/kastamonu_4213_p006.jpg",
+      "dimensions_px": { "width": 3317, "height": 2835 },
+      "decoration_present": true,
+      "decoration_types": ["colored", "framing_system"],
+      "elements": [
+        {
+          "motif": "Green mülevven outer margin paper — both pages",
+          "description": "Green mülevven margins consistent with all preceding calligraphy openings. The color is slightly more blue-green on this opening, which may reflect variation within the mülevven paper batch or differential aging. No zerefşân visible.",
+          "location": "Outer margins, both pages",
+          "confidence": 0.89
+        },
+        {
+          "motif": "Multi-line cetvelli framing",
+          "description": "Three-color cetvelli framing (green/gold/red) intact and visible on both pages.",
+          "location": "Panel frame, both pages",
+          "confidence": 0.87
+        },
+        {
+          "motif": "Sülüs and nesih calligraphy panels",
+          "description": "Both pages continue the standard multi-register sülüs + nesih layout. Circular seals visible (vakf/ownership stamps). Gold dot markers in nesih lines.",
+          "location": "Central calligraphy panels, both pages",
+          "confidence": 0.87
+        }
+      ],
+      "confidence": 0.88,
+      "notes": "Fourth and final standard calligraphy opening before the closing spread (p007). The slight blue-green shift in margin paper on this opening is within the expected natural variation range of Ottoman through-dyed mülevven paper and does not indicate a different paper type."
+    },
+    {
+      "folio": "Closing spread — rear battal ebru endpaper + final calligraphy page (IIIF p007)",
+      "source_image": "corpus/iiif/kastamonu_4213_p007.jpg",
+      "dimensions_px": { "width": 3390, "height": 2776 },
+      "decoration_present": true,
+      "decoration_types": ["marbled", "colored", "framing_system"],
+      "elements": [
+        {
+          "motif": "Battal ebru endpaper — rear (green-dominant, red, yellow, grey stone marbling)",
+          "description": "The left page of the closing spread is the rear endpaper, covered with battal ebru. The color palette here is green-dominant (large rounded green pools), with vivid red/crimson pools, yellow/ochre accents, and silver-grey/white pools. The battal technique is identical to the front endpaper (p002 right): large rounded organic color masses without combing. The overall impression is brighter and greener than the front endpaper (which was silver-grey dominant). A circular stamp impression is visible on the ebru — likely a vakf or library seal applied after binding. The presence of matching battal ebru at both structural ends of the album (front endpaper p002 + rear endpaper p007) confirms the intentional pairing described in the catalogue.",
+          "location": "Left page (rear endpaper)",
+          "confidence": 0.95
+        },
+        {
+          "motif": "Final calligraphy page with possible tezhip panel at top",
+          "description": "The right page shows the final calligraphy opening. The green mülevven margin and cetvelli framing are present, consistent with all calligraphy pages. At the top of the calligraphy panel, a small rectangular area with what appears to be a blue ground and gold lettering is visible — this may be an illuminated basmala panel, a tezhip başlık/cartouche, or a ketebe panel with the calligrapher's name and/or attribution. At available IIIF resolution the text within this panel is not independently legible but the blue ground with gold is clearly distinct from the rest of the cream calligraphy panel below it. This tezhip element, if confirmed, adds an illuminated_margins component to the decorative program of this page.",
+          "location": "Right page (final calligraphy page)",
+          "confidence": 0.82
+        }
+      ],
+      "confidence": 0.93,
+      "notes": "The rear endpaper confirming battal ebru at both structural ends of the album is the key visual evidence supporting the catalogue's 'cildin iç kısımları ebrulu' description. The color palette variation between front (silver-grey dominant) and rear (green dominant) endpapers is within the normal range of battal ebru batch variation and does not indicate different techniques or different production periods. The possible tezhip panel at the top of the final calligraphy page (p007 right) warrants targeted higher-resolution imaging — if it contains a ketebe with İbn Hamdullah's name, it would constitute direct calligraphic attribution evidence."
+    },
+    {
+      "folio": "Back cover (IIIF p008)",
+      "source_image": "corpus/iiif/kastamonu_4213_p008.jpg",
+      "dimensions_px": { "width": 3450, "height": 2777 },
+      "decoration_present": true,
+      "decoration_types": ["framing_system"],
+      "elements": [
+        {
+          "motif": "Dark burgundy leather binding with gold diamond-lattice şemse and salbek — back cover",
+          "description": "The back cover is identical in structure to the front (p001): dark burgundy/maroon leather with a central gilt diamond-lattice şemse (elmas kafes şemse) and a vertical gilt salbek above and below. A gilt cetvelli border runs along all four edges. The back cover appears in slightly better condition than the front — less surface scuffing and cleaner gold tooling. A small label at the lower edge reads '70[?]' (possibly a reference number).",
+          "location": "Full back cover exterior",
+          "confidence": 0.97
+        }
+      ],
+      "confidence": 0.97,
+      "notes": "The matching front and back covers confirm the binding is intact and original, with no evidence of rebinding. The bilateral symmetry of the şemse design on both covers is standard for Ottoman luxury album bindings."
+    }
+  ],
+  "terminology": {
+    "terms_used": [
+      {
+        "concept": "Stone marbling (plain battal ebru)",
+        "ottoman": "battal ebru / büyük havuz tekniği / taşlı ebru",
+        "arabic": "waraq marmūr (ورق مرمور) — marbled paper",
+        "persian": "kāġaḏ-e abrī (کاغذ ابری) — cloud/marbled paper",
+        "english": "Battal ebru (also called taşlı ebru or 'stone marbling'): the fundamental Ottoman marbling technique in which colors are simply dropped onto the size without any combing. The result is large, rounded, organic color pools — the 'stones' — distributed randomly across the paper surface. This is distinct from hatip ebru (comb-marbling, producing fine parallel chevrons) and gel-git (single-stylus back-and-forth, producing flowing S-curves). Battal ebru is the earliest documented Ottoman ebru technique. In this album, battal ebru is used for the structural endpapers at both binding ends."
+      },
+      {
+        "concept": "Tinted/dyed paper (mülevven)",
+        "ottoman": "mülevven kâğıt / renkli kâğıt / boyalı kâğıt",
+        "arabic": "waraq mulawwan (ورق ملوّن) — colored paper",
+        "persian": "kāġaḏ-e mulavvan (کاغذ ملوّن) — colored paper",
+        "english": "Mülevven: in this project's terminology, mülevven refers to intentionally tinted or dyed paper — paper whose entire surface is a single uniform color, achieved by dyeing the paper sheet in a bath (through-dyeing/vat dyeing) or by surface application of a color wash. In this album, the green mülevven margin papers are pale green throughout, without surface texture changes or pattern. This distinguishes mülevven from ebru (patterned marbling), zerefşân (gold-sprinkled), and halkar (painted gold margin decoration). The green mülevven margins of this album are closely paralleled by na_00120 in the corpus (hatip ebru + green mülevven, same murakka format)."
+      },
+      {
+        "concept": "Calligraphic album",
+        "ottoman": "muraqqaʿ / murakkaat (مرقعات)",
+        "arabic": "muraqqa (مرقع) / muraqqa'āt (مرقعات)",
+        "persian": "muraqqa (مرقع)",
+        "english": "Muraqqaʿ: a bound Ottoman calligraphic (and sometimes pictorial) album. This album contains multiple kıtʿa (calligraphic specimen sheets) in sülüs and nesih scripts, attributed to İbn Hamdullah. The format — multiple kıtʿa bound together with decorated paper programs (ebru endpapers, mülevven margins) — is the standard Ottoman muraqqaʿ format."
+      },
+      {
+        "concept": "Calligraphic specimen sheet",
+        "ottoman": "kıtʿa (قطعة) / kıtʿa-i hat",
+        "arabic": "qiṭʿa (قطعة)",
+        "persian": "qiṭʿa (قطعه)",
+        "english": "Kıtʿa: a single calligraphic specimen sheet displaying formal calligraphy in one or more scripts. This album contains multiple kıtʿa in Arabic, in sülüs and nesih scripts."
+      },
+      {
+        "concept": "Sülüs script",
+        "ottoman": "sülüs hattı",
+        "arabic": "thuluth (ثلث)",
+        "persian": null,
+        "english": "Sülüs (thuluth): one of the six classical Arabic scripts, characterized by large rounded letterforms with strong contrast between thick and thin strokes, and prominent diagonal sweep. The primary large-format script in this album. The Şeyh Hamdullah school established the canonical Ottoman form of sülüs, distinguished from earlier Abbasid forms by its proportions and specific letterform solutions."
+      },
+      {
+        "concept": "Nesih script",
+        "ottoman": "nesih hattı",
+        "arabic": "naskh (نسخ)",
+        "persian": null,
+        "english": "Nesih (naskh): a small, clear, rounded Arabic script widely used for manuscript copying. Present in the smaller-scale accompanying lines of the calligraphy panels, providing the supporting text alongside the large sülüs demonstration lines."
+      },
+      {
+        "concept": "Central medallion (binding)",
+        "ottoman": "şemse / elmas kafes şemse",
+        "arabic": "shams (شمس)",
+        "persian": "shamsa (شمسه) / toranj (ترنج)",
+        "english": "Şemse (shamsa): the central medallion applied to both front and back binding covers. In this album, the şemse takes the form of an elmas kafes (diamond-lattice / cross-hatched grid) — a diamond-outline medallion filled with a regular grid of diagonal crossing lines. This is a well-attested Ottoman binding medallion type found across a wide chronological range. Applied in gold (yaldız) on dark burgundy leather."
+      },
+      {
+        "concept": "Pendant from binding medallion",
+        "ottoman": "salbek / sar-toranj",
+        "arabic": null,
+        "persian": "sar-toranj (سر ترنج)",
+        "english": "Salbek: the vertical pendant/tongue that extends from the top and bottom of the şemse along the central axis of the binding cover. In this album, the salbek takes the form of a thin vertical gold bar extending from the şemse toward the cover edges, terminating at the cetvelli border. A standard Ottoman binding feature."
+      },
+      {
+        "concept": "Gold ruling lines",
+        "ottoman": "altın cetvel / cetvelli / yaldız cetvel",
+        "arabic": "jadwal mudhahdhab (جدول مذهّب)",
+        "persian": "jadval-e zar (جدول زر)",
+        "english": "Altın cetvel: ruling lines drawn in gold, framing the calligraphic text panel. In this album, the cetvelli system uses three colors: green outer rule (matching the mülevven margin paper), gold intermediate rule, and red innermost rule (iç cetvel) immediately surrounding the cream text panel. The three-color layering creates a harmonized chromatic transition between the green margin and the cream text area."
+      }
+    ]
+  },
+  "bibliography": [
+    {
+      "citation": "Derman, M. Uğur. Letters in Gold: Ottoman Calligraphy from the Sakıp Sabancı Collection, Istanbul. New York: The Metropolitan Museum of Art, 1998.",
+      "relevance": "The primary English-language exhibition catalogue on Ottoman calligraphy, with extensive coverage of Şeyh Hamdullah, his school and successors. Essential for contextualizing the İbn Hamdullah attribution: Derman documents Şeyh Hamdullah's life (c. 1436–1520), his court role under Sultan Bayezid II, the formation of the Ottoman sülüs tradition, and the transmission of his style to subsequent generations. The catalogue's coverage of authenticated works from Hamdullah's circle provides the primary comparative basis for evaluating the calligraphic attribution in this album.",
+      "relevance_score": 0.97,
+      "access_notes": "Exhibition catalogue (Metropolitan Museum of Art, 1998); widely held at Islamic art and Ottoman studies libraries. ISBN 978-0870998843."
+    },
+    {
+      "citation": "Rado, Şevket. Türk Hattatları. Istanbul: Yayın Matbaacılık, 1984.",
+      "relevance": "Standard biographical reference for Ottoman calligraphers in Turkish, covering Şeyh Hamdullah and his descendants including İbn Hamdullah. Essential for establishing the biographical framework for the attribution (birth dates, active period, known works) and for the transmission of the Hamdullah school sülüs/nesih tradition. In Turkish.",
+      "relevance_score": 0.93,
+      "access_notes": "Reference monograph in Turkish; held at major Turkish academic and manuscript libraries. A key biographical dictionary for Ottoman calligraphers."
+    },
+    {
+      "citation": "Blair, Sheila S. 'Color and Gold: The Decorated Papers Used in Manuscripts in Later Islamic Times.' Muqarnas 17 (2000): 24–36.",
+      "relevance": "Foundational taxonomic study for classified decorated paper types including mülevven (colored paper) and marbled paper (ebru). Blair's framework for distinguishing tinted/dyed papers (mülevven) from sprinkled (zerefşân) and marbled (ebrî) papers is directly applicable to the three-component decorative program of this album. Her documentation of the range of colored papers in Islamic manuscripts provides comparative context for the green mülevven margins.",
+      "relevance_score": 0.95,
+      "access_notes": "Peer-reviewed article. Available via JSTOR (Brill/Muqarnas Online). Open-access PDF accessible at Academia.edu."
+    },
+    {
+      "citation": "Barutçugil, Hikmet Barutçu. Türk Ebru San'atı. Istanbul: Kubbealtı Neşriyatı, 1993.",
+      "relevance": "Primary technical reference on Ottoman marbling (ebru) techniques, with documentation of battal (stone), hatip (comb), gel-git, and other ebru subtypes. Essential for accurate classification of the battal ebru endpapers in this album and for understanding the distinction between the two endpaper palette variants (silver-grey dominant vs. green dominant) as normal within-batch variation rather than technique differences. In Turkish.",
+      "relevance_score": 0.92,
+      "access_notes": "Reference monograph in Turkish; held at Turkish arts and manuscript libraries."
+    },
+    {
+      "citation": "Roxburgh, David J. The Persian Album, 1400–1600: From Dispersal to Collection. New Haven: Yale University Press, 2005.",
+      "relevance": "Essential study of the murakkaat album format and decorated paper programs. Provides the theoretical and historical framework for understanding album assembly, the role of calligraphic attribution in album value, and the use of decorated papers (including marbling and tinted papers) as structural elements in album design. The İbn Hamdullah attribution, if authentic, would situate this album in the earliest generation of Ottoman album production — a period whose relationship to the Persian album tradition Roxburgh examines.",
+      "relevance_score": 0.85,
+      "access_notes": "Monograph; widely held at research libraries."
+    },
+    {
+      "citation": "Çağman, Filiz, and Zeren Tanındı. The Topkapı Saray Museum: The Albums and Illustrated Manuscripts. Translated and edited by J. M. Rogers. Boston: Little, Brown, 1986.",
+      "relevance": "Standard reference for Ottoman calligraphic albums in the Topkapı collections, including albums from the Şeyh Hamdullah era and subsequent periods. Provides direct comparanda for album bindings, decorated paper programs, and sülüs/nesih kıtʿa formats from the 15th–16th centuries. Essential for situating this album's binding type (diamond-lattice şemse) and paper decoration within the broader Ottoman court album tradition.",
+      "relevance_score": 0.88,
+      "access_notes": "Exhibition catalogue; widely held at Turkish and Islamic art research libraries."
+    },
+    {
+      "citation": "Gacek, Adam. Arabic Manuscripts: A Vademecum for Readers. Leiden: Brill, 2009.",
+      "relevance": "Standard reference for Islamic manuscript codicological terminology and script identification. Relevant for the identification and description of sülüs and nesih scripts, ketebe (colophon), kıtʿa (specimen sheet), and general codicological terms used in this record.",
+      "relevance_score": 0.78,
+      "access_notes": "Reference monograph; widely held."
+    },
+    {
+      "citation": "Bloom, Jonathan M. Paper Before Print: The History and Impact of Paper in the Islamic World. New Haven: Yale University Press, 2001.",
+      "relevance": "Comprehensive history of paper production and use in the Islamic world, covering the transition from handmade to European paper, colored paper traditions, and the role of decorated papers in luxury production. Provides material-culture background for the Ottoman decorated paper program documented in this album.",
+      "relevance_score": 0.72,
+      "access_notes": "Widely held monograph."
+    },
+    {
+      "citation": "Scheper, Karin. The Technique of Islamic Bookbinding: Methods, Materials and Regional Varieties. Leiden: Brill, 2015.",
+      "relevance": "Systematic study of Islamic bookbinding techniques, relevant for the physical analysis of the burgundy leather binding with gold şemse. The diamond-lattice şemse type and gold-tooled leather bindings documented in this album fall within Scheper's Ottoman period survey. Useful for contextualizing the binding format and comparing the şemse type across the Ottoman album binding tradition.",
+      "relevance_score": 0.72,
+      "access_notes": "Monograph; available at Islamic bookbinding and manuscript studies libraries."
+    },
+    {
+      "citation": "Déroche, François. Islamic Codicology: An Introduction to the Study of Manuscripts in Arabic Script. Translated by Deke Dusinberre and David Radzinowicz. London: Al-Furqan Islamic Heritage Foundation, 2005.",
+      "relevance": "Foundational reference for Islamic manuscript codicology, covering paper decoration types, binding forms, ruling systems, and physical manuscript description. Provides the classification framework used throughout this catalog record.",
+      "relevance_score": 0.74,
+      "access_notes": "Monograph; available at specialist libraries."
+    }
+  ],
+  "suggested_collections": [
+    {
+      "institution": "Topkapı Sarayı Müzesi Kütüphanesi, Istanbul",
+      "reason": "Holds the largest corpus of authenticated Şeyh Hamdullah and İbn Hamdullah works, as well as early Ottoman calligraphic albums from the 15th–16th centuries. Physical comparison with documented Topkapı albums from the Hamdullah lineage is essential for confirming or disconfirming the calligraphic attribution of this album.",
+      "digital_access": "https://kutuphane.tsmk.gov.tr"
+    },
+    {
+      "institution": "Sakıp Sabancı Museum, Istanbul",
+      "reason": "Holds major Şeyh Hamdullah and his school works studied in Derman (1998). One of the primary repositories for authenticated early Ottoman calligraphy. Comparative analysis with SSM holdings would provide the strongest basis for evaluating the İbn Hamdullah attribution.",
+      "digital_access": null
+    },
+    {
+      "institution": "Türk ve İslam Eserleri Müzesi (TIEM), Istanbul",
+      "reason": "The album formerly resided at TIEM (old accession no. T.I.E.M. No. 2503 confirmed on cover). TIEM institutional records may contain acquisition documentation, condition reports, or attribution notes from before the transfer to Kastamonu. The TIEM murakka corpus also provides direct comparanda for the album format and decorated paper program.",
+      "digital_access": "https://portal.yek.gov.tr"
+    },
+    {
+      "institution": "Chester Beatty Library, Dublin",
+      "reason": "Major collection of Ottoman calligraphic albums with decorated papers, including 15th–16th century Ottoman works. Provides international comparanda for the album format, battal ebru endpapers, and mülevven margin programs from the early Ottoman period.",
+      "digital_access": "https://viewer.cbl.ie"
+    },
+    {
+      "institution": "GlobalDecoPaper ERC Project, LMU Munich",
+      "reason": "The primary active research project on decorated papers in Islamic manuscripts, with specific focus on ebru and colored paper identification. The battal ebru endpapers and green mülevven margins of this album fall within the GlobalDecoPaper research scope; the project may have comparative material for early Ottoman ebru dating.",
+      "digital_access": null
+    }
+  ],
+  "provenance": {
+    "donor": null,
+    "waqf": null,
+    "previous_shelfmarks": [
+      "T.I.E.M. No. 2503 (Türk ve İslam Eserleri Müzesi, Istanbul — old accession; label confirmed on front cover p001 at IIIF resolution; reads '2503', not '4503')"
+    ],
+    "notes": "Currently held at Kastamonu Yazma Eser Kütüphanesi (Kastamonu, Turkey) under shelfmark 4213 (Kayıt No: 4213, Tasnif No: 745.6). The album formerly resided at the Türk ve İslam Eserleri Müzesi (TIEM), Istanbul, under accession number T.I.E.M. No. 2503, as confirmed by the printed label affixed to the front cover (p001). The circumstances and date of transfer from TIEM to Kastamonu are unknown; TIEM transferred many holdings to provincial Turkish libraries, but the specific transfer documentation for this album has not been located. The Kastamonu library ownership stamp on the inside front cover (p002 left) records accession number 4213 and classification number 745.6. A circular seal on the rear ebru endpaper (p007 left) is a vakf or ownership stamp that could provide additional provenance information with higher-resolution imaging. YEK ID: 702700. IIIF ID: 0000000673480."
+  },
+  "analysis_metadata": {
+    "analyzed_date": "2026-02-28",
+    "analyzer": "claude-code-manuscript-pipeline",
+    "pipeline_stage": "metadata-generator",
+    "image_source": "YEK Portal IIIF images, Kastamonu Yazma Eser Kütüphanesi, YEK ID 702700, IIIF ID 0000000673480. All 8 pages downloaded at native resolution (3317–3572 × 2771–2835 px) and examined directly.",
+    "image_quality_notes": "IIIF images are at native resolution (c. 3400–3570 px width) and support confident identification of all three decoration types. The battal ebru endpapers (pp002, 007) are clearly legible at this resolution. The green mülevven margin tint is clearly distinguishable from the cream calligraphy panels across all calligraphy openings. The cetvelli framing system is legible. The old TIEM label on p001 is readable ('T.I.E.M. No. 2503'). The small possible tezhip panel at the top of p007 right is visible but its text content is not independently legible at available resolution — targeted higher-resolution imaging recommended. Calligraphic attribution to İbn Hamdullah accepted from YEK catalogue; cannot be independently verified from available images.",
+    "folios_examined": [
+      "corpus/iiif/kastamonu_4213_p001.jpg",
+      "corpus/iiif/kastamonu_4213_p002.jpg",
+      "corpus/iiif/kastamonu_4213_p003.jpg",
+      "corpus/iiif/kastamonu_4213_p004.jpg",
+      "corpus/iiif/kastamonu_4213_p005.jpg",
+      "corpus/iiif/kastamonu_4213_p006.jpg",
+      "corpus/iiif/kastamonu_4213_p007.jpg",
+      "corpus/iiif/kastamonu_4213_p008.jpg"
+    ],
+    "folios_not_examined": "All 8 IIIF pages examined. Complete coverage of the album's IIIF sequence.",
+    "corpus_priority": "High — notable specimen for three reasons: (1) İbn Hamdullah attribution makes this potentially one of the earliest Ottoman calligraphic albums in the corpus, if the attribution is verified; (2) combines battal ebru endpapers + green mülevven margins, a combination paralleled only by na_00120 in the current corpus; (3) previous TIEM provenance (T.I.E.M. No. 2503) makes this a cross-collection transfer record of institutional interest. Priority follow-up: (a) Expert palaeographic comparison of sülüs letterforms with authenticated İbn Hamdullah works at TSMK and SSM; (b) targeted high-resolution imaging of p007 right top panel (possible ketebe); (c) TIEM archive consultation for transfer documentation; (d) physical examination of green mülevven margin paper for through-dyeing confirmation.",
+    "source_data": {
+      "visual_confirmation_file": "catalog/searches/visual_tier2_kastamonu_4213.json",
+      "yek_id": 702700,
+      "iiif_id": "0000000673480",
+      "batch": "Tier 2 Sub-Batch E (muraqqaʿ albums, 2026-02-28)"
+    },
+    "note_on_tiem_label": "The task brief described the old accession number as 'T.I.E.M. No. 4503'. IIIF examination of p001 at native resolution clearly reads 'T.I.E.M. No. 2503'. The '2503' reading is authoritative; the '4503' in the task brief appears to be an OCR or transcription error. This is noted for record integrity."
+  }
+}

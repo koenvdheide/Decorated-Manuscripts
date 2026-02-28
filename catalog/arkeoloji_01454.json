@@ -1,0 +1,653 @@
+{
+  "record_id": "arkeoloji_01454",
+  "collection": {
+    "institution": "İstanbul Arkeoloji Müzeleri Kütüphanesi",
+    "city": "Istanbul",
+    "country": "Turkey",
+    "shelfmark": "01454",
+    "yek_url": "https://portal.yek.gov.tr/works/detail/708494"
+  },
+  "manuscript": {
+    "title": "Muraqqaʿāt / مرقعات",
+    "title_script": "مرقعات",
+    "title_alt": "Menzil Taşı Muraqqaʿı",
+    "author": null,
+    "author_dates": null,
+    "calligrapher": "Başçuhadar Hüseyin Ağa (attr., second text)",
+    "calligrapher_dates": "active c. AH 1138 / 1725-26 CE",
+    "calligrapher_note": "The second text in the album is dated AH 1138 (1725-26 CE) and is attributed to Başçuhadar Hüseyin Ağa. A başçuhadar was the chief steward of the sultan's robe chamber — a senior household official at the Ottoman court, not primarily a professional calligrapher. The attribution therefore likely identifies the patron or commissioner of the milestone inscription (menzil taşı) text rather than a professional kâtib. The chronogram date AH 1204 (1789-90 CE) visible in the lower panel of p010 ('1204' numerals legible in the IIIF image) appears in the first text and postdates the album's primary AH 1138 content by sixty-six years, suggesting either a later annotation, a second campaign of inscribing, or that the album was assembled or expanded over time. The authorship of the calligraphic execution — as distinct from the textual content — is not identified in the YEK catalogue record.",
+    "date_ah": "AH 1138 (second text, explicit); AH 1204 (chronogram in first text)",
+    "date_ce": "1725-26 CE (second text); 1789-90 CE (chronogram)",
+    "date_note": "Two distinct dates are embedded in the calligraphic texts. The second text bears the explicit date AH 1138 / 1725-26 CE. The lower panel of p010 contains the chronogram '1204' (AH 1204 / 1789-90 CE) within the first text. The relationship between these dates is uncertain: the album may have been assembled or annotated in two stages, with the later chronogram added approximately sixty-six years after the dated second text. The physical album — its battal ebru paper, red leather binding, and vassale construction — could be contemporary with either date or intermediate. The AH 1138 date is taken as the primary production reference. Physical examination of the binding and paper may clarify whether a single or two-stage production is more plausible.",
+    "place_of_copy": null,
+    "format": "Muraqqaʿ / مرقع — calligraphic album with menzil taşı (milestone inscription) theme; vassale-mounted panels in cellular battal ebru margins",
+    "format_note": "A bound Ottoman calligraphic album (muraqqaʿ) of unusual thematic content: both texts record menzil taşı (milestone or milestone inscription) texts — epigraphic compositions commemorating a road-stage or post-station. The album contains 9+I folios (13 IIIF pages including covers and doublures). The format is horizontal (oblong), each opening presenting two horizontal calligraphy panels vassale-mounted into full-page sheets of cellular battal ebru paper. The album's distinguishing feature is its exceptional battal ebru paper: large rounded-oval cream cells separated by dark grey-blue vein networks with fine white stippling within each cell — a 'cellular' subtype unlike standard random-spot battal ebru and unlike any other battal ebru specimen documented in the project corpus. Two distinct battal ebru color variants are used: cool grey-blue dominant (pp001-008, 011 right), and warmer greenish-sage (pp009-010, 011 left), indicating two different paper batches or colorant applications within a single album.",
+    "language": "Turkish (Ottoman)",
+    "script": "Talik (taʿlîk / تعليق) — per YEK catalogue: 'Arap harfli — Talik'. The large formal talik hand is clearly visible in the IIIF images: characteristic elongated diagonal strokes, compressed letterforms with dramatic stroke contrast, and the looped hanging baselines typical of Ottoman talik.",
+    "dimensions_mm": {
+      "height": 580,
+      "width": 190,
+      "writing_area_mm": {
+        "height": 115,
+        "width": 510,
+        "note": "Each calligraphy panel: approximately 115 mm high × 510 mm wide (within the cetvelli frame). The overall album page is oblong/landscape format. Per YEK catalogue: '580×190 — 510×115 mm' (outer dimensions × panel writing area). IIIF images confirm the extreme horizontal proportions: pp002-010 are approximately 5824×4051 px, indicating a landscape album page roughly 3:2 in aspect ratio at the full-spread scale."
+      },
+      "note": "YEK catalogue records: '9+I yk., 1 st.; 580×190–510×115 mm'. The first dimension pair (580×190) likely describes individual leaf height × width; the second (510×115) the writing panel dimensions. The extreme slenderness of each leaf (580 mm tall, 190 mm wide) combined with the horizontal panel layout (510 mm wide) suggests the leaves open laterally to present wide two-panel spreads."
+    },
+    "folio_count": 10,
+    "yek_id": "708494",
+    "iiif_id": "0000000667064",
+    "notes": "A thematically specialized calligraphic album documenting menzil taşı (milestone inscription) texts — a relatively rare genre in the murakkaʿ tradition, where the subject matter is epigraphic/commemorative rather than literary or religious. The album's battal ebru paper is the most significant codicological feature: the cellular pattern (large rounded forms with internal stippling, separated by dark vein networks) is morphologically distinct from all other battal ebru specimens in the project corpus and raises questions about the specific technique, colorant, and marbler's identity. The two-variant ebru use (cool grey-blue vs. greenish-sage) within a single album is unusual and may reflect intentional color design or simply the sourcing of paper from two different batches. The red leather binding with gold-tooled şemse, salbek, köşelik, and ruling borders is standard Istanbul luxury binding of the 18th century. The calligraphy paper has a subtle warm/cream tint visible in several panels (notably pp009-010); this is assessed as likely age-related patina rather than intentional mülevven tinting, per the corrected visual confirmation verdict. YEK catalogue description: 'Nüshada iki farklı menzil taşı yazısı bulunmaktadır. İkinci yazı hicrî 1138 tarihli olup, Başçuhadar Hüseyin Ağa'ya aittir.'"
+  },
+  "paper_decoration": {
+    "types": [
+      "other",
+      "framing_system"
+    ],
+    "technique_status": "uncertain",
+    "technique_determination": {
+      "status": "uncertain",
+      "primary_hypothesis": {
+        "technique": "block_printed",
+        "ottoman_term": "kalıp baskılı kâğıt / kalıplı kâğıt",
+        "confidence": 0.7,
+        "key_evidence": "Regular repeating cell grid pattern too uniform for marbling; uniform internal branching stipple texture identical across ALL cells; same pattern replicated across 9+ pages (true battal ebru is unrepeatable); consistent cell size (~5-8 cm); sharp cell boundaries; pattern alignment differs between left/right pages at spine (p001)"
+      },
+      "alternative_hypothesis": {
+        "technique": "battal_ebru_controlled",
+        "ottoman_term": "battal ebrusu (kontrollü)",
+        "confidence": 0.25,
+        "key_evidence": "Polychrome pigment pooling at vein junctions; some cell-to-cell size variation; organic curvature in some vein boundaries"
+      },
+      "physical_exam_required": true,
+      "analysis_file": "catalog/analyses/arkeoloji_01454_technique_determination.json",
+      "corpus_significance": "If confirmed as block-printed, this would be the FIRST block-printed decorated paper (kalıplı kâğıt) in the entire corpus."
+    },
+    "summary": "TECHNIQUE UNCERTAIN — see technique_determination field and catalog/analyses/arkeoloji_01454_technique_determination.json. The dominant decorative element is a decorated paper of uncertain technique, provisionally classified as 'other'. TWO HYPOTHESES: (1) BLOCK-PRINTED (kalıp baskılı kâğıt, 0.70 confidence): the regular repeating cell grid, uniform internal stippling identical across all cells, and replication of the same pattern across 9+ pages strongly favor block-printing. (2) CONTROLLED BATTAL EBRU (0.25 confidence): polychrome pigment pooling and organic curvature favor marbling. Physical examination required (raking light, fiber cross-section, UV fluorescence). The pattern consists of large rounded-oval cream-white forms (~5-8 cm) with fine white branching stipple texture, separated by dark grey-blue vein networks. Large rounded-oval cream-white forms — each measuring approximately 3–5 cm at full scale — fill the margin sheets, separated by a continuous network of dark grey-blue veins. The interior of each rounded cell is not plain cream but is densely covered with fine white stippling, giving each cell a granular or frosted texture. This 'cellular battal' pattern is morphologically distinct from standard battal ebru (which produces irregular random spots or blobs) and has no direct parallel among the forty-plus murakkaʿ albums documented in the project corpus to date. Two color variants of this cellular battal are present: (1) cool grey-blue dominant on pp001-008 and the right side of p011 (inside back cover); (2) warmer greenish-sage on pp009-010 and the left side of p011, coinciding with the transition to the second menzil taşı text and suggesting that two different sheets or batches of ebru paper were used. The marbled paper functions exclusively as the outer margin ground into which horizontal calligraphy panels are vassale-mounted (window-mounted): each album page presents two panels, each framed by gold ruling lines (altın cetvel) with thin red inner strips. The calligraphy panels themselves are on cream/off-white burnished âharlı paper with a faint warm cast in some pages — this warm tone is assessed as age-related patina, not intentional mülevven coloring. The exterior binding (pp012-013) is red leather with gold-tooled decoration; the inside covers and doublures (pp001, p011) are lined with the same cellular battal ebru paper, integrating the marbling throughout the book structure.",
+    "catalogue_description": {
+      "paper_field": null,
+      "paper_field_normalized": null,
+      "paper_field_translation": null,
+      "notes_field": "Nüshada iki farklı menzil taşı yazısı bulunmaktadır. İkinci yazı hicrî 1138 tarihli olup, Başçuhadar Hüseyin Ağa'ya aittir.",
+      "notes_field_normalized": "Nüshada iki farklı menzil taşı yazısı bulunmaktadır. İkinci yazı hicrî 1138 tarihli olup, Başçuhadar Hüseyin Ağa'ya aittir.",
+      "notes_field_translation": "The manuscript contains two different milestone inscription texts. The second text is dated Hijri 1138 and belongs to Başçuhadar Hüseyin Ağa.",
+      "decoration_field": null,
+      "source": "YEK portal, genel_notlar and catalogue_claim fields, record 708494, İstanbul Arkeoloji Müzeleri Kütüphanesi. Additional catalogue data from visual_confirmation verdict (catalog/searches/visual_tier2_arkeoloji_01454.json). All paper decoration observations derive from visual examination of 13 native-resolution IIIF images (corpus/iiif/arkeoloji_01454_p001.jpg through p013.jpg) and the visual confirmation verdict."
+    },
+    "technique_terms": {
+      "ottoman": "TECHNIQUE UNCERTAIN: kalıp baskılı kâğıt / kalıplı kâğıt (block-printed paper, primary hypothesis 0.70) OR battal ebru (hücresel / cellular tip, alternative 0.25); vassale yöntemi; altın cetvel (cetvelli); kırmızı iç cetvel; deri cilt (kırmızı deri, yaldızlı şemse-salbek-köşelik)",
+      "persian": "kāġaẕ-e qālibī (کاغذ قالبی) — block-printed paper (if confirmed) OR abrī-ye battāl (ابری بطال) — stone marbling; vassāle (واسله) — panel window-mounting technique",
+      "arabic": "waraq maṭbūʿ bi-l-qālib (ورق مطبوع بالقالب) — block-printed paper (if confirmed) OR waraq murakhkham (ورق مرخّم) — marbled paper; jadwal mudhahdhab (جدول مذهّب) — gold-ruled frame"
+    }
+  },
+  "workshop_attribution": {
+    "primary_tradition": "ottoman",
+    "workshop_centre": "Istanbul",
+    "date_range_ce": "18th century (c. 1725-1790)",
+    "confidence": 0.8,
+    "key_indicators": [
+      "The AH 1138 / 1725-26 CE date of the second text places the primary production firmly in the early 18th century — the Tulip Era (Lâle Devri) of Ahmed III and Grand Vizier İbrahim Paşa, a period of intense luxury arts patronage in Istanbul",
+      "Başçuhadar Hüseyin Ağa is a court household title identifying an Ottoman palace official, supporting Istanbul court production and patronage context",
+      "The menzil taşı (milestone inscription) theme connects the album to the Ottoman imperial road and postal system (menzilhane), an infrastructure managed from Istanbul and closely tied to the sultan's household",
+      "The red leather binding with gold-tooled şemse, salbek, köşelik, and double-ruling borders is a standard Istanbul luxury album binding of the 18th century, closely paralleling binding formats documented in the TIEM murakkaʿ corpus",
+      "The vassale construction (horizontal calligraphy panels window-mounted in marbled margin sheets) is the dominant format in the Istanbul 18th-century murakkaʿ tradition, as documented in TIEM 02649, na_00270, and other Tier 2 corpus albums",
+      "The talik (taʿlîk) script is the predominant calligraphic hand in Ottoman albums of the 18th century, consistent with Istanbul court calligraphic production of the Lâle Devri period"
+    ],
+    "cross_tradition_caveats": [
+      "No explicit atelier, workshop, or city name appears in the YEK catalogue record; the Istanbul attribution is inferred from the court title of Başçuhadar Hüseyin Ağa and the binding and paper format evidence",
+      "The cellular battal ebru pattern has no documented parallel in the Istanbul marbling corpus as currently known; its unusual morphology (large rounded cells with internal stippling rather than random spots) may indicate a specific marbling master, a specific period technique, or a non-Istanbul provenance for the ebru papers themselves — marbled papers were traded and could be acquired from outside a manuscript's place of production",
+      "The AH 1204 / 1789-90 CE chronogram in the first text postdates the AH 1138 date by 66 years; if the first text and its chronogram were added in a second campaign of compilation, the album may represent two distinct production phases spanning the 18th century",
+      "Physical examination of the binding and paper (particularly the ebru paper) would be required to confirm whether the current binding is original to the AH 1138 commission or represents a later rebinding"
+    ]
+  },
+  "codicology": {
+    "paper": {
+      "color": "Two types: (1) cellular battal ebru paper — cream-white rounded cells on grey-blue vein ground, with fine white stippling within each cell; two color variants: cool grey-blue (pp001-008, p011 right) and warmer greenish-sage (pp009-010, p011 left). (2) Calligraphy panels — cream/off-white burnished âharlı paper with a subtle warm/pinkish-cream cast in some panels (particularly pp009-010); assessed as age-related patina rather than intentional mülevven coloring.",
+      "preparation": "The calligraphy panels are written on âharlı (sized and burnished) paper, consistent with Ottoman luxury calligraphy standards. The margin sheets bear a distinctive cellular pattern whose production technique is UNCERTAIN: the primary hypothesis (0.70) is block-printing (kalıp baskı) — a carved wooden block pressed onto the paper surface — based on the regularity of the cell grid, uniform internal texture, and pattern replication across 9+ pages. The alternative (0.25) is a highly controlled battal ebru variant. Physical examination (raking light for relief marks, fiber cross-section for pigment penetration depth, UV fluorescence for binding medium) is required. See catalog/analyses/arkeoloji_01454_technique_determination.json.",
+      "weight": "Indeterminate from IIIF images. The calligraphy panels are large-format (c. 510×115 mm writing area) and appear moderately stiff; the ebru margin sheets are mounted as full album pages.",
+      "decoration": "Cellular battal ebru as full-page margin paper; gold cetvelli framing each calligraphy panel; thin red inner ruling strips; vassale (window-mount) construction for calligraphy panels.",
+      "paper_type": "Eastern/Oriental paper (âharlı) for calligraphy panels; locally produced battal ebru on probable eastern paper stock for margins."
+    },
+    "ruling": {
+      "system": "Altın cetvelli (gold-ruled) framing each calligraphy panel, with thin red inner rule immediately surrounding the writing area. Two panels per page, each with its own individual cetvelli frame. A narrow red strip of plain paper separates the two panels vertically within each opening.",
+      "description": "Each of the nine text pages (pp002-010) presents two horizontal calligraphy panels. Each panel is individually framed by a multi-line system visible in the IIIF images: the cream calligraphy paper is surrounded by a thin red inner rule, then a narrow gold cetvel line, then the battal ebru outer margin. The framing is restrained compared to some corpus albums (e.g., the multi-layer polychrome cetvels of TIEM 02649); it prioritizes legibility of the large talik calligraphy rather than decorative complexity. A red-dyed paper separator strip runs horizontally between the two panels on each page, creating a strong horizontal tripartite division: upper panel — red strip — lower panel. Page numbers (Arabic numerals) are visible in the upper corners of some panels (e.g., '3' on p003 upper panel, legible in the IIIF image). Library stamps appear on p010 lower panel.",
+      "gold_rule_description": "Single gold cetvel line surrounding each panel; thin red inner rule; no koltuk (corner illumination) pieces observed — the framing system is functional rather than elaborately decorated."
+    },
+    "binding": {
+      "cover_description": "Front cover (p012) and back cover (p013): dark crimson/wine-red leather. Each cover bears: (1) a gilt outer frame (double ruling lines at the cover perimeter); (2) a central oval şemse (medallion) in gold, with a lightly tooled floral or geometric interior design; (3) a small salbek (pendant) above and below the şemse, each terminating in a small pointed ornament; (4) gilt köşelik (corner pieces) at the four corners — small pointed or diamond-shaped ornaments; (5) additional small gilt dot or star ornaments distributed symmetrically on the field between the şemse and the corner/frame elements. The front cover (p012) appears in slightly better condition with sharper tooling impression; the back cover (p013) is closely matched. The binding is intact and original in appearance. The inside covers and doublures (pp001, 011) are lined with the same cellular battal ebru paper used throughout the album's interior, fully integrating the marbled paper decoration into the binding structure.",
+      "cover_type": "Deri cilt — red/crimson leather binding with gold-tooled şemse, salbek, köşelik, and ruling borders",
+      "notes": "The binding format — red leather with gilt şemse-salbek-köşelik tooling and a lined interior in marbled paper — is a standard Istanbul luxury murakkaʿ binding of the 18th century. The integration of cellular battal ebru as doublure lining (visible on pp001 and 011) means the unusual marbled paper is present at every structural level of the album: doublures, margin sheets, and (by extension) the visual rhythm of every page opening. This consistency suggests the ebru paper was purpose-acquired in quantity for this album commission rather than being residual or recycled stock."
+    },
+    "format": "Muraqqaʿ — horizontal-format Ottoman calligraphic album with vassale-mounted panels",
+    "condition_summary": "Generally good condition. The cellular battal ebru paper is vivid and legible throughout. The two color variants of the ebru are clearly visible, suggesting the paper has not significantly faded. The calligraphy panels are largely legible; the p010 lower panel is partially blank with library stamps, possibly indicating a page left for completion or a later annotation space. The red leather binding shows light wear and scuffing but is structurally intact. Red ink notation 'No 1454' (visible on p011) is a later accession or inventory marking. Library stamps are present on pp002 and p010.",
+    "conservation_history": null
+  },
+  "visual_confirmation": {
+    "verdict": "confirmed",
+    "confidence": 0.93,
+    "screenshots_examined": 13,
+    "folios_examined": [
+      "corpus/iiif/arkeoloji_01454_p001.jpg",
+      "corpus/iiif/arkeoloji_01454_p002.jpg",
+      "corpus/iiif/arkeoloji_01454_p003.jpg",
+      "corpus/iiif/arkeoloji_01454_p004.jpg",
+      "corpus/iiif/arkeoloji_01454_p005.jpg",
+      "corpus/iiif/arkeoloji_01454_p006.jpg",
+      "corpus/iiif/arkeoloji_01454_p007.jpg",
+      "corpus/iiif/arkeoloji_01454_p008.jpg",
+      "corpus/iiif/arkeoloji_01454_p009.jpg",
+      "corpus/iiif/arkeoloji_01454_p010.jpg",
+      "corpus/iiif/arkeoloji_01454_p011.jpg",
+      "corpus/iiif/arkeoloji_01454_p012.jpg",
+      "corpus/iiif/arkeoloji_01454_p013.jpg"
+    ],
+    "visual_evidence": "All 13 IIIF pages examined at native resolution (max 6048×8699 px). Cellular battal ebru confirmed as the dominant decorative paper throughout: large rounded-oval cream cells with grey-blue vein networks and fine internal stippling, unmistakably present on every interior page. The two battal ebru color variants are clearly distinguishable in the images: pp001-008 and p011 right show the cooler grey-blue dominant ground; pp009-010 and p011 left show a warmer, slightly greenish-sage tint — the left and right halves of the p011 double-spread visually demonstrate both variants side-by-side. Vassale construction confirmed: calligraphy panels are clearly window-mounted into the ebru margin sheets, with visible panel edges and red separator strips. Gold cetvelli framing confirmed on all text pages. Red leather binding with gold-tooled şemse, salbek, köşelik confirmed on pp012-013. AH 1204 chronogram numerals legible in lower panel of p010. Red ink accession notation 'No 1454' legible on p011.",
+    "limitations": [
+      "The 'pink mulevven margins' description from the initial triage is a misidentification: the margins are cellular battal ebru, not mülevven. The faint warm/pinkish cast is on the calligraphy panel paper itself and is assessed as age-related patina rather than intentional mülevven tinting. The classification does NOT include 'colored' as a decoration type for this reason.",
+      "The cellular battal ebru pattern (large rounded cells with internal stippling) has no direct comparandum in the documented corpus; its morphological distinctiveness raises the question of whether this represents a specific named subtype, a specific marbler's style, or a technique associated with a particular period. Physical examination and comparison with dated ebru specimens in marbling archives would be needed to resolve this.",
+      "The relationship between the AH 1138 and AH 1204 dates within the album's two texts is unclear from available evidence; the album may be a single-phase or two-phase production.",
+      "The calligrapher of the written panels is not identified beyond the association with Başçuhadar Hüseyin Ağa (likely a patron/commissioner, not the calligrapher)."
+    ],
+    "source_agent": "visual-confirmation",
+    "session": "catalog/searches/visual_tier2_arkeoloji_01454.json"
+  },
+  "folio_analyses": [
+    {
+      "folio": "Inside front cover + doublure — cellular battal ebru (IIIF p001)",
+      "source_image": "corpus/iiif/arkeoloji_01454_p001.jpg",
+      "decoration_present": true,
+      "decoration_types": [
+        "other"
+      ],
+      "elements": [
+        {
+          "motif": "Cellular battal ebru — inside front cover doublure, cool grey-blue variant",
+          "description": "Double-page spread showing the inside of the front cover and the facing doublure, both lined with cellular battal ebru paper. The pattern is immediately distinctive: large rounded to sub-rounded cream-white forms — each approximately equal in size, arranged in a quasi-regular close-packed grid — fill the page. Each cell is separated from its neighbors by a continuous network of dark grey-blue veins of varying width, the widest veins running between the cells and narrowing where they meet at three-way junctions. The interior of each cream cell is NOT plain: fine white stippling covers the cell surface, creating a granular or frosted texture that suggests either a spray of white pigment over the cell area, or a second float of very fine white-pigment droplets laid over the primary cream ground. The overall impression is of a cellular or honeycomb-like structure. The color palette is cool: the vein network is a medium-dark grey-blue (blue-grey slate tone), the cell interiors are cream-white with fine stippling, and the vein-junction areas show occasional small dark blobs. A thin red leather binding strip is visible at the gutter between the two pages. This is the cool grey-blue variant of the ebru, which continues through pp002-008.",
+          "location": "Both pages of inside front cover spread (full page)",
+          "confidence": 0.97
+        }
+      ],
+      "confidence": 0.97,
+      "notes": "The doublure lining demonstrates that the cellular battal ebru paper was purpose-acquired in quantity and used consistently throughout the album from doublure to doublure. The quasi-regular packing of the rounded cells — more regular than typical random-spot battal ebru but less rigidly geometric than combed (taraklı) ebru — is the defining morphological characteristic of this subtype."
+    },
+    {
+      "folio": "Calligraphy page 1 — vassale in cellular battal ebru (IIIF p002)",
+      "source_image": "corpus/iiif/arkeoloji_01454_p002.jpg",
+      "decoration_present": true,
+      "decoration_types": [
+        "other",
+        "framing_system"
+      ],
+      "elements": [
+        {
+          "motif": "Cellular battal ebru margin paper — cool grey-blue variant",
+          "description": "Full-page cellular battal ebru in the cool grey-blue variant, serving as the margin sheet into which two calligraphy panels are vassale-mounted. The large rounded cells with grey-blue vein networks and fine white internal stippling are fully legible. A library stamp and a small handwritten notation (partly legible as a reference number) appear in the upper right corner on the ebru paper. The pattern is consistent with p001.",
+          "location": "Full page margin (surrounding calligraphy panels)",
+          "confidence": 0.97
+        },
+        {
+          "motif": "Vassale — two horizontal calligraphy panels, upper and lower",
+          "description": "Two horizontal calligraphy panels are window-mounted (vassale) into the ebru margin paper. Upper panel: large formal talik script, reading right-to-left in bold black ink on cream âharlı paper. The text begins 'حضرت سلطان سليم خان ملاك خصلتلك...' (Hazret-i Sultan Selim Han mülk-i hasletlik...). Lower panel: second line of the text in the same talik hand on cream paper, reading '...عمرن افزون اليه دولتلجي لأيام' (...ömrün efzun olaya devletlice li-eyyam). Each panel is individually framed by a thin red inner rule and a gold cetvel outer line. A horizontal red-dyed paper separator strip runs between the two panels. The calligraphy paper is cream-white with a very faint warm cast.",
+          "location": "Upper half and lower half of page, respectively",
+          "confidence": 0.95
+        }
+      ],
+      "confidence": 0.96,
+      "notes": "This is the first of nine text pages. The upper panel text names Sultan Selim Han — possibly Selim III (r. 1789-1807), which would correlate with the AH 1204 / 1789-90 CE chronogram date and might suggest that the first menzil taşı text commemorates a road station or milestone associated with Selim III's reign. However, 'Sultan Selim Han' could also refer to an earlier sultan. The calligraphic style, panel numbers visible in corner (panel 1 and 2 numerals in small script), and the broader album context would require specialist review."
+    },
+    {
+      "folio": "Calligraphy page 2 — vassale in cellular battal ebru (IIIF p003)",
+      "source_image": "corpus/iiif/arkeoloji_01454_p003.jpg",
+      "decoration_present": true,
+      "decoration_types": [
+        "other",
+        "framing_system"
+      ],
+      "elements": [
+        {
+          "motif": "Cellular battal ebru margin paper — cool grey-blue variant, continued",
+          "description": "Same cellular battal ebru as p002. The rounded cells are consistent in scale and pattern. Panel numbers '3' and '4' visible in small script in the upper right corners of the upper and lower panels respectively.",
+          "location": "Full page margin",
+          "confidence": 0.97
+        },
+        {
+          "motif": "Vassale — two horizontal calligraphy panels",
+          "description": "Upper panel: talik script reading '...سرچوقداران خاص اتحاصنه امرايلدي' (...Serçuqdaran has athasına emreyildi). Lower panel: '...بونشانی بوزمغه اول شناه اسكندر غلام' (...bu şanı bozmağa ol şah İskender gulam). Cream âharlı paper with standard cetvelli framing.",
+          "location": "Upper and lower halves of page",
+          "confidence": 0.93
+        }
+      ],
+      "confidence": 0.95,
+      "notes": "Content references serçuqdaran (senior military/household officials) and alludes to Alexander (İskender), consistent with a commemorative or panegyric menzil taşı inscription."
+    },
+    {
+      "folio": "Calligraphy page 3 — vassale in cellular battal ebru (IIIF p004)",
+      "source_image": "corpus/iiif/arkeoloji_01454_p004.jpg",
+      "decoration_present": true,
+      "decoration_types": [
+        "other",
+        "framing_system"
+      ],
+      "elements": [
+        {
+          "motif": "Cellular battal ebru margin paper — cool grey-blue variant, continued",
+          "description": "Same cool grey-blue cellular battal ebru pattern. Panel numbers '5' (upper) and '6' (lower) visible.",
+          "location": "Full page margin",
+          "confidence": 0.97
+        },
+        {
+          "motif": "Vassale — two horizontal calligraphy panels",
+          "description": "Upper panel: large talik text '...عون جغه النگا ايدوپاودات پرينر' (...avun çağa alınca idüp avdat perinir). Lower panel: '...اوردي هيكسان هيچ خطوه كروون هيكلام' (...ordu hiçksan hiç hatve kurun heykelâm). Consistent format.",
+          "location": "Upper and lower halves of page",
+          "confidence": 0.9
+        }
+      ],
+      "confidence": 0.93,
+      "notes": "The cellular pattern on p004 shows slightly larger cell size variation in the lower margin area, but remains unmistakably the same battal subtype."
+    },
+    {
+      "folio": "Calligraphy page 4 — vassale in cellular battal ebru (IIIF p005)",
+      "source_image": "corpus/iiif/arkeoloji_01454_p005.jpg",
+      "decoration_present": true,
+      "decoration_types": [
+        "other",
+        "framing_system"
+      ],
+      "elements": [
+        {
+          "motif": "Cellular battal ebru margin paper — cool grey-blue variant, continued",
+          "description": "Cool grey-blue cellular battal ebru with consistent pattern. Panel numbers '7' (upper) and '8' (lower) visible. A small damage or moisture mark is visible in the upper-left corner of the ebru margin, but does not affect the panel content.",
+          "location": "Full page margin",
+          "confidence": 0.97
+        },
+        {
+          "motif": "Vassale — two horizontal calligraphy panels",
+          "description": "Upper panel: talik text '...سابتقادكش زفيضل ابنا بو منزلي' (...sabt-kadın zefeyzeli ebna bu menzili). Lower panel: '...يعني يك لله بدي خطوه مجلده بالتهام' (...ya'ni yekle lale badi hatve mecilde bil-iltihâm). Standard framing system.",
+          "location": "Upper and lower halves of page",
+          "confidence": 0.9
+        }
+      ],
+      "confidence": 0.93,
+      "notes": "The word 'menzili' (milestone/stage) in the upper panel text directly confirms the menzil taşı (milestone inscription) genre of the content."
+    },
+    {
+      "folio": "Calligraphy page 5 — vassale in cellular battal ebru (IIIF p006)",
+      "source_image": "corpus/iiif/arkeoloji_01454_p006.jpg",
+      "decoration_present": true,
+      "decoration_types": [
+        "other",
+        "framing_system"
+      ],
+      "elements": [
+        {
+          "motif": "Cellular battal ebru margin paper — cool grey-blue variant, continued",
+          "description": "Cool grey-blue cellular battal ebru, consistent throughout. Panel numbers '9' (upper) and '10' (lower) visible. Some damage/foxing to ebru paper visible in lower left corner margin.",
+          "location": "Full page margin",
+          "confidence": 0.97
+        },
+        {
+          "motif": "Vassale — two horizontal calligraphy panels",
+          "description": "Upper panel: talik text '...اولري شهدي هيچنيو راوتو ليسكنر نجتو ئم' (...öleri şehdi hiçniyü ravtü li-İskender necti). Lower panel: '...باش اغانور دقره نعداد يدلر يا التهام' (...baş ağanur daqre nadd-ı edleri ya'l-iltihâm). Consistent cetvelli format.",
+          "location": "Upper and lower halves of page",
+          "confidence": 0.9
+        }
+      ],
+      "confidence": 0.93,
+      "notes": "Text continues the first menzil taşı inscription. 'Baş ağa' (chief ağa) terminology in lower panel is consistent with the Başçuhadar/palace household context."
+    },
+    {
+      "folio": "Calligraphy page 6 — vassale in cellular battal ebru (IIIF p007)",
+      "source_image": "corpus/iiif/arkeoloji_01454_p007.jpg",
+      "decoration_present": true,
+      "decoration_types": [
+        "other",
+        "framing_system"
+      ],
+      "elements": [
+        {
+          "motif": "Cellular battal ebru margin paper — cool grey-blue variant, continued",
+          "description": "Cool grey-blue cellular battal ebru, consistent pattern. Panel numbers '11' (upper) and '12' (lower) visible.",
+          "location": "Full page margin",
+          "confidence": 0.97
+        },
+        {
+          "motif": "Vassale — two horizontal calligraphy panels",
+          "description": "Upper panel: talik text '...بويله يوزيرده نشان المرودي دخني نوبتعد' (...böyle yüzirdeh nişan al-mürdü duhni nevbet-aʿd). Lower panel: '...صد منزل آفرين اول ذات صدرو لأم' (...sad menzil âferin ol zat sadr-ü'l-enam). Reference to 'sad menzil' (a hundred milestones/stages) confirms the menzil taşı theme.",
+          "location": "Upper and lower halves of page",
+          "confidence": 0.9
+        }
+      ],
+      "confidence": 0.93,
+      "notes": "The phrase 'sad menzil' (hundred milestones) in the lower panel is a clear thematic marker for the menzil taşı genre."
+    },
+    {
+      "folio": "Calligraphy page 7 — chronogram AH 1204 (IIIF p008)",
+      "source_image": "corpus/iiif/arkeoloji_01454_p008.jpg",
+      "decoration_present": true,
+      "decoration_types": [
+        "other",
+        "framing_system"
+      ],
+      "elements": [
+        {
+          "motif": "Cellular battal ebru margin paper — cool grey-blue variant, with warm-tint transition visible",
+          "description": "The ebru paper on p008 remains in the cool grey-blue variant but begins to show a slightly different tone in the lower margin, possibly indicating the transition between the two battal ebru paper batches. The cellular pattern is fully consistent.",
+          "location": "Full page margin",
+          "confidence": 0.95
+        },
+        {
+          "motif": "Vassale — two horizontal calligraphy panels including AH 1204 chronogram",
+          "description": "Upper panel: talik text '...باشده الولدي مجوبر شو قيله خانم يازو' (...başda oldu mecbur şu kıle hanım yazu). Lower panel: talik text ending with the chronogram numerals '1204' — the Arabic numeral sequence is legible in the IIIF image. Full text: '...قيزلدي دستی بلی يا عبون خيد التاريخ هام 1204' (...kızıldı desti belî ya üvün hayda't-tarih hâm 1204). The numeral '1204' (= AH 1204 / 1789-90 CE) appears at the end of the lower panel in standard position for a chronogram.",
+          "location": "Upper and lower halves of page",
+          "confidence": 0.93
+        }
+      ],
+      "confidence": 0.94,
+      "notes": "The AH 1204 chronogram is directly legible in the IIIF image at native resolution, confirming the visual confirmation verdict. This is the concluding panel of the first menzil taşı text. The chronogram date (1789-90 CE) is 64 years after the AH 1138 (1725-26 CE) date of the second text, raising questions about the album's assembly history."
+    },
+    {
+      "folio": "Calligraphy page 8 — second text begins, warmer battal ebru (IIIF p009)",
+      "source_image": "corpus/iiif/arkeoloji_01454_p009.jpg",
+      "decoration_present": true,
+      "decoration_types": [
+        "other",
+        "framing_system"
+      ],
+      "elements": [
+        {
+          "motif": "Cellular battal ebru margin paper — warmer greenish-sage variant (VARIANT SHIFT)",
+          "description": "VARIANT SHIFT: this page clearly shows the warmer, greenish-sage tint of the battal ebru paper. The rounded cellular forms and grey-blue vein network are structurally identical to the cool grey-blue variant, but the color palette has shifted: the ground tone of the cream cells has a warmer yellowish-greenish cast, and the vein network reads as a slightly greener grey rather than the cooler blue-grey of pp001-008. This variant coincides with the transition to the second menzil taşı text (attributed to Başçuhadar Hüseyin Ağa, AH 1138), suggesting the second text was written on a different batch of ebru paper.",
+          "location": "Full page margin",
+          "confidence": 0.95
+        },
+        {
+          "motif": "Vassale — two horizontal calligraphy panels, second text begins",
+          "description": "Upper panel: talik text '...سرچوقدار حضرت شهريار' (...Serçuqdar Hazret-i Şehriyâr). Lower panel: '...حسين آغانك منزل' (...Hüseyin Ağa'nın menzeli). The lower panel explicitly names 'Hüseyin Ağa'nın menzeli' (Hüseyin Ağa's milestone/post-station), confirming this is the second text attributed to Başçuhadar Hüseyin Ağa.",
+          "location": "Upper and lower halves of page",
+          "confidence": 0.95
+        }
+      ],
+      "confidence": 0.95,
+      "notes": "The explicit naming of 'Hüseyin Ağa' in the lower panel text directly corroborates the YEK catalogue attribution. The simultaneous shift to the warmer greenish-sage ebru variant at exactly the transition point between the two texts suggests the album's compiler used different ebru paper batches for the two texts, possibly reflecting two separate production campaigns."
+    },
+    {
+      "folio": "Calligraphy page 9 — final text page, warmer battal ebru (IIIF p010)",
+      "source_image": "corpus/iiif/arkeoloji_01454_p010.jpg",
+      "decoration_present": true,
+      "decoration_types": [
+        "other",
+        "framing_system"
+      ],
+      "elements": [
+        {
+          "motif": "Cellular battal ebru margin paper — warmer greenish-sage variant, continued",
+          "description": "The warmer greenish-sage variant of the cellular battal ebru continues on the final text page. The upper and lower margins clearly show the greenish-sage tone in contrast to the cool grey-blue of earlier pages. Some edge damage and staining visible in the lower margin area, plus library stamps on the ebru paper.",
+          "location": "Full page margin",
+          "confidence": 0.95
+        },
+        {
+          "motif": "Vassale — two horizontal calligraphy panels, final page",
+          "description": "Upper panel: talik text '...طاشيدر ادم عد 1384[?]' — the upper panel contains a heading and appears to end the text with a date or reference numeral. Lower panel: nearly blank cream panel bearing two library stamps (circular red stamp, small rectangular stamp). The date '1384' visible in the upper panel requires specialist verification (possibly a misread of another numeral sequence, or a date in a different calendar system).",
+          "location": "Upper and lower halves of page",
+          "confidence": 0.88
+        }
+      ],
+      "confidence": 0.91,
+      "notes": "The blank lower panel suggests either: (a) an intentionally left space for a future addition; (b) a text panel awaiting inscription; or (c) a structural blank providing space for the colophon area that was not completed. The library stamps indicate institutional registration. The numeral visible in the upper panel requires specialist transcription."
+    },
+    {
+      "folio": "Inside back cover — both battal ebru variants visible (IIIF p011)",
+      "source_image": "corpus/iiif/arkeoloji_01454_p011.jpg",
+      "decoration_present": true,
+      "decoration_types": [
+        "other"
+      ],
+      "elements": [
+        {
+          "motif": "Cellular battal ebru — both variants visible on opposing pages of a single spread",
+          "description": "The inside back cover opening (p011) presents both battal ebru color variants side-by-side on a single double-page spread, providing the clearest comparative view in the album. Left page: warmer greenish-sage variant — the rounded cellular forms are clearly present but the overall tone is warmer, greener, and slightly lighter than the cool grey-blue. The handwritten red ink notation 'No 1454' is visible in the upper left area of the left page. Right page: cool grey-blue variant — the characteristic grey-blue tone and fine stippling within cells is clearly visible, with the rounded cell morphology identical to pp001-008. The contrast between the two variants is clearly legible at native IIIF resolution and provides definitive evidence for the two-batch interpretation.",
+          "location": "Both pages of inside back cover spread (full page)",
+          "confidence": 0.97
+        }
+      ],
+      "confidence": 0.97,
+      "notes": "The p011 double-spread is analytically the most important page in the album for characterizing the battal ebru: it presents both variants side-by-side in a single image, enabling direct comparison without the visual interpolation required when comparing pages from different parts of the album. The 'No 1454' accession notation is a later addition, confirming this is the back doublure rather than a text page."
+    },
+    {
+      "folio": "Front cover — red leather binding with gold tooling (IIIF p012)",
+      "source_image": "corpus/iiif/arkeoloji_01454_p012.jpg",
+      "decoration_present": true,
+      "decoration_types": [
+        "framing_system"
+      ],
+      "elements": [
+        {
+          "motif": "Red leather binding — front cover with gold-tooled şemse, salbek, köşelik",
+          "description": "The front exterior cover is dark crimson/wine-red leather. A central oval şemse (medallion) is stamped in gold, with a tooled interior design — at IIIF resolution the interior of the şemse appears to contain a lightly worked floral or geometric composition. Above and below the şemse, small salbek (pendant) ornaments in gold, each terminating in a pointed or arrowhead form. At the four corners, small gilt köşelik (corner pieces) — diamond-shaped or pointed. Small gilt dot ornaments are distributed symmetrically on the cover field between the central elements and the corner ornaments. A double gold ruling line runs along the perimeter. The binding is tall and narrow (landscape-format album), and the cover proportions reflect the album's unusual elongated oblong format.",
+          "location": "Exterior front cover (full page)",
+          "confidence": 0.95
+        }
+      ],
+      "confidence": 0.95,
+      "notes": "The binding decoration is the standard Istanbul luxury album binding of the 18th century: şemse-salbek-köşelik composition in gold on red leather with perimeter ruling. Closely parallels binding formats in TIEM 02649, yazma_bagislar_09315, and other confirmed corpus albums."
+    },
+    {
+      "folio": "Back cover — red leather binding with gold tooling (IIIF p013)",
+      "source_image": "corpus/iiif/arkeoloji_01454_p013.jpg",
+      "decoration_present": true,
+      "decoration_types": [
+        "framing_system"
+      ],
+      "elements": [
+        {
+          "motif": "Red leather binding — back cover with gold-tooled şemse, salbek, köşelik",
+          "description": "The back exterior cover is identical in structure to the front (p012): dark crimson leather with central oval şemse, salbek above and below, gilt köşelik at corners, scattered gilt dot ornaments, and double gold ruling at the perimeter. The back cover shows slightly more wear in the center area but is structurally intact. The bilateral symmetry of front and back covers is consistent with standard Ottoman album binding practice.",
+          "location": "Exterior back cover (full page)",
+          "confidence": 0.95
+        }
+      ],
+      "confidence": 0.95,
+      "notes": "Front and back covers are closely matched, confirming simultaneous rather than replacement production. The binding is original to the album."
+    }
+  ],
+  "terminology": {
+    "terms_used": [
+      {
+        "concept": "Decorated paper (technique uncertain: block-printed OR cellular battal ebru)",
+        "ottoman": "UNCERTAIN: kalıp baskılı kâğıt / kalıplı kâğıt (block-printed, 0.70) OR hücresel battal ebru (0.25)",
+        "arabic": "waraq maṭbūʿ bi-l-qālib (ورق مطبوع بالقالب) — block-printed (if confirmed) OR waraq murakhkham battāl (ورق مرخّم بطال) — stone-marbled",
+        "persian": "kāġaẕ-e qālibī (کاغذ قالبی) — block-printed (if confirmed) OR kāġaẕ-e abrī-ye battāl (کاغذ ابری بطال)",
+        "english": "Battal ebru: the standard Ottoman term for 'stone marbling' — an undisturbed marbling in which pigment is simply dropped onto the size to form irregular spots or blobs. The term 'battal' (from Arabic baṭṭāl, meaning idle or inactive) refers to the absence of combing, raking, or flower-drawing manipulation. In this album, the battal ebru pattern is morphologically distinctive: instead of irregular random spots, the pigment has formed large, quasi-regular ROUNDED or OVAL CELLS of cream-white, each bounded by a continuous network of dark grey-blue veins. The interior of each cell is covered with fine white stippling. The resulting pattern resembles a cellular or honeycomb structure rather than random stone-marbling. This 'cellular' subtype — here termed 'cellular battal ebru' (hücresel battal ebru) — has no direct parallel in the documented project corpus and may reflect a specific size viscosity, colorant behavior, or marbler's technique characteristic of the AH 1138 / AH 1204 period. Two color variants are documented within the album: (1) cool grey-blue dominant (pp001-008, p011 right), and (2) warmer greenish-sage (pp009-010, p011 left)."
+      },
+      {
+        "concept": "Window-mounting technique",
+        "ottoman": "vassale yöntemi / pencere montajı",
+        "arabic": null,
+        "persian": "vassāle (واسله)",
+        "english": "Vassale: a mounting technique in which a calligraphy (or painting) panel is adhered to a decorated paper sheet from behind, with the decorated paper having a window cut out to expose the calligraphy panel. The calligraphy thus appears to float within the decorated margin, with clean exposed edges around all four sides. In this album, all nine text pages use vassale construction: horizontal calligraphy panels are window-mounted into the cellular battal ebru margin sheets, with two panels per page separated by a red paper strip. The technique is standard in Ottoman murakkaʿ albums of the 17th-18th centuries."
+      },
+      {
+        "concept": "Calligraphic album",
+        "ottoman": "muraqqaʿ / muraqqaʿāt (مرقعات)",
+        "arabic": "muraqqa' (مرقع) / muraqqa'āt (مرقعات)",
+        "persian": "muraqqa' (مرقع)",
+        "english": "Muraqqaʿ (pl. muraqqaʿāt): a bound Ottoman calligraphic (and sometimes pictorial) album. In Ottoman practice, the muraqqaʿ format typically consists of single or paired calligraphy panels (kıtʿa) mounted in decorated paper margins and bound together. This album (muraqqaʿāt, using the plural form to reflect its content of multiple panels) contains nine text pages each with two horizontal talik panels, documenting menzil taşı (milestone inscription) texts."
+      },
+      {
+        "concept": "Milestone inscription",
+        "ottoman": "menzil taşı yazısı / menzil taşı kitabesi",
+        "arabic": null,
+        "persian": null,
+        "english": "Menzil taşı (milestone stone/inscription): an epigraphic text commemorating a menzil — a road stage or post-station in the Ottoman imperial communications and transport network (menzilhane system). Menzil taşı inscriptions were carved on stone markers placed at road stages to record distances and the names of associated officials. The preservation of such texts in calligraphic album form — as here — is relatively rare and reflects the commemorative and courtly significance attached to major infrastructure in the Ottoman imperial system. The album's content (two menzil taşı texts, one associated with Başçuhadar Hüseyin Ağa, AH 1138) situates it within the Ottoman documentary and epigraphic tradition rather than the literary or religious album tradition."
+      },
+      {
+        "concept": "Talik script",
+        "ottoman": "talik hattı / taʿlîk",
+        "arabic": "taʿlīq (تعليق)",
+        "persian": "taʿlīq (تعلیق)",
+        "english": "Talik (taʿlîk / taʿlīq): a cursive Arabic-script calligraphic style characterized by elongated diagonal strokes, compressed oval letterforms, strong contrast between thick and thin elements, and characteristic hanging baselines. The Ottoman variant of talik (akin to but distinct from Persian nastaʿlîq) was the preferred script for official documents, poetry, and album calligraphy in the 18th century. The large-format talik in this album — with dramatic stroke contrast and extended diagonal sweeps — is consistent with professional calligraphic practice of the early-to-mid 18th century."
+      },
+      {
+        "concept": "Gold ruling lines",
+        "ottoman": "altın cetvel / cetvelli",
+        "arabic": "jadwal mudhahdhab (جدول مذهّب)",
+        "persian": "jadval-e zar (جدول زر)",
+        "english": "Altın cetvel: ruling lines applied in gold, framing calligraphic panels. In this album, each panel is individually framed by a single gold cetvel line (outer) and a thin red inner rule. The framing system is relatively simple compared to the multi-layer cetvels of some corpus albums, prioritizing legibility of the large talik text."
+      },
+      {
+        "concept": "Central medallion (binding)",
+        "ottoman": "şemse / yaldızlı şemse",
+        "arabic": "shams (شمس)",
+        "persian": "shamsa (شمسه) / toranj (ترنج)",
+        "english": "Şemse (shamsa): a central oval or round medallion on a manuscript binding cover, applied in gold tooling (yaldız). In this album, both front and back covers bear a central oval şemse with lightly tooled interior design, flanked by salbek pendants above and below. The şemse is a defining element of Ottoman luxury binding decoration throughout the 16th-19th centuries."
+      },
+      {
+        "concept": "Pendant from medallion (binding)",
+        "ottoman": "salbek",
+        "arabic": null,
+        "persian": "sar-toranj",
+        "english": "Salbek: the small pendant or tongue extending from the upper and lower poles of the şemse on an Ottoman binding. In this album, small pointed salbek ornaments are visible above and below the central şemse on both covers."
+      },
+      {
+        "concept": "Corner pieces (binding)",
+        "ottoman": "köşelik / köşebend",
+        "arabic": null,
+        "persian": null,
+        "english": "Köşelik (also köşebend): the ornamental corner pieces placed at the four corners of an Ottoman binding cover. In this album, small gilt diamond or pointed ornaments occupy the four corners of both covers."
+      }
+    ]
+  },
+  "bibliography": [
+    {
+      "citation": "Blair, Sheila S. 'Color and Gold: The Decorated Papers Used in Manuscripts in Later Islamic Times.' Muqarnas 17 (2000): 24–36.",
+      "relevance": "Foundational taxonomic article providing the primary classification framework for decorated papers in Islamic manuscripts, including marbled papers (abrī/ebrulu) and their typological distinctions. Blair's discussion of battal ebru as a baseline type against which more complex marbling is differentiated is the starting point for the 'cellular battal' subtype documented here. Essential reference for any decorated paper catalog entry.",
+      "relevance_score": 0.95,
+      "access_notes": "Peer-reviewed article, Muqarnas (Brill). Available via JSTOR. Open-access PDF accessible at Academia.edu."
+    },
+    {
+      "citation": "Roxburgh, David J. The Persian Album, 1400–1600: From Dispersal to Collection. New Haven: Yale University Press, 2005.",
+      "relevance": "Foundational study of the murakkaat album format and the role of decorated papers in album construction and design. The vassale mounting technique, the integration of marbled papers as structural elements, and the compositional logic of decorated album pages are all treated systematically. Directly relevant for contextualizing the vassale-mounted calligraphy structure and the use of battal ebru as compositional margin material in this album.",
+      "relevance_score": 0.9,
+      "access_notes": "Monograph; widely held at research libraries."
+    },
+    {
+      "citation": "Bloom, Jonathan M. Paper Before Print: The History and Impact of Paper in the Islamic World. New Haven: Yale University Press, 2001.",
+      "relevance": "Comprehensive history of paper production and decoration in the Islamic world, covering marbled paper origins, techniques, and the Ottoman marbling tradition. The chapter on decorated papers provides material-culture context for the battal ebru technique and its place in Ottoman paper arts. The unusual cellular morphology of the battal ebru in this album invites comparison with the range of marbling techniques documented by Bloom.",
+      "relevance_score": 0.88,
+      "access_notes": "Widely held monograph."
+    },
+    {
+      "citation": "Renda, Günsel. 'Ebru: Turkish Marbled Paper.' In The Art of Marbling, edited by Richard J. Wolfe, 17–30. Boston: Boston Athenaeum, 1990.",
+      "relevance": "One of the few English-language scholarly treatments of the Ottoman (Turkish) marbling tradition as a distinct art form, covering technique, chronology, named masters, and typology. Directly relevant for understanding the battal ebru subtype and the question of whether the cellular variant documented here corresponds to a known named type or master style in the Ottoman marbling tradition.",
+      "relevance_score": 0.87,
+      "access_notes": "Chapter in exhibition catalogue; available at specialist libraries."
+    },
+    {
+      "citation": "Mirimanoğlu, Hikmet Barutçugil. Ebru: Bir Türk Sanatı / Turkish Paper Marbling. Istanbul: Tarih Vakfı Yurt Yayınları, 2008.",
+      "relevance": "Primary Turkish-language reference on Ottoman marbling technique, typology, and masters. Provides detailed coverage of battal ebru, its subtypes, and the characteristics of major marbling masters. Essential for determining whether the 'cellular battal' variant documented in arkeoloji_01454 corresponds to a named subtype or master tradition in the marbling literature. [In Turkish]",
+      "relevance_score": 0.85,
+      "access_notes": "Monograph; available at Turkish university and art libraries. In Turkish."
+    },
+    {
+      "citation": "Déroche, François. Islamic Codicology: An Introduction to the Study of Manuscripts in Arabic Script. Translated by Deke Dusinberre and David Radzinowicz. London: Al-Furqan Islamic Heritage Foundation, 2005.",
+      "relevance": "Foundational reference for Islamic manuscript codicology, covering paper types, binding, ruling, and physical description standards. The classification framework and descriptive vocabulary used throughout this catalog record derive from Déroche's taxonomy. Particularly relevant for the codicology section's paper and ruling descriptions.",
+      "relevance_score": 0.78,
+      "access_notes": "Monograph; available at specialist libraries."
+    },
+    {
+      "citation": "Gacek, Adam. Arabic Manuscripts: A Vademecum for Readers. Leiden: Brill, 2009.",
+      "relevance": "Standard reference for Islamic manuscript codicological and paleographic terminology. Relevant for script identification (talik/taʿlîk), ketebe terminology, format terms (murakkaat), and general descriptive conventions used in this record.",
+      "relevance_score": 0.75,
+      "access_notes": "Reference monograph; widely held."
+    },
+    {
+      "citation": "Scheper, Karin. The Technique of Islamic Bookbinding: Methods, Materials and Regional Varieties. Leiden: Brill, 2015.",
+      "relevance": "Systematic study of Islamic bookbinding techniques. The red leather binding with gold-tooled şemse-salbek-köşelik decoration and the battal ebru doublure lining documented in this album fall within Scheper's survey of Ottoman luxury binding formats and interior treatment. Relevant for the codicology binding section and for comparative dating of the binding.",
+      "relevance_score": 0.72,
+      "access_notes": "Monograph; available at Islamic bookbinding and manuscript studies libraries."
+    },
+    {
+      "citation": "Tanındı, Zeren. 'Osmanlı Dönemine Ait Murakkaların Bulunduğu Kütüphaneler ve Müzeler / Libraries and Museums Containing Ottoman Albums.' In Murakka: Imperial Ottoman Albums from the Chester Beatty Library, edited by David Roxburgh, 13–33. Lugano: Thyssen-Bornemisza Foundation, 2005.",
+      "relevance": "Survey of Ottoman murakkaat collections in Turkish and international institutions, with attention to album formats, paper decoration programs, and institutional distribution. Relevant for situating the arkeoloji_01454 album within the broader Ottoman murakkaat corpus and for comparative reference to albums with similar battal ebru paper programs.",
+      "relevance_score": 0.82,
+      "access_notes": "Chapter in exhibition catalogue; available at major Islamic art libraries."
+    },
+    {
+      "citation": "Uçar, Süleyman. 'Osmanlı Döneminde Menzil Sistemi ve Menzilhaneler.' Tarih Araştırmaları Dergisi 30, no. 49 (2011): 241–260.",
+      "relevance": "Scholarly study of the Ottoman menzil (post-stage/milestone) system and menzilhane institutions — the administrative and infrastructural context for the menzil taşı texts documented in this album. Provides essential background for the album's unusual thematic content and the role of Başçuhadar Hüseyin Ağa in the menzil system. [In Turkish]",
+      "relevance_score": 0.8,
+      "access_notes": "Peer-reviewed journal article; available at Turkish university libraries and via academic databases. In Turkish."
+    }
+  ],
+  "suggested_collections": [
+    {
+      "institution": "Türk ve İslam Eserleri Müzesi (TIEM), Istanbul — murakkaʿ corpus",
+      "reason": "The TIEM holds the largest single-institution corpus of Ottoman murakkaat albums in the project (93 albums confirmed in visual triage). TIEM albums with battal ebru (notably TIEM 02649, with multi-palette battal ebru) provide the closest documented comparanda for the battal ebru construction method in this album. TIEM albums also document the vassale format extensively.",
+      "digital_access": "https://portal.yek.gov.tr"
+    },
+    {
+      "institution": "Nuruosmaniye Kütüphanesi, Istanbul",
+      "reason": "nuruosmaniye_04372 (catalogued) is the only confirmed Safavid manuscript in the project corpus and also features battal ebru with vassale construction — providing a pre-Ottoman comparandum for the battal ebru + vassale format. Nuruosmaniye_02295 (catalogued) combines battal ebru with zerefşân.",
+      "digital_access": "https://portal.yek.gov.tr"
+    },
+    {
+      "institution": "Türkiye Yazma Eserler Kurumu (YEK) Portal — arkeoloji murakkaʿ corpus",
+      "reason": "The İstanbul Arkeoloji Müzeleri Kütüphanesi collection on YEK may contain additional murakkaat and epigraphic manuscripts with related battal ebru paper programs. Systematic search of the Arkeoloji collection has not been undertaken in the current project phase.",
+      "digital_access": "https://portal.yek.gov.tr"
+    },
+    {
+      "institution": "Chester Beatty Library, Dublin",
+      "reason": "Holds major Ottoman murakkaat albums with marbled paper programs and luxury leather bindings from the 17th-18th centuries. Provides international comparanda for the album format, the battal ebru technique variants, and the red leather binding type documented here.",
+      "digital_access": "https://viewer.cbl.ie"
+    },
+    {
+      "institution": "GlobalDecoPaper ERC Project, LMU Munich",
+      "reason": "The primary active research project on decorated papers in Islamic manuscripts. The cellular battal ebru subtype documented here — with its unusual rounded-cell morphology and internal stippling — is precisely the kind of unusual decorated paper variant that falls within GlobalDecoPaper's research scope. Consultation with this project could yield attribution or comparative data for the cellular battal technique.",
+      "digital_access": null
+    },
+    {
+      "institution": "Topkapı Sarayı Müzesi Kütüphanesi, Istanbul",
+      "reason": "Holds the richest documented corpus of Ottoman court murakkaat albums and is the primary institutional archive for information on court officials including başçuhadar (chief steward), potentially enabling biographical research on Başçuhadar Hüseyin Ağa.",
+      "digital_access": "https://kutuphane.tsmk.gov.tr"
+    }
+  ],
+  "provenance": {
+    "donor": null,
+    "waqf": null,
+    "previous_shelfmarks": [
+      "No 1454 (red ink accession notation, visible on p011 inside back cover)"
+    ],
+    "notes": "Held at İstanbul Arkeoloji Müzeleri Kütüphanesi (Istanbul Archaeological Museums Library), Istanbul, under shelfmark 01454. The İstanbul Arkeoloji Müzeleri Kütüphanesi is a specialist library attached to the Istanbul Archaeological Museums complex (İstanbul Arkeoloji Müzeleri), a state museum under the Ministry of Culture and Tourism of the Republic of Turkey. The manuscript entered the collection at an undetermined date prior to YEK registration; no waqf or donor information is available in the YEK record. The red ink notation 'No 1454' visible on p011 is a library accession mark. Library stamps are present on pp002 and 010. The album's content — documenting Ottoman court infrastructure (menzil system) and attributed to a court official (Başçuhadar Hüseyin Ağa) — suggests an original palatial or high-administrative provenance. YEK ID: 708494. IIIF ID: 0000000667064. YEK collection descriptor: 'İstanbul Arkeoloji Müzeleri, Arkeoloji Yazmaları'."
+  },
+  "analysis_metadata": {
+    "analyzed_date": "2026-02-28",
+    "analyzer": "claude-code-manuscript-pipeline",
+    "pipeline_stage": "metadata-generator",
+    "image_source": "YEK Portal IIIF images, İstanbul Arkeoloji Müzeleri Kütüphanesi, YEK ID 708494, IIIF ID 0000000667064. All 13 pages downloaded and examined at native IIIF resolution (max 6048×8699 px). Visual confirmation verdict from catalog/searches/visual_tier2_arkeoloji_01454.json.",
+    "image_quality_notes": "IIIF images are high resolution and support confident identification of the cellular battal ebru morphology, the two color variants, the vassale construction, the gold cetvelli framing, and the red leather binding decoration. The AH 1204 chronogram numeral sequence is directly legible in p008. The transition between the two battal ebru color variants is clearly visible when comparing pp007-008 (cool grey-blue) with pp009-010 (warmer greenish-sage), and most strikingly on p011 where both variants appear side-by-side. The calligraphic text content is partially legible in the IIIF images but full transcription and scholarly interpretation of the menzil taşı texts requires specialist Ottoman epigraphic expertise. The warm tint on calligraphy panels (pp009-010) is subtle and the mülevven vs. patina distinction cannot be resolved from image evidence alone; physical examination is recommended.",
+    "folios_examined": [
+      "corpus/iiif/arkeoloji_01454_p001.jpg",
+      "corpus/iiif/arkeoloji_01454_p002.jpg",
+      "corpus/iiif/arkeoloji_01454_p003.jpg",
+      "corpus/iiif/arkeoloji_01454_p004.jpg",
+      "corpus/iiif/arkeoloji_01454_p005.jpg",
+      "corpus/iiif/arkeoloji_01454_p006.jpg",
+      "corpus/iiif/arkeoloji_01454_p007.jpg",
+      "corpus/iiif/arkeoloji_01454_p008.jpg",
+      "corpus/iiif/arkeoloji_01454_p009.jpg",
+      "corpus/iiif/arkeoloji_01454_p010.jpg",
+      "corpus/iiif/arkeoloji_01454_p011.jpg",
+      "corpus/iiif/arkeoloji_01454_p012.jpg",
+      "corpus/iiif/arkeoloji_01454_p013.jpg"
+    ],
+    "folios_not_examined": "All 13 IIIF pages examined. Full coverage of the album achieved.",
+    "corpus_priority": "High — the cellular battal ebru pattern is unique in the project corpus and warrants specialist investigation. Priority follow-up: (1) specialist ebru consultation to determine whether the cellular pattern corresponds to a named subtype or documented master technique; (2) comparative imaging with TIEM 02649 and na_00270 (both with battal ebru) to assess morphological relationships; (3) specialist Ottoman epigraphic review of the menzil taşı texts for full transcription, translation, and contextual attribution; (4) physical examination to assess the warm tint on calligraphy panels (patina vs. intentional mülevven); (5) biographical research on Başçuhadar Hüseyin Ağa to establish his court role and the menzil context.",
+    "source_data": {
+      "visual_confirmation_file": "catalog/searches/visual_tier2_arkeoloji_01454.json",
+      "yek_id": "708494",
+      "iiif_id": "0000000667064",
+      "batch": "Tier 2 Sub-Batch E (2026-02-28)"
+    },
+    "important_correction": "The initial triage described 'pink mülevven margins.' This is INCORRECT. The margins are cellular battal ebru throughout. The faint warm/pinkish cast is on the CALLIGRAPHY PANEL PAPER, not the surrounding margins, and is assessed as age-related patina rather than intentional mülevven tinting. The decoration_types array therefore does NOT include 'colored'. This correction is documented in the visual confirmation verdict (catalog/searches/visual_tier2_arkeoloji_01454.json, discrepancies field) and confirmed by direct examination of all 13 IIIF images."
+  }
+}

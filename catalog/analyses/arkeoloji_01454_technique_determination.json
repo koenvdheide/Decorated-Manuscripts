@@ -1,0 +1,61 @@
+{
+  "record_id": "arkeoloji_01454",
+  "analysis_type": "technique_determination",
+  "analysis_date": "2026-02-28",
+  "subject": "Margin decoration technique — block-printed (kalıp baskı) vs. battal ebru",
+  "status": "uncertain",
+  "primary_hypothesis": {
+    "technique": "block_printed",
+    "ottoman_term": "kalıp baskılı kâğıt / kalıplı kâğıt",
+    "confidence": 0.70,
+    "description": "Decorative paper produced by pressing a carved wooden block onto the paper surface. The block carries ink/pigment on its raised surfaces, transferring a repeating pattern. The arkeoloji_01454 pattern shows large overlapping circles/ovals (~5-8 cm diameter) filled with fine branching stipple texture, separated by colored vein networks."
+  },
+  "alternative_hypothesis": {
+    "technique": "battal_ebru_controlled",
+    "ottoman_term": "battal ebrusu (kontrollü)",
+    "confidence": 0.25,
+    "description": "A highly controlled variant of stone marbling where the ebru artist manipulated the bath (possibly via systematic size-drop placement) to produce regular cell structures. This would be an unusual and undocumented subtype of battal ebru."
+  },
+  "residual_uncertainty": 0.05,
+  "diagnostic_indicators": {
+    "favoring_block_print": [
+      "Regular repeating cell grid pattern — overlapping circles/ovals arranged systematically, too uniform for marbling where pigments float freely",
+      "Uniform internal branching stipple texture identical across ALL cells on each page — battal ebru produces unique internal structures per pigment pool",
+      "Same basic pattern structure replicated across 9+ margin pages (pp002-010) — true battal ebru produces a unique, unrepeatable pattern every pull",
+      "Consistent cell size (~5-8 cm) throughout each page — battal ebru produces cells of wildly varying sizes",
+      "Sharp cell boundaries with consistent vein width — battal ebru boundaries are diffuse and irregular",
+      "Pattern alignment differs between left and right pages at the spine (p001) — consistent with two separate block impressions on separate sheets",
+      "Pattern has consistent directional orientation — battal ebru has no inherent directionality"
+    ],
+    "favoring_battal_ebru": [
+      "Polychrome pigment pooling at vein junctions (blue, green, red-brown, ochre mix) — harder to achieve with a single block pass",
+      "Some cell-to-cell size variation (not perfectly identical)",
+      "Organic curvature in some vein boundaries rather than rigid straight edges"
+    ],
+    "neutral_or_ambiguous": [
+      "Two distinct paper color variants (cool grey-blue pp002-008; warmer greenish-sage pp009-010) — could indicate different ink batches (block-print) OR different ebru bath preparations",
+      "Fine white branching stipple inside cells — could be carved block texture OR dendritic crystallization from sizing-pigment interaction on bath"
+    ]
+  },
+  "physical_examination_protocol": {
+    "priority": "high",
+    "tests_required": [
+      "Raking light examination: block impressions leave faint relief/depression marks on the paper surface visible under oblique illumination",
+      "Fiber cross-section microscopy: block-printed pigment sits ON the surface; ebru pigment penetrates INTO the fibers from the bath",
+      "UV fluorescence: different binding media (block ink vs. ebru gall) may fluoresce differently",
+      "Comparison with known Ottoman block-printed papers in the İstanbul Arkeoloji Müzeleri collection or Topkapı Palace Library"
+    ],
+    "note": "The İstanbul Arkeoloji Müzeleri's own library location makes physical examination logistically feasible"
+  },
+  "corpus_significance": "If confirmed as block-printed, arkeoloji_01454 would be the FIRST block-printed decorated paper (kalıplı kâğıt) in the entire corpus of 85+ records. All other decorated papers in the corpus are marbled (ebru subtypes), colored/dyed (mülevven), gold-sprinkled (zerefşân), halkar (painted), or gold-worked (zerkârî). Block-printed papers represent a distinct production tradition with different workshop contexts, tools, and chronological distribution than ebru.",
+  "images_examined": [
+    "corpus/iiif/arkeoloji_01454_p001.jpg (full double-page spread — best view of pattern)",
+    "corpus/iiif/arkeoloji_01454_p002.jpg",
+    "corpus/iiif/arkeoloji_01454_p003.jpg",
+    "corpus/iiif/arkeoloji_01454_p004.jpg",
+    "corpus/iiif/arkeoloji_01454_p005.jpg",
+    "corpus/iiif/arkeoloji_01454_p007.jpg",
+    "corpus/iiif/arkeoloji_01454_p009.jpg",
+    "corpus/iiif/arkeoloji_01454_p010.jpg"
+  ]
+}

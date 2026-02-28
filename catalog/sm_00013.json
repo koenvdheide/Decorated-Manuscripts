@@ -1,0 +1,411 @@
+{
+  "record_id": "sm_00013",
+  "collection": {
+    "institution": "Süleymaniye Kütüphanesi — Süleymaniye Murakka Koleksiyonu",
+    "city": "Istanbul",
+    "country": "Turkey",
+    "shelfmark": "SM 00013",
+    "yek_url": "https://portal.yek.gov.tr/works/detail/325925"
+  },
+  "manuscript": {
+    "title": "Muraqqaʿāt / مرقعات",
+    "title_script": "مرقعات",
+    "title_alt": "Süleymaniye Murakka Koleksiyonu 13 — Muhammed el-Muhlisî Hamdullah İbnü'ş-Şeyh Murakkaʿı (Kur'ân-ı Kerim Murakkaʿı)",
+    "author": null,
+    "author_dates": null,
+    "calligrapher": "Muhammed el-Muhlisî Hamdullah İbnü'ş-Şeyh — attributed from teşpit fişi (identification card); no ketebe inscription found",
+    "calligrapher_dates": "Active period uncertain; no ketebe documented. The 'İbnü'ş-Şeyh' (son of the Şeyh) epithet designates a member of the Şeyh Hamdullah calligraphic lineage. If the attribution is correct, this calligrapher was active during or after the career of Şeyh Hamdullah (AH 840–926 / 1436–1520 CE), in the period when the lineage produced second- and third-generation students.",
+    "calligrapher_note": "ATTRIBUTION CAUTION: The YEK genel_notlar states: 'Ketebe kaydı görülmemektedir. Teşpit fişinde hattat olarak Muhammed el-Muhlisî Hamdullah İbnü'ş-Şeyh ismi yazılmıştır.' This translates: 'No ketebe inscription is seen. On the identification card (teşpit fişi), the name Muhammed el-Muhlisî Hamdullah İbnü'ş-Şeyh is written as the calligrapher.' The attribution thus rests entirely on the teşpit fişi — an administrative identification card, not a primary source — and must be treated as a scholarly attribution, not a documented autograph. The 'İbnü'ş-Şeyh' epithet (Arabic: ابن الشيخ, 'son of the Shaykh') connects this calligrapher to the Şeyh Hamdullah tradition. Şeyh Hamdullah Amasî (AH 840–926 / 1436–1520 CE) is the foundational figure of the Ottoman naskh / nesih tradition: appointed calligraphy master to Sultan Bayezid II, he standardized the Ottoman nesih hand and founded the school that shaped all subsequent Ottoman Quranic calligraphy. 'Muhammed el-Muhlisî' is a further element of the attributed name; 'Muhlisî' (from ihlâs / sincerity) may be a calligraphic epithet or a pen name. The attributed calligrapher cannot be definitively identified in published biographical dictionaries without further specialist research. The attribution is nevertheless significant: if correct, SM 00013 is a direct product of the Şeyh Hamdullah school — among the most important calligraphic lineages in Ottoman history.",
+    "date_ah": "before 1202 AH (terminus ante quem from vakf seal). Probable: 15th–16th century if the Şeyh Hamdullah lineage attribution is correct; alternatively 17th–18th century if the attribution reflects a later follower of the school.",
+    "date_ce": "before 1787–88 CE (terminus ante quem). If İbnü'ş-Şeyh attribution is correct: possibly 15th–16th century (c. 1480–1600, consistent with the Hamdullah school's active period). If a later follower: possibly 17th–18th century.",
+    "date_note": "The vakf seal of Fethizâde Mustafa Efendi dated AH 1202 / 1787–88 CE provides an absolute terminus ante quem shared by all SM albums. The production date is highly uncertain due to the absence of a ketebe inscription. If the teşpit fişi attribution to Hamdullah İbnü'ş-Şeyh is accepted, the album was likely produced in the late 15th or 16th century — within the active period of the Şeyh Hamdullah school. If the attribution reflects a more distant school follower, the album could be as late as the 17th–18th century. The physical dimensions (328×233 mm — the largest album in the SM corpus examined to date), the content (Quranic text), and the quality of the framing system are all consistent with a significant early production date, but cannot be independently confirmed without specialist paleographic analysis. FOLLOW-UP: Specialist calligraphic comparison with documented Hamdullah school manuscripts is urgently needed to verify or revise this attribution.",
+    "place_of_copy": "Istanbul (probable), or Ottoman provincial center",
+    "format": "Murakkaʿ (مرقعات) — bound calligraphic album of 11 yaprak (leaves), muhtelif satır (various line-counts). Quranic content. Multi-layer compound framing system with distinctive diagonal gold-and-white striped border bands; serlevha (illuminated headpiece) on opening leaf; zerefşân margins; lacquer binding.",
+    "format_note": "A bound Ottoman Quranic murakkaʿ album of 11 yaprak (folios) digitized as 12 IIIF pages. Physical dimensions: 328×233 mm (album) — 275×177 mm (text writing area). These are the largest album dimensions in the SM corpus examined to date. Script: Nesih (نسخ) only — no sülüs component, unlike SM 00006 and SM 00009. Content appears to be consecutive Quranic text: Surat al-Baqara (identified on p003), a mid-Quran surah (p007), and Surat al-Anfāl (identified on p012). Gold verse-separator roundels (durak) throughout. A serlevha (illuminated headpiece) with gold cartouche appears on p012. The calligraphic format — large nesih on ruled leaves with zerefşân margins — is consistent with the Şeyh Hamdullah school of Quranic calligraphy. The album is distinguished by its exceptionally complex framing system featuring diagonal gold-and-white striped border bands, a feature documented in high-quality 16th–17th century Ottoman murakkaʿ production.",
+    "language": "Arabic",
+    "script": "Nesih (نسخ) — formal Quranic naskh. No sülüs component.",
+    "dimensions_mm": {
+      "height": 328,
+      "width": 233,
+      "writing_area_height": 275,
+      "writing_area_width": 177
+    },
+    "folio_count": 11,
+    "yek_id": "325925",
+    "iiif_id": "0000000356065",
+    "notes": "CORPUS SIGNIFICANCE: SM 00013 is among the most significant albums in the Süleymaniye Murakka Koleksiyonu on three grounds: (1) CALLIGRAPHIC ATTRIBUTION: The teşpit fişi attribution to Muhammed el-Muhlisî Hamdullah İbnü'ş-Şeyh connects this album to the Şeyh Hamdullah school — the foundational tradition of Ottoman Quranic calligraphy. If confirmed by specialist paleographic analysis, this would be a major calligraphic monument. (2) FRAMING SYSTEM: The album displays an exceptionally complex 5-layer compound framing system including the distinctive Ottoman murakkaʿ feature of diagonal gold-and-white striped border bands (alternating gold and white diagonal bands in wide outer border strips) — a feature not previously documented in the SM corpus and visible on all calligraphy pages. (3) SIZE: The album's physical dimensions (328×233 mm) are the largest among the SM albums examined and suggest a high-status commission. The absence of mülevven paper — initially misidentified in triage as 'teal/green mülevven' — is confirmed: the green and salmon elements visible in images are framing bands, not colored paper stock. The margin paper is buff/cream with zerefşân. CRITICAL NOTE ON FALSE POSITIVE: Do not attribute mülevven to this album. The triage error (green from cedvel border bands misread as green mülevven paper) has been corrected based on visual examination of IIIF images. Cross-reference: SM 00014 (sm_00014) shares the same calligrapher attribution (Muhammed el-Muhlisî Hamdullah İbnü'ş-Şeyh from teşpit fişi). Comparative paleographic study of both albums' calligraphy could help evaluate the attribution's reliability."
+  },
+  "paper_decoration": {
+    "types": [
+      "gold_sprinkled",
+      "illuminated_margins",
+      "framing_system"
+    ],
+    "summary": "SM 00013 presents a richly framed Quranic murakkaʿ without mülevven (colored paper) but with two distinct decorative programs: (1) Zerefşân margins: the outer margin paper (buff/cream ground) carries zerefşân (gold-sprinkled) decoration, confirmed on pp003, 007, and 012 at IIIF resolution. The gold sprinkling is lighter than SM 00006 but clearly present as scattered gold particles on the buff/cream margin zone. Dark speckling is also visible (possibly oxidized silver or deliberate ink spatter). (2) Complex compound framing system: every calligraphic page is enclosed within a 5-layer frame comprising — from outside inward — (a) outer gold ruled frame; (b) buff/cream outer margin with zerefşân; (c) distinctive diagonal gold-and-white striped border bands (alternating gold and white diagonal lines in a wide band); (d) sage-green ruled band; (e) salmon/peach ruled band; (f) inner red line; (g) cream text block. The diagonal striped bands are the most unusual and distinctive decorative feature of this album — a sophisticated Ottoman calligraphic framing device not documented in other SM albums in this corpus. (3) Serlevha (illuminated headpiece) on p012: a gold cartouche with polychrome floral illumination (blue ground / hatāyī-rūmī motifs in classical Ottoman style) marks the opening of a new surah section. The album does NOT contain mülevven (uniformly colored paper stock): the green and salmon colors visible in images are exclusively framing bands within the compound cedvel system, not paper coloring.",
+    "distribution_notes": "Zerefşân on outer margin (buff/cream ground): pp003, 007, 012 confirmed. Diagonal gold-and-white striped framing bands: pp003, 007, 012 confirmed; assumed throughout all interior calligraphic pages. Serlevha/illuminated headpiece: p012 confirmed. Pages not sampled (pp002, 004, 005, 006, 008, 009, 010, 011): assumed to continue the framing system; mülevven absence assumed to be consistent throughout based on examined pages. Full examination requires 8 additional pages.",
+    "technique_terms": {
+      "ottoman": "zerefşân / yaldız serpme — altın tanecikleri krem/bej zeminde, kenar bölgelerinde; çapraz altın-beyaz şeritli pervaz — murakkaʿ çerçeve sisteminin ayırt edici özelliği; altın cedvel — çok katmanlı bileşik çerçeve sistemi (5 kat: altın dış çerçeve, krem zerefşânlı dış kenar, çapraz şeritli pervaz, adaçayı yeşili bant, somon/toz pembe bant, kırmızı iç çerçeve); serlevha — altın kartuşlu tezhipli başlık; nesih — Osmanlı hat geleneğinde Kur'ân nesih yazısı.",
+      "persian": "zarafshān / afshān (افشان) — gold-sprinkled outer margin; jadval-e murakkab (جدول مرکب) — compound multi-layer ruling system; sarlawḥ (سرلوح) — illuminated headpiece; naskh (نسخ) — Quranic naskh script.",
+      "arabic": "dhahab marshūsh (ذهب مرشوش) — gold-sprinkled outer margin; jadwal murakkab (جدول مركب) — compound multi-layer ruling; ʿunwān (عنوان) — illuminated headpiece; naskh (نسخ) — Quranic script."
+    },
+    "catalogue_description": {
+      "paper_field": null,
+      "paper_field_normalized": null,
+      "paper_field_translation": null,
+      "notes_field": "Ketebe kaydi gorulmemektedir. Tespit fisinde hattat olarak Muhammed el-Muhlisi Hamdullah Ibnu's-Seyh ismi yazilmistir.",
+      "notes_field_normalized": "Ketebe kaydı görülmemektedir. Teşpit fişinde hattat olarak Muhammed el-Muhlisî Hamdullah İbnü'ş-Şeyh ismi yazılmıştır.",
+      "notes_field_translation": "No ketebe inscription is seen. On the identification card (teşpit fişi), the name Muhammed el-Muhlisî Hamdullah İbnü'ş-Şeyh is written as the calligrapher.",
+      "decoration_field": null,
+      "source": "YEK portal, genel_notlar and muhürler fields, record 325925, Süleymaniye Kütüphanesi — Süleymaniye Murakka Koleksiyonu, SM 00013. Catalogued by Serra Bostan. Fields kağıt özellikleri and tezhip/minyatür are null in the YEK record; the zerefşân margins, compound framing system, diagonal striped border bands, and serlevha are entirely absent from the YEK catalogue description.",
+      "cataloguer_note": "The YEK cataloguing of SM 00013 records only the absence of a ketebe and the teşpit fişi attribution. The complete decoration program — zerefşân margins, 5-layer compound framing with diagonal striped bands, and serlevha — is documented here exclusively from visual examination of IIIF images and the visual-confirmation session of 2026-02-28."
+    }
+  },
+  "workshop_attribution": {
+    "primary_tradition": "ottoman",
+    "workshop_centre": "Istanbul (probable), or Ottoman court-adjacent provincial center",
+    "date_range_ce": "Uncertain: possibly 15th–16th century (Şeyh Hamdullah school active period) or 17th–18th century (later follower). Terminus ante quem: AH 1202 / 1787–88 CE.",
+    "confidence": 0.55,
+    "key_indicators": [
+      "Vakf seal dated AH 1202 / 1787–88 CE provides a firm terminus ante quem for the album's presence in Istanbul",
+      "Teşpit fişi attribution to Muhammed el-Muhlisî Hamdullah İbnü'ş-Şeyh places the album in or after the Şeyh Hamdullah calligraphic lineage (active from c. 1470s onward)",
+      "The album's largest-format dimensions in the SM corpus (328×233 mm) are consistent with high-status commission, typically from Istanbul or a major Ottoman court",
+      "The 5-layer compound framing system with diagonal gold-and-white striped bands is associated with 16th–17th century Ottoman luxury murakkaʿ production, likely Istanbul",
+      "The serlevha style on p012 — gold cartouche with polychrome hatāyī-rūmī illumination — is in the classical Ottoman tezhip tradition associated with Istanbul workshops",
+      "Quranic content in high-quality nesih is consistent with the Şeyh Hamdullah school's dominant focus on Quranic manuscripts"
+    ],
+    "cross_tradition_caveats": [
+      "No dated ketebe inscription is present; the only primary date anchor is the vakf seal (terminus ante quem)",
+      "The teşpit fişi attribution is not supported by a ketebe and has not been verified by specialist paleographic analysis",
+      "Without paleographic comparison with documented Hamdullah school manuscripts, the production date could range across three centuries",
+      "The 'Muhlisî' epithet in the attributed name is not documented in standard biographical dictionaries of Ottoman calligraphers consulted",
+      "8 of 12 IIIF pages were not examined; additional decorative features may be present",
+      "Physical examination (watermark analysis, paper origin) could significantly narrow the dating"
+    ]
+  },
+  "codicology": {
+    "paper": {
+      "color": "Buff/cream (outer margin zones on all examined calligraphic pages — the dominant paper color of this album). Text panels: cream/ivory âharlı (sized and burnished) paper, same hue as margins. No mülevven (colored paper): the green and salmon hues visible in images are exclusively framing bands (cedvel/pervaz elements), not paper coloring. Binding cover: dark brown/maroon leather.",
+      "preparation": "Text panels on cream âharlı (sized and burnished) paper. Outer margin paper: buff/cream stock with zerefşân (gold particle) sprinkling. The zerefşân is lighter in concentration than SM 00006. Framing bands appear to be ruled in colored pigments (sage-green, salmon, red) rather than applied paper strips.",
+      "weight": "Indeterminate from IIIF images; the large album format (328×233 mm) suggests heavier paper stock for stability.",
+      "decoration": "Zerefşân on outer margin (buff/cream ground); 5-layer compound framing with diagonal gold-and-white striped bands; serlevha on p012; gold durak (verse-separator) roundels throughout Quranic text.",
+      "paper_type": "Uniform buff/cream paper throughout (margins and text panels); zerefşân overlay on outer margin zones. No mülevven detected."
+    },
+    "ruling": {
+      "system": "5-layer compound altın cedvel (multi-ruled framing system) throughout all calligraphic pages.",
+      "description": "The framing system from outer margin to text panel is as follows: (1) outermost gold rule line bordering the entire page; (2) buff/cream outer margin zone with zerefşân, substantial width; (3) DISTINCTIVE FEATURE — wide diagonal gold-and-white striped border band: alternating gold and white diagonal lines running at approximately 45 degrees, producing a bold geometric band visible across the full width of the frame; (4) sage-green ruled band (narrow); (5) salmon/peach ruled band (narrow); (6) fine red ruled line immediately bordering the text panel; (7) cream text field. This is a significantly more architecturally complex framing system than SM 00006 (2–3 layers) or SM 00009. The diagonal striped border bands are the single most distinctive decorative feature of the album and have not been documented in other SM albums in this corpus. They are confirmed on pp003, 007, and 012."
+    },
+    "binding": {
+      "cover_description": "Dark brown/maroon lacquer-finish leather binding with a very large central gold şemse medallion — the largest binding medallion observed in the SM corpus. The şemse is nearly circular with a densely filled interior of rūmī arabesques and interlacing scrollwork. Two substantial salbek (pendant) extensions project from the horizontal axis of the şemse, each containing a subsidiary lobed cartouche in gold. Gold border tooling visible around the cover perimeter. Süleymaniye Kütüphanesi circular label (numeral '13') and a rectangular red-bordered label visible on the front cover. Türkiye Yazma Eserler Kurumu embossed stamp also present. The binding is heavier and larger in scale than the SM 00006 binding.",
+      "cover_type": "Ruganî/lake cilt — lacquer-finish leather binding with monumental gold şemse + salbek configuration",
+      "notes": "The very large şemse with elaborate salbek extensions is among the most imposing binding decorations in the SM corpus. The visual-confirmation session classified the binding as 'ornate lacquer binding with dark burgundy/maroon leather' at confidence 0.95. The scale of the şemse relative to the cover dimensions (filling nearly half the cover surface) suggests a high-prestige production context. Physical examination is needed to confirm whether this is true ruganî (lacquer) or heavily gilded leather tooling."
+    },
+    "format": "Murakkaʿ — bound Ottoman Quranic calligraphic album; 11 yaprak (folios); zerefşân + compound diagonal framing + serlevha + lacquer binding",
+    "condition_summary": "Interior pages appear in good condition based on IIIF images: zerefşân margins are legible, compound framing is intact, and the serlevha on p012 is well-preserved. Binding cover (p001) shows wear. Some staining or aging visible on outer margin zones (dark speckling that may be oxidized silver sprinkling). No major losses or water damage visible in examined pages.",
+    "conservation_history": null
+  },
+  "visual_confirmation": {
+    "verdict": "confirmed",
+    "confidence": 0.9,
+    "screenshots_examined": 4,
+    "limitations": [
+      "Only 4 of 12 IIIF pages were downloaded (pp001, 003, 007, 012); 8 pages not examined",
+      "Mülevven absence confirmed on examined pages but requires examination of pp002, 004–006, 008–011 for full verification",
+      "The faint teal/green tint on p003 outer margin (noted in visual-confirmation session) could be a very faint paper tint or aging — physical examination needed",
+      "Dark speckling on margin zones requires physical examination to distinguish oxidized silver from intentional ink spatter",
+      "IIIF JPEG compression limits the finest zerefşân and diagonal stripe detail",
+      "Ketebe attribution requires specialist calligraphic comparison — not resolvable from IIIF images"
+    ],
+    "source_agent": "visual-confirmation",
+    "session": "catalog/searches/visual_tier2f_sm_00013.json",
+    "folios_examined": [
+      "corpus/iiif/sm_00013_p001.jpeg",
+      "corpus/iiif/sm_00013_p003.jpeg",
+      "corpus/iiif/sm_00013_p007.jpeg",
+      "corpus/iiif/sm_00013_p012.jpeg"
+    ]
+  },
+  "folio_analyses": [
+    {
+      "folio": "p001 — Lacquer binding with monumental gold semse",
+      "source_image": "corpus/iiif/sm_00013_p001.jpeg",
+      "decoration_present": true,
+      "decoration_types": [
+        "binding"
+      ],
+      "elements": [
+        {
+          "motif": "Lacquer-finish leather binding — dark brown/maroon with monumental gold semse",
+          "description": "Dark brown/maroon lacquer-finish leather cover. Very large central gold semse with dense rumi arabesque interior, nearly circular in format. Two substantial salbek pendants projecting horizontally with lobed subsidiary cartouches. Largest binding medallion in the SM corpus examined to date.",
+          "location": "Front cover exterior",
+          "confidence": 0.95
+        }
+      ],
+      "confidence": 0.95,
+      "notes": "Front cover exterior. The semse dominates nearly half the cover surface."
+    },
+    {
+      "folio": "p003 — Buff/cream zerefsan margins + diagonal striped framing (NO mulevven)",
+      "source_image": "corpus/iiif/sm_00013_p003.jpeg",
+      "decoration_present": true,
+      "decoration_types": [
+        "gold_sprinkled",
+        "framing_system"
+      ],
+      "elements": [
+        {
+          "motif": "Buff/cream outer margin with zerefsan",
+          "description": "Buff/cream outer margin with zerefsan (gold speckling) confirmed. NO mulevven — the green visible is a sage-green framing band within the compound cedvel system, not mulevven paper stock. Triage misidentification corrected.",
+          "location": "Outer margin",
+          "confidence": 0.92
+        },
+        {
+          "motif": "Diagonal gold-and-white striped border band",
+          "description": "Distinctive diagonal gold-and-white striped border band — alternating gold and white diagonal lines at ~45 degrees, wide band. Unique to SM 00013 in the corpus.",
+          "location": "Between outer margin and text panel",
+          "confidence": 0.93
+        },
+        {
+          "motif": "Compound cedvel — sage-green + salmon + red",
+          "description": "Sage-green ruled band (narrow), salmon/peach ruled band (narrow), red inner ruled line bordering text. Multi-layer framing system.",
+          "location": "Frame system throughout page",
+          "confidence": 0.92
+        },
+        {
+          "motif": "Gold durak (verse-separator) roundels",
+          "description": "Gold durak roundels in Quranic nesih text. Content: Surat al-Baqara opening verses.",
+          "location": "Within text panel",
+          "confidence": 0.9
+        }
+      ],
+      "confidence": 0.92,
+      "notes": "First sampled calligraphic page. Compound framing fully visible: buff zerefsan outer margin -> diagonal gold-white striped band -> sage-green band -> salmon band -> red rule -> cream text."
+    },
+    {
+      "folio": "p007 — Consistent framing system (mid-album)",
+      "source_image": "corpus/iiif/sm_00013_p007.jpeg",
+      "decoration_present": true,
+      "decoration_types": [
+        "gold_sprinkled",
+        "framing_system"
+      ],
+      "elements": [
+        {
+          "motif": "Buff/cream outer margin with zerefsan",
+          "description": "Same buff/cream outer margin with zerefsan gold speckling as p003.",
+          "location": "Outer margin",
+          "confidence": 0.92
+        },
+        {
+          "motif": "Diagonal gold-and-white striped border band",
+          "description": "Identical diagonal striped band as p003, confirming consistent decoration throughout album.",
+          "location": "Between outer margin and text panel",
+          "confidence": 0.93
+        },
+        {
+          "motif": "Compound cedvel — teal/sage-green + salmon",
+          "description": "Teal/sage-green ruled band, salmon/peach ruled band, red inner rule. Same system as p003.",
+          "location": "Frame system throughout page",
+          "confidence": 0.9
+        }
+      ],
+      "confidence": 0.92,
+      "notes": "Middle-album page. Framing system identical to p003. No mulevven."
+    },
+    {
+      "folio": "p012 — Serlevha (illuminated headpiece) + consistent framing",
+      "source_image": "corpus/iiif/sm_00013_p012.jpeg",
+      "decoration_present": true,
+      "decoration_types": [
+        "gold_sprinkled",
+        "illuminated_margins",
+        "framing_system"
+      ],
+      "elements": [
+        {
+          "motif": "Serlevha (illuminated headpiece)",
+          "description": "Gold cartouche at top of text panel with polychrome illumination: lacivert (lapis blue) background band, hatayi-rumi floral scrollwork in white/red/blue/green on gold, Besmele in gold ink above. Classical Ottoman tezhip style. Sura-opening marker for Surat al-Anfal (Surah 8).",
+          "location": "Top of text panel",
+          "confidence": 0.93
+        },
+        {
+          "motif": "Buff/cream outer margin with zerefsan",
+          "description": "Consistent with pp003, 007.",
+          "location": "Outer margin",
+          "confidence": 0.92
+        },
+        {
+          "motif": "Diagonal gold-and-white striped border band",
+          "description": "Consistent with all other calligraphic pages.",
+          "location": "Between outer margin and text panel",
+          "confidence": 0.93
+        },
+        {
+          "motif": "Compound cedvel system",
+          "description": "Sage-green + salmon + red ruled bands, consistent throughout.",
+          "location": "Frame system",
+          "confidence": 0.9
+        }
+      ],
+      "confidence": 0.93,
+      "notes": "Final sampled page. The serlevha is high-quality — gold ground, polychrome floral scrollwork with lapis blue — suggesting workshop-produced illumination. Overall composition consistent with 16th-17th century Ottoman Quranic murakka production."
+    }
+  ],
+  "terminology": {
+    "terms_used": [
+      {
+        "concept": "Gold-sprinkled paper",
+        "ottoman": "zerefşân / yaldız serpme",
+        "arabic": "dhahab marshūsh (ذهب مرشوش)",
+        "persian": "zarafshān / afshān (افشان)",
+        "english": "Paper with fine gold particles scattered on the buff/cream surface of the outer margin zone"
+      },
+      {
+        "concept": "Illuminated headpiece",
+        "ottoman": "serlevha",
+        "arabic": "ʿunwān (عنوان)",
+        "persian": "sarlawḥ (سرلوح)",
+        "english": "Gold cartouche with polychrome floral illumination marking the opening of a Quranic surah"
+      },
+      {
+        "concept": "Diagonal striped framing band",
+        "ottoman": "çapraz altın şeritli pervaz",
+        "arabic": null,
+        "persian": null,
+        "english": "Distinctive Ottoman murakkaʿ framing element: wide band of alternating diagonal gold and white lines, forming a geometric border around the text panel. Not a standard cataloguing term; descriptive designation used here."
+      },
+      {
+        "concept": "Ruling/frame lines",
+        "ottoman": "altın cedvel / cetvel",
+        "arabic": "jadwal mudhahdhab (جدول مذهّب)",
+        "persian": "jadval-e zar (جدول زر)",
+        "english": "5-layer compound ruling system: gold outer frame + zerefşân margin + diagonal striped band + sage-green band + salmon band + red inner rule"
+      },
+      {
+        "concept": "Verse-separator roundels",
+        "ottoman": "durak / gül (Kur'ân)",
+        "arabic": "fāṣila (فاصلة) / durak",
+        "persian": "dur-ān (دوران) / fāṣile",
+        "english": "Gold roundel markers separating individual Quranic verses throughout the text"
+      },
+      {
+        "concept": "Lacquer binding",
+        "ottoman": "ruganî cilt / lake cilt",
+        "arabic": "jild rughanī (جلد روغني)",
+        "persian": "jild-e rughanī",
+        "english": "Lacquer-finish leather binding with monumental gold şemse medallion and salbek pendants"
+      },
+      {
+        "concept": "Calligraphic album",
+        "ottoman": "murakkaʿ (مرقع)",
+        "arabic": "murakkāʿ (مرقّع)",
+        "persian": "murakkāʿ",
+        "english": "Bound calligraphic album; here, Quranic naskh leaves in murakkaʿ format"
+      },
+      {
+        "concept": "Attribution from identification card",
+        "ottoman": "teşpit fişi",
+        "arabic": null,
+        "persian": null,
+        "english": "Administrative identification card prepared by cataloguers; does not carry the authority of a ketebe (scribal colophon) as a primary attribution source"
+      }
+    ]
+  },
+  "bibliography": [
+    {
+      "citation": "M. Uğur Derman, Letters in Gold: Ottoman Calligraphy from the Sakıp Sabancı Collection, İstanbul. Exhibition catalogue, Metropolitan Museum of Art. New York: Metropolitan Museum of Art, 1998.",
+      "relevance": "Authoritative reference for the Şeyh Hamdullah school of Ottoman Quranic calligraphy; documents the defining features of the school's nesih hand and provides comparative material for evaluating the teşpit fişi attribution of SM 00013 to Hamdullah İbnü'ş-Şeyh.",
+      "relevance_score": 0.95,
+      "access_notes": "Exhibition catalogue; available at major research libraries. An important comparative baseline for specialist paleographic verification of the attribution."
+    },
+    {
+      "citation": "M. Uğur Derman, Osmanlı Hat Sanatı. Istanbul: İslâm Araştırmaları Merkezi (ISAM), 2019.",
+      "relevance": "Comprehensive study of Ottoman calligraphy including detailed documentation of the Şeyh Hamdullah school; critical for contextualizing the attributed calligrapher Muhammed el-Muhlisî Hamdullah İbnü'ş-Şeyh. In Turkish.",
+      "relevance_score": 0.93,
+      "access_notes": "Turkish-language monograph; available at Turkish research libraries and ISAM."
+    },
+    {
+      "citation": "Sheila S. Blair, Islamic Calligraphy. Edinburgh: Edinburgh University Press, 2006.",
+      "relevance": "Broad synthetic account of Islamic calligraphic traditions including Ottoman naskh; provides context for the Şeyh Hamdullah lineage's place in the broader history of Quranic calligraphy.",
+      "relevance_score": 0.8,
+      "access_notes": "Standard reference; widely available."
+    },
+    {
+      "citation": "Sheila S. Blair, 'Color and Gold: The Decorated Papers Used in Manuscripts in Later Islamic Times,' Muqarnas 17 (2000): 24–36.",
+      "relevance": "Foundational survey of decorated paper types in Islamic manuscripts; relevant for classifying the zerefşân outer margin program and for contextualizing the framing system of SM 00013.",
+      "relevance_score": 0.78,
+      "access_notes": "Peer-reviewed; JSTOR access required for full text."
+    },
+    {
+      "citation": "Zeren Tanındı, 'Türk Minyatür Sanatı / Turkish Miniature Painting,' in Türkler Ansiklopedisi, vol. 12. Ankara: Yeni Türkiye Yayınları, 2002.",
+      "relevance": "Key reference for Ottoman illustrated and decorated album production in Istanbul; context for the serlevha illumination on p012 and the compound framing system of SM 00013.",
+      "relevance_score": 0.75,
+      "access_notes": "Turkish-language reference encyclopedia entry."
+    },
+    {
+      "citation": "Serpil Bağcı, Filiz Çağman, Günsel Renda, and Zeren Tanındı, Ottoman Painting. Ankara: Kültür ve Turizm Bakanlığı, 2006.",
+      "relevance": "Includes discussion of Ottoman Quranic manuscript production and the framing traditions associated with the Şeyh Hamdullah school albums.",
+      "relevance_score": 0.72,
+      "access_notes": "Museum publication; widely available."
+    },
+    {
+      "citation": "François Déroche, Islamic Codicology: An Introduction to the Study of Manuscripts in Arabic Script. London: Al-Furqan Islamic Heritage Foundation, 2006.",
+      "relevance": "Standard codicological reference for Arabic manuscript traditions; provides the framework for analyzing the ruling system (jadwal), format description, and material evidence that bears on the dating and attribution of SM 00013.",
+      "relevance_score": 0.78,
+      "access_notes": "English-language standard reference; widely available."
+    },
+    {
+      "citation": "Gülnur Duran, 'Osmanlı Cilt Sanatı / Ottoman Bookbinding,' in Türkler Ansiklopedisi, vol. 12. Ankara: Yeni Türkiye Yayınları, 2002.",
+      "relevance": "Reference for Ottoman binding typology; the monumental şemse with salbek configuration on the SM 00013 lacquer binding is a major codicological feature addressed in this entry.",
+      "relevance_score": 0.78,
+      "access_notes": "Turkish-language reference encyclopedia entry."
+    },
+    {
+      "citation": "Karin Scheper, The Technique of Islamic Bookbinding: Methods, Materials and Regional Varieties. 2nd ed. Leiden: Brill, 2018.",
+      "relevance": "Technical reference for Islamic bookbinding; relevant for physical analysis of the SM 00013 lacquer binding and for distinguishing true ruganî lacquer from gilded leather tooling.",
+      "relevance_score": 0.7,
+      "access_notes": "Available from publisher and major research libraries."
+    },
+    {
+      "citation": "Adam Gacek, The Arabic Manuscript Tradition: A Glossary of Technical Terms and Bibliography. Leiden: Brill, 2001.",
+      "relevance": "Standard reference for Arabic manuscript terminology; provides definitions for cedvel (jadwal), durak, şemse, salbek, ketebe, and codicological terms used in this record.",
+      "relevance_score": 0.68,
+      "access_notes": "Available from publisher and major research libraries."
+    }
+  ],
+  "suggested_collections": [
+    {
+      "institution": "Topkapı Sarayı Kütüphanesi",
+      "reason": "Houses the primary corpus of documented Şeyh Hamdullah Quranic manuscripts; specialist paleographic comparison with SM 00013 is most efficiently conducted against this collection.",
+      "digital_access": "https://kutuphane.tsmk.gov.tr"
+    },
+    {
+      "institution": "Süleymaniye Kütüphanesi — Hamidiye and Hekimoğlu collections",
+      "reason": "Other Süleymaniye sub-collections contain additional Şeyh Hamdullah school manuscripts; comparison with SM 00013 framing system and calligraphic hand is feasible in-house.",
+      "digital_access": "https://portal.yek.gov.tr"
+    },
+    {
+      "institution": "Chester Beatty Library, Dublin",
+      "reason": "Significant Ottoman Quranic manuscript collection including Şeyh Hamdullah school material; relevant for comparative paleographic work on the SM 00013 attribution.",
+      "digital_access": "https://viewer.cbl.ie"
+    }
+  ],
+  "provenance": {
+    "donor": "Fethizâde Mustafa Efendi (الحاج سيد مصطفى فتحي زاده)",
+    "waqf": "Vakf-ı Sâhibü'l-Hayrât el-Hâcc Seyyid Mustafa Fethizâde der-Kitâbhâne-i Câmi-i Sultan Süleyman, 1202 AH / 1787–88 CE. The album was endowed to the library of the Sultan Süleyman Mosque (Süleymaniye Kütüphanesi), Istanbul, by the charitable donor Hâcı Seyyid Mustafa Fethizâde in AH 1202. This vakf seal is shared by all SM albums in the Süleymaniye Murakka Koleksiyonu, establishing AH 1202 / 1787–88 CE as a common terminus ante quem for the entire collection.",
+    "previous_shelfmarks": [],
+    "notes": "All albums in the Süleymaniye Murakka Koleksiyonu bear the Fethizâde Mustafa Efendi vakf seal dated AH 1202. This single-donor, single-date endowment suggests the albums were assembled or collected as a group before being donated together. The pre-vakf provenance of SM 00013 — particularly relevant given the possible early (15th–16th century) production date suggested by the Şeyh Hamdullah attribution — is unknown."
+  },
+  "analysis_metadata": {
+    "analyzed_date": "2026-02-28",
+    "analyzer": "claude-code-manuscript-pipeline",
+    "image_source": "IIIF — YEK portal, manifest ID 0000000356065. Four pages downloaded by visual-confirmation agent (context_id: slot6) on 2026-02-28.",
+    "image_quality_notes": "IIIF JPEG at standard portal resolution. Quality sufficient for framing system analysis, mülevven absence confirmation, zerefşân detection, and serlevha classification. JPEG compression limits the finest zerefşân particle detail and some fine line detail in the serlevha illumination. 8 of 12 pages not downloaded.",
+    "folios_examined": [
+      "p001 (binding / front cover)",
+      "p003 (calligraphic opening — Surat al-Baqara)",
+      "p007 (calligraphic opening — mid-Quran)",
+      "p012 (calligraphic opening with serlevha — Surat al-Anfāl)"
+    ],
+    "folios_not_examined": "pp002, 004, 005, 006, 008, 009, 010, 011 — not downloaded in visual-confirmation session. These pages are assumed to continue the compound framing and zerefşân margin program observed in the sampled pages. Full examination would confirm the absence of mülevven and document any additional serlevha headpieces."
+  }
+}

@@ -1,0 +1,298 @@
+{
+  "record_id": "sm_00014",
+  "collection": {
+    "institution": "Süleymaniye Kütüphanesi — Süleymaniye Murakka Koleksiyonu",
+    "city": "Istanbul",
+    "country": "Turkey",
+    "shelfmark": "SM 00014",
+    "yek_url": "https://portal.yek.gov.tr/works/detail/325926"
+  },
+  "manuscript": {
+    "title": "Muraqqaʿāt / مرقعات",
+    "title_script": "مرقعات",
+    "title_alt": "Süleymaniye Murakka Koleksiyonu 14 — Meşk Yapraği (Calligraphic Practice Leaf)",
+    "author": null,
+    "author_dates": null,
+    "calligrapher": "Muhammed el-Muhlisî Hamdullah İbnü'ş-Şeyh (محمد المخلصي حمدالله ابن الشيخ) — per YEK teşpit fişi (identification card); no ketebe visible on the leaf",
+    "calligrapher_dates": "Unknown; a follower or descendant of the Şeyh Hamdullah tradition, active likely in the 16th or early 17th century (see note)",
+    "calligrapher_note": "The YEK genel_notlar states: 'Ketebe kaydı görülmemektedir. Teşpit fişinde hattat olarak Muhammed el-Muhlisî Hamdullah İbnü'ş-Şeyh ismi yazılıdır.' This translates as: 'No ketebe (scribal colophon) is visible. On the identification card, the calligrapher's name is written as Muhammed el-Muhlisî Hamdullah İbnü'ş-Şeyh.' The name 'Hamdullah İbnü'ş-Şeyh' means 'Hamdullah, son of the Shaykh (İbnü'ş-Şeyh = Ibn al-Shaykh)' — a designation that identifies the calligrapher as the son of Şeyh Hamdullah (AH 840–926 / 1435–1520), the foundational master of the classical Ottoman calligraphic school, NOT Şeyh Hamdullah himself. The full name 'Muhammed el-Muhlisî Hamdullah İbnü'ş-Şeyh' thus designates a calligrapher who was literally the son of Şeyh Hamdullah, carrying his father's name as part of his own. 'El-Muhlisî' is an epithet meaning 'the sincere / the devoted.' This identification rests on the YEK teşpit fişi (a modern scholarly identification card, not a contemporary inscription), as no ketebe inscription appears on the leaf itself. The attribution should therefore be treated as a scholarly hypothesis requiring specialist palaeographic verification. Note: The triage viewer preliminary assessment had simplified this to 'Şeyh Hamdullah' but this is incorrect — the calligrapher named is the son of Şeyh Hamdullah, a distinct individual of the following generation.",
+    "date_ah": "before 1202 AH (terminus ante quem from vakf seal); probable 16th–early 17th century if İbnü'ş-Şeyh attribution is accepted",
+    "date_ce": "before 1787–88 CE (terminus ante quem); probable c. 1520–1620 CE if attribution to son of Şeyh Hamdullah is correct",
+    "date_note": "No date is recorded on the leaf, and the YEK catalogue gives no tarih (date) field. The vakf seal of Fethizâde Mustafa Efendi (AH 1202 / 1787–88) provides the only firm terminus ante quem. If the attribution to Muhammed el-Muhlisî Hamdullah İbnü'ş-Şeyh is accepted, this would place the leaf in the generation after Şeyh Hamdullah (d. 926/1520), suggesting a date of c. 1520–1580 or later. The identification rests on a modern teşpit fişi, not a contemporary ketebe; without specialist palaeographic confirmation, a broader range of c. 1520–1700 is appropriate.",
+    "place_of_copy": "Istanbul (probable)",
+    "format": "Murakkaʿ (مرقعات) — single calligraphic leaf (1 yaprak = 2 pages: p001 blank cardboard cover, p002 calligraphic exercise). The YEK entry under the Süleymaniye Murakka Koleksiyonu treats this single leaf as one album unit within the collection. Content: meşk (calligraphic practice) in nesih script, densely written in a practice/exercise mode (mushq style) with overlapping letters filling the entire text panel. Decorated paper: pink/salmon mülevven margin ground with gold cetvelli framing. Script: Nesih (نسخ).",
+    "format_note": "The YEK catalogue records '1 yk., muhtelif st.' (1 leaf, various lines) and dimensions as 'muhtelif-muhtelif mm' (various — various mm), indicating a single leaf with irregular trimming. The page p002 contains what the visual confirmation session identified as 'mushq/meşk style' calligraphy — dense overlapping letters filling the entire text panel in a practice-exercise mode rather than a finished display kıtʿa. The distinction between a meşk (calligraphic practice leaf) and a finished exhibition kıtʿa is significant: meşk leaves document a calligrapher's training and technical mastery rather than producing works for presentation or patronage. The classification of this item within the Süleymaniye Murakka Koleksiyonu alongside finished display kıtʿalar reflects the collection's scope as a comprehensive repository of calligraphic material rather than exclusively finished works.",
+    "language": "Arabic",
+    "script": "Nesih (نسخ) — dense calligraphic practice (meşk) in Arabic, covering the entire text panel with closely overlapping letterforms characteristic of advanced meşk exercises.",
+    "dimensions_mm": {
+      "height": null,
+      "width": null,
+      "notes": "YEK records 'muhtelif-muhtelif mm' (various-various). The irregular dimensions reflect the single leaf's trimmed state. No standard dimensions extractable from the YEK record."
+    },
+    "folio_count": 1,
+    "yek_id": "325926",
+    "iiif_id": "0000000356064",
+    "notes": "CORPUS SIGNIFICANCE: SM 00014 is the smallest item in the Süleymaniye Murakka Koleksiyonu processed in this project: a single calligraphic practice leaf with a pink/salmon mülevven margin and gold cetvelli, attributed by modern teşpit fişi to Muhammed el-Muhlisî Hamdullah İbnü'ş-Şeyh (son of Şeyh Hamdullah). The leaf is historically significant as a potential specimen of second-generation Şeyh Hamdullah calligraphy — a direct link to the founding figure of the classical Ottoman school. The meşk exercise format (overlapping dense letterforms in nesih) distinguishes this from the finished display kıtʿalar in other SM albums and provides a rare glimpse into the calligraphic training materials that circulated in Ottoman calligraphic tradition. The decoration (mülevven + cetvelli) is minimal but consistent with album-standard presentation even for a practice leaf. Complete album downloaded (both pages); the entire album consists of p001 (blank cardboard cover) and p002 (calligraphic leaf). Cross-reference: SM 00013 (sm_00013) shares the same calligrapher attribution (Muhammed el-Muhlisî Hamdullah İbnü'ş-Şeyh from teşpit fişi). Comparative paleographic study of both albums' calligraphy could help evaluate the attribution's reliability."
+  },
+  "paper_decoration": {
+    "types": [
+      "colored",
+      "framing_system"
+    ],
+    "summary": "SM 00014 presents a minimal but well-executed decorated paper program on its single calligraphic leaf. The outer margin of the calligraphic page (p002) is pink/salmon mülevven (colored paper), clearly visible as a warm pink-toned border surrounding the mounted text panel on all four sides. The tone is distinctly pink/salmon and shows age toning consistent with the leaf's likely 16th–17th century origin. A gold cetvelli (ruling system) frames the text panel: a thin gold border runs immediately outside the text area, and an outer gold ruling line defines the margin edge. The overall decoration is restrained — no zerefşân (gold sprinkling), no halkar, no marbled paper — but the combination of colored ground and gold framing is consistent with Ottoman murakkaʿ album standards applied even to practice leaves. The binding cover (p001) is a modern plain brown/tan cardboard with the embossed Türkiye Yazma Eserler Kurumu stamp; it carries no historical decoration.",
+    "technique_terms": {
+      "ottoman": "mülevven kâğıt — pembe/somon renk; altın cedvel — metin paneli çerçeveleme; sade kenar düzenlemesi",
+      "persian": "kāġaz-e mulavvan (کاغذ ملوّن) — colored paper; jadval-e zar (جدول زر) — gold ruling",
+      "arabic": "waraq mulauwwan (ورق ملوّن) — colored paper; jadwal mudhahdhab (جدول مذهّب) — gold-ruled frame"
+    },
+    "catalogue_description": {
+      "paper_field": null,
+      "paper_field_normalized": null,
+      "paper_field_translation": null,
+      "notes_field": "Ketebe kaydı görülmemektedir. Teşpit fişinde hattat olarak Muhammed el-Muhlisî Hamdullah İbnü'ş-Şeyh ismi yazılıdır. Vakıf mühürü: Vakf-ı Sâhibü'l-Hayrât el-Hâcc Seyyid Mustafa Fethizâde der-Kitâbhâne-i Câmi-i Sultan Süleyman, 1202, Süleymaniye Câmii Kütüphanesi.",
+      "notes_field_translation": "No ketebe inscription is visible. On the identification card, the calligrapher's name is written as Muhammed el-Muhlisî Hamdullah İbnü'ş-Şeyh. Vakf seal: [Endowment of] the Charitable Owner the Ḥājī Seyyid Mustafa Fethizâde, [to] the Library of the Mosque of Sultan Süleyman, AH 1202, Süleymaniye Mosque Library.",
+      "decoration_field": null,
+      "source": "YEK portal, genel_notlar and muhürler fields, record 325926, Süleymaniye Kütüphanesi — Süleymaniye Murakka Koleksiyonu, SM 00014. Catalogued by Serra Bostan. Fields kağıt_özellikleri and tezhip_minyatür are null in the YEK record; the pink/salmon mülevven and gold cetvelli are documented here exclusively from visual examination of the IIIF images.",
+      "cataloguer_note": "The YEK cataloguing of SM 00014 documents only the absence of a ketebe, the modern scholarly attribution, and the vakf seal. The paper decoration (mülevven, cetvelli) is absent from all YEK catalogue fields."
+    }
+  },
+  "workshop_attribution": {
+    "primary_tradition": "ottoman",
+    "workshop_centre": "Istanbul",
+    "date_range_ce": "c. 1520–1620 CE (probable, based on İbnü'ş-Şeyh attribution if accepted)",
+    "confidence": 0.6,
+    "key_indicators": [
+      "Attribution to Muhammed el-Muhlisî Hamdullah İbnü'ş-Şeyh (son of Şeyh Hamdullah, d. 926/1520) — if accepted — places the leaf in the second generation of the Ottoman Istanbul calligraphic school",
+      "Şeyh Hamdullah's family and students were active in the Ottoman court calligraphic tradition centered in Istanbul through the 16th century",
+      "Pink/salmon mülevven margin with gold cetvelli is consistent with Ottoman Istanbul murakkaʿ production conventions",
+      "Vakf seal dated AH 1202 / 1787–88 establishes that the leaf was in Istanbul by the late 18th century"
+    ],
+    "cross_tradition_caveats": [
+      "No ketebe inscription is present; attribution rests entirely on a modern YEK teşpit fişi (identification card), not a contemporary inscription — specialist palaeographic verification is required",
+      "Muhammed el-Muhlisî Hamdullah İbnü'ş-Şeyh is not extensively documented in the published literature consulted for this record; his dates, authenticated works, and career require further research",
+      "The period of compilation and decoration of the leaf may differ from the period of calligraphic execution; the mülevven and cetvelli could have been applied when the leaf was incorporated into the Fethizâde collection"
+    ]
+  },
+  "codicology": {
+    "paper": {
+      "color": "P002: Pink/salmon mülevven margin (warm pink, age-toned); cream/ivory âharlı text panel paper for the calligraphy. P001: Modern plain brown/tan cardboard (Türkiye Yazma Eserler Kurumu housing).",
+      "preparation": "Mülevven margin: paper dyed or pigmented in pink/salmon tones. Text panel: âharlı (sized and burnished) cream paper suitable for nesih calligraphy. The leaf shows age toning consistent with its probable 16th–17th century origin.",
+      "weight": "Indeterminate from IIIF images. A single leaf ('1 yk.') with irregular trimming (muhtelif dimensions).",
+      "decoration": "Pink/salmon mülevven margin; gold cetvelli framing (thin gold border + outer gold ruling line).",
+      "paper_type": "Mülevven (pink/salmon colored paper); cream âharlı text panel paper."
+    },
+    "ruling": {
+      "system": "Simple gold cetvelli: a thin gold border immediately surrounding the text panel and an outer gold ruling line at the margin edge.",
+      "description": "The gold cetvelli on p002 is simpler than the multi-layer compound systems documented in other SM albums. A single or double gold rule runs around the perimeter of the text panel, separating the pink/salmon mülevven margin from the calligraphic writing area. An outer gold ruling line is also visible at the margin edge. The simplicity of the cetvelli is consistent with a practice leaf format rather than a finished display kıtʿa, where more elaborate compound cedvel systems are standard."
+    },
+    "binding": {
+      "cover_description": "P001 is a modern plain brown/tan cardboard cover (housing board) with the embossed Türkiye Yazma Eserler Kurumu (Turkish Written Heritage Institution) stamp at center and a pencil inscription at lower right reading 'Murakka 14'. This is a modern institutional housing, not a historical binding. The original leaf may have had no binding cover at all, having been stored loose or as part of a larger bound volume before its current registration as an independent album unit in the SM collection.",
+      "cover_type": "Modern institutional housing board (not historical binding)",
+      "notes": "The single-leaf format indicates that SM 00014 was either always a loose leaf that was later registered as an album unit, or that it survives as a single remnant from a larger now-dispersed album. The modern cardboard housing reflects standard Türkiye Yazma Eserler Kurumu conservation practice for single-leaf items."
+    },
+    "format": "Single calligraphic practice leaf (meşk yapraği) housed as a murakkaʿ album unit; mülevven + cetvelli",
+    "condition_summary": "The calligraphic leaf (p002) appears in generally good condition with the pink/salmon mülevven color still clearly visible despite age toning. The calligraphy itself — the dense overlapping nesih exercise — is legible across the full panel. A small seal impression is visible at the lower right of the text panel. The modern housing board (p001) is intact.",
+    "conservation_history": null
+  },
+  "visual_confirmation": {
+    "verdict": "confirmed",
+    "confidence": 0.9,
+    "screenshots_examined": 2,
+    "limitations": [
+      "Complete album downloaded (both pages p001 and p002) — no unexamined pages remain for this album",
+      "The calligraphic attribution (Muhammed el-Muhlisî Hamdullah İbnü'ş-Şeyh) rests on a modern identification card, not a contemporary ketebe; specialist palaeographic verification of the nesih hand is required before the attribution can be accepted with confidence",
+      "The irregular dimensions ('muhtelif-muhtelif mm') could not be assessed from IIIF images alone",
+      "Image quality sufficient for identification of mülevven and cetvelli, but not for detailed calligraphic analysis of the dense meşk text"
+    ],
+    "source_agent": "visual-confirmation",
+    "session": "catalog/searches/visual_tier2f_sm_00014.json"
+  },
+  "folio_analyses": [
+    {
+      "folio": "p001 — Modern institutional housing cover",
+      "source_image": "corpus/iiif/sm_00014_p001.jpeg",
+      "decoration_present": false,
+      "decoration_types": [],
+      "elements": [
+        {
+          "motif": "Modern plain cardboard housing board",
+          "description": "The cover is a plain brown/tan cardboard board with the embossed Türkiye Yazma Eserler Kurumu stamp at center (the octagon-based interlace emblem of the institution). A pencil inscription at the lower right reads 'Murakka 14' (pen or pencil, likely in a modern hand). No historical decoration is present. This is the standard institutional housing provided by the Türkiye Yazma Eserler Kurumu for single-leaf or small-format items registered in the collection.",
+          "location": "Full cover surface",
+          "confidence": 0.98
+        }
+      ],
+      "confidence": 0.98,
+      "notes": "P001 is a modern institutional housing board, not a historical binding. It confirms the item's registration as 'Murakka 14' in the Süleymaniye Murakka Koleksiyonu. No historical decoration data is derivable from this page."
+    },
+    {
+      "folio": "p002 — Nesih meşk (calligraphic practice) on pink/salmon mülevven with gold cetvelli",
+      "source_image": "corpus/iiif/sm_00014_p002.jpeg",
+      "decoration_present": true,
+      "decoration_types": [
+        "colored",
+        "framing_system"
+      ],
+      "elements": [
+        {
+          "motif": "Pink/salmon mülevven margin ground",
+          "description": "The outer margin of the calligraphic leaf — visible on all four sides of the mounted text panel — is pink/salmon colored paper with clear mülevven (dyed/pigmented paper) character. The pink tone is warm and consistently colored across the margin areas, with slight age toning that lightens the uppermost surface relative to what would have been the original hue. The paper fiber texture is faintly visible. The pink/salmon mülevven is the same color variant documented at p002 in SM 00001, suggesting consistent paper stock usage across the Fethizâde album group.",
+          "location": "Full outer margin (all four sides of the text panel)",
+          "confidence": 0.92
+        },
+        {
+          "motif": "Gold cetvelli framing system",
+          "description": "The text panel is framed by gold cetvelli: a thin gold border runs immediately around the perimeter of the calligraphic panel, and an outer gold ruling line is visible at the margin edge. The ruling system is simpler than the multi-layer compound cedvel documented in other SM albums (e.g., SM 00001 pp. 002, 016, 018) — this is a single or double gold rule rather than a three- or four-color compound system, consistent with the practice-leaf format rather than a finished display kıtʿa.",
+          "location": "Perimeter of the calligraphic text panel and outer margin edge",
+          "confidence": 0.9
+        },
+        {
+          "motif": "Dense nesih meşk (calligraphic practice exercise)",
+          "description": "The text panel contains extremely dense Arabic nesih calligraphy in a meşk (practice/exercise) mode: individual letterforms overlap extensively, covering the entire text panel surface with closely packed Arabic letterforms in black ink. This is characteristic of advanced calligraphic exercises (meşk) in which the student or master repeatedly writes the same letterforms or words overlapping on a single ground, creating a dense texture that documents the practice of letterform formation. The degree of overlap and density distinguishes this definitively from a finished display kıtʿa intended for presentation: it is a practice artifact, not a presentation piece. The nesih hand, while not individually assessable for calligrapher identification at this resolution, appears fluent and skilled, consistent with an advanced practitioner rather than a beginner's exercise. A small round seal impression is visible at the lower right of the text panel.",
+          "location": "Central text panel — full surface",
+          "confidence": 0.9
+        },
+        {
+          "motif": "Small seal impression (lower right)",
+          "description": "A small round or oval dark seal impression is visible at the lower right of the text panel, partially obscured by the dense calligraphic overlay. The seal's legend is not readable at this resolution. It may be a scribal, ownership, or institutional seal.",
+          "location": "Lower right corner of the text panel",
+          "confidence": 0.75
+        }
+      ],
+      "confidence": 0.91,
+      "notes": "P002 is the sole calligraphic content of SM 00014 and documents the album's entire decorated paper program. The pink/salmon mülevven margin with simple gold cetvelli is a restrained but appropriate setting for a practice leaf. The meşk exercise format — dense overlapping letterforms in nesih covering the full text panel — is distinctive within the SM collection context and raises the question of how and why a practice leaf came to be entered in the Fethizâde vakf library as part of the murakkaʿ collection. Possible explanations: (1) the leaf was treasured as a specimen of the calligrapher's hand (son of Şeyh Hamdullah) regardless of its exercise status; (2) the leaf was part of a larger album that was later disbound, with this leaf surviving as an isolated unit; (3) the leaf was collected as a pedagogical document demonstrating meşk technique. The pink/salmon mülevven margin with gold cetvelli confirms the decorated paper program and validates the inclusion of this record in the project corpus."
+    }
+  ],
+  "terminology": {
+    "terms_used": [
+      {
+        "concept": "Calligraphic practice exercise",
+        "ottoman": "meşk (مشق) / meşk yapraği",
+        "arabic": "mashq (مشق)",
+        "persian": "mashq (مشق)",
+        "english": "Meşk / mashq: calligraphic practice, specifically the repetitive exercise of letterforms to develop fluency and control. In Ottoman calligraphic pedagogy, meşk was the central method of transmission from master to student: the master would write a specimen (meşk) and the student would copy it repeatedly until the forms were internalized. The dense overlapping letterforms on SM 00014 p002 are the direct material trace of this practice tradition."
+      },
+      {
+        "concept": "Colored paper",
+        "ottoman": "mülevven kâğıt (ملوّن کاغذ)",
+        "arabic": "waraq mulauwwan (ورق ملوّن)",
+        "persian": "kāġaz-e mulavvan (کاغذ ملوّن)",
+        "english": "Mülevven: uniformly dyed or pigmented paper used as the ground for manuscript pages or mounted calligraphic panels. In SM 00014, the single calligraphic leaf (p002) is presented on a pink/salmon mülevven margin ground, consistent with the same color variant documented on SM 00001 p002."
+      },
+      {
+        "concept": "Compound ruling / frame system",
+        "ottoman": "altın cedvel / cetvelli",
+        "arabic": "jadwal mudhahdhab (جدول مذهّب)",
+        "persian": "jadval-e zar (جدول زر)",
+        "english": "Altın cedvel: gold ruling lines framing calligraphic text panels. In SM 00014, the cetvelli is simpler than in other SM albums: a single or double gold rule immediately around the text panel plus an outer gold margin line. This restrained framing is appropriate for a practice leaf."
+      },
+      {
+        "concept": "Calligraphic album",
+        "ottoman": "murakkaʿ / murakkaat (مرقعات)",
+        "arabic": "muraqqa' (مرقع) / muraqqa'āt (مرقعات)",
+        "persian": "muraqqa' (مرقع)",
+        "english": "A bound album of calligraphic specimens (kıtʿalar). SM 00014 is a minimal example: a single practice leaf housed as an independent album unit within the Süleymaniye Murakka Koleksiyonu."
+      },
+      {
+        "concept": "Endowment deed / library seal",
+        "ottoman": "vakıf mühürü / vakf kaydı",
+        "arabic": "waqf (وقف)",
+        "persian": null,
+        "english": "Vakf: Islamic pious endowment (waqf). The vakf seal in SM 00014 reads: 'Vakf-ı Sâhibü'l-Hayrât el-Hâcc Seyyid Mustafa Fethizâde der-Kitâbhâne-i Câmi-i Sultan Süleyman, 1202 H.' — the same Fethizâde vakf documented across all SM albums."
+      },
+      {
+        "concept": "Son of the Shaykh (calligraphic lineage designation)",
+        "ottoman": "İbnü'ş-Şeyh (ابن الشيخ)",
+        "arabic": "Ibn al-Shaykh (ابن الشيخ)",
+        "persian": null,
+        "english": "İbnü'ş-Şeyh: 'son of the Shaykh,' a lineage designation identifying the calligrapher as the biological son (or close disciple in the tradition of being called 'son') of a named shaykh. In the YEK attribution for SM 00014, 'Hamdullah İbnü'ş-Şeyh' designates the calligrapher as the son of Şeyh Hamdullah (d. 926/1520) — a distinct individual from Şeyh Hamdullah himself. Crucially, this is a DIFFERENT person from the attributed calligrapher in SM 00001, where the great master Şeyh Hamdullah himself is named by ketebe. Note: a similar formulation 'el-fakir İbnü'ş-Şeyh' appears in the attribution of TIEM 02489 in this corpus, which is also tentatively connected to the Şeyh Hamdullah school."
+      },
+      {
+        "concept": "Identification card",
+        "ottoman": "teşpit fişi",
+        "arabic": null,
+        "persian": null,
+        "english": "Teşpit fişi: a modern scholarly identification card produced by catalogue staff or specialists, documenting attributions, dates, and other information about a manuscript item — distinct from contemporary inscriptions within the manuscript itself. In SM 00014, the calligrapher attribution rests on a teşpit fişi, not a ketebe (contemporary scribal colophon)."
+      }
+    ]
+  },
+  "bibliography": [
+    {
+      "citation": "Derman, M. Uğur. Letters in Gold: Ottoman Calligraphy from the Sakıp Sabancı Collection, Istanbul. New York: The Metropolitan Museum of Art, 1998.",
+      "relevance": "Primary reference for Şeyh Hamdullah and the calligraphic school he founded, including the transmission of his style to subsequent generations through meşk practice. Provides essential context for interpreting the İbnü'ş-Şeyh attribution and the pedagogical significance of the meşk exercise format in SM 00014.",
+      "relevance_score": 0.88,
+      "access_notes": "Exhibition catalogue (Metropolitan Museum of Art). ISBN 978-0300086324."
+    },
+    {
+      "citation": "Blair, Sheila S. 'Color and Gold: The Decorated Papers Used in Manuscripts in Later Islamic Times.' Muqarnas 17 (2000): 24–36.",
+      "relevance": "Foundational classification study for the mülevven (colored paper) and cetvelli framing documented in this record. Provides the typological framework for interpreting the pink/salmon mülevven margin as a deliberate decorative choice even for a practice leaf.",
+      "relevance_score": 0.85,
+      "access_notes": "Available via JSTOR and open-access PDF on Academia.edu."
+    },
+    {
+      "citation": "Schimmel, Annemarie. Calligraphy and Islamic Culture. New York: New York University Press, 1984.",
+      "relevance": "Foundational survey of the theory and practice of Islamic calligraphy, including extended treatment of the meşk tradition (calligraphic pedagogy through repetitive practice) and the role of practice sheets (mashq) as documentary and pedagogical artifacts. Essential for contextualizing the SM 00014 meşk leaf within the broader calligraphic tradition.",
+      "relevance_score": 0.87,
+      "access_notes": "Monograph. Widely held."
+    },
+    {
+      "citation": "Roxburgh, David J. The Persian Album, 1400–1600: From Dispersal to Collection. New Haven: Yale University Press, 2005.",
+      "relevance": "Discusses the collection of calligraphic practice sheets and specimens within Islamic album culture, including how mashq exercises were valued alongside finished display pieces. Provides theoretical context for why a meşk leaf attributed to the son of Şeyh Hamdullah would be preserved and endowed to a library collection.",
+      "relevance_score": 0.8,
+      "access_notes": "Monograph. Widely held."
+    },
+    {
+      "citation": "Gacek, Adam. Arabic Manuscripts: A Vademecum for Readers. Leiden: Brill, 2009.",
+      "relevance": "Standard reference for Arabic and Ottoman manuscript terminology, script identification (nesih), and format terms used throughout this record. Provides the codicological vocabulary for the single-leaf format and meşk exercise classification.",
+      "relevance_score": 0.72,
+      "access_notes": "Reference monograph. Widely held."
+    },
+    {
+      "citation": "Déroche, François. Islamic Codicology: An Introduction to the Study of Manuscripts in Arabic Script. Translated by Deke Dusinberre and David Radzinowicz. London: Al-Furqan Islamic Heritage Foundation, 2005.",
+      "relevance": "Provides classification frameworks for paper decoration, ruling, and format terms relevant to this record. Useful for contextualizing the single-leaf murakkaʿ format within the broader taxonomy of Islamic manuscript forms.",
+      "relevance_score": 0.68,
+      "access_notes": "Widely held reference monograph."
+    }
+  ],
+  "suggested_collections": [
+    {
+      "institution": "Süleymaniye Kütüphanesi, Istanbul — Süleymaniye Murakka Koleksiyonu",
+      "reason": "Holding institution. Comparative study of other SM albums in the collection, particularly those with Şeyh Hamdullah ketebe (see SM 00001), would provide a basis for palaeographic comparison of the İbnü'ş-Şeyh attribution.",
+      "digital_access": "https://portal.yek.gov.tr"
+    },
+    {
+      "institution": "Sakıp Sabancı Museum, Istanbul",
+      "reason": "Holds authenticated Şeyh Hamdullah calligraphy. Physical examination and palaeographic comparison with authenticated Hamdullah works and their associated second-generation specimens is the recommended next step for verifying the İbnü'ş-Şeyh attribution in SM 00014.",
+      "digital_access": null
+    },
+    {
+      "institution": "Topkapı Sarayı Müzesi Kütüphanesi, Istanbul",
+      "reason": "Holds meşk albums and practice sheets from the Ottoman calligraphic tradition, including materials from the Şeyh Hamdullah school and its successors. Provides comparative context for the meşk exercise format of SM 00014.",
+      "digital_access": "https://kutuphane.tsmk.gov.tr"
+    }
+  ],
+  "provenance": {
+    "donor": null,
+    "waqf": "Fethizâde Mustafa Efendi — Vakf-ı Sâhibü'l-Hayrât el-Hâcc Seyyid Mustafa Fethizâde; endowed to the library of the Mosque of Sultan Süleyman (Süleymaniye Kütüphanesi), AH 1202 / 1787–88 CE. Vakf seal present on the calligraphic leaf (p002).",
+    "previous_shelfmarks": [],
+    "notes": "Currently held at Süleymaniye Kütüphanesi, Istanbul, under the Süleymaniye Murakka Koleksiyonu sub-collection, shelfmark SM 00014. The leaf was endowed (vakf) to the Süleymaniye Kütüphanesi by Fethizâde Mustafa Efendi in AH 1202 / 1787–88 CE. Pre-Fethizâde provenance is unknown. The leaf's preservation and endowment to the library suggests it was recognized as a valuable calligraphic specimen — consistent with the İbnü'ş-Şeyh attribution identifying the calligrapher as the son of Şeyh Hamdullah. YEK ID: 325926. IIIF ID: 0000000356064."
+  },
+  "analysis_metadata": {
+    "analyzed_date": "2026-02-28",
+    "analyzer": "claude-code-manuscript-pipeline",
+    "pipeline_stage": "metadata-generator",
+    "image_source": "YEK Portal IIIF images, Süleymaniye Kütüphanesi — Süleymaniye Murakka Koleksiyonu, shelfmark SM 00014. YEK ID 325926, IIIF ID 0000000356064. Complete album downloaded: p001 (housing cover) and p002 (calligraphic leaf). Preliminary assessment from catalog/searches/visual_tier2f_sm_00014.json.",
+    "image_quality_notes": "Both pages downloaded at native IIIF resolution. P001 (housing cover) shows the embossed TYEK stamp and 'Murakka 14' pencil notation clearly. P002 (calligraphic leaf) shows the pink/salmon mülevven margin, gold cetvelli framing, and dense nesih meşk calligraphy clearly. The mülevven color and cetvelli are unambiguous at this resolution. The meşk calligraphy is legible as dense overlapping nesih but individual letter transcription or palaeographic comparison was not attempted. The small seal at lower right of the text panel is visible but the legend is not readable.",
+    "folios_examined": [
+      "corpus/iiif/sm_00014_p001.jpeg",
+      "corpus/iiif/sm_00014_p002.jpeg"
+    ],
+    "folios_not_examined": "None — the complete album (both pages) was downloaded and examined. SM 00014 is a single-leaf album; no unexamined pages remain.",
+    "corpus_priority": "MEDIUM: Single-leaf album with historically significant calligraphic attribution (son of Şeyh Hamdullah). Follow-up priorities: (1) Specialist palaeographic examination of the nesih meşk hand against authenticated works of Muhammed el-Muhlisî Hamdullah İbnü'ş-Şeyh (if authenticated comparanda exist); (2) Research on Muhammed el-Muhlisî Hamdullah İbnü'ş-Şeyh as a biographical subject in Ottoman calligraphic history; (3) Transcription of the seal legend at the lower right of p002.",
+    "source_data": {
+      "visual_confirmation_file": "catalog/searches/visual_tier2f_sm_00014.json",
+      "yek_id": "325926",
+      "iiif_id": "0000000356064",
+      "batch": "Phase 3 Track E — Sub-Batch F (SM collection, 2026-02-28)"
+    }
+  }
+}

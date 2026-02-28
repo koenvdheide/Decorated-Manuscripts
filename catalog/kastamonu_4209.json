@@ -1,0 +1,517 @@
+{
+  "record_id": "kastamonu_4209",
+  "collection": {
+    "institution": "Kastamonu Yazma Eser Kütüphanesi",
+    "city": "Kastamonu",
+    "country": "Turkey",
+    "shelfmark": "4209",
+    "yek_url": "https://portal.yek.gov.tr/works/detail/702696",
+    "yek_id": "702696",
+    "iiif_id": "0000000673476"
+  },
+  "manuscript": {
+    "title": "Muraqqaʿāt / مرقعات",
+    "title_script": "مرقعات",
+    "title_alt": "Mehmet Şevki Muraqqaʿı",
+    "author": null,
+    "author_dates": null,
+    "calligrapher": "Mehmet Şevki (محمد شوقي)",
+    "calligrapher_dates": null,
+    "calligrapher_note": "Mehmet Şevki is the calligrapher identified in the YEK catalogue for this album. The name Mehmet Şevki was borne by several Ottoman calligraphers. The most celebrated is Mehmed Şevki Efendi (1829–1887), the master of sülüs and nesih who studied under Kazasker Mustafa İzzet Efendi and is regarded as one of the great reformers of Ottoman calligraphy in the 19th century. The script style visible in this album — large, fluent, rhythmically spaced lines with characteristic Ottoman sülüs proportions — is consistent with late 19th-century Istanbul calligraphic production. If the attribution is to Mehmed Şevki Efendi (1829–1887), the album would date to the second half of the 19th century CE. No date inscription is visible in the available images; the YEK catalogue does not record a date. The attribution awaits independent palaeographic confirmation.",
+    "date_ah": null,
+    "date_ce": null,
+    "date_note": "No date is given in the YEK catalogue record. If the calligrapher is Mehmed Şevki Efendi (1829–1887), the album dates to the second half of the 19th century CE (mid-to-late 13th century AH). The ebru papers — featuring battal ebrusu and gel-git ebrusu in multiple palettes — are consistent with 19th-century Ottoman Istanbul ebru production. Date null pending physical examination, colophon reading, or further archival research.",
+    "place_of_copy": null,
+    "format": "Muraqqaʿ / مرقع — Ottoman calligraphic album with multi-type ebru margin papers and cetvelli leather binding",
+    "format_note": "A bound Ottoman calligraphic album (muraqqaʿ) of 4 yaprak / 7 IIIF pages including covers. Contains calligraphic specimen panels (kıtʿa) in Arabic sülüs script mounted into wide ebru-paper margins, bound in dark leather with gold cetvelli border framing. The album's distinguishing feature is its use of THREE DISTINCT EBRU PAPER TYPES across three calligraphic openings: (1) battal ebrusu (p003) — large-drop irregular stone marbling in grey-blue, brown/terracotta, and cream tones; (2) gel-git ebrusu (p004) — flowing S-curve wave pattern in blue, pink/red, yellow-ochre, and grey, produced by drawing a single stylus (biz) back and forth through the marbling size; (3) gel-git ebrusu in a different palette (p005) — same S-curve wave technique in yellow-green, blue-grey, brown, and rose, creating a distinct chromatic variant of the gel-git type. This multi-ebru program — one battal plus two gel-git in contrasting palettes — is a notable decorative strategy within the Ottoman murakkaʿ tradition, paralleling the approach documented at na_00270 (5 battal palettes + gel-git, AH 1195 / 1780–81 CE) in the project corpus.",
+    "language": "Arabic",
+    "script": "Sülüs (ثلث) — large Ottoman calligraphic hand; possibly also nassab/talim practice script per YEK catalogue note",
+    "dimensions_mm": {
+      "height": null,
+      "width": null,
+      "note": "Physical dimensions not available in YEK catalogue record. IIIF images at 4275–4318 × 3515–3608 px. Album is a standard compact murakkaʿ format based on proportions visible in IIIF images."
+    },
+    "folio_count": 4,
+    "page_count_iiif": 7,
+    "yek_id": "702696",
+    "iiif_id": "0000000673476",
+    "notes": "A compact but technique-rich album notable for its systematic deployment of three distinct ebru paper types across three calligraphic openings. The deliberate alternation between one battal ebrusu and two gel-git ebrusu openings (the latter in contrasting palettes) constitutes one of the most sophisticated multi-ebru decorative programs in the project corpus. The calligraphy panels — written on warm buff âharlı paper — are mounted as kıtʿa with a bright green border frame immediately surrounding the text area, and a dark outer border, creating a distinctive chromatic contrast against the ebru margin grounds. Gold gül (rosette) verse-dividers are visible within the calligraphy panels. The leather binding is undecorated apart from its gold cetvelli multi-line border frame; no şemse medallion is visible. YEK catalogue: 'Sayfaların kenarları ebrulu ve cetvelli altın yaldız meşin cilt.' (Pages have marbled margins and a ruled, gold-gilt leather binding.) IIIF ID: 0000000673476."
+  },
+  "paper_decoration": {
+    "types": [
+      "marbled",
+      "framing_system"
+    ],
+    "summary": "Kastamonu 4209 presents a three-type ebru paper program of exceptional variety for a 4-folio Ottoman calligraphic album. Three distinct ebru papers — each used as the full-page margin ground for one calligraphic opening — are deployed in a deliberate alternating sequence. (1) Battal ebrusu (IIIF p003): The first calligraphic opening carries a battal (stone/spot marbling) in a grey-blue, brown/terracotta, and cream-grey palette. The drop-pattern is notably large and fluid, producing organic rounded and slightly elongated shapes characteristic of pigments floating freely on the marbling size without any stylus intervention. The grey-blue predominates, with terracotta-brown and pale cream tones creating a muted, harmonious ground. (2) Gel-git ebrusu, blue-rose palette (IIIF p004): The second opening shows gel-git marbling — the 'come-go' technique in which a single stylus (biz) is drawn back and forth through the floating pigments on the size, producing flowing, organic S-curve wave patterns. The palette here is chromatic: blue, pink/rose, yellow-ochre, and grey-white combine in broad sweeping curves, creating an energetic, polychromatic ground distinctly different in both technique and tone from the battal of p003. (3) Gel-git ebrusu, yellow-green palette (IIIF p005): The third opening carries a second gel-git paper, same biz back-and-forth technique, but in a contrasting palette dominated by yellow-green and blue-grey, with brown and rose accents. The S-curve wave patterns are clearly of the same gel-git type as p004 but the chromatic character is cooler and more muted. The framing system is consistent across all three calligraphic openings: a bright green-painted border band immediately surrounds each calligraphy panel (a characteristic feature of this album), with a dark outer border completing the cetvelli (ruled) frame. The binding exterior (pp. 001 and 007) carries a multi-line gold cetvel border on dark burgundy leather, consistent with the YEK catalogue description of an 'altın yaldız meşin cilt' (gold-gilt leather binding). No ebru papers are used on the binding covers or endpapers.",
+    "distribution_notes": "Battal ebrusu (grey-blue/terracotta/cream): outer margin paper of first calligraphic opening (IIIF p003, both pages of double-page spread). Gel-git ebrusu (blue/pink/yellow-ochre): outer margin paper of second calligraphic opening (IIIF p004, both pages). Gel-git ebrusu (yellow-green/blue-grey/brown): outer margin paper of third calligraphic opening (IIIF p005, both pages). Front and back endpapers (IIIF pp. 002, 006): plain undecorated paper with greenish-grey tint. Binding covers (IIIF pp. 001, 007): dark burgundy leather with gold-ruled cetvelli border. No ebru or zerefşân on endpapers or binding exterior.",
+    "technique_terms": {
+      "ottoman": "ebrulu kâğıt (ebrî kâğıt); battal ebrusu (taş/benekli ebru); gel-git ebrusu (tek biz ile ileri-geri çekilerek yapılan ebru; S-kıvrımı dalgaları); altın yaldız cetvelli; yeşil boya pervaz; meşin cilt",
+      "persian": "kāġaḏ-e abrī (کاغذ ابری) — marbled paper; abrī-ye battāl (ابری بطال) — stone/spot marbling; abrī-ye gel-git — come-go marbling",
+      "arabic": "waraq mumarmar (ورق مرمّر) — marbled paper; jadwal (جدول) — ruling/frame"
+    },
+    "catalogue_description": {
+      "paper_field": null,
+      "paper_field_normalized": null,
+      "paper_field_translation": null,
+      "notes_field": "Sayfaların kenarları ebrulu ve cetvelli altın yaldız meşin cilt.",
+      "notes_field_normalized": "Sayfaların kenarları ebrulu ve cetvelli altın yaldız meşin cilt.",
+      "notes_field_translation": "Pages have marbled margins and a ruled, gold-gilt leather binding.",
+      "decoration_field": null,
+      "source": "YEK portal, genel notlar field, record 702696, Kastamonu Yazma Eser Kütüphanesi. The catalogue entry confirms ebrulu (marbled) margins and altın yaldız cetvelli (gold-ruled) meşin (leather) binding. The catalogue does not distinguish ebru subtypes or specify the number of distinct ebru papers used. All ebru subtype identifications derive from visual examination of IIIF images."
+    }
+  },
+  "workshop_attribution": {
+    "primary_tradition": "ottoman",
+    "workshop_centre": "Istanbul (probable)",
+    "date_range_ce": "second half 19th century (probable, c. 1850–1887 if attributed to Mehmed Şevki Efendi)",
+    "confidence": 0.70,
+    "key_indicators": [
+      "The calligrapher name Mehmet Şevki most plausibly refers to Mehmed Şevki Efendi (1829–1887), the celebrated Istanbul calligrapher of sülüs and nesih whose mature work belongs to the second half of the 19th century",
+      "The three-type ebru program — battal ebrusu and two gel-git ebrusu in distinct palettes — is consistent with the expanded range of ebru types produced in 19th-century Istanbul ateliers, where specialized ebrî craftsmen (ebruzen) produced paper for album and book decoration",
+      "The green-painted border frame around the calligraphy panels is a distinctive framing formula found in other 19th-century Ottoman murakkaʿ albums in the project corpus",
+      "The multi-line gold cetvel leather binding without a şemse medallion is a characteristic compact album binding format of the 19th-century Ottoman tradition",
+      "The album's provenance at Kastamonu — a major Anatolian city with an active scholarly and waqf culture — is consistent with the reception of high-quality Istanbul-produced calligraphic albums in provincial collections"
+    ],
+    "cross_tradition_caveats": [
+      "Attribution to Mehmed Şevki Efendi (1829–1887) is based on the calligrapher name in the YEK record; independent palaeographic verification against documented works has not been carried out",
+      "Multiple calligraphers named Mehmet Şevki are recorded in Ottoman sources; without a colophon date or independent documentation, attribution to the most celebrated bearer of this name cannot be confirmed",
+      "The ebru papers, while consistent with 19th-century Istanbul production, could have been produced in any of several Ottoman centres with active ebrî traditions; specific workshop attribution is not possible from visual examination alone",
+      "The YEK catalogue gives no date; dating to the second half of the 19th century rests entirely on the tentative identification of the calligrapher with Mehmed Şevki Efendi"
+    ]
+  },
+  "codicology": {
+    "paper": {
+      "color": "Three distinct ebru margin papers: (1) grey-blue/terracotta/cream battal ebrusu (p003 margins); (2) blue/pink/yellow-ochre/grey gel-git ebrusu (p004 margins); (3) yellow-green/blue-grey/brown/rose gel-git ebrusu (p005 margins). Calligraphy panels on warm buff/cream âharlı paper with slight yellow-gold tint. Front and back endpapers: plain undecorated paper with a faint greenish-grey tint.",
+      "preparation": "The calligraphy panels are written on âharlı (sized and burnished) paper, giving the text surface a smooth, slightly lustrous quality consistent with Ottoman luxury calligraphy practice. The ebru margin papers show clearly patterned surfaces at IIIF resolution: the battal ebrusu (p003) has large, freely formed rounded-drop shapes; the gel-git ebrusu papers (pp. 004, 005) show the characteristic S-curve wave forms of the biz back-and-forth technique. The ebru papers are mounted as the outer ground of the album openings, with the calligraphy panels vassale-mounted (window-mounted) into them or laid in with cetvelli framing.",
+      "weight": "Indeterminate from IIIF images; standard Ottoman album weight expected for the ebru papers.",
+      "decoration": "Ebru (marbled) papers as full-page margin grounds on three openings. Green-painted border frame (pervaz) immediately surrounding each calligraphy panel. Gold gül (rosette) verse-dividers within the calligraphy. No zerefşân, halkâr, or tezhip on the page margins.",
+      "paper_type": "Eastern/Oriental paper for calligraphy panels; ebru papers of Ottoman production for margins."
+    },
+    "ruling": {
+      "system": "Multi-line cetvelli framing on each calligraphic opening: bright green-painted inner border band immediately surrounding the calligraphy panel, followed by a dark outer frame. Gold cetvel on binding covers.",
+      "description": "Each calligraphic opening (IIIF pp. 003, 004, 005) presents a consistent framing system: the outer ground is the full-page ebru paper; within this, a narrow dark border demarcates the inner margin; a bright green-painted pervaz (border band) immediately frames the calligraphy panel on all four sides. The green pervaz is a distinctive feature of this album, providing strong chromatic contrast against all three ebru grounds (grey-blue battal, blue-rose gel-git, and yellow-green gel-git). The calligraphy panels themselves contain gold gül rosettes as verse or section dividers, visible in the IIIF images as small circular gold ornaments between text lines. The leather binding covers (pp. 001, 007) carry a multi-line gold cetvel border applied close to the cover edges, consistent with the YEK description 'cetvelli altın yaldız meşin cilt'. No şemse medallion is visible on either binding cover at IIIF resolution."
+    },
+    "binding": {
+      "cover_description": "Both front (IIIF p001) and back (IIIF p007) covers are dark burgundy-brown leather (meşin). Each cover carries a multi-line gold cetvel border frame running parallel to the cover edges, with what appears to be a double or triple line system (gold outer rule, narrow dark filler, gold inner rule). Four small brass pin-holes or rivet points are visible at the corners of the inner gold frame on the front cover (p001), a structural feature possibly related to corner reinforcement or original attachment. No central şemse medallion or köşebend corner ornaments are visible on either cover. A small library shelfmark label is visible on the spine area between front cover and first gathering. The binding is intact with some surface scuffing and wear, particularly at the corners and spine.",
+      "cover_type": "Meşin cilt (leather binding) — dark burgundy leather with gold cetvelli border frame; no şemse",
+      "notes": "The absence of a şemse medallion on the binding covers is notable for an Ottoman murakkaʿ of this type; many comparable albums in the corpus feature gilt şemse medallions (e.g. tiem_02437 with diamond-lattice shamsa). The plain cetvelli-only binding may indicate a more modest commission or a workshop variant that prioritized the interior paper decoration over the exterior binding ornament. The binding is described as 'altın yaldız meşin cilt' in the YEK catalogue, confirming the gold-ruled leather format."
+    },
+    "format": "Muraqqaʿ — compact Ottoman calligraphic album (4 yaprak / 7 IIIF pages including covers)",
+    "condition_summary": "Generally well-preserved. The ebru margin papers (IIIF pp. 003, 004, 005) are vivid and clearly legible at IIIF resolution; the colors are bright, suggesting good preservation of the ebru pigments. The calligraphy panels are legible and undamaged. The binding covers (pp. 001, 007) show surface scuffing and corner wear but are structurally intact. The spine shows some distortion (visible in p006). Front endpapers (p002) and rear endpapers (p006) are undecorated and in stable condition. Library stamps and accession labels (Kastamonu Yazma Eser Kütüphanesi, shelfmark 4209, YEK ID 702696) are visible on p002.",
+    "conservation_history": null
+  },
+  "visual_confirmation": {
+    "verdict": "confirmed",
+    "confidence": 0.95,
+    "screenshots_examined": 7,
+    "folios_examined": [
+      "corpus/iiif/kastamonu_4209_p001.jpg",
+      "corpus/iiif/kastamonu_4209_p002.jpg",
+      "corpus/iiif/kastamonu_4209_p003.jpg",
+      "corpus/iiif/kastamonu_4209_p004.jpg",
+      "corpus/iiif/kastamonu_4209_p005.jpg",
+      "corpus/iiif/kastamonu_4209_p006.jpg",
+      "corpus/iiif/kastamonu_4209_p007.jpg"
+    ],
+    "visual_evidence": "All seven IIIF pages examined at native resolution (4275–4318 × 3515–3608 px). The three distinct ebru paper types are unambiguously confirmed: (1) p003 — battal ebrusu in grey-blue/terracotta/cream; large free-drop pattern. (2) p004 — gel-git ebrusu in blue/pink/yellow-ochre; clear S-curve wave pattern produced by single-stylus back-and-forth technique, distinguishable from taraklı by the organic (non-parallel) curve spacing. (3) p005 — second gel-git ebrusu in yellow-green/blue-grey/brown/rose; same biz technique, contrasting palette. Green-painted border frame confirmed on all three calligraphic openings. Gold gül rosettes visible within calligraphy panels. Binding cetvelli frame confirmed on pp. 001 and 007. Catalogue claim 'sayfalarin kenarlari ebrulu ve cetvelli altın yaldız meşin cilt' is fully confirmed and extends to three distinct ebru subtypes not individually identified in the catalogue.",
+    "limitations": [
+      "Distinction between gel-git and taraklı ebru confirmed at IIIF native resolution: the flowing, non-parallel S-curves on pp. 004 and 005 are characteristic of gel-git (single-biz back-and-forth) rather than taraklı (multi-tooth comb producing regular parallel arcs). Physical examination would provide definitive confirmation.",
+      "The battal ebrusu on p003 shows larger and more fluid drop-shapes than minimal battal specimens; this is consistent with a generous battal produced with larger pigment drops, not with gel-git or hatip ebru. Classification as battal confirmed.",
+      "No colophon page is visible in the IIIF sequence; the calligrapher attribution to Mehmet Şevki rests on the YEK catalogue record and has not been independently verified from the available images.",
+      "Physical dimensions not available from IIIF metadata."
+    ],
+    "source_agent": "visual-confirmation-agent",
+    "session": "catalog/searches/visual_tier2_kastamonu_4209.json"
+  },
+  "folio_analyses": [
+    {
+      "folio": "Front cover (IIIF p001)",
+      "source_image": "corpus/iiif/kastamonu_4209_p001.jpg",
+      "image_dimensions_px": { "width": 4318, "height": 3608 },
+      "decoration_present": true,
+      "decoration_types": ["framing_system"],
+      "elements": [
+        {
+          "motif": "Dark burgundy leather binding with multi-line gold cetvel border frame",
+          "description": "The front cover is dark burgundy-brown leather (meşin). A multi-line gold cetvel border runs parallel to all four cover edges at a consistent inset, consisting of what appears to be a double or triple gold ruling system (outer gold line, narrow dark/brown filler band, inner gold line). Four small corner points — possibly brass pins or rivets — are visible at the corners of the inner frame. No şemse medallion or köşebend corner ornaments are visible. A small label with a number (partially legible as '4') is affixed to the spine area at the lower right. The right half of the image is dark (the open book spine and back cover area). Surface shows light scuffing and age wear.",
+          "location": "Full front cover exterior",
+          "confidence": 0.95
+        }
+      ],
+      "confidence": 0.95,
+      "notes": "The cetvelli binding without şemse is characteristic of compact Ottoman album bindings of the 19th century. The YEK description 'altın yaldız meşin cilt' (gold-gilt leather binding) is confirmed."
+    },
+    {
+      "folio": "Inside front cover and first endpaper (IIIF p002)",
+      "source_image": "corpus/iiif/kastamonu_4209_p002.jpg",
+      "image_dimensions_px": { "width": 4318, "height": 3608 },
+      "decoration_present": false,
+      "decoration_types": ["none"],
+      "elements": [
+        {
+          "motif": "Plain undecorated endpapers with library stamps",
+          "description": "Both pages of the inside front cover opening are plain, undecorated paper with a faint cream/off-white tone. A watermark or blind-stamp impression (circular, with text) is faintly visible in the center area of the left page. The right page (first endpaper) carries the Kastamonu Yazma Eser Kütüphanesi accession label (reading shelfmark 4209 and YEK ID 702696) in the lower right area. A handwritten number ('191' or similar) is visible in the lower left. No gold, marbling, zerefşân, or other paper decoration is present.",
+          "location": "Both pages of inside front cover and first endpaper opening",
+          "confidence": 0.99
+        }
+      ],
+      "confidence": 0.99,
+      "notes": "The undecorated endpapers confirm that the album's decorative program begins with the first calligraphic opening (p003), not with the endpapers. This contrasts with albums such as tiem_02437 (zerefşân endpapers throughout) and yazma_bagislar_09315 (ebru endpapers)."
+    },
+    {
+      "folio": "First calligraphic opening — battal ebrusu margins (IIIF p003)",
+      "source_image": "corpus/iiif/kastamonu_4209_p003.jpg",
+      "image_dimensions_px": { "width": 4275, "height": 3515 },
+      "decoration_present": true,
+      "decoration_types": ["marbled", "framing_system"],
+      "elements": [
+        {
+          "motif": "Battal ebrusu — outer margin, both pages (grey-blue/terracotta/cream palette)",
+          "description": "The full outer margin of both pages in the first calligraphic opening is covered with battal ebrusu (stone/spot marbling). The pattern consists of large, freely-formed rounded and slightly elongated drop shapes produced by pigments floating freely on the marbling size without stylus intervention. The dominant tone is grey-blue (a muted steely blue), with terracotta-brown and cream-grey secondary tones creating large organic blotch shapes. Some shapes have a slightly elongated, teardrop-like quality that may reflect surface tension at the edges of the pigment drops. There is no wave or curve structure — the pattern is amorphous and undirected, confirming the battal (non-raked) classification. The background is grey-white. This is a generous, large-scale battal with an unusually large drop size, giving the pattern a bold, open character.",
+          "location": "Full outer margin surrounding calligraphy panels, both pages",
+          "confidence": 0.90
+        },
+        {
+          "motif": "Green-painted pervaz (border frame) — both pages",
+          "description": "Immediately surrounding each calligraphy panel, a bright green-painted border band (pervaz) of uniform width is applied on all four sides of the panel. The green is a vivid, saturated pigment green — not gold, not red, but an unmistakable bright green. This provides strong chromatic contrast against the grey-blue battal ebrusu outer ground. A dark outer border (possibly dark blue or very dark brown) forms the outer edge of the frame system before the ebru margin. The green pervaz is a consistent feature across all three calligraphic openings (pp. 003, 004, 005) and is a distinctive signature of this album's framing formula.",
+          "location": "Panel frame, both pages",
+          "confidence": 0.95
+        },
+        {
+          "motif": "Gold gül rosettes within calligraphy panels — verse/section dividers",
+          "description": "Within the calligraphy panel text area, small circular gold gül (rosette) ornaments are visible between text lines as verse or section dividers. These are painted or stamped gold medallion forms, consistent with Ottoman calligraphic panel production.",
+          "location": "Within calligraphy text panels, both pages",
+          "confidence": 0.88
+        },
+        {
+          "motif": "Calligraphy panels — Arabic sülüs kıtʿalar on warm buff âharlı paper",
+          "description": "Each page carries a calligraphic panel on warm buff/cream âharlı paper. The script is large, bold Ottoman sülüs with characteristic rounded letterforms, strong stroke contrast, and pronounced diagonal and curved elements. The text appears to be written in parallel lines of approximately equal size. The paper has a warm, slightly golden tone consistent with well-aged âharlı paper. The script is in black ink.",
+          "location": "Central text panels, both pages",
+          "confidence": 0.90
+        }
+      ],
+      "confidence": 0.92,
+      "notes": "The battal ebrusu on this opening has an unusually bold, large-scale drop pattern compared to the more typical fine-grained battal specimens in the corpus (e.g. nuruosmaniye_04372). The large drop size may reflect a specific battal production style or a particular pigment concentration. The green pervaz framing is a striking and unusual feature that distinguishes this album's framing system from the standard gold cetvel formula. No gold cetvel ruling is visible around the panels themselves — the ruling system consists of the green pervaz band and the dark outer border, without gold lines."
+    },
+    {
+      "folio": "Second calligraphic opening — gel-git ebrusu (blue/rose/yellow palette) (IIIF p004)",
+      "source_image": "corpus/iiif/kastamonu_4209_p004.jpg",
+      "image_dimensions_px": { "width": 4275, "height": 3515 },
+      "decoration_present": true,
+      "decoration_types": ["marbled", "framing_system"],
+      "elements": [
+        {
+          "motif": "Gel-git ebrusu — outer margin, both pages (blue/pink-rose/yellow-ochre/grey palette)",
+          "description": "The full outer margin of both pages in the second calligraphic opening is covered with gel-git ebrusu. The gel-git technique involves drawing a single stylus (biz) back and forth through the floating pigments on the marbling size in a repeated motion, creating flowing, organic S-curve wave patterns. The resulting surface shows sweeping undulating curves that traverse the page in broad bands, with each passage of the stylus leaving a trail that folds the colors into each other. The palette on this opening is chromatic and warm: blue (ranging from clear mid-blue to blue-grey), pink/rose, yellow-ochre, and cream-grey combine in the flowing wave forms. The pattern has an energetic, rhythmic quality, with the S-curves creating a sense of fluid movement across the page. This is clearly distinguishable from taraklı ebru (multi-tooth comb, producing regular parallel arcs) by the organic, non-equidistant spacing and the flowing rather than geometric character of the wave forms.",
+          "location": "Full outer margin surrounding calligraphy panels, both pages",
+          "confidence": 0.92
+        },
+        {
+          "motif": "Green-painted pervaz (border frame) — both pages",
+          "description": "Same bright green-painted pervaz frame as p003, consistent across the album. The green band provides chromatic contrast against the blue-rose gel-git outer ground.",
+          "location": "Panel frame, both pages",
+          "confidence": 0.95
+        },
+        {
+          "motif": "Gold gül rosettes within calligraphy panels",
+          "description": "Gold gül rosette verse-dividers visible within the calligraphy text panels, consistent with p003.",
+          "location": "Within calligraphy text panels, both pages",
+          "confidence": 0.88
+        },
+        {
+          "motif": "Calligraphy panels — Arabic sülüs kıtʿalar on warm buff âharlı paper",
+          "description": "Calligraphy panels in large Ottoman sülüs, consistent with p003 in script, paper tone, and ink color. The right page of this opening appears to carry slightly fewer lines than the left, possibly indicating a colophon or concluding panel.",
+          "location": "Central text panels, both pages",
+          "confidence": 0.90
+        }
+      ],
+      "confidence": 0.92,
+      "notes": "The gel-git ebrusu on this opening is a clear and well-preserved example of the single-stylus wave technique. The flowing S-curves are unambiguous at IIIF native resolution. The contrast between this and the battal ebrusu of p003 is immediately apparent — the deliberate alternation between non-raked (battal) and stylus-raked (gel-git) ebru across consecutive openings reflects a considered compositional strategy."
+    },
+    {
+      "folio": "Third calligraphic opening — gel-git ebrusu (yellow-green/blue-grey palette) (IIIF p005)",
+      "source_image": "corpus/iiif/kastamonu_4209_p005.jpg",
+      "image_dimensions_px": { "width": 4275, "height": 3515 },
+      "decoration_present": true,
+      "decoration_types": ["marbled", "framing_system"],
+      "elements": [
+        {
+          "motif": "Gel-git ebrusu — outer margin, both pages (yellow-green/blue-grey/brown/rose palette)",
+          "description": "The full outer margin of both pages in the third calligraphic opening is covered with gel-git ebrusu — the same single-stylus (biz) back-and-forth wave technique as p004, but with a markedly different palette. The dominant tones here are yellow-green (a warm, slightly acidic green-yellow), blue-grey, brown, and rose/pink. The S-curve wave forms are clearly of the same gel-git type as p004: flowing, organic, non-parallel undulations spanning the page in broad bands. The overall character is cooler and more muted than the p004 palette, with the yellow-green creating a distinctive chromatic identity. The right-hand page appears to show larger-scale, bolder wave forms, while the left page has somewhat finer-scale patterning — this may reflect the directional flow of the biz strokes or differences in pigment density at opposite ends of the sheet.",
+          "location": "Full outer margin surrounding calligraphy panels, both pages",
+          "confidence": 0.92
+        },
+        {
+          "motif": "Green-painted pervaz (border frame) — both pages",
+          "description": "Same bright green-painted pervaz frame as pp. 003 and 004, confirming the consistency of the album's framing formula across all three openings.",
+          "location": "Panel frame, both pages",
+          "confidence": 0.95
+        },
+        {
+          "motif": "Gold gül rosettes within calligraphy panels",
+          "description": "Gold gül rosette verse-dividers visible within the calligraphy text panels, consistent with pp. 003 and 004.",
+          "location": "Within calligraphy text panels, both pages",
+          "confidence": 0.88
+        },
+        {
+          "motif": "Calligraphy panels — Arabic sülüs kıtʿalar on warm buff âharlı paper",
+          "description": "Calligraphy panels in large Ottoman sülüs, consistent with pp. 003 and 004. The right-hand page may contain a colophon or concluding text block (fewer, more widely spaced lines visible).",
+          "location": "Central text panels, both pages",
+          "confidence": 0.90
+        }
+      ],
+      "confidence": 0.92,
+      "notes": "This third gel-git opening confirms that the album uses two distinct gel-git papers in different palettes, not a single gel-git paper used twice. The palette differentiation between p004 (warm: blue/rose/yellow-ochre) and p005 (cool: yellow-green/blue-grey/brown) is clearly intentional. This two-palette gel-git strategy within a single album is comparable to the multi-palette battal approach documented at na_00270 (five battal palettes) but applied to the gel-git subtype. Together with the battal ebrusu on p003, the album displays a full demonstration of two major classical ebru technique families across three openings."
+    },
+    {
+      "folio": "Rear endpapers (IIIF p006)",
+      "source_image": "corpus/iiif/kastamonu_4209_p006.jpg",
+      "image_dimensions_px": { "width": 4275, "height": 3515 },
+      "decoration_present": false,
+      "decoration_types": ["none"],
+      "elements": [
+        {
+          "motif": "Plain undecorated rear endpapers with library watermark stamp",
+          "description": "Both pages of the rear endpaper opening are plain, undecorated paper with a faint greenish-grey tint. A circular library blind-stamp or ink stamp is faintly visible in the center area (spanning the gutter between left and right pages), bearing text that appears to read 'Kastamonu Yazma Eser [Kütüphanesi]' or similar. No ebru, zerefşân, or other decoration is present. The spine area shows some structural damage (separation of sewing visible at the lower spine).",
+          "location": "Both pages of rear endpaper opening",
+          "confidence": 0.99
+        }
+      ],
+      "confidence": 0.99,
+      "notes": "Plain rear endpapers confirm that the ebru decoration is confined to the three calligraphic openings (IIIF pp. 003, 004, 005). The greenish tint of the paper may be inherent to the paper stock or may reflect ageing/exposure."
+    },
+    {
+      "folio": "Back cover (IIIF p007)",
+      "source_image": "corpus/iiif/kastamonu_4209_p007.jpg",
+      "image_dimensions_px": { "width": 4275, "height": 3515 },
+      "decoration_present": true,
+      "decoration_types": ["framing_system"],
+      "elements": [
+        {
+          "motif": "Dark burgundy leather binding with multi-line gold cetvel border frame — back cover",
+          "description": "The back cover is identical in structure to the front cover (p001): dark burgundy-brown leather with a multi-line gold cetvel border frame running parallel to the cover edges. The gold ruling system is clearly visible, matching the front cover design. Corner points (pins/rivets) visible at the four corners of the inner frame. No şemse medallion visible. The left half of the image is dark (spine and front cover area visible in closed position). A small label is visible on the lower spine area.",
+          "location": "Full back cover exterior",
+          "confidence": 0.95
+        }
+      ],
+      "confidence": 0.95,
+      "notes": "The back cover confirms the bilateral symmetry of the binding: front and back are matched, with identical cetvelli framing and no şemse. The absence of a şemse on both covers is consistent."
+    }
+  ],
+  "terminology": {
+    "terms_used": [
+      {
+        "concept": "Marbled paper (general)",
+        "ottoman": "ebrî kâğıt / ebrulu kâğıt (ebrî: from Pers. abrī, cloud-like)",
+        "arabic": "waraq mumarmar (ورق مرمّر)",
+        "persian": "kāġaḏ-e abrī (کاغذ ابری) — cloud-patterned / marbled paper",
+        "english": "Ebrulu: the standard Ottoman term for marbled paper (from the Persian abrī, 'cloud-like'), referring to paper decorated by floating pigments on a viscous size (tragacanth gum or carrageenan solution) and transferring the patterns to the paper surface. Three subtypes are present in this album: battal ebrusu, gel-git ebrusu (palette 1), and gel-git ebrusu (palette 2)."
+      },
+      {
+        "concept": "Stone/spot marbling",
+        "ottoman": "battal ebrusu / battal ebru (بطال ابرو) — 'unruly' or 'free' marbling",
+        "arabic": null,
+        "persian": "abrī-ye battāl",
+        "english": "Battal ebrusu: the simplest and most basic form of ebru, produced by allowing pigment drops to float freely on the marbling size without any stylus intervention. The pigments spread and contract according to surface tension, producing irregular rounded or amorphous blotch shapes — hence the name battal ('unruly', 'free', 'without structure'). In this album the battal on p003 features large-scale drops in grey-blue, terracotta-brown, and cream-grey."
+      },
+      {
+        "concept": "Come-go / wave marbling",
+        "ottoman": "gel-git ebrusu / gel-git ebru — 'come-go' marbling; biz ile çekilen ebru — stylus-drawn ebru",
+        "arabic": null,
+        "persian": "abrī-ye gel-git",
+        "english": "Gel-git ebrusu: the Ottoman term for marbling produced by drawing a single pointed stylus (biz) back and forth through the floating pigment drops in a repeated motion across the size surface. The term gel-git means 'come-go' or 'back-and-forth', describing the stylus movement. The technique produces flowing, organic S-curve wave patterns — the undulating forms that result from the stylus dragging each pigment drop through its neighbors in alternating directions. Gel-git is distinct from taraklı ebru (multi-toothed comb marbling), which produces regular parallel arcs. In this album, two distinct gel-git papers are used in different palettes (pp. 004 and 005). DO NOT call gel-git 'combed' — it uses a single stylus, not a comb."
+      },
+      {
+        "concept": "Single stylus (marbling tool)",
+        "ottoman": "biz (بيز) — a pointed awl-like stylus used to manipulate pigments on the marbling size",
+        "arabic": null,
+        "persian": null,
+        "english": "Biz: the single-pointed stylus (awl) used in gel-git ebrusu to drag through the floating pigments. Distinguished from the tarak (multi-toothed comb) used in taraklı ebrusu."
+      },
+      {
+        "concept": "Combed marbling (for contrast/avoidance)",
+        "ottoman": "taraklı ebrusu / taraklı ebru — tarak (comb) drawn through pigments, producing regular parallel arcs",
+        "arabic": null,
+        "persian": null,
+        "english": "Taraklı ebrusu: marbling produced by drawing a multi-toothed comb (tarak) through the floating pigments, creating regular, evenly-spaced parallel arcs or striations. DISTINCT from gel-git ebrusu. The album na_00114 (corpus) provides a confirmed taraklı specimen. The pattern of this album (pp. 004, 005) is gel-git, NOT taraklı."
+      },
+      {
+        "concept": "Ruling / frame lines",
+        "ottoman": "cetvel (جدول) / cetvelli — ruled; altın cetvel — gold ruling; yeşil boya pervaz — green-painted border band",
+        "arabic": "jadwal (جدول) — ruling line / frame",
+        "persian": "jadval (جدول) — ruling",
+        "english": "Cetvel: the Ottoman term for ruling lines that frame manuscript text panels or calligraphy. In this album, the primary framing element is an unusual bright green-painted pervaz (border band) rather than the more common gold cetvel. The binding covers carry gold cetvel (altın cetvel) border framing, as described in the YEK catalogue ('cetvelli altın yaldız meşin cilt')."
+      },
+      {
+        "concept": "Border band / frame",
+        "ottoman": "pervaz — border band; iç pervaz / ara suyu — inner border; dış pervaz / kenar suyu — outer border",
+        "arabic": null,
+        "persian": null,
+        "english": "Pervaz: a broad border band framing the calligraphy panel. In this album, the bright green pervaz immediately surrounding each panel is the dominant framing element on the interior openings."
+      },
+      {
+        "concept": "Calligraphic album",
+        "ottoman": "muraqqaʿ / murakkaat (مرقعات)",
+        "arabic": "muraqqa (مرقع) / muraqqa'at (مرقعات)",
+        "persian": "muraqqa (مرقع)",
+        "english": "Muraqqaʿ: a bound Ottoman calligraphic (and sometimes pictorial) album. This album contains three calligraphic openings (six pages) of kıtʿa (specimen sheets) in Arabic sülüs script, mounted into ebru margin papers and bound in cetvelli leather covers."
+      },
+      {
+        "concept": "Calligraphic specimen sheet",
+        "ottoman": "kıtʿa (قطعة) / kıtʿa-i hat",
+        "arabic": "qiṭʿa (قطعة)",
+        "persian": "qiṭʿa (قطعه)",
+        "english": "Kıtʿa: a single calligraphic specimen sheet, typically displaying lines of formal calligraphy in one or more scripts. This album contains three double-page openings of kıtʿa in Arabic sülüs."
+      },
+      {
+        "concept": "Sülüs script",
+        "ottoman": "sülüs hattı / sülüs",
+        "arabic": "thuluth (ثلث)",
+        "persian": null,
+        "english": "Sülüs (thuluth): one of the six classical Arabic scripts, characterized by large rounded letterforms with strong contrast between thick and thin strokes, pronounced horizontal and vertical axes, and sweeping sublinear elements. The primary script of the calligraphy panels in this album."
+      },
+      {
+        "concept": "Sized and burnished paper",
+        "ottoman": "âharlı kâğıt (from âhar = sizing agent; mühre = burnishing tool)",
+        "arabic": null,
+        "persian": "āhārdār (آهاردار) — sized paper",
+        "english": "Âharlı kâğıt: paper that has been sized (treated with a starch or gum solution — âhar) and then burnished (polished with a smooth stone or glass burnisher — mühre) to create a smooth, hard-finished surface ideal for calligraphy. The calligraphy panels in this album are written on âharlı paper."
+      },
+      {
+        "concept": "Rosette verse-divider",
+        "ottoman": "gül / altın gül — rose / gold rosette",
+        "arabic": "ward (ورد) — flower; warda (وردة) — rosette",
+        "persian": "gol (گل) — flower / rosette",
+        "english": "Gül: in the context of Ottoman calligraphic manuscripts and albums, a rosette ornament used as a verse or section divider within the text. In this album, small gold gül rosettes are visible between text lines in the calligraphy panels, serving as section or phrase dividers."
+      },
+      {
+        "concept": "Leather binding",
+        "ottoman": "meşin cilt — leather binding (meşin = fine leather / goatskin); deri cilt — leather binding (general)",
+        "arabic": "jild (جلد) — binding",
+        "persian": "jild (جلد) — binding; charmī (چرمی) — leather",
+        "english": "Meşin cilt: the Ottoman term for a binding in fine leather (meşin, typically goatskin or similar). The YEK catalogue describes this album's binding as 'altın yaldız meşin cilt' (gold-gilt leather binding), confirmed visually."
+      }
+    ]
+  },
+  "bibliography": [
+    {
+      "citation": "Mirzaoğlu, Fuat. Türk Ebru Sanatı. Istanbul: Akbank Kültür ve Sanat, 1992.",
+      "relevance": "Standard Turkish reference on the Ottoman ebru tradition, covering battal, gel-git, taraklı, and hatip techniques with illustrated examples. Directly relevant to the identification and characterization of the battal ebrusu and gel-git ebrusu in this album, and to distinguishing these subtypes from each other and from taraklı ebrusu.",
+      "relevance_score": 0.95,
+      "access_notes": "Monograph in Turkish. Held at major Turkish art and cultural history libraries. [Language: Turkish]"
+    },
+    {
+      "citation": "Barutçugil, Hikmet. Ebru. Istanbul: Tibyan Yayıncılık, 2007.",
+      "relevance": "Comprehensive technical and historical survey of Ottoman ebru art, with detailed descriptions and illustrations of battal, gel-git, taraklı, and hatip ebru subtypes. Provides the most thorough available documentation of gel-git ebru technique (single biz, S-curve wave forms) and its distinction from taraklı (multi-tooth comb). Essential for contextualizing the two gel-git papers in this album and for the terminology used in this record.",
+      "relevance_score": 0.95,
+      "access_notes": "Monograph in Turkish with some English. Widely available in Turkey. [Language: Turkish, with English summary]"
+    },
+    {
+      "citation": "Blair, Sheila S. 'Color and Gold: The Decorated Papers Used in Manuscripts in Later Islamic Times.' Muqarnas 17 (2000): 24–36.",
+      "relevance": "Foundational taxonomic study providing the classification framework for decorated papers in Islamic manuscripts, including marbled (ebrulu) papers as a distinct category. Blair documents the range of decorated paper types used in Ottoman and Persian manuscripts, providing the categorical basis for the marbled paper identification in this record. Her taxonomy is the primary scholarly reference for the paper_decoration.types classification used throughout the project.",
+      "relevance_score": 0.90,
+      "access_notes": "Peer-reviewed article. Available via JSTOR and Academia.edu. Open-access PDF available."
+    },
+    {
+      "citation": "Roxburgh, David J. The Persian Album, 1400–1600: From Dispersal to Collection. New Haven: Yale University Press, 2005.",
+      "relevance": "Essential theoretical study of the murakkaat album format and decorated paper programs in the Persianate-Ottoman tradition. Provides the analytical framework for understanding multi-type paper programs as deliberate compositional choices in album design — directly applicable to the three-type ebru sequence in this album. Roxburgh's discussion of paper variety as a statement of artistic sophistication contextualizes the multi-ebru strategy of Kastamonu 4209.",
+      "relevance_score": 0.88,
+      "access_notes": "Monograph; widely held at research libraries."
+    },
+    {
+      "citation": "Tanındı, Zeren. 'Osmanlı Sanatında Murakkalar.' In Osmanlı Medeniyeti: Siyaset, İktisat, Sanat, edited by Halil İnalcık and Günsel Renda, 2: 628–55. Istanbul: Kültür Bakanlığı, 2003.",
+      "relevance": "Comprehensive survey of Ottoman murakkaʿ albums including their decorated paper programs, calligraphers, and binding types. Directly relevant for contextualizing the format, calligrapher attribution (Mehmet Şevki), and decorative choices of Kastamonu 4209 within the broader Ottoman album tradition.",
+      "relevance_score": 0.88,
+      "access_notes": "Essay in edited volume (Turkish). Available at major Turkish university libraries. [Language: Turkish]"
+    },
+    {
+      "citation": "Derman, M. Uğur. Türk Hat Sanatının Şaheserleri. Istanbul: Milliyet Yayınları, 1982.",
+      "relevance": "Key reference on Ottoman calligraphic masters including Mehmed Şevki Efendi (1829–1887) and the 19th-century Ottoman sülüs and nesih tradition. Provides comparative calligraphic examples for evaluating the attribution of this album to Mehmet Şevki, and contextualizes the sülüs script program within late Ottoman calligraphic practice.",
+      "relevance_score": 0.85,
+      "access_notes": "Exhibition catalogue / monograph (Turkish). Held at major Turkish library and art history collections. [Language: Turkish]"
+    },
+    {
+      "citation": "Derman, M. Uğur. Letters in Gold: Ottoman Calligraphy from the Sakıp Sabancı Collection, Istanbul. New York: The Metropolitan Museum of Art, 1998.",
+      "relevance": "The primary English-language exhibition catalogue on Ottoman calligraphy, documenting the sülüs tradition including 19th-century masters. Relevant for contextualizing the Mehmet Şevki attribution (the most celebrated bearer of this name, d. 1887, is covered in this catalogue) and evaluating the script style of the calligraphy panels in this album.",
+      "relevance_score": 0.83,
+      "access_notes": "Exhibition catalogue (Metropolitan Museum of Art, 1998). ISBN 978-0870998843. Widely held at Islamic art libraries."
+    },
+    {
+      "citation": "Bloom, Jonathan M. Paper Before Print: The History and Impact of Paper in the Islamic World. New Haven: Yale University Press, 2001.",
+      "relevance": "Comprehensive history of paper production and use in the Islamic world. Provides material-culture background for the Ottoman ebru tradition, the role of decorated papers in luxury manuscript and album production, and the historical development of marbled paper as a specifically Ottoman contribution to Islamic book arts.",
+      "relevance_score": 0.78,
+      "access_notes": "Widely held monograph."
+    },
+    {
+      "citation": "Gacek, Adam. Arabic Manuscripts: A Vademecum for Readers. Leiden: Brill, 2009.",
+      "relevance": "Standard reference for Islamic manuscript codicological terminology, script identification, and physical description. Relevant for the sülüs script identification, kıtʿa format description, and general codicological terminology used in this record.",
+      "relevance_score": 0.72,
+      "access_notes": "Reference monograph; widely held."
+    },
+    {
+      "citation": "Déroche, François. Islamic Codicology: An Introduction to the Study of Manuscripts in Arabic Script. Translated by Deke Dusinberre and David Radzinowicz. London: Al-Furqan Islamic Heritage Foundation, 2005.",
+      "relevance": "Foundational reference for Islamic manuscript codicology. Provides the classification framework for manuscript formats, binding types, and framing systems used throughout this catalog record.",
+      "relevance_score": 0.70,
+      "access_notes": "Monograph; available at specialist libraries."
+    }
+  ],
+  "suggested_collections": [
+    {
+      "institution": "Topkapı Sarayı Müzesi Kütüphanesi, Istanbul",
+      "reason": "Holds the primary corpus of authenticated Ottoman calligraphic albums including works associated with Mehmed Şevki Efendi and his circle. Physical comparison with documented Topkapı albums is essential for confirming the Mehmet Şevki attribution and for finding parallel multi-type ebru programs from the 19th century.",
+      "digital_access": "https://kutuphane.tsmk.gov.tr"
+    },
+    {
+      "institution": "Türk ve İslam Eserleri Müzesi (TIEM), Istanbul",
+      "reason": "The TIEM murakka corpus (93 positive albums in project corpus triage) provides the richest available set of Ottoman calligraphic albums with ebru decoration for comparative study. TIEM 02649 (corpus) and other TIEM albums with documented battal and gel-git ebru programs are the closest direct comparanda.",
+      "digital_access": "https://portal.yek.gov.tr"
+    },
+    {
+      "institution": "Nuruosmaniye Kütüphanesi, Istanbul",
+      "reason": "Na_00270 in the project corpus (Nuruosmaniye murakkaʿ album, AH 1195 / 1780–81 CE) is the most directly comparable specimen: five distinct battal palettes plus gel-git ebru in a single album. Comparative analysis with na_00270 would establish whether the multi-ebru strategy of Kastamonu 4209 reflects an 18th-century convention continued into the 19th century, or an earlier dating.",
+      "digital_access": "https://portal.yek.gov.tr"
+    },
+    {
+      "institution": "Chester Beatty Library, Dublin",
+      "reason": "Major collection of Ottoman calligraphic albums and decorated papers, including albums with documented ebru programs. Provides international comparanda for 19th-century Ottoman ebru and binding formats.",
+      "digital_access": "https://viewer.cbl.ie"
+    },
+    {
+      "institution": "GlobalDecoPaper ERC Project, LMU Munich",
+      "reason": "The primary active research project on decorated papers in Islamic manuscripts. The multi-type ebru program of Kastamonu 4209 — particularly the systematic use of three distinct ebru subtypes across three openings within a single compact album — falls within the project's research scope and would benefit from technical analysis.",
+      "digital_access": null
+    }
+  ],
+  "provenance": {
+    "donor": null,
+    "waqf": null,
+    "previous_shelfmarks": [],
+    "notes": "Held at Kastamonu Yazma Eser Kütüphanesi, Kastamonu, Turkey, under shelfmark 4209. YEK ID: 702696; IIIF ID: 0000000673476. The library stamp (partially legible as 'Kastamonu Yazma Eser [Kütüphanesi]') is visible on the endpapers (IIIF p002 and p006). The album entered the collection at an undetermined date prior to YEK registration. No waqf (endowment) information is available from the YEK record. The Kastamonu Yazma Eser Kütüphanesi is part of Turkey's centralized yazma eser (manuscript) library network under the Yazma Eserler Kurumu Başkanlığı (YEK). Prior provenance is unknown."
+  },
+  "corpus_note": "This album should be compared with na_00270 (Nuruosmaniye murakkaʿ, AH 1195 / 1780–81 CE: five distinct battal palettes + gel-git ebru in a single album) as the closest parallel for the multi-type ebru decorative strategy. The key distinction is that Kastamonu 4209 pairs one battal with two gel-git (technique variation), whereas na_00270 pairs multiple battal palettes with one gel-git (palette variation within a single technique). Both strategies represent a systematic exploration of ebru variety as a compositional principle in Ottoman murakkaʿ production.",
+  "analysis_metadata": {
+    "analyzed_date": "2026-02-28",
+    "analyzer": "claude-code-manuscript-pipeline",
+    "pipeline_stage": "metadata-generator",
+    "image_source": "YEK Portal IIIF images, Kastamonu Yazma Eser Kütüphanesi, YEK ID 702696, IIIF ID 0000000673476. All 7 IIIF pages examined at native resolution (4318×3608 and 4275×3515 px).",
+    "image_quality_notes": "IIIF images are high resolution (4275–4318 px width) and support confident identification and characterization of all three ebru subtype papers. The battal/gel-git distinction is clear at native resolution. The green pervaz framing is unambiguous. The binding cetvelli frame is legible on both covers. No colophon text was independently readable from the available images; calligrapher attribution relies on YEK catalogue. The rear endpapers (p006) show some spine damage. No major resolution or clarity limitations affect the principal decorative features.",
+    "folios_examined": [
+      "corpus/iiif/kastamonu_4209_p001.jpg",
+      "corpus/iiif/kastamonu_4209_p002.jpg",
+      "corpus/iiif/kastamonu_4209_p003.jpg",
+      "corpus/iiif/kastamonu_4209_p004.jpg",
+      "corpus/iiif/kastamonu_4209_p005.jpg",
+      "corpus/iiif/kastamonu_4209_p006.jpg",
+      "corpus/iiif/kastamonu_4209_p007.jpg"
+    ],
+    "folios_not_examined": "All 7 IIIF pages examined. The album is complete (7 pages covering front cover, inside front cover/first endpaper, three calligraphic openings, rear endpapers, and back cover).",
+    "corpus_priority": "Medium-high. The three-type ebru program (1 battal + 2 gel-git in different palettes) is the most varied multi-ebru decorative strategy so far documented in the project corpus. Priority follow-up: (1) independent palaeographic comparison with documented Mehmed Şevki Efendi works to confirm calligrapher attribution; (2) IIIF comparison with na_00270 for the multi-ebru strategy; (3) transcription of calligraphic panel texts; (4) physical measurement of album dimensions.",
+    "source_data": {
+      "visual_confirmation_file": "catalog/searches/visual_tier2_kastamonu_4209.json",
+      "yek_id": "702696",
+      "iiif_id": "0000000673476",
+      "batch": "Phase 3 Track E Tier 2 Sub-Batch E–F (murakkaʿ albums, 2026-02-28)"
+    },
+    "terminology_correction": "The visual-confirmation agent (visual_tier2_kastamonu_4209.json) used the word 'combed' to describe the gel-git ebru on pp. 004 and 005. This is incorrect terminology. Gel-git ebru uses a single pointed stylus (biz) drawn back and forth, producing flowing S-curve wave patterns. 'Combed' (taraklı) uses a multi-toothed comb (tarak) producing regular parallel arcs. The visual evidence (flowing S-curves, non-parallel spacing) confirms gel-git, not taraklı. This record uses only correct terminology throughout."
+  }
+}

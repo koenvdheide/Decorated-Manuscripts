@@ -1,0 +1,387 @@
+{
+  "record_id": "sm_00015",
+  "collection": {
+    "institution": "Süleymaniye Kütüphanesi — Süleymaniye Murakka Koleksiyonu",
+    "city": "Istanbul",
+    "country": "Turkey",
+    "shelfmark": "SM 00015",
+    "yek_url": "https://portal.yek.gov.tr/works/detail/325927"
+  },
+  "manuscript": {
+    "title": "Muraqqaʿāt / مرقعات",
+    "title_script": "مرقعات",
+    "title_alt": "Süleymaniye Murakka Koleksiyonu 15 — Karahisârî ve Dört Hattat Murakkaʿı (Album of Karahisârî and Four Calligraphers)",
+    "author": null,
+    "author_dates": null,
+    "calligrapher": "Multiple: Ahmed Karahisârî (احمد قره حصاری); Abdullah b. Hüseyin (عبد الله بن حسين); Muhammed (محمد); Sıdkı (صدقی); Salûtî (صالوتی) — all identified by ketebe per YEK catalogue",
+    "calligrapher_dates": "Ahmed Karahisârî: d. 963/1556. Others: dates unconfirmed.",
+    "calligrapher_note": "The YEK genel_notlar records five calligraphers identified by ketebe: 'Murakkada ketebesi bulunan hattatlar: Ahmed Karahisari, Abdullah b. Hüseyin, Muhammed, Sıdkı, Salûtî.' The most significant of these is Ahmed Karahisârî (d. 963/1556), universally recognized as one of the greatest masters of Ottoman calligraphy — celebrated particularly for his Jali sülüs and Quran manuscripts, including the celebrated Quran of Sultan Süleyman I now in the Topkapı Sarayı Museum Library. Karahisârî was active in Istanbul at the height of the Süleymanic golden age and is the likely anchor for the album's date range. Abdullah b. Hüseyin is not extensively documented in current secondary literature; the name pattern (son of Hüseyin) is common. Muhammed, Sıdkı, and Salûtî are also insufficiently documented to assign firm dates without specialist palaeographic comparison. The album is notable as a multi-calligrapher anthology combining Sülüs, Nesih, and Divani scripts across its 23 folios — a broader script range than most Süleymaniye Murakka albums examined. The Fethizâde vakf seal (AH 1202 / 1787–88 CE) provides a terminus ante quem; however, the presence of Karahisârî (d. 1556) indicates that the album's calligraphic content predates the vakf by at least 230 years. The album may have been assembled from earlier kıtʿa specimens, or the Karahisârî kıtʿa may have been collected and bound with later material by the time of the Fethizâde endowment.",
+    "date_ah": "before 1202 AH (terminus ante quem from vakf seal); calligraphic content includes material from as early as the mid-16th century (Ahmed Karahisârî, d. 963/1556)",
+    "date_ce": "Content spans 16th century onward; album as bound: before 1787–88 CE (Fethizâde vakf). Karahisârî specimens: c. 1520–1556.",
+    "date_note": "The Fethizâde vakf seal (AH 1202 / 1787–88 CE) is the terminus ante quem for the album as a bound object. However, the presence of Ahmed Karahisârî (d. 963/1556) specimens demonstrates that some kıtʿalar date from the 16th century — at least 230 years before the Fethizâde endowment. This suggests the album is a composite anthology assembled over multiple periods or that later calligraphers copied earlier masters. The album's mixed character — some formally mounted decorated kıtʿalar alongside loose undecorated meşk practice sheets (pp020, 024) — supports the view that the album was assembled or augmented over time rather than produced as a unified commission.",
+    "place_of_copy": "Istanbul (probable for Karahisârî specimens and the album binding)",
+    "format": "Murakkaʿ (مرقعات) — bound calligraphic album of 23 yk. (yaprak, folios), muhtelif st. (various line counts). Scripts: Sülüs (ثلث), Nesih (نسخ), Divani (ديواني). Five named calligraphers. The album contains a MIX of (a) formally mounted, decorated calligraphic kıtʿalar on mülevven grounds with cetvelli frames, and (b) loose, undecorated meşk (practice/exercise) sheets on plain paper. The decoration program is concentrated on the mülevven kıtʿalar: green mülevven (p006) and terra cotta/reddish-brown mülevven (p016), each with cetvelli framing. Possible zerefşân on p016 writing panels (low confidence).",
+    "format_note": "The album's mix of decorated kıtʿa mounts and undecorated meşk sheets is an important distinguishing characteristic. IIIF p001 is a cardboard cover/wrapper with YEK embossed stamp; the 23 content folios begin at p002. The final two examined pages (p020 and p024) are undecorated practice sheets (meşk/masq on plain brownish-yellow paper), not mülevven kıtʿalar as triage implied. The YEK record notes 23 yk. with the IIIF count at 24 pages (p001 being the cover). The dimensions are recorded as 'muhtelif-muhtelif mm.' (various). The three-script program (Sülüs, Nesih, Divani) and five named calligraphers make this the most attribution-rich album in the Sub-Batch F examined set.",
+    "language": "Arabic (and possibly Turkish/Persian for Divani sections)",
+    "script": "Sülüs (ثلث), Nesih (نسخ), and Divani (ديواني) — multi-script anthology",
+    "dimensions_mm": {
+      "height": null,
+      "width": null
+    },
+    "folio_count": 23,
+    "yek_id": "325927",
+    "iiif_id": "0000000356063",
+    "notes": "CORPUS SIGNIFICANCE: SM 00015 is the most calligraphically significant album in the Sub-Batch F set by virtue of the Ahmed Karahisârî attribution. Karahisârî (d. 963/1556) is a canonical master of Ottoman calligraphy of the same rank as Şeyh Hamdullah and Hâfız Osmân — one of whose students, Demircikulu Yusuf Efendi, transmitted the tradition to later generations. The album also presents an important structural finding: the mix of decorated kıtʿa mounts and loose undecorated meşk sheets reveals an album in an intermediate state — either partially assembled, or including study material alongside display specimens. This is a pattern not documented in other Süleymaniye Murakka albums in the corpus. The terra cotta mülevven (p016) is a color not previously documented in the corpus: while peach/salmon mülevven appears in SM 00012, the darker terra cotta / reddish-brown of p016 is a distinct hue that adds a new color to the corpus's mülevven palette. The possible zerefşân on the writing panels of p016 (confidence 0.65) requires physical examination to confirm."
+  },
+  "paper_decoration": {
+    "types": [
+      "colored",
+      "framing_system"
+    ],
+    "summary": "SM 00015 presents a more modest decorated paper program than SM 00012, concentrated on two confirmed mülevven (colored paper) variants: (1) Green mülevven — medium olive-green dyed paper as the outer margin ground on p006, paired with a simple dark green cetvelli (single-line frame). The green is uniform and consistent with dyed paper (not painted overlay). (2) Terra cotta mülevven — reddish-brown / terra cotta dyed paper as the outer margin ground on p016, with simple dark cetvelli framing. The terra cotta color is darker than the 'pink/red' described in triage — a correction of significance for color classification. Both mülevven types carry simple single-line dark cetvelli frames, less elaborate than the multi-layer compound system in SM 00012. A possible third element — zerefşân (gold-sprinkled) on the writing panels of p016 — is recorded at low confidence (0.65) pending physical examination. CRITICAL CORRECTION: Pages p020 and p024, previously suggested by triage to carry colored paper, are in fact undecorated meşk (practice/exercise) sheets on plain brownish-yellow paper — the triage 'reddish/brown' description for p020 was a misread of natural paper aging.",
+    "distribution_notes": "Green mülevven: p006 (confirmed, confidence 0.93). Terra cotta / reddish-brown mülevven: p016 (confirmed, confidence 0.90). Dark green cetvelli: p006 (confirmed). Simple dark cetvelli: p016 (confirmed). Possible zerefşân on p016 writing panels: probable (confidence 0.65, needs physical verification). Undecorated meşk sheets: p020, p024 (confirmed NOT decorated — plain paper aging, not mülevven). 18 of 24 IIIF pages (pp002–005, 007–015, 017–019, 021–023) not examined at IIIF resolution; distribution on these pages is unknown. The decorated program may extend to additional mülevven pages among the unexamined leaves.",
+    "technique_terms": {
+      "ottoman": "mülevven kâğıt — iki renk varyantı: yeşil (zeytin yeşili) ve terra kota (kiremit kırmızısı / esmer kırmızı); zerefşân (muhtemel, düşük güven) — yazı panelleri üzerinde, p016; sade koyu cedvel — tek çizgi, her iki mülevven sayfada; meşk yaprağı (süssüz) — p020, p024",
+      "persian": "kāġaz-e mulavvan (کاغذ ملون) — sabz va qahve'ī; zarafshān / afshān (افشان) — muhtemel; jadval (جدول) — basit",
+      "arabic": "waraq mulauwwan (ورق ملوّن) — akhḍar wa aḥmar-bunni; dhahab marshūsh (ذهب مرشوش) — muhtemel; jadwal (جدول)"
+    },
+    "catalogue_description": {
+      "paper_field": null,
+      "paper_field_normalized": null,
+      "paper_field_translation": null,
+      "notes_field": "Murakkada ketebesi bulunan hattatlar: Ahmed Karahisari, Abdullah b. Huseyin, Muhammed, Sitki, Saluti. Vakif muhru: Vakf-i Sahibu'l-Hayrat el-Hacc Seyyid Mustafa Fethizade der-Kitabhane-i Cami-i Sultan Suleyman, 1202.",
+      "notes_field_normalized": "Murakkaʿda ketebesi bulunan hattatlar: Ahmed Karahisârî, Abdullah b. Hüseyin, Muhammed, Sıdkı, Salûtî. Vakıf mühürü: Vakf-ı Sâhibü'l-Hayrât el-Hâcc Seyyid Mustafa Fethizâde der-Kitâbhâne-i Câmi-i Sultan Süleyman, 1202.",
+      "notes_field_translation": "Calligraphers identified by ketebe in the murakkaʿ: Ahmed Karahisârî, Abdullah b. Hüseyin, Muhammed, Sıdkı, Salûtî. Vakf seal: [Endowment of] the Charitable Owner the Ḥājī Seyyid Mustafa Fethizâde, [to] the Library of the Mosque of Sultan Süleyman, AH 1202.",
+      "decoration_field": null,
+      "source": "YEK portal, genel_notlar and muhürler fields, record 325927, Süleymaniye Kütüphanesi — Süleymaniye Murakka Koleksiyonu, SM 00015. Catalogued by Serra Bostan. Fields kağıt özellikleri and tezhip/minyatür are null in the YEK record; the decorated paper program (mülevven, cetvelli, possible zerefşân) is documented here from IIIF visual examination.",
+      "cataloguer_note": "The YEK cataloguing of SM 00015 focuses entirely on calligrapher attributions and the vakf seal, with no mention of decorated paper. The mülevven grounds, cetvelli framing, and the critical distinction between decorated kıtʿalar and undecorated meşk sheets are documented here from IIIF examination."
+    }
+  },
+  "workshop_attribution": {
+    "primary_tradition": "ottoman",
+    "workshop_centre": "Istanbul",
+    "date_range_ce": "16th century (Karahisârî kıtʿalar, c. 1520–1556) to late 18th century (album binding, before 1787–88)",
+    "confidence": 0.72,
+    "key_indicators": [
+      "Ahmed Karahisârî (d. 963/1556) attribution — if authentic, confirms Istanbul court origin for at least part of the calligraphic content; Karahisârî served at the court of Sultan Süleyman I",
+      "Fethizâde vakf to Süleymaniye Kütüphanesi (AH 1202 / 1787–88) is an Istanbul institutional endowment",
+      "Multi-script anthology (Sülüs/Nesih/Divani) is consistent with Istanbul court album production",
+      "Green and terra cotta mülevven grounds are known Ottoman Istanbul decorated paper types, consistent with 16th–18th-century production",
+      "Simple cetvelli framing on mülevven kıtʿalar is consistent with Ottoman Istanbul album practice"
+    ],
+    "cross_tradition_caveats": [
+      "The calligraphic attribution to Karahisârî requires specialist palaeographic confirmation — the YEK catalogue records a ketebe inscription but Karahisârî kıtʿalar circulated widely and copies exist",
+      "The wide time range of potential production (16th–18th century) means attribution confidence is limited without dated colophons",
+      "The album's mixed character (decorated kıtʿa mounts + loose meşk sheets) suggests a composite assembly rather than a unified commission — the paper decoration program may have been applied at different times",
+      "The possible zerefşân on p016 writing panels (confidence 0.65) is unconfirmed; if genuine it would add a fourth technique but requires physical examination"
+    ]
+  },
+  "codicology": {
+    "paper": {
+      "color": "Multiple: (1) Medium olive-green mülevven — p006 margin; (2) Terra cotta / reddish-brown mülevven — p016 margin; (3) Cream/ivory — text panels on decorated pages; (4) Plain brownish-yellow — undecorated meşk sheets pp020, p024 (natural paper aging, not dyed). Cover: cardboard wrapper with YEK embossed stamp (p001).",
+      "preparation": "Mülevven (dyed) margin papers on at least two pages (p006, p016). Text panels on cream âharlı paper. Meşk sheets on plain, possibly thinner or different-stock paper. Simple dark cetvelli applied on mülevven pages.",
+      "weight": "Indeterminate from IIIF images. The meşk sheets (pp020, 024) appear to be on lighter, thinner paper than the mounted kıtʿalar.",
+      "decoration": "Green mülevven + dark green cetvelli (p006); terra cotta mülevven + dark cetvelli + possible zerefşân (p016); plain (undecorated) meşk sheets (pp020, 024).",
+      "paper_type": "Mixed: mülevven margin papers (two colors); cream text panel paper; plain undecorated meşk paper. The mixing of paper types within a single album indicates the album was assembled from materials of different origins."
+    },
+    "ruling": {
+      "system": "Simple dark cetvelli (single-line) on both mülevven pages. Less elaborate than the multi-layer compound cetvelli of SM 00012.",
+      "description": "P006: dark green single-line cetvelli frame around the Sülüs kıtʿa panel on green mülevven ground. P016: simple dark single-line cetvelli frame around the Nesih panel on terra cotta mülevven ground. No gold cetvelli documented on the examined pages. The simpler cetvelli system relative to SM 00012 may reflect the album's mixed-provenance character or the different production context of the individual kıtʿalar."
+    },
+    "binding": {
+      "cover_description": "Cardboard cover/wrapper (not leather binding). IIIF p001 shows the YEK Türkiye Yazma Eserler Kurumu embossed stamp (circular) on a plain cardboard surface. Pencil notation 'Murakka 15' visible. This appears to be a YEK-applied protective cover, not the album's original binding. No gold decoration, marbled paper, or other ornament on this cover.",
+      "cover_type": "Mukavva (cardboard) — YEK protective wrapper, not original binding",
+      "notes": "The cardboard wrapper documented at p001 is likely a modern protective cover applied by YEK after acquisition or during cataloguing. The original binding, if present, is not visible in the examined IIIF images. The Fethizâde vakf seal seen on other SM albums is expected to appear on interior pages (confirmed on p006, right margin area) rather than on this later cardboard wrapper."
+    },
+    "format": "Murakkaʿ — bound Ottoman calligraphic multi-script album (Sülüs, Nesih, Divani) with mülevven decoration on a subset of pages; remainder plain or meşk",
+    "condition_summary": "Interior mülevven pages (pp006, 016) appear in good condition with vivid colors. Decorated pages show cetvelli frames intact. The meşk sheets (pp020, 024) are plain and show normal paper aging (brownish-yellow toning) but no damage in the examined images. Overall: satisfactory preservation. The cardboard cover wrapper indicates the original binding may have been lost.",
+    "conservation_history": null
+  },
+  "visual_confirmation": {
+    "verdict": "confirmed",
+    "confidence": 0.90,
+    "screenshots_examined": 5,
+    "folios_examined": [
+      "corpus/iiif/sm_00015_p001.jpeg",
+      "corpus/iiif/sm_00015_p006.jpeg",
+      "corpus/iiif/sm_00015_p016.jpeg",
+      "corpus/iiif/sm_00015_p020.jpeg",
+      "corpus/iiif/sm_00015_p024.jpeg"
+    ],
+    "visual_evidence": "KEY FEATURES CONFIRMED AND CORRECTED. (1) GREEN MÜLEVVEN: Medium olive-green mülevven margin paper confirmed on p006 with dark green single-line cetvelli and Sülüs kıtʿa. (2) TERRA COTTA MÜLEVVEN: Reddish-brown/terra cotta mülevven confirmed on p016, NOT pink as triage stated — the darker terra cotta / brownish-red is a distinct color from any other mülevven in the corpus. Simple dark cetvelli on p016. (3) POSSIBLE ZEREFŞÂN on p016 writing panels: gold speckles visible on the text area of p016 — but at this resolution could be aging spots or gold verse markers; recorded at confidence 0.65. (4) CRITICAL CORRECTION — p020 IS NOT DECORATED: p020 is an unmounted calligraphic practice sheet (meşk/masq) on plain brownish-yellow paper with dense overlapping writing; no decoration. Triage's 'reddish/brown (p20)' was a misread of natural paper aging. (5) CRITICAL CORRECTION — p024 IS NOT DECORATED: p024 (final page) is also an undecorated practice/exercise sheet with plain paper. (6) P001 is YEK cardboard wrapper, not original leather binding. SUMMARY: Two confirmed mülevven colors, simple cetvelli, and two undecorated meşk sheets — notably simpler than SM 00012 but with greater calligraphic significance (Karahisârî).",
+    "limitations": [
+      "18 of 24 IIIF pages not examined; additional mülevven pages may exist among pp002–005, 007–015, 017–019, 021–023 — distribution is unknown",
+      "Possible zerefşân on p016 writing panels requires physical examination to confirm — could be aging spots or gold ink verse markers at this resolution (confidence 0.65)",
+      "The original binding is not visible in the examined IIIF images; the cardboard wrapper (p001) may be a modern addition masking an original Ottoman leather cover",
+      "Specialist palaeographic examination required to confirm the Karahisârî attribution — the YEK record names him by ketebe but does not provide folio-level localization",
+      "YEK note records 23 yk. but IIIF has 24 pages (p001 is the cardboard cover); this is explained, but the content page count should be confirmed against the physical object"
+    ],
+    "source_agent": "visual-confirmation",
+    "session": "catalog/searches/visual_tier2f_sm_00015.json"
+  },
+  "folio_analyses": [
+    {
+      "folio": "p001 — Cardboard cover/wrapper (YEK protective cover)",
+      "source_image": "corpus/iiif/sm_00015_p001.jpeg",
+      "decoration_present": false,
+      "decoration_types": [],
+      "elements": [
+        {
+          "motif": "Cardboard cover with YEK embossed stamp and pencil notation",
+          "description": "A plain cardboard cover with the Türkiye Yazma Eserler Kurumu embossed stamp (circular) in the center and a pencil notation 'Murakka 15' identifying the album. This is a modern YEK protective wrapper, not the album's original binding. No decoration of any kind on this cover.",
+          "location": "Full cover",
+          "confidence": 0.95
+        }
+      ],
+      "confidence": 0.95,
+      "notes": "The cardboard wrapper indicates the original binding has been replaced or separated. The YEK stamp and pencil notation are modern institutional markings."
+    },
+    {
+      "folio": "p006 — Single page: Sülüs kıtʿa on medium olive-green mülevven, dark cetvelli",
+      "source_image": "corpus/iiif/sm_00015_p006.jpeg",
+      "decoration_present": true,
+      "decoration_types": ["colored", "framing_system"],
+      "elements": [
+        {
+          "motif": "Medium olive-green mülevven margin paper",
+          "description": "The outer margin ground is a medium olive-green mülevven (dyed paper) — a warm middle-green with slight yellowish undertone, consistent with dyed paper (not painted or otherwise surface-treated). The green is uniform across the margin area. A YEK watermark overlay is visible in the image but does not affect the decoration assessment. The Fethizâde vakf seal (or a similar round seal) is visible at the top-right corner.",
+          "location": "Full outer margin",
+          "confidence": 0.93
+        },
+        {
+          "motif": "Dark green cetvelli — single-line frame",
+          "description": "A simple dark green single-line cetvelli frames the calligraphic text panel. The cetvelli is unelaborated — a single ruling line in dark green, creating a clean boundary between the olive-green mülevven ground and the cream calligraphic panel. This is simpler than the multi-layer compound cetvelli documented in SM 00012.",
+          "location": "Full frame around the text panel",
+          "confidence": 0.88
+        },
+        {
+          "motif": "Sülüs kıtʿa on cream panel",
+          "description": "The central text panel contains Sülüs calligraphy in formal large-script Ottoman hand on cream paper. The composition and letter forms are consistent with a formal kıtʿa presentation piece (not a meşk exercise sheet). This is one of the decorated, mounted kıtʿalar — distinct from the undecorated meşk sheets at pp020 and p024.",
+          "location": "Central text panel",
+          "confidence": 0.88
+        }
+      ],
+      "confidence": 0.90,
+      "notes": "P006 documents the green mülevven as the primary color in the album's decoration program. The simple single-line dark green cetvelli (matching the mülevven color) creates a unified green-on-cream aesthetic. The Sülüs script on this page may be attributable to one of the five named calligraphers, but specialist confirmation is needed."
+    },
+    {
+      "folio": "p016 — Single page: two-section Nesih kıtʿa on terra cotta mülevven, possible zerefşân on writing panels",
+      "source_image": "corpus/iiif/sm_00015_p016.jpeg",
+      "decoration_present": true,
+      "decoration_types": ["colored", "framing_system"],
+      "elements": [
+        {
+          "motif": "Terra cotta / reddish-brown mülevven margin paper",
+          "description": "The outer margin ground is a terra cotta or reddish-brown mülevven (dyed paper) — darker and more earth-toned than the peach/salmon mülevven of SM 00012 p010L. The color is in the range of kiremit kırmızısı (tile-red) or dark terra cotta, with a brownish-red character. The triage description of 'pink/red' was an inaccurate reading; the actual color is darker and more brown-red. This terra cotta mülevven is a new color variant in the project corpus, distinct from all previously documented mülevven hues (yellow, olive-green, sage-green, pink, lacivert, peach/salmon). Page number 9 in Arabic numerals is visible.",
+          "location": "Full outer margin",
+          "confidence": 0.90
+        },
+        {
+          "motif": "Possible zerefşân (gold speckles) on writing panels",
+          "description": "Gold speckles are visible on the writing panels (the cream calligraphic surfaces) of this page. The speckles could be: (a) deliberate zerefşân — gold particles scattered on the calligraphic panel as a luxury treatment; (b) natural aging spots or foxing; or (c) gold ink verse markers. At the available IIIF resolution (4330×2897 px), the particles appear scattered and without obvious organization into verse-marker positions, which slightly favors zerefşân interpretation. However, physical examination is required for confirmation. Recorded at confidence 0.65.",
+          "location": "Writing panels (both upper small Nesih section and lower larger Nesih section)",
+          "confidence": 0.65
+        },
+        {
+          "motif": "Simple dark cetvelli — single-line frame",
+          "description": "A simple dark single-line cetvelli frames the calligraphic panel on the terra cotta mülevven ground. Consistent with the dark green cetvelli on p006 — both using a simple framing system.",
+          "location": "Full frame around the text panel",
+          "confidence": 0.88
+        },
+        {
+          "motif": "Two-section Nesih kıtʿa",
+          "description": "The calligraphic panel is divided into two sections: an upper section with smaller Nesih writing and a lower section with larger Nesih. This two-scale Nesih format (small then large, or large then small) is a classic Ottoman kıtʿa composition. The Fethizâde vakf seal is visible at the top-right.",
+          "location": "Central text panel",
+          "confidence": 0.88
+        }
+      ],
+      "confidence": 0.85,
+      "notes": "P016 documents the second mülevven color — terra cotta / reddish-brown — which is an important addition to the corpus's mülevven palette documentation. The possible zerefşân on the writing panels (confidence 0.65) is a potentially significant finding: if confirmed, it would add a third decoration type (gold_sprinkled) to this record and would be the first documented instance of zerefşân applied directly to a terra cotta mülevven writing surface. Physical examination required."
+    },
+    {
+      "folio": "p020 — Undecorated calligraphic practice sheet (meşk/masq)",
+      "source_image": "corpus/iiif/sm_00015_p020.jpeg",
+      "decoration_present": false,
+      "decoration_types": [],
+      "elements": [
+        {
+          "motif": "UNDECORATED — meşk (practice/exercise) sheet on plain paper",
+          "description": "This page is an unmounted calligraphic practice sheet (meşk or masq) — dense overlapping writing in multiple scripts on plain brownish-yellow paper. The brownish-yellow tone is natural paper aging, not mülevven dyeing: the color is uneven, has the mottled appearance of toning/foxing, and shows no uniform dyed-paper saturation. NO decoration is present. The triage description of 'reddish/brown (p20)' was a misidentification of aged plain paper as colored paper. This meşk sheet is loose, unmounted, and included in the album alongside the decorated kıtʿalar.",
+          "location": "Full page",
+          "confidence": 0.85
+        }
+      ],
+      "confidence": 0.85,
+      "notes": "CRITICAL CORRECTION: p020 is definitively NOT decorated — the triage note 'reddish/brown (p20)' was a misread of natural paper aging. This finding establishes that SM 00015 contains a mix of formally mounted decorated kıtʿalar AND loose undecorated meşk practice sheets, which is an important structural observation for understanding the album's assembly history."
+    },
+    {
+      "folio": "p024 — Final page: second undecorated practice sheet",
+      "source_image": "corpus/iiif/sm_00015_p024.jpeg",
+      "decoration_present": false,
+      "decoration_types": [],
+      "elements": [
+        {
+          "motif": "UNDECORATED — calligraphic exercise sheet on plain paper",
+          "description": "The final page is an undecorated calligraphic exercise sheet with various practice writing in multiple scripts and orientations on plain paper. Notes and trials in different hands are visible. No decoration of any kind. Consistent with p020 as a loose practice sheet included in the album.",
+          "location": "Full page",
+          "confidence": 0.90
+        }
+      ],
+      "confidence": 0.90,
+      "notes": "P024 confirms the pattern established by p020: undecorated meşk sheets are bound into the album alongside the decorated kıtʿalar. The final position of this sheet (the last IIIF page) is consistent with an album that includes study/practice material at its end, possibly added by a later owner or calligraphy student."
+    }
+  ],
+  "terminology": {
+    "terms_used": [
+      {
+        "concept": "Calligraphic album",
+        "ottoman": "murakkaʿ / murakkaat (مرقعات)",
+        "arabic": "muraqqa' (مرقع) / muraqqa'āt (مرقعات)",
+        "persian": "muraqqa' (مرقع)",
+        "english": "Murakkaʿ: a bound album of calligraphic specimens. SM 00015 is a multi-calligrapher anthology combining Sülüs, Nesih, and Divani scripts with a partial decorated paper program (mülevven on a subset of pages)."
+      },
+      {
+        "concept": "Colored paper",
+        "ottoman": "mülevven kâğıt (کاغذ ملوّن)",
+        "arabic": "waraq mulauwwan (ورق ملوّن)",
+        "persian": "kāġaz-e mulavvan (کاغذ ملون)",
+        "english": "Mülevven: dyed or colored paper. SM 00015 documents two mülevven color variants: (1) medium olive-green (p006), and (2) terra cotta / reddish-brown (p016). The terra cotta variant is a new color in the project corpus's mülevven palette."
+      },
+      {
+        "concept": "Gold-sprinkled paper",
+        "ottoman": "zerefşân kâğıt / yaldız serpme kâğıt",
+        "arabic": "waraq mudhahdhab mansūr (ورق مذهّب منثور)",
+        "persian": "kāġaz-e zarafshān (کاغذ افشان)",
+        "english": "Zerefşân: gold-sprinkled paper. In SM 00015, possible zerefşân is recorded on the writing panels of p016 at low confidence (0.65). Physical examination required to distinguish from natural aging spots or gold verse markers."
+      },
+      {
+        "concept": "Gold ruling lines / frame system",
+        "ottoman": "altın cedvel / cetvelli",
+        "arabic": "jadwal mudhahdhab (جدول مذهّب)",
+        "persian": "jadval-e zar (جدول زر)",
+        "english": "Cetvelli: ruled framing system. SM 00015 uses a simple single-line dark cetvelli on both mülevven pages (pp006, 016), significantly less elaborate than the multi-layer compound systems documented in SM 00009 and SM 00012."
+      },
+      {
+        "concept": "Calligraphic practice sheet",
+        "ottoman": "meşk (مشق) / meşk yaprağı",
+        "arabic": "mashq (مشق)",
+        "persian": "mashq (مشق)",
+        "english": "Meşk/mashq: calligraphic practice or exercise writing, typically involving repetition of letters, words, or compositions. In SM 00015, pages p020 and p024 are meşk sheets on plain paper — undecorated practice material included alongside the formally decorated kıtʿa specimens. The presence of meşk sheets reflects the album's use in a calligraphic learning context."
+      },
+      {
+        "concept": "Calligraphic specimen sheet",
+        "ottoman": "kıtʿa (قطعه)",
+        "arabic": "qiṭʿa (قطعة)",
+        "persian": "qiṭʿa (قطعه)",
+        "english": "Kıtʿa: a formal calligraphic specimen sheet. In SM 00015, the decorated kıtʿalar (including pp006, 016 and others not examined) are distinguished from the undecorated meşk practice sheets by their mülevven paper mounting, cetvelli framing, and formal presentation."
+      },
+      {
+        "concept": "Endowment deed / library seal",
+        "ottoman": "vakıf mühürü / vakf kaydı",
+        "arabic": "waqf (وقف) — pious endowment",
+        "persian": null,
+        "english": "Vakf: Islamic pious endowment. The vakf seal in SM 00015 reads: 'Vakf-ı Sâhibü'l-Hayrât el-Hâcc Seyyid Mustafa Fethizâde der-Kitâbhâne-i Câmi-i Sultan Süleyman, 1202 H.' — shared with other SM Fethizâde albums including SM 00009 and SM 00012."
+      }
+    ]
+  },
+  "bibliography": [
+    {
+      "citation": "Derman, M. Uğur. Letters in Gold: Ottoman Calligraphy from the Sakıp Sabancı Collection, Istanbul. New York: The Metropolitan Museum of Art, 1998.",
+      "relevance": "Essential reference for Ottoman calligraphy covering Ahmed Karahisârî (the most significant calligrapher in SM 00015), his position in the Ottoman calligraphic canon, and his relationship to Şeyh Hamdullah's tradition. Provides the scholarly context for evaluating the Karahisârî attribution in this album.",
+      "relevance_score": 0.95,
+      "access_notes": "Exhibition catalogue (Metropolitan Museum of Art). ISBN 978-0300086324."
+    },
+    {
+      "citation": "Derman, M. Uğur. 'Karahisarî.' In Türkiye Diyanet Vakfı İslam Ansiklopedisi, vol. 24, pp. 384–386. Istanbul: Türkiye Diyanet Vakfı, 2001. [In Turkish]",
+      "relevance": "Authoritative Turkish-language entry on Ahmed Karahisârî (d. 963/1556), the primary calligrapher attributed in SM 00015. Covers his biography, major works (including the Süleymanic Quran in Topkapı), scribal style, and subsequent influence. Essential for contextualizing the Karahisârî attribution.",
+      "relevance_score": 0.97,
+      "access_notes": "Available at major Turkish libraries and online via diyanet.gov.tr. In Turkish."
+    },
+    {
+      "citation": "Blair, Sheila S. 'Color and Gold: The Decorated Papers Used in Manuscripts in Later Islamic Times.' Muqarnas 17 (2000): 24–36.",
+      "relevance": "Foundational classification study for mülevven (colored paper) and the general typology of decorated papers relevant to SM 00015. The olive-green and terra cotta mülevven variants in this album fit within Blair's colored paper category.",
+      "relevance_score": 0.90,
+      "access_notes": "Available via JSTOR and open-access PDF on Academia.edu."
+    },
+    {
+      "citation": "Roxburgh, David J. The Persian Album, 1400–1600: From Dispersal to Collection. New Haven: Yale University Press, 2005.",
+      "relevance": "Primary study of the murakkaʿ format and album assembly practices in the Persianate and Ottoman traditions. The question of how SM 00015 was assembled — combining Karahisârî specimens (16th-century) with later material and meşk sheets — is directly addressed by Roxburgh's analysis of album-making as a process of collection and recontextualization.",
+      "relevance_score": 0.88,
+      "access_notes": "Widely held monograph."
+    },
+    {
+      "citation": "Çağman, Filiz, and Zeren Tanındı. The Topkapı Saray Museum: The Albums and Illustrated Manuscripts. Translated and edited by J. M. Rogers. Boston: Little, Brown, 1986.",
+      "relevance": "Standard reference for Ottoman luxury albums including Karahisârî's works and their presentation formats. The Topkapı collections hold the most important Karahisârî manuscripts including the Süleymanic Quran; comparative study of the SM 00015 Karahisârî kıtʿalar against Topkapı exemplars is a necessary next step.",
+      "relevance_score": 0.88,
+      "access_notes": "Exhibition catalogue; widely held."
+    },
+    {
+      "citation": "Bağcı, Serpil, Filiz Çağman, Günsel Renda, and Zeren Tanındı. Ottoman Painting. Ankara: Ministry of Culture and Tourism, 2006.",
+      "relevance": "Comprehensive survey of Ottoman visual arts covering the calligraphic tradition including Karahisârî, the murakkaʿ album format, and decorated paper programs in Ottoman manuscripts.",
+      "relevance_score": 0.82,
+      "access_notes": "Museum publication; available at major Turkish studies collections."
+    },
+    {
+      "citation": "Gacek, Adam. Arabic Manuscripts: A Vademecum for Readers. Leiden: Brill, 2009.",
+      "relevance": "Standard reference for manuscript terminology, script identification (Sülüs, Nesih, Divani), format terms (kıtʿa, murakkaʿ, meşk), and codicological vocabulary used throughout this record.",
+      "relevance_score": 0.76,
+      "access_notes": "Reference monograph; widely held."
+    },
+    {
+      "citation": "Bloom, Jonathan M. Paper Before Print: The History and Impact of Paper in the Islamic World. New Haven: Yale University Press, 2001.",
+      "relevance": "Background on Islamic paper production and the tradition of decorated papers, providing context for the mülevven types in SM 00015.",
+      "relevance_score": 0.68,
+      "access_notes": "Widely held monograph."
+    }
+  ],
+  "suggested_collections": [
+    {
+      "institution": "Topkapı Sarayı Müzesi Kütüphanesi, Istanbul",
+      "reason": "Holds the most important authenticated Karahisârî manuscripts, including the Quran of Sultan Süleyman I (TSMK E.H. 58). Palaeographic comparison of the SM 00015 Karahisârî kıtʿalar against the Topkapı exemplars is the highest-priority follow-up action for confirming the attribution.",
+      "digital_access": "https://kutuphane.tsmk.gov.tr"
+    },
+    {
+      "institution": "Süleymaniye Kütüphanesi, Istanbul — Süleymaniye Murakka Koleksiyonu",
+      "reason": "Holding institution. Comparative study of SM 00015 within the SM sub-collection (SM 00001–SM 00020) would identify the frequency of Karahisârî attributions and the distribution of green and terra cotta mülevven types across the Fethizâde vakf albums.",
+      "digital_access": "https://portal.yek.gov.tr"
+    },
+    {
+      "institution": "Chester Beatty Library, Dublin",
+      "reason": "Major repository of Ottoman calligraphic albums, including specimens by and attributed to major 16th-century masters. The Chester Beatty collection has published Karahisârî comparative material.",
+      "digital_access": "https://viewer.cbl.ie"
+    },
+    {
+      "institution": "Sakıp Sabancı Museum, Istanbul",
+      "reason": "Holds authenticated examples of major Ottoman calligraphers including 16th-century masters. Comparative palaeographic examination of the SM 00015 Karahisârî attribution is recommended.",
+      "digital_access": null
+    }
+  ],
+  "provenance": {
+    "donor": null,
+    "waqf": "Fethizâde Mustafa Efendi — Vakf-ı Sâhibü'l-Hayrât el-Hâcc Seyyid Mustafa Fethizâde; endowed to the library of the Mosque of Sultan Süleyman (Süleymaniye Kütüphanesi), AH 1202 / 1787–88 CE. Vakf seal visible on interior pages. Shared with SM 00009, SM 00012, and other SM albums in the Fethizâde vakf group.",
+    "previous_shelfmarks": [],
+    "notes": "Currently held at Süleymaniye Kütüphanesi, Istanbul, under the Süleymaniye Murakka Koleksiyonu sub-collection, shelfmark SM 00015. The album was endowed to the Süleymaniye Kütüphanesi by Fethizâde Mustafa Efendi in AH 1202 / 1787–88 CE. The presence of Ahmed Karahisârî (d. 963/1556) kıtʿalar in the album implies that the calligraphic content substantially predates the Fethizâde endowment — the 16th-century kıtʿalar were likely collected over time before being bound and endowed. Pre-Fethizâde provenance and ownership chain are unknown. YEK ID: 325927. IIIF ID: 0000000356063."
+  },
+  "analysis_metadata": {
+    "analyzed_date": "2026-02-28",
+    "analyzer": "claude-code-manuscript-pipeline",
+    "pipeline_stage": "metadata-generator",
+    "image_source": "YEK Portal IIIF images, Süleymaniye Kütüphanesi — Süleymaniye Murakka Koleksiyonu, SM 00015. YEK ID 325927, IIIF ID 0000000356063. 5 IIIF pages downloaded at 4330×2897 px (p001, p006, p016, p020, p024). Visual confirmation data from catalog/searches/visual_tier2f_sm_00015.json.",
+    "image_quality_notes": "All 5 downloaded pages at 4330×2897 px — excellent resolution. At this resolution the mülevven colors on pp006 and p016 are clearly distinguishable. The plain paper on pp020 and p024 is definitively non-mülevven at this resolution. The possible zerefşân on p016 writing panels is visible but not unambiguous — the distinction between gold sprinkling and natural aging spots requires physical examination. 18 of 24 IIIF pages were not examined.",
+    "folios_examined": [
+      "corpus/iiif/sm_00015_p001.jpeg",
+      "corpus/iiif/sm_00015_p006.jpeg",
+      "corpus/iiif/sm_00015_p016.jpeg",
+      "corpus/iiif/sm_00015_p020.jpeg",
+      "corpus/iiif/sm_00015_p024.jpeg"
+    ],
+    "folios_not_examined": "Pages p002–p005, p007–p015, p017–p019, p021–p023 (18 pages of 24 total IIIF) were not downloaded or examined at IIIF resolution. Additional mülevven pages may exist among these. The Karahisârî kıtʿa folios (which bear the ketebe 'Ahmed Karahisârî') have not been individually localized — specialist study of the full 24-page IIIF set is required.",
+    "corpus_priority": "HIGH (calligraphic significance): The Ahmed Karahisârî attribution makes SM 00015 the most historically significant album in Sub-Batch F by calligraphic provenance, though its decoration program is more modest than SM 00012. MODERATE (decoration significance): Two confirmed mülevven colors, simple cetvelli; terra cotta mülevven is a new color in the corpus. Follow-up priorities: (1) Download and examine all 24 IIIF pages to localize the Karahisârî kıtʿalar and document the full decoration distribution; (2) Specialist palaeographic comparison to confirm Karahisârî attribution — compare against TSMK E.H. 58 and Sakıp Sabancı authenticated works; (3) Physical examination of p016 to confirm or deny zerefşân on writing panels; (4) Investigate the provenance chain of the Karahisârî kıtʿalar before the Fethizâde endowment.",
+    "source_data": {
+      "visual_confirmation_file": "catalog/searches/visual_tier2f_sm_00015.json",
+      "yek_id": "325927",
+      "iiif_id": "0000000356063",
+      "batch": "Phase 3 Track E — Tier 2F Süleymaniye Murakka Sub-Batch (2026-02-28)"
+    }
+  }
+}
