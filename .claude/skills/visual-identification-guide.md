@@ -221,6 +221,101 @@ Reference for identifying paper decoration types in manuscript screenshots. Used
 - Gold-tooled board edges (on the binding covers, not the bookblock — check if the gold is on cardboard/leather or on paper edges)
 - Painted or decorated fore-edges (Western tradition, figural scenes visible when pages are fanned — not typically found in Islamic manuscripts)
 
+### Stenciled paper
+
+**Identifying features:**
+
+- Flat, even color within motifs — uniform density with no visible brushstroke variation
+- Crisp, well-defined edges between motif and ground (compared to hand-painted work which shows edge softness)
+- Mechanical regularity: repeated motifs are nearly identical in size and spacing
+- **Stencil bridges** — tiny unpainted connectors inside closed shapes (e.g., the center of an "O" shape needs a bridge to hold the stencil island in place). This is the single strongest diagnostic indicator of stenciling
+- Botanical subject matter dominates: flowers, leaves, stems in naturalistic or semi-naturalistic style (Karamemi tradition)
+
+**Subtypes (when resolution allows):**
+
+- **Color-field stencil**: Pigment in one or more opaque colors applied through stencil. Multiple color layers may show slight misregistration (color fields not perfectly aligned at edges)
+- **Metallic stencil**: Gold leaf or shell-gold applied through stencil, producing gold repeat-patterns. May appear in combination with color stenciling
+- **Stencil borders as inserted leaves**: Separate stencil-decorated leaves bound into or vassale-mounted in the manuscript — check for vassale seams indicating the stenciled paper is a separate element
+
+**Diagnostic traces (high resolution required):**
+
+- **Misregistration** between color layers — slight offset where two stenciled colors meet, revealing the sequential application of separate masks
+- **Edge haloing / overspray** — faint color bleeding beyond the intended motif boundary where pigment crept under the mask edge
+- **Pigment pooling** — slightly heavier color deposits at mask edges where pigment accumulated against the stencil wall
+- **Stencil bridges** — see above; look for tiny interruptions in outlines of enclosed shapes
+
+**Resolution sensitivity:** MEDIUM-HIGH — overall motif presence is visible at moderate resolution, but the key diagnostic features (stencil bridges, misregistration, edge haloing) require higher resolution to detect. At low resolution, stenciled paper may be indistinguishable from hand-painted decoration.
+
+**Distinguish from:**
+
+- Hand-painted halkâr or floral decoration — shows brushstroke variation, tonal gradients, organic irregularity; stenciled work is mechanically uniform
+- Block-printed paper — may show press indentation (paper deformation from block pressure); stenciled paper has no indentation from the mask
+- Pouncing traces — preparatory layout marks (powder dots along lines), found *under* paint/gilding, not the finished surface. Pounce = layout technique, stencil = finished decoration
+- Gold-worked (zerkâri) — hand-applied gold motifs with visible brushwork and variation; metallic stenciling shows mechanical regularity
+
+### Silhouetted paper
+
+**Identifying features:**
+
+- Pattern with a distinctly shadowed, soft-edged appearance — produced by pressing a pattern between sheets with a pigmented intermediate sheet
+- Color has a diffused, pressure-transferred quality: pigment absorbed INTO the paper, not sitting on the surface. Edges of motifs fade/graduate rather than cutting off sharply
+- Warm olive-brown to golden-brown tones dominate against cream ground (characteristic color palette)
+- Large-scale botanical motifs: full-height flowering plants (tulips, hyacinths, carnations, composite flowers), much larger than halkâr or teşʿîr. Karamemi-tradition naturalistic vocabulary
+- Bilateral symmetry: plant arrangements often mirror on either side of the text area
+- Relief/texture may be visible: the paper surface shows slight deformation from the pressing process
+- Motifs may appear on both sides of the sheet (pressure transfers through)
+
+**Common formats:**
+
+- **Album (murakkaʿ) margins**: vassale-mounted calligraphy panels (often on contrasting pink/salmon paper) set into silhouetted-paper margins. Gold teşʿîr drawings frequently overlaid on the silhouetted ground
+- **Full-page silhouetted paper**: text written directly on the silhouetted sheet. Text area occupies a lighter central zone; radiating botanical silhouettes frame the text columns from the margins inward
+
+**Resolution sensitivity:** LOW-MEDIUM — the large-scale shadow patterns and warm olive-brown color are visible even at moderate resolution. Distinguished from stenciled paper at higher resolution by the soft/diffused edge quality (vs. crisp mask edges). Much easier to detect than gold-sprinkled or teşʿîr.
+
+**Distinguish from:**
+
+- Stenciled paper — crisp mask edges, flat even color, surface-applied pigment with no paper deformation; silhouetted paper has soft-edged shadows from pressure transfer with pigment absorbed into the paper
+- Impressed/relief paper — pure deformation without color; silhouetted paper combines deformation WITH color from the pigmented intermediate sheet
+- Water damage or staining — irregular, unintentional, brownish; silhouetted patterns are regular, intentional botanical motifs with bilateral symmetry
+- Halkâr — shaded gold brushwork in margins with tonal gradients from a brush; silhouetted paper has uniform color density within each motif (no painterly gradation) and the shadow-like diffused edges characteristic of pressure transfer
+- Zerkâri (gold-worked) — hand-applied gold motifs with brushwork variation; silhouetted paper uses pressure-transferred pigment, not gold, and has diffused rather than painted edges
+
+**Reference images:** `examples/silhouetted paper/` — 4 photographs showing album-format vassale margins (images 1–2) and full-page silhouetted paper (images 3–4)
+
+### Impressed / relief paper
+
+**Identifying features:**
+
+- Pattern visible as shadow/relief on the paper surface, created by pressing between engraved matrices
+- No pigment or color — the effect is purely from paper deformation (light and shadow)
+- May be nearly invisible in flat lighting; best detected under raking/oblique light where shadows are cast
+- Paper thickness varies across the pattern (thinner where pressed, thicker where not)
+
+**Resolution sensitivity:** HIGH — subtle deformation patterns produce very low contrast in standard flat-lit photography. Often invisible in YEK portal screenshots taken under diffuse lighting. Best detected in high-quality scans with controlled lighting.
+
+**Distinguish from:**
+
+- Silhouetted paper — similar pressing process but WITH color transfer from a pigmented intermediate sheet; impressed paper has no color
+- Blind-tooled binding covers — same embossing principle but on leather/board, not paper
+- Paper texture or laid lines — structural features of paper manufacture, regular and uniform; impressed patterns are decorative motifs
+
+### Block-printed paper
+
+**Identifying features:**
+
+- Motifs applied by pressing a carved wooden block onto the paper
+- May show **press indentation** — paper slightly depressed/deformed where the block was pressed
+- Ink or pigment transfer may be slightly uneven: heavier at edges of the block, lighter in center
+- Repeated motifs may show slight positional variation from hand-placement of the block
+
+**Resolution sensitivity:** MEDIUM — block-printed patterns are usually visible at moderate resolution, but press indentation requires higher resolution to confirm.
+
+**Distinguish from:**
+
+- Stenciled paper — no press indentation; stenciling leaves pigment on the surface without deforming the paper
+- Hand-painted decoration — block-printed motifs have mechanical consistency within each impression
+- Stamped binding decoration — on leather/board, not paper; different substrate and context
+
 ### Vassale (window-mounting)
 
 Vassale is not a decoration type but a mounting technique — text is cut out and set into a window in a larger sheet of decorated paper. Its visual traces confirm decorated paper use.
@@ -248,6 +343,7 @@ Luxury manuscripts frequently combine multiple decoration types on the same page
 - Colored paper + gold ruling + gold-sprinkled overlay
 - Marbled side papers (yan kağıtları) flanking a gold-sprinkled or gold-worked text area (in albums)
 - Zencirek border + cedvel framing + halkâr or illuminated margins filling the space between
+- Stenciled/silhouetted leaves inserted via vassale into manuscripts with other decoration types
 
 When multiple types are present, identify each individually. The output category should be `mixed` with all component types listed in the manuscript record's `types` array. Note the spatial relationship between them (e.g., "gold-sprinkled paper with halkâr in margins and zencirek at outer edge").
 
@@ -281,5 +377,11 @@ When the claimed decoration is likely beyond the capture window, verdict should 
 | High (>300 DPI equiv.) | ✅ visible | ✅ visible | ✅ visible | ✅ visible | ✅ details visible | ✅ details visible | ✅ visible | ✅ details visible | ✅ visible | ✅ visible | ✅ if angle allows |
 | Medium (150–300 DPI) | ⚠ may be invisible | ✅ visible | ✅ visible | ✅ visible | ✅ presence visible | ✅ presence visible | ❌ likely invisible | ✅ pattern visible | ✅ visible | ⚠ may be invisible | ✅ if angle allows |
 | Low (<150 DPI / thumbnails) | ❌ not discernible | ⚠ large patterns visible | ✅ usually visible | ✅ visible | ⚠ may miss subtle work | ⚠ presence visible | ❌ not discernible | ⚠ may blur to line | ✅ visible | ❌ not discernible | ⚠ if angle allows |
+
+| Quality level | Stenciled | Silhouetted | Impressed/relief | Block-printed |
+| --- | --- | --- | --- | --- |
+| High (>300 DPI equiv.) | ✅ motifs + diagnostic traces (bridges, haloing) | ✅ shadow effect + edge quality | ✅ visible with raking light | ✅ motifs + press indentation |
+| Medium (150–300 DPI) | ✅ motifs visible; ⚠ bridges may be missed | ✅ shadow visible; ⚠ edge quality unclear | ⚠ subtle deformation hard to detect | ✅ motifs visible; ⚠ indentation unclear |
+| Low (<150 DPI / thumbnails) | ⚠ motifs visible but indistinguishable from hand-painted | ⚠ may resemble staining | ❌ not discernible | ⚠ motifs visible but technique unclear |
 
 When resolution limits identification, always note this in the verdict limitations rather than marking `not_confirmed`.

@@ -152,6 +152,38 @@ The Ottoman framing system uses layered borders around the text block:
 - **bazı yapraklar lacivert, yeşil, sarı ve mavi** — multi-colored scattered leaves (lapis, green, yellow, blue); the Manisa cataloguing phrase for manuscripts with leaves in multiple colors (Manisa 4408/1)
 - **lacivert** — lapis blue (paper color)
 
+### Stenciled, silhouetted, and impressed papers
+
+No standardized Turkish cataloguing term exists for any of these techniques. Discovery in YEK requires descriptive keyword probes or image-based triage.
+
+**Three distinct techniques:**
+
+- **stenciled paper** — pigment applied through pre-cut stencil templates (masks) onto the paper surface. Produces flat-color motifs with crisp edges. Diagnostic traces: stencil bridges (tiny unpainted connectors inside closed shapes), misregistration between color layers, edge haloing/overspray, pigment pooling at mask edges
+- **silhouetted paper** — pattern impressed between sheets with a pigmented sheet in the middle; the pressure transfers both the pattern relief and the color, creating a distinctly shadowed appearance. The middle (pigmented) sheet acts as the color source. Distinguished from stenciling by the pressure-transfer process and characteristic soft-edged shadow effect rather than crisp mask edges
+- **impressed / relief paper** — pattern created by pressing between engraved matrices WITHOUT pigment; produces shadow/relief effect through paper deformation alone. Similar to silhouetted paper but lacks the color transfer from a pigmented intermediate sheet
+
+**Related technique (distinct category):**
+
+- **block-printed paper** — separate technique using carved wooden blocks pressed onto paper; may show press indentation and ink transfer. Distinct from stenciling (no mask involved) and from silhouetting (the block carries the pigment directly, not an intermediate sheet)
+
+**⚠ Pouncing vs. stenciling:** Pouncing (perforated cartoon + powder transfer) is a *layout* technique, not finished decoration — gets conflated with stenciling in some catalogues. Pounce marks are preparatory (under paint/gilding), not the final decorative surface.
+
+**Stenciled paper subtypes by material:**
+
+- **stencil-applied color** — pigment brushed/dabbed through cut-out stencil, leaving flat-color motifs (or motifs in reserve against colored ground)
+- **stencil-applied metallic** — gold leaf or shell-gold (zer-mürekkep) applied through stencil, producing gold repeat-patterns
+- **stencil borders as inserted leaves** — separate stencil-decorated leaves bound into or vassale-mounted in the manuscript
+
+**Key figures and collections:**
+
+- **Karamemi** (fl. 1545–66): chief illuminator of Sultan Süleyman's court; hand-painted naturalistic floral borders in Divan-ı Muhibbi (1565–66) served as prototypes for mechanically stenciled paper
+- **Known examples**: Stuttgart alba amicorum (Württembergische Landesbibliothek, 98 sheets), Coburg, Kassel, BnF Paris, John Rylands MS 7046 (1531–33)
+- **Global Deco Paper Project** (LMU Munich) — active research project on decorated paper classification including Ottoman material
+
+**⚠ Timeline:** Gold stencilling extends into the 19th century (1829 Ottoman manuscript, Shapero) — not limited to the 16th-century "classic" period.
+
+**⚠ Literature terminology overlap:** Some English-language scholarship (e.g., Blair, Muqarnas 17, 2000; Sotheby's auction catalogues) uses "silhouette paper" to describe what may be stenciled paper, or uses "stencilled silhouette paper" as a compound term. When reading secondary sources, verify which production technique is actually described rather than assuming terminological consistency.
+
 ### Mounting and special treatments
 
 - **vassale** — window-mounting technique (text mounted in window cut from decorated paper)
