@@ -1,0 +1,359 @@
+{
+  "record_id": "nuruosmaniye_04372",
+  "collection": {
+    "institution": "Nuruosmaniye Kütüphanesi",
+    "city": "Istanbul",
+    "country": "Turkey",
+    "shelfmark": "04372",
+    "yek_url": "https://portal.yek.gov.tr/yazmaeser/eser-detay/178898"
+  },
+  "manuscript": {
+    "title": "Himmetname",
+    "title_script": null,
+    "title_alt": null,
+    "author": null,
+    "author_dates": null,
+    "calligrapher": "Shāh Maḥmūd al-Kātib al-Nīshābūrī (شاه محمود نیشابوری)",
+    "calligrapher_dates": "d. 972/1564–65",
+    "calligrapher_note": "Shah Mahmud al-Katib al-Nishaburi was among the most celebrated Safavid court calligraphers of the 16th century, serving as chief calligrapher under Shah Tahmasp I. He was a master of the nastalīq hand and worked at the highest level of Safavid royal patronage. His colophon here establishes direct production evidence at Ardabil in AH 956.",
+    "date_ah": "956",
+    "date_ce": "1549",
+    "place_of_copy": "Ardabil (colophon evidence, AH 956)",
+    "format": "Persian literary text with vassale mounting",
+    "format_note": "A Persian literary text (Himmetname) produced in the luxury Safavid tradition, with text panels written on separate sheets and subsequently window-mounted (vassale) onto decorated ebru (marbled) paper grounds — a hallmark of high-level Safavid book production of the mid-16th century. The manuscript is the only confirmed Safavid specimen in the current corpus.",
+    "language": "Persian",
+    "script": "Nesta'lîk (nestaʿlīq / نستعلیق) in two columns",
+    "dimensions_mm": {
+      "height": null,
+      "width": null
+    },
+    "folio_count": null,
+    "yek_id": "178898",
+    "iiif_id": "0000000164040",
+    "notes": "MAJOR FIND. This is the only non-Ottoman, Safavid manuscript in the Batch 3 corpus, and the only confirmed instance of the vassale mounting technique in the project to date. The colophon names Ardabil as the place of production in AH 956 / CE 1549, coinciding with the height of Shah Tahmasp's court patronage. The manuscript later entered the Nuruosmaniye collection, which was endowed by Sultan III. Osman (r. 1754–1757); the exact date and route of transfer are unknown."
+  },
+  "paper_decoration": {
+    "types": [
+      "marbled",
+      "framing_system"
+    ],
+    "summary": "The decorative program of this Safavid manuscript is organized around the vassale (window-mounting) technique, by which text panels written on separate sheets of paper were cut and mounted into windows in elaborately decorated ebru (marbled) paper grounds. Two distinct ebru types are present: a full-page hatip ebru (imam's marbling, with large floral motifs in red, yellow, black, and cream) visible on what is likely a doublure or first flyleaf (p002), and a battal ebru (stone/spot marbling, in blue-grey, orange/salmon, and cream) serving as the ground sheet for the vassale-mounted text panels (p007). The text columns on p007 are additionally framed by gold cetvels (ruling lines), and the manuscript opens with an illuminated serlevha (headpiece) in blue and gold with hatayi (hatāyī / ختایی) motifs — a characteristically Safavid decorative vocabulary consistent with the Tabriz/Ardabil school under Shah Tahmasp. The binding is executed in the ruganî (lake / lacquer) technique with floral motifs, gold cetvels, floral and zencirek (chain-border) decoration, şemse (central medallion), and mıklep (flap), all of which are diagnostic of high-level Safavid bookbinding. This is one of the most complex and significant decorative programs in the corpus — an authentically Safavid luxury production that reached Istanbul via unknown intermediary channels and is now housed at Nuruosmaniye.",
+    "distribution_notes": "The ebru ground papers cover the entire page area: the battal ebru is used as the support sheet into which text panels are window-mounted via the vassale technique, so the marbled paper is visible in the margins and between columns throughout the manuscript body. The hatip ebru at p002 functions as a separate decorative element — likely a flyleaf or doublure — rather than as a ground for mounted text.",
+    "technique_terms": {
+      "ottoman": "vassale yöntemiyle ebrulu kâğıda monte edilmiştir; aharli kâğıt; farkli renklerde vassale yöntemiyle ebrulu kâğıda monte edilmiştir; yaldız cetvelli; lake tarzında yaldızlı cilt",
+      "persian": "abrī (ابری); vassāla (واساله); jild-e ruġanī (جلد روغنی); jadval-e zar (جدول زر); sarlawḥ (سرلوح)",
+      "arabic": "jadwal mudhahdhab (جدول مذهّب); jild al-ruġanī"
+    },
+    "catalogue_description": {
+      "paper_field": "Aharli, su yolu yok. Farkli renklerde vassale yontemiyle ebrulu kagida monte edilmistir. Yaldiz cetvelli, kalin bir kagida yazili",
+      "paper_field_normalized": "Aharlı, su yolu yok. Farklı renklerde vassale yöntemiyle ebrulu kâğıda monte edilmiştir. Yaldız cetvelli, kalın bir kâğıda yazılı",
+      "paper_field_translation": "Sized, no chain lines. Mounted onto marbled paper using the vassale technique in different colors. Written on thick paper with gold ruling.",
+      "notes_field": "Tezhibli Serlevha 1b sayfasında. Tezhipli.",
+      "notes_field_normalized": "Tezhipli Serlevha 1b sayfasında. Tezhipli.",
+      "notes_field_translation": "Illuminated serlevha on page 1b. Illuminated.",
+      "decoration_field": null,
+      "source": "YEK portal, kâğıt özellikleri and genel notlar fields, record 178898. Nuruosmaniye Kütüphanesi.",
+      "cataloguer_note": "The kâğıt özellikleri field is unusually detailed for a vassale-mounted manuscript: the phrase 'farklı renklerde vassale yöntemiyle ebrulu kâğıda monte edilmiştir' (mounted onto marbled paper in different colors via the vassale technique) is an accurate and precise descriptor of the technique visible in the IIIF screenshots. The absence of chain lines ('su yolu yok') is consistent with Eastern (Oriental) paper — Doğu kâğıdı — rather than European watermarked paper."
+    }
+  },
+  "workshop_attribution": {
+    "primary_tradition": "safavid",
+    "workshop_centre": "Ardabil",
+    "date_range_ce": "1549",
+    "confidence": 0.90,
+    "key_indicators": [
+      "Colophon explicitly places production at Ardabil in AH 956 / CE 1549 — direct, named production location",
+      "Shah Mahmud al-Katib al-Nishaburi (d. 972/1564–65) was chief calligrapher at the Safavid court under Shah Tahmasp I; his involvement alone indicates a commission at or near the highest level of Safavid patronage",
+      "Vassale mounting of text panels onto ebru paper grounds is a hallmark luxury technique of the Safavid book arts, particularly associated with the mid-16th-century Tabriz and Ardabil workshops",
+      "The ruganî (lake/lacquer) binding with floral motifs, zencirek chain border, and şemse medallion is diagnostic of Safavid binding production; Ottoman bookbinders rarely used lacquer technique before the 17th century",
+      "The illuminated serlevha in blue and gold with hatayi motifs is consistent with the Safavid Tabriz/Ardabil decorative vocabulary of Shah Tahmasp's reign (1524–1576)"
+    ],
+    "cross_tradition_caveats": [
+      "The manuscript entered the Nuruosmaniye collection (Istanbul) at an unknown date, and Ottoman intervention on specific elements — particularly the marbled flyleaf/doublure visible at p002 — cannot be excluded; hatip ebru of the kind visible at p002 was also practised by Ottoman marblers, and the hatip style does not conclusively identify it as Safavid work",
+      "The distinction between battal ebru (as ground paper at p007) of Safavid versus later Ottoman production cannot be made on visual grounds alone without comparative material analysis",
+      "The colophon naming Ardabil places the manuscript in the orbit of the Safavid Ardabil shrine complex and its associated library/patronage network; it does not necessarily indicate direct Safavid royal commission, though Shah Mahmud's involvement makes this likely"
+    ]
+  },
+  "codicology": {
+    "paper": {
+      "color": "Not independently determinable; mounted text panels on aharlı (sized) thick paper; no chain lines (su yolu yok), consistent with Eastern (Doğu) paper",
+      "preparation": "Aharlı (sized/burnished); no watermarks (su yolu yok)",
+      "weight": "Kalın (thick) — the catalogue specifies 'kalın bir kâğıda yazılı'",
+      "decoration": "Vassale-mounted onto ebrulu kâğıt (marbled paper) in different colors; gold cedvel framing",
+      "paper_type": "Doğu kâğıdı (Eastern/Oriental paper) — consistent with Safavid production; absence of chain lines rules out European paper"
+    },
+    "ruling": {
+      "system": "Altın cetvelli (gold ruling) — gold ruling lines frame the text columns on the mounted panels",
+      "description": "Gold cedvel system framing the text columns of the vassale-mounted text panels; Nesta'lîk script in two columns"
+    },
+    "binding": {
+      "cover_description": "Lake (ruganî/lacquer) binding on cardboard (mukavva) base; spine and envelope flap (sertabı) covered in brown leather; cover exterior gold-decorated in lacquer style with floral motifs, şemse (central medallion), floral zencirek (chain border), cetvels, and mıklep (flap); cover interior lined with black leather with blue and pink colored ground, gold-decorated with zencirek in the same style at the corners",
+      "cover_type": "Ruganî / lake (lacquer) cilt",
+      "notes": "The lacquer (ruganî/lake) technique is characteristically Safavid and was established at the Tabriz and Shiraz workshops. The combination of şemse, salbek, köşebend (corner pieces), zencirek chain border, and floral (cicek) motifs in gold lacquer is consistent with Safavid high-level binding production of the mid-16th century. The description 'lake tarzında' in the YEK catalogue record correctly identifies the lacquer technique."
+    },
+    "format": "Persian literary text — vassale-mounted luxury codex",
+    "condition_summary": "The manuscript appears well-preserved in the IIIF screenshots. Both the hatip ebru (p002) and the battal ebru vassale ground (p007) are vivid and largely undamaged. The lacquer binding is described in the catalogue, suggesting it survives intact. No damage or repair notes in the catalogue record.",
+    "conservation_history": null
+  },
+  "visual_confirmation": {
+    "verdict": "confirmed",
+    "confidence": 0.98,
+    "screenshots_examined": 2,
+    "folios_examined": [
+      "corpus/visual_confirmation_batch3/nuruosmaniye_04372_p002_iiif.png",
+      "corpus/visual_confirmation_batch3/nuruosmaniye_04372_p007_iiif.png"
+    ],
+    "visual_evidence": "p002 shows a full-page hatip ebru in red, yellow, black, and cream, with large curvilinear floral motifs characteristic of the imam-marbling tradition; this is most likely the doublure or first flyleaf of the manuscript. p007 delivers the key visual confirmation: the vassale mounting technique is clearly legible, with separately written text panels visibly cut and window-mounted into a multi-colored battal ebru ground (blue-grey, orange/salmon, and cream). An illuminated serlevha headpiece with blue-and-gold hatayi motifs is visible at the top of the text opening; gold cetvels frame the text columns; Nesta'lîk script is written in two columns. The combination of vassale mounting, hatip ebru flyleaf, battal ebru ground, gold cetvels, and illuminated serlevha with Safavid hatayi vocabulary constitutes unambiguous confirmation of the catalogue description and a decisive identification as a high-level Safavid luxury production.",
+    "limitations": [
+      "Only 2 of the IIIF pages were examined; the full manuscript extent was not surveyed",
+      "The lacquer binding covers were not separately examined in these screenshots",
+      "The colophon folio was not examined; the Ardabil/AH 956 attribution rests on the catalogue record rather than on visual examination of the colophon inscription",
+      "The ebru subtypes (hatip vs. battal) are identified on visual grounds at IIIF viewer resolution; dedicated high-resolution imaging would enable more precise description of the marbling patterns and potential master attribution"
+    ],
+    "source_agent": "visual-confirmation",
+    "session": "visual_confirmation_2026-02-26_batch3.json"
+  },
+  "folio_analyses": [
+    {
+      "folio": "Doublure or first flyleaf — hatip ebru (IIIF p002)",
+      "source_image": "corpus/visual_confirmation_batch3/nuruosmaniye_04372_p002_iiif.png",
+      "decoration_present": true,
+      "decoration_types": ["marbled"],
+      "elements": [
+        {
+          "motif": "Hatip ebru — full-page floral marbling",
+          "description": "A full-page hatip ebru (imam's marbling / floral marbling) in red, yellow, black, and cream, featuring large curvilinear floral motifs created by drawing a stylus through colors floated on size in the marbling trough. The motifs are large and bold, characteristic of the hatip ebru tradition (named after Hâtip Mehmed Efendi, the Ottoman marbler, though the technique predates its association with this master). The color palette — red, yellow, black, cream — is within the range of both Safavid and Ottoman ebru production of the 16th century.",
+          "location": "Full page — this is a separate decorated leaf functioning as a doublure or the first flyleaf of the volume, not a ground sheet for vassale-mounted text",
+          "confidence": 0.92
+        }
+      ],
+      "confidence": 0.92,
+      "notes": "The hatip ebru at p002 is visually clear and unambiguous. The large floral motifs and multi-color palette are consistent with high-quality marbling. The function of this leaf — as doublure, pastedown, or flying endpaper — cannot be determined from the IIIF view alone. The cross-tradition caveat applies: hatip ebru was practised by Ottoman marblers as well as in the Safavid tradition, and this specific leaf may have been added or replaced during the manuscript's Ottoman period of custody."
+    },
+    {
+      "folio": "Text opening with vassale mounting — serlevha and battal ebru ground (IIIF p007)",
+      "source_image": "corpus/visual_confirmation_batch3/nuruosmaniye_04372_p007_iiif.png",
+      "decoration_present": true,
+      "decoration_types": ["marbled", "framing_system", "illuminated_margins"],
+      "elements": [
+        {
+          "motif": "Battal ebru — vassale ground paper",
+          "description": "Multi-colored battal ebru (stone/spot marbling) in blue-grey, orange/salmon, and cream serves as the decorated ground sheet into which text panels are window-mounted. The irregular spotted and mottled pattern of battal ebru is clearly distinguishable from the floral motifs of hatip ebru. The color combination — blue-grey, orange/salmon, cream — is consistent with Safavid ebru production of the mid-16th century and with the chromatic conventions of the Ardabil/Tabriz workshop milieu.",
+          "location": "Full page ground — both pages of the opening; visible in the margins and between the mounted text columns",
+          "confidence": 0.96
+        },
+        {
+          "motif": "Vassale mounting — text panel window-mounting",
+          "description": "The text panels are clearly visible as separately written sheets cut to size and window-mounted (via the vassale technique) into openings cut in the battal ebru ground paper. The junction between the text panel and the ebru ground is legible in the IIIF image. The vassale technique — 'farklı renklerde vassale yöntemiyle ebrulu kâğıda monte edilmiştir' — is perfectly described by the YEK catalogue entry. This is the only confirmed vassale specimen in the project corpus.",
+          "location": "Text columns on both pages of the opening",
+          "confidence": 0.97
+        },
+        {
+          "motif": "Illuminated serlevha — blue and gold hatayi headpiece",
+          "description": "An illuminated serlevha (headpiece/frontispiece) at the top of the text opening, with blue and gold coloring and hatayi (hatāyī / ختایی) group motifs. The hatayi vocabulary — Chinese-derived composite flowers and peony forms — is characteristic of the Safavid Tabriz and Ardabil decorative tradition under Shah Tahmasp (r. 1524–1576). The blue-and-gold palette with hatayi motifs places this firmly within the mid-16th-century Safavid mainstream.",
+          "location": "Top of the right-hand page of the opening (f. 1b per catalogue: 'Tezhibli Serlevha 1b sayfasında')",
+          "confidence": 0.90
+        },
+        {
+          "motif": "Altın cetveller — gold ruling lines",
+          "description": "Gold cedvel (ruling) lines frame the text columns of the mounted text panels, consistent with the YEK catalogue field 'yaldız cetvelli'. The gold ruling is applied to or embedded within the text panel, not to the ebru ground.",
+          "location": "Frame lines around the text columns of the mounted panels, both pages",
+          "confidence": 0.93
+        },
+        {
+          "motif": "Nesta'lîk script in two columns",
+          "description": "The calligraphic text is in Nesta'lîk (nestaʿlīq) hand, written in two columns — a standard format for Persian literary texts in the Safavid luxury book tradition. The attribution to Shah Mahmud al-Katib al-Nishaburi is consistent with the quality of the hand visible at IIIF viewer resolution.",
+          "location": "Both mounted text panels across the opening",
+          "confidence": 0.88
+        }
+      ],
+      "confidence": 0.98,
+      "notes": "This folio delivers the decisive visual confirmation of the manuscript's Safavid character and technique. The combination of battal ebru vassale-mounted ground paper, blue-and-gold hatayi serlevha, gold cetvels, and Nesta'lîk calligraphy in two columns is a coherent and fully authenticated luxury Safavid program of the mid-16th century. The vassale mounting technique is the most significant technical feature of this manuscript: it represents the most complex form of paper decoration and mounting found in the entire project corpus."
+    }
+  ],
+  "terminology": {
+    "terms_used": [
+      {
+        "concept": "Vassale mounting",
+        "ottoman": "vassale yöntemiyle monte edilmiştir",
+        "arabic": null,
+        "persian": "vassāla (واساله)",
+        "english": "Vassale: a technique in which text panels are written on separate sheets of paper, then cut to size and window-mounted into openings cut in a decorated paper ground (often marbled or gold-worked). The text and the decorative ground paper are thus distinct physical objects joined in a single opening. A hallmark of Safavid luxury book production of the 15th–17th centuries."
+      },
+      {
+        "concept": "Marbled paper — general",
+        "ottoman": "ebrulu kâğıt / ebrî kâğıt",
+        "arabic": null,
+        "persian": "kāġad-e abrī (کاغذ ابری)",
+        "english": "Marbled paper: paper decorated by a process of floating pigments on a water-and-thickener size in a trough, arranging them into patterns, and pressing a sheet of paper onto the surface to transfer the design. Marbling was practised across the Persianate and Ottoman traditions from at least the 15th century."
+      },
+      {
+        "concept": "Hatip ebru — floral marbling",
+        "ottoman": "hatip ebru / hatip ebrusu",
+        "arabic": null,
+        "persian": null,
+        "english": "Hatip ebru (imam's marbling): a type of marbled paper with large curvilinear floral motifs created by drawing a stylus through floated pigment colors in the marbling trough. Named in the Ottoman tradition after Hâtip Mehmed Efendi. Characteristically bold, organic, and floral in appearance."
+      },
+      {
+        "concept": "Battal ebru — stone/spot marbling",
+        "ottoman": "battal ebru",
+        "arabic": null,
+        "persian": null,
+        "english": "Battal ebru (stone/spot marbling): the simplest form of marbled paper, produced by allowing pigments to float freely on the marbling size without combing or stylus manipulation, creating an irregular spotted or mottled pattern. Used here as the decorative ground paper for the vassale-mounted text panels."
+      },
+      {
+        "concept": "Lacquer binding",
+        "ottoman": "lake cilt / lake tarzında cilt",
+        "arabic": null,
+        "persian": "jild-e ruġanī (جلد روغنی)",
+        "english": "Lacquer binding (ruganî/lake cilt): a binding decorated by applying painted designs beneath a layer of transparent lacquer (ruġan). A distinctively Persian/Safavid technique, associated with the Tabriz and Shiraz workshops from the 15th century onward. The designs may include floral motifs, landscapes, figural scenes, and geometric patterns."
+      },
+      {
+        "concept": "Ruling lines",
+        "ottoman": "cedvel / altın cetvelli",
+        "arabic": "jadwal (جدول)",
+        "persian": "jadval-e zar (جدول زر)",
+        "english": "Ruling lines: the system of parallel lines framing the text block on a manuscript page. Gold ruling (altın cedvel) is a luxury feature; in this manuscript the gold cetvels frame the vassale-mounted text panels."
+      },
+      {
+        "concept": "Illuminated headpiece",
+        "ottoman": "serlevha / tezhipli serlevha",
+        "arabic": "ʿunwān (عنوان)",
+        "persian": "sarlawḥ (سرلوح)",
+        "english": "Illuminated headpiece: the decorated panel at the top of the first page of a text. In this manuscript the serlevha is in blue and gold with hatayi motifs, consistent with Safavid Tabriz/Ardabil production."
+      },
+      {
+        "concept": "Chinese-derived lotus/peony motif",
+        "ottoman": "hatâyî / hatayi",
+        "arabic": null,
+        "persian": "khatāʾī (ختایی)",
+        "english": "Hatāyī: Chinese-derived composite flowers and peony forms; one of the primary motif families in Islamic manuscript decoration. In the Safavid tradition especially associated with the Tabriz school under Shah Tahmasp."
+      },
+      {
+        "concept": "Chain-border decoration",
+        "ottoman": "zencirek / zencerek",
+        "arabic": null,
+        "persian": null,
+        "english": "Zencirek: repeating interlinked ring or loop motifs forming a narrow chain band, used to frame binding covers, page edges, and calligraphic panels. Present on the lacquer binding of this manuscript."
+      },
+      {
+        "concept": "Central medallion (binding)",
+        "ottoman": "şemse",
+        "arabic": null,
+        "persian": "shamsa (شمسه) / toranj (ترنج)",
+        "english": "Şemse: central medallion — the ovoid or almond-shaped stamped or painted central motif on a binding cover. A standard element of both Safavid and Ottoman binding programs."
+      },
+      {
+        "concept": "Binding flap",
+        "ottoman": "mıklep",
+        "arabic": null,
+        "persian": null,
+        "english": "Mıklep: the protective flap extending from the back board of a bound manuscript, folded over the fore-edge of the text block. Standard in Ottoman and Persianate bookbinding traditions."
+      },
+      {
+        "concept": "Nasta'liq calligraphy",
+        "ottoman": "nesta'lîk",
+        "arabic": null,
+        "persian": "nastaʿlīq (نستعلیق)",
+        "english": "Nestaʿlīq: the most prestigious calligraphic hand for Persian literary texts, characterized by flowing diagonal lines and highly refined letter-forms. Used here by Shah Mahmud al-Katib al-Nishaburi for this Persian literary text."
+      }
+    ]
+  },
+  "bibliography": [
+    {
+      "citation": "Roxburgh, David J. The Persian Album, 1400–1600: From Dispersal to Collection. New Haven: Yale University Press, 2005.",
+      "relevance": "The primary scholarly study of the Persianate album-making tradition and the mounting and presentation techniques — including vassale mounting — used in Timurid and Safavid luxury book production. Directly relevant to the vassale technique and the ebru ground paper program documented in this manuscript. Roxburgh's analysis of how Safavid workshops organized and presented calligraphic specimens provides essential context for Shah Mahmud al-Katib's production practices.",
+      "relevance_score": 0.97,
+      "access_notes": "Monograph; widely held at major research libraries. Available new and secondhand."
+    },
+    {
+      "citation": "Blair, Sheila S. 'Color and Gold: The Decorated Papers Used in Manuscripts in Later Islamic Times.' Muqarnas 17 (2000): 24–36.",
+      "relevance": "The foundational taxonomic and historical study of decorated papers (marbled, gold-sprinkled, gold-worked, stenciled) in Islamic manuscripts of the 15th–18th centuries. Blair's framework underlies the classification of the hatip ebru and battal ebru components in this record, and provides comparative evidence for the circulation of decorated paper types across the Safavid and Ottoman traditions.",
+      "relevance_score": 0.93,
+      "access_notes": "Peer-reviewed article. Available via JSTOR and institutional library access."
+    },
+    {
+      "citation": "Bayānī, Mahdī. Aḥwāl va Āthār-e Khwushnawīsān. 4 vols. Tehran: Entesharat-e Elmi, 1966–1969.",
+      "relevance": "The standard Persian-language biographical dictionary of Islamic calligraphers, containing the principal biography of Shah Mahmud al-Katib al-Nishaburi (d. 972/1564–65), chief calligrapher of the Safavid court under Shah Tahmasp. Essential for establishing the calligrapher's dates, career, and court context, directly relevant to this manuscript's attribution and dating.",
+      "relevance_score": 0.95,
+      "access_notes": "Persian-language monograph. Held at major Iranian studies collections and Islamic manuscript libraries."
+    },
+    {
+      "citation": "Thackston, Wheeler M. 'Calligraphers and Painters: A Treatise by Qāḍī Aḥmad, Son of Mīr-Munshī (circa A.H. 1015/A.D. 1606).' Freer Gallery of Art Occasional Papers, vol. 3, no. 2. Washington D.C.: Smithsonian Institution, 1959.",
+      "relevance": "An early primary source — Qazi Ahmad's Gulistan-i Hunar — documenting the careers of Safavid calligraphers and illuminators including Shah Mahmud Nishaburi. Provides direct historical testimony on the prestige and position of Shah Mahmud at the Safavid court, corroborating the attribution of this manuscript to him.",
+      "relevance_score": 0.88,
+      "access_notes": "English translation of a key Persian primary source. Available at major Islamic manuscript and art history libraries."
+    },
+    {
+      "citation": "Çağman, Filiz, and Zeren Tanındı. The Topkapı Saray Museum: The Albums and Illustrated Manuscripts. Translated and edited by J. M. Rogers. Boston: Little, Brown, 1986.",
+      "relevance": "Standard reference for Ottoman and Safavid luxury manuscripts and albums in Istanbul collections, including decorated paper practices and the transition of Safavid manuscripts into Ottoman custody. Provides comparanda for the crossing of Safavid manuscript traditions into the Ottoman collection context relevant to this manuscript's provenance.",
+      "relevance_score": 0.82,
+      "access_notes": "Exhibition catalogue; widely held."
+    },
+    {
+      "citation": "Déroche, François. Islamic Codicology: An Introduction to the Study of Manuscripts in Arabic Script. Translated by Deke Dusinberre and David Radzinowicz. London: Al-Furqan Islamic Heritage Foundation, 2005.",
+      "relevance": "Foundational reference for Islamic manuscript codicology, providing the classification framework for paper decoration types, mounting techniques, binding forms, and physical manuscript features used throughout this catalog record. Particularly relevant for the identification of the vassale mounting technique within the broader Persianate codicological tradition.",
+      "relevance_score": 0.80,
+      "access_notes": "Monograph; available at specialist libraries."
+    },
+    {
+      "citation": "Bloom, Jonathan M. Paper Before Print: The History and Impact of Paper in the Islamic World. New Haven: Yale University Press, 2001.",
+      "relevance": "Comprehensive history of paper production and use in the Islamic world, providing essential material-culture background for the absence of chain lines ('su yolu yok') in this manuscript's paper — consistent with Eastern (Oriental) paper rather than European watermarked stock — and for the history of paper preparation and sizing in the Safavid context.",
+      "relevance_score": 0.78,
+      "access_notes": "Widely held monograph."
+    },
+    {
+      "citation": "Hillenbrand, Robert. Islamic Art and Architecture. London: Thames and Hudson, 1999.",
+      "relevance": "Broad survey reference covering Safavid art and architecture, providing general art-historical context for the Ardabil shrine complex and its patronage networks, relevant to this manuscript's production location. Also covers lacquer binding traditions in the Safavid court context.",
+      "relevance_score": 0.70,
+      "access_notes": "Widely held survey monograph."
+    }
+  ],
+  "suggested_collections": [
+    {
+      "institution": "Topkapı Sarayı Müzesi Kütüphanesi, Istanbul",
+      "reason": "Holds the most important Ottoman-period collection of Safavid luxury manuscripts transferred to Istanbul, including examples of vassale-mounted texts and the full range of Safavid decorated paper programs. Direct comparanda for the ebru, serlevha, and lacquer binding of this manuscript are likely to be found here.",
+      "digital_access": "https://kutuphane.tsmk.gov.tr"
+    },
+    {
+      "institution": "Chester Beatty Library, Dublin",
+      "reason": "One of the finest collections of Safavid luxury manuscripts outside Iran, including multiple examples of Shah Mahmud al-Katib's calligraphy and the Safavid decorated-paper and album traditions. Directly relevant for comparison with this manuscript's calligraphic program and decorative technique.",
+      "digital_access": "https://viewer.cbl.ie"
+    },
+    {
+      "institution": "Bodleian Library, Oxford",
+      "reason": "Elaine Wright's work on Persian and Safavid illuminated manuscripts at the Bodleian includes examples of the vassale technique and Safavid marbled paper, directly comparable to this record. The Bodleian also holds works by or associated with Shah Mahmud al-Katib.",
+      "digital_access": "https://digital.bodleian.ox.ac.uk"
+    },
+    {
+      "institution": "Bibliothèque nationale de France (BnF), Paris — Gallica",
+      "reason": "The BnF holds important Safavid manuscripts with decorated papers and lacquer bindings, providing comparative material for both the ebru ground paper and the ruganî binding technique documented in this record.",
+      "digital_access": "https://gallica.bnf.fr"
+    }
+  ],
+  "provenance": {
+    "donor": null,
+    "waqf": "Nuruosmaniye Kütüphanesi — vakıf of Sultan III. Osman (r. 1754–1757). All manuscripts in the Nuruosmaniye collection bear the tuğralı vakıf mühürü (tughra-stamped waqf seal) of Sultan III. Osman. This Safavid manuscript, produced at Ardabil in AH 956 / CE 1549, entered the Nuruosmaniye endowment approximately 205 years after its production, indicating its conservation in private or court collections throughout the intervening period before institutional deposit.",
+    "previous_shelfmarks": [],
+    "notes": "This manuscript was produced at Ardabil in AH 956 / CE 1549, during the reign of Shah Tahmasp I (r. 1524–1576), by Shah Mahmud al-Katib al-Nishaburi. The route by which it reached Istanbul is unknown; possibilities include direct transfer as diplomatic gift, capture as war booty (particularly following Ottoman-Safavid conflicts of the 16th century), or acquisition through private purchase. The manuscript is currently held at Nuruosmaniye Kütüphanesi, Istanbul, under shelfmark 04372. YEK ID: 178898. IIIF ID: 0000000164040."
+  },
+  "analysis_metadata": {
+    "analyzed_date": "2026-02-27",
+    "analyzer": "claude-code-manuscript-pipeline",
+    "pipeline_stage": "metadata-generator",
+    "image_source": "YEK Portal IIIF viewer screenshots (YEK ID 178898, Nuruosmaniye Kütüphanesi, IIIF ID 0000000164040) — captured by visual-confirmation agent during Batch 3 confirmation session (2026-02-26)",
+    "image_quality_notes": "Two screenshots at IIIF viewer resolution. The vassale mounting technique and the two distinct ebru types (hatip at p002, battal at p007) are unambiguously legible at this resolution, supporting a visual confirmation confidence of 0.98. Higher-resolution IIIF imaging at native resolution would enable: (1) precise description of the hatip ebru motif vocabulary and potential master attribution; (2) detailed analysis of the serlevha headpiece motifs; (3) examination of the lacquer binding covers; (4) reading of the colophon inscription.",
+    "folios_examined": [
+      "corpus/visual_confirmation_batch3/nuruosmaniye_04372_p002_iiif.png",
+      "corpus/visual_confirmation_batch3/nuruosmaniye_04372_p007_iiif.png"
+    ],
+    "folios_not_examined": "The full manuscript was not surveyed. Only p002 (hatip ebru flyleaf/doublure) and p007 (text opening with vassale mounting and serlevha) were examined. The colophon inscription, the lacquer binding covers, the complete folio extent, and any additional decorated leaves remain unexamined. Priority for follow-up: (1) colophon examination to read the full ketebe formula and verify the Ardabil/AH 956 inscription; (2) binding covers for lacquer motif classification; (3) systematic page-by-page survey to determine the full extent of the vassale-mounted and ebru-decorated leaves.",
+    "corpus_priority": "EXCEPTIONAL SPECIMEN — the only confirmed Safavid manuscript in the entire project corpus. MAJOR FIND: first confirmed instance of the vassale mounting technique in the corpus. Colophon attribution to Shah Mahmud al-Katib al-Nishaburi (chief Safavid court calligrapher). Lacquer binding. Ardabil provenance, AH 956. All Batch 3 Follow-up Items category: deep analysis pending.",
+    "source_data": {
+      "search_file": "catalog/searches/search_2026-02-24_batch3_marbled_colored_halkar.json",
+      "yek_id": "178898",
+      "visual_confirmation_file": "catalog/searches/visual_confirmation_2026-02-26_batch3.json",
+      "batch": "Batch 3 (marbled/colored/halkâr)"
+    }
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "record_id": "ali_nihat_tarlan_00153",
+  "collection": {
+    "institution": "Süleymaniye Kütüphanesi — Ali Nihat Tarlan Koleksiyonu",
+    "city": "Istanbul",
+    "country": "Turkey",
+    "shelfmark": "00153",
+    "yek_url": "https://portal.yek.gov.tr/yazmaeser/eser-detay/182043"
+  },
+  "manuscript": {
+    "title": "Şehnâme (شاهنامه)",
+    "author": "Firdevsî, Ebü'l-Kâsım Fahreddîn Hasan b. İshâk b. Şerefşâh et-Tûsî (d. 416/1026) (فردوسی)",
+    "date_ah": null,
+    "date_ce": null,
+    "format": "Persian epic poetry (Shahnameh)",
+    "dimensions_mm": {
+      "height": null,
+      "width": null
+    },
+    "folio_count": 241,
+    "yek_id": "182043",
+    "iiif_id": "0000000577056",
+    "notes": "241 folios. Four-column layout (musirlidir). Currently unbound: 'ciltsiz ve sirazesi dağınıktır' (unbound, sewing dispersed). Double gold cetvels throughout with orange inter-column cetvels. Halkâr margin painting with flower (çiçek) motifs on ff. 1a, 12b, 13a only; beyne-satır (interlinear) illumination on the same three folios. Script: taʿlîk. Language: Persian. Note: Same collection (Ali Nihat Tarlan Koleksiyonu) as corpus record ali_nihat_tarlan_00075 (Mecmûʿa-i Nefîse, AH 1135/1722–23; gold-worked + marbled; probable 0.70). Cross-reference: catalog/ali_nihat_tarlan_00075.json."
+  },
+  "paper_decoration": {
+    "types": ["halkar_margins", "illuminated_margins", "framing_system"],
+    "summary": "The decorative programme is concentrated on three specific folios: ff. 1a, 12b, and 13a, which carry flower-motif halkâr (sayfa kenarları çiçek motifli, halkârî) and beyne-satır (interlinear) illumination (tezhip). The halkâr is described as flower-patterned margin painting — consistent with Ottoman şükûfe or naturalistic floral halkâr in gold on the page margins. The remaining 238 folios carry a double gold cedvel framing system throughout (tamamı yaldızlı çift cetvelli), with orange inter-column cetvels (sütun araları turuncu ve yaldızlı cetvelli) — a structured and visually consistent luxury framing programme. The YEK tezhip_minyatur field confirms: 'Tezhib, 1a, 12b, 13a.' Visual confirmation of p003 (IIIF) confirmed the 4-column layout and blue and gold cetvels but did not capture the halkâr folios (1a, 12b, 13a). Paper is described as 'samânî kâğıt' (Oriental/Samani paper).",
+    "technique_terms": {
+      "ottoman": "sayfa kenarları çiçek motifli halkârî; yaldızlı çift cedvel; beyne-satır tezhip; sütun araları turuncu cetvelli",
+      "persian": "halkārī (حلکاری); jadval (جدول)",
+      "arabic": null
+    },
+    "catalogue_description": {
+      "paper_field": "Samani kagit",
+      "notes_field": "Nushanin 1a, 12b, 13a sayfalarinda, sayfa kenarlari cicek motifli, halkarlı, satir aralari beyne-sutur tezhiplidir. Nushanin tamami yaldizli cift cetvelli ve sutun aralari turuncu ve yaldizli cetvellidir.",
+      "decoration_field": "Tezhib, 1a, 12b, 13a."
+    }
+  },
+  "workshop_attribution": {
+    "primary_tradition": "ottoman",
+    "workshop_centre": null,
+    "date_range_ce": null,
+    "confidence": 0.45,
+    "key_indicators": [
+      "Halkâr margin painting with floral (şükûfe/çiçek) motifs: an Ottoman luxury technique most prevalent in 17th–18th-century Istanbul production",
+      "Double gold cedvel with orange inter-column lines: an elaborate Ottoman framing system characteristic of luxury poetry manuscripts",
+      "Four-column layout (4-sütunlu) in taʿlîk script: a format used in both Ottoman and Safavid Shahnameh copies",
+      "Samânî kâğıt paper: Oriental paper stock used across the Ottoman and Persian traditions"
+    ],
+    "cross_tradition_caveats": [
+      "Shahnameh (Persian epic) was copied in both Ottoman Istanbul and Safavid Iran; the text itself is not an Ottoman-tradition indicator",
+      "Four-column Shahnameh layout was common in Safavid production as well as Ottoman copies; layout alone does not distinguish tradition",
+      "Undated manuscript: no colophon date, no workshop city, no named scribe or illuminator available; attribution is highly uncertain",
+      "Halkâr technique is predominantly Ottoman but was also used in some Safavid-influenced manuscripts; without examining the specific halkâr folios the attribution cannot be tightened",
+      "Confidence lowered to 0.45 pending in-person examination of halkâr folios"
+    ]
+  },
+  "codicology": {
+    "paper": {
+      "description": "Samânî kâğıt — Oriental paper. No watermark recorded. Paper type is consistent with either Ottoman or Persianate production.",
+      "watermark": null,
+      "color": "cream (assumed)"
+    },
+    "ruling": {
+      "description": "Tamamı yaldızlı çift cedvel — double gold ruling throughout. Sütun araları turuncu ve yaldızlı cedvel — inter-column rulings in orange and gold. Confirmed in visual examination of p003 (blue and gold cetvels visible in 4-column layout).",
+      "ink_colors": ["gold", "orange"],
+      "lines_per_page": null
+    },
+    "binding": {
+      "description": "Ciltsiz ve sirazesi dağınıktır — currently unbound; sewing dispersed. No cover survives or is noted.",
+      "binding_type": "unbound",
+      "materials": [],
+      "decoration": []
+    },
+    "format": "Persian epic poetry",
+    "condition_summary": "Unbound (ciltsiz); sewing (siraze) dispersed. The text block of 241 folios survives but requires conservation attention.",
+    "conservation_history": "No recorded conservation history. Current condition: unbound with dispersed sewing — urgent conservation need."
+  },
+  "visual_confirmation": {
+    "verdict": "probable",
+    "confidence": 0.65,
+    "screenshots_examined": 1,
+    "limitations": [
+      "Only one IIIF screenshot examined (p003); the halkâr margin folios (1a, 12b, 13a) were not captured",
+      "Limiting factor: coverage — halkâr-decorated folios not yet located in IIIF",
+      "Double gold cedvel and 4-column layout confirmed; the higher-specificity decorative elements remain unexamined visually",
+      "Marginal annotations (derkenar) visible in screenshot but halkâr painting not resolved"
+    ]
+  },
+  "folio_analyses": [
+    {
+      "folio": "p003 (IIIF)",
+      "source_image": "corpus/visual_confirmation_batch3/ali_nihat_tarlan_00153_p003_iiif.png",
+      "decoration_present": true,
+      "decoration_types": ["framing_system"],
+      "elements": [
+        {
+          "motif": "Four-column layout with blue and gold cetvels",
+          "description": "The 4-column Shahnameh layout is clearly confirmed: four parallel text columns separated by inter-column ruling lines in blue and gold. The double gold cedvel framing the text block is visible. Marginal annotations (derkenar) are also present. The halkâr flower-motif margin painting could not be resolved at this page and resolution.",
+          "location": "Full page spread — text block and frame lines",
+          "confidence": 0.75
+        }
+      ],
+      "confidence": 0.65,
+      "notes": "Framing system confirmed. The halkâr margin decoration documented in the catalogue (ff. 1a, 12b, 13a) is the primary basis for the halkar_margins classification; these folios were not captured in the examined IIIF page. Targeted navigation to ff. 1a, 12b, and 13a is recommended."
+    }
+  ],
+  "terminology": {
+    "terms_used": [
+      {
+        "concept": "Shaded gold floral margin painting",
+        "ottoman": "halkâr / halkârî (حلکاری)",
+        "arabic": null,
+        "persian": "halkārī (حلکاری)",
+        "english": "Halkâr: fine gold margin painting depicting flowers, animals, or landscapes in a shaded (taramalı) or outlined (tahrirli) technique; typically gold on the paper margin ground"
+      },
+      {
+        "concept": "Interlinear illumination",
+        "ottoman": "beyne-satır tezhip (بینه سطر تذهیب)",
+        "arabic": null,
+        "persian": "mā bayna al-suṭūr (ما بین السطور)",
+        "english": "Interlinear illumination: decorative gilding applied between the lines of text, typically at key openings; recorded here on ff. 1a, 12b, 13a"
+      },
+      {
+        "concept": "Ruling / frame lines",
+        "ottoman": "cedvel / cetvel (جدول); çift cedvel (double ruling)",
+        "arabic": "jadwal (جدول)",
+        "persian": "jadval (جدول)",
+        "english": "Frame ruling lines around the text block; çift cedvel = double ruling; altın cedvel = gold ruling"
+      },
+      {
+        "concept": "Oriental / Samani paper",
+        "ottoman": "samânî kâğıt",
+        "arabic": null,
+        "persian": null,
+        "english": "Samânî kâğıt: a cataloguing term for Eastern (Oriental) paper; associated with Samarkand or Central Asian paper types; distinct from European watermarked paper"
+      }
+    ]
+  },
+  "bibliography": [
+    {
+      "citation": "Blair, Sheila S. 'Color and Gold: The Decorated Papers Used in Manuscripts in Later Islamic Times.' Muqarnas 17 (2000): 24–36.",
+      "relevance": "Primary reference on decorated margins and gold painting techniques in later Islamic manuscripts, covering halkâr and related gold-applied margin decoration types.",
+      "relevance_score": 0.85,
+      "access_notes": "Peer-reviewed. JSTOR access."
+    },
+    {
+      "citation": "Tanındı, Zeren. 'Osmanlı Döneminde Yazma Kitaba Başlangıç Sayfaları.' In Türk Kültüründe Sanat ve Mimari, edited by Banu Mahir et al., 123–145. Istanbul: Antik A.Ş., 1993.",
+      "relevance": "Survey of Ottoman manuscript opening pages including halkâr margin decoration and illumination at frontispieces and key folios; directly relevant to the decorated opening folios (1a, 12b, 13a) of this Shahnameh copy. In Turkish.",
+      "relevance_score": 0.80,
+      "access_notes": "In Turkish. Available at major Turkish research libraries."
+    },
+    {
+      "citation": "Hillenbrand, Robert. 'The Arts of the Book in Ilkhanid Iran.' In The Legacy of Genghis Khan: Courtly Art and Culture in Western Asia, 1256–1353, edited by Linda Komaroff and Stefano Carboni, 134–167. New Haven: Yale University Press, 2002.",
+      "relevance": "Discussion of the Persian Shahnameh manuscript tradition and the development of multi-column formats and luxury framing systems; provides art-historical context for comparing Ottoman and Safavid Shahnameh copies.",
+      "relevance_score": 0.60,
+      "access_notes": "Exhibition catalogue. Available at major research libraries."
+    },
+    {
+      "citation": "Déroche, François. Islamic Codicology: An Introduction to the Study of Manuscripts in Arabic Script. Translated by Deke Dusinberre and David Radzinowicz. London: Al-Furqan Islamic Heritage Foundation, 2005.",
+      "relevance": "Standard codicological reference; covers ruling conventions (cedvel), multi-column layouts, and the physical description of unbound manuscripts.",
+      "relevance_score": 0.65,
+      "access_notes": "Available at major research libraries."
+    }
+  ],
+  "suggested_collections": [
+    {
+      "institution": "Süleymaniye Kütüphanesi — Ali Nihat Tarlan Koleksiyonu, Istanbul",
+      "reason": "Home collection. Other volumes in the Ali Nihat Tarlan Koleksiyonu may share provenance; see also corpus record ali_nihat_tarlan_00075 (same collection, different shelfmark).",
+      "digital_access": "https://portal.yek.gov.tr"
+    },
+    {
+      "institution": "Chester Beatty Library, Dublin",
+      "reason": "Significant holdings of Ottoman and Persian Shahnameh manuscripts with comparable luxury framing systems and halkâr margin decoration; digitized images facilitate comparative study.",
+      "digital_access": "https://viewer.cbl.ie"
+    }
+  ],
+  "provenance": {
+    "donor": "Ali Nihat Tarlan (1898–1978)",
+    "waqf": null,
+    "previous_shelfmarks": [],
+    "notes": "The Ali Nihat Tarlan Koleksiyonu was donated by Prof. Dr. Ali Nihat Tarlan (1898–1978), a prominent Turkish literary historian and Ottoman literature scholar at Istanbul University. Note: another manuscript in this same collection — Mecmûʿa-i Nefîse (shelfmark 00075, yek_id 181822) — is also catalogued in this corpus as ali_nihat_tarlan_00075 (probable, 0.70; gold_worked + marbled, AH 1135/1722–23). The presence of multiple luxury manuscripts with decorated papers in the Tarlan donation reflects Tarlan's scholarly interest in Ottoman and Persian literary manuscripts. This Shahnameh (shelfmark 00153) is currently unbound (ciltsiz), indicating it may have been acquired in a damaged state or separated from its binding."
+  },
+  "analysis_metadata": {
+    "analyzed_date": "2026-02-27",
+    "analyzer": "claude-code-manuscript-pipeline",
+    "image_source": "YEK Portal IIIF — Süleymaniye Kütüphanesi Ali Nihat Tarlan Koleksiyonu (portal.yek.gov.tr); screenshot via visual-confirmation agent (Batch 3, 2026-02-26). yek_id: 182043, iiif_id: 0000000577056.",
+    "image_quality_notes": "One IIIF screenshot examined (p003). Four-column layout and blue/gold cedvel framing confirmed at adequate resolution. The halkâr folios (ff. 1a, 12b, 13a) were not captured and remain unexamined visually. Marginal annotations (derkenar) visible but not part of the halkâr decoration. Overall confidence limited by coverage gap.",
+    "folios_examined": [
+      "p003 (IIIF — body text page; 4-column layout and cedvel framing confirmed)"
+    ],
+    "folios_not_examined": "Folios 1a, 12b, 13a (halkâr + beyne-satır tezhip — the primary decoration, per catalogue and tezhip_minyatur field); all remaining 238 folios. Targeted IIIF navigation to ff. 1a, 12b, 13a is the recommended next step to upgrade this record to confirmed status."
+  }
+}

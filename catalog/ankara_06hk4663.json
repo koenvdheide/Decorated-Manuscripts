@@ -1,0 +1,216 @@
+{
+  "record_id": "ankara_06hk4663",
+  "collection": {
+    "institution": "Ankara Adnan Ötüken İl Halk Kütüphanesi",
+    "city": "Ankara",
+    "country": "Turkey",
+    "shelfmark": "06 Hk 4663",
+    "yek_url": "https://portal.yek.gov.tr/yazmaeser/eser-detay/590589"
+  },
+  "manuscript": {
+    "title": "Kur'ân-ı Kerîm",
+    "title_script": "القرآن الكريم",
+    "title_alt": null,
+    "author": null,
+    "date_ah": "1271",
+    "date_ce": "1854–1855",
+    "format": "mushaf (Quran manuscript)",
+    "language": "Arabic",
+    "script": "Nesih (Naskh)",
+    "dimensions_mm": {
+      "height": null,
+      "width": null
+    },
+    "folio_count": null,
+    "yek_id": "590589",
+    "iiif_id": "0000000541727",
+    "notes": "Dated Quran (AH 1271 / CE 1854–55) in a standard late Ottoman luxury mushaf format. The catalogue notes an oxidized gilding condition (yer yer oksitlenmiş), and that a leaf has been torn from the back endpapers. The binding is detached from the spine board (sertabından ayrılmış) and the spine shows some wear. A kafes şemseli (lattice-pattern medallion) binding in brown leather with miklepli flap closure. Interior covered with green pandizot cloth. Despite the condition issues the decorative program is well-described by cataloguer Zeynep Özçelik."
+  },
+  "paper_decoration": {
+    "types": [
+      "colored",
+      "halkar_margins",
+      "illuminated_margins",
+      "framing_system"
+    ],
+    "summary": "A cross-category late Ottoman Quran with multiple decorative programs operating simultaneously. The opening bifolio (ilk iki sayfa) bears mülevven (colored) paper with nefis tezhip (fine illumination) and kenarları halkârî yaldızlı (gold halkâr margins). Gold cetvels frame the text throughout, with tinted cetvels visible in the screenshot (green/teal). Verse-divider duraklar are present and the hizib gül rosettes are described as mülevven tezhibli (colored/illuminated). Sûre çerçeveleri (surah frames) are yaldızlı (gilded). The gilding shows partial oxidation (yer yer oksitlenmiş). The halkârî program is confined to the opening bifolio — the rest of the manuscript relies on the gold cedvel framing and illuminated headpiece system. This is a standard high-quality late Ottoman Quran production pattern: luxury opening, with systematic gold ruling throughout.",
+    "distribution_notes": "Mülevven paper and halkârî margins are described as present on the ilk iki sayfa (first two pages — the opening bifolio). Gold cetvels and sûre çerçeveleri continue throughout. Hizib gülleri are mülevven tezhibli. The specific decorated opening bifolio was not captured in the IIIF screenshot (p004), which shows the body text with gold roundel duraklar and colored cetvels only.",
+    "technique_terms": {
+      "ottoman": "mülevven; nefis tezhibli; kenarları halkârî yaldızlı; yaldız cetvelli; duraklar; hizib gülleri mülevven tezhibli; sûre çerçeveleri yaldızlı; yer yer oksitlenmiş",
+      "persian": "halkārī (حلکاری); taẕhīb (تذهیب); mulavvan (ملوّن)",
+      "arabic": "mushaf (مصحف); jadwal mudhahdhab (جدول مذهّب); durak / waqfa (وقفة); ḥizb (حزب)"
+    },
+    "catalogue_description": {
+      "paper_field": null,
+      "paper_field_normalized": null,
+      "notes_field": "Ilk iki sayfa mulevven, nefis tezhibli ve kenarlari halkari yaldizli, yer yer oksitlenmis, yaldiz cetvelli, duraklar, hizip gulleri mulevven tezhibli, sure cerceveleri yaldizli, kafes semseli, zencerekli, kahverengi mesin mukavva, miklebli, sertabindan ayrilmis, sirt biraz yipranmistir. Cilt ici yesil pandizot kapli ve arkasindan bir yaprak koparilmistir.",
+      "notes_field_normalized": "İlk iki sayfa mülevven, nefis tezhibli ve kenarları halkârî yaldızlı, yer yer oksitlenmiş, yaldız cetvelli, duraklar, hizib gülleri mülevven tezhibli, sûre çerçeveleri yaldızlı, kafes şemseli, zencerekli, kahverengi meşin mukavva, mıkleplı, sertabından ayrılmış, sırt biraz yıpranmıştır. Cilt içi yeşil pandizot kaplı ve arkasından bir yaprak koparılmıştır.",
+      "notes_field_translation": "First two pages are colored (mülevven), with fine illumination and gold halkâr margins. Gilding is partially oxidized. Gold-ruled cetvels throughout. Verse-divider duraklar present. Hizib gül rosettes are colored/illuminated. Sûre frames are gilded. Kafes (lattice) şemse binding with zencerek border, brown leather board, miklep flap closure; detached from spine board; spine slightly worn. Interior covered with green pandizot cloth; one leaf torn from the back.",
+      "source": "YEK portal, genel notlar field, record 590589. Cataloguer: Zeynep Özçelik. Ankara Adnan Ötüken İl Halk Kütüphanesi."
+    }
+  },
+  "workshop_attribution": {
+    "primary_tradition": "ottoman",
+    "workshop_centre": "Istanbul or major provincial centre (probable)",
+    "date_range_ce": "1854–1855",
+    "confidence": 0.65,
+    "key_indicators": [
+      "Dated AH 1271 / CE 1854–55: a precisely dated late Ottoman Quran in a late Tanzimat-period production context",
+      "Cross-category decorative program (mülevven + halkâr + tezhip + gold cedvel) typical of Ottoman luxury mushaf production",
+      "Kafes şemseli binding with zencerek border is a conservative late Ottoman binding type, consistent with Istanbul or established provincial production",
+      "Mülevven tezhibli hizib gülleri and gilded sûre çerçeveleri are standard Quran production features of the period"
+    ],
+    "cross_tradition_caveats": [
+      "Late Ottoman Quran production (19th century) was geographically dispersed; without a colophon naming a city the distinction between Istanbul and a major Anatolian centre (e.g. Bursa, Konya, Kastamonu) cannot be made on available evidence",
+      "Partial oxidation of gilding noted; the condition may affect detailed stylistic comparisons",
+      "Opening bifolio (the primary decorated surface) not captured in the available IIIF screenshot"
+    ]
+  },
+  "codicology": {
+    "paper": {
+      "color": "Not specified for text block; colored (mülevven) opening bifolio",
+      "preparation": "Not specified",
+      "weight": "Not specified",
+      "decoration": "Opening bifolio: mülevven with nefis tezhip and gold halkâr margins; remainder: gold cedvel framing, illuminated sûre headpieces, hizib gülleri"
+    },
+    "ruling": {
+      "system": "Yaldız cetvelli (gold ruling) throughout; colored cetvels also visible in screenshot (green/teal)",
+      "description": "Gold cedvel framing around text block throughout the manuscript. The IIIF screenshot (p004) shows colored cetvels (greenish/teal) around the text block with gold roundel duraklar between verses. A more elaborate cedvel system likely frames the opening bifolio."
+    },
+    "binding": {
+      "cover_description": "Kafes şemseli, zencerekli, kahverengi meşin mukavva, mıkleplı cilt. Interior covered with green pandizot cloth.",
+      "cover_description_translation": "Lattice-pattern (kafes) şemse medallion binding with zencerek (chain) border, brown leather (meşin) boards, miklep flap closure.",
+      "condition": "Sertabından ayrılmış (detached from spine board); sırt biraz yıpranmış (spine slightly worn); one leaf torn from back endpapers",
+      "notes": "The kafes şemse is a conservative late Ottoman binding type with geometric lattice-pattern medallion. The zencerek (chain) border is a standard decorative element of Ottoman bindings from the 15th century onward, here used in a 19th-century context."
+    },
+    "format": "mushaf (Quran manuscript)",
+    "condition_summary": "Partially worn: gold gilding shows oxidation in places; binding detached from spine; spine slightly worn; one leaf torn from back. The illuminated decoration of the opening bifolio appears intact based on catalogue description.",
+    "conservation_history": null
+  },
+  "visual_confirmation": {
+    "verdict": "probable",
+    "confidence": 0.65,
+    "screenshots_examined": 1,
+    "folios_examined": [
+      "corpus/visual_confirmation_batch3/ankara_06hk4663_p004_iiif.png"
+    ],
+    "visual_evidence": "p004 shows a Quran bifolio from the text body with colored cetvels (greenish/teal) framing the text blocks and gold roundel duraklar between verses. The margin tone is slightly different from the text block, suggesting possible paper treatment but not clearly resolving to halkâr or mülevven paper at this resolution. The opening bifolio with the catalogue-described mülevven + halkâr + tezhip program was not captured.",
+    "limitations": [
+      "Visual ambiguity: the decorated opening bifolio (ilk iki sayfa) with mülevven paper and halkârî yaldızlı margins was not captured in the available IIIF screenshot",
+      "The p004 screenshot shows body text, not the opening; halkâr identification relies entirely on the catalogue description",
+      "Partial oxidation of gilding noted in catalogue; condition may affect visual legibility of the halkâr at lower resolutions"
+    ]
+  },
+  "folio_analyses": [
+    {
+      "folio": "Body text bifolio — p004 (IIIF screenshot)",
+      "source_image": "corpus/visual_confirmation_batch3/ankara_06hk4663_p004_iiif.png",
+      "decoration_present": true,
+      "decoration_types": ["framing_system"],
+      "elements": [
+        {
+          "motif": "Colored cetvels (green/teal) and gold roundel duraklar",
+          "description": "The text block on both pages of the bifolio is framed by colored cetvels in a greenish or teal tone. Gold roundel duraklar appear between verse groups, consistent with standard late Ottoman Quran production. The margins show a slightly different tone from the text area but the specific treatment (halkâr or plain paper) cannot be resolved at screenshot resolution.",
+          "location": "Frame lines around text block; between verse groups throughout",
+          "confidence": 0.75
+        }
+      ],
+      "confidence": 0.65,
+      "notes": "The decorated opening bifolio described in the catalogue (mülevven + halkâr + fine tezhip) was not captured. The verdict of probable (0.65) rests on the catalogue description by Zeynep Özçelik, which is specific and technically precise: 'ilk iki sayfa mülevven, nefis tezhibli ve kenarları halkârî yaldızlı' is unambiguous in its identification of both the colored paper and the gold halkâr margins on the opening."
+    }
+  ],
+  "terminology": {
+    "terms_used": [
+      {
+        "concept": "Colored paper",
+        "ottoman": "mülevven",
+        "arabic": "mulauwwan (ملوّن)",
+        "persian": "mulavvan",
+        "english": "Mülevven: dyed or colored paper. In Quran manuscripts the opening bifolio is sometimes produced on colored paper as a luxury marker, with the rest of the text block on plain paper. Here the mülevven treatment is combined with gold halkâr margins and fine illumination."
+      },
+      {
+        "concept": "Shaded gold floral margin painting",
+        "ottoman": "halkâr / halkârî",
+        "arabic": null,
+        "persian": "halkārī (حلکاری)",
+        "english": "Halkâr/halkârî: shaded gold floral painting applied to the margins of manuscripts. In this Quran the halkâr is described as kenarları halkârî yaldızlı (gold halkâr margins) and is confined to the opening bifolio."
+      },
+      {
+        "concept": "Hizib rosette",
+        "ottoman": "hizib gülü",
+        "arabic": "ḥizb (حزب) rosette",
+        "persian": null,
+        "english": "Hizib gülü: a decorative rosette marker in the text of a Quran indicating a ḥizb division (half-juzʾ, or one-sixtieth of the Quran). In this manuscript the hizib gülleri are mülevven tezhibli — colored and illuminated."
+      },
+      {
+        "concept": "Lattice-pattern binding medallion",
+        "ottoman": "kafes şemse",
+        "arabic": null,
+        "persian": null,
+        "english": "Kafes şemse: a binding medallion decorated with a geometric lattice (kafes = cage/lattice) pattern rather than the floral or arabesque designs of earlier Ottoman şemse types. Characteristic of 18th–19th century Ottoman binding production."
+      }
+    ]
+  },
+  "bibliography": [
+    {
+      "citation": "Blair, Sheila S. 'Color and Gold: The Decorated Papers Used in Manuscripts in Later Islamic Times.' Muqarnas 17 (2000): 24–36.",
+      "relevance": "Foundational taxonomic study of decorated papers in Islamic manuscripts. Directly relevant to the classification of the mülevven opening paper and gold halkâr margin painting program in this Quran.",
+      "relevance_score": 0.85,
+      "access_notes": "Peer-reviewed article. Available via JSTOR."
+    },
+    {
+      "citation": "Déroche, François. Islamic Codicology: An Introduction to the Study of Manuscripts in Arabic Script. Translated by Deke Dusinberre and David Radzinowicz. London: Al-Furqan Islamic Heritage Foundation, 2005.",
+      "relevance": "Foundational codicological reference covering Quran manuscript conventions including cedvel ruling, hizib and juzʾ markers, surah headpieces, and the physical structure of the mushaf — all directly relevant to cataloguing this manuscript.",
+      "relevance_score": 0.88,
+      "access_notes": "Widely held monograph."
+    },
+    {
+      "citation": "Tanındı, Zeren. 'Illuminated Quran Manuscripts in Ottoman Turkey.' In The Quran: Catalogue of an Exhibition of Quran Manuscripts at the British Library. London: World of Islam Festival Trust, 1976.",
+      "relevance": "Survey of Ottoman Quran illumination traditions including the standard decorative program of mushaf manuscripts (opening bifolios, surah headpieces, verse dividers, hizib rosettes). Provides comparative context for the multi-element program documented in this late Ottoman Quran.",
+      "relevance_score": 0.80,
+      "access_notes": "Exhibition catalogue. Verify precise citation details against library holdings."
+    },
+    {
+      "citation": "Scheper, Karin. The Technique of Islamic Bookbinding: Methods, Materials and Regional Varieties. Leiden: Brill, 2015.",
+      "relevance": "The standard technical reference for Islamic bookbinding, covering kafes şemse and zencerek border types, leather binding construction, and late Ottoman binding conventions. Relevant to the description of the kafes şemseli, zencerekli binding noted in the catalogue.",
+      "relevance_score": 0.72,
+      "access_notes": "Widely held monograph."
+    }
+  ],
+  "suggested_collections": [
+    {
+      "institution": "YEK Portal — Ankara Adnan Ötüken İl Halk Kütüphanesi",
+      "reason": "Other Quran manuscripts in the same collection may provide comparative material for dating and contextualizing this late Ottoman mushaf production.",
+      "digital_access": "https://portal.yek.gov.tr"
+    },
+    {
+      "institution": "Chester Beatty Library, Dublin",
+      "reason": "Holds important Ottoman Quran manuscripts including 19th-century examples with mülevven openings and halkâr margins, providing direct visual comparanda.",
+      "digital_access": "https://viewer.cbl.ie"
+    }
+  ],
+  "provenance": {
+    "donor": null,
+    "waqf": null,
+    "previous_shelfmarks": [],
+    "notes": "Held at Ankara Adnan Ötüken İl Halk Kütüphanesi. YEK ID: 590589. IIIF ID: 0000000541727. No waqf or donor information in the available catalogue record. Cataloguer: Zeynep Özçelik."
+  },
+  "analysis_metadata": {
+    "analyzed_date": "2026-02-27",
+    "analyzer": "claude-code-manuscript-pipeline",
+    "pipeline_stage": "metadata-generator",
+    "image_source": "YEK Portal IIIF viewer screenshot (YEK ID 590589, IIIF ID 0000000541727) — captured by visual-confirmation agent during Batch 3 confirmation session (2026-02-26)",
+    "image_quality_notes": "One screenshot of body text (p004) at IIIF viewer resolution. The decorated opening bifolio was not captured. Verdict of probable (0.65) rests primarily on the catalogue description. The visible cetvels and duraklar confirm general Quran production context but do not resolve the halkâr or mülevven paper identification. Visual ambiguity is the principal limiting factor.",
+    "folios_examined": [
+      "corpus/visual_confirmation_batch3/ankara_06hk4663_p004_iiif.png"
+    ],
+    "folios_not_examined": "The decorated opening bifolio (ilk iki sayfa: mülevven + halkâr + tezhip) was not captured. Priority for follow-up: navigate IIIF viewer to the opening pages (pp. 1–4) to visually confirm the mülevven paper and halkârî margin painting.",
+    "source_data": {
+      "yek_id": "590589",
+      "iiif_id": "0000000541727",
+      "visual_confirmation_file": "catalog/searches/visual_confirmation_2026-02-26_batch3.json",
+      "batch": "Batch 3 (marbled/colored/halkâr)",
+      "cataloguer": "Zeynep Özçelik"
+    }
+  }
+}

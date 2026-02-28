@@ -1,0 +1,207 @@
+{
+  "record_id": "yazma_bagislar_08418",
+  "collection": {
+    "institution": "Süleymaniye Kütüphanesi — Yazma Bağışlar Koleksiyonu",
+    "city": "Istanbul",
+    "country": "Turkey",
+    "shelfmark": "08418",
+    "yek_url": "https://portal.yek.gov.tr/yazmaeser/eser-detay/682816"
+  },
+  "manuscript": {
+    "title": "İlm-i Hâl",
+    "author": null,
+    "date_ah": null,
+    "date_ce": null,
+    "format": "ilm-i hâl (catechetical / liturgical primer)",
+    "dimensions_mm": {
+      "height": null,
+      "width": null
+    },
+    "folio_count": 40,
+    "yek_id": "682816",
+    "iiif_id": "0000000658181",
+    "notes": "Anonymous, undated short Turkish-language catechetical text (ilm-i hâl) in 40 folios. Harekeli (fully vowelled) Nesih script. The opening bifolio (ff. 1b–2a) is decorated with gold halkâr margin paintings and an illuminated serlevha. The binding uses ebrulu kâğıt (marbled paper) on covers, with brown leather spine and edges — this marbled paper is a binding feature, not page decoration, and has been distinguished from the halkâr page margin programme. Gold roundel duraklar appear in the text block."
+  },
+  "paper_decoration": {
+    "types": ["halkar_margins", "illuminated_margins", "framing_system"],
+    "summary": "The opening bifolio (ff. 1b–2a) features gold halkâr (halkârî) margin painting with scrolling vine and leaf motifs throughout the margins of both pages. An illuminated headpiece (serlevha) is present on the right-hand page (f. 1b). Gold roundel duraklar (verse/section markers) punctuate the text. The halkâr is executed in gold technique with organic, flowing scrollwork. The binding incorporates ebrulu kâğıt (marbled paper) as cover paper, but this is a binding decoration only and has no bearing on the classification of the page paper decoration. The full extent of the halkâr programme beyond ff. 1b–2a is unconfirmed.",
+    "technique_terms": {
+      "ottoman": "halkârî tezyinatlıdır; serlevha; durak; ebrulu cilt kâğıdı",
+      "persian": "halkārī (حلکاری); sarlawḥ (سرلوح)",
+      "arabic": "ḥāshiya (حاشية); ʿunwān (عنوان)"
+    },
+    "catalogue_description": {
+      "paper_field": null,
+      "notes_field": "1b-2a halkari tezyinatlidir.",
+      "decoration_field": null
+    }
+  },
+  "workshop_attribution": {
+    "primary_tradition": "ottoman",
+    "workshop_centre": null,
+    "date_range_ce": null,
+    "confidence": 0.40,
+    "key_indicators": [
+      "Gold halkâr with scrolling vine and leaf motifs: standard Ottoman luxury halkâr vocabulary",
+      "Illuminated serlevha with gold and colour on opening folio: consistent with Ottoman manuscript conventions",
+      "Gold roundel duraklar in text: characteristic Ottoman Quranic/religious text decoration",
+      "Short ilm-i hâl format with luxury opening decoration: a common Ottoman pattern for devotional gift manuscripts",
+      "Ebrulu kâğıt binding covers: confirms Ottoman production context (marbled paper bindings standard in Ottoman Istanbul)"
+    ],
+    "cross_tradition_caveats": [
+      "Manuscript is undated and anonymous; no colophon, no patron name, no dated comparable in the opening",
+      "Workshop centre entirely undetermined; could range from Istanbul to any Ottoman provincial centre capable of halkâr work",
+      "Low attribution confidence (0.40) reflects absence of any dating or provenance anchor beyond the broad Ottoman tradition identification"
+    ]
+  },
+  "codicology": {
+    "paper": {
+      "description": "Not individually described in catalogue. Text paper assumed plain (uncolored, undecorated) based on absence of any kâğıt özellikleri record.",
+      "watermarks": null,
+      "color": "Not described; text pages presumably plain"
+    },
+    "ruling": {
+      "description": "Ruling details not recorded in catalogue; cetvels implied by the halkâr framing context",
+      "lines_per_page": null,
+      "columns": null
+    },
+    "binding": {
+      "description": "Ebrulu kâğıt (marbled paper) covers, with brown leather (kahverengi deri) at edges and spine, on board (mukavva). The marbled paper is a binding cover feature, not a page paper decoration.",
+      "material": "marbled paper covers; brown leather spine and edges; board (mukavva)",
+      "features": ["ebrulu kâğıt covers", "kahverengi deri kenar ve sırt", "mukavva"]
+    },
+    "format": "ilm-i hâl",
+    "condition_summary": "No condition issues noted in catalogue record. Opening bifolio decoration appears intact at IIIF viewer resolution.",
+    "conservation_history": null
+  },
+  "visual_confirmation": {
+    "verdict": "confirmed",
+    "confidence": 0.93,
+    "screenshots_examined": 1,
+    "limitations": [
+      "Only the opening bifolio (p004 IIIF viewer page) was examined; full extent of decoration programme beyond ff. 1b–2a not verified",
+      "Gold halkâr brushwork detail not fully resolvable at IIIF viewer resolution",
+      "Binding ebrulu kâğıt (marbled paper covers) not examined at high resolution; marbled paper type (battal, hatip, etc.) undetermined"
+    ]
+  },
+  "folio_analyses": [
+    {
+      "folio": "ff. 1b–2a",
+      "iiif_page": "p004",
+      "screenshot_file": "corpus/visual_confirmation_batch3/yazma_bagislar_08418_p004_iiif.png",
+      "decoration_observed": [
+        "Gold halkâr ornamentation filling all margins of both pages: flowing scrolling vine and leaf motifs in gold technique",
+        "Illuminated headpiece (serlevha) on right page (f. 1b): coloured and gold",
+        "Gold roundel duraklar (section markers) visible in text block",
+        "Text in Harekeli Nesih (fully vowelled Naskh) script, confirming religious/catechetical genre"
+      ],
+      "confidence": 0.93,
+      "classification": "halkar_margins, illuminated_margins, framing_system",
+      "notes": "Organic flowing gold halkâr scrollwork clearly visible in margins. The vine-and-leaf vocabulary is less elaborately naturalistic than the polychrome shükûfe halkâr of muglali_hoca_mustafa_00035; this is a monochrome (gold-only) halkâr programme consistent with a simpler but still luxury Ottoman devotional manuscript."
+    }
+  ],
+  "terminology": {
+    "terms_used": [
+      {
+        "concept": "Shaded gold floral margin painting",
+        "ottoman": "halkâr / halkârî (حلکاری)",
+        "arabic": null,
+        "persian": "halkārī (حلکاری)",
+        "english": "Shaded gold floral or foliate painting in manuscript margins; here executed in gold only (monochrome gold halkâr)"
+      },
+      {
+        "concept": "Illuminated headpiece",
+        "ottoman": "serlevha",
+        "arabic": "ʿunwān (عنوان)",
+        "persian": "sarlawḥ (سرلوح)",
+        "english": "Illuminated headpiece at the opening of a text"
+      },
+      {
+        "concept": "Verse / section marker",
+        "ottoman": "durak",
+        "arabic": "waqf (وقف)",
+        "persian": null,
+        "english": "Roundel or rosette used as a section or verse marker within the text block; in Ottoman religious texts often in gold"
+      },
+      {
+        "concept": "Catechetical primer",
+        "ottoman": "ilm-i hâl (علم حال)",
+        "arabic": "ʿilm al-ḥāl",
+        "persian": null,
+        "english": "Ottoman Turkish devotional/catechetical manual covering religious duties; the most widely produced Ottoman popular religious text"
+      },
+      {
+        "concept": "Marbled paper (binding covers)",
+        "ottoman": "ebrulu kâğıt (ابری کاغذ)",
+        "arabic": null,
+        "persian": "kāġaẕ-i abrī (کاغذ ابری)",
+        "english": "Marbled paper used here on the binding covers only; not page decoration"
+      },
+      {
+        "concept": "Ruling / frame lines",
+        "ottoman": "cedvel (جدول)",
+        "arabic": "jadwal (جدول)",
+        "persian": "jadval",
+        "english": "Frame ruling around the text block"
+      }
+    ]
+  },
+  "bibliography": [
+    {
+      "citation": "Blair, Sheila S. 'Color and Gold: The Decorated Papers Used in Manuscripts in Later Islamic Times.' Muqarnas 17 (2000): 24–36.",
+      "relevance": "Core reference for halkâr margin painting technique in Ottoman and Safavid manuscripts; provides typological framework for distinguishing gold-only versus polychrome halkâr programmes.",
+      "relevance_score": 0.80,
+      "access_notes": "Available via JSTOR and open-access repositories."
+    },
+    {
+      "citation": "Tanındı, Zeren. 'Bibliophile Aghas (Agas) at Topkapi Saray.' Muqarnas 18 (2001): 218–228.",
+      "relevance": "Ottoman luxury manuscript production culture; context for halkâr-decorated devotional texts in Ottoman collector environments.",
+      "relevance_score": 0.65,
+      "access_notes": "Available via JSTOR."
+    },
+    {
+      "citation": "Scheper, Karin. The Technique of Islamic Bookbinding: Methods, Materials and Regional Varieties. Leiden: Brill, 2015.",
+      "relevance": "Standard technical reference for Ottoman bookbinding including the use of ebrulu kâğıt (marbled paper) as binding cover material; relevant to distinguishing binding versus page decoration in this record.",
+      "relevance_score": 0.75,
+      "access_notes": "Available via Brill Online and major research libraries."
+    },
+    {
+      "citation": "Bloom, Jonathan M. Paper Before Print: The History and Impact of Paper in the Islamic World. New Haven: Yale University Press, 2001.",
+      "relevance": "Foundational reference for Islamic paper history and production; background for understanding paper types and decoration in Ottoman manuscripts.",
+      "relevance_score": 0.55,
+      "access_notes": "Available in major research libraries."
+    },
+    {
+      "citation": "Gacek, Adam. The Arabic Manuscript Tradition: A Glossary of Technical Terms and Bibliography. Leiden: Brill, 2001.",
+      "relevance": "Reference for codicological terminology including durak, serlevha, and framing systems; used for standardised catalogue description.",
+      "relevance_score": 0.60,
+      "access_notes": "Available via Brill Online and institutional subscriptions."
+    }
+  ],
+  "suggested_collections": [
+    {
+      "institution": "Süleymaniye Kütüphanesi (other Yazma Bağışlar and general collections)",
+      "reason": "The Yazma Bağışlar collection at Süleymaniye contains numerous Ottoman ilm-i hâl manuscripts with comparable modest luxury programmes; in-person comparison recommended.",
+      "digital_access": "https://portal.yek.gov.tr"
+    },
+    {
+      "institution": "Topkapı Sarayı Müzesi Kütüphanesi",
+      "reason": "Holding of Ottoman court-adjacent devotional texts with halkâr openings; provides high-quality comparanda for gold halkâr vine-scroll programmes.",
+      "digital_access": "https://kutuphane.tsmk.gov.tr"
+    }
+  ],
+  "provenance": {
+    "donor": null,
+    "waqf": "Yazma Bağışlar Koleksiyonu, Süleymaniye Kütüphanesi",
+    "previous_shelfmarks": [],
+    "notes": "Donated to Süleymaniye Kütüphanesi as part of the Yazma Bağışlar (Manuscript Donations) collection. Identity of donor and earlier provenance unknown."
+  },
+  "analysis_metadata": {
+    "analyzed_date": "2026-02-27",
+    "analyzer": "claude-code-manuscript-pipeline",
+    "image_source": "YEK IIIF viewer (portal.yek.gov.tr / iiif_id: 0000000658181)",
+    "image_quality_notes": "IIIF viewer resolution sufficient for macro-level halkâr identification and classification. Fine gold brushwork detail within the halkâr not fully resolvable. Serlevha colour values readable.",
+    "folios_examined": ["ff. 1b–2a (p004 IIIF)"],
+    "folios_not_examined": "Approximately 38 remaining text folios not examined. Full extent of halkâr decoration beyond the opening bifolio unverified."
+  }
+}

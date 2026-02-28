@@ -1,0 +1,215 @@
+{
+  "record_id": "milli_kutuphane_fb393",
+  "collection": {
+    "institution": "Milli Kütüphane Yazmalar",
+    "city": "Ankara",
+    "country": "Turkey",
+    "shelfmark": "06 Mil Yz FB 393",
+    "yek_url": "https://portal.yek.gov.tr/yazmaeser/eser-detay/616811"
+  },
+  "manuscript": {
+    "title": "Nasîhatü'l-Mülûk",
+    "title_script": "نصيحة الملوك",
+    "title_alt": null,
+    "author": "Mustafâ Mîrzâ b. Abd er-Ra'ûf (active c. 1100/1689)",
+    "date_ah": "1106",
+    "date_ce": "1694–1695",
+    "format": "nasihatname (mirror for princes / political advice literature)",
+    "language": "Ottoman Turkish",
+    "script": "Nesih (Naskh)",
+    "dimensions_mm": {
+      "height": null,
+      "width": null
+    },
+    "folio_count": null,
+    "yek_id": "616811",
+    "iiif_id": "0000000565795",
+    "notes": "A nasihatname (mirror-for-princes text) copied in AH 1106 / CE 1694–95, apparently produced as a royal commission for Sultan II. Mustafa (r. 1695–1703). An inscription on f. 1a in a gilded circle with white script (sari yaldizli daire icinde beyazla yazili ibare) states the manuscript was copied for Sultan II. Mustafa (istinsah edildiğine dair). This is a significant indicator of an official commission likely completed in anticipation of or immediately following II. Mustafa's accession. The mihrabiye (mihrâb-arch headpiece) is described as XVII. yüzyıl mavi boyalı, tezhibli (seventeenth-century blue-painted and illuminated), suggesting either a traditional programme or a retrospective attribution to 17th-century style. F. 3b has a şükûfe kârî başlık (flower-decorated title heading). Word-beginnings throughout are in red."
+  },
+  "paper_decoration": {
+    "types": [
+      "halkar_margins",
+      "illuminated_margins",
+      "framing_system"
+    ],
+    "summary": "A probable royal-commission nasihatname (AH 1106 / CE 1694–95, for Sultan II. Mustafa) with a concentrated opening programme combining genuine page halkâr with illuminated headpieces. The folio 3a bears şükûfe halkârî nakış — shükûfe (flower) halkâr painting on the page margin — identified as genuine page decoration in the catalogue. F. 3b has a şükûfe kârî decorated title heading. A mihrabiye (mihrâb-arch opening headpiece) in blue paint and tezhip illumination opens the text. The framing system uses cetvels visible in the screenshot as green/olive ruling. Word-beginnings are in red throughout. IMPORTANT: the binding of this manuscript is described as köşebentli halkârî salbek gömme şemseli kahverengi mıkleplı meşin cilt (a brown leather binding with halkâr-decorated salbek pendant medallion and köşebend corner pieces) — this binding halkâr is a SEPARATE feature from the page halkâr on f. 3a and should not be confused with the page decoration programme.",
+    "distribution_notes": "Page halkâr (genuine): f. 3a şükûfe halkârî nakış. F. 3b: şükûfe kârî başlık (decorated title heading). Mihrabiye: blue-painted + illuminated headpiece. F. 1a: inscription in gilded circle (white text on gold) stating the royal commission for Sultan II. Mustafa. BINDING halkâr (FP for page decoration purposes): köşebentli halkârî salbek gömme şemseli cilt — this is halkâr on the binding cover, NOT on the pages. Cetvels throughout.",
+    "fp_note": "The catalogue description opens with binding features: 'Köşebentli halkârî salbek gömme şemseli kahverengi mıkleplı meşin cilt.' This is binding halkâr (halkâr on the salbek pendant-medallion of the leather cover), which is classified as a false positive for page decoration. The term 'halkârî salbek gömme şemseli' refers to the recessed (gömme) medallion with salbek (pendant) on the binding — a known binding FP formula (cf. terminology-reference.md: 'halkârî salbek şemseli — halkâr pendant-medallion (Tokat binding FP)'). The GENUINE page halkâr is separately documented on f. 3a: 'şükûfe halkârî nakış' — a distinct and unambiguous phrase identifying flower halkâr painting on the page.",
+    "technique_terms": {
+      "ottoman": "şükûfe halkârî nakış; şükûfe kârî başlık; mihrabiye XVII. yüzyıl mavi boyalı, tezhibli; sari yaldizli daire icinde beyazla yazili ibare; söz başları kırmızı; cetvelli",
+      "persian": "halkārī (حلکاری); šukūfa (شکوفه); miḥrāb-nāma (محراب‌نامه); naṣīḥat al-mulūk (نصیحة الملوک)",
+      "arabic": "naṣīḥat al-mulūk (نصيحة الملوك); jadwal (جدول)"
+    },
+    "catalogue_description": {
+      "paper_field": null,
+      "paper_field_normalized": null,
+      "notes_field": "Cilt ozelligi: Kosebentli halkari salbek gomme semseli kahverengi miklepli mesin cilt. Tezhip: Mihrabiye XVII. yuzyil mavi boyali, tezhipli, 3a'da sukufe halkari nakis, 3b'de sukufe kari basliklidir. Soz baslari kirmizidir. 1a'da Sultan II. Mustafa adina istinsah edildigine dair sari yaldizli daire icinde beyazla yazili ibare bulunur.",
+      "notes_field_normalized": "Cilt özelliği: Köşebentli halkârî salbek gömme şemseli kahverengi mıkleplı meşin cilt. Tezhip: Mihrabiye XVII. yüzyıl mavi boyalı, tezhibli, 3a'da şükûfe halkârî nakış, 3b'de şükûfe kârî başlıklıdır. Söz başları kırmızıdır. 1a'da Sultan II. Mustafa adına istinsah edildiğine dair sarı yaldızlı daire içinde beyazla yazılı ibare bulunur.",
+      "notes_field_translation": "Binding: Brown leather miklep-flap binding with halkâr-decorated köşebend corner pieces and recessed salbek şemse medallion. [BINDING — not page decoration.] Illumination: Mihrabiye headpiece, seventeenth-century style, blue-painted and illuminated. F. 3a has şükûfe halkâr painting [GENUINE PAGE HALKÂR]. F. 3b has a şükûfe-decorated title heading. Word-beginnings are in red. On f. 1a an inscription in a gold circle with white text states that [this manuscript] was copied for Sultan II. Mustafa.",
+      "source": "YEK portal, genel notlar field, record 616811. Milli Kütüphane Yazmalar."
+    }
+  },
+  "workshop_attribution": {
+    "primary_tradition": "ottoman",
+    "workshop_centre": "Istanbul — probable royal commission (Sultan II. Mustafa)",
+    "date_range_ce": "1694–1695",
+    "confidence": 0.75,
+    "key_indicators": [
+      "F. 1a inscription states the manuscript was istinsah edildiğine dair (copied for) Sultan II. Mustafa (r. 1695–1703) — direct evidence of a royal commission at or just before his accession in 1695",
+      "AH 1106 / CE 1694–95 date places production within the reign of Sultan II. Ahmed (r. 1691–1695), immediately prior to II. Mustafa's accession — likely a presentation copy prepared in anticipation",
+      "The mihrabiye in XVII. yüzyıl mavi boyalı, tezhibli style indicates a consciously retrospective decorative programme referencing 17th-century Istanbul court illumination conventions",
+      "Şükûfe halkârî (naturalistic flower halkâr) on f. 3a is consistent with the decorative vocabulary of the nakkaşhâne-i hümâyun of the late 17th century"
+    ],
+    "cross_tradition_caveats": [
+      "The single IIIF screenshot (p007) captured only body text; neither the f. 3a page halkâr nor the f. 1a commission inscription was directly examined",
+      "The 'XVII. yüzyıl' attribution of the mihrabiye style is the cataloguer's characterization, not a verifiable date; it may indicate style rather than literal date of the headpiece",
+      "Confidence is 0.75 due to the strong royal-commission indicator on f. 1a offset by the resolution limitation on the halkâr identification"
+    ]
+  },
+  "codicology": {
+    "paper": {
+      "color": "Not specified for text block",
+      "preparation": "Not specified",
+      "weight": "Not specified",
+      "decoration": "Şükûfe halkârî nakış on f. 3a; mihrabiye blue-painted and illuminated; colored ruling throughout"
+    },
+    "ruling": {
+      "system": "Cetvelli (ruled framing system); visible as green/olive ruling in IIIF screenshot",
+      "description": "The IIIF screenshot (p007) shows green/olive cetvels framing the text blocks. The specific cedvel color combination is not enumerated in the catalogue description beyond the general 'cetvelli' indication implied by the manuscript's decorative context."
+    },
+    "binding": {
+      "cover_description": "Köşebentli halkârî salbek gömme şemseli kahverengi mıkleplı meşin cilt",
+      "cover_description_translation": "Brown leather miklep-flap binding with halkâr-decorated köşebend corner pieces and recessed (gömme) salbek şemse medallion.",
+      "notes": "NOTE: The binding halkâr (halkârî salbek gömme şemse) is a decoration on the leather binding cover — it is NOT page halkâr. This is a known binding false-positive formula. The halkâr decoration on the binding medallion (salbek şemse) is visually and technically distinct from the şükûfe halkârî nakış documented on f. 3a of the text block. Both are recorded here for completeness."
+    },
+    "format": "nasihatname (mirror for princes)",
+    "condition_summary": "No condition damage noted in the catalogue record. The binding is described without condition notes. The decorative programme appears intact based on catalogue description.",
+    "conservation_history": null
+  },
+  "visual_confirmation": {
+    "verdict": "probable",
+    "confidence": 0.60,
+    "screenshots_examined": 1,
+    "folios_examined": [
+      "corpus/visual_confirmation_batch3/milli_kutuphane_fb393_p007_iiif.png"
+    ],
+    "visual_evidence": "p007 shows a body-text bifolio with green/olive cetvels framing the text blocks. The margin areas show possible subtle decoration, but the şükûfe halkâr painting on f. 3a (the key decorative feature) is not visible on this folio. The resolution is insufficient to resolve any margin treatment at this page position.",
+    "limitations": [
+      "Resolution limitation: the şükûfe halkârî nakış on f. 3a is not identifiable at IIIF screenshot resolution",
+      "The p007 screenshot captures body text, not f. 3a where the page halkâr is documented",
+      "The f. 1a commission inscription (sarı yaldızlı daire içinde beyazla yazılı ibare) was also not captured",
+      "Identification of page halkâr relies on the catalogue description rather than direct visual confirmation"
+    ]
+  },
+  "folio_analyses": [
+    {
+      "folio": "Body text bifolio — p007 (IIIF screenshot)",
+      "source_image": "corpus/visual_confirmation_batch3/milli_kutuphane_fb393_p007_iiif.png",
+      "decoration_present": true,
+      "decoration_types": ["framing_system"],
+      "elements": [
+        {
+          "motif": "Green/olive cetvels",
+          "description": "Green or olive-toned cetvels frame the text blocks on both pages of the bifolio. The margin areas are visible but any halkâr painting cannot be resolved at the screenshot resolution for this body-text opening. The cetvels are consistent with an Ottoman manuscript of the 17th–early 18th century period.",
+          "location": "Frame lines around text block, both pages",
+          "confidence": 0.70
+        }
+      ],
+      "confidence": 0.60,
+      "notes": "The page halkâr is documented on f. 3a: 'şükûfe halkârî nakış' is a specific and technically precise catalogue phrase identifying flower halkâr painting on the page margin — distinct from the binding halkâr (köşebentli halkârî salbek gömme şemseli) described separately for the cover. The probable verdict (0.60) reflects the specificity of the catalogue description and the royal commission context, offset by the absence of direct visual confirmation of the f. 3a halkâr at this stage."
+    }
+  ],
+  "terminology": {
+    "terms_used": [
+      {
+        "concept": "Şükûfe halkâr page painting",
+        "ottoman": "şükûfe halkârî nakış",
+        "arabic": null,
+        "persian": "halkārī (حلکاری); šukūfa (شکوفه)",
+        "english": "Şükûfe halkârî nakış: a specific YEK cataloguing phrase meaning 'şükûfe (flower) halkâr painting/decoration', documented on f. 3a of this manuscript. Şükûfe denotes naturalistic Ottoman flowers (tulips, roses, carnations, peonies); halkârî refers to the shaded gold floral painting technique; nakış means ornamental design/painting. This distinguishes page halkâr from the binding halkâr described in the same catalogue entry."
+      },
+      {
+        "concept": "Binding halkâr salbek medallion (false positive context)",
+        "ottoman": "halkârî salbek gömme şemse",
+        "arabic": null,
+        "persian": null,
+        "english": "Halkârî salbek gömme şemse: a binding decoration type — a recessed (gömme) medallion with pendant (salbek) decorated with halkâr painting, applied to the leather cover. This is a known false-positive pattern for page decoration in YEK cataloguing: 'halkârî' in this phrase refers to binding ornament, not page halkâr. In this manuscript both binding halkâr AND genuine page halkâr are present simultaneously, making precise disambiguation of the catalogue text essential."
+      },
+      {
+        "concept": "Mihrāb-arch headpiece",
+        "ottoman": "mihrabiye",
+        "arabic": "miḥrāb (محراب)",
+        "persian": "miḥrāb-nāma",
+        "english": "Mihrabiye: an illuminated headpiece in the form of a mihrāb arch (mosque prayer niche). A standard Ottoman and Persian manuscript opening headpiece type, here described as XVII. yüzyıl mavi boyalı, tezhibli — seventeenth-century style, blue-painted and illuminated."
+      },
+      {
+        "concept": "Mirror for princes / political advice text",
+        "ottoman": "nasihatname",
+        "arabic": "naṣīḥat al-mulūk (نصيحة الملوك)",
+        "persian": "andarz-nāma / naṣīḥat al-mulūk (نصیحة الملوک)",
+        "english": "Nasihatname: a genre of Ottoman political literature offering counsel to rulers on governance, justice, and statecraft. The naṣīḥat al-mulūk (advice for kings) genre extends from classical Islamic political thought through the Ottoman period. The production of a luxury copy of a nasihatname as a royal gift or commission is well-documented."
+      }
+    ]
+  },
+  "bibliography": [
+    {
+      "citation": "Blair, Sheila S. 'Color and Gold: The Decorated Papers Used in Manuscripts in Later Islamic Times.' Muqarnas 17 (2000): 24–36.",
+      "relevance": "Foundational taxonomic study of decorated papers. Directly relevant to classifying the şükûfe halkârî nakış on f. 3a and distinguishing it from the binding halkâr on the cover medallion.",
+      "relevance_score": 0.82,
+      "access_notes": "Available via JSTOR."
+    },
+    {
+      "citation": "Tanındı, Zeren. 'Manuscript Production in the Ottoman Palace Workshop.' Manuscripts of the Middle East 5 (1990–91): 67–98.",
+      "relevance": "Key study of the nakkaşhâne-i hümâyun, directly relevant to the attribution of this probable royal-commission nasihatname to an Istanbul court workshop. The late 17th-century decorative vocabulary including şükûfe halkâr and blue-painted mihrabiye headpieces falls within the period covered by Tanındı's study of court production.",
+      "relevance_score": 0.85,
+      "access_notes": "Article title paraphrased; verify against library holdings."
+    },
+    {
+      "citation": "Fleischer, Cornell H. Bureaucrat and Intellectual in the Ottoman Empire: The Historian Mustafa Âli (1541–1600). Princeton: Princeton University Press, 1986.",
+      "relevance": "While focused on a different author, this study provides essential context for the Ottoman nasihatname genre and the court conditions under which advice literature for sultans was produced and presented — relevant to understanding the significance of a nasihatname prepared as a royal commission for Sultan II. Mustafa.",
+      "relevance_score": 0.65,
+      "access_notes": "Widely held monograph."
+    },
+    {
+      "citation": "Gacek, Adam. Arabic Manuscripts: A Vademecum for Readers. Handbook of Oriental Studies, Section 1, vol. 98. Leiden: Brill, 2009.",
+      "relevance": "Standard terminological and codicological reference covering ruling systems, headpiece types (mihrabiye), and waqf and commission inscription conventions, all directly relevant to this record.",
+      "relevance_score": 0.72,
+      "access_notes": "Widely held monograph."
+    }
+  ],
+  "suggested_collections": [
+    {
+      "institution": "Topkapı Sarayı Müzesi Arşivleri, Istanbul",
+      "reason": "Holds manuscripts commissioned for Sultan II. Mustafa and comparable late 17th-century court productions. Direct comparanda for this nasihatname's decorative programme and commission context are most likely to be found in the Topkapı archive.",
+      "digital_access": "https://kutuphane.tsmk.gov.tr"
+    },
+    {
+      "institution": "Milli Kütüphane Yazmalar, Ankara",
+      "reason": "Other manuscripts in the same collection with şükûfe halkâr programmes or late 17th-century royal commission contexts may provide comparative material.",
+      "digital_access": "https://portal.yek.gov.tr"
+    }
+  ],
+  "provenance": {
+    "donor": null,
+    "waqf": null,
+    "previous_shelfmarks": [],
+    "notes": "F. 1a bears an inscription in a gold circle with white text stating the manuscript was copied for Sultan II. Mustafa (r. 1695–1703). The copy is dated AH 1106 / CE 1694–95, placing production in the final year of Sultan II. Ahmed's reign (r. 1691–1695) — possibly prepared in anticipation of or immediately after II. Mustafa's accession. Now held at Milli Kütüphane Yazmalar, Ankara. YEK ID: 616811. IIIF ID: 0000000565795. No cataloguer name recorded in the source data."
+  },
+  "analysis_metadata": {
+    "analyzed_date": "2026-02-27",
+    "analyzer": "claude-code-manuscript-pipeline",
+    "pipeline_stage": "metadata-generator",
+    "image_source": "YEK Portal IIIF viewer screenshot (YEK ID 616811, IIIF ID 0000000565795) — captured by visual-confirmation agent during Batch 3 confirmation session (2026-02-26)",
+    "image_quality_notes": "One screenshot of body text (p007) at IIIF viewer resolution. The şükûfe halkârî nakış on f. 3a and the commission inscription on f. 1a were not captured. Verdict of probable (0.60) rests on the specific catalogue phrase 'şükûfe halkârî nakış' for f. 3a and the royal commission context. Key disambiguation note: the binding halkâr (halkârî salbek gömme şemseli cilt) is explicitly separated from the page halkâr (şükûfe halkârî nakış 3a'da) in both the catalogue text and in this record.",
+    "folios_examined": [
+      "corpus/visual_confirmation_batch3/milli_kutuphane_fb393_p007_iiif.png"
+    ],
+    "folios_not_examined": "F. 1a (commission inscription in gilded circle), f. 3a (şükûfe halkârî nakış — key decorated folio), f. 3b (şükûfe kârî başlık), and the mihrabiye headpiece were not captured. Priority for follow-up: navigate IIIF viewer to ff. 1a, 3a–3b to visually confirm the page halkâr, royal commission inscription, and mihrabiye headpiece.",
+    "source_data": {
+      "yek_id": "616811",
+      "iiif_id": "0000000565795",
+      "visual_confirmation_file": "catalog/searches/visual_confirmation_2026-02-26_batch3.json",
+      "batch": "Batch 3 (marbled/colored/halkâr)"
+    }
+  }
+}

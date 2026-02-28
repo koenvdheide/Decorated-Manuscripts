@@ -1,0 +1,171 @@
+{
+  "record_id": "diyarbakir_12",
+  "collection": {
+    "institution": "Diyarbakır İl Halk Kütüphanesi",
+    "city": "Diyarbakır",
+    "country": "Turkey",
+    "shelfmark": "12",
+    "yek_url": "https://portal.yek.gov.tr/yazmaeser/eser-detay/422432"
+  },
+  "manuscript": {
+    "title": "el-Muhtasar (المختصر)",
+    "author": "Kudûrî, Ebü'l-Hüseyn Ahmed b. Muhammed b. Ahmed el-Bağdâdî el-Kudûrî (أبو الحسين أحمد بن محمد القدوري) (d. 428/1037)",
+    "date_ah": "1109",
+    "date_ce": "1697–1698",
+    "format": "Fiqh manual (Ḥanafī law)",
+    "dimensions_mm": {
+      "height": null,
+      "width": null
+    },
+    "folio_count": null,
+    "yek_id": "422432",
+    "iiif_id": "0000000416794",
+    "notes": "Dated AH 1109 / CE 1697–1698. Arabic text in naskh script. Section headings written in red ink (bölüm başlıkları kırmızı mürekkeple yazılmıştır). The binding is a patterned paper-covered board (desenli kâğıt kaplı mukavva) with dark red/burgundy leather spine, outer edges, and flap (sertab bordo meşin mıkleplı)."
+  },
+  "paper_decoration": {
+    "types": ["colored"],
+    "summary": "The YEK kagit_ozellikleri field describes the paper as 'Abadi ve suyolu filigranli mulevven' — abadi paper with chain-line watermarks (suyolu filigranı), colored (mülevven). Visual examination of p003 shows a distinctly warm orangish-brownish tone that is consistent with a mülevven (colored/dyed) paper ground but cannot be definitively distinguished from paper aging or oxidation at available resolution. The catalogue's explicit use of the term 'mülevven' supports the identification of intentional coloring, making this a probable rather than confirmed record. No gold decoration or elaborate margin ornament is noted; the decoration programme is modest and consistent with a provincial fiqh manuscript of the late 17th century.",
+    "technique_terms": {
+      "ottoman": "mülevven kâğıt; âbâdî kâğıt; suyolu filigranı",
+      "persian": "mulavvan (ملوّن); âbâdī",
+      "arabic": "mulauwwan (ملوّن)"
+    },
+    "catalogue_description": {
+      "paper_field": "Abadi ve suyolu filigranli mulevven.",
+      "notes_field": "Bolum basliklari kirmizi murekkepla yazilmistir.",
+      "decoration_field": null
+    }
+  },
+  "workshop_attribution": {
+    "primary_tradition": "ottoman",
+    "workshop_centre": null,
+    "date_range_ce": "1697–1698 (dated)",
+    "confidence": 0.25,
+    "key_indicators": [
+      "Dated AH 1109 / CE 1697–1698 — late 17th-century Ottoman production, consistent with widespread use of mülevven and âbâdî paper in Ottoman fiqh manuscripts of this period",
+      "Diyarbakır İl Halk Kütüphanesi provenance suggests provincial Anatolian production rather than Istanbul court context",
+      "Naskh script and modest decoration programme (red section headings only) are characteristic of functional scholarly manuscripts, not luxury court commissions"
+    ],
+    "cross_tradition_caveats": [
+      "Mülevven (colored) paper was produced and used across Ottoman, Safavid, and Mughal contexts; the paper color alone cannot establish tradition or centre",
+      "The warm tone seen in p003 may result from aging or oxidation rather than intentional dyeing — this is the primary limiting factor for the probable verdict",
+      "No scribal colophon specifying place of production is recorded in the available catalogue data"
+    ]
+  },
+  "codicology": {
+    "paper": {
+      "description": "Âbâdî paper with chain-line watermarks (suyolu filigranı), colored (mülevven). Âbâdî is a well-known quality paper type used extensively in Ottoman manuscript production; chain-line watermarks indicate a laid paper structure. The warm orangish-brown tone visible in p003 may reflect either intentional dyeing or subsequent aging.",
+      "watermark": "Suyolu filigranı (chain-line watermarks; paper type consistent with Eastern or European laid paper)",
+      "color": "Mülevven — warm orange-brown tone observed on p003; intentional coloring probable but not visually confirmed with certainty"
+    },
+    "ruling": {
+      "description": "Bölüm başlıkları kırmızı mürekkeple yazılmıştır (section headings in red ink). No elaborate cedvel or framing system is noted in the catalogue.",
+      "ink_colors": ["black", "red (for section headings)"],
+      "lines_per_page": null
+    },
+    "binding": {
+      "description": "Sırtı kenarlıkları ve sertabı bordo meşin mıkleplı, desenli kâğıt kaplı mukavva cilt. Board binding (mukavva) covered in patterned paper (desenli kâğıt), with dark red/burgundy leather (bordo meşin) on spine, outer edges, and envelope flap (mıklep). The patterned paper on the binding covers is distinct from the text-block paper and is not counted as manuscript paper decoration.",
+      "binding_type": "Board binding with patterned paper covers and leather spine/edges/flap",
+      "materials": ["mukavva (boards)", "bordo meşin (burgundy leather)", "desenli kâğıt (patterned paper covers)"],
+      "decoration": ["desenli kâğıt kaplı kapaklar", "bordo meşin sırt ve sertab"]
+    },
+    "format": "Fiqh manual",
+    "condition_summary": "Condition not fully assessed from available data. No specific condition flags noted in catalogue.",
+    "conservation_history": null
+  },
+  "visual_confirmation": {
+    "verdict": "probable",
+    "confidence": 0.75,
+    "screenshots_examined": 1,
+    "limitations": [
+      "visual_ambiguity: warm orange-brown tone on p003 is consistent with mülevven (colored/dyed) paper but could also result from uniform paper aging or oxidation; the distinction requires higher-resolution imaging or in-person examination",
+      "Only one IIIF screenshot (p003) examined; extent and uniformity of the colored paper program across the full codex is unassessed",
+      "The catalogue term 'mülevven' supports the identification but cannot substitute for unambiguous visual confirmation of intentional coloring"
+    ]
+  },
+  "folio_analyses": [],
+  "terminology": {
+    "terms_used": [
+      {
+        "concept": "Colored paper",
+        "ottoman": "mülevven kâğıt (ملوّن)",
+        "arabic": "mulauwwan (ملوّن)",
+        "persian": "mulavvan (ملوّن); kāġaḏ-e mulavvan (کاغذ ملوّن)",
+        "english": "Colored / dyed paper: paper that has been dyed or tinted in a single color before writing. In Ottoman manuscripts, mülevven papers appear in warm tones (yellow, orange, rose, blue, green) produced using organic dyes. Distinguished from gold-worked (zerkâri) and gold-sprinkled (zerefşân) papers."
+      },
+      {
+        "concept": "Abadi paper",
+        "ottoman": "âbâdî kâğıt",
+        "arabic": null,
+        "persian": "āḳbādī / âbâdî (کاغذ آبادی)",
+        "english": "Abadi paper: a well-known quality paper type associated with fine-quality Eastern (Iranian/Ottoman) laid paper. Used for luxury and semi-luxury manuscripts in the Ottoman period. Frequently appears as a base paper for mülevven (colored), zerefşân (gold-sprinkled), or zerkâri (gold-worked) treatment."
+      },
+      {
+        "concept": "Chain-line watermark",
+        "ottoman": "suyolu filigranı",
+        "arabic": null,
+        "persian": null,
+        "english": "Chain-line watermark (suyolu filigranı): translucent parallel lines formed in laid paper by the chain wires of the papermaking mould. Distinct from figurative watermarks (filigranı); here described in the YEK catalogue as a paper type descriptor for âbâdî paper."
+      },
+      {
+        "concept": "Hanafi fiqh manual",
+        "ottoman": "muhtasar (مختصر)",
+        "arabic": "mukhtaṣar (مختصر)",
+        "persian": "mukhtaṣar (مختصر)",
+        "english": "Mukhtasar: an abridgement or compendium; as a genre, refers to condensed manuals of Islamic jurisprudence. Al-Kudūrī's Mukhtasar is one of the most widely copied Ḥanafī fiqh primers, produced in large numbers across Ottoman, Safavid, and Mughal manuscript workshops."
+      }
+    ]
+  },
+  "bibliography": [
+    {
+      "citation": "Blair, Sheila S. 'Color and Gold: The Decorated Papers Used in Manuscripts in Later Islamic Times.' Muqarnas 17 (2000): 24–36.",
+      "relevance": "The principal scholarly study of colored and gold-decorated papers (including mülevven) in Islamic manuscripts from the 14th to 19th centuries; directly relevant to the classification and production context of the mülevven âbâdî paper in this manuscript.",
+      "relevance_score": 0.88,
+      "access_notes": "Peer-reviewed. Available via JSTOR."
+    },
+    {
+      "citation": "Bloom, Jonathan M. Paper Before Print: The History and Impact of Paper in the Islamic World. New Haven: Yale University Press, 2001.",
+      "relevance": "Surveys the history of paper types, including âbâdî and laid papers, across the Islamic manuscript tradition; relevant to contextualizing the paper stock of this late 17th-century Diyarbakır manuscript.",
+      "relevance_score": 0.78,
+      "access_notes": "Available at major research libraries."
+    },
+    {
+      "citation": "Gacek, Adam. The Arabic Manuscript Tradition: A Glossary of Technical Terms and Bibliography. Handbuch der Orientalistik, Erste Abteilung, Bd. 58. Leiden: Brill, 2001.",
+      "relevance": "Standard reference for Arabic-script manuscript terminology including paper types, ruling conventions, and script identification; provides definitions for mukhtaṣar genre and naskh script relevant to this record.",
+      "relevance_score": 0.72,
+      "access_notes": "Available at major research libraries."
+    },
+    {
+      "citation": "Loveday, Helen. Islamic Paper: A Study of the Ancient Craft. London: Don Baker Memorial Fund, 2001.",
+      "relevance": "Specialized study of Islamic paper types and papermaking, with attention to the identification of paper varieties including âbâdî paper and laid papers with chain-line structures; relevant to the codicological description of the paper stock of this manuscript.",
+      "relevance_score": 0.70,
+      "access_notes": "Available at specialist libraries."
+    }
+  ],
+  "suggested_collections": [
+    {
+      "institution": "Diyarbakır İl Halk Kütüphanesi, Diyarbakır",
+      "reason": "Home collection; adjacent shelfmarks may share paper stock and binding conventions, enabling comparative assessment of local manuscript production patterns.",
+      "digital_access": "https://portal.yek.gov.tr"
+    },
+    {
+      "institution": "Süleymaniye Kütüphanesi, Istanbul",
+      "reason": "Holds numerous late Ottoman fiqh manuscripts (al-Kudūrī copies are common) on comparable mülevven and âbâdî paper stocks; comparative examination would assist in assessing whether the warm-toned paper is intentionally colored or aged.",
+      "digital_access": "https://portal.yek.gov.tr"
+    }
+  ],
+  "provenance": {
+    "donor": null,
+    "waqf": null,
+    "previous_shelfmarks": [],
+    "notes": "Held in the Diyarbakır İl Halk Kütüphanesi (Diyarbakır Provincial Public Library), southeastern Turkey. No donor, waqf, or previous shelfmark information is recorded in the available catalogue data. The dated AH 1109 / CE 1697–1698 colophon is the primary fixed point for dating. The provincial collection context and modest binding (patterned paper boards with leather) suggest non-capital-city production, consistent with the widespread copying of al-Kudūrī's Mukhtasar as a standard madrasa text across the Ottoman Empire."
+  },
+  "analysis_metadata": {
+    "analyzed_date": "2026-02-27",
+    "analyzer": "claude-code-manuscript-pipeline",
+    "image_source": "YEK Portal IIIF — Diyarbakır İl Halk Kütüphanesi (portal.yek.gov.tr); screenshot via visual-confirmation agent (Batch 3, 2026-02-26). Primary yek_id: 422432; IIIF id: 0000000416794.",
+    "image_quality_notes": "One IIIF screenshot examined (p003). The warm orange-brown tone is visible but does not permit definitive discrimination between intentional mülevven dyeing and uniform paper aging at available digital resolution. In-person examination or higher-resolution imaging is required for a confirmed verdict.",
+    "folios_examined": ["p003 (IIIF screenshot — text leaves, probable colored paper ground)"],
+    "folios_not_examined": "All remaining folios; opening page and colophon/hātime. The full extent of the colored paper program across the codex is unassessed from a single screenshot."
+  }
+}

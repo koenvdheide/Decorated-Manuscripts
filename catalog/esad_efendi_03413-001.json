@@ -1,0 +1,159 @@
+{
+  "record_id": "esad_efendi_03413-001",
+  "collection": {
+    "institution": "Süleymaniye Kütüphanesi — Esad Efendi Koleksiyonu",
+    "city": "Istanbul",
+    "country": "Turkey",
+    "shelfmark": "03413-001",
+    "yek_url": "https://portal.yek.gov.tr/yazmaeser/eser-detay/188283"
+  },
+  "manuscript": {
+    "title": "Müntehabü Ravzati'l-Ukûl ve'l-Efkâr ve Nüzheti'l-Esmâ' ve'l-Ebsâr",
+    "author": null,
+    "date_ah": null,
+    "date_ce": null,
+    "format": "risale within mecmûʿa (risale 1 of Esad Efendi 03413)",
+    "dimensions_mm": {
+      "height": null,
+      "width": null
+    },
+    "folio_count": 6
+  },
+  "paper_decoration": {
+    "types": ["marbled"],
+    "summary": "The YEK catalogue describes the paper as 'karisik renkte, ebrulu' (mixed-color, marbled), indicating marbled paper throughout this short risale. The marbled paper was not visually confirmed because the specific 6-folio risale could not be located within the 187-page host mecmûʿa; the designation rests on the explicit catalogue description by cataloguer Âzer Ateş. The manuscript also carries Arabic and Persian marginal glosses (hâşiye) on a significant number of leaves.",
+    "technique_terms": {
+      "ottoman": "ebrulu kâğıt; karisik renkte; ebrî",
+      "persian": "kāġaḏ-e abrī (کاغذ ابری)",
+      "arabic": null
+    },
+    "catalogue_description": {
+      "paper_field": "Aharli, dikey ve yatay suyolu, karisik renkte, ebrulu, filigranli, orta kalinlikta kagit",
+      "notes_field": "Kenarlari Arapca ve Farsca fevaidle oldukca hasiyealidir.",
+      "decoration_field": null
+    }
+  },
+  "workshop_attribution": {
+    "primary_tradition": "ottoman",
+    "workshop_centre": null,
+    "date_range_ce": null,
+    "confidence": 0.25,
+    "key_indicators": [
+      "Ebrulu kâğıt noted in YEK kagit_ozellikleri field",
+      "Hareli (sized/burnished) paper with both chain and laid lines (dikey ve yatay suyolu)",
+      "Filigranli (watermarked) paper stock — possibly European import"
+    ],
+    "cross_tradition_caveats": [
+      "Manuscript is anonymous and undated; workshop assignment is entirely speculative",
+      "Mecmûʿa composite format means individual risales may originate from different production contexts",
+      "Mixed-colour ebru visible across Ottoman, Safavid, and Mughal traditions; Ottoman attribution relies solely on collection context"
+    ]
+  },
+  "codicology": {
+    "paper": {
+      "description": "Sized (âharlı), mixed-color, marbled (ebrulu), watermarked (filigranli), medium-weight paper. Both chain lines (dikey suyolu) and laid lines (yatay suyolu) noted, consistent with European or Europeanized paper stock.",
+      "watermark": "Filigran present; specific device not recorded in catalogue",
+      "sizing": "âharlı (sized/burnished)"
+    },
+    "ruling": {
+      "description": null
+    },
+    "binding": {
+      "description": "Brown leather over boards (mukavva üzerine kahve renkli deri kaplı), with gold chain-border (yaldız zencerekli), cedvelli, and headband (sirazeli). The binding covers the full mecmûʿa, not specifically this risale."
+    },
+    "format": "risale within mecmûʿa",
+    "condition_summary": "Condition not assessed; risale not located within digitized pages during visual confirmation.",
+    "conservation_history": null
+  },
+  "visual_confirmation": {
+    "verdict": "probable",
+    "confidence": 0.55,
+    "screenshots_examined": 1,
+    "limitations": [
+      "Coverage: the target 6-folio risale was not located within the 187-page mecmûʿa during screenshot capture",
+      "Page 3 (p003) shows text from the larger mecmûʿa on standard cream paper — not the risale under study",
+      "Marbled paper identification rests entirely on the explicit YEK catalogue description (kagit_ozellikleri field); no visual verification achieved",
+      "Resolution of available IIIF images may be insufficient to distinguish marbled from plain paper at small thumbnail scale"
+    ]
+  },
+  "folio_analyses": [],
+  "terminology": {
+    "terms_used": [
+      {
+        "concept": "marbled paper",
+        "ottoman": "ebrulu kâğıt / ebrî",
+        "arabic": null,
+        "persian": "kāġaḏ-e abrī (کاغذ ابری)",
+        "english": "marbled paper"
+      },
+      {
+        "concept": "sized/burnished paper",
+        "ottoman": "âharlı kâğıt",
+        "arabic": null,
+        "persian": null,
+        "english": "sized paper (âhar = sizing agent)"
+      },
+      {
+        "concept": "composite manuscript / anthology",
+        "ottoman": "mecmûʿa",
+        "arabic": "majmūʿa (مجموعة)",
+        "persian": "majmūʿa",
+        "english": "composite manuscript; anthology"
+      },
+      {
+        "concept": "marginal glosses",
+        "ottoman": "hâşiye",
+        "arabic": "ḥāshiya (حاشية)",
+        "persian": "ḥāshiya",
+        "english": "marginal glosses / annotations"
+      }
+    ]
+  },
+  "bibliography": [
+    {
+      "citation": "Blair, Sheila S. 'Color and Gold: The Decorated Papers Used in Manuscripts in Later Islamic Times.' Muqarnas 17 (2000): 24–36.",
+      "relevance": "Foundational survey of decorated paper types in Islamic manuscripts, including marbled paper and its use in Ottoman and Persian production contexts.",
+      "relevance_score": 0.75,
+      "access_notes": "Available via JSTOR; doi:10.1163/22118993_01700003"
+    },
+    {
+      "citation": "Gacek, Adam. Arabic Manuscripts: A Vademecum for Readers. Leiden: Brill, 2009.",
+      "relevance": "Standard reference for codicological terminology including paper types, mecmûʿa structure, and marginal notation conventions.",
+      "relevance_score": 0.65,
+      "access_notes": "Print; also available as e-book via Brill Online"
+    },
+    {
+      "citation": "Bloom, Jonathan M. Paper Before Print: The History and Impact of Paper in the Islamic World. New Haven: Yale University Press, 2001.",
+      "relevance": "Background on Islamic paper production, sizing, and trade networks relevant to understanding the mixed paper stock (âharlı, filigranli) described in this risale.",
+      "relevance_score": 0.60,
+      "access_notes": "Print; widely held"
+    },
+    {
+      "citation": "Déroche, François. Islamic Codicology: An Introduction to the Study of Manuscripts in Arabic Script. London: Al-Furqān Islamic Heritage Foundation, 2005.",
+      "relevance": "Codicological framework for describing mecmûʿa manuscripts, paper analysis, and marginal annotation practices in the Arabic and Ottoman traditions.",
+      "relevance_score": 0.60,
+      "access_notes": "Print"
+    }
+  ],
+  "suggested_collections": [
+    {
+      "institution": "Süleymaniye Kütüphanesi — YEK Portal",
+      "reason": "The full mecmûʿa (Esad Efendi 03413) is digitized; targeted folio navigation to locate the 6-folio risale is recommended before a higher-confidence classification can be assigned.",
+      "digital_access": "https://portal.yek.gov.tr/yazmaeser/eser-detay/188283"
+    }
+  ],
+  "provenance": {
+    "donor": null,
+    "waqf": "Esad Efendi Koleksiyonu, Süleymaniye Kütüphanesi",
+    "previous_shelfmarks": [],
+    "notes": "Risale 1 of composite volume Esad Efendi 03413. Cataloguer: Âzer Ateş. YEK ID: 188283; IIIF ID: 0000000175217."
+  },
+  "analysis_metadata": {
+    "analyzed_date": "2026-02-27",
+    "analyzer": "claude-code-manuscript-pipeline",
+    "image_source": "YEK IIIF viewer (portal.yek.gov.tr); IIIF ID 0000000175217",
+    "image_quality_notes": "Only one screenshot captured (p003), showing text from the host mecmûʿa, not from the target risale. No folio-level analysis of marbled paper was possible.",
+    "folios_examined": ["p003 (mecmûʿa host — not the target risale)"],
+    "folios_not_examined": "All 6 folios of the target risale (specific location within 187-page mecmûʿa not identified). In-person examination at Süleymaniye Kütüphanesi or targeted IIIF folio navigation required."
+  }
+}

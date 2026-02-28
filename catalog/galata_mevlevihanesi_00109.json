@@ -1,0 +1,163 @@
+{
+  "record_id": "galata_mevlevihanesi_00109",
+  "collection": {
+    "institution": "Süleymaniye Kütüphanesi — Galata Mevlevîhânesi Koleksiyonu",
+    "city": "Istanbul",
+    "country": "Turkey",
+    "shelfmark": "00109",
+    "yek_url": "https://portal.yek.gov.tr/yazmaeser/eser-detay/246891"
+  },
+  "manuscript": {
+    "title": "Murakkaʿât",
+    "author": "Yedikuleli Seyyid Abdullah Efendi (calligrapher; d. 1144/1731)",
+    "date_ah": null,
+    "date_ce": "early 18th century (calligrapher active; d. 1144/1731)",
+    "format": "murakkaa (calligraphy album)",
+    "dimensions_mm": {
+      "height": null,
+      "width": null
+    },
+    "folio_count": 7
+  },
+  "paper_decoration": {
+    "types": ["framing_system"],
+    "summary": "RECLASSIFIED: The YEK catalogue records 'Ebru kagit' in the kagit_ozellikleri field, suggesting marbled paper. However, visual triage of the digitized pages during the non-TIEM murakkaa review identified no ebru on the writing surfaces; the sole examined screenshot (p003) shows large sülüs calligraphy on plain cream paper with ruled cetvels typical of a cetvelli murakkaʿ. The manuscript is accordingly catalogued as a cetvelli (ruled/framing-system) murakkaʿ per user decision. The 'Ebru kagit' description may refer to marbled paper used as a backing or doublure rather than the writing surface, or may represent a cataloguing error. This classification carries a moderate probability: visual coverage is limited to one page, and the correct context of the 'Ebru kagit' note has not been verified.",
+    "technique_terms": {
+      "ottoman": "cetvelli murakkaʿ; altın cedvel (probable); [catalogued as 'Ebru kagit' in YEK — not confirmed on writing surfaces]",
+      "persian": null,
+      "arabic": null
+    },
+    "catalogue_description": {
+      "paper_field": "Ebru kagit.",
+      "notes_field": "Bu Murakka'at, Imam Busiri'nin Kaside-i Burdesinin ilk birkac beytini ihtiva etmektedir.",
+      "decoration_field": null
+    }
+  },
+  "workshop_attribution": {
+    "primary_tradition": "ottoman",
+    "workshop_centre": "Istanbul",
+    "date_range_ce": "early 18th century (c. 1700–1731)",
+    "confidence": 0.60,
+    "key_indicators": [
+      "Calligrapher Yedikuleli Seyyid Abdullah Efendi active in Ottoman Istanbul; d. 1144/1731",
+      "Sülüs script and Qasidat al-Burda content consistent with Ottoman calligraphic album tradition",
+      "Galata Mevlevîhânesi vakfı provenance confirms Istanbul institutional context",
+      "Cetvelli murakkaʿ format standard in Ottoman Istanbul calligraphy album production"
+    ],
+    "cross_tradition_caveats": [
+      "Album undated; date range inferred from calligrapher's known floruit and death date",
+      "Classification as cetvelli rather than ebrulu rests on limited visual evidence (1 page examined)",
+      "If 'Ebru kagit' describes backing/mounting papers not yet photographed, the decoration type may require revision to include marbled"
+    ]
+  },
+  "codicology": {
+    "paper": {
+      "description": "YEK catalogue states 'Ebru kagit'; visual examination of the digitized pages shows plain cream paper on the calligraphic writing surfaces. Paper characteristics otherwise unrecorded."
+    },
+    "ruling": {
+      "description": "Cetvels (ruling lines) visible on examined screenshot, consistent with standard Ottoman murakkaʿ framing."
+    },
+    "binding": {
+      "description": null
+    },
+    "format": "murakkaa (calligraphy album)",
+    "condition_summary": "Condition not assessed from available images.",
+    "conservation_history": null
+  },
+  "visual_confirmation": {
+    "verdict": "probable",
+    "confidence": 0.65,
+    "screenshots_examined": 1,
+    "limitations": [
+      "Only one screenshot captured (p003); the full 7-folio album not surveyed",
+      "Classification reclassified from 'probable marbled (0.55)' to 'probable cetvelli (0.65)' during non-TIEM murakkaa triage based on visual evidence of plain writing surfaces",
+      "The 'Ebru kagit' note in the YEK catalogue may refer to backing papers, doublures, or other structural components not visible in the examined page",
+      "Visual ambiguity: no ebru visible on p003, but total album coverage is minimal"
+    ]
+  },
+  "folio_analyses": [],
+  "terminology": {
+    "terms_used": [
+      {
+        "concept": "calligraphy album",
+        "ottoman": "murakkaʿ / murakkaa",
+        "arabic": "muraqqa' (مرقع)",
+        "persian": "muraqqa' (مرقع)",
+        "english": "calligraphy album; album of mounted specimens"
+      },
+      {
+        "concept": "ruling lines / frame",
+        "ottoman": "cedvel / cetvelli",
+        "arabic": "jadwal (جدول)",
+        "persian": "jadval",
+        "english": "ruling lines; framing system"
+      },
+      {
+        "concept": "marbled paper",
+        "ottoman": "ebrulu kâğıt / ebrî",
+        "arabic": null,
+        "persian": "kāġaḏ-e abrī (کاغذ ابری)",
+        "english": "marbled paper (not confirmed on writing surfaces in this record)"
+      },
+      {
+        "concept": "sülüs script",
+        "ottoman": "sülüs",
+        "arabic": "thuluth (ثلث)",
+        "persian": null,
+        "english": "thuluth / sülüs calligraphic script"
+      }
+    ]
+  },
+  "bibliography": [
+    {
+      "citation": "Tanındı, Zeren. 'Bibliophile Aghas (Eunuchs) at Topkapi Saray.' Muqarnas 21 (2004): 333–343.",
+      "relevance": "Ottoman calligraphy album production in Istanbul; contextualizes the murakkaʿ format and cetvelli presentation style employed in this album.",
+      "relevance_score": 0.65,
+      "access_notes": "Available via JSTOR"
+    },
+    {
+      "citation": "Scheper, Karin. The Technique of Islamic Bookbinding: Methods, Materials and Regional Varieties. Leiden: Brill, 2015.",
+      "relevance": "Provides codicological framework for murakkaa structure, doublure and backing papers — relevant to interpreting whether 'Ebru kagit' in this record refers to writing surfaces or structural components.",
+      "relevance_score": 0.65,
+      "access_notes": "Print; Brill Online"
+    },
+    {
+      "citation": "Blair, Sheila S. 'Color and Gold: The Decorated Papers Used in Manuscripts in Later Islamic Times.' Muqarnas 17 (2000): 24–36.",
+      "relevance": "Survey of decorated paper types including marbled paper in album contexts; useful for comparative classification should the 'Ebru kagit' designation be verified on re-examination.",
+      "relevance_score": 0.60,
+      "access_notes": "Available via JSTOR; doi:10.1163/22118993_01700003"
+    },
+    {
+      "citation": "Derman, M. Uğur. Letters in Gold: Ottoman Calligraphy from the Sakıp Sabancı Collection. New York: Metropolitan Museum of Art, 1998.",
+      "relevance": "Contextualizes Ottoman calligraphy albums and the production of Qasidat al-Burda specimens; Yedikuleli Seyyid Abdullah period and sülüs tradition.",
+      "relevance_score": 0.70,
+      "access_notes": "Print; exhibition catalogue"
+    }
+  ],
+  "suggested_collections": [
+    {
+      "institution": "Süleymaniye Kütüphanesi — YEK Portal",
+      "reason": "The full 7-folio album is digitized; examination of additional pages (especially opening and closing folios) is needed to determine whether marbled paper appears on any writing surfaces or structural components.",
+      "digital_access": "https://portal.yek.gov.tr/yazmaeser/eser-detay/246891"
+    },
+    {
+      "institution": "Topkapı Sarayı Müzesi Kütüphanesi",
+      "reason": "Holds major Ottoman calligraphy albums associated with Yedikuleli Seyyid Abdullah's circle; comparative examination recommended.",
+      "digital_access": "https://kutuphane.tsmk.gov.tr"
+    }
+  ],
+  "provenance": {
+    "donor": null,
+    "waqf": "el-Hac Hafız Mahmud Şeyhü'l-Kurra Şevki (vakıf)",
+    "previous_shelfmarks": [],
+    "notes": "Galata Mevlevîhânesi Koleksiyonu, Süleymaniye Kütüphanesi. Calligrapher: Yedikuleli Seyyid Abdullah Efendi (d. 1144/1731). Contains opening beyts of Imam Busiri's Qasidat al-Burda (Bürde). Cataloguer: Fakirullah Yıldız. YEK ID: 246891; IIIF ID: 0000000185339. Reclassified from 'marbled' to 'cetvelli' during non-TIEM murakkaa triage (2026-02-27); see paper_decoration.summary for rationale."
+  },
+  "analysis_metadata": {
+    "analyzed_date": "2026-02-27",
+    "analyzer": "claude-code-manuscript-pipeline",
+    "image_source": "YEK IIIF viewer (portal.yek.gov.tr); IIIF ID 0000000185339",
+    "image_quality_notes": "One screenshot captured (p003). Large sülüs calligraphy on plain cream paper visible; no marbled paper detected on this surface. Coverage insufficient to survey the full album.",
+    "folios_examined": ["p003"],
+    "folios_not_examined": "Folios p001, p002, p004–p007 (and any additional pages) not examined. The presence or absence of marbled backing or mounting papers in the album structure cannot be determined from current evidence."
+  }
+}

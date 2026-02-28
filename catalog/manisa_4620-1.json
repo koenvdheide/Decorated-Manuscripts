@@ -1,0 +1,171 @@
+{
+  "record_id": "manisa_4620-1",
+  "collection": {
+    "institution": "Manisa İl Halk Kütüphanesi",
+    "city": "Manisa",
+    "country": "Turkey",
+    "shelfmark": "4620/1",
+    "yek_url": "https://portal.yek.gov.tr/yazmaeser/eser-detay/91026"
+  },
+  "manuscript": {
+    "title": "Mesâʾilü'l-Fusûl (مسائل الفصول)",
+    "author": null,
+    "date_ah": "1100",
+    "date_ce": "1688–1689",
+    "format": "Fiqh text (risale 1 of mecmûʿa 4620)",
+    "dimensions_mm": {
+      "height": null,
+      "width": null
+    },
+    "folio_count": null,
+    "yek_id": "91026",
+    "iiif_id": "0000000104711",
+    "notes": "Dated AH 1100 / CE 1688–1689. Arabic text in naskh-derived script (nesih kırmasi). Risale 1 of mecmûʿa 4620. Section incipits (söz başları), chapter titles (matlablar) in red. Cataloguer: Zahide Kutlay. Binding: spine, outer edges, and flap in light purple/plum (visre rengi) leather; patterned paper-covered boards; detached flap and damaged spine noted (sertabı yırtık)."
+  },
+  "paper_decoration": {
+    "types": ["colored"],
+    "summary": "The YEK kagit_ozellikleri field reads 'Üzüm salkımı taç filigranli, sarı boyalı' — indicating yellow-dyed (sarı boyalı) paper with a bunch-of-grapes crown watermark (üzüm salkımı taç filigranı). Visual examination of p005 shows a distinctly warm yellow tint on the paper, consistent with the catalogued 'sarı boyalı' (yellow-dyed) description. The color calibration caveat applies: screen rendering of IIIF images may shift warm tones, and the yellow tone may be intensified by scanner settings. Nevertheless, the explicit catalogue term 'sarı boyalı' (not merely 'mülevven') provides specific support for intentional yellow dyeing, making this a probable record. The decoration programme is modest: red section headings and chapter titles, no gold, consistent with a provincial fiqh anthology of the late 17th century.",
+    "technique_terms": {
+      "ottoman": "sarı boyalı kâğıt; üzüm salkımı taç filigranı",
+      "persian": "kāġaḏ-e zard (کاغذ زرد); mulavvan",
+      "arabic": "mulauwwan aṣfar (ملوّن أصفر)"
+    },
+    "catalogue_description": {
+      "paper_field": "Uzum salkimi tac filigranli, sari boyali.",
+      "notes_field": null,
+      "decoration_field": null
+    }
+  },
+  "workshop_attribution": {
+    "primary_tradition": "ottoman",
+    "workshop_centre": null,
+    "date_range_ce": "1688–1689 (dated)",
+    "confidence": 0.20,
+    "key_indicators": [
+      "Dated AH 1100 / CE 1688–1689 — late 17th-century Ottoman production, period consistent with use of sarı boyalı (yellow-dyed) paper in Ottoman fiqh manuscripts",
+      "Manisa İl Halk Kütüphanesi provenance suggests Aegean/western Anatolian provincial context rather than Istanbul",
+      "Composite binding (visre rengi leather, patterned paper boards) and modest interior decoration (red incipits only) are characteristic of functional madrasa-level production"
+    ],
+    "cross_tradition_caveats": [
+      "Yellow-dyed paper (sarı boyalı) is attested across Ottoman, Safavid, and Mughal manuscript traditions and cannot alone establish production centre or tradition",
+      "Color calibration caveat: the yellow tone in IIIF screenshots may be shifted by scanner settings; higher-resolution or in-person examination would strengthen the verdict",
+      "The manuscript is anonymous (no author attribution); no scribal colophon specifying place of production is recorded"
+    ]
+  },
+  "codicology": {
+    "paper": {
+      "description": "European-style paper with a bunch-of-grapes crown watermark (üzüm salkımı taç filigranı) — a recognized class of European export paper watermark common in Ottoman manuscripts of the 17th–18th centuries. The paper has been yellow-dyed (sarı boyalı) before writing; the yellow tone is visible on p005.",
+      "watermark": "Üzüm salkımı taç filigranı (bunch-of-grapes crown watermark); European origin, likely Italian or French mill",
+      "color": "Sarı boyalı (yellow-dyed); warm yellow tone on p005, consistent with organic yellow dye"
+    },
+    "ruling": {
+      "description": "Söz başları, matlablar kırmızı (section incipits and chapter headings in red). No elaborate cedvel or framing system is noted in the catalogue.",
+      "ink_colors": ["black", "red (for section incipits and chapter headings)"],
+      "lines_per_page": null
+    },
+    "binding": {
+      "description": "Sırtı, sertabı, yanı visre rengi meşin desenli kâğıt kaplı mukavva ciltli, mıkleplı, sırtı ve sertabı yırtık. Board binding (mukavva) covered in patterned paper (desenli kâğıt), with light purple/plum leather (visre rengi meşin) on spine, outer edges, and flap (mıklep); spine and flap torn. This is a composite binding shared by the mecmûʿa 4620.",
+      "binding_type": "Board binding with patterned paper covers and leather spine/edges/flap",
+      "materials": ["mukavva (boards)", "visre rengi meşin (light purple leather)", "desenli kâğıt (patterned paper covers)"],
+      "decoration": ["desenli kâğıt kaplı kapaklar", "mıkleplı"]
+    },
+    "format": "Mecmûʿa (composite manuscript) — risale 1 of 4620",
+    "condition_summary": "Fair to poor. Spine and flap (sertab) torn. Patterned paper boards intact. Text block condition not fully assessed.",
+    "conservation_history": null
+  },
+  "visual_confirmation": {
+    "verdict": "probable",
+    "confidence": 0.75,
+    "screenshots_examined": 1,
+    "limitations": [
+      "visual_ambiguity: color calibration caveat — IIIF scanning may shift warm tones, and the yellow tint in p005 may be partly attributable to scanner settings rather than intentional dyeing",
+      "Only one IIIF screenshot (p005) examined; the extent of the yellow-dyed paper program across the mecmûʿa is unassessed",
+      "The manuscript is risale 1 within mecmûʿa 4620; other risales may have different paper, and the extent of the sarı boyalı paper within this risale specifically is unclear"
+    ]
+  },
+  "folio_analyses": [],
+  "terminology": {
+    "terms_used": [
+      {
+        "concept": "Yellow-dyed paper",
+        "ottoman": "sarı boyalı kâğıt",
+        "arabic": "mulauwwan aṣfar (ملوّن أصفر)",
+        "persian": "kāġaḏ-e zard (کاغذ زرد)",
+        "english": "Yellow-dyed paper: manuscript paper dyed yellow before writing, typically using organic dyes (safflower, saffron, turmeric, or buckthorn). The Ottoman cataloguing term 'sarı boyalı' (literally 'yellow painted/dyed') is a specific descriptor, more precise than the general 'mülevven' (colored). Confirmed as a practice in late Ottoman provincial manuscript production."
+      },
+      {
+        "concept": "Bunch-of-grapes crown watermark",
+        "ottoman": "üzüm salkımı taç filigranı",
+        "arabic": null,
+        "persian": null,
+        "english": "Bunch-of-grapes crown watermark (üzüm salkımı taç filigranı): a European paper watermark depicting a bunch of grapes surmounted by a crown; one of the recognized classes of European watermarks found in Ottoman manuscripts. Indicates a European-origin paper stock subsequently used (and in this case dyed) in an Ottoman manuscript production context."
+      },
+      {
+        "concept": "Composite manuscript",
+        "ottoman": "mecmûʿa (مجموعه)",
+        "arabic": "majmūʿa (مجموعة)",
+        "persian": "majmūʿa (مجموعه)",
+        "english": "Mecmûʿa: a composite manuscript volume containing multiple independent texts (risales) bound together. In the YEK catalogue, individual risales within a mecmûʿa are often catalogued separately under the same shelfmark with a numeric suffix (e.g., 4620/1, 4620/2). The YEK record 91026 corresponds to risale 1 of mecmûʿa 4620."
+      },
+      {
+        "concept": "Section incipit / chapter heading",
+        "ottoman": "söz başı / matlab (مطلب)",
+        "arabic": "maṭlab (مطلب)",
+        "persian": "maṭlab (مطلب)",
+        "english": "Matlab (pl. maṭālib): a chapter or section heading within a fiqh manual; in Ottoman manuscripts, typically written in red ink to distinguish it from the main text body. The parallel term 'söz başı' (literally 'word head' / incipit) refers to text incipits. Both are red in this manuscript."
+      }
+    ]
+  },
+  "bibliography": [
+    {
+      "citation": "Blair, Sheila S. 'Color and Gold: The Decorated Papers Used in Manuscripts in Later Islamic Times.' Muqarnas 17 (2000): 24–36.",
+      "relevance": "Principal study of colored papers (including sarı boyalı / yellow-dyed papers) in Islamic manuscripts; directly relevant to the yellow-dyed paper of this Manisa fiqh manuscript and its typological classification within the broader category of mülevven papers.",
+      "relevance_score": 0.90,
+      "access_notes": "Peer-reviewed. Available via JSTOR."
+    },
+    {
+      "citation": "Bloom, Jonathan M. Paper Before Print: The History and Impact of Paper in the Islamic World. New Haven: Yale University Press, 2001.",
+      "relevance": "Covers paper production and trade in the Islamic world including European watermarked papers; relevant to the üzüm salkımı taç filigranı (bunch-of-grapes crown watermark) as evidence for European paper stock subsequently used in Ottoman manuscript production.",
+      "relevance_score": 0.78,
+      "access_notes": "Available at major research libraries."
+    },
+    {
+      "citation": "Déroche, François. Islamic Codicology: An Introduction to the Study of Manuscripts in Arabic Script. Translated by Deke Dusinberre and David Radzinowicz. London: Al-Furqan Islamic Heritage Foundation, 2005.",
+      "relevance": "Standard codicological reference covering paper identification, watermark analysis, and manuscript description relevant to this record; also provides context for the mecmûʿa format and ruling conventions.",
+      "relevance_score": 0.72,
+      "access_notes": "Available at major research libraries."
+    },
+    {
+      "citation": "Sturkenboom, Ilse. 'Identifying Chinese Decorated Paper in Persianate Manuscripts: Methodological Challenges.' GlobalDecoPaper ERC Project, LMU Munich (forthcoming).",
+      "relevance": "Forthcoming research on the classification and identification of decorated and dyed papers in Islamic manuscripts; methodological framework applicable to the challenge of confirming intentional yellow dyeing versus paper aging in IIIF-based remote examination.",
+      "relevance_score": 0.60,
+      "access_notes": "Forthcoming. GlobalDecoPaper ERC Project, LMU Munich."
+    }
+  ],
+  "suggested_collections": [
+    {
+      "institution": "Manisa İl Halk Kütüphanesi, Manisa",
+      "reason": "Home collection; other risales of mecmûʿa 4620 and adjacent Manisa shelfmarks (including confirmed manisa_4408-1 with multi-colored leaves) provide direct codicological comparanda for yellow-dyed paper in this collection.",
+      "digital_access": "https://portal.yek.gov.tr"
+    },
+    {
+      "institution": "Süleymaniye Kütüphanesi, Istanbul",
+      "reason": "Holds numerous late Ottoman fiqh manuscripts and mecmûʿa volumes with comparable paper stocks and binding styles; comparison would assist in assessing the distribution of sarı boyalı paper in provincial Ottoman production.",
+      "digital_access": "https://portal.yek.gov.tr"
+    }
+  ],
+  "provenance": {
+    "donor": null,
+    "waqf": null,
+    "previous_shelfmarks": [],
+    "notes": "Held in the Manisa İl Halk Kütüphanesi (Manisa Provincial Public Library), western Anatolia, Turkey. Catalogued by Zahide Kutlay. Risale 1 of mecmûʿa 4620; the full composite volume may contain additional risales with shared or differing paper stocks. No waqf or donor information is recorded in the available catalogue data. The dated colophon (AH 1100 / CE 1688–1689) is the primary fixed point. Note: the same cataloguer (Zahide Kutlay) and the same paper description formula ('Üzüm salkımı taç filigranli, sarı boyalı') appear in the adjacent record manisa_4633, suggesting a consistent cataloguing practice for a cluster of Manisa manuscripts."
+  },
+  "analysis_metadata": {
+    "analyzed_date": "2026-02-27",
+    "analyzer": "claude-code-manuscript-pipeline",
+    "image_source": "YEK Portal IIIF — Manisa İl Halk Kütüphanesi (portal.yek.gov.tr); screenshot via visual-confirmation agent (Batch 3, 2026-02-26). Primary yek_id: 91026; IIIF id: 0000000104711. Note: Manisa IIIF images pp. 1–4 are typically spine/binding photographs; p005 is the first text content page examined.",
+    "image_quality_notes": "One IIIF screenshot examined (p005). The yellow tint is visible but color calibration caveats apply. Intentional dyeing is supported by the explicit catalogue term 'sarı boyalı' but cannot be confirmed as definitively distinct from scanner-induced warmth at available digital resolution.",
+    "folios_examined": ["p005 (IIIF screenshot — text leaf, probable yellow-dyed paper ground)"],
+    "folios_not_examined": "All remaining folios of the risale and mecmûʿa; extent of sarı boyalı paper across the full volume unassessed."
+  }
+}

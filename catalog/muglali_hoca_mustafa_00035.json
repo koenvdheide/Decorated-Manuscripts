@@ -1,0 +1,225 @@
+{
+  "record_id": "muglali_hoca_mustafa_00035",
+  "collection": {
+    "institution": "Süleymaniye Kütüphanesi — Muğlalı Hoca Mustafa Efendi Koleksiyonu",
+    "city": "Istanbul",
+    "country": "Turkey",
+    "shelfmark": "00035",
+    "yek_url": "https://portal.yek.gov.tr/yazmaeser/eser-detay/309340"
+  },
+  "manuscript": {
+    "title": "Dîvân-ı Sâʾib-i Tebrîzî",
+    "author": "Sâʾib-i Tebrîzî, Mîrzâ Muḥammad ʿAlī b. Mîrzâ ʿAbdurraḥîm et-Tebrîzî el-Isfahânî (d. 1087/1676)",
+    "date_ah": null,
+    "date_ce": null,
+    "format": "dîvân (poetry collection)",
+    "dimensions_mm": {
+      "height": null,
+      "width": null
+    },
+    "folio_count": 348,
+    "yek_id": "309340",
+    "iiif_id": "0000000245350",
+    "notes": "Undated. Multicolumnar layout (musirlidir). Persian dîvân in taʿlîk script. Cataloguer: Nimet İpek. Opening bifolio (ff. 1b–2a) carries the full decorative programme: derkenar halkârî paintings, polychrome serlevha (illuminated headpiece), and tezhip on f. 49a. Sa'ib Tabrizi is the foremost Persian poet of the sabk-i hindî ('Indian style') and one of the most widely copied Persian poets in Ottoman manuscript culture of the 17th–18th centuries."
+  },
+  "paper_decoration": {
+    "types": ["halkar_margins", "illuminated_margins", "framing_system"],
+    "summary": "The opening bifolio (ff. 1b–2a) is decorated with dense polychrome halkâr (halkârî) margin paintings depicting naturalistic Ottoman shükûfe flowers — tulips (lâle), roses (gül), narcissi, and carnations (karanfil) — executed in pink, red, green, and gold on both pages. The right page carries an illuminated serlevha with a blue-and-gold medallion and rectangular panels. A multi-colour cedvel framing system in gold, red, and green defines the text block. A further illuminated headpiece occurs at f. 49a. The polychrome halkâr palette — combining pink, red, green, and gold — is distinctive and consistent with later Ottoman (17th–18th century) luxury manuscript production.",
+    "technique_terms": {
+      "ottoman": "derkenar halkârî bezemeli; çok renkli halkâr; şükûfe; cedvel",
+      "persian": "halkārī (حلکاری); sarlawḥ (سرلوح)",
+      "arabic": "ḥāshiya (حاشية); ʿunwān (عنوان)"
+    },
+    "catalogue_description": {
+      "paper_field": null,
+      "notes_field": "Musirlidir. Cedveli lacivert, kırmızı, yeşil ve altın rengi mürekkeplerle çizilmiştir. 1b-2a sayfaları derkenar halkârileriyle bezelidir.",
+      "decoration_field": "Tezhip, 1b, 2a, 49a."
+    }
+  },
+  "workshop_attribution": {
+    "primary_tradition": "ottoman",
+    "workshop_centre": null,
+    "date_range_ce": "17th–18th century (undated)",
+    "confidence": 0.60,
+    "key_indicators": [
+      "Polychrome halkâr with naturalistic Ottoman shükûfe flowers (tulips, roses, narcissi, carnations) — canonical Ottoman court floral vocabulary",
+      "Multi-colour cedvel in gold, red, and green: characteristic Ottoman luxury framing system",
+      "Illuminated serlevha with blue-and-gold medallion consistent with Ottoman tezhip conventions",
+      "Taʿlîk script used for Persian poetry: standard for Ottoman copies of Persian dîvâns from the 17th century onward",
+      "Sa'ib Tabrizi (d. 1087/1676) was widely copied in Ottoman Istanbul; peak copying activity c. 1680–1780"
+    ],
+    "cross_tradition_caveats": [
+      "Manuscript is undated; precise placement within the 17th–18th century range requires codicological examination",
+      "Sa'ib's dîvân was also copied in Safavid Iran and Mughal India; Safavid or provincial Iranian production cannot be excluded without physical examination of paper stock and pigment analysis",
+      "Polychrome halkâr is attested in both Ottoman and Safavid luxury manuscripts; the Ottoman attribution rests primarily on the tulip-dominant shükûfe vocabulary and the specific blue-and-gold serlevha format"
+    ]
+  },
+  "codicology": {
+    "paper": {
+      "description": "Not described in catalogue; paper type unrecorded",
+      "watermarks": null,
+      "color": "Apparently plain (uncolored) text pages; halkâr painted in margins"
+    },
+    "ruling": {
+      "description": "Multi-color cedvel: gold, red (kırmızı), green (yeşil), and blue (lacivert) ink ruling",
+      "lines_per_page": null,
+      "columns": "Multiple (musirlidir = multicolumnar)"
+    },
+    "binding": {
+      "description": "Şemseli ve mikleplı siyah deri cilt — black leather binding with şemse medallion and envelope flap (mıklep)",
+      "material": "black leather (siyah deri)",
+      "features": ["şemse", "mıklep"]
+    },
+    "format": "dîvân",
+    "condition_summary": "No condition issues noted in catalogue record. Opening bifolio decoration appears intact at IIIF resolution.",
+    "conservation_history": null
+  },
+  "visual_confirmation": {
+    "verdict": "confirmed",
+    "confidence": 0.96,
+    "screenshots_examined": 1,
+    "limitations": [
+      "Only the opening bifolio (p003 IIIF viewer page) was examined; decoration of f. 49a (third tezhip headpiece) not captured",
+      "Particle-level detail of gold halkâr technique not fully resolvable at IIIF viewer resolution",
+      "Folio count (approx. 348) and full extent of decoration programme unverified beyond opening bifolio"
+    ]
+  },
+  "folio_analyses": [
+    {
+      "folio": "ff. 1b–2a",
+      "iiif_page": "p003",
+      "screenshot_file": "corpus/visual_confirmation_batch3/muglali_hoca_mustafa_00035_p003_iiif.png",
+      "decoration_observed": [
+        "Dense polychrome halkâr margin painting filling all four margins of both pages: naturalistic Ottoman shükûfe flowers including tulips (lâle), roses (gül), narcissi, and carnations (karanfil) in pink, red, green, and gold",
+        "Illuminated serlevha (ʿunwān) on right page (f. 1b): blue (lacivert) and gold medallion with rectangular panel flanking elements",
+        "Multi-colour cedvel framing system: gold, red (kırmızı), and green (yeşil) ruling lines enclosing the text columns",
+        "Text in taʿlîk script, confirming Persian poetry manuscript"
+      ],
+      "confidence": 0.96,
+      "classification": "halkar_margins, illuminated_margins, framing_system",
+      "notes": "High-quality Ottoman halkâr with polychrome palette. The combination of pink, red, green, and gold in the shükûfe vocabulary is consistent with later Ottoman (17th–18th c.) luxury production. The blue-and-gold serlevha and multi-colour cedvel complete a fully articulated luxury opening."
+    }
+  ],
+  "terminology": {
+    "terms_used": [
+      {
+        "concept": "Shaded gold floral margin painting",
+        "ottoman": "halkâr / halkârî (حلکاری)",
+        "arabic": null,
+        "persian": "halkārī (حلکاری)",
+        "english": "Shaded gold floral painting in margins; subtypes include taramalı (hatched) and tahrirli (outlined)"
+      },
+      {
+        "concept": "Marginal annotation / in-the-margin decoration",
+        "ottoman": "derkenar (در کنار)",
+        "arabic": "hāmiš (هامش)",
+        "persian": "dar-kanār",
+        "english": "Marginal note or marginal zone; here used in the specific phrase 'derkenar halkârî' = margin halkâr painting"
+      },
+      {
+        "concept": "Illuminated headpiece",
+        "ottoman": "serlevha",
+        "arabic": "ʿunwān (عنوان)",
+        "persian": "sarlawḥ (سرلوح)",
+        "english": "Illuminated headpiece at the opening of a text"
+      },
+      {
+        "concept": "Ruling / frame lines",
+        "ottoman": "cedvel (جدول)",
+        "arabic": "jadwal (جدول)",
+        "persian": "jadval",
+        "english": "Frame lines ruling the text block; multicolor in this manuscript (gold, red, green, blue)"
+      },
+      {
+        "concept": "Poetry collection",
+        "ottoman": "dîvân (ديوان)",
+        "arabic": "dīwān (ديوان)",
+        "persian": "dīvān (دیوان)",
+        "english": "Collected poetic works of a single poet, arranged by rhyme scheme"
+      },
+      {
+        "concept": "Naturalistic floral motifs",
+        "ottoman": "şükûfe (شکوفه)",
+        "arabic": null,
+        "persian": "shukūfa (شکوفه)",
+        "english": "Blossoms; naturalistic Ottoman floral ornament: tulips (lâle), carnations (karanfil), roses (gül), narcissi"
+      },
+      {
+        "concept": "Hanging script / Perso-Arabic cursive",
+        "ottoman": "taʿlîk (تعلیق)",
+        "arabic": null,
+        "persian": "taʿlīq (تعلیق)",
+        "english": "Hanging cursive script; standard for Persian poetry in Ottoman manuscript culture from the 17th c. onward"
+      }
+    ]
+  },
+  "bibliography": [
+    {
+      "citation": "Tanındı, Zeren. 'Bibliophile Aghas (Agas) at Topkapi Saray.' Muqarnas 18 (2001): 218–228.",
+      "relevance": "Ottoman luxury manuscript production and collector culture; context for high-quality Süleymaniye manuscripts with polychrome halkâr openings.",
+      "relevance_score": 0.72,
+      "access_notes": "Available via JSTOR."
+    },
+    {
+      "citation": "Mahir, Banu. Osmanlı Minyatür Sanatı. Istanbul: Kabalcı Yayınevi, 2005.",
+      "relevance": "Survey of Ottoman court arts including halkâr and tezhip; essential background for classifying polychrome margin painting programmes of the Ottoman period.",
+      "relevance_score": 0.70,
+      "access_notes": "Turkish. Available in major Ottoman studies libraries."
+    },
+    {
+      "citation": "Blair, Sheila S. 'Color and Gold: The Decorated Papers Used in Manuscripts in Later Islamic Times.' Muqarnas 17 (2000): 24–36.",
+      "relevance": "Survey of decorated paper techniques including halkâr margins in Ottoman and Safavid contexts; directly relevant to classifying and contextualizing the margin painting in this manuscript.",
+      "relevance_score": 0.80,
+      "access_notes": "Available via JSTOR and open-access repositories."
+    },
+    {
+      "citation": "Schimmel, Annemarie. 'Ṣāʾib-i Tabrīzī.' In Encyclopaedia of Islam, 2nd ed., VIII: 868–870. Leiden: Brill, 1995.",
+      "relevance": "Authority reference for the author Sāʾib-i Tabrīzī (d. 1087/1676): biography, poetic output, and manuscript tradition of his dîvân; essential for contextualizing the scope of Ottoman copying activity.",
+      "relevance_score": 0.85,
+      "access_notes": "Available via Brill Online and institutional subscriptions."
+    },
+    {
+      "citation": "Roxburgh, David J. The Persian Album, 1400–1600: From Dispersal to Collection. New Haven: Yale University Press, 2005.",
+      "relevance": "Analysis of album-making and manuscript aesthetics in Persianate traditions; relevant to understanding the decorative conventions applied to Persian dîvâns circulating in Ottoman Istanbul.",
+      "relevance_score": 0.60,
+      "access_notes": "Available in major research libraries."
+    },
+    {
+      "citation": "Gacek, Adam. The Arabic Manuscript Tradition: A Glossary of Technical Terms and Bibliography. Leiden: Brill, 2001.",
+      "relevance": "Standard reference for codicological terminology including cedvel, serlevha, and framing systems; used for standardising catalogue descriptions.",
+      "relevance_score": 0.65,
+      "access_notes": "Available via Brill Online and institutional subscriptions."
+    }
+  ],
+  "suggested_collections": [
+    {
+      "institution": "Topkapı Sarayı Müzesi Kütüphanesi",
+      "reason": "Largest holding of luxury Ottoman dîvân manuscripts with polychrome halkâr openings; parallels for Sa'ib Tabrizi copies with Ottoman tezhip.",
+      "digital_access": "https://kutuphane.tsmk.gov.tr"
+    },
+    {
+      "institution": "Chester Beatty Library",
+      "reason": "Significant collection of Persian dîvân manuscripts in taʿlîk with Ottoman and Safavid halkâr margins; comparative material for the shükûfe vocabulary.",
+      "digital_access": "https://viewer.cbl.ie"
+    },
+    {
+      "institution": "Bodleian Library, Oxford",
+      "reason": "Persian dîvân manuscripts including Sa'ib copies with Ottoman-style decoration; Elaine Wright's cataloguing provides detailed technical descriptions.",
+      "digital_access": "https://digital.bodleian.ox.ac.uk"
+    }
+  ],
+  "provenance": {
+    "donor": "Muğlalı Hoca Mustafa Efendi",
+    "waqf": "Muğlalı Hoca Mustafa Efendi Koleksiyonu, Süleymaniye Kütüphanesi",
+    "previous_shelfmarks": [],
+    "notes": "Donated to Süleymaniye Kütüphanesi as part of the Muğlalı Hoca Mustafa Efendi endowment collection. Earlier provenance (before donation) unknown."
+  },
+  "analysis_metadata": {
+    "analyzed_date": "2026-02-27",
+    "analyzer": "claude-code-manuscript-pipeline",
+    "image_source": "YEK IIIF viewer (portal.yek.gov.tr / iiif_id: 0000000245350)",
+    "image_quality_notes": "IIIF viewer resolution sufficient for macro-level decoration identification and halkâr classification. Gold particle detail and fine brushwork within the halkâr not resolvable. Serlevha colour values readable.",
+    "folios_examined": ["ff. 1b–2a (p003 IIIF)"],
+    "folios_not_examined": "f. 49a (third tezhip headpiece noted in catalogue) not captured in visual confirmation session. Approximately 344 text folios unexamined."
+  }
+}

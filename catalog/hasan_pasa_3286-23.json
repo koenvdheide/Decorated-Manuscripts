@@ -1,0 +1,152 @@
+{
+  "record_id": "hasan_pasa_3286-23",
+  "collection": {
+    "institution": "Hasan Paşa Yazma Eser Kütüphanesi",
+    "city": "Çorum",
+    "country": "Turkey",
+    "shelfmark": "3286/23",
+    "yek_url": "https://portal.yek.gov.tr/yazmaeser/eser-detay/127780"
+  },
+  "manuscript": {
+    "title": "Nüzhetü't-Tarf fî İlmi's-Sarf",
+    "author": "Meydânî, Ebü'l-Fazl Ahmed b. Muhammed b. Ahmed el-Meydânî en-Nîsâbûrî (d. 518/1124)",
+    "date_ah": "1114",
+    "date_ce": "1702–1703",
+    "format": "risale within mecmûʿa (risale 23 of mecmûʿa 3286)",
+    "dimensions_mm": {
+      "height": null,
+      "width": null
+    },
+    "folio_count": null
+  },
+  "paper_decoration": {
+    "types": ["colored"],
+    "summary": "The YEK catalogue describes 'bazi yapraklar renkli' (some leaves colored) within a paper stock otherwise identified as cream-colored with anchor watermarks (çapa filigranı). The specific colored leaves were not visually confirmed because all examined screenshots showed TUYATOK catalogue cards rather than manuscript folios. Classification as mülevven (colored leaves) rests on the explicit catalogue description by cataloguer Ayşegül Ökal. The date AH 1114/1702–03 provides a relatively firm production date for the risale, consistent with the European anchor-watermarked paper stock commonly used in late Ottoman manuscript production.",
+    "technique_terms": {
+      "ottoman": "bazı yapraklar renkli; mülevven",
+      "persian": "mulavvan (ملوّن)",
+      "arabic": "mulauwwan (ملوّن)"
+    },
+    "catalogue_description": {
+      "paper_field": "Capa filigranli krem rengi kagitlarin bazi yapraklar renkli",
+      "notes_field": "Soz baslari kirmizi. 283a da eserin fihristi var. GAL S.I. 507",
+      "decoration_field": null
+    }
+  },
+  "workshop_attribution": {
+    "primary_tradition": "uncertain",
+    "workshop_centre": null,
+    "date_range_ce": "1702–1703",
+    "confidence": 0.20,
+    "key_indicators": [
+      "Dated AH 1114/CE 1702–03 provides fixed terminus",
+      "Anchor watermark (çapa filigranı) typical of European paper imported into the Ottoman world in the 17th–18th centuries",
+      "Risale 23 of a large mecmûʿa; individual production context unknown"
+    ],
+    "cross_tradition_caveats": [
+      "Workshop location is entirely unknown; Çorum (Hasan Paşa collection) is a provincial Anatolian context but the manuscript may have been produced elsewhere",
+      "The mecmûʿa may be an assembled compilation of risales from different production contexts and dates",
+      "Colored leaves alone are insufficient evidence for workshop attribution without further analysis"
+    ]
+  },
+  "codicology": {
+    "paper": {
+      "description": "Cream-colored paper with anchor watermark (çapa filigranı); some leaves colored (bazi yapraklar renkli). Medium paper weight implied by 'krem rengi' description. The anchor watermark identifies the paper as of European origin or manufacture, consistent with Ottoman paper imports of the late 17th–early 18th century.",
+      "watermark": "Çapa filigranı (anchor watermark) — European paper stock",
+      "sizing": null
+    },
+    "ruling": {
+      "description": "Section openings (söz başları) marked in red ink (kirmizi). A content index (fihrist) is noted at folio 283a of the host mecmûʿa."
+    },
+    "binding": {
+      "description": "Şemseli, zencerekli, miklepli, sırtı siyah, üstü kahverengi meşin cilt — medallion-stamped (şemse), chain-border (zencirek), with flap (miklep), black spine, brown leather binding. The binding covers the full mecmûʿa 3286."
+    },
+    "format": "risale within mecmûʿa",
+    "condition_summary": "Condition not assessed; actual manuscript folios were not captured during visual confirmation (screenshots showed TUYATOK catalogue cards).",
+    "conservation_history": null
+  },
+  "visual_confirmation": {
+    "verdict": "probable",
+    "confidence": 0.50,
+    "screenshots_examined": 1,
+    "limitations": [
+      "Coverage: the target risale (risale 23) was not located within the large mecmûʿa (367 pages); correct folio range unknown",
+      "Page 5 (p005) shows TUYATOK catalogue cards, not manuscript folios — a known issue with Hasan Paşa digitizations (documented in project Known Issues)",
+      "Colored leaf identification rests entirely on the YEK catalogue description; no visual verification achieved",
+      "No higher-resolution imaging available for this collection"
+    ]
+  },
+  "folio_analyses": [],
+  "terminology": {
+    "terms_used": [
+      {
+        "concept": "colored paper / colored leaves",
+        "ottoman": "bazı yapraklar renkli; mülevven",
+        "arabic": "mulauwwan (ملوّن)",
+        "persian": "mulavvan (ملوّن)",
+        "english": "colored paper; scattered colored leaves"
+      },
+      {
+        "concept": "watermarked (European) paper",
+        "ottoman": "filigranli kâğıt",
+        "arabic": null,
+        "persian": null,
+        "english": "watermarked paper; filigree paper"
+      },
+      {
+        "concept": "composite manuscript",
+        "ottoman": "mecmûʿa",
+        "arabic": "majmūʿa (مجموعة)",
+        "persian": "majmūʿa",
+        "english": "composite manuscript; anthology"
+      }
+    ]
+  },
+  "bibliography": [
+    {
+      "citation": "Blair, Sheila S. 'Color and Gold: The Decorated Papers Used in Manuscripts in Later Islamic Times.' Muqarnas 17 (2000): 24–36.",
+      "relevance": "Foundational survey of colored paper types in Islamic manuscripts; directly relevant to the mülevven (colored leaf) classification.",
+      "relevance_score": 0.75,
+      "access_notes": "Available via JSTOR; doi:10.1163/22118993_01700003"
+    },
+    {
+      "citation": "Bloom, Jonathan M. Paper Before Print: The History and Impact of Paper in the Islamic World. New Haven: Yale University Press, 2001.",
+      "relevance": "Background on paper trade, watermarked European paper imported into the Ottoman world, and colored paper production techniques.",
+      "relevance_score": 0.65,
+      "access_notes": "Print; widely held"
+    },
+    {
+      "citation": "Brockelmann, Carl. Geschichte der arabischen Litteratur. Supplementband I (GAL S.I.). Leiden: Brill, 1937.",
+      "relevance": "The catalogue note 'GAL S.I. 507' identifies this as a recorded text; Brockelmann S.I. 507 corresponds to the Nüzhetü't-Tarf of al-Maydānī. Standard bibliographic reference for the text tradition.",
+      "relevance_score": 0.80,
+      "access_notes": "Print; reference work. GAL S.I. = Supplementband I to Brockelmann's Geschichte der arabischen Litteratur."
+    },
+    {
+      "citation": "Gacek, Adam. Arabic Manuscripts: A Vademecum for Readers. Leiden: Brill, 2009.",
+      "relevance": "Codicological reference for mecmûʿa structure, paper terminology, and the description of colored leaves in Arabic manuscript tradition.",
+      "relevance_score": 0.60,
+      "access_notes": "Print; Brill Online"
+    }
+  ],
+  "suggested_collections": [
+    {
+      "institution": "Hasan Paşa Yazma Eser Kütüphanesi — YEK Portal",
+      "reason": "The full mecmûʿa (3286) is digitized, but the IIIF viewer pages begin with TUYATOK catalogue cards. Targeted folio navigation past the catalogue cards is required to reach the manuscript folios and locate risale 23.",
+      "digital_access": "https://portal.yek.gov.tr/yazmaeser/eser-detay/127780"
+    }
+  ],
+  "provenance": {
+    "donor": null,
+    "waqf": "Hasan Paşa Yazma Eser Kütüphanesi, Çorum",
+    "previous_shelfmarks": [],
+    "notes": "Risale 23 of composite volume mecmûʿa 3286. Dated AH 1114/CE 1702–03. Script: Taʿlîk. Language: Arabic (grammar/morphology text — Nüzhetü't-Tarf is an Arabic morphology work). Fihrist at f. 283a of host mecmûʿa. Cataloguer: Ayşegül Ökal. YEK ID: 127780; IIIF ID: 0000000123294. Text reference: GAL S.I. 507 (al-Maydānī, d. 518/1124)."
+  },
+  "analysis_metadata": {
+    "analyzed_date": "2026-02-27",
+    "analyzer": "claude-code-manuscript-pipeline",
+    "image_source": "YEK IIIF viewer (portal.yek.gov.tr); IIIF ID 0000000123294",
+    "image_quality_notes": "Screenshot p005 shows TUYATOK catalogue cards, not manuscript folios — a documented issue with Hasan Paşa digitizations (see project Known Issues). No manuscript folios examined.",
+    "folios_examined": ["p005 (TUYATOK catalogue cards only — not manuscript folios)"],
+    "folios_not_examined": "All manuscript folios of risale 23. Folio range within mecmûʿa 3286 (367 pages) not identified. Targeted folio navigation required, navigating past opening TUYATOK cards to locate the actual manuscript content."
+  }
+}

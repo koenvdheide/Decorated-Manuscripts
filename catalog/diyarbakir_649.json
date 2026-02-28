@@ -1,0 +1,222 @@
+{
+  "record_id": "diyarbakir_649",
+  "collection": {
+    "institution": "Diyarbakır İl Halk Kütüphanesi",
+    "city": "Diyarbakır",
+    "country": "Turkey",
+    "shelfmark": "649",
+    "yek_url": "https://portal.yek.gov.tr/yazmaeser/eser-detay/420976"
+  },
+  "manuscript": {
+    "title": "Hâşiye ʿalâ Envâri't-Tenzîl ve Esrâri't-Teʾvîl (حاشية على أنوار التنزيل وأسرار التأويل)",
+    "author": "Şeyhzâde, Muhyiddîn Muhammed b. Mustafa el-Kocevî er-Rûmî el-Hanefî (محيي الدين محمد القوجوي) (d. 950/1543)",
+    "date_ah": null,
+    "date_ce": null,
+    "format": "ḥāshiya (gloss on Qur'an commentary: hashiye on Baydawi's Anwar al-Tanzil)",
+    "dimensions_mm": {
+      "height": null,
+      "width": null
+    },
+    "folio_count": null,
+    "yek_id": "420976",
+    "iiif_id": "0000000418250",
+    "notes": "Incomplete copy: contains only the last juz' (thirtieth section) of the Qur'an commentary. Arabic text in taʿlīq script. Cataloguer: Nesibe Büşra Tokuş. The author's death date (AH 950 / CE 1543) provides a firm terminus post quem for the manuscript. The binding has separate ebru paper covers (ebrulu mukavva cilt) — a binding feature distinct from the colored text-block paper, not counted as paper decoration of the manuscript proper."
+  },
+  "paper_decoration": {
+    "types": ["colored"],
+    "summary": "The manuscript is written on scattered colored (mülevven / renkli) leaves — the YEK kagit_ozellikleri field reads 'rutubet lekeli bayraklı koç filigranli açık krem kaplı yapraklar renkli', indicating that among the predominantly cream-coloured leaves, certain folios are distinctly colored. Visual examination of p005 (IIIF screenshot) confirms a clearly yellow-dyed leaf on the left side of the page spread, with a lighter cream/yellow leaf on the right, providing direct visual evidence for the 'yapraklar renkli' (colored leaves) description. The specific color confirmed is yellow (sarı), with the possibility of additional colors on unexamined deeper folios. The technique is consistent with surface dyeing or immersion dyeing of individual sheets before binding — a well-documented practice in Ottoman manuscript production using organic dyes (safflower, saffron, or turmeric for yellow). The European watermark (bayraklı koç filigranı — ram with flag) identifies the paper stock as European import paper, subsequently dyed in an Islamic workshop context. Damp staining (rutubet lekesi) is noted by the cataloguer throughout. The binding additionally carries ebru (marbled) paper covers (ebrulu mukavva cilt) but this is a binding feature and is not counted here as paper decoration of the manuscript leaves.",
+    "technique_terms": {
+      "ottoman": "yapraklar renkli; mülevven; boyalı; renkli yaprak",
+      "persian": "mulavvan (ملوّن); barg-i rang-āmīz (برگ رنگ آمیز)",
+      "arabic": "mulauwwan (ملوّن); awrāq mulawwana (أوراق ملوّنة)"
+    },
+    "catalogue_description": {
+      "paper_field": "Rutubet lekeli bayraklı koç filigranli açık krem kaplı yapraklar renkli.",
+      "notes_field": "Nüsha Kur'an'ın son cüzünü ihtiva etmektedir. Söz başları kırmızıdır.",
+      "decoration_field": null
+    }
+  },
+  "workshop_attribution": {
+    "primary_tradition": "uncertain",
+    "workshop_centre": null,
+    "date_range_ce": "post-1543 (terminus post quem: death of author Şeyhzâde)",
+    "confidence": 0.25,
+    "key_indicators": [
+      "Colored paper leaves (yapraklar renkli) with a European watermark (bayraklı koç filigranı — ram-with-flag) suggest a European paper stock that was subsequently dyed in an Islamic workshop setting, a documented practice in Ottoman manuscript production from the 16th century onward",
+      "The ḥāshiya format on Baydawi's tafsīr is a standard Ottoman madrasa text genre from the mid-16th century onward, consistent with provincial Ottoman scholarly production",
+      "Diyarbakır collection context and the provincial character of the binding (deteriorated brown leather with marbled paper covers) suggest non-capital-city production"
+    ],
+    "cross_tradition_caveats": [
+      "Colored paper techniques (mülevven / boyalı) are pan-Islamic and cross-regional: yellow, blue, and green dyed papers were produced across Ottoman, Safavid, and Mughal workshops and cannot alone identify a specific tradition or centre",
+      "The manuscript is completely undated; the author's death date (AH 950 / CE 1543) provides only a terminus post quem, leaving the date range spanning nearly four centuries of possible production",
+      "European paper stock (bayraklı koç filigranı) is consistent with Ottoman provincial use of imported European paper from the 16th century onward but does not specify place or date of dyeing or manuscript production",
+      "No scribal colophon, patron name, or place of production is recorded in the available catalogue data; workshop attribution is therefore speculative"
+    ]
+  },
+  "codicology": {
+    "paper": {
+      "description": "European watermarked paper: bayraklı koç filigranı (ram with flag / bannered ram watermark). Paper is predominantly open cream (açık krem) colored, with scattered individually dyed colored leaves (yapraklar renkli). Damp staining (rutubet lekesi) noted throughout. The ram watermark with flag is a common class of European paper exported to the Ottoman market from Italian and French mills in the 16th–18th centuries.",
+      "watermark": "Bayraklı koç filigranı (ram with flag / bannered ram); European origin",
+      "color": "Predominantly açık krem (open cream); scattered yapraklar renkli (colored leaves), yellow confirmed by visual examination"
+    },
+    "ruling": {
+      "description": "Söz başları kırmızıdır (text incipits in red). No cedvel or elaborate ruling system is noted in the catalogue; consistent with a working scholarly manuscript rather than a luxury copy.",
+      "ink_colors": ["black", "red (for incipits)"],
+      "lines_per_page": null
+    },
+    "binding": {
+      "description": "Sağ kapak gövdeden ayrılmış, sırtı çok yıpranmış, kahverengi meşin üstü lekeli aşınmış, ebru kâğıt kaplı mukavva cilt. Brown leather (kahverengi meşin) with marbled paper covers on boards (ebrulu mukavva). Right cover detached from spine; spine heavily worn; leather surface stained and abraded. The marbled paper on the binding covers is distinct from and should not be confused with the colored paper leaves of the manuscript text block.",
+      "binding_type": "Marbled paper over boards (mukavva) with leather spine",
+      "materials": ["kahverengi meşin (brown leather)", "ebru kâğıt (marbled paper covers)"],
+      "decoration": ["ebrulu mukavva kaplı (marbled paper boards)"]
+    },
+    "format": "ḥāshiya (gloss on Qur'an commentary)",
+    "condition_summary": "Poor to fair. Right cover detached; spine heavily worn; leather stained and abraded; damp staining (rutubet lekesi) throughout text block. The volume survives as an incomplete copy (last juz' only) and shows signs of heavy use.",
+    "conservation_history": null
+  },
+  "visual_confirmation": {
+    "verdict": "confirmed",
+    "confidence": 0.88,
+    "screenshots_examined": 1,
+    "limitations": [
+      "Only one IIIF screenshot examined (p005); only two page faces visible, limiting assessment of the full extent and color range of the colored leaves",
+      "Deeper folios not examined: additional colors beyond yellow may exist on unexamined leaves (the catalogue phrase 'yapraklar renkli' is plural and could imply multiple colors, though only yellow is confirmed visually)",
+      "The p005 screenshot does not permit determination of the dyeing technique (surface vs. immersion dyeing) at available digital resolution"
+    ]
+  },
+  "folio_analyses": [
+    {
+      "folio": "p005 — text leaves, mid-volume (IIIF)",
+      "source_image": "corpus/visual_confirmation_batch3/diyarbakir_649_p005_iiif.png",
+      "decoration_present": true,
+      "decoration_types": ["colored"],
+      "elements": [
+        {
+          "motif": "Yellow-dyed leaf (sarı boyalı yaprak)",
+          "description": "The left page of the p005 spread shows a distinctly yellow-dyed leaf: the paper ground is clearly a saturated yellow tone, visually distinct from the lighter cream/yellow of the right-side leaf. The color differential between the two leaves on this spread confirms that individual leaves within the text block carry different color treatments — one leaf is intentionally yellow-dyed (boyalı / mülevven), while the adjacent leaf is natural cream paper. The yellow tone is consistent with organic yellow dyes used in Ottoman manuscript production (safflower, saffron, or turmeric-based dyes). The taʿlīq script text is written in black ink over the yellow ground, and the colored ground does not impede legibility.",
+          "location": "Full left leaf of p005 spread",
+          "confidence": 0.88
+        }
+      ],
+      "confidence": 0.88,
+      "notes": "Yellow-dyed leaf definitively confirmed. The color is intentional — the contrast with the adjacent cream leaf rules out uniform paper aging or yellowing. This directly confirms the catalogue description 'yapraklar renkli' (colored leaves). Whether additional colors (blue, green, pink, etc.) appear on other folios cannot be determined from this single screenshot."
+    }
+  ],
+  "terminology": {
+    "terms_used": [
+      {
+        "concept": "Colored leaves / colored paper",
+        "ottoman": "yapraklar renkli / renkli yaprak / mülevven kâğıt (ملوّن)",
+        "arabic": "awrāq mulawwana (أوراق ملوّنة)",
+        "persian": "barg-i mulavvan (برگ ملوّن) / kāġaḏ-e mulavvan (کاغذ ملوّن)",
+        "english": "Individually colored / dyed leaves: manuscript leaves in which individual folios (or alternating folios) have been dyed in a single color before writing; distinct from the uniform coloring of the entire paper stock. Ottoman cataloguing variants: 'yapraklar renkli', 'renkli yaprak', 'mülevven', 'boyalı'."
+      },
+      {
+        "concept": "Yellow-dyed paper",
+        "ottoman": "sarı boyalı kâğıt / sarı mülevven",
+        "arabic": null,
+        "persian": "kāġaḏ-e zard (کاغذ زرد)",
+        "english": "Yellow-dyed paper: manuscript paper dyed yellow, typically using organic dyes (safflower, saffron, turmeric, or buckthorn in later Ottoman production); confirmed in this manuscript by visual examination of p005"
+      },
+      {
+        "concept": "Watermark / filigree",
+        "ottoman": "filigran (فيليگران)",
+        "arabic": "filagrān (فيلاغران)",
+        "persian": "filagrān (فیلاگران)",
+        "english": "Watermark: the translucent design formed in paper during manufacture by a wire form on the papermaking mould; used to identify the paper mill, region, and approximate date of production. The bayraklı koç (ram-with-flag / bannered ram) is a common class of European export paper watermark."
+      },
+      {
+        "concept": "Ram-with-flag watermark",
+        "ottoman": "bayraklı koç filigranı",
+        "arabic": null,
+        "persian": null,
+        "english": "Bannered-ram / ram-with-flag watermark: a European paper watermark depicting a standing ram (sometimes in a circle or shield) with a flag or banner; one of the most common watermark classes in Ottoman manuscript paper of the 16th–18th centuries, produced by Italian and French mills for the Levant trade"
+      },
+      {
+        "concept": "Gloss / commentary on a commentary",
+        "ottoman": "hâşiye (حاشيه)",
+        "arabic": "ḥāshiya (حاشية)",
+        "persian": "ḥāshiya (حاشیه)",
+        "english": "Gloss or super-commentary: a scholarly text written as a commentary on an existing commentary (here: Şeyhzâde's gloss on Bayḍāwī's Anwār al-Tanzīl); a standard genre of Ottoman madrasa scholarship"
+      },
+      {
+        "concept": "Damp staining",
+        "ottoman": "rutubet lekesi",
+        "arabic": null,
+        "persian": null,
+        "english": "Damp staining / water damage: staining caused by moisture penetration into the manuscript; recorded in the catalogue as 'rutubet lekeli' (damp-stained); a condition assessment term indicating historic water damage"
+      }
+    ]
+  },
+  "bibliography": [
+    {
+      "citation": "Blair, Sheila S. 'Color and Gold: The Decorated Papers Used in Manuscripts in Later Islamic Times.' Muqarnas 17 (2000): 24–36.",
+      "relevance": "The primary scholarly reference on colored papers (mülevven / mulauwwan) in later Islamic manuscripts; discusses the range of dyed papers — including yellow, blue, green, and pink — used across Ottoman, Safavid, and Mughal manuscript production. Directly relevant to the renkli yaprak of this Diyarbakır manuscript.",
+      "relevance_score": 0.90,
+      "access_notes": "Peer-reviewed. JSTOR access. Open access likely via institutional repositories."
+    },
+    {
+      "citation": "Bloom, Jonathan M. Paper Before Print: The History and Impact of Paper in the Islamic World. New Haven: Yale University Press, 2001.",
+      "relevance": "Covers the history of paper production and trade in the Islamic world, including the importation of European watermarked papers and their use in Islamic manuscript production; directly relevant to the bayraklı koç filigranı (European watermarked paper) that forms the stock of this manuscript.",
+      "relevance_score": 0.85,
+      "access_notes": "Available at major research libraries."
+    },
+    {
+      "citation": "Loveday, Helen. Islamic Paper: A Study of the Ancient Craft. London: Don Baker Memorial Fund, 2001.",
+      "relevance": "Specialized study of Islamic papermaking and paper varieties, including the identification of European import papers and the dyeing of paper for manuscript use; relevant to identifying the production context of the European watermarked colored paper in this Diyarbakır manuscript.",
+      "relevance_score": 0.80,
+      "access_notes": "Available at specialist libraries in Islamic manuscript studies."
+    },
+    {
+      "citation": "Gacek, Adam. The Arabic Manuscript Tradition: A Glossary of Technical Terms and Bibliography. Handbuch der Orientalistik, Erste Abteilung, Bd. 58. Leiden: Brill, 2001.",
+      "relevance": "Defines technical terminology for Arabic and Ottoman manuscript description including paper types, ruling conventions, and script identification; provides standardized definitions for ḥāshiya format and taʿlīq script relevant to this record.",
+      "relevance_score": 0.75,
+      "access_notes": "Available at major research libraries."
+    },
+    {
+      "citation": "Déroche, François. Islamic Codicology: An Introduction to the Study of Manuscripts in Arabic Script. Translated by Deke Dusinberre and David Radzinowicz. London: Al-Furqan Islamic Heritage Foundation, 2005.",
+      "relevance": "Standard codicological reference for Arabic-script manuscripts; covers paper identification, watermark analysis, ruling systems, and binding description — all applicable to the physical description of this Diyarbakır manuscript.",
+      "relevance_score": 0.75,
+      "access_notes": "Available at major research libraries and partially online."
+    },
+    {
+      "citation": "Sturkenboom, Ilse. 'Identifying Chinese Decorated Paper in Persianate Manuscripts: Methodological Challenges.' GlobalDecoPaper ERC Project, LMU Munich (forthcoming).",
+      "relevance": "Forthcoming research from the GlobalDecoPaper project on the identification and classification of decorated and dyed papers in Islamic manuscripts; methodological framework relevant to the challenge of attributing colored paper techniques across Ottoman, Safavid, and import paper contexts, including the identification of European paper stocks subsequently dyed for Islamic manuscript use.",
+      "relevance_score": 0.65,
+      "access_notes": "Forthcoming. GlobalDecoPaper ERC Project, LMU Munich. Monitor project outputs at globaldecoratedpaper.eu."
+    }
+  ],
+  "suggested_collections": [
+    {
+      "institution": "Diyarbakır İl Halk Kütüphanesi, Diyarbakır",
+      "reason": "The home collection. Other manuscripts in the Diyarbakır collection may share similar paper stocks, binding styles, and regional production characteristics; comparative examination of adjacent shelfmarks would help establish local patterns.",
+      "digital_access": "https://portal.yek.gov.tr"
+    },
+    {
+      "institution": "Süleymaniye Kütüphanesi, Istanbul",
+      "reason": "Holds the largest concentration of Ottoman Qur'an commentary manuscripts (tafsīr and ḥāshiya genres) for comparative study; also holds examples of manuscripts on European watermarked and colored papers that would provide codicological comparanda.",
+      "digital_access": "https://portal.yek.gov.tr"
+    },
+    {
+      "institution": "Bodleian Library, Oxford",
+      "reason": "Significant holdings of Ottoman and provincial Islamic manuscripts including examples on European import papers and colored paper stocks; the Bodleian's watermark archive and paper databases are relevant for identifying the bayraklı koç filigranı more precisely.",
+      "digital_access": "https://digital.bodleian.ox.ac.uk"
+    }
+  ],
+  "provenance": {
+    "donor": null,
+    "waqf": null,
+    "previous_shelfmarks": [],
+    "notes": "The manuscript is held in the Diyarbakır İl Halk Kütüphanesi (Diyarbakır Provincial Public Library), southeastern Turkey. No donor, waqf, or previous shelfmark information is recorded in the available catalogue data. The provincial collection context and the deteriorated condition of the binding suggest the volume did not pass through a major Istanbul collection. Catalogued by Nesibe Büşra Tokuş. The text is an incomplete copy containing only the last juz' (thirtieth section, Juz' ʿAmma) of Şeyhzâde's ḥāshiya on Bayḍāwī's Anwār al-Tanzīl — a standard madrasa text widely copied across the Ottoman Empire from the mid-16th century onward. Vol. 2 cross-reference: none applicable; this is a self-contained (if incomplete) single-volume copy. The binding also carries ebru (marbled) paper covers (ebrulu mukavva cilt) which are a binding feature distinct from the colored manuscript leaves."
+  },
+  "analysis_metadata": {
+    "analyzed_date": "2026-02-27",
+    "analyzer": "claude-code-manuscript-pipeline",
+    "image_source": "YEK Portal IIIF — Diyarbakır İl Halk Kütüphanesi (portal.yek.gov.tr); screenshot via visual-confirmation agent (Batch 3, 2026-02-26). Primary yek_id for IIIF access: 420976.",
+    "image_quality_notes": "One IIIF screenshot examined (p005). Image quality is adequate for confirmation of the yellow colored leaf: the color differential between the clearly yellow left leaf and the cream right leaf is unambiguous at available resolution. Dyeing technique (surface vs. immersion dyeing) cannot be determined from this view. Script (taʿlīq) is legible on the yellow ground. The full extent and color variety of the renkli yaprak program across the codex cannot be assessed from a single screenshot.",
+    "folios_examined": [
+      "p005 (two text leaves — left: yellow-dyed leaf confirmed; right: cream/light leaf)"
+    ],
+    "folios_not_examined": "All remaining folios of the text body; opening page(s); colophon/hātime (if present); full extent of colored leaves program. Only 1 of an unknown total number of IIIF pages was examined. Additional colors beyond yellow may be present on unexamined leaves."
+  }
+}

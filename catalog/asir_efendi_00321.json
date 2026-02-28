@@ -1,0 +1,184 @@
+{
+  "record_id": "asir_efendi_00321",
+  "collection": {
+    "institution": "Süleymaniye Kütüphanesi — Âşir Efendi Koleksiyonu",
+    "city": "Istanbul",
+    "country": "Turkey",
+    "shelfmark": "00321",
+    "yek_url": "https://portal.yek.gov.tr/yazmaeser/eser-detay/198156"
+  },
+  "manuscript": {
+    "title": "Münşeʾât (منشآت)",
+    "author": "Abdülkerîm Çelebi, Abdülkerîm b. Sinân el-Akhisârî (d. 1038/1629)",
+    "date_ah": "1053",
+    "date_ce": "1643–1644",
+    "format": "münşeʾât (epistolary collection)",
+    "dimensions_mm": {
+      "height": null,
+      "width": null
+    },
+    "folio_count": null,
+    "yek_id": "198156",
+    "iiif_id": "0000000234074",
+    "notes": "The zahriye (frontispiece) on f. 1a records the title as 'Münşeʾât-ı Kerîm Çelebi'. Section headings and terms such as 'nazm' and 'beyt' are rubricated (kırmızı mürekkep); text openings are also marked in red. Script: taʿlîk. Language: Turkish."
+  },
+  "paper_decoration": {
+    "types": ["colored"],
+    "summary": "The YEK catalogue records the paper as 'mülevven kâğıt' (colored paper). Visual confirmation of p003 (IIIF screenshot) shows a slightly pinkish or warm-tinted paper tone distinguishable from standard cream — consistent with a lightly dyed mülevven ground. The color shift is subtle and digital images do not allow reliable classification of the dyestuff or precise hue. Identification rests primarily on the catalogue description; visual evidence is corroborating but not independently conclusive at available digital resolution.",
+    "technique_terms": {
+      "ottoman": "mülevven kâğıt",
+      "persian": "kāġaz-i mulavvan (کاغذ ملوّن)",
+      "arabic": "waraq mulawwan (ورق ملوّن)"
+    },
+    "catalogue_description": {
+      "paper_field": "Mulevven kagit. ;",
+      "notes_field": "1a zahriyede eser adi 'Munse'at-i Kerim Celebi' seklinde kaydedilmistir. Basliklar ve 'nazm', 'beyt' gibi bazi ibareler kirmizi murekkepla yazilmistir. Soz baslari kirmizi murekkepla isaret edilmistir.",
+      "decoration_field": null
+    }
+  },
+  "workshop_attribution": {
+    "primary_tradition": "ottoman",
+    "workshop_centre": null,
+    "date_range_ce": "1643–1644",
+    "confidence": 0.55,
+    "key_indicators": [
+      "AH 1053 / CE 1643–44 dated copy of a Turkish epistolary collection: mid-17th-century Ottoman production context",
+      "Mülevven kâğıt paper: colored paper is a known luxury paper type in 17th-century Ottoman manuscript production",
+      "Taʿlîk script with rubricated headings: standard features of Ottoman inşâ texts of this period"
+    ],
+    "cross_tradition_caveats": [
+      "No workshop city stated; colored paper was used across Ottoman provinces as well as Istanbul",
+      "Subtle pinkish tint of the colored paper cannot be more precisely characterized from digital images alone"
+    ]
+  },
+  "codicology": {
+    "paper": {
+      "description": "Mülevven kâğıt — colored paper. The specific color is a pinkish or warm tone (lightly dyed; not deeply pigmented); color shift subtle at available digital resolution.",
+      "watermark": null,
+      "color": "pinkish/warm-tinted (probable)"
+    },
+    "ruling": {
+      "description": "Not specified in catalogue. Rubricated section headings and text-opening markers noted.",
+      "ink_colors": ["black", "red (rubricated)"],
+      "lines_per_page": null
+    },
+    "binding": {
+      "description": "Miklebi onarılmış, yaldız şemseli, zencerekli, kahverengi meşin cilt. Brown leather (meşin) binding with gilt şemse (central medallion), zencirek (chain border), and a repaired mıklep (flap).",
+      "binding_type": "full leather with flap (mıkleplı cilt)",
+      "materials": ["meşin (brown leather)"],
+      "decoration": ["yaldız şemseli (gilt medallion)", "zencerekli (chain border)", "mıklep repaired"]
+    },
+    "format": "münşeʾât",
+    "condition_summary": "Binding mıklep has been repaired. Otherwise no damage reported in catalogue.",
+    "conservation_history": "Mıklep (flap) repaired at an unspecified date."
+  },
+  "visual_confirmation": {
+    "verdict": "probable",
+    "confidence": 0.70,
+    "screenshots_examined": 1,
+    "limitations": [
+      "Only one IIIF screenshot examined (p003); the subtle pinkish tint of the paper is consistent with mülevven but not distinguishable with certainty from slight aging or digitization color shift",
+      "Limiting factor: visual ambiguity — subtle color differentiation unreliable in digital images",
+      "No particle-level or pigment-level analysis possible from available images"
+    ]
+  },
+  "folio_analyses": [
+    {
+      "folio": "p003 (IIIF)",
+      "source_image": "corpus/visual_confirmation_batch3/asir_efendi_00321_p003_iiif.png",
+      "decoration_present": true,
+      "decoration_types": ["colored"],
+      "elements": [
+        {
+          "motif": "Mülevven kâğıt — pinkish/warm tint",
+          "description": "Paper has a slightly pinkish or warm-toned tint distinguishable from standard cream. Consistent with a lightly dyed colored (mülevven) paper. Color shift is subtle; digitization conditions and display calibration introduce uncertainty.",
+          "location": "Full page",
+          "confidence": 0.65
+        }
+      ],
+      "confidence": 0.65,
+      "notes": "Visual evidence is corroborating but not independently conclusive. Classification relies primarily on the YEK catalogue's 'mülevven kâğıt' description."
+    }
+  ],
+  "terminology": {
+    "terms_used": [
+      {
+        "concept": "Colored paper",
+        "ottoman": "mülevven kâğıt (ملوّن کاغذ)",
+        "arabic": "waraq mulawwan (ورق ملوّن)",
+        "persian": "kāġaz-i mulavvan (کاغذ ملوّن)",
+        "english": "Colored/tinted paper: paper dyed or pigmented to produce a uniform or near-uniform color ground before writing; a recognized luxury paper category in Ottoman manuscript production"
+      },
+      {
+        "concept": "Epistolary collection",
+        "ottoman": "münşeʾât (منشآت)",
+        "arabic": "munšaʾāt (منشآت)",
+        "persian": "munšaʾāt (منشآت)",
+        "english": "Collection of model letters, official documents, or prose compositions in the inşâ (chancery composition) tradition; a common Ottoman literary format"
+      },
+      {
+        "concept": "Frontispiece",
+        "ottoman": "zahriye (ظهریه)",
+        "arabic": null,
+        "persian": null,
+        "english": "Frontispiece opening page, typically carrying the title and possibly ownership or donation inscriptions"
+      },
+      {
+        "concept": "Chain border (ruling)",
+        "ottoman": "zencirek / zencerek (زنجيرك)",
+        "arabic": null,
+        "persian": null,
+        "english": "Chain or interlinking loop border motif used on binding covers and occasionally in page framing"
+      }
+    ]
+  },
+  "bibliography": [
+    {
+      "citation": "Blair, Sheila S. 'Color and Gold: The Decorated Papers Used in Manuscripts in Later Islamic Times.' Muqarnas 17 (2000): 24–36.",
+      "relevance": "Primary reference on colored (mülevven) and other decorated papers in later Islamic manuscripts; directly addresses the paper type recorded for this manuscript.",
+      "relevance_score": 0.90,
+      "access_notes": "Peer-reviewed. JSTOR access."
+    },
+    {
+      "citation": "Gacek, Adam. The Arabic Manuscript Tradition: A Glossary of Technical Terms and Bibliography. Handbuch der Orientalistik, Erste Abteilung, Bd. 58. Leiden: Brill, 2001.",
+      "relevance": "Standard terminological reference for paper description, ruling, and manuscript format; useful for standardizing the description of this Ottoman inşâ manuscript.",
+      "relevance_score": 0.70,
+      "access_notes": "Available at major research libraries."
+    },
+    {
+      "citation": "Bloom, Jonathan M. Paper Before Print: The History and Impact of Paper in the Islamic World. New Haven: Yale University Press, 2001.",
+      "relevance": "Comprehensive history of Islamic paper production and decoration, providing context for the use of colored paper in 17th-century Ottoman manuscripts.",
+      "relevance_score": 0.65,
+      "access_notes": "Available at major research libraries."
+    },
+    {
+      "citation": "Déroche, François. Islamic Codicology: An Introduction to the Study of Manuscripts in Arabic Script. Translated by Deke Dusinberre and David Radzinowicz. London: Al-Furqan Islamic Heritage Foundation, 2005.",
+      "relevance": "Standard codicological reference for manuscript physical description, covering paper types, ruling, and binding conventions applicable to this Ottoman epistolary manuscript.",
+      "relevance_score": 0.60,
+      "access_notes": "Available at major research libraries."
+    }
+  ],
+  "suggested_collections": [
+    {
+      "institution": "Süleymaniye Kütüphanesi — Âşir Efendi Koleksiyonu, Istanbul",
+      "reason": "The home collection. Other volumes in the Âşir Efendi Koleksiyonu may share similar paper treatments and binding styles.",
+      "digital_access": "https://portal.yek.gov.tr"
+    }
+  ],
+  "provenance": {
+    "donor": null,
+    "waqf": "Âşir Efendi Vakfı (inferred from collection name)",
+    "previous_shelfmarks": [],
+    "notes": "Held in the Âşir Efendi Koleksiyonu at Süleymaniye Kütüphanesi, Istanbul. The title on the frontispiece (f. 1a) reads 'Münşeʾât-ı Kerîm Çelebi', confirming the attribution to Abdülkerîm Çelebi el-Akhisârî (d. 1038/1629). The copy is dated AH 1053 / CE 1643–44, approximately 14 years after the author's death."
+  },
+  "analysis_metadata": {
+    "analyzed_date": "2026-02-27",
+    "analyzer": "claude-code-manuscript-pipeline",
+    "image_source": "YEK Portal IIIF — Süleymaniye Kütüphanesi Âşir Efendi Koleksiyonu (portal.yek.gov.tr); screenshot via visual-confirmation agent (Batch 3, 2026-02-26). yek_id: 198156, iiif_id: 0000000234074.",
+    "image_quality_notes": "One IIIF screenshot examined (p003). The pinkish/warm tint of the paper is visible but subtle; reliable color classification is not possible from digital images alone. Overall confidence is limited by visual ambiguity inherent in subtle color differentiation at screen resolution.",
+    "folios_examined": [
+      "p003 (IIIF — body text page, mülevven paper tint visible)"
+    ],
+    "folios_not_examined": "Zahriye (f. 1a with title inscription); opening text pages; all remaining folios. The extent of the colored paper programme across the volume has not been assessed visually."
+  }
+}

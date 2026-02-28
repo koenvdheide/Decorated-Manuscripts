@@ -1,0 +1,191 @@
+{
+  "record_id": "damad_ibrahim_pasa_00027-002",
+  "collection": {
+    "institution": "Süleymaniye Kütüphanesi — Damad İbrahim Paşa Koleksiyonu",
+    "city": "Istanbul",
+    "country": "Turkey",
+    "shelfmark": "00027-002",
+    "yek_url": "https://portal.yek.gov.tr/yazmaeser/eser-detay/688282"
+  },
+  "manuscript": {
+    "title": "Tenbîhü'l-Efhâm ilâ Tedebbüri'l-Kitâbi'l-Hakîm ve Taʿarrufü'l-Âyât ve'n-Nebei'l-Azîm (تنبيه الأفهام إلى تدبّر الكتاب الحكيم وتعرّف الآيات والنبأ العظيم) — vol. 2",
+    "author": "İbn Berrecân, Ebü'l-Hakem Abdüsselâm b. Abdurrahmân b. Muhammed el-İşbîlî el-Lahmî (d. 536/1142) (ابن برجان)",
+    "date_ah": "1128",
+    "date_ce": "1715–1716",
+    "format": "tafsīr (Qur'an commentary)",
+    "dimensions_mm": {
+      "height": null,
+      "width": null
+    },
+    "folio_count": null,
+    "yek_id": "688282",
+    "iiif_id": "0000000669853",
+    "notes": "Volume 2 of a 2-volume set. Vol. 1 is shelfmark 00027-001, yek_id 231531, iiif_id 0000000200699 (confirmed, visual confidence 0.92; catalogued 2026-02-27). Both volumes share the same decorative programme: hatip ebrulu vikāye yaprağı, mihrabiye, müzehhep sūre başlıkları, and gold cetvels. Vol. 2 independently corroborates vol. 1's catalogue description with its own 'nüshanın vikāye yaprağı hatip ebrūludur' statement. Binding for vol. 2 not specified in available catalogue records; expected to match vol. 1's luxury meşin cilt (yaldızlı cetvelli, salbek şemseli, köşebentli, mıkleplı). Cross-reference: catalog/damad_ibrahim_pasa_00027-001.json."
+  },
+  "paper_decoration": {
+    "types": ["marbled", "illuminated_margins", "framing_system"],
+    "summary": "The vol. 2 catalogue independently records 'nüshanın vikāye yaprağı hatip ebrūludur' — a hatip-marbled (floral/vegetal subtype) protective flyleaf at the opening of the volume. The same phrase appears in vol. 1's catalogue entry, confirming this as a consistent decorative feature of the complete 2-volume set rather than incidental to one volume. Beyond the marbled flyleaf, vol. 2 carries the same full luxury illumination programme: mihrabiye (arched niche headpiece), müzehhep sūre başlıkları (gilded surah title cartouches), and altın cedvel (gold ruling lines) throughout. Visual examination of p003 (IIIF) showed only plain cream paper — the hatip ebrulu vikāye yaprağı was not captured on this page. The verdict relies on the independent catalogue corroboration of vol. 1 and the textual description in vol. 2's own record.",
+    "technique_terms": {
+      "ottoman": "vikāye yaprağı hatip ebrūlu; mihrabiye; müzehhep sūre başlıkları; altın cedvel",
+      "persian": "kāġaḏ-e abrī (کاغذ ابری); jadval (جدول)",
+      "arabic": "waraqa wiqāʾiyya mabriya (ورقة وقائية مبرية); jadwal mudhahhab (جدول مذهّب)"
+    },
+    "catalogue_description": {
+      "paper_field": null,
+      "notes_field": "Nushanin vikaye yapragi hatip ebruludur. ... Nushada mihrabiye, sure basliklari muzehhep, sayfa cetvelleri altin yaldizlidir.",
+      "decoration_field": null
+    }
+  },
+  "workshop_attribution": {
+    "primary_tradition": "ottoman",
+    "workshop_centre": "Istanbul (probable — same set as vol. 1; Damad İbrahim Paşa patronage)",
+    "date_range_ce": "1715–1716",
+    "confidence": 0.80,
+    "key_indicators": [
+      "AH 1128 / CE 1715–16 copy; same date as confirmed vol. 1 — both volumes are products of a single production campaign",
+      "Hatip ebrulu vikāye yaprağı: identical feature in both volumes, consistent with a single luxury Istanbul workshop commission",
+      "Full illumination programme (mihrabiye, müzehhep sūre başlıkları, altın cedvel): standard features of high-grade Ottoman tafsīr production in Istanbul",
+      "Damad İbrahim Paşa Koleksiyonu: associated with Nevşehirli Damad İbrahim Paşa (Grand Vizier 1718–1730), the principal patron of the Tulip Period"
+    ],
+    "cross_tradition_caveats": [
+      "Hatip ebru subtype unconfirmed visually in vol. 2 (flyleaf not captured in examined IIIF page); accepted on the basis of catalogue text and vol. 1 confirmation",
+      "No colophon city stated; Istanbul attribution inferred from patronage context",
+      "Hatip ebru production was not exclusive to Istanbul"
+    ]
+  },
+  "codicology": {
+    "paper": {
+      "description": "No kagit_ozellikleri entry in vol. 2 catalogue. Text body presumed cream Oriental paper matching vol. 1. Vikāye yaprağı (flyleaf) in hatip ebrulu paper, as per catalogue.",
+      "watermark": null,
+      "color": "cream (assumed); hatip ebrulu flyleaf"
+    },
+    "ruling": {
+      "description": "Sayfa cetvelleri altın yaldızlıdır — gold ruling throughout. Consistent with vol. 1.",
+      "ink_colors": ["gold"],
+      "lines_per_page": null
+    },
+    "binding": {
+      "description": "Not specified in available catalogue records for vol. 2. Expected to match vol. 1: yaldızlı cetvelli, salbek şemseli, köşebentli, mıkleplı meşin cilt.",
+      "binding_type": "full leather with flap (presumed; matching vol. 1)",
+      "materials": ["meşin (goatskin leather, presumed)"],
+      "decoration": ["presumed to match vol. 1: yaldızlı cetvelli, salbek şemseli, köşebentli"]
+    },
+    "format": "tafsīr",
+    "condition_summary": "No condition assessment available. Volume is digitized and accessible via YEK IIIF.",
+    "conservation_history": null
+  },
+  "visual_confirmation": {
+    "verdict": "probable",
+    "confidence": 0.70,
+    "screenshots_examined": 1,
+    "limitations": [
+      "Only one IIIF screenshot examined (p003); page showed plain cream paper — the hatip ebrulu vikāye yaprağı was not captured",
+      "Limiting factor: coverage — the vol. 2 flyleaf has not yet been located or photographed via IIIF",
+      "Verdict relies on independent catalogue text corroboration and visual confirmation of vol. 1 (damad_ibrahim_pasa_00027-001, confirmed 0.92)"
+    ]
+  },
+  "folio_analyses": [
+    {
+      "folio": "p003 (IIIF)",
+      "source_image": "corpus/visual_confirmation_batch3/damad_ibrahim_pasa_00027-002_p003_iiif.png",
+      "decoration_present": false,
+      "decoration_types": [],
+      "elements": [
+        {
+          "motif": "Plain cream text paper",
+          "description": "p003 shows an opening text page with plain cream paper and manuscript text. The hatip ebrulu vikāye yaprağı was not captured on this IIIF page; it is likely on an earlier page within the volume that was not examined.",
+          "location": "Full page",
+          "confidence": 0.50
+        }
+      ],
+      "confidence": 0.50,
+      "notes": "No decoration detected on this page. The marbled flyleaf is documented in the catalogue but has not been located in the available IIIF pages. The 'probable' verdict rests on catalogue evidence and the confirmed status of vol. 1."
+    }
+  ],
+  "terminology": {
+    "terms_used": [
+      {
+        "concept": "Protective / guard flyleaf",
+        "ottoman": "vikāye yaprağı (وقايه يپراغی)",
+        "arabic": "waraqa wiqāʾiyya (ورقة وقائية)",
+        "persian": "barg-i vikāya (برگ وقایه)",
+        "english": "Protective flyleaf placed at the opening of a manuscript; in Ottoman luxury manuscripts frequently executed in decorated paper such as hatip ebru"
+      },
+      {
+        "concept": "Hatip marbling (floral/vegetal subtype)",
+        "ottoman": "hatip ebru (هاتپ ابرو)",
+        "arabic": null,
+        "persian": null,
+        "english": "Hatip ebru: marbling subtype producing floral or vegetal motifs; named after the imam-marbler Hatip Mehmed Efendi (d. 1773)"
+      },
+      {
+        "concept": "Arched niche headpiece",
+        "ottoman": "mihrabiye (محرابيه)",
+        "arabic": "miḥrābiyya (محرابية)",
+        "persian": "miḥrābiyya (محرابیه)",
+        "english": "Decorative headpiece in the form of an arched niche at the opening of a manuscript text"
+      },
+      {
+        "concept": "Gilded surah title cartouches",
+        "ottoman": "müzehhep sūre başlıkları (مذهّب سوره باشليقلری)",
+        "arabic": "ʿanāwīn al-suwar al-mudhahhaba (عناوين السور المذهّبة)",
+        "persian": null,
+        "english": "Gilded headings marking the beginning of Qur'anic suras; a standard feature of luxury Ottoman Qur'an commentary manuscripts"
+      }
+    ]
+  },
+  "bibliography": [
+    {
+      "citation": "Blair, Sheila S. 'Color and Gold: The Decorated Papers Used in Manuscripts in Later Islamic Times.' Muqarnas 17 (2000): 24–36.",
+      "relevance": "Primary reference on decorated papers including hatip ebrulu flyleaves in later Islamic manuscripts; directly relevant to the marbled flyleaf of this Qur'an commentary.",
+      "relevance_score": 0.90,
+      "access_notes": "Peer-reviewed. JSTOR access."
+    },
+    {
+      "citation": "Tanındı, Zeren. 'Bibliophile Aghas (Eunuchs) at Topkapı Sarayı.' Muqarnas 21 (2004): 333–343.",
+      "relevance": "Examines luxury book production in the Tulip Period Ottoman court, the milieu of Damad İbrahim Paşa's patronage; discusses decorated manuscripts and luxury papers including hatip ebru in Istanbul collections.",
+      "relevance_score": 0.82,
+      "access_notes": "Peer-reviewed. JSTOR access."
+    },
+    {
+      "citation": "Bloom, Jonathan M. Paper Before Print: The History and Impact of Paper in the Islamic World. New Haven: Yale University Press, 2001.",
+      "relevance": "Comprehensive history of Islamic paper including marbled paper production and the hatip ebru tradition in Ottoman Turkey.",
+      "relevance_score": 0.75,
+      "access_notes": "Available at major research libraries."
+    },
+    {
+      "citation": "Déroche, François. Islamic Codicology: An Introduction to the Study of Manuscripts in Arabic Script. Translated by Deke Dusinberre and David Radzinowicz. London: Al-Furqan Islamic Heritage Foundation, 2005.",
+      "relevance": "Standard reference for Qur'an commentary manuscripts; covers protective flyleaf usage, ruling conventions, and decorative programme structure in multi-volume tafsīr sets.",
+      "relevance_score": 0.72,
+      "access_notes": "Available at major research libraries."
+    }
+  ],
+  "suggested_collections": [
+    {
+      "institution": "Süleymaniye Kütüphanesi — Damad İbrahim Paşa Koleksiyonu, Istanbul",
+      "reason": "Home collection. Vol. 1 of this set (shelfmark 00027-001, confirmed) should be consulted alongside vol. 2. Other volumes in the collection may share the same luxury paper and binding programme.",
+      "digital_access": "https://portal.yek.gov.tr"
+    },
+    {
+      "institution": "Topkapı Sarayı Müzesi Kütüphanesi, Istanbul",
+      "reason": "Major repository of Tulip Period luxury manuscripts; directly comparable luxury bindings and hatip ebru paper programmes from the same period.",
+      "digital_access": "https://kutuphane.tsmk.gov.tr"
+    }
+  ],
+  "provenance": {
+    "donor": "Nevşehirli Damad İbrahim Paşa (d. 1730)",
+    "waqf": "Damad İbrahim Paşa Vakfı",
+    "previous_shelfmarks": [],
+    "notes": "Volume 2 of a 2-volume tafsīr set; vol. 1 is shelfmark 00027-001 (yek_id 231531), catalogued at catalog/damad_ibrahim_pasa_00027-001.json (confirmed, 0.92). Both volumes belong to the vakfī library of Nevşehirli Damad İbrahim Paşa (Grand Vizier 1718–1730), the principal patron of the Tulip Period (Lâle Devri). The AH 1128 / CE 1715–16 copy predates his vizierate by several years. The vol. 2 catalogue independently confirms 'vikāye yaprağı hatip ebrūludur', establishing the marbled flyleaf as a consistent feature of the complete set."
+  },
+  "analysis_metadata": {
+    "analyzed_date": "2026-02-27",
+    "analyzer": "claude-code-manuscript-pipeline",
+    "image_source": "YEK Portal IIIF — Süleymaniye Kütüphanesi Damad İbrahim Paşa Koleksiyonu (portal.yek.gov.tr); screenshot via visual-confirmation agent (Batch 3, 2026-02-26). yek_id: 688282, iiif_id: 0000000669853.",
+    "image_quality_notes": "One IIIF screenshot examined (p003). Plain cream text paper visible; hatip ebrulu flyleaf not captured. The 'probable' verdict depends on catalogue text and the confirmed vol. 1 record rather than direct visual evidence for vol. 2.",
+    "folios_examined": [
+      "p003 (IIIF — opening text page; plain cream paper, no flyleaf visible)"
+    ],
+    "folios_not_examined": "Vikāye yaprağı (hatip ebrulu flyleaf) — location within vol. 2 IIIF not yet determined; mihrabiye; müzehhep sūre başlıkları; gold cedvel pages; all remaining folios. Targeted IIIF navigation to the opening flyleaf is the recommended next step."
+  }
+}

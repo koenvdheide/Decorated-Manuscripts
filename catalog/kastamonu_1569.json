@@ -1,0 +1,212 @@
+{
+  "record_id": "kastamonu_1569",
+  "collection": {
+    "institution": "Kastamonu Yazma Eser Kütüphanesi",
+    "city": "Kastamonu",
+    "country": "Turkey",
+    "shelfmark": "1569",
+    "yek_url": "https://portal.yek.gov.tr/yazmaeser/eser-detay/455794"
+  },
+  "manuscript": {
+    "title": "Mazharü'n-Nûr",
+    "title_script": "مظهر النور",
+    "title_alt": null,
+    "author": "Münîbullâh b. İnâyetullâh el-Hüseynî (d. 1174/1760)",
+    "date_ah": null,
+    "date_ce": null,
+    "format": "akâid ve kelâm (theology / scholastic theology)",
+    "language": "Arabic",
+    "script": "Nesih (Naskh)",
+    "dimensions_mm": {
+      "height": null,
+      "width": null
+    },
+    "folio_count": null,
+    "yek_id": "455794",
+    "iiif_id": "0000000449520",
+    "notes": "Undated copy of a theological text (akâid ve kelâm) by Münîbullâh b. İnâyetullâh el-Hüseynî (d. 1174/1760). The manuscript was left incomplete (sonu yarım bırakılmıştır — 'left unfinished at the end'). A one-page index (fihrist) is noted at the beginning. The manuscript bears the vakıf seal of Ahmet Siyahi Efendi on f. 1a (1a'da Ahmet Siyahi Efendi'nin vakıf mührü vardır). The manuscript transferred from the Halîdiyye Medresesi (Halîdiyye Medresesi devren). The catalogue cites GAL Supplement II, p. 616 (Brockelmann's Geschichte der arabischen Litteratur, Supplement vol. II) for the author identification. Cataloguer: Abdullah Seçgin."
+  },
+  "paper_decoration": {
+    "types": [
+      "halkar_margins",
+      "illuminated_margins",
+      "framing_system"
+    ],
+    "summary": "A single-programme Ottoman theological manuscript with a concentrated luxury decorative scheme at the opening. The first page margin bears halkârî decoration (ilk sayfa kenarı halkârî — a confirmed YEK descriptive phrase for first-page margin halkâr). A nefis müzehhep serlevha (finely illuminated headpiece) opens the text. The cedveller are described as renkli müzehhep (colored/illuminated ruling lines), and word-beginnings (söz başları) are in red (kırmızı). The text has a patterned (desenli) paper binding cover (desenli kâğıt kaplı cilt). The halkâr is confined to the opening page margin; the rest of the manuscript is plain with colored illuminated ruling. This is a characteristic Ottoman programme: concentrated luxury at the opening, plain thereafter.",
+    "distribution_notes": "Halkâr confined to the first-page margin (ilk sayfa kenarı halkârî). Nefis müzehhep serlevha at the opening. Renkli müzehhep cedveller throughout. Word-beginnings in red throughout. Decorated paper binding covers (not page decoration).",
+    "technique_terms": {
+      "ottoman": "ilk sayfa kenarı halkârî; nefis müzehhep serlevha; cedveller renkli müzehhep; söz başları kırmızı; desenli kâğıt kaplı mıkleplı cilt",
+      "persian": "halkārī (حلکاری); taẕhīb (تذهیب); jadval (جدول)",
+      "arabic": "ʿunwān mudhahdhab (عنوان مذهّب); jadwal mulawwan (جدول ملوّن)"
+    },
+    "catalogue_description": {
+      "paper_field": null,
+      "paper_field_normalized": null,
+      "notes_field": "Miklebli, desenli kagit kapli cild. Cedveller renkli muzehhep. Serlevha nefis muzehhep. Soz baslari kirmizi. Ilk sayfa kenari halkari. Basta bir sayfalik fihrist vardir. Sonu yarim birakilmistir. 1a'da Ahmet Siyahi Efendi'nin vakif muhru vardir. Halidiye Medresesinden devren. GAL. S. II. 616",
+      "notes_field_normalized": "Mıkleplı, desenli kâğıt kaplı cilt. Cedveller renkli müzehhep. Serlevha nefis müzehhep. Söz başları kırmızı. İlk sayfa kenarı halkârî. Başta bir sayfalık fihrist vardır. Sonu yarım bırakılmıştır. 1a'da Ahmet Siyahi Efendi'nin vakıf mührü vardır. Halîdiyye Medresesi'nden devren. GAL. S. II. 616.",
+      "notes_field_translation": "Miklep flap binding with patterned paper cover. Ruling lines are colored and illuminated. Headpiece is finely illuminated. Word-beginnings in red. First-page margin is halkâr-decorated. A one-page index at the beginning. Left incomplete at the end. F. 1a bears the vakıf seal of Ahmet Siyahi Efendi. Transferred from the Halîdiyye Medresesi. GAL Supplement II, 616.",
+      "source": "YEK portal, genel notlar field, record 455794. Cataloguer: Abdullah Seçgin. Kastamonu Yazma Eser Kütüphanesi."
+    }
+  },
+  "workshop_attribution": {
+    "primary_tradition": "ottoman",
+    "workshop_centre": "Provincial Ottoman — Kastamonu region (probable)",
+    "date_range_ce": "post-1760 (terminus post quem: death of author)",
+    "confidence": 0.45,
+    "key_indicators": [
+      "Halîdiyye Medresesi provenance situates the manuscript in a Kastamonu regional institutional context",
+      "Patterned paper binding covers (desenli kâğıt kaplı cilt) are characteristic of provincial Ottoman binding production",
+      "Concentrated luxury at the opening (halkâr + müzehhep serlevha + renkli cedvel) without full-codex decoration is consistent with a provincial commission or a manuscript produced at moderate expense"
+    ],
+    "cross_tradition_caveats": [
+      "Undated manuscript: the author died 1174/1760, giving only a terminus post quem; no colophon date available",
+      "The halkâr is limited to the first-page margin — a narrower programme than high-quality Istanbul productions; this may indicate either provincial production or an economy of effort in a less prestigious commission",
+      "Confidence is limited (0.45) by the absence of a date, colophon, and the unresolved halkâr identification at screenshot resolution"
+    ]
+  },
+  "codicology": {
+    "paper": {
+      "color": "Not specified",
+      "preparation": "Not specified",
+      "weight": "Not specified",
+      "decoration": "Halkâr on first-page margin; illuminated headpiece; colored ruling throughout"
+    },
+    "ruling": {
+      "system": "Renkli müzehhep cedveller (colored illuminated ruling lines)",
+      "description": "The cedvels are described as renkli müzehhep — colored and illuminated ruling lines framing the text block. In the IIIF screenshot (p005) gold cetvels are clearly visible framing the text blocks on both pages. The specific color combination of the ruling is not enumerated in the catalogue beyond 'renkli' (colored)."
+    },
+    "binding": {
+      "cover_description": "Mıkleplı, desenli kâğıt kaplı cilt (miklep flap binding with patterned paper covers)",
+      "notes": "Patterned paper covers (desenli kâğıt kaplı) — a binding type using decorated paper on the boards rather than leather. Common in Ottoman provincial production and for lower-status copies. The miklep (flap) is standard for Ottoman bindings."
+    },
+    "format": "akâid ve kelâm (theology)",
+    "condition_summary": "Incomplete: sonu yarım bırakılmıştır (left unfinished at the end). Otherwise no specific condition notes in the catalogue record.",
+    "conservation_history": null
+  },
+  "visual_confirmation": {
+    "verdict": "probable",
+    "confidence": 0.60,
+    "screenshots_examined": 1,
+    "folios_examined": [
+      "corpus/visual_confirmation_batch3/kastamonu_1569_p005_iiif.png"
+    ],
+    "visual_evidence": "p005 shows a bifolio with gold cetvels framing the text blocks on both pages. Faint margin decoration is visible that could be subtle halkâr, but cannot be clearly resolved at screenshot resolution. The ilk sayfa kenarı halkârî is not visible on this page; it would be on the opening bifolio.",
+    "limitations": [
+      "Resolution limitation: the halkâr on the first-page margin is not identifiable at IIIF screenshot resolution",
+      "The screenshot captures a body-text opening (p005), not the first page where the halkâr is documented",
+      "Identification of halkâr relies on catalogue description by Abdullah Seçgin rather than direct visual confirmation"
+    ]
+  },
+  "folio_analyses": [
+    {
+      "folio": "Body text bifolio — p005 (IIIF screenshot)",
+      "source_image": "corpus/visual_confirmation_batch3/kastamonu_1569_p005_iiif.png",
+      "decoration_present": true,
+      "decoration_types": ["framing_system"],
+      "elements": [
+        {
+          "motif": "Gold cetvels and faint margin decoration",
+          "description": "Gold cetvels frame the text block on both pages of the bifolio. The margin area shows faint tonal variation that could indicate subtle halkâr or plain paper, but resolution is insufficient to distinguish the two. The specific first-page margin halkâr (ilk sayfa kenarı halkârî) documented in the catalogue would appear on the opening page, not on p005.",
+          "location": "Frame lines around text block, both pages",
+          "confidence": 0.60
+        }
+      ],
+      "confidence": 0.60,
+      "notes": "The identification as probable rests on the catalogue description: 'ilk sayfa kenarı halkârî' is a specific, technically precise phrase confirmed as genuine in YEK Batch 3 cataloguing conventions (see terminology-reference.md). The visibility of gold cetvels and body-text layout at p005 is consistent with a manuscript where the decorative concentration is at the opening."
+    }
+  ],
+  "terminology": {
+    "terms_used": [
+      {
+        "concept": "First-page margin halkâr",
+        "ottoman": "ilk sayfa kenarı halkârî",
+        "arabic": null,
+        "persian": "halkārī (حلکاری)",
+        "english": "Ilk sayfa kenarı halkârî: a confirmed YEK cataloguing phrase meaning 'the first-page margin bears halkâr decoration.' This is a location-specific descriptor that confines the halkâr programme to the opening folio's margin only. Confirmed as a genuine decorated-paper phrase in YEK Batch 3 (Kastamonu 1569)."
+      },
+      {
+        "concept": "Finely illuminated headpiece",
+        "ottoman": "nefis müzehhep serlevha",
+        "arabic": "ʿunwān mudhahdhab (عنوان مذهّب)",
+        "persian": "sarlawḥ muẕahhab (سرلوح مذهّب)",
+        "english": "Nefis müzehhep serlevha: a finely worked (nefis = delicate, refined) illuminated (müzehhep) headpiece (serlevha) at the opening of a text. Standard luxury marker for Ottoman theological and literary manuscripts."
+      },
+      {
+        "concept": "Colored illuminated ruling",
+        "ottoman": "renkli müzehhep cedvel",
+        "arabic": "jadwal mulawwan mudhahdhab (جدول ملوّن مذهّب)",
+        "persian": "jadval-e rang (جدول رنگ)",
+        "english": "Renkli müzehhep cedvel: colored and illuminated ruling lines. A step above plain gold cetvels — the lines are colored with multiple inks (gold plus at least one additional color) and the description 'müzehhep' (illuminated/gilded) implies the gold is applied in the context of an illuminated programme rather than plain ruling."
+      },
+      {
+        "concept": "Vakıf seal",
+        "ottoman": "vakıf mührü",
+        "arabic": "khātam al-waqf (ختم الوقف)",
+        "persian": null,
+        "english": "Vakıf mührü: the stamped seal of a waqf (pious endowment), applied to manuscripts to record their transfer to an endowed institution. The seal of Ahmet Siyahi Efendi on f. 1a documents this manuscript's entry into the Halîdiyye Medresesi endowment."
+      }
+    ]
+  },
+  "bibliography": [
+    {
+      "citation": "Blair, Sheila S. 'Color and Gold: The Decorated Papers Used in Manuscripts in Later Islamic Times.' Muqarnas 17 (2000): 24–36.",
+      "relevance": "Foundational study of decorated papers including halkâr as a gold-technique paper decoration. Directly relevant to the classification of the first-page margin halkâr in this theological manuscript.",
+      "relevance_score": 0.80,
+      "access_notes": "Available via JSTOR."
+    },
+    {
+      "citation": "Gacek, Adam. Arabic Manuscripts: A Vademecum for Readers. Handbook of Oriental Studies, Section 1, vol. 98. Leiden: Brill, 2009.",
+      "relevance": "Standard terminological reference for Islamic manuscript codicology. Relevant for the cedvel ruling system, serlevha conventions, and waqf seal documentation in this record.",
+      "relevance_score": 0.80,
+      "access_notes": "Widely held monograph."
+    },
+    {
+      "citation": "Brockelmann, Carl. Geschichte der arabischen Litteratur. Supplement vol. II. Leiden: Brill, 1938. [GAL S. II, p. 616]",
+      "relevance": "The catalogue citation for this manuscript. GAL Supplement II, p. 616 identifies the author Münîbullâh b. İnâyetullâh el-Hüseynî (d. 1174/1760) and is necessary for verifying the intellectual-historical context of the text.",
+      "relevance_score": 0.75,
+      "access_notes": "Standard bibliographic reference tool for Arabic-language manuscript studies. Widely held."
+    },
+    {
+      "citation": "Déroche, François. Islamic Codicology: An Introduction to the Study of Manuscripts in Arabic Script. Translated by Deke Dusinberre and David Radzinowicz. London: Al-Furqan Islamic Heritage Foundation, 2005.",
+      "relevance": "Foundational codicological reference covering waqf conventions, ruling systems, and the physical description of theological manuscript copies in the Arabic manuscript tradition.",
+      "relevance_score": 0.72,
+      "access_notes": "Widely held monograph."
+    }
+  ],
+  "suggested_collections": [
+    {
+      "institution": "YEK Portal — Kastamonu Yazma Eser Kütüphanesi",
+      "reason": "Other manuscripts from the same collection, particularly those with Halîdiyye Medresesi provenance, may provide comparative material for dating and contextualizing this theological manuscript.",
+      "digital_access": "https://portal.yek.gov.tr"
+    },
+    {
+      "institution": "FIHRIST — Union Catalogue of Islamic Manuscripts in UK Collections",
+      "reason": "FIHRIST records of Arabic theological manuscripts with halkâr opening margins may provide comparative context for the ilk sayfa kenarı halkârî programme.",
+      "digital_access": "https://www.fihrist.org.uk"
+    }
+  ],
+  "provenance": {
+    "donor": "Ahmet Siyahi Efendi (vakıf mührü on f. 1a)",
+    "waqf": "Halîdiyye Medresesi — transferred to Kastamonu Yazma Eser Kütüphanesi",
+    "previous_shelfmarks": [],
+    "notes": "The manuscript bears the vakıf seal (mührü) of Ahmet Siyahi Efendi on f. 1a, recording its endowment to (or transfer through) the Halîdiyye Medresesi in Kastamonu. The manuscript was subsequently transferred (devren) to the Kastamonu Yazma Eser Kütüphanesi where it is now held. YEK ID: 455794. IIIF ID: 0000000449520. Cataloguer: Abdullah Seçgin."
+  },
+  "analysis_metadata": {
+    "analyzed_date": "2026-02-27",
+    "analyzer": "claude-code-manuscript-pipeline",
+    "pipeline_stage": "metadata-generator",
+    "image_source": "YEK Portal IIIF viewer screenshot (YEK ID 455794, IIIF ID 0000000449520) — captured by visual-confirmation agent during Batch 3 confirmation session (2026-02-26)",
+    "image_quality_notes": "One screenshot of body text (p005) at IIIF viewer resolution. Resolution is insufficient to resolve the halkâr on the first-page margin. The verdict of probable (0.60) rests primarily on the specific catalogue phrase 'ilk sayfa kenarı halkârî', which is a confirmed genuine YEK descriptor for first-page margin halkâr.",
+    "folios_examined": [
+      "corpus/visual_confirmation_batch3/kastamonu_1569_p005_iiif.png"
+    ],
+    "folios_not_examined": "The first page with the halkâr margin and the nefis müzehhep serlevha were not captured in the available screenshot. Priority for follow-up: navigate IIIF viewer to opening pages (pp. 1–4) to visually confirm the serlevha and first-page halkâr margin.",
+    "source_data": {
+      "yek_id": "455794",
+      "iiif_id": "0000000449520",
+      "visual_confirmation_file": "catalog/searches/visual_confirmation_2026-02-26_batch3.json",
+      "batch": "Batch 3 (marbled/colored/halkâr)",
+      "cataloguer": "Abdullah Seçgin"
+    }
+  }
+}

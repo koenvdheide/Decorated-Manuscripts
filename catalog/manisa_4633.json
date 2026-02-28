@@ -1,0 +1,172 @@
+{
+  "record_id": "manisa_4633",
+  "collection": {
+    "institution": "Manisa İl Halk Kütüphanesi",
+    "city": "Manisa",
+    "country": "Turkey",
+    "shelfmark": "4633",
+    "yek_url": "https://portal.yek.gov.tr/yazmaeser/eser-detay/90970"
+  },
+  "manuscript": {
+    "title": "Hediyyetü's-Sü'lûk fî Şerhi Tuhfeti'l-Mülûk (هدية السلوك في شرح تحفة الملوك)",
+    "author": "Ebü'l-Leys Muharrem b. Muhammed b. Ârif ez-Zilî es-Sivâsî el-Kastamûnî el-Halvetî el-Hanefî (d. 1000/1592)",
+    "date_ah": null,
+    "date_ce": null,
+    "format": "Fiqh commentary (sharḥ on Tuhfat al-Mulūk)",
+    "dimensions_mm": {
+      "height": null,
+      "width": null
+    },
+    "folio_count": null,
+    "yek_id": "90970",
+    "iiif_id": "0000000104767",
+    "notes": "Undated. Arabic text in nastaʿlīq (nestalik) script — unusual for a fiqh commentary, where naskh is far more common; nastaʿlīq use here may reflect a Persian cultural context or a post-16th-century Ottoman scholarly milieu. Author d. AH 1000 / CE 1592 provides a terminus post quem. Söz başları (section incipits) and matlablar (chapter headings) in red; cekveli yaldız zencirekli (gold chain-border ruling). Binding: miklepli kırmızı meşin (flap-binding in red leather), with matching mahfaza (slipcase) of the same description — a luxury binding feature. Cataloguer: Zahide Kutlay."
+  },
+  "paper_decoration": {
+    "types": ["colored"],
+    "summary": "The YEK kagit_ozellikleri field reads 'Üzüm salkımı taç filigranli, sarı boyalı' — identical to manisa_4620-1 (same cataloguer, same formula), indicating yellow-dyed (sarı boyalı) paper with a bunch-of-grapes crown watermark. Visual examination of p005 shows a yellow/warm tone consistent with sarı boyalı. The same color calibration caveat applies as for manisa_4620-1. The binding is notably more luxurious than the paper decoration would suggest: yaldız zencirekli (gold chain-border) framing system on the binding and a dedicated mahfaza (slipcase), indicating a higher-status commission than the plain fiqh manuscripts at adjacent shelfmarks. The identical paper description across manisa_4620-1 and manisa_4633 (same cataloguer, same formula) strengthens the case that 'sarı boyalı' reflects genuine intentional dyeing rather than cataloguing error.",
+    "technique_terms": {
+      "ottoman": "sarı boyalı kâğıt; üzüm salkımı taç filigranı; yaldız zencirekli cilt",
+      "persian": "kāġaḏ-e zard (کاغذ زرد); mulavvan; zanjīra-yi talaʾī (زنجیرهٔ طلایی)",
+      "arabic": "mulauwwan aṣfar (ملوّن أصفر); silsila dhahabiyya (سلسلة ذهبية)"
+    },
+    "catalogue_description": {
+      "paper_field": "Uzum salkimi tac filigranli, sari boyali.",
+      "notes_field": null,
+      "decoration_field": "Yaldiz zencerekli, miklebli kirmizi mesin, ayni ozellikte mahfazali."
+    }
+  },
+  "workshop_attribution": {
+    "primary_tradition": "ottoman",
+    "workshop_centre": null,
+    "date_range_ce": "post-1592 (terminus post quem: death of author)",
+    "confidence": 0.30,
+    "key_indicators": [
+      "Author d. AH 1000 / CE 1592 provides a firm terminus post quem; the yaldız zencirekli red leather binding with mahfaza (slipcase) suggests a relatively high-quality commission, possibly 17th or early 18th century",
+      "Nastaʿlīq script for a Ḥanafī fiqh commentary is unusual and may indicate a later Ottoman period when nastaʿlīq was increasingly adopted for scholarly texts, or a copyist with a Persian scribal background",
+      "Manisa İl Halk Kütüphanesi provenance; identical paper description to manisa_4620-1 (same cataloguer) suggests the same paper stock or at least the same local production milieu"
+    ],
+    "cross_tradition_caveats": [
+      "Sarı boyalı (yellow-dyed) paper is a pan-Islamic technique that does not identify a specific tradition or production centre",
+      "The manuscript is undated; the broad post-1592 terminus post quem leaves open a century or more of possible production dates",
+      "Color calibration caveat applies to the visual assessment of the yellow paper tone in IIIF screenshots (same limitation as manisa_4620-1)",
+      "No scribal colophon specifying place of production is recorded in the available catalogue data"
+    ]
+  },
+  "codicology": {
+    "paper": {
+      "description": "European-style paper with bunch-of-grapes crown watermark (üzüm salkımı taç filigranı) — same paper type as manisa_4620-1 (identical cataloguing formula). Yellow-dyed (sarı boyalı) before writing. The identical paper description in two adjacent Manisa manuscripts catalogued by the same cataloguer (Zahide Kutlay) supports the consistency of the identification.",
+      "watermark": "Üzüm salkımı taç filigranı (bunch-of-grapes crown watermark); European origin",
+      "color": "Sarı boyalı (yellow-dyed); warm yellow tone observed on p005"
+    },
+    "ruling": {
+      "description": "Söz başları ve matlablar kırmızı (section incipits and chapter headings in red). Gold chain-border (yaldız zencirekli) as part of the binding/framing system.",
+      "ink_colors": ["black", "red (for section incipits and chapter headings)", "gold (zencirek border)"],
+      "lines_per_page": null
+    },
+    "binding": {
+      "description": "Yaldız zencerekli mıkleplı kırmızı meşin, aynı özellikte mahfazalı. Flap-binding (mıkleplı) in red leather (kırmızı meşin) with gold chain-border (yaldız zencerekli) decoration; accompanied by a matching slipcase (mahfaza) of identical description. This is a notably luxurious binding relative to the plain paper content, indicating a higher-status commission.",
+      "binding_type": "Flap-binding in red leather with gold chain-border; matching slipcase",
+      "materials": ["kırmızı meşin (red leather)", "mıklep (flap)", "mahfaza (slipcase)"],
+      "decoration": ["yaldız zencerekli (gold chain-border on binding)", "mıkleplı (flap binding)", "mahfaza (matching slipcase)"]
+    },
+    "format": "Fiqh commentary (sharḥ)",
+    "condition_summary": "Condition not fully assessed from available data. Binding appears intact based on catalogue description.",
+    "conservation_history": null
+  },
+  "visual_confirmation": {
+    "verdict": "probable",
+    "confidence": 0.75,
+    "screenshots_examined": 1,
+    "limitations": [
+      "visual_ambiguity: same color calibration caveat as manisa_4620-1 — IIIF scanning may shift warm tones; the yellow tint in p005 is consistent with sarı boyalı but cannot be confirmed as definitively distinct from scanner-induced warmth",
+      "Only one IIIF screenshot (p005) examined; the extent of the yellow-dyed paper program across the codex is unassessed",
+      "The identical paper formula in the catalogue description of this and an adjacent Manisa manuscript (4620-1, same cataloguer) is circumstantially corroborating but does not substitute for independent visual confirmation"
+    ]
+  },
+  "folio_analyses": [],
+  "terminology": {
+    "terms_used": [
+      {
+        "concept": "Yellow-dyed paper",
+        "ottoman": "sarı boyalı kâğıt",
+        "arabic": "mulauwwan aṣfar (ملوّن أصفر)",
+        "persian": "kāġaḏ-e zard (کاغذ زرد)",
+        "english": "Yellow-dyed paper: manuscript paper dyed yellow before writing. The Ottoman term 'sarı boyalı' is a specific cataloguing descriptor distinguishing intentional yellow dyeing from the general 'mülevven' (colored). Identified here and in the adjacent manisa_4620-1 record; both share the same cataloguer (Zahide Kutlay) and identical paper formula, which may indicate a cluster of yellow-dyed manuscripts in the Manisa collection."
+      },
+      {
+        "concept": "Gold chain-border",
+        "ottoman": "yaldız zencirekli / zencerek (زنجيرك)",
+        "arabic": "silsila dhahabiyya (سلسلة ذهبية)",
+        "persian": "zanjīra-yi talaʾī (زنجیرهٔ طلایی)",
+        "english": "Zencirek (chain border): a narrow ornamental band composed of repeating interlinked ring or loop motifs in gold. Applied to page edges, calligraphy panels, and binding edges; in this manuscript, the yaldız zencirekli (gold chain-border) appears as a binding decoration feature rather than as page-level paper decoration."
+      },
+      {
+        "concept": "Slipcase / protective case",
+        "ottoman": "mahfaza (محفظه)",
+        "arabic": "ḥāfiẓa / mahfaẓa (محفظة)",
+        "persian": "mahfaẓa (محفظه)",
+        "english": "Mahfaza: a protective slipcase for a manuscript volume, often constructed to match the binding in materials and decoration. A yaldız zencirekli red leather mahfaza accompanying this manuscript is a luxury feature indicating a relatively high-status commission."
+      },
+      {
+        "concept": "Fiqh commentary (sharḥ)",
+        "ottoman": "şerh (شرح)",
+        "arabic": "sharḥ (شرح)",
+        "persian": "sharḥ (شرح)",
+        "english": "Sharḥ: a commentary or explanation on an earlier text; in the context of Islamic jurisprudence, a sharḥ expands and explicates an earlier compendium (here: Tuhfat al-Mulūk by al-Rāzī al-Ḥanafī, d. 666/1268). The Ḥanafī sharḥ genre was one of the most widely copied text genres in Ottoman manuscript production."
+      }
+    ]
+  },
+  "bibliography": [
+    {
+      "citation": "Blair, Sheila S. 'Color and Gold: The Decorated Papers Used in Manuscripts in Later Islamic Times.' Muqarnas 17 (2000): 24–36.",
+      "relevance": "Principal study of colored and yellow-dyed papers in later Islamic manuscripts; directly relevant to the classification and production context of the sarı boyalı paper in this manuscript and the broader category of mülevven papers in Ottoman manuscript production.",
+      "relevance_score": 0.88,
+      "access_notes": "Peer-reviewed. Available via JSTOR."
+    },
+    {
+      "citation": "Scheper, Karin. The Technique of Islamic Bookbinding: Methods, Materials and Regional Varieties. Leiden: Brill, 2015.",
+      "relevance": "Specialized study of Islamic bookbinding techniques, materials, and regional variation; directly relevant to the yaldız zencirekli red leather binding with mahfaza, which represents a notable luxury binding feature for a provincial fiqh manuscript.",
+      "relevance_score": 0.80,
+      "access_notes": "Available at major research libraries."
+    },
+    {
+      "citation": "Bloom, Jonathan M. Paper Before Print: The History and Impact of Paper in the Islamic World. New Haven: Yale University Press, 2001.",
+      "relevance": "Covers paper production and trade in the Islamic world, including European watermarked papers; relevant to the üzüm salkımı taç filigranı (bunch-of-grapes crown watermark) and the use of European paper stocks in late Ottoman manuscript production.",
+      "relevance_score": 0.75,
+      "access_notes": "Available at major research libraries."
+    },
+    {
+      "citation": "Gacek, Adam. The Arabic Manuscript Tradition: A Glossary of Technical Terms and Bibliography. Handbuch der Orientalistik, Erste Abteilung, Bd. 58. Leiden: Brill, 2001.",
+      "relevance": "Standard reference for Arabic-script manuscript terminology including sharḥ genre, nastaʿlīq script, and binding vocabulary; relevant to the technical description and genre context of this record.",
+      "relevance_score": 0.70,
+      "access_notes": "Available at major research libraries."
+    }
+  ],
+  "suggested_collections": [
+    {
+      "institution": "Manisa İl Halk Kütüphanesi, Manisa",
+      "reason": "Home collection; the adjacent manisa_4620-1 shares an identical paper description (sarı boyalı, same watermark, same cataloguer), making it the most direct comparandum. Systematic examination of the Manisa collection for yellow-dyed papers may reveal a local cluster.",
+      "digital_access": "https://portal.yek.gov.tr"
+    },
+    {
+      "institution": "Süleymaniye Kütüphanesi, Istanbul",
+      "reason": "Holds numerous Ḥanafī fiqh commentary manuscripts (sharḥ on Tuhfat al-Mulūk and related texts) and yaldız zencirekli leather bindings for comparison; also provides codicological comparanda for nastaʿlīq fiqh manuscripts.",
+      "digital_access": "https://portal.yek.gov.tr"
+    }
+  ],
+  "provenance": {
+    "donor": null,
+    "waqf": null,
+    "previous_shelfmarks": [],
+    "notes": "Held in the Manisa İl Halk Kütüphanesi (Manisa Provincial Public Library), western Anatolia, Turkey. Catalogued by Zahide Kutlay. Undated; author's death date (AH 1000 / CE 1592) provides terminus post quem. No waqf or donor information recorded. The yaldız zencirekli red leather binding with matching mahfaza suggests a relatively high-status commission, possibly for a wealthy madrasa or private patron in the Manisa region. Note: identical paper description to manisa_4620-1 (same cataloguer, same formula: 'Üzüm salkımı taç filigranli, sarı boyalı'), suggesting a cluster of yellow-dyed manuscripts processed by the same cataloguer, potentially from the same original library or acquisition lot."
+  },
+  "analysis_metadata": {
+    "analyzed_date": "2026-02-27",
+    "analyzer": "claude-code-manuscript-pipeline",
+    "image_source": "YEK Portal IIIF — Manisa İl Halk Kütüphanesi (portal.yek.gov.tr); screenshot via visual-confirmation agent (Batch 3, 2026-02-26). Primary yek_id: 90970; IIIF id: 0000000104767. Note: Manisa IIIF images pp. 1–4 are typically spine/binding photographs; p005 is the first text content page examined.",
+    "image_quality_notes": "One IIIF screenshot examined (p005). Yellow/warm tone visible and consistent with sarı boyalı; same color calibration caveat applies as for manisa_4620-1. In-person examination or higher-resolution imaging would be required for a confirmed verdict.",
+    "folios_examined": ["p005 (IIIF screenshot — text leaf, probable yellow-dyed paper ground)"],
+    "folios_not_examined": "All remaining folios; opening page and colophon (if present); extent of sarı boyalı paper across the full codex unassessed."
+  }
+}

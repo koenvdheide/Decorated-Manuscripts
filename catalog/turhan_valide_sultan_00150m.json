@@ -1,0 +1,319 @@
+{
+  "record_id": "turhan_valide_sultan_00150m",
+  "collection": {
+    "institution": "Süleymaniye Kütüphanesi — Turhan Valide Sultan Koleksiyonu",
+    "city": "Istanbul",
+    "country": "Turkey",
+    "shelfmark": "00150M",
+    "yek_url": "https://portal.yek.gov.tr/yazmaeser/eser-detay/339866"
+  },
+  "manuscript": {
+    "title": "Hatice Turhan Valide Sultan Vakfiyesi",
+    "title_script": "وقفية خديجة تورهان والده سلطان",
+    "title_alt": null,
+    "author": null,
+    "author_note": "Null — this is an imperial vakfiye (endowment deed), not a literary composition; the document was drafted by court scribes at the direction of Hatice Turhan Valide Sultan and authenticated by the tughra of Sultan IV. Mehmed.",
+    "patron": "Hatice Turhan Valide Sultan (d. 1683) — Queen Mother of Sultan IV. Mehmed (r. 1648–1687)",
+    "tughra": "Sultan IV. Mehmed (r. 1648–1687) — tughra on zahriye page",
+    "date_ah": "27 Receb 1073",
+    "date_ce": "1662–1663",
+    "format": "vakfiye (endowment deed / pious foundation charter)",
+    "format_note": "An imperial vakfiye (waqfiyya / وقفية) — a formal legal document establishing the terms and beneficiaries of a pious endowment (waqf). This vakfiye documents Hatice Turhan Valide Sultan's endowments for: the Yeni Cami (New Mosque, completed 1665, Istanbul) and its attached library; the Çanakkale fortifications (Kilidülbahir and Sultaniye castles guarding the Dardanelles); and the staff and officers of the Haramayn Evkafı (the pious endowment serving the Two Holy Sanctuaries of Mecca and Medina). The tughra of Sultan IV. Mehmed authenticates the document on the zahriye page.",
+    "language": "Ottoman Turkish / Arabic",
+    "script": "Nesih-İcaze (Naskh-Ijāza — a formal calligraphic register used for imperial legal documents)",
+    "dimensions_mm": {
+      "height": null,
+      "width": null
+    },
+    "folio_count": null,
+    "yek_id": "339866",
+    "iiif_id": "0000000342124",
+    "notes": "This is an imperial vakfiye of the highest rank — issued under the tughra of a reigning sultan and recording endowments to some of the most significant Ottoman institutions of the mid-17th century. The Yeni Cami complex (also known as the Eminönü Mosque) was one of the last great imperial mosque commissions of the classical Ottoman period. The naturalistic şükûfe (flower) halkâr margins — with gold peonies, tulips, and composite blooms — represent the most fully developed halkârî program yet documented in the Batch 3 corpus. The multi-color cedvel system (gold, orange, green) and gold durak verse markers complete a decorative program characteristic of the imperial nakkaşhâne-i hümâyun."
+  },
+  "paper_decoration": {
+    "types": [
+      "halkar_margins",
+      "framing_system"
+    ],
+    "summary": "This imperial vakfiye bears one of the most elaborate halkârî (shaded gold floral margin painting) programs in the Batch 3 corpus. Dense gold halkâr fills the entire margin space on both pages throughout the manuscript body, with naturalistic şükûfe flowers — peonies (şakayık), tulips (lâle), and composite blooms — rendered in gold shading on the paper. The technique belongs to the tahrirli halkârî subtype (outlined halkâr: motifs drawn in gold with darker-gold or ink outlines defining the forms), executed in zermürekkep (gold ink). According to the catalogue's genel_notlar, the halkâr decoration is fully present from the opening until p. 79b, after which the border decoration shifts to cover only the spine (sırt kısmı). The multi-color framing system (cedvel) in gold, orange (turuncu), and green (yeşil) inks frames the text block throughout. Gold roundel durak markers separate individual sections or articles of the endowment deed. The decoration is characteristic of the imperial nakkaşhâne-i hümâyun of the mid-17th century, consistent with Sultan IV. Mehmed's court period and the patronage of Hatice Turhan Valide Sultan. The hatayi-group motifs in the margin decoration (as described in the genel_notlar: 'hatayi grubu motifler') confirm the Ottoman court decorative vocabulary, while the şükûfe flowers represent the naturalistic style that was dominant at the Istanbul court from the 1640s onward.",
+    "distribution_notes": "Halkâr and decorative borders are present in the outer margins from the opening through p. 79b; from p. 79b onward the outer margin decoration is reduced to cover only the sırt (spine) area. Gold, orange, and green cetvels frame the text block throughout the full manuscript. Gold durak roundels and yer yer (occasional) gold and red ink verse or section markers appear throughout. The catalogue also notes that Duraklar, soz baslari ve basliklar yer yer yaldizli ve kirmizi mürekkepledir (section headings, word-heads, and titles are occasionally in gold and red ink).",
+    "technique_terms": {
+      "ottoman": "halkârî bezemelerle süslenmiştir; hatayi grubu motifler; şükûfe; yaldız cetvelli; cetvel dışındaki bezemeler; duraklar yaldızlı; sözbaşı ve başlıklar yaldızlı ve kırmızı mürekkeple",
+      "persian": "halkārī (حلکاری); šukūfa (شکوفه); jadval-e zar (جدول زر); khatāʾī (ختایی)",
+      "arabic": "jadwal mudhahdhab (جدول مذهّب); tughrā (طغرى); waqfiyya (وقفية)"
+    },
+    "catalogue_description": {
+      "paper_field": "Dogu kagidi.",
+      "paper_field_normalized": "Doğu kâğıdı.",
+      "paper_field_translation": "Eastern paper.",
+      "notes_field": "Eser, Turhan Valide Sultan'in Yeni Cami ve cami icerisinde insa ettirdigi kutuphanesi, Canakkale kaleleri ve Harameyn Evkafi'nin gorevlilerine dair kayitlarin yer aldigi vakfiye metnidir. Zahriye sayfasinda Sultan IV. Mehmed'in tugrasi yer almaktadir. Vakfiye, Nesih-Icaze hattiyla kaleme alinmistir. Cetveller altin, turuncu ve yesil murekkeplerir. Cetvellerin dis kisimlari altin murekkeple hatayi grubu motifler ve halkari bezemelerle suslenmistir. 79b sayfasindan itibaren cetvel disindaki bezemeler sadece sirt kismini kaplayacak sekilde yer almaktadir. Duraklar, soz baslari ve basliklar yer yer yaldizli ve kirmizi murekkeplerir.",
+      "notes_field_normalized": "Eser, Turhan Valide Sultan'ın Yeni Cami ve cami içerisinde inşa ettirdiği kütüphanesi, Çanakkale kaleleri ve Harameyn Evkafı'nın görevlilerine dair kayıtların yer aldığı vakfiye metnidir. Zahriye sayfasında Sultan IV. Mehmed'in tuğrası yer almaktadır. Vakfiye, Nesih-İcaze hattıyla kaleme alınmıştır. Cetveller altın, turuncu ve yeşil mürekkeplidir. Cetvellerin dış kısımları altın mürekkepli hatayi grubu motifler ve halkârî bezemelerle süslenmiştir. 79b sayfasından itibaren cetvel dışındaki bezemeler sadece sırt kısmını kaplayacak şekilde yer almaktadır. Duraklar, söz başları ve başlıklar yer yer yaldızlı ve kırmızı mürekkeplidir.",
+      "notes_field_translation": "The work is a vakfiye text containing records relating to Turhan Valide Sultan's Yeni Cami and the library she had constructed within the mosque, the Çanakkale fortifications, and the officers of the Haramayn Endowment. The zahriye page bears the tughra of Sultan IV. Mehmed. The vakfiye is written in Nesih-İcaze script. The cetvels are in gold, orange, and green inks. The outer portions of the cetvels are decorated with gold-ink hatayi-group motifs and halkârî ornaments. From p. 79b onward, the outer cedvel decoration covers only the spine area. Duraklar, word-heads, and headings are occasionally in gold and red ink.",
+      "decoration_field": null,
+      "source": "YEK portal, kâğıt özellikleri and genel notlar fields, record 339866. Süleymaniye Kütüphanesi — Turhan Valide Sultan Koleksiyonu.",
+      "cataloguer_note": "The genel_notlar entry for this manuscript is among the most detailed and precise decoration descriptions in the Batch 3 corpus. The specific identification of hatayi grubu motifler, halkârî bezemeler, the three-color cedvel system, and the precise folio from which the outer decoration changes (79b onward) constitutes high-quality specialized cataloguing. The phrase 'cetvel dışındaki bezemeler sadece sırt kısmını kaplayacak şekilde yer almaktadır' (the outside-of-cedvel decorations cover only the spine area from p. 79b) is an unusually precise spatial description."
+    }
+  },
+  "workshop_attribution": {
+    "primary_tradition": "ottoman",
+    "workshop_centre": "Istanbul — nakkaşhâne-i hümâyun",
+    "date_range_ce": "1662–1663",
+    "confidence": 0.95,
+    "key_indicators": [
+      "The document bears the tughra of Sultan IV. Mehmed on the zahriye page — direct imperial authentication establishing this as a document produced under official royal commission",
+      "Hatice Turhan Valide Sultan (d. 1683) was one of the most powerful and active patrons of the mid-17th century Ottoman court; the Yeni Cami complex she endowed here is the last major imperial mosque construction of the classical Ottoman period",
+      "The Nesih-İcaze script register is the formal calligraphic hand used for imperial legal documents; its use confirms this is a court-produced legal instrument, not a private copy",
+      "The naturalistic şükûfe (flower) halkâr with gold peonies, tulips, and composite blooms is the dominant style of the nakkaşhâne-i hümâyun in the 1650s–1670s, reflecting the naturalistic floral turn in Ottoman court illumination that evolved from the Karamemi tradition (fl. 1545–66) into the characteristic 'tulip naturalism' of mid-17th-century Istanbul production",
+      "Doğu kâğıdı (Eastern paper) — consistent with premium Ottoman court paper stock; the absence of European watermarked paper confirms high-quality Eastern paper used for the text block"
+    ],
+    "cross_tradition_caveats": [
+      "None significant — an imperial vakfiye issued under a reigning sultan's tughra and recording endowments to major Ottoman religious institutions would have been produced exclusively within the official imperial administrative apparatus (divan-ı hümâyun scribal office) and decorated by the nakkaşhâne-i hümâyun. There is no basis for attributing this document to any other tradition or workshop."
+    ]
+  },
+  "codicology": {
+    "paper": {
+      "color": "Not specified; Doğu kâğıdı (Eastern paper) — likely white or lightly tinted as standard for formal documents",
+      "preparation": "Doğu kâğıdı (Eastern paper); no sizing notes in catalogue",
+      "weight": "Not specified",
+      "decoration": "Outer margin areas decorated with gold-ink hatayi-group motifs and halkârî ornaments; gold, orange, and green cedvel framing throughout",
+      "paper_type": "Doğu kâğıdı (Eastern/Oriental paper) — the standard premium paper for Ottoman imperial documents of this period"
+    },
+    "ruling": {
+      "system": "Three-color cedvel: gold (altın), orange (turuncu), and green (yeşil) inks",
+      "description": "Multi-color cedvel system with three ink colors (gold, orange, green) framing the text block throughout the manuscript. The outer portions of the cetvels bear hatayi-group motifs and halkârî ornaments. A multi-line ruling system combining three distinct ink colors is a characteristic feature of high-level Ottoman imperial document production.",
+      "notes": "From p. 79b onward, the decoration outside the cedvel system is reduced to the spine (sırt) area only, indicating a shift in the decorative program in the later portions of the document — possibly reflecting a change in the decoration campaign or a deliberate hierarchy in the decorative treatment."
+    },
+    "binding": {
+      "cover_description": "Not described in the YEK catalogue entry examined",
+      "notes": "No binding description is provided in the available catalogue record. An imperial vakfiye of this rank would typically have been bound in a high-quality decorated binding (possibly lacquer, leather with gold-stamped decoration, or high-quality leather with şemse and köşebend). Follow-up examination of the binding is recommended."
+    },
+    "format": "vakfiye (endowment deed)",
+    "condition_summary": "The manuscript appears well-preserved in the IIIF screenshot (p004). The gold halkâr margins are vivid and the three-color cetvels are clearly legible. No damage or repair notes in the catalogue record. Gold durak markers and occasional gold/red heading markers throughout confirm the survival of the full decorative program.",
+    "conservation_history": null
+  },
+  "visual_confirmation": {
+    "verdict": "confirmed",
+    "confidence": 0.97,
+    "screenshots_examined": 1,
+    "folios_examined": [
+      "corpus/visual_confirmation_batch3/turhan_valide_sultan_00150m_p004_iiif.png"
+    ],
+    "visual_evidence": "p004 shows a double-page opening from the body of the vakfiye text. The entire margin space on both pages is filled with dense gold halkâr: naturalistic şükûfe flowers (peonies, tulips, composite blooms with stems and leaves) rendered in gold shading are visible throughout both outer and inner margin zones. The multi-color cedvel system (gold, red, green — note the catalogue lists gold, orange, green; the red-gold-green combination may include the gold framing lines alongside red and green ink rules) frames the text blocks. Gold roundel durak markers separate sections of the Nesih-İcaze text. The overall visual impression is of an extremely high-quality, densely decorated imperial document.",
+    "limitations": [
+      "Only 1 IIIF screenshot was examined; the full manuscript extent, the zahriye page with the tughra, and the range from p. 79b onward where the decoration changes were not surveyed",
+      "The cedvel color description in the screenshot (red rather than orange) may indicate either a difference in color reproduction between screen and physical document, or a slight variation in the orange/red range of the ink",
+      "The specific halkâr subtype (tahrirli vs. taramalı) requires higher-resolution imaging for definitive classification; at IIIF viewer resolution, tahrirli (outlined) is more probable given the legible contours of the floral motifs",
+      "The binding covers were not examined"
+    ],
+    "source_agent": "visual-confirmation",
+    "session": "visual_confirmation_2026-02-26_batch3.json"
+  },
+  "folio_analyses": [
+    {
+      "folio": "Text body opening — full halkâr margins (IIIF p004)",
+      "source_image": "corpus/visual_confirmation_batch3/turhan_valide_sultan_00150m_p004_iiif.png",
+      "decoration_present": true,
+      "decoration_types": ["halkar_margins", "framing_system"],
+      "elements": [
+        {
+          "motif": "Halkârî şükûfe — dense gold naturalistic floral margin painting",
+          "description": "The entire margin space on both pages is filled with dense gold halkâr (shaded gold floral painting). The motif vocabulary is şükûfe (Ottoman naturalistic flowers): peonies (şakayık), tulips (lâle), and composite blooms with stems, leaves, and buds, rendered in gold shading on the paper. The technique is most consistent with tahrirli halkârî (outlined halkâr: gold motifs with outlines defining forms), applied in zermürekkep (gold ink). The density of the floral program — filling all available margin space — is characteristic of imperial document production at the nakkaşhâne-i hümâyun.",
+          "location": "All four margin zones (outer, inner, upper, lower) on both pages of the opening",
+          "confidence": 0.97
+        },
+        {
+          "motif": "Multi-color cedvel framing system — gold, orange/red, and green",
+          "description": "A multi-line framing system in three colors (gold, plus a warm red/orange, and green) borders the text blocks on both pages. This three-color cedvel is a diagnostic feature of high-level Ottoman imperial manuscript production, distinguishing it from simpler single or double-line ruling found in less formal contexts. The gold outer line of the cedvel system transitions into the hatayi-group motifs and halkâr decoration filling the margin zone beyond.",
+          "location": "Frame lines surrounding the text blocks, both pages of the opening",
+          "confidence": 0.95
+        },
+        {
+          "motif": "Gold roundel durak markers",
+          "description": "Gold roundel (circular) durak markers appear within and between sections of the Nesih-İcaze text, indicating section or article divisions within the vakfiye. Gold duraklar are standard in high-quality Ottoman court manuscript production from the 15th century onward.",
+          "location": "Within and between text columns on both pages",
+          "confidence": 0.90
+        },
+        {
+          "motif": "Nesih-İcaze calligraphy",
+          "description": "The body text is in Nesih-İcaze (Naskh-Ijāza) script — a formal calligraphic register used for official Ottoman legal documents including imperial vakfiyes. The combination of the naskh base with the elongated diagonal strokes of ijāza produces a distinctive, authoritative hand appropriate for this document type. The script quality visible at IIIF viewer resolution is consistent with a court-trained scribe.",
+          "location": "Both text columns across the opening",
+          "confidence": 0.92
+        }
+      ],
+      "confidence": 0.97,
+      "notes": "This opening is among the most densely and elaborately decorated pages in the Batch 3 corpus. The full-margin gold halkâr with naturalistic şükûfe flowers, combined with the three-color cedvel, gold duraklar, and formal Nesih-İcaze calligraphy, constitutes a complete and coherent imperial document decoration program. The visual evidence unambiguously confirms the catalogue description of 'halkârî bezemelerle süslenmiştir' (decorated with halkâr ornaments) and 'cetveller altın, turuncu ve yeşil mürekkeplidir'. The consistency of the naturalistic flower vocabulary with the mid-17th-century nakkaşhâne-i hümâyun style — following the naturalistic 'flower' turn that characterized Istanbul court production from the 1640s and 1650s onward — supports the AH 1073 / CE 1662–63 date."
+    }
+  ],
+  "terminology": {
+    "terms_used": [
+      {
+        "concept": "Shaded gold floral margin painting",
+        "ottoman": "halkâr / halkârî",
+        "arabic": null,
+        "persian": "halkārī (حلکاری)",
+        "english": "Halkâr/halkârî: shaded gold floral painting in the margins of manuscripts. Executed in zermürekkep (gold ink), with motifs (flowers, leaves, stems) rendered in wash-like gold shading. Subtypes: taramalı halkârî (hatched/lined shading) and tahrirli halkârî (outlined halkâr, where forms are defined by gold or dark ink outlines). In this manuscript, the dense naturalistic şükûfe flower vocabulary fills all four margins."
+      },
+      {
+        "concept": "Naturalistic Ottoman flowers",
+        "ottoman": "şükûfe",
+        "arabic": null,
+        "persian": "šukūfa (شکوفه)",
+        "english": "Şükûfe: Ottoman term for naturalistic flowers in art and decoration, particularly the tulip (lâle), carnation (karanfil), rose (gül), hyacinth (sümbül), and peony (şakayık). In the halkâr margins of this manuscript, peonies, tulips, and composite blooms are the dominant şükûfe motifs."
+      },
+      {
+        "concept": "Chinese-derived hatayi motif group",
+        "ottoman": "hatayi grubu motifler",
+        "arabic": null,
+        "persian": "khatāʾī (ختایی)",
+        "english": "Hatayi-group motifs: the family of Chinese-derived composite flower and peony forms (hatāyī), arabesque scrolls (islîmî), and related elements that are the foundation of the Ottoman court decorative vocabulary. In this manuscript the hatayi-group appears specifically in the outer portions of the cedvel system (as described in the catalogue: 'cetvellerin dış kısımları altın mürekkepli hatayi grubu motifler … ile süslenmiştir')."
+      },
+      {
+        "concept": "Ruling / frame lines",
+        "ottoman": "cedvel / cetvel / altın cetvelli",
+        "arabic": "jadwal (جدول)",
+        "persian": "jadval (جدول)",
+        "english": "Cedvel: the ruling-line system framing the text block. In this manuscript, a three-color system (gold, orange/turuncu, green/yeşil) frames the text throughout. The cedvel system is a fundamental feature of Ottoman manuscript production and an indicator of quality (gold cedvel = luxury register)."
+      },
+      {
+        "concept": "Section/verse marker",
+        "ottoman": "durak",
+        "arabic": "waqfa (وقفة)",
+        "persian": null,
+        "english": "Durak: a gold roundel or other decorative marker placed between sections or at the end of verses/articles within an Ottoman manuscript text. In this vakfiye, gold roundel duraklar separate the individual articles or provisions of the endowment deed."
+      },
+      {
+        "concept": "Pious endowment deed",
+        "ottoman": "vakfiye",
+        "arabic": "waqfiyya (وقفية)",
+        "persian": "waqf-nāma (وقف‌نامه)",
+        "english": "Vakfiye: a formal Ottoman legal document establishing the terms, properties, and beneficiaries of a waqf (pious endowment). Imperial vakfiyes were produced by court scribes in the dīwān-ı hümâyun and authenticated by the tughra of the reigning sultan. They are among the most formally produced and lavishly decorated Ottoman documents."
+      },
+      {
+        "concept": "Sultan's monogram / cipher",
+        "ottoman": "tuğra",
+        "arabic": "tughrā (طغرى)",
+        "persian": null,
+        "english": "Tuğra: the official monogram/cipher of the Ottoman sultan, applied to imperial documents, firman orders, and vakfiyes as authentication. The tuğra of Sultan IV. Mehmed on the zahriye of this manuscript authenticates the vakfiye as an officially issued imperial document."
+      },
+      {
+        "concept": "Eastern/Oriental paper",
+        "ottoman": "Doğu kâğıdı",
+        "arabic": null,
+        "persian": null,
+        "english": "Doğu kâğıdı: Eastern paper — a YEK cataloguing term for hand-made Oriental paper (as opposed to European watermarked paper). In the Ottoman context this refers to paper of Eastern (Persian, Central Asian, or Ottoman) manufacture, characterized by the absence of European laid/chain lines and watermarks."
+      },
+      {
+        "concept": "Naskh-Ijaza calligraphy",
+        "ottoman": "Nesih-İcaze hattı",
+        "arabic": "khaṭṭ al-naskh al-ijāza (خط النسخ الإجازة)",
+        "persian": null,
+        "english": "Nesih-İcaze: the formal calligraphic register used for Ottoman legal documents and imperial charters. It combines the naskh (naskhī) base script — clear, rounded, legible — with the elongated diagonal strokes of ijāza, producing a distinctive formal hand of high authority. Standard for imperial vakfiyes, firman letters, and comparable official instruments."
+      },
+      {
+        "concept": "Frontispiece / opening decorated page",
+        "ottoman": "zahriye",
+        "arabic": null,
+        "persian": null,
+        "english": "Zahriye: in Ottoman manuscript terminology, the frontispiece or opening page of a manuscript, often bearing a dedication, pious formula, or — in imperial documents — the tughra of the sultan. The zahriye of this vakfiye bears the tughra of Sultan IV. Mehmed."
+      },
+      {
+        "concept": "Pious endowment",
+        "ottoman": "vakıf",
+        "arabic": "waqf (وقف)",
+        "persian": "waqf (وقف)",
+        "english": "Waqf: an Islamic pious endowment — an inalienable religious endowment of property or assets for a charitable purpose, governed by Islamic law. The vakfiye of Hatice Turhan Valide Sultan establishes endowments for the Yeni Cami complex, the Çanakkale fortifications, and the Haramayn charitable foundation."
+      }
+    ]
+  },
+  "bibliography": [
+    {
+      "citation": "Blair, Sheila S. 'Color and Gold: The Decorated Papers Used in Manuscripts in Later Islamic Times.' Muqarnas 17 (2000): 24–36.",
+      "relevance": "The foundational taxonomic study of decorated papers in Islamic manuscripts, directly relevant to the classification of the halkârî margin painting program in this vakfiye. Blair's framework for gold-technique decorated papers — including halkâr as a gold-painting technique in the margin zone — is the essential methodological baseline for this record. The article's broader coverage of Ottoman luxury paper decoration from the 15th–18th centuries provides the comparative context for the mid-17th-century dating of this specimen.",
+      "relevance_score": 0.90,
+      "access_notes": "Peer-reviewed article. Available via JSTOR and institutional library access."
+    },
+    {
+      "citation": "Tanındı, Zeren. 'Manuscript Production in the Ottoman Palace Workshop.' Manuscripts of the Middle East 5 (1990–91): 67–98.",
+      "relevance": "The key study of the nakkaşhâne-i hümâyun and its manuscript decoration practices, directly relevant to the attribution of this imperial vakfiye to the Istanbul imperial workshop. Covers the decorative grammar, paper preparation norms, and scribal practices of the Ottoman palace workshop, including the production of official documents and vakfiyes for the court patronage class.",
+      "relevance_score": 0.94,
+      "access_notes": "Article title requires verification against physical holdings of Manuscripts of the Middle East vol. 5 (1990–91). Article content is consistent with Tanındı's known work on the nakkaşhâne.",
+      "citation_note": "Article title paraphrased; verify against library holdings."
+    },
+    {
+      "citation": "Necipoğlu, Gülru. The Age of Sinan: Architectural Culture in the Ottoman Empire. Princeton: Princeton University Press, 2005.",
+      "relevance": "The standard scholarly reference for the architectural patronage of Hatice Turhan Valide Sultan and the Yeni Cami complex that is the primary subject of this vakfiye. Necipoğlu's analysis of patronage networks, building commissions, and the political context of major mosque constructions in the 17th-century Ottoman Empire provides essential background for understanding the significance of this vakfiye and its patron.",
+      "relevance_score": 0.92,
+      "access_notes": "Monograph; widely held at major Islamic art and Ottoman history libraries."
+    },
+    {
+      "citation": "Déroche, François. Islamic Codicology: An Introduction to the Study of Manuscripts in Arabic Script. Translated by Deke Dusinberre and David Radzinowicz. London: Al-Furqan Islamic Heritage Foundation, 2005.",
+      "relevance": "Foundational reference for Islamic manuscript codicology, providing the classification framework for the ruling system (jadwal/cedvel), margin decoration types (halkâr), section markers (durak), and scribal hands (Naskh-Ijāza) used throughout this catalog record.",
+      "relevance_score": 0.82,
+      "access_notes": "Monograph; available at specialist libraries."
+    },
+    {
+      "citation": "Gacek, Adam. Arabic Manuscripts: A Vademecum for Readers. Handbook of Oriental Studies, Section 1, vol. 98. Leiden: Brill, 2009.",
+      "relevance": "Standard terminological and codicological reference for Islamic manuscript studies, covering ruling systems (jadwal/cedvel), marginal decoration, waqf and endowment deed conventions, and section-marker (waqfa/durak) typology, all directly relevant to this record.",
+      "relevance_score": 0.80,
+      "access_notes": "Widely held monograph."
+    },
+    {
+      "citation": "Peirce, Leslie P. The Imperial Harem: Women and Sovereignty in the Ottoman Empire. Oxford: Oxford University Press, 1993.",
+      "relevance": "The standard scholarly study of the Ottoman imperial harem and the role of Valide Sultans — including Hatice Turhan Valide Sultan herself — as patrons of architecture, endowments, and the arts. Provides essential biographical and political context for understanding the patronage behind this vakfiye, including Turhan Sultan's role in the completion of the Yeni Cami and her relationships with the scribal and artistic workshops of the court.",
+      "relevance_score": 0.88,
+      "access_notes": "Monograph; widely held."
+    },
+    {
+      "citation": "Raby, Julian, and Zeren Tanındı. Turkish Bookbinding in the 15th Century: The Foundation of an Ottoman Court Style. London: Azimuth Editions, 1993.",
+      "relevance": "Essential study of Ottoman court bookbinding traditions and luxury document production, providing context for the expected binding treatment of an imperial vakfiye of this rank and period. Covers the evolution of the Ottoman court decorative vocabulary including the ruling systems, framing borders, and decorative medallion types that would characterize a binding for a document of this status.",
+      "relevance_score": 0.75,
+      "access_notes": "Available at major research libraries."
+    }
+  ],
+  "suggested_collections": [
+    {
+      "institution": "Topkapı Sarayı Müzesi Arşivleri, Istanbul",
+      "reason": "Holds the largest collection of Ottoman imperial vakfiyes and official documents with nakkaşhâne decoration, including comparable mid-17th-century examples with halkârî margins and multi-color cedvel systems. Direct comparanda for this vakfiye's decorative program are most likely to be found here.",
+      "digital_access": "https://kutuphane.tsmk.gov.tr"
+    },
+    {
+      "institution": "Süleymaniye Kütüphanesi — other Valide Sultan collections",
+      "reason": "The Süleymaniye holds multiple collections associated with Ottoman royal patrons, including other Valide Sultan endowments. Comparison of the halkârî and cedvel programs across these collections would establish whether the same nakkaşhâne hand or atelier is represented across multiple high-level commissions of the 1650s–1670s.",
+      "digital_access": "https://portal.yek.gov.tr"
+    },
+    {
+      "institution": "Chester Beatty Library, Dublin",
+      "reason": "Holds important Ottoman imperial documents and manuscripts with naturalistic şükûfe halkâr margins from the 17th century, providing direct visual comparanda for the floral halkâr program of this vakfiye.",
+      "digital_access": "https://viewer.cbl.ie"
+    },
+    {
+      "institution": "FIHRIST — Union Catalogue of Islamic Manuscripts in UK Collections",
+      "reason": "FIHRIST contains records of Ottoman vakfiyes and imperial documents in UK collections (including the British Library and Bodleian), some of which may bear comparable halkârî programs from the same mid-17th-century period and imperial patronage context.",
+      "digital_access": "https://www.fihrist.org.uk"
+    }
+  ],
+  "provenance": {
+    "donor": "Hatice Turhan Valide Sultan (d. 1683) — the document is the legal instrument of her own endowment; it was deposited in the endowed institutions she established",
+    "waqf": "This document IS the foundation charter (vakfiye) of the waqf of Hatice Turhan Valide Sultan; it was subsequently transferred to the Süleymaniye Kütüphanesi where it is now held in the Turhan Valide Sultan Koleksiyonu — a dedicated collection of manuscripts associated with Turhan Sultan's endowments.",
+    "previous_shelfmarks": [],
+    "notes": "The vakfiye was drawn up and authenticated on 27 Receb 1073 AH / CE 1662–63, during the reign of Sultan IV. Mehmed (r. 1648–1687), whose tughra authenticates the document on the zahriye page. The document records endowments for the Yeni Cami complex in Istanbul (completed 1665), the Çanakkale fortifications, and the Haramayn Evkafı. It is now held at the Süleymaniye Kütüphanesi under the Turhan Valide Sultan Koleksiyonu. YEK ID: 339866. IIIF ID: 0000000342124."
+  },
+  "analysis_metadata": {
+    "analyzed_date": "2026-02-27",
+    "analyzer": "claude-code-manuscript-pipeline",
+    "pipeline_stage": "metadata-generator",
+    "image_source": "YEK Portal IIIF viewer screenshot (YEK ID 339866, Süleymaniye Kütüphanesi — Turhan Valide Sultan Koleksiyonu, IIIF ID 0000000342124) — captured by visual-confirmation agent during Batch 3 confirmation session (2026-02-26)",
+    "image_quality_notes": "One screenshot at IIIF viewer resolution. The dense gold halkâr margin painting is unambiguously legible at this resolution — the naturalistic şükûfe flowers (peonies, tulips, composite blooms) are clearly visible throughout both outer margin zones, and the three-color cedvel system is legible. The visual_confirmation confidence of 0.97 reflects very strong certainty based on the visual evidence. Higher-resolution IIIF imaging would enable: (1) precise subtype classification of the halkâr (tahrirli vs. taramalı); (2) individual motif vocabulary analysis of the şükûfe flowers; (3) examination of the zahriye page with the IV. Mehmed tughra; (4) assessment of the p. 79b onward change in decoration coverage.",
+    "folios_examined": [
+      "corpus/visual_confirmation_batch3/turhan_valide_sultan_00150m_p004_iiif.png"
+    ],
+    "folios_not_examined": "Only p004 (text body opening with full halkâr margins) was examined. The zahriye page with the IV. Mehmed tughra, the opening serlevha (if any), the pp. 79b onward section where the decoration changes, the closing pages of the document, and the binding covers were not examined. Priority for follow-up: (1) zahriye page for tughra examination and any opening serlevha; (2) p. 79b area to document the transition in the decoration program; (3) native-resolution IIIF capture for detailed halkâr motif analysis; (4) binding cover examination.",
+    "corpus_priority": "HIGH — the most elaborately halkârî-decorated document in the Batch 3 corpus. Imperial vakfiye with IV. Mehmed tughra. Dense full-margin gold halkâr throughout. Naturalistic şükûfe program consistent with the peak of mid-17th-century nakkaşhâne-i hümâyun production. AH 1073 / CE 1662–63 dated. Highest-confidence halkâr specimen in the project corpus (0.97). Follow-up needed for zahriye/tughra examination.",
+    "source_data": {
+      "search_file": "catalog/searches/search_2026-02-24_batch3_marbled_colored_halkar.json",
+      "yek_id": "339866",
+      "visual_confirmation_file": "catalog/searches/visual_confirmation_2026-02-26_batch3.json",
+      "batch": "Batch 3 (marbled/colored/halkâr)"
+    }
+  }
+}
