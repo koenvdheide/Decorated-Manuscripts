@@ -60,6 +60,27 @@ User requests a search
 - **`probable` verdict**: treat as equivalent to `confirmed` for cataloguing. A `probable` result may be catalogued immediately with its confidence score — do not artificially hold it back. Add to MEMORY.md Follow-up Items if higher-confidence imaging is still desired.
 - **CHECKPOINT before deep analysis**: present confirmed/probable count and full verdict summary. Deep analysis (motif-classifier + codicology-agent) is optional — only proceed if the user explicitly requests it.
 
+For batch cataloguing (sub-batch pipeline):
+
+```text
+Batch of albums with existing triage data
+    → visual-confirmation (IIIF download + metadata extraction, parallel agents)
+    → [orchestrator: examine viewer screenshots + early IIIF images during download]
+    → [orchestrator: CHECKPOINT — present decoration confirmations + triage corrections]
+    → metadata-generator (produce catalog records, parallel agents)
+    → qc-reviewer (validate all records)
+    → [orchestrator: fix QC issues, update corpus_index + dedup_registry + MEMORY.md]
+```
+
+**Batch cataloguing pipeline notes:**
+
+- **Pre-assess during IIIF download**: while visual-confirmation agents run, examine existing low-resolution viewer screenshots from triage to spot decoration patterns, color discrepancies, and surprises. This builds a richer picture before cataloguing and prevents idle time.
+- **Examine IIIF images as they arrive**: don't wait for all agents to complete. Review individual high-res downloads as each agent progresses. Early findings inform corrections for later metadata-generator prompts.
+- **Incorporate triage corrections into generator prompts**: pass explicit corrections (mülevven not confirmed, battal ebru missed, color misidentifications) directly to metadata-generator agents. This prevents generators from perpetuating triage errors. Label corrections with "CRITICAL CORRECTION" or "KEY FINDING" for emphasis.
+- **Parallel non-conflicting work**: during agent wait time, do cleanup tasks — verify dedup registry, study canonical record patterns, clean stale MEMORY.md entries, pre-compute index updates. Never duplicate work that running agents are doing.
+- **Central index update after all agents complete**: do not let individual agents update `corpus_index.json` or `MEMORY.md` — concurrent writes conflict. Instead, reconcile all updates centrally after agents finish.
+- **Group albums by workload**: pair large and small albums in each agent slot to balance processing time across parallel agents.
+
 For comparative work:
 
 ```text

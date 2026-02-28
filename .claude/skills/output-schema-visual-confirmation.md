@@ -70,6 +70,21 @@
             }
           }
         },
+        "iiif_images": {
+          "type": "array",
+          "description": "Metadata for each IIIF image downloaded during this confirmation session. Used by qc-reviewer to validate image integrity without needing Bash access.",
+          "items": {
+            "type": "object",
+            "required": ["filename", "width_px", "height_px", "file_size_kb"],
+            "properties": {
+              "filename": { "type": "string", "description": "Filename in corpus/iiif/, e.g. na_00084_p001.jpg" },
+              "width_px": { "type": "integer" },
+              "height_px": { "type": "integer" },
+              "file_size_kb": { "type": "integer" },
+              "page_number": { "type": "integer", "description": "IIIF page number used in the download URL" }
+            }
+          }
+        },
         "limitations": { "type": "array", "items": { "type": "string" } },
         "recommendation": { "type": "string" },
         "discrepancies": { "type": ["string", "null"] }

@@ -21,6 +21,7 @@ Single source of truth for all technical terminology used in this project. Agent
 | Ruling process | cetvel çekmek | — | jadval-kešī (جدول کشی) | rule-drawing / frame construction |
 | Bookbinding | cilt | jild (جلد) | jild | binding |
 | Gold-sprinkling | serpme / zerefşân | dhahab marshūsh (ذهب مرشوش) | zarafshān / afšān (افشان) | gold-sprinkled |
+| Color-sprinkling | boya efşân / serpme-i boyalı | — | rangafshān (رنگ‌افشان) | color-splashed / pigment-sprinkled |
 | Gold-on-gold | — | — | zer-ender-zer (زراندرزر) | gold layered on gold |
 | Gold-worked | zerkâri | — | zarkārī (زرکاری) | gold-worked |
 | Marbled paper | ebrî / ebrulu | — | abrī (ابری) / kāġaḏ-e abrī | marbled |
@@ -126,12 +127,20 @@ The Ottoman framing system uses layered borders around the text block:
 - **altınlı kağıt / yaldızlı kağıt** — gilded paper (general cataloguing term)
 - **gümüş yaldız serpmeli** — silver-sprinkled (see also *sim efşan* above)
 
+### Color-splashed papers (boya efşân)
+
+- **boya efşân / serpme-i boyalı** (بویا افشان) — pigment-sprinkled: colored paint or pigment particles hand-scattered onto paper surface using the same brush-flicking (fırça serpme) technique as zerefşân, but with colored pigment instead of gold leaf. The chromatic equivalent of zerefşân. Literally "color scattering" (*boya* = paint/dye, *efşân* = scattering, from Persian *afshān*). Also called *rangafshān* (رنگ‌افشان) in Persian ("color scattering").
+- **Diagnostic distinction from zerefşân**: speckles are matte colored pigment (pink, red, blue, etc.) rather than metallic gold particles. No shimmer or metallic lustre under any lighting.
+- **Diagnostic distinction from mülevven**: boya efşân produces scattered speckles on a cream/white ground; mülevven is uniformly dyed paper with no speckle pattern.
+- **Known corpus examples**: Vahid Paşa 01220 (confirmed — most systematic specimen: red/pink boya efşân as full-page endpapers pp001+008, AND as narrow border strips within compound cedvel framing pp002-007); Pertevniyal 00050 p007 (probable, confidence 0.70 — pink/rose speckles consistent with boya efşân; physical examination required to confirm).
+
 ### Marbled papers
 
 - **ebrî / ebrulu** — marbled (general). Simple form `Ebru kağıt` also used as standalone kagit_ozellikleri descriptor
 - **hatip ebru** — imam's marbling: floral/vegetal motifs created in marbling trough
 - **battal ebru** — stone/spot marbling: irregular spotted or mottled pattern
-- **gel-git / taraklı ebru** — combed marbling: parallel wavy lines from combing through the marbling size
+- **gel-git ebru** — "come-go" marbling: wave-like patterns created by drawing a single stylus (biz) back and forth through pigment on the size. Produces flowing, organic S-curves. NOT combed.
+- **taraklı ebru** — combed marbling: parallel lines created by drawing a multi-toothed comb (tarak) through the size. Produces regular, evenly-spaced striations. Distinct from gel-git.
 - **vikaye yaprağı hatip ebrulu** — protective/guard flyleaf in hatip-marbled paper (flyleaf = vikaye yaprağı; confirms marbled paper at opening)
 - **yan kağıtları ebrulu** — marbled side/margin papers (distinct from text block; found at both ends of volume — check opening AND closing pages when searching)
 - **X.varak ebrulu kağıt üzeri yazılı** — folio X written on marbled paper (indicates scattered marbled leaves within a manuscript; targeted page navigation required)

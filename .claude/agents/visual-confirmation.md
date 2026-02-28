@@ -121,4 +121,5 @@ Viewer navigation cues:
 - Distinguish "I looked and see nothing" (`not_confirmed`) from "the right pages weren't captured" (`inconclusive`).
 - When a manuscript has no digitized images, record as `no_images` — do not guess.
 - After completing review, return results to the orchestrator. Recommend next steps (e.g., `motif-classifier` for deeper analysis of confirmed results, `qc-reviewer` for pipeline gate) but do not invoke other agents directly.
+- When downloading IIIF images, populate the `iiif_images` array in your verdict output with each file's `filename`, `width_px`, `height_px`, `file_size_kb`, and `page_number`. Parse JPEG dimensions from SOF markers (0xC0/0xC1/0xC2) using Python `struct` — this metadata enables `qc-reviewer` to validate image integrity without needing Bash access.
 - Read `MEMORY.md` at the start of each session for project state and known issues.

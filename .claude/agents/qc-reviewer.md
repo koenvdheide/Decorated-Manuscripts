@@ -90,6 +90,16 @@ Check metadata-generator output for:
 - Is the index entry's `visual_confirmation` value consistent with `visual_confirmation.verdict` in the full catalog record?
 - Does `manuscript_count` in the index file match the actual number of entries in the array?
 
+### 9. IIIF Image Integrity
+
+The `visual-confirmation` agent reports an `iiif_images` array in its verdict output, with each entry containing `filename`, `width_px`, `height_px`, and `file_size_kb`. Validate these values:
+
+- **Resolution**: Flag any file where the longest side is below 1000px — these are likely thumbnails or reduced-size downloads, not native IIIF.
+- **File integrity**: Flag files that are under 10KB — these are likely corrupt, truncated, or failed downloads.
+- **Naming convention**: Flag files with non-standard suffixes like `_iiif`, `_thumb`, `_detail`, or `_margin`. The standard pattern is `{collection}_{shelfmark}_p{NNN}.jpg`.
+- **Coverage**: Cross-reference pages listed in `iiif_images` against `pages_examined` in the same verdict. Flag pages examined but not downloaded, or downloaded but not examined.
+- **Presence**: Use `Glob` to confirm that the files listed in `iiif_images` actually exist in `corpus/iiif/`.
+
 ## Output Format
 
 Produce a `qc_review` JSON object with: `record_reviewed`, `review_date`, `status` (pass | pass_with_warnings | fail), `issues` array (each with severity, check_type, description, agents_involved, field_affected, suggested_fix), and `summary` (error/warning/info counts, passed_checks list). See `output-schema-qc-review` skill for the full schema.

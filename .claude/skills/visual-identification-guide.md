@@ -27,6 +27,29 @@ Reference for identifying paper decoration types in manuscript screenshots. Used
 - Digital compression artifacts — check if speckling appears on all pages uniformly (artifact) vs. varies (genuine)
 - Foxing or paper deterioration — brown/dark spots, no metallic quality
 
+### Color-splashed paper (boya efşân / rangafshān)
+
+**Identifying features:**
+
+- Colored (non-metallic) pigment particles scattered across the paper surface
+- Same application technique as zerefşân but using paint/pigment instead of gold
+- Produces matte colored speckles — NOT metallic
+- Common colors: pink/rose, red, blue, green
+- Irregular distribution pattern from brush-flicking (fırça serpme)
+- Particles vary in size and density; some may form small clusters or elongated streaks from the flicking motion
+
+**Resolution sensitivity:** HIGH — same challenges as gold-sprinkled. Fine pigment particles can be invisible at low resolution. Color helps: pink/red speckles on cream ground produce more contrast than gold, making boya efşân slightly easier to detect than zerefşân at equivalent resolution.
+
+**Distinguish from:**
+
+- Zerefşân (gold-sprinkled) — metallic particles with shimmer; boya efşân has matte colored particles with no metallic quality
+- Mülevven (colored/dyed paper) — uniform color throughout the sheet; boya efşân has discrete speckles on a contrasting ground
+- Foxing or paper deterioration — irregular brown spots with halo effect, concentrated in damp-damaged areas; boya efşân has even distribution of intentionally colored particles
+- Battal ebru (stone marbling) — flowing/swirling color patterns from marbling trough; boya efşân has discrete scattered particles, not continuous patterns
+- Digital compression artifacts — check if speckling appears identically on all pages (artifact) vs. varies in color/density (genuine)
+
+**Category mapping:** In the output schema, boya efşân is classified under `gold_sprinkled` (the broader "sprinkled" technique family) when it co-occurs with zerefşân, or under `colored` when it appears independently.
+
 ### Gold-worked paper (zerkâri / zer-endûd)
 
 **Identifying features:**
@@ -372,11 +395,11 @@ When the claimed decoration is likely beyond the capture window, verdict should 
 
 ## Resolution and Image Quality Heuristics
 
-| Quality level | Gold-sprinkled | Gold-worked | Marbled | Colored | Halkâr | Illum. margins | Teşʿîr | Zencirek | Framing | Silver-sprinkled | Edge gilding |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| High (>300 DPI equiv.) | ✅ visible | ✅ visible | ✅ visible | ✅ visible | ✅ details visible | ✅ details visible | ✅ visible | ✅ details visible | ✅ visible | ✅ visible | ✅ if angle allows |
-| Medium (150–300 DPI) | ⚠ may be invisible | ✅ visible | ✅ visible | ✅ visible | ✅ presence visible | ✅ presence visible | ❌ likely invisible | ✅ pattern visible | ✅ visible | ⚠ may be invisible | ✅ if angle allows |
-| Low (<150 DPI / thumbnails) | ❌ not discernible | ⚠ large patterns visible | ✅ usually visible | ✅ visible | ⚠ may miss subtle work | ⚠ presence visible | ❌ not discernible | ⚠ may blur to line | ✅ visible | ❌ not discernible | ⚠ if angle allows |
+| Quality level | Gold-sprinkled | Boya efşân | Gold-worked | Marbled | Colored | Halkâr | Illum. margins | Teşʿîr | Zencirek | Framing | Silver-sprinkled | Edge gilding |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| High (>300 DPI equiv.) | ✅ visible | ✅ visible | ✅ visible | ✅ visible | ✅ visible | ✅ details visible | ✅ details visible | ✅ visible | ✅ details visible | ✅ visible | ✅ visible | ✅ if angle allows |
+| Medium (150–300 DPI) | ⚠ may be invisible | ⚠ color contrast helps | ✅ visible | ✅ visible | ✅ visible | ✅ presence visible | ✅ presence visible | ❌ likely invisible | ✅ pattern visible | ✅ visible | ⚠ may be invisible | ✅ if angle allows |
+| Low (<150 DPI / thumbnails) | ❌ not discernible | ⚠ may resemble foxing | ⚠ large patterns visible | ✅ usually visible | ✅ visible | ⚠ may miss subtle work | ⚠ presence visible | ❌ not discernible | ⚠ may blur to line | ✅ visible | ❌ not discernible | ⚠ if angle allows |
 
 | Quality level | Stenciled | Silhouetted | Impressed/relief | Block-printed |
 | --- | --- | --- | --- | --- |
