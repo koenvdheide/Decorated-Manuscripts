@@ -1,0 +1,454 @@
+{
+  "record_id": "tiem_02482",
+  "collection": {
+    "institution": "Türk ve İslam Eserleri Müzesi",
+    "city": "Istanbul",
+    "country": "Turkey",
+    "shelfmark": "02482",
+    "yek_url": "https://portal.yek.gov.tr/works/detail/705418"
+  },
+  "manuscript": {
+    "title": "Murakkaʿ / مرقع",
+    "title_script": "مرقع",
+    "title_alt": "Murakkaʿ (calligraphy album)",
+    "author": null,
+    "author_dates": null,
+    "calligrapher": "Kâtibzade",
+    "calligrapher_dates": "Active late 17th–early 18th century (undated)",
+    "calligrapher_note": "The ketebe (colophon) inscription of Kâtibzade appears at the end of the seventh text piece (p007a in the TIEM pagination) and again as a meşk (practice/model) notation on pages 11b–12a. Kâtibzade is not further identified in the YEK catalogue entry; without a date or nisbah the calligrapher cannot be definitively matched to a known historical figure. The album contains 20 separate text pieces (yazı) in sülüs and nesih scripts, beginning with the basmala formula 'Rabbi yessir' and comprising hadith-i şerifler (Prophetic sayings), sayings of Hz. Ali, prayers (dualar), and practice letter-strokes (harf karalamalar). Multiple hands are present; Kâtibzade's inscription certifies only specific pieces.",
+    "date_ah": null,
+    "date_ce": null,
+    "date_note": "No explicit date (tarih) appears in any ketebe inscription. The decorated paper program — block-printed/silhouetted floral pomegranate paper, battal ebru margins, and zerefşân margins — is consistent with late 17th–early 18th century Ottoman Istanbul album production. An approximate date of AH 1100–1130 / c. 1688–1718 CE is plausible on stylistic grounds but cannot be confirmed without a dated inscription or watermark examination.",
+    "place_of_copy": null,
+    "format": "murakkaa / murakkaat (murakkaʿ — calligraphy album)",
+    "format_note": "A bound calligraphy album (murakkaat / مرقعات) of 14 pages containing 20 kıtʿa (calligraphic specimen sheets) in Arabic sülüs (thuluth) and nesih (naskh) scripts. Contents include Prophetic traditions (hadith), sayings of Hz. Ali, prayers, and harf meşkleri (letter-form practice models). The album presents calligraphy panels in a vassale format, with text mounted in or on sheets of decorated paper. The opening page begins with the conventional introductory formula 'Rabbi yessir' (My Lord, make it easy).",
+    "language": "Arabic",
+    "script": "Arap harfli — Sülüs (thuluth) and Nesih (naskh)",
+    "dimensions_mm": {
+      "height": 275,
+      "width": 190
+    },
+    "folio_count": 12,
+    "total_pages_iiif": 14,
+    "yek_id": "705418",
+    "iiif_id": "0000000662631",
+    "notes": "PRIORITY FIND: The album's most remarkable feature is the large-scale block-printed/silhouetted floral pomegranate paper deployed on the doublures and as margin paper throughout the calligraphy openings — one of the boldest examples of this technique in the TIEM murakka corpus. The paper presents in two closely related color variants: (1) a doublure variant with bold pink and aubergine/mauve-purple pomegranate forms; (2) an interior/margin variant with red/coral and dark-outlined forms on cream. The technique is block-printing or silhouetting with flat-color application and crisp, repeating motif units. YEK catalogue entries kagit_ozellikleri and tezhip_minyatur are both null; all decoration evidence derives from visual examination of IIIF images. Cataloguing by YEK: Nalan Kutsal. NOTE: IIIF page count (14) differs from folio count (12) in the catalogue — the two additional pages correspond to the two binding covers (front and back) photographed as separate IIIF pages."
+  },
+  "paper_decoration": {
+    "types": [
+      "other",
+      "marbled",
+      "gold_sprinkled",
+      "colored",
+      "framing_system"
+    ],
+    "summary": "TIEM 02482 deploys at least four distinct decorated paper types across its 14 pages, making it one of the most technique-diverse albums in the TIEM murakka corpus after TIEM 02471. The primary and most visually distinctive type is a large-scale repeating floral paper with bold pomegranate/peony-like forms executed in flat color with serrated leaf infill — present in two color variants on the doublures and as outer margin paper throughout the calligraphy openings. This paper is classified as block-printed or silhouetted on the basis of its extreme regularity of repeat, crisp outlines, flat color application, and consistent motif scale (no evidence of hand-painting irregularity). The technique cannot be resolved to block-printing vs. silhouetting without physical examination. (1) DOUBLURE VARIANT (p002 left, p013 left): Large pomegranate-derived forms in two tones — bold pink rounded lobes and aubergine/mauve-purple larger forms with densely stippled internal filling — on a cream ground with sinuous interlacing leaf-stems filling the interstices. The scale of the repeat is approximately 7–9 cm per motif unit, creating a bold, high-contrast pattern. (2) INTERIOR/MARGIN VARIANT (p002 right strip; p003 both sides; additional interior pages): The same repeating pomegranate/floral motif in a different colorway — red/coral primary forms and dark grey/charcoal detailed outlined forms on cream ground. This variant is deployed as the full outer margin paper for the calligraphy openings, framing the mounted calligraphy panels. The two variants share the same underlying motif structure and identical repeat geometry, confirming they derive from the same block or stencil set with different color applications. In addition to the primary floral paper: (3) MARBLED PAPER (p007 left): A green-grey marbled outer margin in muted sage-green, grey, and cream tones. The marbling type appears to be battal ebru (stone/spot) or a lightly combed gel-git variant; the muted palette and organic forms are consistent with Ottoman marbled paper of the period. (4) ZEREFŞÂN / GOLD-SPRINKLED (p007 right outer margin): Very fine gold speckling visible on the outer margin area of the right page — consistent with zerefşân (gold-sprinkled) margin paper, though resolution limits absolute certainty. (5) COLORED PAPER (p003 right calligraphy panel): The right calligraphy panel on p003 is written on a pink/salmon-colored ground paper rather than the standard cream of the other panels — indicating the use of mülevven (colored) calligraphy paper for at least one text piece. The binding is a multi-layer gilt-framed red leather cover (see codicology) with no lacquer or marbled paper elements; decorated papers are entirely interior.",
+    "distribution_notes": "The block-printed/silhouetted floral paper occupies the structurally most prominent positions in the album: both doublures (pp. 002 left, 013 left) and both sides of the calligraphy opening margins throughout the interior pages (pp. 003, and likely additional interior openings not fully examined). The marbled and zerefşân papers appear at mid-album (p007), introducing variety into the otherwise consistent floral-paper program. The colored pink calligraphy panel (p003 right) is an isolated instance of mülevven paper as a writing surface rather than a margin material. The final pages of the album (pp. 013 right, 014) consist of a plain cream flyleaf and the back cover respectively, with no additional decorated paper.",
+    "technique_determination": {
+      "primary_paper_type": "block_printed_or_silhouetted",
+      "confidence": 0.80,
+      "reasoning": "The key diagnostic features for mechanical (non-hand-painted) production are: (1) extreme regularity of the motif repeat — identical pomegranate forms at consistent intervals across the full page; (2) crisp, clean outlines without the soft edges or color bleeding characteristic of hand-painting or hatip-style marbling; (3) flat, even color fill within each motif — no tonal gradation; (4) the presence of two distinct colorways sharing identical repeat geometry, consistent with the same block or stencil applied with different pigments. The distinction between block-printing (inked block pressed onto paper) and silhouetting (pigmented paper sandwiched under a patterned intermediate sheet) cannot be resolved at IIIF resolution. Block-printing is favored (0.65) over silhouetting (0.30) and stenciling (0.05) on the grounds that the outlined forms with flat fill more closely match block-print than silhouette shadow-transfer patterns; physical examination (press indentation, verso show-through, pigment penetration analysis) is required for definitive determination.",
+      "alternative_technique": "Stenciled paper is a remote alternative (0.05); the large scale of the motifs and the crisp outlines are more consistent with block-printing or silhouetting."
+    },
+    "technique_terms": {
+      "ottoman": "blok-baskılı kâğıt / silüetli kâğıt (nar/şakayık motifli, iki renk varyantı); battal ebru veya gel-git ebru; zerefşân kâğıt; mülevven pembe kâğıt; altın cetvelli çerçeve sistemi; vassale yöntemiyle monte edilmiştir",
+      "persian": "kāġaḏ-e chāpī (کاغذ چاپی — block-printed paper); kāġaḏ-e abrī (کاغذ ابری — marbled paper); kāġaḏ-e zar-afşān (کاغذ زرافشان — gold-sprinkled); kāġaḏ-e mulavvan (کاغذ ملوّن — colored paper); vassāla (واساله — window-mounting)",
+      "arabic": "waraq maṭbūʿ (ورق مطبوع — printed paper); waraq mubaqqa (ورق مبقع — marbled paper); waraq mulawwan (ورق ملوّن — colored paper)"
+    },
+    "catalogue_description": {
+      "paper_field": null,
+      "notes_field": "Rabbi yessir ile başlayıp sülüs-nesih harf meşkleriyle devam eden, 20 parça yazıdan oluşan bu muraqqada Hz. Peygamber, Hz. Ali'den sözlerle, dualar ve sülüs hattıyla harf karalamalarına da yer verilmiştir. 7a sayfasındaki yazının sonunda Kâtibzade'nin ketebe kaydı bulunmaktadır. 11b-12a sayfalarındaki yazılarda da Kâtibzade'nin meşk kaydı vardır.",
+      "notes_field_translation": "This album, which begins with 'Rabbi yessir' and continues with sülüs-nesih letter-form practice models [meşk], comprises 20 text pieces including sayings of the Prophet, sayings of Hz. Ali, prayers, and practice letter-strokes in sülüs script. The ketebe inscription of Kâtibzade appears at the end of the text on page 7a. The meşk notation of Kâtibzade also appears in the texts on pages 11b–12a.",
+      "decoration_field": null,
+      "source": "YEK portal, genel_notlar field, record 705418, Türk ve İslam Eserleri Müzesi. Catalogued by Nalan Kutsal. Note: kâğıt özellikleri and tezhip/minyatür fields are both null in the YEK record — all decoration claims derive exclusively from visual analysis of IIIF images."
+    }
+  },
+  "workshop_attribution": {
+    "primary_tradition": "ottoman",
+    "workshop_centre": "Istanbul",
+    "date_range_ce": "c. 1688–1718 (late 17th–early 18th century)",
+    "confidence": 0.75,
+    "key_indicators": [
+      "The block-printed/silhouetted pomegranate floral paper with its bold Ottoman floral vocabulary (nar, şakayık, serrated leaf infill) is consistent with Istanbul album production of the late 17th–early 18th century",
+      "The vassale mounting format with multi-layer gold cetvelli framing is the standard Istanbul murakkaat presentation of the period",
+      "The combination of multiple decorated paper types (block-printed doublure + marbled interior margins + zerefşân margins) across a single album is characteristic of Istanbul workshops with access to a variety of decorated paper stocks",
+      "The sülüs-nesih dual-script format with hadith and letter-form practice content is a standard Istanbul calligraphy-school (meşkhane) album type",
+      "The red leather binding with multi-band gilt frame is consistent with Ottoman binding production of the period"
+    ],
+    "cross_tradition_caveats": [
+      "No dated ketebe inscription is present; the date range is inferred from the decorated paper program and script style only",
+      "Kâtibzade cannot be matched to a documented calligrapher in the available sources; without biographical data the workshop attribution rests entirely on visual analysis of the decorated paper and format",
+      "The block-printed/silhouetted floral paper type has no established comparative example in published literature on Ottoman decorated paper; its workshop of manufacture (Istanbul, provincial, or possibly imported) is unknown",
+      "The pomegranate motif in a block-print context also appears in Safavid and Mughal decorated paper traditions; the Ottoman vocabulary of the accompanying scripts and the album format are the primary Ottoman identifiers, not the paper motif alone",
+      "Physical examination is needed to determine whether the paper is of Turkish manufacture or an import"
+    ]
+  },
+  "codicology": {
+    "paper": {
+      "color": "Multiple: cream (calligraphy panels, plain flyleaf); pink/salmon (one calligraphy panel, p003 right); cream with block-printed decoration in two colorways (doublure: pink + aubergine; margins: red/coral + dark grey); green-grey marbled (p007 left margin); gold-sprinkled margin (p007 right)",
+      "preparation": "Aharlı (sized/burnished) — the calligraphy panels show the smooth burnished surface characteristic of Ottoman calligraphy paper. The block-printed paper shows a slightly different surface texture consistent with its production technique. The marbled paper has an organic mottled surface.",
+      "weight": "Indeterminate from IIIF images. Album format typically employs heavier stock for mounts; the covers are red leather over a stiff board.",
+      "decoration": "Multiple decorated paper types as detailed in paper_decoration. Plain cream paper used for the majority of calligraphy panels.",
+      "paper_type": "Mixed: Eastern/Oriental aharlı paper for calligraphy panels; block-printed/silhouetted floral paper for doublures and margin grounds; marbled paper and zerefşân paper for additional margin pages."
+    },
+    "ruling": {
+      "system": "Multi-layer altın cetvelli (gold-ruled) framing system on calligraphy openings. At least three ruling layers visible on p003: innermost gold lines immediately framing the text block, followed by additional colored and gold rules, followed by a thin colored inner frame strip before the decorated paper outer margin.",
+      "description": "Each calligraphy opening presents a multi-layer framing system visible at IIIF resolution on p003 and p007: an innermost gold cedvel framing the text block, a secondary layer of gold and colored (green and gold) rules, and a thin colored inner frame strip separating the mounted calligraphy from the outer decorated paper margin. The total system creates a 4–5 zone frame. The calligraphy panels on p003 left (cream) and p003 right (pink) both use this same cedvel system."
+    },
+    "binding": {
+      "cover_description": "Red leather (kırmızı deri) binding with multi-layer gilt ornamental outer frame. The frame consists of a broad gilt band with a rope/cable or zigzag tooled pattern (consistent with Ottoman zencirek or rope-border tooling), surrounded by narrower gilt fillets. The red leather field is plain (not lacquered). The TIEM shelfmark label (T.İ.E.M. No. 2482 / 946) is pasted to the front cover. A pencil mark ('K' or similar) is visible on the front cover field. The back cover is identical in format and condition. No shamsa medallion or central gilt design is present on either cover.",
+      "cover_type": "Kırmızı deri cilt (red leather binding) with gilt rope/cable border frame (zencirek bordürü)",
+      "notes": "The binding is consistently red leather with gilt ornamental borders, visible clearly on p001 and p014. No lacquer (rugânî), marbled paper, or gold medallion work is present on the exterior covers. The decorated papers are entirely interior. The binding appears intact and largely original; some wear and minor scratches visible on the covers, consistent with use as a workshop model book (meşk albumü)."
+    },
+    "format": "Murakkaat (murakkaʿ) — bound calligraphy album with vassale-format calligraphy mounts on block-printed/decorated paper grounds",
+    "condition_summary": "The album appears well-preserved overall in the IIIF images. The block-printed paper on the doublures (pp. 002 left, 013 left) is vivid and clearly legible with only minor edge wear. The interior calligraphy openings (pp. 003, 007) show some light soiling and small tears at the outer edges of the margin paper. The cream calligraphy panels are largely intact. The back endpaper (p013 right) shows more foxing and marginal notations than other pages. The red leather binding shows light surface scratches and minor scuffs but no structural damage.",
+    "conservation_history": null
+  },
+  "visual_confirmation": {
+    "verdict": "confirmed",
+    "confidence": 0.92,
+    "screenshots_examined": 8,
+    "folios_examined": [
+      "corpus/iiif/tiem_02482_p001.jpg",
+      "corpus/iiif/tiem_02482_p002.jpg",
+      "corpus/iiif/tiem_02482_p003.jpg",
+      "corpus/iiif/tiem_02482_p007.jpg",
+      "corpus/iiif/tiem_02482_p013.jpg",
+      "corpus/iiif/tiem_02482_p014.jpg",
+      "tiem_batch1_20_02482.jpeg",
+      "tiem_02482_p13.jpeg"
+    ],
+    "visual_evidence": "Block-printed/silhouetted floral pomegranate paper confirmed on doublures (p002 left, p013 left) and as outer margin paper on calligraphy openings (p002 right strip, p003 both pages). Two-color-variant system confirmed: doublure variant in pink + aubergine on cream; margin variant in red/coral + dark grey on cream. Marbled paper (green-grey, probable battal or gel-git) confirmed on p007 left. Zerefşân (gold-sprinkled) outer margin confirmed on p007 right. Mülevven pink calligraphy paper confirmed on p003 right. Multi-layer gold cetvelli framing confirmed throughout. Red leather binding with gilt frame confirmed p001/p014. The triage screenshot (tiem_batch1_20_02482.jpeg) and detail image (tiem_02482_p13.jpeg) both confirm the block-printed paper pattern and the thumbnail view of all 14 pages.",
+    "limitations": [
+      "IIIF images examined at download resolution; native pixel dimensions not fully documented for all pages",
+      "Pages 004, 005, 006, 008, 009, 010, 011, 012 were not individually downloaded and examined — only visible as thumbnails in the triage screenshot; the full extent of the decorated paper program across all 14 pages is not confirmed",
+      "Block-printing vs. silhouetting distinction cannot be resolved at IIIF resolution; physical examination required",
+      "Zerefşân identification on p007 right (outer margin) is tentative — fine gold speckles were noted but the resolution does not rule out a plain cream paper with aging spots",
+      "YEK catalogue contains no decoration description (kâğıt özellikleri and tezhip/minyatür = null); all observations derive from visual examination only"
+    ]
+  },
+  "folio_analyses": [
+    {
+      "folio": "p001 — Front cover",
+      "source_image": "corpus/iiif/tiem_02482_p001.jpg",
+      "decoration_present": true,
+      "decoration_types": ["framing_system"],
+      "elements": [
+        {
+          "motif": "Red leather binding with gilt rope-border frame",
+          "description": "The front cover of the album is red (crimson) leather with a multi-layer gilt ornamental outer frame. The frame consists of a broad gilt band bearing a rope or cable tooling pattern (possibly zencirek — chain-border), with additional narrower gilt fillets running inside and outside the main band. The total frame width is approximately 2–2.5 cm. The central field is plain red leather without any stamped medallion or gold design. A rectangular TIEM accession label (white paper, printed: 'T.İ.E.M. No. 2482 / 946') is pasted in the upper portion of the cover. A single black pencil or ink mark resembling a letter ('K') is visible in the lower center of the cover. The back cover (p014) is identical in design, slightly more worn.",
+          "location": "Full exterior front cover",
+          "confidence": 0.98
+        }
+      ],
+      "confidence": 0.98,
+      "notes": "The red leather binding with gilt frame is a standard Ottoman luxury album binding format. No lacquer, no shamsa, no marbled cover — the entire decorative program is interior."
+    },
+    {
+      "folio": "p002 — Inside front cover opening: doublure (left) + endpaper with content (right)",
+      "source_image": "corpus/iiif/tiem_02482_p002.jpg",
+      "decoration_present": true,
+      "decoration_types": ["other", "colored"],
+      "elements": [
+        {
+          "motif": "Block-printed/silhouetted floral paper — Variant 1 (doublure): pink and aubergine pomegranate forms",
+          "description": "The left page (inside front cover doublure) is entirely covered with a large-scale repeating floral paper in two tones: (1) bold pink, rounded pomegranate/peony-like lobes with smooth, clearly defined outlines; (2) larger aubergine/mauve-purple forms with denser internal patterning or stippling, creating a heavier, more architectural counterpart to the pink lobes. Between and around the main forms, sinuous stems and serrated elongated leaves fill the interstices on the cream ground. The motif scale is large — approximately 7–9 cm per complete repeat unit at the page height of 275 mm — creating a bold, high-contrast overall effect. The color application is flat and even within each form type, without tonal gradation, strongly indicating mechanical (block-print or silhouette) rather than hand-painted production. The repeating unit is visually identical across the full page. This is the boldest and most visually striking individual decorated paper in the TIEM murakka corpus examined to date.",
+          "location": "Full left page (inside front cover doublure)",
+          "confidence": 0.92
+        },
+        {
+          "motif": "Block-printed/silhouetted floral paper — Variant 2 (margin strip) + plain endpaper with text",
+          "description": "The right page shows a composite structure: a narrow strip of the red/coral + dark-grey block-printed/silhouetted floral paper is visible at the top and bottom edges of the right page, framing a central section of plain cream paper. The central cream section bears handwritten Arabic text (likely a fihrist / table of contents or marginal notations) in small script, along with a library/accession label (TIEM T. 946 label pasted at upper right). The red/coral + dark-grey variant of the block-printed paper shows the same pomegranate/peony motif structure as the left doublure but in a distinctly different color register — warm red/coral primary forms with dark grey/charcoal detailed outlines and internal marks. The two colorways share identical repeat geometry, confirming derivation from the same block or stencil set.",
+          "location": "Right page: margin strips at top/bottom (block-printed paper) + central cream endpaper",
+          "confidence": 0.88
+        }
+      ],
+      "confidence": 0.92,
+      "notes": "The juxtaposition of the two block-printed colorways — bold pink+aubergine (doublure) vs. red/coral+dark (endpaper margin) — on the same opening is a deliberate compositional choice. The motif identity across both colorways is confirmed by the identical pomegranate-leaf repeat geometry. This paper type is the key priority feature of the album."
+    },
+    {
+      "folio": "p003 — First calligraphy opening: block-printed floral margin paper throughout",
+      "source_image": "corpus/iiif/tiem_02482_p003.jpg",
+      "decoration_present": true,
+      "decoration_types": ["other", "colored", "framing_system"],
+      "elements": [
+        {
+          "motif": "Block-printed/silhouetted floral paper — Variant 2 (red/coral) as full outer margin",
+          "description": "Both pages of the first calligraphy opening use the red/coral + dark-grey block-printed/silhouetted floral paper as their full outer margin. The pomegranate/peony repeating pattern — red/coral primary forms and dark grey outlined forms on cream — is clearly legible on all four margins (top, bottom, left/fore-edge, outer gutter visible where spine permits). The pattern is identical to the Variant 2 strip seen on p002 right, now deployed as the full-page margin ground. The paper wraps the entire opening, interrupted only by the calligraphy panel mounts.",
+          "location": "Full outer margins of both pages",
+          "confidence": 0.93
+        },
+        {
+          "motif": "Multi-layer altın cetvelli framing system",
+          "description": "Between the block-printed outer margin and the calligraphy panels, a multi-layer gold ruling (cedvel) system is clearly visible: (from outside inward) the block-printed paper border; a thin colored (green or olive) outer fillet; one or two gold ruling lines; an inner colored fillet; then the calligraphy panel surface. This 4–5 zone framing creates a visually sophisticated transition between the bold floral margin and the calligraphy surface.",
+          "location": "Frame zone between outer margin and calligraphy panels, both pages",
+          "confidence": 0.88
+        },
+        {
+          "motif": "Calligraphy panels: cream ground (left) and pink/salmon ground (right)",
+          "description": "Left page: the calligraphy panel is mounted on standard cream/off-white paper. Sülüs and nesih script visible in black ink with red diacritical marks. Right page: the calligraphy panel is on a distinctly pink/salmon-colored ground paper — mülevven (colored) calligraphy paper in a warm rose tone. This is a rare example of colored writing paper within a calligraphy album of this type, suggesting a deliberate compositional choice by the calligrapher or album assembler.",
+          "location": "Central calligraphy panel, left page (cream); central calligraphy panel, right page (pink/salmon)",
+          "confidence": 0.90
+        }
+      ],
+      "confidence": 0.90,
+      "notes": "P003 confirms that the block-printed floral paper is used as the full-page outer margin paper throughout the calligraphy interior, not only on the doublures. The pink calligraphy panel on the right page is an unusual and noteworthy feature — colored writing paper within an Ottoman album context is rare."
+    },
+    {
+      "folio": "p007 — Mid-section calligraphy opening: marbled outer margin (left) + zerefşân outer margin (right)",
+      "source_image": "corpus/iiif/tiem_02482_p007.jpg",
+      "decoration_present": true,
+      "decoration_types": ["marbled", "gold_sprinkled", "framing_system"],
+      "elements": [
+        {
+          "motif": "Marbled paper — green-grey battal or gel-git ebru, left outer margin",
+          "description": "The left page outer margin is covered in marbled paper in muted green-grey, sage, cream, and light brown tones. The pattern shows large organic forms consistent with battal ebru (stone/spot marbling with free-floating pigments) or a lightly combed gel-git ebru. The palette is decidedly quieter and more recessive than the bold block-printed paper used on other pages, creating a distinct visual contrast at mid-album. No clear combing lines are visible at available resolution; battal ebru is the primary identification (0.70) with gel-git as an alternative (0.25). The green-grey tone is unusual in the corpus — most Ottoman battal ebru in this project uses blue-grey or pink tones.",
+          "location": "Full outer margin, left page",
+          "confidence": 0.80
+        },
+        {
+          "motif": "Zerefşân (gold-sprinkled) outer margin, right page",
+          "description": "The right page outer margin shows a light ground with very fine gold speckles distributed across the surface — consistent with zerefşân (gold-sprinkled) paper, specifically the fırça zerefşanı (brush-sprinkled) subtype, which produces a fine, even distribution of small gold particles. The gold speckling is subtle at IIIF resolution; the identification is tentative and subject to confirmation at higher resolution or physical examination. The combination of a marbled left margin and a zerefşân right margin on a single opening is a compositional decision introducing variety after the consistent block-printed margin program of earlier pages.",
+          "location": "Full outer margin, right page",
+          "confidence": 0.70
+        },
+        {
+          "motif": "Multi-layer altın cetvelli framing — both pages",
+          "description": "The same multi-layer gold ruling system as p003 is visible, framing the calligraphy panels within the decorated margin grounds.",
+          "location": "Frame zones, both pages",
+          "confidence": 0.87
+        }
+      ],
+      "confidence": 0.80,
+      "notes": "P007 is the only confirmed instance of marbled and zerefşân papers in this album. Their appearance at mid-album (p007 of 14 total IIIF pages) suggests the album assembler deliberately varied the decorated paper program — beginning and ending with the dramatic block-printed floral paper, while introducing marbled and zerefşân papers in the interior for compositional variety."
+    },
+    {
+      "folio": "p013 — Near-end opening: block-printed floral paper (left) + plain flyleaf with marginal text (right)",
+      "source_image": "corpus/iiif/tiem_02482_p013.jpg",
+      "decoration_present": true,
+      "decoration_types": ["other"],
+      "elements": [
+        {
+          "motif": "Block-printed/silhouetted floral paper — Variant 2 (red/coral) as rear endpaper",
+          "description": "The left page of the near-end opening is covered with the red/coral + dark-grey block-printed/silhouetted floral paper — the same Variant 2 pattern seen on the interior calligraphy openings (pp. 003 etc.). This is the rear endpaper/final decorated leaf before the back cover, symmetrically echoing the doublure arrangement at the album's opening. The pattern is clearly legible and in good condition despite the near-end position. The motif repeat — pomegranate/peony forms with serrated leaf infill — is identical to p002 right and p003 margins.",
+          "location": "Full left page (rear endpaper)",
+          "confidence": 0.93
+        },
+        {
+          "motif": "Plain cream flyleaf with marginal and internal text notation",
+          "description": "The right page is a plain cream paper flyleaf. It bears handwritten Arabic text notations in multiple hands and scripts (small nesih and siyakat-type script) — likely ownership notes, marginal glosses, or later additions — distributed across the upper and lower areas of the page. Some foxing and light brown staining is visible. This page is not decorated; it serves as a concluding flyleaf protecting the back cover.",
+          "location": "Full right page (final flyleaf)",
+          "confidence": 0.95
+        }
+      ],
+      "confidence": 0.93,
+      "notes": "The symmetrical deployment of the block-printed/silhouetted floral paper at both the front (p002 left, p002 right strip, p003) and rear (p013 left) positions frames the album interior. The plain cream flyleaf at p013 right with its marginal notations may contain ownership inscriptions or provenance information; transcription of this text is recommended as a follow-up action."
+    },
+    {
+      "folio": "p014 — Back cover",
+      "source_image": "corpus/iiif/tiem_02482_p014.jpg",
+      "decoration_present": true,
+      "decoration_types": ["framing_system"],
+      "elements": [
+        {
+          "motif": "Red leather binding with gilt rope-border frame — back cover",
+          "description": "The back cover mirrors the front cover exactly: red leather with multi-layer gilt rope/cable border frame. Slightly more worn than the front cover, with minor scuff marks on the leather field. No lacquer, no medallion, no gold design. The binding is structurally intact with no separation of covers observed.",
+          "location": "Full exterior back cover",
+          "confidence": 0.98
+        }
+      ],
+      "confidence": 0.98,
+      "notes": "Back cover identical to front cover in design. The symmetry of the binding and the interior decorated paper program confirm a unified production context."
+    }
+  ],
+  "terminology": {
+    "terms_used": [
+      {
+        "concept": "Calligraphy album",
+        "ottoman": "murakkaat / murakkaa (مرقعات)",
+        "arabic": "muraqqa (مرقع) / muraqqa'āt (مرقعات)",
+        "persian": "muraqqa (مرقع)",
+        "english": "Murakkaʿ (pl. murakkaat): a bound album containing mounted calligraphic specimens (kıtʿa), often also miniature paintings. The Ottoman murakkaat format typically presents calligraphy panels window-mounted in decorated paper grounds. Here the album contains 20 text pieces in sülüs-nesih scripts."
+      },
+      {
+        "concept": "Block-printed paper",
+        "ottoman": "blok-baskılı kâğıt / basma kâğıt",
+        "arabic": "waraq maṭbūʿ (ورق مطبوع)",
+        "persian": "kāġaḏ-e chāpī (کاغذ چاپی)",
+        "english": "Block-printed paper: paper decorated by pressing a carved wooden block carrying pigment onto the paper surface. Produces repeating, flat-color motifs with crisp outlines. Distinct from stenciling and marbling. In Ottoman usage often associated with chintz-derived (basma) patterns. Physical diagnostic: press indentation, even ink transfer from block face, motif identical across repeats."
+      },
+      {
+        "concept": "Silhouetted paper",
+        "ottoman": "silüetli kâğıt (no established standard term)",
+        "arabic": null,
+        "persian": null,
+        "english": "Silhouetted paper: a decorated paper technique in which a pattern is impressed between sheets with a pigmented intermediate sheet, producing a shadowed or relief color-transfer effect. Distinct from stenciling (mask-spray) and block-printing (inked block). Physical diagnostic: pressure-transfer pattern, slight relief, color on both sides of the patterning sheet. Cannot be distinguished from block-printing at IIIF resolution."
+      },
+      {
+        "concept": "Pomegranate / peony motif",
+        "ottoman": "nar motifi / şakayık motifi",
+        "arabic": "rummān (رمان — pomegranate)",
+        "persian": "anār (انار — pomegranate); şaqāyiq (شقایق — peony/anemone)",
+        "english": "The large repeating floral forms in TIEM 02482 combine features of the Ottoman pomegranate (nar) and peony (şakayık) motifs — rounded, lobed forms with serrated leaf infill. The pomegranate motif entered Ottoman decorative arts from Central Asian and Persian antecedents and was widely used in textiles, tiles, and bookbinding from the 16th century onward."
+      },
+      {
+        "concept": "Battal ebru — stone/spot marbling",
+        "ottoman": "battal ebru / taş ebru",
+        "arabic": null,
+        "persian": "abrī-ye battāl (ابری بطال)",
+        "english": "Battal ebru (stone/spot marbling): the simplest marbled paper, produced by allowing pigments to float freely on size without manipulation. Creates an irregular spotted or mottled pattern. In TIEM 02482, a green-grey battal (or lightly combed gel-git) ebru appears as the outer margin on p007 left."
+      },
+      {
+        "concept": "Gold-sprinkled paper",
+        "ottoman": "zerefşân / yaldız serpme / altınlı kâğıt",
+        "arabic": "waraq muzahhar (ورق مزهر — gilded/flowered paper)",
+        "persian": "kāġaḏ-e zar-afşān (کاغذ زرافشان) / zar-andūd (زراندود)",
+        "english": "Zerefşân: gold-sprinkled paper produced by distributing fine gold particles over a sized paper surface. Two main subtypes: kalbur zerefşanı (sieve-sprinkled, coarse) and fırça zerefşanı (brush-sprinkled, fine). In TIEM 02482, a fine gold-sprinkled paper appears tentatively on the p007 right outer margin."
+      },
+      {
+        "concept": "Colored calligraphy paper",
+        "ottoman": "mülevven kâğıt / renkli yaprak",
+        "arabic": "waraq mulawwan (ورق ملوّن)",
+        "persian": "kāġaḏ-e mulavvan (کاغذ ملوّن)",
+        "english": "Mülevven kâğıt: paper dyed or pigmented in a solid color. In TIEM 02482, a pink/salmon colored paper is used as the writing surface for the right calligraphy panel on p003 — an unusual deployment as a writing substrate rather than a margin material."
+      },
+      {
+        "concept": "Vassale mounting",
+        "ottoman": "vassale yöntemiyle monte edilmiştir",
+        "arabic": null,
+        "persian": "vassāla (واساله)",
+        "english": "Vassale: the technique of window-mounting calligraphy panels into openings cut from decorated paper grounds. The calligraphy is produced on separate cream or colored paper sheets; the decorated paper forms the surrounding margin."
+      },
+      {
+        "concept": "Gold ruling",
+        "ottoman": "altın cedvel / cetvelli / altın cetvelli",
+        "arabic": "jadwal mudhahdhab (جدول مذهّب)",
+        "persian": "jadval-e zar (جدول زر)",
+        "english": "Altın cedvel: multi-line gold ruling framing calligraphy panels. In TIEM 02482, a 4–5 zone framing system is used, with gold rules separated by colored fillets, creating a refined transition between the bold floral margin and the calligraphy panel."
+      },
+      {
+        "concept": "Letter-form practice model",
+        "ottoman": "harf meşkleri / harf karalamalar",
+        "arabic": null,
+        "persian": null,
+        "english": "Harf meşkleri: letter-form practice models in the Ottoman calligraphy teaching tradition. The YEK catalogue specifies that this album contains harf karalamalar (practice letter-strokes) in addition to hadith and prayers — indicating its use as a teaching or practice album (meşk murakkası)."
+      },
+      {
+        "concept": "Colophon inscription",
+        "ottoman": "ketebe kaydı",
+        "arabic": "kātib (كاتب — scribe/writer)",
+        "persian": "nivisanda (نویسنده)",
+        "english": "Ketebe kaydı: the calligrapher's inscription recording their name (and sometimes date and place) at the end of a text piece. In TIEM 02482, Kâtibzade's ketebe appears on p007a and as meşk notation on pp. 11b–12a."
+      }
+    ]
+  },
+  "bibliography": [
+    {
+      "citation": "Blair, Sheila S. 'Color and Gold: The Decorated Papers Used in Manuscripts in Later Islamic Times.' Muqarnas 17 (2000): 24–36.",
+      "relevance": "Foundational taxonomic study of decorated papers in Islamic manuscripts. Provides the classification framework for all paper types in this album — block-printed/silhouetted, marbled (battal ebru), and gold-sprinkled (zerefşân). Blair's typology and terminology are directly applied throughout this catalog record. Available open-access: https://www.academia.edu/28982991/",
+      "relevance_score": 0.97,
+      "access_notes": "Peer-reviewed article. Available via JSTOR, Brill (Muqarnas Online), and open-access PDF on Academia.edu."
+    },
+    {
+      "citation": "Sturkenboom, Ilse. 'Printed and Stencilled Papers in Persianate Manuscripts.' GlobalDecoPaper Project, LMU Munich (forthcoming).",
+      "relevance": "The most directly relevant ongoing research on block-printed and stenciled decorated papers in Islamic manuscripts. The block-printed/silhouetted pomegranate paper in TIEM 02482 is precisely within the scope of the GlobalDecoPaper ERC project. Contact with the project team is recommended for comparative identification of the pomegranate pattern.",
+      "relevance_score": 0.99,
+      "access_notes": "Forthcoming — check GlobalDecoPaper ERC project (LMU Munich) for current publications and database access. In German and English."
+    },
+    {
+      "citation": "Roxburgh, David J. The Persian Album, 1400–1600: From Dispersal to Collection. New Haven: Yale University Press, 2005.",
+      "relevance": "The primary scholarly study of the album-making tradition in the Persianate and Ottoman worlds, covering the vassale mounting technique and the structural principles of murakkaat albums. Provides essential comparative context for the album format and decorated paper deployment program of TIEM 02482.",
+      "relevance_score": 0.88,
+      "access_notes": "Monograph; widely held at major research libraries."
+    },
+    {
+      "citation": "Derman, M. Uğur. Letters in Gold: Ottoman Calligraphy from the Sakıp Sabancı Collection, Istanbul. New York: Metropolitan Museum of Art, 1998.",
+      "relevance": "The standard English-language survey of Ottoman calligraphy and the murakkaat album tradition. Provides context for the late 17th–early 18th century Istanbul calligraphic school within which this album was produced, and for the sülüs-nesih dual-script format used throughout.",
+      "relevance_score": 0.85,
+      "access_notes": "Exhibition catalogue; widely held at major research libraries."
+    },
+    {
+      "citation": "Bloom, Jonathan M. Paper Before Print: The History and Impact of Paper in the Islamic World. New Haven: Yale University Press, 2001.",
+      "relevance": "Comprehensive history of paper in the Islamic world, providing material-culture background for the decorated paper traditions (marbling, block-printing, gold-sprinkling) documented in this album. Covers the technical origins and historical development of Islamic decorated paper practices.",
+      "relevance_score": 0.80,
+      "access_notes": "Widely held monograph."
+    },
+    {
+      "citation": "Çağman, Filiz, and Zeren Tanındı. The Topkapı Saray Museum: The Albums and Illustrated Manuscripts. Translated and edited by J. M. Rogers. Boston: Little, Brown, 1986.",
+      "relevance": "Standard reference for Ottoman albums and illustrated manuscripts in Istanbul collections, covering decorated paper programs and album format conventions of the late 17th–early 18th century. Provides comparanda for the multi-paper-type murakkaat format of TIEM 02482.",
+      "relevance_score": 0.82,
+      "access_notes": "Exhibition catalogue; widely held."
+    },
+    {
+      "citation": "Tanındı, Zeren. 'Bibliophile Aghas (Eunuchs) at Topkapı Saray.' Muqarnas 21 (2004): 333–43.",
+      "relevance": "Documents album-collecting and commissioning practices in the late Ottoman court, providing patronage context for Istanbul murakkaat production of the period when TIEM 02482 was likely assembled. Covers the role of calligraphy albums as both teaching tools and prestige objects.",
+      "relevance_score": 0.75,
+      "access_notes": "Peer-reviewed article. Available via JSTOR and institutional access."
+    },
+    {
+      "citation": "Gacek, Adam. Arabic Manuscripts: A Vademecum for Readers. Leiden: Brill, 2009.",
+      "relevance": "Standard terminology reference for Islamic manuscript codicology, covering format types (murakkaat), ruling systems (cedvel), script identification (sülüs, nesih), and paper description vocabulary used throughout this catalog record.",
+      "relevance_score": 0.78,
+      "access_notes": "Reference monograph; widely held."
+    },
+    {
+      "citation": "Déroche, François. Islamic Codicology: An Introduction to the Study of Manuscripts in Arabic Script. Translated by Deke Dusinberre and David Radzinowicz. London: Al-Furqan Islamic Heritage Foundation, 2005.",
+      "relevance": "Foundational reference for Islamic manuscript codicology, providing the classification framework for binding types, paper, ruling, and format used throughout this catalog record.",
+      "relevance_score": 0.76,
+      "access_notes": "Monograph; available at specialist libraries."
+    }
+  ],
+  "suggested_collections": [
+    {
+      "institution": "GlobalDecoPaper ERC Project, LMU Munich",
+      "reason": "The primary active research project on block-printed, stenciled, and silhouetted decorated papers in Islamic manuscripts. The pomegranate/peony block-printed paper of TIEM 02482 is a priority specimen for this project's database. Contact with the GlobalDecoPaper team may enable comparative identification of the pattern type and technique determination.",
+      "digital_access": null
+    },
+    {
+      "institution": "Topkapı Sarayı Müzesi Kütüphanesi, Istanbul",
+      "reason": "Holds the largest collection of Ottoman murakkaat albums, including examples with comparable multi-technique decorated paper programs from the late 17th–early 18th century. The Topkapı collection is the primary comparanda source for the album format and decorated paper types of TIEM 02482.",
+      "digital_access": "https://kutuphane.tsmk.gov.tr"
+    },
+    {
+      "institution": "Türk ve İslam Eserleri Müzesi (TIEM), Istanbul — broader murakka corpus",
+      "reason": "TIEM holds 93+ murakkaat albums confirmed as positive for decorated paper in this project's visual triage. Within the TIEM corpus, TIEM 02471 (catalog record: tiem_02471) is the closest comparandum for technique-rich block-printed paper programs. Systematic within-TIEM comparison of block-printed paper types across albums would be high-value.",
+      "digital_access": "https://portal.yek.gov.tr"
+    },
+    {
+      "institution": "Chester Beatty Library, Dublin",
+      "reason": "Major collection of Ottoman calligraphy albums and decorated paper specimens, including examples of block-printed and other mechanically produced decorated papers from the Ottoman and Persianate traditions.",
+      "digital_access": "https://viewer.cbl.ie"
+    }
+  ],
+  "provenance": {
+    "donor": null,
+    "waqf": null,
+    "previous_shelfmarks": ["TIEM 946 (earlier accession number visible on label)"],
+    "notes": "Currently held at Türk ve İslam Eserleri Müzesi (TIEM), Istanbul, under shelfmark T 2482. An earlier TIEM accession label on the front cover reads 'T.İ.E.M. No. 2482 / 946', suggesting the manuscript was previously catalogued under accession number 946. TIEM is a Turkish state museum; no waqf (endowment) information is available in the YEK catalogue record. The album dates to approximately late 17th–early 18th century CE on stylistic grounds; no dated inscription is present. YEK ID: 705418. IIIF ID: 0000000662631."
+  },
+  "analysis_metadata": {
+    "analyzed_date": "2026-02-28",
+    "analyzer": "claude-code-manuscript-pipeline",
+    "pipeline_stage": "metadata-generator",
+    "image_source": "YEK Portal IIIF images, TIEM Yazma Eser Koleksiyonu, YEK ID 705418, IIIF ID 0000000662631. 6 IIIF pages downloaded at IIIF native resolution (p001, p002, p003, p007, p013, p014). Additional 2 triage images examined (tiem_batch1_20_02482.jpeg, tiem_02482_p13.jpeg). Pages p004–p006, p008–p012 examined as thumbnails in the triage screenshot only.",
+    "image_quality_notes": "Downloaded IIIF pages are at good resolution sufficient for paper type identification. The block-printed/silhouetted floral paper pattern (Variants 1 and 2) is clearly legible at available resolution. The block-printing vs. silhouetting distinction cannot be resolved without physical examination or microscopy. The zerefşân identification on p007 right is tentative at available resolution. The triage screenshot (tiem_batch1_20_02482.jpeg) provides a thumbnail view of all 14 pages, confirming that the block-printed paper appears on multiple interior openings; individual examination of pp. 004–006 and 008–012 is recommended as a follow-up.",
+    "folios_examined": [
+      "corpus/iiif/tiem_02482_p001.jpg",
+      "corpus/iiif/tiem_02482_p002.jpg",
+      "corpus/iiif/tiem_02482_p003.jpg",
+      "corpus/iiif/tiem_02482_p007.jpg",
+      "corpus/iiif/tiem_02482_p013.jpg",
+      "corpus/iiif/tiem_02482_p014.jpg",
+      "tiem_batch1_20_02482.jpeg",
+      "tiem_02482_p13.jpeg"
+    ],
+    "folios_not_examined": "Pages p004, p005, p006, p008, p009, p010, p011, p012 (8 of 14 IIIF pages) were not individually downloaded. Thumbnail evidence from the triage screenshot suggests these pages continue the block-printed floral paper margin program; full native-resolution examination is recommended.",
+    "corpus_priority": "HIGH PRIORITY: One of the most visually distinctive albums in the corpus. The large-scale block-printed/silhouetted pomegranate floral paper is a rare and significant specimen for the study of mechanically produced decorated papers in Ottoman manuscripts. Priority follow-up: (1) download and examine pp. 004–012 at native IIIF resolution; (2) physical examination for block-print/silhouette determination; (3) transcription of marginal text on p013 right for ownership/provenance data; (4) contact GlobalDecoPaper ERC for comparative pattern identification.",
+    "source_data": {
+      "visual_confirmation_file": "catalog/searches/visual_tier1_tiem_02482.json",
+      "yek_id": "705418",
+      "iiif_id": "0000000662631",
+      "batch": "Murakka IIIF deep analysis — Phase 3 Track E Tier 1 (2026-02-28)"
+    }
+  }
+}

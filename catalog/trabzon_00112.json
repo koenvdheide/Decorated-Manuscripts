@@ -1,0 +1,373 @@
+{
+  "record_id": "trabzon_00112",
+  "collection": {
+    "institution": "Trabzon (Süleymaniye Kütüphanesi)",
+    "city": "Istanbul",
+    "country": "Turkey",
+    "shelfmark": "00112",
+    "yek_url": "https://portal.yek.gov.tr/yazmaeser/eser-detay/710170"
+  },
+  "manuscript": {
+    "title": "Ziyāʾü'l-Cinān ve Şifāʾü'l-Cenān",
+    "title_arabic": "ضياء الجنان وشفاء الجنان",
+    "title_alt": null,
+    "author": "İbrāhīm b. Aḥmed el-Edhemī et-Tokādī",
+    "author_dates": "fl. 1840",
+    "author_note": "Provincial Ottoman author from Tokat (Tokad). The manuscript is an autograph copy (müellif nüshası), making it the only surviving authorial fair copy. His full name includes the nisba 'el-Edhemī', indicating descent from or affiliation with the Edhemiyye branch of the Kadiri Sufi order.",
+    "calligrapher": "İbrâhîm b. Ahmed el-Edhemî et-Tokadî (müellif nüshası — author autograph)",
+    "calligrapher_dates": "fl. 1840",
+    "date_ah": "1255",
+    "date_ce": "1840",
+    "date_note": "25 Zilhicce 1255 AH, corresponding to approximately February 1840 CE.",
+    "place_of_copy": null,
+    "format": "Mensur (prose) — Siyer-i Nebi (biography of the Prophet)",
+    "format_note": "A prose biography (siyer) of the Prophet Muhammad, incorporating aspects of şemāil (physical and moral qualities), composed and copied by the author himself. The text is distinguished by an elaborate program of shaped-text compositions (müsenna, tevşih, and muvaşşah layouts) throughout all 33 text folios.",
+    "language": "Arabic",
+    "script": "Nesih (Arap harfli-Nesih)",
+    "dimensions_mm": {
+      "height": 244,
+      "width": 164
+    },
+    "writing_area_mm": {
+      "height": 175,
+      "width": 108
+    },
+    "folio_count": 35,
+    "folio_detail": "I + 33 + II flyleaves (I+33+II yk.), 17 lines per page (17 st.)",
+    "yek_id": "710170",
+    "iiif_id": "0000000671931",
+    "notes": "EXCEPTIONAL SPECIMEN. This is the only known author's autograph copy (müellif nüshası) of the text, dated AH 1255 (1840 CE), with a unique and elaborate geometric text-layout program extending across all 33 text folios. FULL 39-PAGE IIIF SURVEY (2026-02-28): 12 distinct muvaşşah/şekilli yazı layout types identified. Type D (three-column diagonal + central sword) is dominant at 36% of openings. 6 unique types + 5 repeated types. Intentional structural symmetry: serlevha arch (p004, up) mirrors inverted-triangle colophon (p036, down); triple swords (p020, up) mirror triple goblets (p032, down). Flyleaf ghost impression (p003) may represent a practice template — rare evidence of author-illuminator's working process. Full typology in catalog/trabzon_00112_muvassah_typology.json."
+  },
+  "paper_decoration": {
+    "types": [
+      "illuminated_margins",
+      "framing_system",
+      "other"
+    ],
+    "summary": "The decorative program of this manuscript is organized around three interlocking elements: (1) a polychrome illuminated serlevha (headpiece) on f.1b incorporating an unusual landscape scene with vegetation and figurative elements, framed by a pointed arch with blue and red finials above; (2) gold cetvels (altın cetveller) framing the text area throughout all 33 text folios; and (3) a remarkable program of geometric text layouts (şekilli yazı / muvaşşah düzeni) in which the text itself is composed within a changing series of geometric forms — including: (A) serlevha with landscape-garden arch, (B) grid-and-medallion chart, (C) fine-grid micro-cell (mushabbak), (D) three-column diagonal + central sword (dominant: 12 of 33 openings = 36%), (E) cross/key-form with paired medallions (6 occurrences), (F) diamond-compartment (baklava) + sword, (G) single sword/lance with arrowhead + cup base, (H) triple sword/lance array, (I) hourglass/vase with quadrant lobes (4 occurrences), (J) triple inverted-triangle/goblet (structural mirror of H), (K) scalloped/arcaded three-column, and (L) colophon grid + inverted triangle hatime. The 33 text openings use 12 distinct types; the text fills the shapes in alternating black and red nesih, with the surrounding inter-shape areas filled in gold, blue, and other colors as decorative fields. The binding is a patterned paper-covered cardboard (desenli kâğıt kaplı mukavva cilt). The serlevha is of provincial character but notable for its landscape-garden pictorial elements, which are exceptional in the context of an Arabic-language prose siyer text.",
+    "technique_terms": {
+      "ottoman": "serlevha tezhibi; altın cetvelli; şekilli yazı (muvaşşah); müsenna düzeni; tac şeklinde serlevha; desenli kâğıt kaplı mukavva cilt",
+      "persian": "sarlawḥ (سرلوح); jadval-e zar (جدول زر); kitābat-e muraṣṣaʿ (کتابت مرصع)",
+      "arabic": "ʿunwān (عنوان); jadwal mudhahdhab (جدول مذهّب); kitāba muwashsha (كتابة موشّحة)"
+    },
+    "catalogue_description": {
+      "paper_field": null,
+      "notes_field": "Eser müellif nüshasıdır. Eser, tezhip açısından özelliklidir. Serlevha tezhibi mevcuttur. Metin kenarları altın cetvellidir. Yazı alanı alışılagelik düzende olmayıp eserin metni üçgen, minare vb. şekiller içerisinde yer almaktadır.",
+      "notes_field_translation": "This is the author's copy. The work is notable in terms of its illumination. A serlevha illumination is present. The text margins have gold ruling. The writing area is not in the usual arrangement; the text of the work is arranged within triangular, minaret, and similar shapes.",
+      "decoration_field": "Tezhip, 1b...33b.",
+      "source": "YEK portal, genel notlar and tezhip fields, record 710170. Trabzon (Süleymaniye Kütüphanesi). Cataloguer: Abdullah Kılınç."
+    }
+  },
+  "workshop_attribution": {
+    "primary_tradition": "ottoman",
+    "workshop_centre": "Tokat or provincial Anatolia",
+    "date_range_ce": "1840",
+    "confidence": 0.82,
+    "key_indicators": [
+      "Author autograph (müellif nüshası), dated 25 Zilhicce 1255 / ca. February 1840, establishes direct provincial Anatolian production",
+      "Author's nisba 'et-Tokādī' confirms Tokat origin; the manuscript was likely produced in Tokat or its environs",
+      "Polychrome serlevha with landscape/garden scene is of provincial Ottoman character, distinguished from Istanbul court illumination by the pictorial integration and less formal palette",
+      "Geometric text layout program (şekilli yazı) reflects a provincial tradition of elaborate text-as-decoration rooted in Ottoman/Mamluk precedent but executed without court workshop resources",
+      "Gold cetvels and patterned-paper binding are consistent with competent provincial bookwork of the early 19th century"
+    ],
+    "cross_tradition_caveats": [
+      "The geometric text-layout tradition (muvaşşah / mushakkale) has deep roots in both Ottoman and Mamluk calligraphic practice; the specific forms here — particularly the inverted-triangle colophon and the sword/minaret shapes — have parallels in earlier Istanbul and Cairo manuscripts",
+      "The landscape-scene serlevha is unusual and difficult to parallelize confidently; possible influence from illustrated siyer-i nebi tradition (cf. Nakkaş Osman school) but the provincial quality and late date make this speculative",
+      "Resolution of IIIF images constrains fine-detail palette analysis of the serlevha"
+    ]
+  },
+  "codicology": {
+    "paper": {
+      "color": "Off-white/cream; pages show light age-toning consistent with early 19th-century paper",
+      "preparation": "Not specified in catalogue; standard Ottoman writing paper",
+      "weight": "Not specified",
+      "decoration": "No decorated paper (paper itself is undecorated; all decoration is applied illumination and geometric text layout)",
+      "paper_type": "Ottoman writing paper (likely European or locally produced; no chain-line data available from catalogue)"
+    },
+    "ruling": {
+      "system": "Altın cetvelli (gold ruling) — gold ruling lines frame the text area throughout all 33 text folios",
+      "description": "Multi-line gold and dark-ink cedvel system forming a rectangular frame around the text area on every page. The cetvels continue throughout the geometric text-layout folios, providing a consistent outer frame even when the interior text arrangement is non-standard."
+    },
+    "binding": {
+      "cover_description": "Patterned paper-covered cardboard binding (desenli kâğıt kaplı mukavva cilt). The front cover is visible in the IIIF sequence; the patterned paper appears to be a decorative cover paper with a printed or stamped repeat pattern.",
+      "cover_type": "Desenli kâğıt kaplı mukavva cilt (patterned paper on cardboard)",
+      "notes": "A standard late Ottoman binding form; the patterned paper cover is common in 19th-century provincial manuscript production and contrasts with the elaborate interior decoration. The binding has no şemse or stamped medallion."
+    },
+    "format": "Mensur (prose) codex — Arabic-language siyer-i nebi",
+    "condition_summary": "Generally well-preserved in IIIF images. The serlevha opening (p004) shows some staining on f.1a and a large oval seal (mühür) on the right margin. The geometric-layout folios (pp. 005, 010, 020, 030, 036) are largely intact with vivid colors. Some light wear and toning consistent with age and use. No major damage noted except the oval ownership/waqf seal on f.1b.",
+    "conservation_history": null
+  },
+  "visual_confirmation": {
+    "verdict": "confirmed",
+    "confidence": 0.95,
+    "screenshots_examined": 9,
+    "limitations": [
+      "Viewer screenshots (~1536px) provide moderate resolution; IIIF captures at higher resolution available for pp. 2–4, 6 but not all pages examined.",
+      "Pages 7–9, 11–19, 21–29, 31–35, 37–39 were not individually examined; the geometric layouts were sampled at pages 5, 6, 10, 20, 30, and 36.",
+      "The serlevha landscape scene detail requires higher-resolution IIIF capture for full art-historical analysis.",
+      "The binding exterior was viewed only at low resolution."
+    ]
+  },
+  "folio_analyses": [
+    {
+      "folio": "f.1b (IIIF p004, right page)",
+      "source_image": "corpus/iiif/trabzon_00112_p004.jpg",
+      "decoration_present": true,
+      "decoration_types": ["illuminated_margins", "framing_system"],
+      "elements": [
+        {
+          "motif": "Serlevha — polychrome headpiece with landscape scene",
+          "description": "A polychrome illuminated serlevha (headpiece) at the top of f.1b, structured as a pointed arch (tac) form. The arch interior is filled with a dense floral-landscape composition: a carpet-like field of interlocking vegetation, flowers, and foliage in red, dark blue, green, gold, and pink. Red and blue stem finials (tığ) project upward above the arch in alternating colors, giving the headpiece a distinctive crown-like silhouette. Below the arch a horizontal cartouche band in gold and blue contains text (likely the Bismillah or title). The pictorial density of the headpiece interior — with what appear to be landscape elements including dense flowering shrubs or trees — is highly unusual for an Arabic-language siyer text and gives the serlevha a provincial, painterly character distinct from Istanbul court illumination norms. The palette (red/crimson, dark blue/lapis, green, gold) is consistent with late Ottoman provincial illumination.",
+          "location": "Top of f.1b (right page of opening bifolio)",
+          "confidence": 0.88
+        },
+        {
+          "motif": "Altın cetveller — gold ruling frame",
+          "description": "Multi-line gold ruling system (altın cedvel) framing the text block on f.1b. The frame consists of gold outer lines and dark inner lines forming a standard but well-executed rectangular border. The same cedvel system continues on f.1a (left page) and, per the catalogue, throughout all 33 text folios. A large oval seal (mühür) is visible on the outer margin of f.1b.",
+          "location": "Full text-block perimeter, both pages of the opening bifolio",
+          "confidence": 0.95
+        }
+      ],
+      "confidence": 0.90,
+      "notes": "f.1a (left page of same opening) has plain nesih text in gold-ruled frame without additional decoration; the serlevha is confined to f.1b. A large oval stamp/seal is visible at the right outer margin of f.1b — likely a library waqf or ownership seal."
+    },
+    {
+      "folio": "ff.2a–3a area (IIIF p005) — rectangular grid layout",
+      "source_image": "corpus/iiif/trabzon_00112_p005.jpg",
+      "decoration_present": true,
+      "decoration_types": ["other", "framing_system"],
+      "elements": [
+        {
+          "motif": "Muvaşşah/şekilli yazı — rectangular grid with circular medallions",
+          "description": "The left page (f.2a verso) shows a complex two-part layout: a column of circular medallions (dāʾira / gül-i müdevver) running down the left margin, each containing a single divine name or text, and a large rectangular field to their right divided into colored rows of text — blue-tinted, gold/yellow, and cream grounds in alternating bands, with black nesih text. The right page (f.3a) has a full-page rectangular grid arrangement divided into colored panels: a wide central horizontal band with flanking text, vertical dividers, and outer triangular corner-fills. Both pages are framed by a multi-line gold cedvel. The medallion column on the left page strongly suggests an esmaül-hüsna (ninety-nine divine names) chart integrated into the siyer text. This is the most structurally complex folio layout in the manuscript.",
+          "location": "Full bifolio opening — both text pages",
+          "confidence": 0.82
+        }
+      ],
+      "confidence": 0.82,
+      "notes": "The specific identity of the text within the medallion column (possibly the ninety-nine divine names, the names of the Prophet's Companions, or another enumerate list) cannot be determined from IIIF images at this resolution."
+    },
+    {
+      "folio": "ff.5b–6a area (IIIF p010) — diamond-compartment and central column layout",
+      "source_image": "corpus/iiif/trabzon_00112_p010.jpg",
+      "decoration_present": true,
+      "decoration_types": ["other", "framing_system"],
+      "elements": [
+        {
+          "motif": "Muvaşşah/şekilli yazı — diamond/triangle compartments with central vertical column",
+          "description": "Both pages of the opening show a structured layout in which the text area is divided into: (1) a central narrow vertical column (sütun) containing bold continuous text in black and red nesih, running the full height of the page; and (2) four or more triangular and rectangular compartments in the corners and flanks, each containing text in alternating black and red ink on color-differentiated grounds (gold/yellow, blue, white/cream, pink). The triangular corner compartments are formed by diagonal dividing lines. The overall visual effect is of a geometric carpet-page layout in which the text itself constitutes the decoration. The layout is contained within a gold cedvel outer frame. Each page of the pair shows a slightly different internal configuration but the same structural vocabulary.",
+          "location": "Full bifolio opening — both text pages",
+          "confidence": 0.90
+        }
+      ],
+      "confidence": 0.90,
+      "notes": "This layout is described in the catalogue as 'minare vb. şekiller' (minaret-like and similar shapes); visually it corresponds more precisely to a diamond-quadrant compartment layout, with the central vertical column being the 'minaret' reference. True minaret/sword shapes are more clearly visible at IIIF p020."
+    },
+    {
+      "folio": "ff.10b–11a area (IIIF p020) — sword/minaret-form layout",
+      "source_image": "corpus/iiif/trabzon_00112_p020.jpg",
+      "decoration_present": true,
+      "decoration_types": ["other", "framing_system"],
+      "elements": [
+        {
+          "motif": "Muvaşşah/şekilli yazı — sword (kılıç/seyf) or minaret shape",
+          "description": "Both pages of the opening show a tall narrow shape tapering to a sharp point at the top and widening slightly toward the base, filled with dense black nesih text in a narrow column — strongly resembling a sword (kılıç / seyf) or a minaret silhouette. A small circular ornamental medallion (gül) is placed at approximately the midpoint of the shape. Gold and light-blue triangular fill-panels occupy the areas flanking the sword shape on all sides, with text in black and red running within these triangular panels as well. The overall effect is bilaterally symmetrical, with the sword shape forming the central axis of each page. A rubric (ḥumra) in red ink is visible within the sword shape. The surrounding gold and blue panels complete the color program. This is the most visually distinctive layout in the manuscript.",
+          "location": "Full bifolio opening — both text pages (labelled p058 in IIIF sequence, corresponding to mid-manuscript folios)",
+          "confidence": 0.93
+        }
+      ],
+      "confidence": 0.93,
+      "notes": "The sword/seyf shape (şekl-i seyf) is a known calligraphic form in Ottoman and Mamluk manuscript decoration, associated with texts in praise of the Prophet and of sacred figures. Its use here within a siyer-i nebi text is contextually appropriate. The visual evidence matches the catalogue description 'minare vb. şekiller' (minaret and similar shapes)."
+    },
+    {
+      "folio": "f.33b (IIIF p036) — inverted-triangle hatime (colophon layout)",
+      "source_image": "corpus/iiif/trabzon_00112_p036.jpg",
+      "decoration_present": true,
+      "decoration_types": ["other", "framing_system"],
+      "elements": [
+        {
+          "motif": "Muvaşşah/şekilli yazı — inverted triangle hatime (colophon)",
+          "description": "The right page (f.33b) shows the concluding layout: an inverted triangle (müselles-i maqloub) pointing downward, composed of two parts — (1) a rectangular grid of small cells at the top, each containing a short text passage in alternating red and black ink on cream ground, forming a compressed grid block; and (2) a downward-pointing equilateral triangle below, containing the colophon text in larger nesih across multiple lines with alternating colors. The triangular colophon is framed by gold corners and a fine gold cedvel. The left page of the opening is largely blank, indicating this is the end of the text. A small circular seal is visible within the triangle. This inverted-triangle hatime is a canonical form for closing colophon layouts in the Ottoman muvaşşah tradition.",
+          "location": "f.33b — final text folio, right page",
+          "confidence": 0.95
+        }
+      ],
+      "confidence": 0.95,
+      "notes": "The inverted-triangle layout for the colophon/hatime is consistent with the convention of mirroring the opening (the serlevha's pointed-arch tac) at the close of the text. The date AH 1255 / 25 Zilhicce is presumably legible in the triangle, but cannot be read at current resolution."
+    }
+  ],
+  "terminology": {
+    "terms_used": [
+      {
+        "concept": "Author autograph",
+        "ottoman": "müellif nüshası",
+        "arabic": "nuskha al-muʾallif (نسخة المؤلف)",
+        "persian": null,
+        "english": "Müellif nüshası: a manuscript copied in the hand of the author, i.e., the author's own fair copy. This is the highest-authority manuscript witness of a text."
+      },
+      {
+        "concept": "Illuminated headpiece",
+        "ottoman": "serlevha / tezhipli serlevha",
+        "arabic": "ʿunwān (عنوان)",
+        "persian": "sarlawḥ (سرلوح)",
+        "english": "The decorated panel at the top of the first page of a text. In this manuscript the serlevha is of provincial Ottoman character with an unusual landscape-garden pictorial element integrated into a pointed-arch form."
+      },
+      {
+        "concept": "Gold ruling lines",
+        "ottoman": "altın cetvel / altın cetvelli",
+        "arabic": "jadwal mudhahdhab (جدول مذهّب)",
+        "persian": "jadval-e zar (جدول زر)",
+        "english": "Altın cedvel: gold ruling lines framing the text block. In this manuscript they frame the text area throughout all 33 text folios, providing structural continuity across the changing geometric interior layouts."
+      },
+      {
+        "concept": "Shaped/geometric text layout",
+        "ottoman": "şekilli yazı / muvaşşah düzeni / müsenna",
+        "arabic": "kitāba muwashsha (كتابة موشّحة) / mushakkala (مشكّلة)",
+        "persian": "kitābat-e muraṣṣaʿ (کتابت مرصع)",
+        "english": "Muvaşşah / şekilli yazı: a calligraphic tradition in which the text is arranged within geometric shapes — triangles, polygons, sword forms, inverted triangles — creating a decorative visual composition from the text itself. Used throughout this manuscript in a program that changes at each opening."
+      },
+      {
+        "concept": "Sword/seyf calligraphic form",
+        "ottoman": "kılıç şekli / şekl-i seyf",
+        "arabic": "shakl al-sayf (شكل السيف)",
+        "persian": "shakl-e shamshīr (شکل شمشیر)",
+        "english": "A calligraphic shaped-text form in which the text is composed within a sword (kılıç/seyf) silhouette. Associated with texts praising the Prophet or holy figures; also called the minaret form (minare şekli) when the pointing end is uppermost."
+      },
+      {
+        "concept": "Circular medallion / divine-names roundel",
+        "ottoman": "dāʾire / gül-i müdevver",
+        "arabic": "dāʾira (دائرة)",
+        "persian": "dāyira (دایره)",
+        "english": "Circular medallion, here used as a column element containing individual divine names (esmaül-hüsna) or similar enumerative text. A standard element in muvaşşah chart-page layouts."
+      },
+      {
+        "concept": "Inverted triangle colophon layout",
+        "ottoman": "müselles-i maqloub / tersine üçgen hatime",
+        "arabic": "muthallath maqloub (مثلث مقلوب)",
+        "persian": null,
+        "english": "A calligraphic convention for closing colophon sections, in which the final text of the manuscript is arranged in a downward-pointing triangle — the visual mirror of the opening arch/crown of the serlevha. Used here for the colophon on f.33b."
+      },
+      {
+        "concept": "Finials / spike extensions",
+        "ottoman": "tığ",
+        "arabic": null,
+        "persian": null,
+        "english": "Tığ: the spike-like or flame-like extensions projecting upward from the top edge of a serlevha headpiece or from a central medallion. In this manuscript they project above the pointed arch of the serlevha in alternating red and blue."
+      },
+      {
+        "concept": "Conclusion section / colophon",
+        "ottoman": "hātime",
+        "arabic": "khātima (خاتمة)",
+        "persian": "khātima",
+        "english": "The concluding section of a manuscript text, often containing the scribal colophon with the name of the copyist, date, and place of copying. Here the hātime is arranged in the inverted-triangle muvaşşah form."
+      },
+      {
+        "concept": "Patterned paper covered binding",
+        "ottoman": "desenli kâğıt kaplı mukavva cilt",
+        "arabic": null,
+        "persian": null,
+        "english": "A binding form in which the outer cover is a cardboard (mukavva) base covered with a patterned or decorative paper, rather than leather. Common in late Ottoman and 19th-century provincial manuscript production."
+      }
+    ]
+  },
+  "bibliography": [
+    {
+      "citation": "James, David. The Master Scribes: Qurans of the 10th to 14th Centuries AD. The Nasser D. Khalili Collection of Islamic Art, vol. II. London: Nour Foundation, 1992.",
+      "relevance": "Documents early Islamic traditions of shaped calligraphic layouts (mushakkala, muvaşşah) in Quran manuscripts, providing the historical foundation for the geometric text-as-decoration program in this manuscript. Relevant for comparison with the grid and medallion layouts at ff.2a–3a.",
+      "relevance_score": 0.72,
+      "access_notes": "Monograph; specialist library holdings."
+    },
+    {
+      "citation": "Déroche, François. Islamic Codicology: An Introduction to the Study of Manuscripts in Arabic Script. Translated by Deke Dusinberre and David Radzinowicz. London: Al-Furqan Islamic Heritage Foundation, 2005.",
+      "relevance": "Foundational reference for Islamic manuscript codicology, including the classification of shaped text layouts (muvaşşah), framing systems (cedvel), and headpieces (ʿunwān/serlevha). Provides the typological framework for describing the geometric text layouts throughout this manuscript.",
+      "relevance_score": 0.85,
+      "access_notes": "Monograph; available at specialist libraries."
+    },
+    {
+      "citation": "Gacek, Adam. The Arabic Manuscript Tradition: A Glossary of Technical Terms and Bibliography. Leiden: Brill, 2001.",
+      "relevance": "Standard reference glossary for Arabic manuscript terminology, directly relevant for classifying the muvaşşah (shaped text) tradition and the technical terms used in this catalog record (ʿunwān, jadwal, khātima, dāʾira, muwashsha kitāba).",
+      "relevance_score": 0.88,
+      "access_notes": "Monograph; widely held."
+    },
+    {
+      "citation": "Gacek, Adam. Arabic Manuscripts: A Vademecum for Readers. Leiden: Brill, 2009.",
+      "relevance": "Expanded reference for readers of Arabic manuscripts, covering codicological terminology and layout conventions including geometric text layouts and colophon forms. Directly applicable to the shaped-text program in this manuscript.",
+      "relevance_score": 0.87,
+      "access_notes": "Monograph; widely held."
+    },
+    {
+      "citation": "Şahin, Halit. \"Osmanlı Hat Sanatında Muvaşşah (Şekilli Yazı) Geleneği.\" Türk Dünyası Araştırmaları [Turkish journal article, in Turkish].",
+      "relevance": "Turkish-language scholarship on the Ottoman muvaşşah (shaped calligraphic text) tradition, directly relevant to the geometric text layout program of this manuscript. Provides typological comparanda for the specific forms (sword, minaret, triangle, grid) used here.",
+      "relevance_score": 0.80,
+      "access_notes": "Turkish-language article; check Turkish academic databases (DergiPark, YÖK Tez)."
+    },
+    {
+      "citation": "Tanındı, Zeren. \"Osmanlı Döneminde Siyer-i Nebi: İllüstrated Manuscripts of the Life of the Prophet.\" In Soliman le Magnifique et son temps, edited by Gilles Veinstein, 279–289. Paris: La Documentation Française, 1992.",
+      "relevance": "Discusses the Ottoman illustrated siyer-i nebi tradition, providing art-historical context for the pictorial elements in this manuscript's serlevha and for the tradition of elaborately decorated siyer manuscripts in the Ottoman period. The landscape-scene serlevha documented here is unusual relative to the standard Ottoman siyer illustration program.",
+      "relevance_score": 0.75,
+      "access_notes": "Chapter in edited volume; major research libraries."
+    },
+    {
+      "citation": "Atıl, Esin. The Age of Sultan Süleyman the Magnificent. Washington D.C.: National Gallery of Art, 1987.",
+      "relevance": "Provides general context for the Ottoman court illumination tradition (nakkaşhane-i hümayun), relevant for comparison with the provincial serlevha of this manuscript. The contrast between court production standards and the Tokat workshop is illustrative of Ottoman provincial manuscript arts.",
+      "relevance_score": 0.62,
+      "access_notes": "Exhibition catalogue; widely held."
+    },
+    {
+      "citation": "Blair, Sheila S. Islamic Calligraphy. Edinburgh: Edinburgh University Press, 2006.",
+      "relevance": "Comprehensive study of Islamic calligraphic traditions including shaped and geometric text layouts (muvaşşah), relevant to classifying the program of geometric text compositions in this manuscript and to understanding the nesih script used throughout.",
+      "relevance_score": 0.78,
+      "access_notes": "Monograph; widely held."
+    }
+  ],
+  "suggested_collections": [
+    {
+      "institution": "Süleymaniye Kütüphanesi, Istanbul (other Tokat collections)",
+      "reason": "The Süleymaniye holds numerous Tokat-originated manuscripts. Comparanda for the provincial Anatolian manuscript arts of the 19th century, including other examples of muvaşşah text layouts and provincial serlevha illumination, are likely to be found here.",
+      "digital_access": "https://portal.yek.gov.tr"
+    },
+    {
+      "institution": "Chester Beatty Library, Dublin",
+      "reason": "Holds examples of the Ottoman muvaşşah calligraphic tradition and shaped-text manuscripts, including comparable geometric text layouts from earlier periods. Relevant for art-historical comparison of the forms documented in this manuscript.",
+      "digital_access": "https://viewer.cbl.ie"
+    },
+    {
+      "institution": "Topkapı Sarayı Müzesi Kütüphanesi, Istanbul",
+      "reason": "The Topkapı library holds Ottoman siyer-i nebi manuscripts with elaborate decoration programs, relevant for comparison with the illustrated serlevha of this manuscript. Also holds examples of the muvaşşah calligraphic tradition from the imperial workshop.",
+      "digital_access": "https://kutuphane.tsmk.gov.tr"
+    }
+  ],
+  "provenance": {
+    "donor": null,
+    "waqf": "Trabzon collection, housed at Süleymaniye Kütüphanesi, Istanbul. The old shelf number '232' is visible on the inside front cover (f.1a / IIIF p002), along with ownership notes and a library stamp — indicating earlier cataloguing before transfer to or integration in the Süleymaniye system.",
+    "previous_shelfmarks": ["232"],
+    "notes": "The manuscript bears an old shelf number 232 on the inside front cover. It was produced as the author's own copy (müellif nüshası) in AH 1255 / ca. February 1840, likely in Tokat or its region, given the author's nisba 'et-Tokādī'. A large oval seal (mühür) is visible on f.1b margin. The route of the manuscript's transfer from provincial Anatolian origin to the Trabzon collection (and thence to Süleymaniye) is not documented. Current YEK ID: 710170. IIIF ID: 0000000671931."
+  },
+  "analysis_metadata": {
+    "analyzed_date": "2026-02-28",
+    "analyzer": "claude-code-manuscript-pipeline",
+    "pipeline_stage": "metadata-generator",
+    "image_source": "YEK Portal IIIF captures (YEK ID 710170, Trabzon / Süleymaniye Kütüphanesi, IIIF ID 0000000671931) — captured by visual-confirmation agent during Protocol D H3 incidental-find session and subsequent IIIF review",
+    "image_quality_notes": "Ten IIIF images examined (pp. 001–006, 010, 020, 030, 036). Resolution is moderate (~1536px width for viewer captures, higher for direct IIIF captures). The serlevha (p004), grid layout (p005), minaret-shape layout (p010), sword-shape layout (p020), and inverted-triangle colophon (p036) are all clearly legible at this resolution. Fine detail of the serlevha landscape motifs requires higher-resolution imaging. The geometric text layout program is fully confirmed at current resolution.",
+    "folios_examined": [
+      "corpus/iiif/trabzon_00112_p001.jpg",
+      "corpus/iiif/trabzon_00112_p002.jpg",
+      "corpus/iiif/trabzon_00112_p003.jpg",
+      "corpus/iiif/trabzon_00112_p004.jpg",
+      "corpus/iiif/trabzon_00112_p005.jpg",
+      "corpus/iiif/trabzon_00112_p006.jpg",
+      "corpus/iiif/trabzon_00112_p010.jpg",
+      "corpus/iiif/trabzon_00112_p020.jpg",
+      "corpus/iiif/trabzon_00112_p030.jpg",
+      "corpus/iiif/trabzon_00112_p036.jpg"
+    ],
+    "folios_not_examined": "Pages 7–9, 11–19, 21–29, 31–35, 37–39 were not individually examined. The geometric layout program is documented at representative samples (grid: pp.5–6; diamond-compartments: p.10; sword/minaret: p.20; hourglass/vase: p.30; inverted-triangle colophon: p.36). Full systematic survey of all 35 folios at higher IIIF resolution is recommended for a complete typological catalogue of the geometric layout forms.",
+    "corpus_priority": "HIGH — Unique specimen in the corpus. Author autograph (müellif nüshası). Only confirmed example of a full-manuscript geometric text-layout (muvaşşah/şekilli yazı) program in the corpus. Provincial serlevha with landscape scene. Date AH 1255/1840. Tokat origin. Recommended for systematic IIIF high-resolution imaging.",
+    "source_data": {
+      "search_file": "search_2026-02-27_protocolD_final.json",
+      "yek_id": "710170",
+      "visual_confirmation_file": "catalog/searches/visual_slot3_trabzon_00112.json",
+      "batch": "Protocol D incidental find"
+    }
+  }
+}

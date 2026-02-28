@@ -1,0 +1,414 @@
+{
+  "record_id": "trabzon_00112",
+  "analysis_type": "muvassah_sekilli_yazi_typology",
+  "analysis_date": "2026-02-28",
+  "analyzer": "motif-classifier (claude-opus-4-6)",
+  "pages_examined": "all 39 IIIF pages (p001-p039)",
+  "iiif_to_folio_map": {
+    "p001": "front cover (upper board, recto)",
+    "p002": "inside front cover (doublure) + f.Ia (front flyleaf recto)",
+    "p003": "f.Ib (front flyleaf verso, with faded serlevha frame ghost) + f.1a (blank recto facing serlevha)",
+    "p004": "f.1a (left, plain text in gold frame) + f.1b (right, serlevha opening)",
+    "p005": "f.2a (left, grid+medallion chart) + f.2b (right, grid+medallion chart)",
+    "p006": "f.3a (left) + f.3b (right) -- fine-grid micro-cell layout with central sword column",
+    "p007": "f.4a (left) + f.4b (right) -- three-column with diagonal text + central sword",
+    "p008": "f.5a (left) + f.5b (right) -- three-column with diagonal text + central sword with two medallions",
+    "p009": "f.6a (left) + f.6b (right) -- cross/key-form with four medallions each side",
+    "p010": "f.7a (left) + f.7b (right) -- diamond-compartment with central sword column",
+    "p011": "f.8a (left) + f.8b (right) -- cross/key-form with four medallions + central column",
+    "p012": "f.9a (left) + f.9b (right) -- diamond-compartment with central sword column (rectangular sub-cells variant)",
+    "p013": "f.10a (left) + f.10b (right) -- elaborate cross/key-form with 8 medallions (4 large + 4 small)",
+    "p014": "f.11a (left) + f.11b (right) -- cross/key-form with 6 medallions + central column",
+    "p015": "f.12a (left) + f.12b (right) -- cross/T-form with 4 medallions (half-height variant)",
+    "p016": "f.13a (left) + f.13b (right) -- cross/key-form with 4 large+2 medium medallions, blue fills",
+    "p017": "f.14a (left) + f.14b (right) -- three-column with diagonal text + simple central sword",
+    "p018": "f.15a (left) + f.15b (right) -- three-column with diagonal text + simple central sword",
+    "p019": "f.16a (left) + f.16b (right) -- sword/lance form with arrowhead tip + cup/vase base",
+    "p020": "f.17a (left) + f.17b (right) -- triple sword/lance with arrowheads + flanking triangular fields",
+    "p021": "f.18a (left) + f.18b (right) -- hourglass/vase form with four quadrant lobes",
+    "p022": "f.19a (left) + f.19b (right) -- three-column with diagonal text + simple central sword",
+    "p023": "f.20a (left) + f.20b (right) -- three-column with diagonal text + simple central sword",
+    "p024": "f.21a (left) + f.21b (right) -- three-column with diagonal text + simple central sword",
+    "p025": "f.22a (left) + f.22b (right) -- three-column with diagonal text + tapered central sword",
+    "p026": "f.23a (left) + f.23b (right) -- three-column with diagonal text + simple central sword",
+    "p027": "f.24a (left) + f.24b (right) -- hourglass/vase form with four quadrant lobes",
+    "p028": "f.25a (left) + f.25b (right) -- hourglass/vase form with four quadrant lobes",
+    "p029": "f.26a (left) + f.26b (right) -- three-column with scalloped/arch top + central sword",
+    "p030": "f.27a (left) + f.27b (right) -- hourglass/vase form (same type as p027-028)",
+    "p031": "f.28a (left) + f.28b (right) -- three-column with diagonal text + tapered central sword",
+    "p032": "f.29a (left) + f.29b (right) -- triple inverted-triangle/goblet/chandelier form",
+    "p033": "f.30a (left) + f.30b (right) -- three-column with diagonal text + central sword",
+    "p034": "f.31a (left) + f.31b (right) -- three-column with scalloped-arch top/bottom + central sword",
+    "p035": "f.32a (left) + f.32b (right) -- three-column with diagonal text (3 columns visible on right page)",
+    "p036": "f.33a (left, blank) + f.33b (right, colophon: grid + inverted triangle hatime)",
+    "p037": "rear flyleaf (blank, with faint stamp impression)",
+    "p038": "inside back cover + rear pastedown",
+    "p039": "back cover (lower board, recto)"
+  },
+
+  "complete_typology": [
+    {
+      "type_id": "A",
+      "type_name": "Serlevha opening (illuminated headpiece + standard text)",
+      "ottoman_term": "serlevha / tezhipli serlevha",
+      "description": "Polychrome illuminated headpiece (tac-form / pointed arch) at top of f.1b, with dense floral-landscape composition inside the arch. Below is a horizontal gold/blue cartouche (title band). Body text in standard horizontal nesih lines, framed by gold cetvels. The facing page (f.1a) has plain horizontal text in gold cedvel frame, no illumination.",
+      "pages": ["p004"],
+      "folios": ["f.1a-1b"],
+      "occurrences": 1,
+      "unique": true
+    },
+    {
+      "type_id": "B",
+      "type_name": "Grid-and-medallion chart page (murabba + daire)",
+      "ottoman_term": "murabba duzeni / cedvel-i mudevveratli",
+      "arabic_term": "jadwal al-dawair (grid of circles)",
+      "description": "The most structurally complex layout in the manuscript. The LEFT page (f.2a) has a rectangular text area divided into four large colored quadrant cells (alternating gold/cream and blue/grey grounds), each filled with diagonal nesih text. Down the left margin runs a vertical column of approximately 30-35 small circular medallions (daire) containing individual short texts (likely divine names or Prophetic attributes). A horizontal chain of small medallions crosses the center of the page. At the right edge, a large concentric-circle medallion (shamsa-like) serves as a focal ornament. The RIGHT page (f.2b) has a similar 4-quadrant colored grid with diagonal text but the medallion column wraps around three sides (top, left, bottom). Both pages framed by gold cetvels. The overall effect is of a diagrammatic chart-page.",
+      "pages": ["p005"],
+      "folios": ["f.2a-2b"],
+      "occurrences": 1,
+      "unique": true
+    },
+    {
+      "type_id": "C",
+      "type_name": "Fine-grid micro-cell layout with central sword (mushabbak / murabba saghir)",
+      "ottoman_term": "ince hucreli cedvel / mushabbak duzeni",
+      "description": "Both pages divided into a grid of very small rectangular cells (approximately 15-20 columns x 15-20 rows = 200-300+ micro-cells per page), each cell containing a few words in alternating red and black ink. A narrow central vertical column (sword/seyf shape) runs from top to bottom, containing larger-scale text in black nesih. Large calligraphic text in the lower margin area below the grid. Gold cedvel frame throughout.",
+      "pages": ["p006"],
+      "folios": ["f.3a-3b"],
+      "occurrences": 1,
+      "unique": true,
+      "notes": "Visually the densest layout in the manuscript. The micro-cell grid resembles an astronomical or numerological table (jadwal) but contains continuous text."
+    },
+    {
+      "type_id": "D",
+      "type_name": "Three-column diagonal text with central sword (seyf-i vasati)",
+      "ottoman_term": "uclu sutun cesni / meyilli yazi + seyf-i vasati",
+      "description": "The most common layout type. The text area is divided into three vertical columns: two wide flanking columns filled with diagonal/oblique nesih text running at approximately 45 degrees, and a narrow central column containing a vertical sword-form (seyf/kilic) silhouette filled with larger calligraphic text. The diagonal text runs in alternating black and red ink. The central sword form varies in detail from page to page -- some have a simple narrow column, others have a tapered point at top, a broader base, or a small finial. Color-differentiated grounds (gold/cream on one flank, blue/grey or pink on the other) distinguish the two flanking columns. Large calligraphic text in red or black fills the lower margin below the frame. Gold cedvel frame throughout.",
+      "pages": ["p007", "p008", "p017", "p018", "p022", "p023", "p024", "p025", "p026", "p031", "p033", "p035"],
+      "folios": ["f.4a-4b", "f.5a-5b", "f.14a-14b", "f.15a-15b", "f.19a-19b", "f.20a-20b", "f.21a-21b", "f.22a-22b", "f.23a-23b", "f.28a-28b", "f.30a-30b", "f.32a-32b"],
+      "occurrences": 12,
+      "unique": false,
+      "notes": "This is the 'default' layout of the manuscript, comprising 12 of 33 text openings (36%). The diagonal text orientation is a characteristic muvashshahat feature. Variations within the type include: (a) simple narrow sword column (pp. 017-018, 022-024, 026, 031, 033); (b) tapered/pointed sword tip (pp. 007, 025); (c) sword with pair of small medallions at midpoint (p008). Each instance uses a different pair of background colors for the flanking columns."
+    },
+    {
+      "type_id": "E",
+      "type_name": "Cross/key-form with paired medallions (salib / miftah)",
+      "ottoman_term": "salib seklinde / anahtar bicimli",
+      "arabic_term": "shakl al-salib / shakl al-miftah",
+      "description": "A cruciform or key-shaped central structure occupies the full height of the text area. The form consists of a narrow central vertical shaft from which horizontal crossbars extend at two or three levels, each crossbar terminating in a circular medallion (daire). The medallions are filled with text (names, attributes, or short phrases) in contrasting colors. The four or six quadrant areas created by the cruciform structure are filled with dense diagonal nesih text in alternating colors. The visual effect strongly resembles a key (miftah) or architectural cross-section of a minaret with balconies. Gold cedvel frame throughout. Large calligraphic text in the lower margin.",
+      "pages": ["p009", "p011", "p013", "p014", "p015", "p016"],
+      "folios": ["f.6a-6b", "f.8a-8b", "f.10a-10b", "f.11a-11b", "f.12a-12b", "f.13a-13b"],
+      "occurrences": 6,
+      "unique": false,
+      "sub_variants": [
+        {
+          "variant": "E1: Two-level crossbar with 4 medallions",
+          "pages": ["p009", "p011", "p015"],
+          "description": "Central shaft with two horizontal crossbars, each ending in paired medallions (4 total). The four quadrant areas filled with diagonal text."
+        },
+        {
+          "variant": "E2: Three-level crossbar with 6-8 medallions",
+          "pages": ["p013", "p014", "p016"],
+          "description": "Central shaft with three horizontal crossbar levels, terminating in 6-8 medallions of varying sizes. The areas between crossbars filled with diagonal text. Most elaborate variant, with blue-filled medallions on p016."
+        }
+      ],
+      "notes": "This is the second most common layout type (6 of 33 openings = 18%). The medallion number and crossbar configuration vary, but the underlying cruciform structural logic is consistent. These are the layouts that the YEK cataloguer described as 'minare vb. sekiller' (minaret and similar shapes)."
+    },
+    {
+      "type_id": "F",
+      "type_name": "Diamond-compartment with central sword (baklava duzeni)",
+      "ottoman_term": "baklava duzeni / elmas hucreli",
+      "description": "The text area is divided into a 2x3 or 3x3 grid of compartments, but the internal dividing lines run diagonally, creating diamond (baklava) and triangular shapes. A central vertical sword column runs through the grid. Each diamond/triangle compartment is filled with nesih text in alternating ink colors (black, red) on alternating color grounds (gold, blue-grey, cream, pink/salmon). The overall pattern resembles a quilt or tiled surface. Gold cedvel frame throughout.",
+      "pages": ["p010", "p012"],
+      "folios": ["f.7a-7b", "f.9a-9b"],
+      "occurrences": 2,
+      "unique": false,
+      "notes": "The diamond-compartment layout is the form originally described in the catalog record as the p010 layout. It uses the same central-sword-column grammar as Type D but replaces the three-column flanking arrangement with diagonal compartmentalization."
+    },
+    {
+      "type_id": "G",
+      "type_name": "Sword/lance with arrowhead and cup/vase base (seyf/harbe/rumh)",
+      "ottoman_term": "kilic/harbe/mizrak sekli",
+      "arabic_term": "shakl al-sayf / shakl al-harba / shakl al-rumh",
+      "description": "A full-height weapon silhouette occupies the center of the text area, with an upward-pointing arrowhead or spearhead at the top and a flared cup-like (kadeh) or vase-like base at the bottom. The weapon shaft runs the full height. Text fills both the weapon silhouette and the flanking areas. Color fills distinguish the weapon body (gold, blue, cream) from the flanking diagonal-text fields. This is the most explicitly pictorial of the layout types -- the shape is clearly recognizable as a sword, spear, or lance.",
+      "pages": ["p019"],
+      "folios": ["f.16a-16b"],
+      "occurrences": 1,
+      "unique": true,
+      "notes": "This single-weapon variant is distinct from the triple-weapon layout at p020. The arrowhead tip and the cup/kadeh base are clearly articulated, making this the most naturalistic representation of a weapon in the manuscript."
+    },
+    {
+      "type_id": "H",
+      "type_name": "Triple sword/lance array (uc seyf / uc harbe)",
+      "ottoman_term": "uc kilic/harbe dizisi",
+      "description": "Three parallel weapon silhouettes (swords/lances) fill the text area, each with a sharply pointed arrowhead at top and a broader base. The three weapons are separated by narrow triangular text fields. The central weapon is slightly larger. Flanking text areas contain diagonal nesih text. Color program: the weapon bodies in gold/cream/blue, the triangular interstices in contrasting tones. This creates a dramatic visual rhythm of three ascending pointed forms.",
+      "pages": ["p020"],
+      "folios": ["f.17a-17b"],
+      "occurrences": 1,
+      "unique": true,
+      "notes": "This is the page that was previously described (in the original catalog record) as the 'sword/seyf' layout. It is in fact a TRIPLE sword/lance array, more complex than the single-sword form at p019. The three-weapon motif may have symbolic significance in the siyer-i nebi context (triple weapons of the Prophet or of key companions)."
+    },
+    {
+      "type_id": "I",
+      "type_name": "Hourglass/vase form with four quadrant lobes (kum saati / vazo sekli)",
+      "ottoman_term": "kum saati seklinde / vazo bicimli",
+      "description": "The text area features a central vertical axis that narrows dramatically at the midpoint (waist) and expands to fill the full width at top and bottom, creating an hourglass or vase silhouette. The four concave triangular/lobe-shaped areas flanking the waist are filled with contrasting-color text. The waist itself contains a narrow central column of text. The lobes are large circular or elliptical segments. The overall shape is bilaterally and vertically symmetrical. Gold cedvel frame throughout.",
+      "pages": ["p021", "p027", "p028", "p030"],
+      "folios": ["f.18a-18b", "f.24a-24b", "f.25a-25b", "f.27a-27b"],
+      "occurrences": 4,
+      "unique": false,
+      "notes": "The hourglass/vase form is the third most common layout type (4 of 33 openings = 12%). It creates the most graceful curved negative space of any layout in the manuscript. The catalog record previously identified one instance at p030."
+    },
+    {
+      "type_id": "J",
+      "type_name": "Triple inverted-triangle/goblet/chandelier (uc mukavves muselles)",
+      "ottoman_term": "uc ters ucgen / avize seklinde",
+      "description": "Three parallel columnar forms, each consisting of an inverted triangle (point downward) at the bottom and a narrow rectangular shaft above, fill the text area. The visual effect is of three pendant goblets or chandelier drops hanging from the top of the frame. The triangular bases point downward and the shafts point up. Text fills both the triangle/goblet shapes and the gold/colored interstice fields between them. A central sword column may also be present behind the three forms.",
+      "pages": ["p032"],
+      "folios": ["f.29a-29b"],
+      "occurrences": 1,
+      "unique": true,
+      "notes": "This highly unusual layout is the visual inverse of the triple-sword layout (Type H, p020): where the swords point UP, these goblet/chandelier forms point DOWN. The mirror-relationship between the two may be intentional within the manuscript's structural program."
+    },
+    {
+      "type_id": "K",
+      "type_name": "Three-column with scalloped/arcaded top and bottom",
+      "ottoman_term": "kemerli uclu sutun",
+      "description": "Similar to Type D (three-column diagonal text with central sword), but the upper and lower edges of the text area feature scalloped or arcaded profiles -- curved arch forms that frame the column tops and bottoms. This creates a more architectural visual effect than the flat-topped Type D layouts.",
+      "pages": ["p029", "p034"],
+      "folios": ["f.26a-26b", "f.31a-31b"],
+      "occurrences": 2,
+      "unique": false,
+      "notes": "The scalloped/arch profiles at top and bottom are the distinguishing feature. p029 has three scalloped arches at top and three at bottom; p034 has similar arched profiles with contrasting color fills (red, dark blue) in the arch spandrels."
+    },
+    {
+      "type_id": "L",
+      "type_name": "Colophon: grid + inverted triangle hatime (cedvel + muselles-i maklub)",
+      "ottoman_term": "hatime: cedvel + muselles-i maklub",
+      "arabic_term": "khatima: jadwal + muthallath maqlub",
+      "description": "The concluding layout on f.33b (p036, right page only; left page blank). The upper portion is a rectangular grid of approximately 7 rows x 6 columns of small cells, each containing short text passages in alternating red and black ink -- a compressed text-chart summarizing content or presenting a structured prayer/dua. Below the grid, a large downward-pointing equilateral triangle contains the colophon text in horizontal lines of diminishing width. The lines are in a larger nesih hand. At the apex (bottom point) of the triangle, two small circular medallions (possibly containing the date and the scribe's name/tahmid) are visible. The triangle is framed by gold lines and set against a gold/colored ground.",
+      "pages": ["p036"],
+      "folios": ["f.33a (blank) + f.33b (colophon)"],
+      "occurrences": 1,
+      "unique": true,
+      "notes": "This is the canonical inverted-triangle hatime form, confirming the original catalog record's description. The combination of grid + inverted triangle is itself a compound layout unique within this manuscript. The two small medallions at the triangle's apex likely contain the date (25 Zilhicce 1255) and the name of the author/scribe (Ibrahim b. Ahmed el-Edhemi et-Tokadi). The left page (f.33a) is blank, indicating this is the absolute end of the text."
+    }
+  ],
+
+  "form_sequence": [
+    {"page": "p003", "type": null, "note": "Front flyleaf verso: faded ghost of a serlevha frame (possibly a practice/template or show-through from facing page). Right page (f.1a) blank."},
+    {"page": "p004", "type": "A", "note": "SERLEVHA OPENING. Left page = standard horizontal text (f.1a). Right page = illuminated serlevha headpiece + horizontal text below (f.1b). Text begins."},
+    {"page": "p005", "type": "B", "note": "Grid-and-medallion chart. Most complex structural layout. Likely an introductory systematic chart (divine names? prophetic attributes?)."},
+    {"page": "p006", "type": "C", "note": "Fine-grid micro-cell. Densest text layout. Transition from chart-format to shaped-text format."},
+    {"page": "p007", "type": "D", "note": "Three-column diagonal + sword. FIRST occurrence of the standard layout type."},
+    {"page": "p008", "type": "D", "note": "Three-column diagonal + sword with medallion pair."},
+    {"page": "p009", "type": "E1", "note": "Cross/key-form with 4 medallions. FIRST occurrence of cross-form."},
+    {"page": "p010", "type": "F", "note": "Diamond-compartment with central sword. FIRST occurrence."},
+    {"page": "p011", "type": "E1", "note": "Cross/key-form with 4 medallions."},
+    {"page": "p012", "type": "F", "note": "Diamond-compartment with central sword. Variant with rectangular sub-cells."},
+    {"page": "p013", "type": "E2", "note": "Elaborate cross/key-form with 8 medallions (4 large + 4 small). Most complex cross-form variant."},
+    {"page": "p014", "type": "E2", "note": "Cross/key-form with 6 medallions."},
+    {"page": "p015", "type": "E1", "note": "Cross/T-form with 4 medallions, half-height variant."},
+    {"page": "p016", "type": "E2", "note": "Cross/key-form with blue-filled medallions. Last cross-form occurrence."},
+    {"page": "p017", "type": "D", "note": "Return to three-column diagonal + sword."},
+    {"page": "p018", "type": "D", "note": "Three-column diagonal + sword."},
+    {"page": "p019", "type": "G", "note": "Single sword/lance with arrowhead + cup base. FIRST explicitly pictorial weapon form."},
+    {"page": "p020", "type": "H", "note": "Triple sword/lance array. Most dramatically pictorial layout."},
+    {"page": "p021", "type": "I", "note": "Hourglass/vase form. FIRST occurrence."},
+    {"page": "p022", "type": "D", "note": "Three-column diagonal + sword."},
+    {"page": "p023", "type": "D", "note": "Three-column diagonal + sword."},
+    {"page": "p024", "type": "D", "note": "Three-column diagonal + sword."},
+    {"page": "p025", "type": "D", "note": "Three-column diagonal + tapered sword."},
+    {"page": "p026", "type": "D", "note": "Three-column diagonal + sword."},
+    {"page": "p027", "type": "I", "note": "Hourglass/vase form."},
+    {"page": "p028", "type": "I", "note": "Hourglass/vase form."},
+    {"page": "p029", "type": "K", "note": "Three-column with scalloped/arcaded top+bottom."},
+    {"page": "p030", "type": "I", "note": "Hourglass/vase form."},
+    {"page": "p031", "type": "D", "note": "Three-column diagonal + tapered sword."},
+    {"page": "p032", "type": "J", "note": "Triple inverted-triangle/goblet/chandelier. Structural inverse of Type H (triple sword)."},
+    {"page": "p033", "type": "D", "note": "Three-column diagonal + sword."},
+    {"page": "p034", "type": "K", "note": "Three-column with scalloped-arch top+bottom. Red and dark blue arch spandrels."},
+    {"page": "p035", "type": "D", "note": "Three-column diagonal + sword. Last standard layout before colophon."},
+    {"page": "p036", "type": "L", "note": "COLOPHON: grid + inverted-triangle hatime. Text ends."}
+  ],
+
+  "structural_program_analysis": {
+    "summary": "The manuscript follows a clear structural arc: it opens with a unique illuminated serlevha (Type A), transitions through two unique introductory chart/grid layouts (Types B, C), then cycles through a repertoire of 5-6 geometric layout types for the body of the text (Types D-K), culminating in two dramatic pictorial weapon-form layouts (Types G, H) at the manuscript's midpoint, and closes with a unique colophon layout (Type L). The standard three-column diagonal layout (Type D) serves as the connective tissue between the more elaborate display layouts.",
+    "arc_description": "Opening display (A) -> Systematic chart (B) -> Dense transition grid (C) -> Alternation of standard (D) and complex (E, F) layouts through first third -> Weapon/pictorial climax (G, H) at approximate midpoint -> Mix of standard (D), hourglass (I), and arcaded (K) layouts through second half -> Structural inversion (J = mirror of H) near end -> Final standard layouts (D) -> Colophon closing (L)",
+    "symmetry_observations": [
+      "The serlevha arch at p004 (pointed upward) is structurally mirrored by the inverted-triangle colophon at p036 (pointed downward) -- a classic Ottoman manuscript framing device.",
+      "The triple-sword layout (Type H, p020) pointing upward is structurally mirrored by the triple-goblet/chandelier layout (Type J, p032) pointing downward -- suggesting intentional programmatic symmetry.",
+      "The cross/key-form layouts (Type E) are concentrated in the first half of the manuscript (pp. 009-016), while the hourglass/vase forms (Type I) appear primarily in the second half (pp. 021-030), creating a two-part structural rhythm."
+    ],
+    "transition_patterns": "The author consistently places a Type D (three-column diagonal) layout as a 'rest' page between the more complex display layouts. No two consecutive openings use the same non-D layout type, except for the hourglass cluster at pp. 027-028-030."
+  },
+
+  "serlevha_analysis": {
+    "location": "f.1b (IIIF p004, right page of opening bifolio)",
+    "form": "Tac-form / pointed arch headpiece (sivri kemerli serlevha)",
+    "components": {
+      "arch_interior": "Dense polychrome floral-landscape composition filling the pointed-arch field. The interior contains: (1) a carpet-like layer of interlocking floral forms -- red flowers (possibly simplified lale/tulip and karanfil/carnation forms), dark blue/lapis foliage, green leaves, and gold accents; (2) what appear to be densely massed flowering shrubs or bushes arranged in a landscape-like composition, with taller forms at the sides and a massed floral carpet effect. The 'landscape scene' described in the catalog record is confirmed: the composition has a distinctly garden-like character rather than the abstract geometric or pure arabesque patterning typical of court serlevhas.",
+      "arch_frame": "The pointed arch is outlined in gold with dark inner lines. A narrow decorative border band runs along the arch profile.",
+      "tig_finials": "Red and blue alternating stem/finial (tig) forms project upward above the arch apex in a fan-like arrangement. There appear to be 5-7 individual tig elements. They are simplified and somewhat schematic compared to court examples.",
+      "title_band": "A horizontal rectangular cartouche below the arch, with gold ground and dark blue/lapis text panel. This likely contains the Bismillah or the work's title (Ziya al-Jinan wa-Shifa al-Janan). The text is not legible at current resolution.",
+      "text_below": "Below the title band, standard horizontal nesih text in black ink with red rubrics (humra) fills the remainder of the text block. This text is the opening of the siyer-i nebi.",
+      "facing_page": "f.1a (left page) contains standard horizontal nesih text in a gold cedvel frame, without any illumination. A large oval seal (muhur) is visible in the right margin of f.1b."
+    },
+    "color_palette": {
+      "dominant": ["crimson/red (kirmizi)", "dark blue/lapis (lacivert)", "gold (altin)"],
+      "secondary": ["green (yesil)", "pink", "cream/off-white"],
+      "gold_application": "Gold outlining of arch frame, gold ground in title cartouche, gold cedvel frame"
+    },
+    "quality_assessment": {
+      "verdict": "Provincial Ottoman (tasra)",
+      "confidence": 0.90,
+      "description": "The serlevha is competently executed but clearly provincial in character. Distinguishing features from Istanbul court production include: (1) the landscape/garden pictorial program within the arch -- court serlevhas use abstract rumi-hatayi or geometric patterning, not naturalistic floral-landscape compositions; (2) the relatively coarse execution of the tig finials, which are schematic rather than refined; (3) the palette is vivid but less controlled than court examples -- the red is slightly orange-toned, and the lapis blue is not as uniform as court-grade ultramarine; (4) the arch form itself is competent but lacks the mathematical precision of nakkashane-i humayun work.",
+      "comparanda": "The landscape-garden serlevha is highly unusual and difficult to parallelize. Possible distant affinities with the Ottoman illustrated siyer-i nebi tradition (cf. Nakkas Osman school), but the idiom here is more decorative/abstract than narrative. The garden motif may reflect a provincial tradition of integrating local naturalistic motifs into standard illumination forms."
+    },
+    "condition": "Generally well-preserved. Some staining on the facing page (f.1a). The serlevha colors remain vivid. No significant paint loss or flaking visible at this resolution.",
+    "analysis_limitations": "IIIF resolution (~1536px width for the bifolio opening) is sufficient for overall composition analysis but insufficient for: (1) reading the title-band text; (2) identifying individual plant species in the landscape scene; (3) assessing pigment layering and brushwork quality in detail."
+  },
+
+  "flyleaf_ghost_analysis": {
+    "location": "f.Ib (IIIF p003, left page)",
+    "description": "The front flyleaf verso shows a faded, ghostly impression of what appears to be a rectangular frame with an arched headpiece at top -- structurally similar to the serlevha on f.1b. This is rendered in pale green/blue-green wash or offset. It could be: (1) a practice or template drawing for the serlevha, made on the flyleaf before execution on the text page; (2) an offset/transfer from a facing page that was removed or rearranged; (3) a deliberate secondary serlevha frame that was never completed. A library stamp reading 'TRABZON / No. 112' is pasted at the bottom left corner of the flyleaf.",
+    "significance": "If this is a practice template, it provides rare evidence of the author-illuminator's working method.",
+    "confidence": 0.60
+  },
+
+  "colophon_analysis": {
+    "location": "f.33b (IIIF p036, right page; left page f.33a is blank)",
+    "layout_description": "The colophon page is divided into two zones: (1) UPPER ZONE: a rectangular grid of approximately 7 rows x 6 columns of small cells, each containing 1-3 words of text in alternating red and black ink. The grid appears to be a structured summary or prayer/dua text in tabular form. (2) LOWER ZONE: a large downward-pointing equilateral triangle, containing 6-7 lines of colophon text in a larger nesih hand, with each successive line shorter than the one above (following the triangle's narrowing profile). The triangle tapers to a point at the bottom. At or near the apex point, two small circular medallions are visible -- these likely contain the scribal completion formula, the date (25 Zilhicce 1255 AH), and/or the author's name.",
+    "autograph_confirmation": {
+      "verdict": "Consistent with autograph (muellif nushasi) attribution",
+      "confidence": 0.85,
+      "reasoning": "The colophon text cannot be read in detail at this resolution, but the YEK catalogue explicitly identifies this as a muellif nushasi. The consistent hand throughout the manuscript, the unified decorative program conceived as an integral part of the text, and the elaborate author-specific layout program all support the autograph attribution. A provincial author producing a unique copy of his own work with an elaborate self-designed geometric layout program is entirely consistent with 19th-century Anatolian manuscript culture."
+    },
+    "date_formula": {
+      "stated_date": "25 Zilhicce 1255 AH (approximately 28 February 1840 CE)",
+      "source": "YEK catalogue record; not independently readable from images at this resolution",
+      "confidence": 0.80
+    },
+    "condition": "The page shows edge damage (tearing/water staining) at the outer margins, particularly at the right edge. The triangle and grid interior appear well-preserved."
+  },
+
+  "binding_analysis": {
+    "front_cover_p001": "Patterned paper-covered cardboard (desenli kagit kapli mukavva cilt). The cover paper has a repeating floral/botanical motif in reddish-brown ink on a brown/tan ground. The pattern consists of small flower and leaf forms scattered in a regular repeat. Wear and scuffing visible; a white paper label is pasted at lower right (shelf number?). An ink inscription is partially visible at center.",
+    "back_cover_p039": "Same patterned paper as front cover, with the same floral repeat pattern. A paper label with shelf number '212' (or '218'?) is pasted at upper left. More wear and paper loss at corners and lower edge.",
+    "inside_covers": "p002 (inside front): doublure in plain paper with staining and ownership notes. p038 (inside back): plain paper doublure, stained. An Ottoman-era crescent-and-star stamp is visible on the inside back cover board.",
+    "binding_type": "Standard late Ottoman provincial binding. No semse, no salbek, no embossed medallion. The patterned cover paper is the sole decorative element."
+  },
+
+  "statistical_summary": {
+    "total_iiif_pages": 39,
+    "non_text_pages": {
+      "covers": 2,
+      "flyleaves_blank": 4,
+      "doublure_endpapers": 2,
+      "total": 8,
+      "note": "p001 (front cover), p002 (doublure+flyleaf), p003 (flyleaf verso + f.1a blank), p036 left page (blank f.33a), p037 (blank flyleaf), p038 (doublure), p039 (back cover). Additionally p004 left page has plain text, not a shaped layout."
+    },
+    "text_pages_with_shaped_layouts": 33,
+    "text_openings_bifolio": 33,
+    "note_on_counting": "Each IIIF page from p004-p036 shows a bifolio opening (two facing pages). The shaped layouts apply to BOTH pages of each opening as a unified composition. Thus 33 IIIF text pages = 33 bifolio openings = 66 individual pages of shaped text, minus p004 where only the right page (f.1b) has the serlevha and left page is plain text, and p036 where only the right page has the colophon and left page is blank. So: 31 fully shaped bifolio openings + 2 partial (serlevha and colophon) = 33 total openings.",
+    "layout_type_counts": {
+      "A_serlevha": {"count": 1, "percentage": "3.0%"},
+      "B_grid_medallion_chart": {"count": 1, "percentage": "3.0%"},
+      "C_fine_grid_micro_cell": {"count": 1, "percentage": "3.0%"},
+      "D_three_column_diagonal_sword": {"count": 12, "percentage": "36.4%"},
+      "E_cross_key_form": {"count": 6, "percentage": "18.2%", "sub_E1": 3, "sub_E2": 3},
+      "F_diamond_compartment": {"count": 2, "percentage": "6.1%"},
+      "G_single_sword_lance": {"count": 1, "percentage": "3.0%"},
+      "H_triple_sword_lance": {"count": 1, "percentage": "3.0%"},
+      "I_hourglass_vase": {"count": 4, "percentage": "12.1%"},
+      "J_triple_inverted_triangle": {"count": 1, "percentage": "3.0%"},
+      "K_scalloped_arcaded": {"count": 2, "percentage": "6.1%"},
+      "L_colophon_grid_triangle": {"count": 1, "percentage": "3.0%"}
+    },
+    "unique_layouts": 6,
+    "repeated_layouts": 6,
+    "total_distinct_types": 12,
+    "dominant_type": "D (three-column diagonal + sword) at 36.4%",
+    "second_type": "E (cross/key-form) at 18.2%",
+    "third_type": "I (hourglass/vase) at 12.1%"
+  },
+
+  "recurring_structural_elements": {
+    "central_sword_column": {
+      "description": "A narrow vertical column containing calligraphic text (often in a different script weight or in red ink), running the full height of the text area. Present in nearly every layout type except Types B and L.",
+      "occurrences": "Present on approximately 28 of 33 openings. The sword column is the single most consistent structural element across all layout types.",
+      "variations": "Simple narrow column (most common); tapered/pointed tip at top; flared base; with 1-2 small medallions at midpoint; with crossbar extensions (Type E)."
+    },
+    "diagonal_text": {
+      "description": "Nesih text running at approximately 45 degrees from horizontal, filling the flanking areas on either side of the central column. The diagonal orientation is the primary visual marker distinguishing the muvashshahat tradition from standard horizontal layouts.",
+      "occurrences": "Present on at least 25 of 33 openings."
+    },
+    "color_differentiation_of_text_fields": {
+      "description": "Adjacent text compartments use different background colors (gold/cream, blue/grey, pink/salmon, white) to distinguish them visually. The alternating-color system serves both decorative and organizational purposes.",
+      "palette": ["gold/cream (altin/krem)", "light blue/grey (acik mavi/gri)", "pink/salmon (pembe/somon)", "white/cream (beyaz/krem)", "dark blue (lacivert, rare, pp. 016, 034)"]
+    },
+    "lower_margin_calligraphy": {
+      "description": "Nearly every opening has a large calligraphic inscription in the lower margin BELOW the gold cedvel frame. These inscriptions are in a larger, bolder nesih or quasi-sulus hand, typically in black or red ink. They appear to contain section titles, pious formulae, or continuation text that does not fit within the shaped layout.",
+      "occurrences": "Present on approximately 30 of 33 openings.",
+      "significance": "This is an unusual feature: the lower-margin text effectively doubles the text-carrying capacity of each page by adding extra text outside the shaped layout frame. It may represent a practical solution by the author to fit his text into the constrained space of the shaped layouts."
+    },
+    "gold_cedvel_frame": {
+      "description": "Multi-line gold and dark-ink frame (cedvel) surrounding the text area on every text page.",
+      "occurrences": "All 33 openings."
+    }
+  },
+
+  "color_program_through_manuscript": {
+    "summary": "The background colors of the text compartments shift gradually through the manuscript. The first third (pp. 004-016) uses more gold, blue, and cream. The middle section (pp. 017-025) introduces more pink/salmon tones alongside gold. The final third (pp. 026-036) shows more varied combinations including dark blue accents (pp. 034) and warm gold/amber. This gradual color shift may be intentional or may reflect the availability of materials during production.",
+    "page_paper_color_variation": "The pages themselves (the paper ground visible in margins) also show color variation: some pages have a distinctly yellow/golden tone (p006, p010, p012, p021), others are blue-tinted (p009, p015, p021L, p027R), and most are cream/off-white. This may reflect use of different paper stocks or deliberate tinting of individual pages."
+  },
+
+  "updated_distribution_notes": "REVISED ANALYSIS (full 39-page survey). The muvashshahat/sekilli yazi program extends across ALL 33 text openings (p004-p036), comprising 12 distinct layout types. The program is more varied and systematic than the initial 10-page sample suggested. Key corrections to the original catalog record: (1) The initial description of 'rectangular grid with circular medallions' (p005) is confirmed but was underspecified -- the grid-and-medallion chart is a unique introductory layout, not a repeated form. (2) The initial description of 'diamond-and-rectangle compartments with central vertical column' (p010) is confirmed as Type F and occurs twice (pp. 010, 012). (3) The 'sword/minaret shapes' noted in the original catalog occur in THREE distinct forms: the cross/key-form with medallions (Type E, 6 occurrences), the single sword/lance (Type G, 1 occurrence), and the triple sword/lance (Type H, 1 occurrence). (4) A previously unidentified layout type -- the hourglass/vase form (Type I) -- appears 4 times and is the third most common layout. (5) The triple inverted-triangle/goblet form (Type J) was not previously documented. (6) The scalloped/arcaded variant (Type K) was not previously documented. (7) The dominant layout is the three-column diagonal with central sword (Type D, 36% of openings), which was not recognized as a distinct type in the original 10-page sample. (8) The structural program shows clear intentional design: unique opening and closing layouts, a concentration of cross-forms in the first half and hourglass forms in the second half, and a dramatic weapon-form climax at the approximate midpoint.",
+
+  "terminology_additions": [
+    {
+      "concept": "Three-column diagonal text layout",
+      "ottoman": "uclu sutun + meyilli/capraz yazi",
+      "arabic": "thalathiyyat al-a'mida bi-l-khatt al-mail (three columns of diagonal writing)",
+      "english": "A muvashshahat layout in which the text area is divided into three vertical columns, the flanking two filled with diagonal/oblique nesih text at approximately 45 degrees. The central column contains a vertical sword-form silhouette."
+    },
+    {
+      "concept": "Cross/key-form calligraphic layout",
+      "ottoman": "salib seklinde / anahtar bicimli duzeni",
+      "arabic": "shakl al-salib / shakl al-miftah",
+      "english": "A muvashshahat layout in which a cruciform/key-shaped structure with horizontal crossbars and terminal medallions divides the text area into quadrants filled with diagonal text."
+    },
+    {
+      "concept": "Hourglass/vase calligraphic layout",
+      "ottoman": "kum saati / vazo seklinde duzeni",
+      "arabic": "shakl al-sa'a al-ramliyya",
+      "english": "A muvashshahat layout in which the text area narrows at the midpoint to create an hourglass or vase silhouette, with four concave lobes filled with contrasting text."
+    },
+    {
+      "concept": "Triple sword/lance array",
+      "ottoman": "uc kilic/harbe dizisi",
+      "arabic": "thalath suyuf / thalath hirba",
+      "english": "A muvashshahat layout with three parallel upward-pointing weapon silhouettes, each articulated with arrowhead tips and broadened bases."
+    },
+    {
+      "concept": "Fine-grid micro-cell layout",
+      "ottoman": "ince hucreli cedvel / mushabbak",
+      "arabic": "jadwal mushabbak (reticulated table)",
+      "english": "A muvashshahat layout in which the text area is divided into hundreds of tiny rectangular cells in a dense grid, each containing a few words."
+    },
+    {
+      "concept": "Lower-margin calligraphy (extra-frame text)",
+      "ottoman": "cedvel disi yazi / alt hasiyelik yazisi",
+      "description": "Large calligraphic inscriptions placed below the gold cedvel frame in the lower margin. A distinctive feature of this manuscript, providing additional text capacity outside the shaped layouts."
+    }
+  ],
+
+  "analysis_limitations": [
+    "Resolution (~1536px per bifolio opening) is sufficient for layout typology but insufficient for: reading text content within cells/medallions, identifying specific divine names or textual passages, reading the colophon date formula, or assessing fine brushwork quality.",
+    "The identification of some layout variants (especially distinguishing E1 from E2 sub-variants) depends on medallion count and size, which is at the limit of visibility at this resolution.",
+    "Color identification is approximate; the IIIF captures may introduce color shifts from the original pigments. The distinction between 'gold ground' and 'cream/off-white ground' is sometimes ambiguous.",
+    "The lower-margin calligraphic texts were not transcribed or translated. Their content (section titles? pious formulae? continuation text?) remains uncharacterized.",
+    "The text within the medallion column of Type B (p005) cannot be identified -- whether it contains divine names (esmaul husna), Prophetic attributes, or companion names is uncertain.",
+    "No comparative analysis with other known muvashshahat manuscripts was performed in this session. The typological categories assigned here (Types A-L) are specific to this manuscript and do not map directly to any published typology."
+  ]
+}

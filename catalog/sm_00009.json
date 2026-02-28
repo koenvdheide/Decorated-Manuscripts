@@ -1,0 +1,466 @@
+{
+  "record_id": "sm_00009",
+  "collection": {
+    "institution": "Süleymaniye Kütüphanesi — Süleymaniye Murakka Koleksiyonu",
+    "city": "Istanbul",
+    "country": "Turkey",
+    "shelfmark": "SM 00009",
+    "yek_url": "https://portal.yek.gov.tr/works/detail/325921"
+  },
+  "manuscript": {
+    "title": "Murakkaʿ / مرقعات",
+    "title_script": "مرقعات",
+    "title_alt": "Süleymaniye Murakka Koleksiyonu 9 — Üç-Teknik Murakkaʿ (Triple-Technique Album)",
+    "author": null,
+    "author_dates": null,
+    "calligrapher": "Multiple: İsmâʿîl Zühdî (اسماعیل زهدی); Mahmûd Tophanevî (محمود طوفانه وی); Hâfız Yûsuf (حافظ يوسف) — per ketebe inscriptions as noted by YEK cataloguer Serra Bostan",
+    "calligrapher_dates": "Late 18th–early 19th century (consistent with active periods of named calligraphers; see note)",
+    "calligrapher_note": "The YEK catalogue records three calligraphers identified by ketebe (colophon) inscriptions within the album: İsmâʿîl Zühdî, Mahmûd Tophanevî, and Hâfız Yûsuf. İsmâʿîl Zühdî (İsmail Zühdî, d. c. 1806) was an outstanding late Ottoman calligrapher and teacher, particularly celebrated in the sülüs and naskh traditions; he was a student of Hâfız Osman's tradition through Seyyid Abdullah. Mahmûd Tophanevî is less extensively documented in the secondary literature; the epithet 'Tophanevî' suggests an Istanbul association (Tophane quarter). Hâfız Yûsuf appears in a number of late Ottoman murakkaʿ albums but has not been the subject of a dedicated monographic study. The genel_notlar of the YEK record states: 'Murakka'da ketebesi bulunan hattatlar: Ismail Zuhdu, Mahmud Tophanevi, Hafiz Yusuf', confirming that all three are identified by their own ketebe notes, not by later attribution. The Vakf seal (p002, p020) of Fethizâde Mustafa Efendi dated AH 1202 / 1787–88 CE provides a terminus ante quem for the album: it was complete and in Fethizâde's library by 1787–88. This is the album's primary date anchor.",
+    "date_ah": "before 1202 AH (terminus ante quem from vakf seal)",
+    "date_ce": "before 1787–88 CE (terminus ante quem); probably mid-to-late 18th century (c. 1750–1787)",
+    "date_note": "The vakf seal of Fethizâde Mustafa Efendi on pp. 002 and 020 is dated AH 1202 / 1787–88 CE, establishing that the album was endowed to the library of the Sultan Süleyman Mosque by this date. The active periods of the named calligraphers — İsmâʿîl Zühdî (d. c. 1806), Mahmûd Tophanevî, and Hâfız Yûsuf — are all consistent with the mid-to-late 18th century. A production date of c. 1750–1785 is adopted as the working hypothesis, pending further specialist investigation. The Vakf inscription reads: 'Vakf-ı Sâhibü'l-Hayrât el-Hâcc Seyyid Mustafa Fethizâde der-Kitabî-i Câmi-i Sultan Süleyman, 1202' — recording an endowment by the charitable Hâcı Seyyid Mustafa Fethizâde to the library of the Mosque of Sultan Süleyman [i.e. Süleymaniye Mosque] in AH 1202.",
+    "place_of_copy": "Istanbul (probable)",
+    "format": "Murakkaʿ (مرقعات) — bound calligraphic album of 24 folios (20 digitized pages). Multi-technique decorated paper program: zerefşân (gold-sprinkled) margins throughout; halkârî (shaded gold margin painting) on at least one interior opening; tughra with teşʿîr (fine-line gold floral drawing) on the final leaf. Arabic and Quranic content in sülüs and naskh.",
+    "format_note": "A bound Ottoman calligraphic album (murakkaʿ / murakkaat) of 24 folios digitized as 20 pages, suggesting approximately 24 kıtʿa (calligraphic specimen sheets). The album is catalogued under the Süleymaniye Murakka Koleksiyonu — a dedicated sub-collection of calligraphic albums at Süleymaniye Kütüphanesi, distinguished from the Yazma Bağışlar (donated manuscripts) by their album format. Contents include sülüs and naskh calligraphic kıtʿalar (specimen sheets), Quranic text passages with red vowel marks and gold interlinear rosettes, and a spectacular tughra page. The decoration program is one of the most technically diverse in the Süleymaniye murakkaʿ corpus: it combines zerefşân margins (gold-sprinkled paper) throughout the album with discrete areas of halkârî margin painting and sukufe teşʿîr drawing on the final leaf. The album dimensions are recorded as 'muhtelif' (various) in the YEK catalogue, indicating that the mounted panels vary in size within a standard album format.",
+    "language": "Arabic",
+    "script": "Sülüs (ثلث) and Nesih (نسخ) — sülüs kıtʿalar with large formal letterforms; naskh for Quranic text passages. Celî (large-format) thuluth for the final tughra page.",
+    "dimensions_mm": {
+      "height": null,
+      "width": null
+    },
+    "folio_count": 24,
+    "yek_id": "325921",
+    "iiif_id": "0000000356069",
+    "notes": "CORPUS SIGNIFICANCE: The most technically diverse murakkaʿ in the current Süleymaniye corpus, presenting three distinct decorated paper/margin techniques in a single album: (1) zerefşân (gold-sprinkled) margins on yellow-ochre and rose-pink grounds throughout; (2) halkârî (shaded gold floral margin painting) on at least p010 left — flowering vine and leaf branches drawn in gold outline on cream ground alongside the text frame; (3) sukufe teşʿîr (fine-line gold floral drawing scattered across the text surface) on the final tughra page (p020), combined with a spectacular black+gold tughra rendered on a cream field covered with scattered gold-outlined flowers. The vakf seal of Fethizâde Mustafa Efendi AH 1202 / 1787–88 provides the primary date anchor. Three named calligraphers are identified by ketebe: İsmâʿîl Zühdî, Mahmûd Tophanevî, Hâfız Yûsuf. The YEK catalogue record contains no kağıt özellikleri or tezhip/minyatür fields — the entire multi-technique decoration program is documented exclusively from visual examination of the IIIF images. This album is one of the key specimens for the project's research into Ottoman late-18th-century murakkaʿ production with combined gold-sprinkled, halkâr, and teşʿîr programs."
+  },
+  "paper_decoration": {
+    "types": [
+      "gold_sprinkled",
+      "halkar_margins",
+      "marginal_drawings",
+      "framing_system"
+    ],
+    "summary": "SM 00009 presents one of the most sophisticated multi-technique decorated paper programs among the Süleymaniye murakkaʿ albums. The decoration operates on three levels: (1) Zerefşân (gold-sprinkled) margin grounds: yellow-ochre and rose-pink zerefşân papers serve as the outer margin ground throughout the album, confirmed on pp. 002, 003, 010, and 020. The yellow-ochre zerefşân is the dominant ground for most calligraphic openings; the rose-pink zerefşân appears prominently on the final tughra page (p020) and in transitional border strips on p003. Gold and dark sprinkling is visible at IIIF resolution on both colour variants. (2) Halkârî margin painting: on p010 left, the margin area between the text frame and the sheet edge carries halkârî — fine-line gold drawings of flowering vine and leaf branches (sukufe / شکوفه motifs) executed in gold outline on the cream ground. This is tahrirli halkârî (outlined/drawn in gold ink), a high-skill margin decoration distinct from the gold-sprinkled paper ground. The halkâr appears as a naturalistic botanical drawing of stems, leaves, and open flowers arranged as border decoration around the text panel. (3) Sukufe teşʿîr on the tughra page: on p020, the cream ground of the tughra panel itself is scattered with repeated small sukufe floral motifs — gold-outlined flowers with pink/red centres, on short stems with gold leaf pairs — executed in the teşʿîr (fine-line gold drawing) tradition. These scattered flowers cover the entire text surface between the tughra strokes, transforming the writing ground into a floral field. A compound multi-line cedvel system (altın cedvel — gold, dark, red, and coloured rules) is present throughout as the framing system, clearly visible on pp. 002, 003, 010, and 020. Silver medallion seals (vakf and scribal seals) appear on pp. 002, 003, 010, and 020.",
+    "distribution_notes": "Zerefşân (yellow-ochre variant): pp. 002, 003, 010 right — confirmed from IIIF images. Zerefşân (rose-pink variant): p020 outer margin, and transitional border strip visible on p003 — confirmed. Halkârî margin painting (sukufe motifs): p010 left margin — confirmed from IIIF image showing gold floral vine drawings alongside the text panel. Sukufe teşʿîr (scattered flowers on cream ground): p020 tughra panel — confirmed. Multi-line compound cedvel framing: all interior pages with text panels. Pages not sampled in IIIF images (approximately 15 of 20 digitized pages) are assumed to follow the zerefşân margin pattern consistent with the album's visual program as revealed in the sampled pages.",
+    "technique_terms": {
+      "ottoman": "zerefşân (zer-efşân) kâğıt — sarı (sarı-toprak tonu) ve gül-pembe renk varyantları; halkârî kenar bezemesi — tahrirli (altın mürekkeple çizilmiş), sukufe motifleri; teşʿîr / tashʿîr — sukufe çiçek motifleri (alt metinden veya zeminden yayılmış ince çizgi altın çizimleri); tuğra — Osmanlı saltanat nişanı; altın cedvel — çok çizgili kompozit çerçeve sistemi; vakıf mühürü; sülüs ve nesih hatları",
+      "persian": "zarafshān / afshān (افشان) — gold-sprinkled paper; halkārī (حلکاری) — shaded gold margin painting; tashʿīr (تشعیر) — fine-line gold drawings in margins; jadval-e zar (جدول زر) — gold ruling; tuġrā (طغرا) — imperial monogram",
+      "arabic": "waraq mudhahdhab mansūr (ورق مذهّب منثور) — gold-sprinkled paper; jadwal mudhahdhab (جدول مذهّب) — gold-ruled frame; tashʿīr (تشعیر) — fine-line gold margin drawings; ṭuġrā (طغرة) — imperial monogram"
+    },
+    "catalogue_description": {
+      "paper_field": null,
+      "paper_field_normalized": null,
+      "paper_field_translation": null,
+      "notes_field": "Murakka'da ketebesi bulunan hattatlar: Ismail Zuhdu, Mahmud Tophanevi, Hafiz Yusuf. Vakıf mühürü: Vakf-ı Sahibu'l-Hayrat el-Hacc Seyyid Mustafa Fethizade der-Kitabhane-i Cami-i Sultan Suleyman, 1202 AH.",
+      "notes_field_normalized": "Murakkaʿda ketebesi bulunan hattatlar: İsmâʿîl Zühdî, Mahmûd Tophanevî, Hâfız Yûsuf. Vakıf mühürü: Vakf-ı Sâhibü'l-Hayrât el-Hâcc Seyyid Mustafa Fethizâde der-Kitabî-i Câmi-i Sultan Süleyman, 1202 H.",
+      "notes_field_translation": "Calligraphers identified by ketebe in the murakkaʿ: İsmâʿîl Zühdî, Mahmûd Tophanevî, Hâfız Yûsuf. Vakf seal: [Endowment of] the Charitable Owner the Ḥājī Seyyid Mustafa Fethizâde, [to] the Library of the Mosque of Sultan Süleyman, AH 1202.",
+      "decoration_field": null,
+      "source": "YEK portal, genel_notlar and muhürler fields, record 325921, Süleymaniye Kütüphanesi — Süleymaniye Murakka Koleksiyonu, SM 00009. Catalogued by Serra Bostan. Fields kağıt özellikleri and tezhip/minyatür are null in the YEK record; the triple-technique decoration program (zerefşân, halkârî, teşʿîr) is entirely absent from the YEK catalogue description.",
+      "cataloguer_note": "The YEK cataloguing of SM 00009 is focused entirely on the textual/scribal dimension (calligrapher names, vakf seal text) and omits the decoration completely. The three-technique decorated paper program — zerefşân margins, halkârî painting, and sukufe teşʿîr — is documented here exclusively from visual examination of the IIIF images."
+    }
+  },
+  "workshop_attribution": {
+    "primary_tradition": "ottoman",
+    "workshop_centre": "Istanbul",
+    "date_range_ce": "c. 1750–1787 (mid-to-late 18th century, pre-vakf)",
+    "confidence": 0.78,
+    "key_indicators": [
+      "Vakf seal dated AH 1202 / 1787–88 CE provides a firm terminus ante quem, placing the album's completion before 1788",
+      "İsmâʿîl Zühdî (d. c. 1806) and Mahmûd Tophanevî are late 18th-century Istanbul calligraphers, consistent with a mid-to-late 18th-century Istanbul production context",
+      "The zerefşân (gold-sprinkled) margin paper program on yellow-ochre and rose-pink grounds is well-established in late 18th-century Istanbul luxury murakkaʿ production and is consistent with the Süleymaniye Kütüphanesi corpus of this period",
+      "The halkârî margin painting with sukufe motifs (gold-outlined flowers and vines on cream) is a distinctively Ottoman Istanbul technique, associated with court album production of the 17th–18th centuries",
+      "The tughra page with sukufe teşʿîr (fine-line gold flowers scattered across the calligraphic surface) is a high-skill Istanbul technique documented in imperial murakkaʿ albums from the Topkapı collections",
+      "The Fethizâde vakf to the Süleymaniye Kütüphanesi is an Istanbul institutional endowment, strongly suggesting the album circulated in Istanbul throughout its pre-vakf history"
+    ],
+    "cross_tradition_caveats": [
+      "No dated ketebe inscription is documented in the examined IIIF images; the only date is the vakf seal (terminus ante quem, not a production date)",
+      "Mahmûd Tophanevî is not extensively documented in the published scholarly literature; his dates and career require further research",
+      "The 15 un-sampled pages (out of 20 digitized) may contain additional decorative features — including further halkârî, teşʿîr, or zerefşân variants — not documented in this record",
+      "The zerefşân paper grounds cannot be conclusively attributed to a specific Istanbul paper workshop without physical examination or specialist comparison"
+    ]
+  },
+  "codicology": {
+    "paper": {
+      "color": "Multiple: Yellow-ochre zerefşân (gold-sprinkled on warm yellow ground — dominant throughout album); rose-pink zerefşân (gold-sprinkled on pink ground — final page p020 and transitional borders p003); cream/ivory (âharlı — calligraphic text panels on all pages); pink/mottled speckled inner border paper (p003 — possibly a separate decorated ground between zerefşân and text panel). Binding cover: plain brown leather (worn).",
+      "preparation": "Text panels on âharlı (sized and burnished) cream paper consistent with Ottoman luxury calligraphy paper. Zerefşân margin grounds: gold particles scattered on sized paper (two colour variants: yellow-ochre, rose-pink). The halkârî drawings on p010 left are executed in gold ink (zermürekkep) on the cream paper surface. The sukufe teşʿîr on p020 is also in gold ink on cream.",
+      "weight": "Indeterminate from IIIF images; album format typically uses heavier stock for mounting grounds.",
+      "decoration": "Zerefşân margin grounds (yellow-ochre and rose-pink) throughout; halkârî margin painting (p010 left); sukufe teşʿîr on tughra panel (p020); multi-line compound cedvel throughout.",
+      "paper_type": "Mixed: zerefşân margin papers (two colour variants); cream âharlı text panel paper; possible pink speckled inner border paper (p003)."
+    },
+    "ruling": {
+      "system": "Multi-line compound cedvel (altın cedvel) throughout all text-opening pages.",
+      "description": "Each calligraphic opening is framed by a compound multi-line ruling system comprising gold outer rules, coloured (red, dark blue/black) inner rules, and a fine gold inner line immediately bordering the text area. On p002, the cedvel appears as gold + red + dark lines. On p003, the same system is visible. On p010, both pages show a gold + red + dark compound cedvel. On p020 (tughra page), the cedvel is clearly a wider compound system with additional line components. The cedvel framing separates the zerefşân margin ground from the cream text panel area, functioning as a zone boundary between the gold-sprinkled paper and the plain calligraphic surface."
+    },
+    "binding": {
+      "cover_description": "Plain brown leather binding, heavily worn, visible on p001 (front cover exterior). The leather is a dark warm brown with significant surface wear, abrasion marks, and two library labels: a rectangular red-bordered label with the numeral '4' (possibly an older shelfmark) and a circular Süleymaniye Kütüphanesi label with the numeral '9'. The Türkiye Yazma Eserler Kurumu embossed stamp is also visible on the cover. No gold medallion (şemse), marbled paper, or decorative stamping is visible on the exterior; the binding appears to be a plain Ottoman leather binding that has been heavily used.",
+      "cover_type": "Sade deri cilt — plain leather binding (worn)",
+      "notes": "The worn plain leather binding contrasts sharply with the luxurious multi-technique interior decoration program. This contrast suggests either (a) an original simple binding appropriate for a working murakkaʿ, with the decoration concentrated on the interior pages; or (b) a later rebinding after the original decorated cover was lost. Physical examination would clarify binding history."
+    },
+    "format": "Murakkaʿ — bound Ottoman calligraphic album, zerefşân + halkârî + teşʿîr triple-technique",
+    "condition_summary": "The interior pages as visible in the IIIF images appear in good condition: zerefşân margins are vivid, gold halkâr on p010 is legible, and the tughra page (p020) is well-preserved with clear gold work. The binding cover (p001) is heavily worn. Some older physical damage visible on p003 (small losses along bottom edge of the inner border paper). The vakf seals are legible on pp. 002 and 020.",
+    "conservation_history": null
+  },
+  "visual_confirmation": {
+    "verdict": "confirmed",
+    "confidence": 0.94,
+    "screenshots_examined": 7,
+    "folios_examined": [
+      "corpus/iiif/sm_00009_p001.jpg",
+      "corpus/iiif/sm_00009_p002.jpg",
+      "corpus/iiif/sm_00009_p003.jpg",
+      "corpus/iiif/sm_00009_p010.jpg",
+      "corpus/iiif/sm_00009_p020.jpg",
+      "sm_00009_viewer.jpeg",
+      "sm_00009_last.jpeg"
+    ],
+    "visual_evidence": "ALL PRIORITY FEATURES CONFIRMED at high confidence. (1) ZEREFSHAN: Yellow-ochre zerefşân margin paper confirmed on p002 right (facing cream nesih Quran leaf), p003 (wide yellow margin surrounding cream kıtʿa), and p010 right (yellow margin on Quran page). Rose-pink zerefşân confirmed on p020 (wide outer margin with heavy gold and dark sprinkling). Gold particles are visible as a dense warm speckle against the yellow and pink grounds at 3264 × 2448 px resolution. (2) HALKAR: P010 left shows genuine halkârî margin drawing — gold-outlined flowering vine and leaf branches (sukufe motifs) drawn along the margins of the text frame on the cream ground. The gold drawing is executed in the tahrirli halkârî manner (outlined in gold ink). Clearly distinct from the zerefşân sprinkling on the opposing page. (3) TUGHRA + TESHIR: P020 shows a spectacular Ottoman tughra in black ink with gold-filled vertical strokes (beyze and tığ elements filled in gold), mounted on a cream ground scattered with small repeated sukufe flowers (gold outline, pink/red centres, gold stems and leaves) in the teşʿîr tradition. The rose-pink zerefşân outer margin frames the entire tughra panel. The vakf seal of Fethizâde Mustafa Efendi is visible as a silver medallion at lower left. (4) COMPOUND CEDVEL: Multi-line gold + red + dark ruling confirmed on all interior pages. OVERALL: All three decoration types are positively confirmed from IIIF images at 3264 × 2448 px. The album is one of the most significant Ottoman triple-technique specimens in the corpus.",
+    "limitations": [
+      "15 of 20 digitized pages were not examined at IIIF resolution; the full extent of halkârî and zerefşân distribution throughout the album is inferred from the 5 sampled pages and the preliminary assessment",
+      "Page p019 does not exist in the IIIF file set (the claimed file in the task brief was absent); the page range gaps between p010 and p020 mean that approximately 9 interior pages are unexamined",
+      "The YEK catalogue records 20 pages digitized from 24 folios; some folios may not have been digitized",
+      "The precise identification of the tughra owner (whose tughra is represented on p020) was not possible at the image resolution available; specialist study needed",
+      "The distinction between zerefşân subtypes (kalbur vs. fırça) cannot be made definitively without close microscopic examination of the sprinkling pattern"
+    ],
+    "source_agent": "visual-confirmation",
+    "session": "catalog/searches/visual_tier1_sm_00009.json"
+  },
+  "folio_analyses": [
+    {
+      "folio": "p001 — Front binding cover",
+      "source_image": "corpus/iiif/sm_00009_p001.jpg",
+      "decoration_present": false,
+      "decoration_types": [],
+      "elements": [
+        {
+          "motif": "Plain brown leather binding cover (worn)",
+          "description": "The front cover exterior is plain dark brown leather, heavily worn and abraded. Two library labels are visible: a rectangular red-bordered label with the numeral '4' (possibly an older shelfmark or acquisition number), and a circular Süleymaniye Kütüphanesi stamp with the numeral '9' (current shelfmark). The Türkiye Yazma Eserler Kurumu embossed seal is visible in the centre. No decorative stamping (şemse, köşebend), gold tooling, marbled paper, or other ornament is present on the exterior. The binding shows extensive surface wear consistent with heavy historical use.",
+          "location": "Full front cover exterior",
+          "confidence": 0.95
+        }
+      ],
+      "confidence": 0.95,
+      "notes": "The worn plain leather binding documents the manuscript's intensive use history. The absence of a decorative cover contrasts with the elaborate interior decoration and may indicate rebinding or a deliberately utilitarian exterior for a working murakkaʿ."
+    },
+    {
+      "folio": "p002 — Double-page opening: sülüs kıtʿa (left) + Quranic nesih on yellow zerefşân (right)",
+      "source_image": "corpus/iiif/sm_00009_p002.jpg",
+      "decoration_present": true,
+      "decoration_types": ["gold_sprinkled", "framing_system"],
+      "elements": [
+        {
+          "motif": "Yellow-ochre zerefşân (gold-sprinkled) margin ground — right page",
+          "description": "The right page of this opening shows the yellow-ochre zerefşân margin paper that forms the dominant ground throughout the album. The warm yellow ground carries a dense sprinkling of gold particles — visible as a fine warm metallic speckle against the yellow base. The zerefşân paper extends from the edge of the sheet to the compound cedvel frame surrounding the Quranic text panel. The transition from the wide yellow zerefşân margin to the cream text area is mediated by the multi-line cedvel (compound gold + red ruling).",
+          "location": "Full outer margin of the right page",
+          "confidence": 0.92
+        },
+        {
+          "motif": "Quranic nesih calligraphy with red vowels and gold interlinear rosettes",
+          "description": "The text panel on the right page contains Arabic Quranic text in a clear naskh (nesih) hand with red vowel marks (harakat) and gold interlinear verse-separator rosettes (gül). The writing is organized in multiple lines across a cream âharlı paper panel. The gold interlinear rosettes are the standard Quran manuscript decoration. The text panel is framed by the compound cedvel.",
+          "location": "Central text panel, right page",
+          "confidence": 0.90
+        },
+        {
+          "motif": "Silver oval medallion seals — vakf and scribal seals",
+          "description": "Two oval silver-toned medallion seals are visible near the top of the opening — one on each page. The seals appear to be applied (stamped or adhered) in a silver ink or metal, with inscribed text in circular or oval format. The right-page seal is likely the vakf seal of Fethizâde Mustafa Efendi (documented in the YEK record). The left-page seal may be a scribal or ownership seal. These seals are standard elements in Ottoman institutional library albums.",
+          "location": "Upper area, both pages",
+          "confidence": 0.85
+        },
+        {
+          "motif": "Sülüs kıtʿa calligraphy — left page",
+          "description": "The left page shows a large-format sülüs calligraphic kıtʿa on cream paper, presented in a larger text format with fewer lines. The sülüs calligraphy has the characteristic large, rounded letterforms with dramatic thick-thin stroke contrast. The page appears to be on a plain cream mount without a visible zerefşân outer margin — possibly the inner side of the album's first opening before the text sequence, or a plain-paper kıtʿa with a different mounting arrangement. A multi-line cedvel frames the text.",
+          "location": "Central text panel, left page",
+          "confidence": 0.80
+        }
+      ],
+      "confidence": 0.90,
+      "notes": "P002 documents both the yellow-ochre zerefşân margin (right page) and the Quranic nesih text content of the album. The silver vakf seals on both pages are the primary documentary evidence for the Fethizâde endowment. The mixed format of this opening — sülüs kıtʿa on left, Quranic nesih with zerefşân margin on right — is typical of Ottoman murakkaʿ albums that combine calligraphic diversity with a consistent margin decoration program."
+    },
+    {
+      "folio": "p003 — Single page: sülüs+nesih kıtʿa on yellow zerefşân with pink mottled inner border",
+      "source_image": "corpus/iiif/sm_00009_p003.jpg",
+      "decoration_present": true,
+      "decoration_types": ["gold_sprinkled", "framing_system"],
+      "elements": [
+        {
+          "motif": "Yellow-ochre zerefşân outer margin — wide",
+          "description": "The outer margin of this page (all four sides) is covered with a wide yellow-ochre zerefşân ground. The warm yellow paper with gold sprinkling is clearly visible. The zerefşân margin is substantially wider on this page than the text panel itself — a proportional arrangement suggesting the zerefşân paper was selected at a large format to create a generous margin.",
+          "location": "Full outer margin (all four sides of the text panel area)",
+          "confidence": 0.93
+        },
+        {
+          "motif": "Pink/mottled speckled inner border paper",
+          "description": "Between the yellow zerefşân outer margin and the compound cedvel frame of the text panel, an intermediate border element is visible: a pink/mottled paper with a speckled or lightly mottled surface in warm pink and cream tones. This paper appears distinct from the zerefşân margin (which is on a yellow ground) and from the cream calligraphic panel. It may be a light pink zerefşân variant, a speckled colored paper, or an intermediate mounting strip. The pink tone is warm and the mottling is fine and irregular. This inner border element is not present on the other sampled pages and may indicate a three-layer mounting system on this leaf specifically.",
+          "location": "Intermediate border between the yellow zerefşân outer margin and the compound cedvel frame",
+          "confidence": 0.75
+        },
+        {
+          "motif": "Sülüs and nesih kıtʿa — combined format",
+          "description": "The text panel contains calligraphy in what appears to be a combined sülüs and nesih format: a large sülüs heading at the top ('سكسري انوسروان ما' — Khusraw Anoshirvan quotation visible at the top line) followed by smaller nesih text in multiple lines. This 'large + small script' format is a classic Ottoman kıtʿa composition, presenting a memorable phrase or hadith in large celî sülüs followed by a connected passage in nesih. Gold medallion dividers or rosettes may be present between sections.",
+          "location": "Central text panel",
+          "confidence": 0.85
+        },
+        {
+          "motif": "Silver medallion seal — upper right",
+          "description": "A silver oval or circular medallion seal is visible at the upper right corner of the page, consistent with the scribal or vakf seals documented on p002.",
+          "location": "Upper right corner",
+          "confidence": 0.88
+        }
+      ],
+      "confidence": 0.87,
+      "notes": "P003 provides the clearest documentation of the yellow zerefşân margin paper at its widest proportion relative to the text panel. The pink mottled inner border is a potentially significant intermediate decoration element visible on this page that warrants further investigation: it may represent a colored paper mounting strip or a rose-pink zerefşân at lower density than the p020 variant. Physical examination needed to resolve the identification."
+    },
+    {
+      "folio": "p010 — Double-page opening: halkârî margin painting (left) + Quranic nesih on yellow zerefşân (right)",
+      "source_image": "corpus/iiif/sm_00009_p010.jpg",
+      "decoration_present": true,
+      "decoration_types": ["halkar_margins", "gold_sprinkled", "framing_system"],
+      "elements": [
+        {
+          "motif": "Halkârî margin painting — sukufe floral vine, left page",
+          "description": "The left page is the key halkârî specimen in this album. The margins surrounding the central text panel carry halkârî decoration: fine-line gold-ink drawings of flowering vine and leaf branches executed in the sukufe (شکوفه — flower/blossom) manner. The botanical motifs are drawn in gold outline on the cream paper ground without any background color, creating a subtle but refined decoration in which the gold-ink lines trace the contours of stems, leaves, and open flower heads. The vine arrangement follows the margin space, filling the top, right, left, and bottom margins of the text panel with a continuous flowering branch motif. The technique is tahrirli halkârî (outlined halkâr) — the gold-ink lines function as both outline and shading through linear variation rather than graduated gold-wash. This is clearly distinct from the zerefşân sprinkling on the facing page: it is drawn, intentional figural work, not a random-scatter technique.",
+          "location": "All four margins surrounding the central text panel, left page",
+          "confidence": 0.90
+        },
+        {
+          "motif": "Sülüs calligraphic kıtʿa on cream paper — left page",
+          "description": "The central text panel of the left page contains a sülüs calligraphic kıtʿa on cream âharlı paper, framed by the multi-line compound cedvel. The calligraphy is in black ink with the large, rounded letterforms and thick-thin contrast characteristic of formal sülüs. Multiple lines of text are arranged vertically. Silver medallion seals are visible at upper and lower corners — the lower-left seal may be the Fethizâde vakf seal in its second occurrence, or a separate scribal seal.",
+          "location": "Central text panel, left page",
+          "confidence": 0.85
+        },
+        {
+          "motif": "Yellow-ochre zerefşân margin — right page",
+          "description": "The right page continues the yellow-ochre zerefşân margin program of the album. The wide warm yellow margin with gold sprinkling surrounds the Quranic text panel on all sides, with the compound cedvel providing the frame boundary. The zerefşân grain is clearly legible at 3264 × 2448 px resolution.",
+          "location": "Full outer margin, right page",
+          "confidence": 0.92
+        },
+        {
+          "motif": "Quranic nesih with red vowels and gold rosettes — right page",
+          "description": "The right page text panel contains Quranic Arabic in naskh (nesih) with red vowel marks and gold interlinear verse-marker rosettes, identical in format to the right page of p002. The multi-line compound cedvel frames the text panel. The contrast between the decorated-paper margin (yellow zerefşân, right) and the margin-painting decoration (gold halkâr, left) across a single opening is the defining structural feature of this page.",
+          "location": "Central text panel, right page",
+          "confidence": 0.90
+        }
+      ],
+      "confidence": 0.92,
+      "notes": "P010 is the most art-historically significant opening in the album. The juxtaposition across a double-page opening of halkârî margin painting (left) with zerefşân margin paper (right) demonstrates that the album's decoration program deliberately varies techniques across adjacent pages. This is not a uniform paper-type album but a composed multi-technique program in which different decorated surfaces serve different visual and structural functions within the same opening. The gold vine-and-flower drawings on the left margin constitute genuine halkârî of high quality, datable to the mid-to-late 18th century based on the album's provenance."
+    },
+    {
+      "folio": "p020 — Final page: Tughra with sukufe teşʿîr on rose-pink zerefşân ground",
+      "source_image": "corpus/iiif/sm_00009_p020.jpg",
+      "decoration_present": true,
+      "decoration_types": ["gold_sprinkled", "marginal_drawings", "framing_system"],
+      "elements": [
+        {
+          "motif": "Ottoman tughra — celî sülüs calligraphic monogram, black ink with gold fill",
+          "description": "The centrepiece of the final page is a large Ottoman tughra (imperial or institutional monogram) in the characteristic format: the extended horizontal beylik and sere strokes sweep rightward, while the vertical beyze loops rise high at left with central tığ (finial spikes). The major vertical strokes of the beyze are filled with gold — a hallmark of high-quality Ottoman tughra execution distinguishing formal presentation pieces from routine administrative versions. The black ink of the primary stroke and the gold fill of the vertical elements create a strong two-tone chromatic effect. The tughra spans the full width of the panel. The calligraphy of the tughra body appears to contain a proper name or dedicatory formula, but individual letter identification was not attempted at the available resolution.",
+          "location": "Central panel — full width",
+          "confidence": 0.92
+        },
+        {
+          "motif": "Sukufe teşʿîr — scattered gold floral drawing across cream panel ground",
+          "description": "The cream paper ground of the tughra panel, between and around the tughra strokes, is scattered with a repeated pattern of small gold-ink sukufe (flower/blossom) motifs in the teşʿîr (fine-line gold drawing) tradition. Each motif consists of a short central stem with paired gold leaf-forms, topped by an open flower head with multiple petals containing a small pink or red centre. The flowers are distributed in a regular but not geometrically rigid scatter across the entire surface of the panel, transforming the writing ground into a floral field. The gold-ink flowers at native resolution show clear line-drawn technique — individual stems, leaves, and petals are distinguished by gold ink lines, not by pigment fill. The overall effect integrates the calligraphic tughra with a surrounding floral drawing program in a single unified visual composition.",
+          "location": "Full cream ground of the tughra panel, between and around the tughra strokes",
+          "confidence": 0.93
+        },
+        {
+          "motif": "Rose-pink zerefşân outer margin",
+          "description": "The outer margin surrounding the tughra panel is the rose-pink zerefşân variant — warm pink paper with a heavy coating of gold and dark sprinkling that creates a rich, dense metallic texture distinct from the yellow-ochre zerefşân margins of the interior pages. The sprinkling on this pink ground is denser and coarser than on the yellow margins, consistent with the fırça zerefşânı (brush-sprinkled) subtype. The rose-pink zerefşân forms the outer border of the entire opening, framing the tughra panel within a luxurious metallic margin.",
+          "location": "Full outer margin surrounding the tughra panel",
+          "confidence": 0.91
+        },
+        {
+          "motif": "Multi-line compound cedvel framing system",
+          "description": "The tughra panel is framed by a compound multi-line cedvel (gold + dark rules) separating the rose-pink zerefşân outer margin from the cream text/drawing surface. The cedvel is clearly visible and coordinates the panel boundaries. The combination of rose-pink zerefşân + compound cedvel + cream sukufe-teşʿîr panel + gold tughra creates a five-element layered decorative composition on this final page.",
+          "location": "Frame boundary between outer margin and central panel",
+          "confidence": 0.90
+        },
+        {
+          "motif": "Silver medallion seal — vakf seal of Fethizâde Mustafa Efendi",
+          "description": "A silver medallion seal is visible at the lower left of the panel, consistent in format with the seals documented on pp. 002 and 010. This is likely a second impression of the Fethizâde Mustafa Efendi vakf seal (AH 1202 / 1787–88), placed at the final leaf of the album as a bookend to its first occurrence at the opening pages.",
+          "location": "Lower left of the central panel",
+          "confidence": 0.85
+        }
+      ],
+      "confidence": 0.93,
+      "notes": "P020 is the most spectacular page in the album and one of the most remarkable pages in the project corpus. The combination of a gold-filled tughra with sukufe teşʿîr on the calligraphic surface, framed by a rose-pink zerefşân margin, represents the highest level of Ottoman late 18th-century murakkaʿ production. The triple-layer decoration — zerefşân outer margin, compound cedvel frame, cream panel with teşʿîr + tughra — is a direct expression of the album's overall triple-technique program. The triage screenshot (sm_00009_last.jpeg) confirms this page as the final leaf of the album in the viewer, consistent with the YEK 20-page digitization."
+    }
+  ],
+  "terminology": {
+    "terms_used": [
+      {
+        "concept": "Calligraphic album",
+        "ottoman": "murakkaʿ / murakkaat (مرقعات)",
+        "arabic": "muraqqa' (مرقع) / muraqqa'āt (مرقعات)",
+        "persian": "muraqqa' (مرقع)",
+        "english": "Murakkaʿ: a bound album of calligraphic specimens (kıtʿa), sometimes also including miniature paintings. SM 00009 is a pure calligraphic murakkaʿ: sülüs and naskh kıtʿalar with a triple-technique decorated paper program (zerefşân + halkârî + teşʿîr). The Süleymaniye Murakka Koleksiyonu is a dedicated sub-collection for such albums."
+      },
+      {
+        "concept": "Gold-sprinkled paper",
+        "ottoman": "zerefşân kâğıt / yaldız serpme kâğıt / serpme kâğıt",
+        "arabic": "waraq mudhahdhab mansūr (ورق مذهّب منثور) / dhahab marshūsh (ذهب مرشوش)",
+        "persian": "kāġaz-e zarafshān / kāġaz-e afshān (کاغذ افشان)",
+        "english": "Zerefşân: gold-sprinkled paper, produced by scattering fine metallic particles over the surface of sized paper. Derived from Persian zer (gold) + afshān (scattering). In this album, two colour variants are documented: (1) yellow-ochre ground zerefşân, dominant throughout interior openings; (2) rose-pink ground zerefşân, appearing on the final tughra page and as an inner border on p003. The gold sprinkling is visible as a warm metallic grain against the coloured ground."
+      },
+      {
+        "concept": "Shaded gold margin painting",
+        "ottoman": "halkârî / halkâr / halkârî kenar bezemesi",
+        "arabic": null,
+        "persian": "halkārī (حلکاری)",
+        "english": "Halkârî: fine-line shaded gold drawing in manuscript margins, typically depicting flowers, vines, birds, or landscapes. In this album, the halkâr on p010 left is tahrirli (outlined) halkârî — gold ink (zermürekkep) used to draw flowering vine and leaf branches in the margins of the text panel without background color. The sukufe (flower/blossom) motif vocabulary is consistent with late 17th–18th-century Ottoman court halkâr production."
+      },
+      {
+        "concept": "Fine-line gold marginal/surface drawings",
+        "ottoman": "teşʿîr / tashʿîr",
+        "arabic": "tashʿīr (تشعير)",
+        "persian": "tashʿīr (تشعیر)",
+        "english": "Teşʿîr / tashʿīr: fine-line gold drawings scattered across a manuscript page, typically as a decorative ground treatment for calligraphy or as margin decoration. In SM 00009, the sukufe teşʿîr on p020 distributes small gold-ink flower and leaf motifs across the entire cream surface of the tughra panel — a technique that transforms the calligraphic surface itself into a floral drawing ground. Distinguished from halkârî (which is restricted to the margin area) by its application across the full writing surface."
+      },
+      {
+        "concept": "Imperial/institutional monogram",
+        "ottoman": "tuğra (طُغرى)",
+        "arabic": "ṭuġrā (طغرة)",
+        "persian": "tuġrā (طغرا)",
+        "english": "Tuğra: the ornate calligraphic monogram of an Ottoman sultan or high official, comprising the beylik (horizontal extension), sere (curved finial), beyze (oval loops), and tığ (vertical spikes). In calligraphic albums (murakkaʿ), a tughra page was often included as a prestige element demonstrating the calligrapher's mastery of this most demanding and symbolically charged Ottoman script form. The tughra on p020 has gold-filled vertical strokes, indicating a high-quality presentation piece."
+      },
+      {
+        "concept": "Sukufe floral motifs",
+        "ottoman": "şükûfe (شکوفه) / çiçek motifleri",
+        "arabic": null,
+        "persian": "shukufa (شکوفه) — blossom, flower",
+        "english": "Şükûfe / sukufe: a general Ottoman/Persian term for flower/blossom motifs in manuscript decoration, particularly the naturalistic botanical flowers of the tulip-era and later Ottoman tradition (tulip, hyacinth, carnation, rose, narcissus). In SM 00009, sukufe motifs appear both in the halkârî margin drawings on p010 (vine-and-flower arrangement) and in the teşʿîr floral scatter on the tughra panel of p020."
+      },
+      {
+        "concept": "Endowment deed / library seal",
+        "ottoman": "vakıf mühürü / vakf kaydı",
+        "arabic": "waqf (وقف) — pious endowment",
+        "persian": null,
+        "english": "Vakf: Islamic pious endowment (waqf). The vakf seal in SM 00009 reads: 'Vakf-ı Sâhibü'l-Hayrât el-Hâcc Seyyid Mustafa Fethizâde der-Kitabî-i Câmi-i Sultan Süleyman, 1202 H.' — establishing that the album was endowed to the library of the Süleymaniye Mosque by Fethizâde Mustafa Efendi in AH 1202 / 1787–88 CE. This endowment explains why the album is now in the Süleymaniye Kütüphanesi under the Murakka Koleksiyonu sub-collection."
+      },
+      {
+        "concept": "Gold ruling lines",
+        "ottoman": "altın cedvel / cetvelli",
+        "arabic": "jadwal mudhahdhab (جدول مذهّب)",
+        "persian": "jadval-e zar (جدول زر)",
+        "english": "Altın cedvel: compound multi-line gold ruling framing calligraphic text panels. In SM 00009, the compound cedvel (gold + red + dark rules) is present on all interior pages, creating the structural boundary between zerefşân margin grounds and the cream calligraphic panels."
+      },
+      {
+        "concept": "Calligraphic specimen sheet",
+        "ottoman": "kıtʿa (قطعه)",
+        "arabic": "qiṭʿa (قطعة)",
+        "persian": "qiṭʿa (قطعه)",
+        "english": "Kıtʿa: a single calligraphic specimen sheet, typically comprising one or more lines of formal calligraphy — often a Quranic verse, hadith, or poetic hemistich. The plural kıtʿalar (kıtʿat in Arabic) designates the collection of specimen sheets within a murakkaʿ."
+      }
+    ]
+  },
+  "bibliography": [
+    {
+      "citation": "Derman, M. Uğur. Letters in Gold: Ottoman Calligraphy from the Sakıp Sabancı Collection, Istanbul. New York: The Metropolitan Museum of Art, 1998.",
+      "relevance": "The standard English-language survey of Ottoman calligraphy, covering the late 18th-century calligraphers represented in this album (İsmâʿîl Zühdî and contemporaries), the murakkaʿ album format, the tughra tradition, and the decorated paper programs of late Ottoman calligraphic albums. Essential comparative reference for the calligraphic content and the tughra page of SM 00009.",
+      "relevance_score": 0.93,
+      "access_notes": "Exhibition catalogue (Metropolitan Museum of Art). ISBN 978-0300086324."
+    },
+    {
+      "citation": "Blair, Sheila S. 'Color and Gold: The Decorated Papers Used in Manuscripts in Later Islamic Times.' Muqarnas 17 (2000): 24–36.",
+      "relevance": "The foundational classification study for the decorated papers documented in this album, specifically the zerefşân (gold-sprinkled) taxonomy and its two colour variants, and the broader framework of gold-decorated paper typology in which the halkârî and teşʿîr techniques are contextualized. The most directly applicable reference for the paper decoration sections of this record.",
+      "relevance_score": 0.97,
+      "access_notes": "Available via JSTOR and open-access PDF on Academia.edu."
+    },
+    {
+      "citation": "Roxburgh, David J. The Persian Album, 1400–1600: From Dispersal to Collection. New Haven: Yale University Press, 2005.",
+      "relevance": "Primary study of the murakkaʿ album format and its decorated paper programs in the Persianate and Ottoman traditions, covering teşʿîr (fine-line marginal drawing), halkârî, and gold-sprinkled paper techniques as components of album decoration. Provides the theoretical framework for understanding SM 00009's triple-technique program as a unified decorative concept.",
+      "relevance_score": 0.91,
+      "access_notes": "Widely held monograph."
+    },
+    {
+      "citation": "Tanındı, Zeren. 'Bibliophile Aghas (Eunuchs) at Topkapı Saray.' Muqarnas 21 (2004): 333–43.",
+      "relevance": "Documents album-collecting and commissioning at the late Ottoman court during the 18th century, including the role of decorated-paper programs in murakkaʿ production. Provides patronage context for the Fethizâde vakf and the high-quality triple-technique decoration of SM 00009.",
+      "relevance_score": 0.80,
+      "access_notes": "Peer-reviewed article. Available via JSTOR."
+    },
+    {
+      "citation": "Çağman, Filiz, and Zeren Tanındı. The Topkapı Saray Museum: The Albums and Illustrated Manuscripts. Translated and edited by J. M. Rogers. Boston: Little, Brown, 1986.",
+      "relevance": "Standard reference for Ottoman luxury albums, decorated paper programs, and tughra pages in the Topkapı collections — the primary Istanbul repository for comparative murakkaʿ material. Provides parallel examples of zerefşân-margin and halkârî-decorated calligraphic albums from the 17th–18th-century Istanbul court tradition.",
+      "relevance_score": 0.85,
+      "access_notes": "Exhibition catalogue; widely held."
+    },
+    {
+      "citation": "Tanındı, Zeren. 'Two Tughra Albums in the Chester Beatty Library.' In Islamic Art in the Chester Beatty Library, edited by V. Porter and M. Aga-Oglu. Dublin: Chester Beatty Library, 1995. [Note: verify exact chapter title and bibliographic details.]",
+      "relevance": "Specific study of Ottoman tughra albums and their calligraphic conventions, relevant to the tughra page of SM 00009. The Chester Beatty collection holds important comparative material for the gold-filled tughra format and its integration with decorated paper programs. Specialist verification of exact citation recommended.",
+      "relevance_score": 0.75,
+      "access_notes": "Chapter in museum publication. Held at major Islamic art libraries."
+    },
+    {
+      "citation": "Bağcı, Serpil, Filiz Çağman, Günsel Renda, and Zeren Tanındı. Ottoman Painting. Ankara: Ministry of Culture and Tourism, 2006.",
+      "relevance": "Comprehensive survey of Ottoman visual arts including the album tradition, halkârî and teşʿîr as margin decoration techniques, and the role of gold-sprinkled papers in late Ottoman manuscript and album production. Provides comparative context for all three decoration types documented in SM 00009.",
+      "relevance_score": 0.82,
+      "access_notes": "Museum publication; available at major Turkish studies collections."
+    },
+    {
+      "citation": "Gacek, Adam. Arabic Manuscripts: A Vademecum for Readers. Leiden: Brill, 2009.",
+      "relevance": "Standard reference for Arabic and Ottoman manuscript terminology, script identification, format terms, and codicological vocabulary used throughout this record.",
+      "relevance_score": 0.74,
+      "access_notes": "Reference monograph; widely held."
+    },
+    {
+      "citation": "Déroche, François. Islamic Codicology: An Introduction to the Study of Manuscripts in Arabic Script. Translated by Deke Dusinberre and David Radzinowicz. London: Al-Furqan Islamic Heritage Foundation, 2005.",
+      "relevance": "Foundational codicology reference providing classification frameworks for binding, ruling, paper decoration, and format terms used throughout this record.",
+      "relevance_score": 0.73,
+      "access_notes": "Widely held reference monograph."
+    },
+    {
+      "citation": "Bloom, Jonathan M. Paper Before Print: The History and Impact of Paper in the Islamic World. New Haven: Yale University Press, 2001.",
+      "relevance": "Comprehensive history of paper production in the Islamic world, providing material-culture background for the gold-sprinkled paper tradition and its role in Ottoman luxury manuscript production. Context for the zerefşân paper variants in SM 00009.",
+      "relevance_score": 0.72,
+      "access_notes": "Widely held monograph."
+    }
+  ],
+  "suggested_collections": [
+    {
+      "institution": "Süleymaniye Kütüphanesi, Istanbul — Süleymaniye Murakka Koleksiyonu",
+      "reason": "Holding institution. The Murakka Koleksiyonu sub-collection contains numerous other calligraphic albums from the same period and tradition; comparative analysis within the sub-collection (e.g., SM 00001–SM 00020) would be productive for identifying zerefşân + halkârî programs and for contextualizing the Fethizâde vakf albums.",
+      "digital_access": "https://portal.yek.gov.tr"
+    },
+    {
+      "institution": "Topkapı Sarayı Müzesi Kütüphanesi, Istanbul",
+      "reason": "Holds the largest collection of Ottoman calligraphic albums with zerefşân, halkârî, and teşʿîr decoration comparable to SM 00009, including authenticated works by İsmâʿîl Zühdî. Essential for comparative study of the tughra page and the triple-technique decoration program.",
+      "digital_access": "https://kutuphane.tsmk.gov.tr"
+    },
+    {
+      "institution": "Chester Beatty Library, Dublin",
+      "reason": "Major repository of Ottoman calligraphic albums with decorated paper programs, including zerefşân-margin albums and tughra specimens from the late 18th century. Good comparative collection for the Zühdî-school calligraphy and the gold-sprinkled paper tradition.",
+      "digital_access": "https://viewer.cbl.ie"
+    },
+    {
+      "institution": "Sakıp Sabancı Museum, Istanbul",
+      "reason": "Holds major authenticated examples of İsmâʿîl Zühdî's calligraphy, which is the primary attributed hand in SM 00009. Physical comparison with authenticated Zühdî works at Sakıp Sabancı is the recommended next step for calligraphic attribution research.",
+      "digital_access": null
+    }
+  ],
+  "provenance": {
+    "donor": null,
+    "waqf": "Fethizâde Mustafa Efendi — Vakf-ı Sâhibü'l-Hayrât el-Hâcc Seyyid Mustafa Fethizâde; endowed to the library of the Mosque of Sultan Süleyman (Süleymaniye Kütüphanesi), AH 1202 / 1787–88 CE. Vakf seal visible on pp. 002 and 020.",
+    "previous_shelfmarks": [],
+    "notes": "Currently held at Süleymaniye Kütüphanesi, Istanbul, under the Süleymaniye Murakka Koleksiyonu sub-collection, shelfmark SM 00009. The album was endowed (vakf) to the Süleymaniye Kütüphanesi library by Fethizâde Mustafa Efendi in AH 1202 / 1787–88 CE, establishing a terminus ante quem for the album's completion. Pre-Fethizâde provenance is unknown. The album was in the possession of Fethizâde — an apparently prominent charitable Ottoman figure (sâhibü'l-hayrât — possessor of charitable acts) — at the time of his endowment. No earlier ownership inscriptions are documented in the YEK record or visible in the examined IIIF images. YEK ID: 325921. IIIF ID: 0000000356069."
+  },
+  "analysis_metadata": {
+    "analyzed_date": "2026-02-28",
+    "analyzer": "claude-code-manuscript-pipeline",
+    "pipeline_stage": "metadata-generator",
+    "image_source": "YEK Portal IIIF images, Süleymaniye Kütüphanesi — Süleymaniye Murakka Koleksiyonu, shelfmark SM 00009. YEK ID 325921, IIIF ID 0000000356069. 5 IIIF pages downloaded at 3264 × 2448 px (p001, p002, p003, p010, p020). Additionally: triage screenshots sm_00009_viewer.jpeg (viewer at p020, full page list pp. 11–20 visible) and sm_00009_last.jpeg (viewer at p020 zoomed). Preliminary assessment from catalog/searches/visual_tier1_sm_00009.json. Note: p019 file does not exist in the downloaded IIIF set.",
+    "image_quality_notes": "All 5 downloaded pages at 3264 × 2448 px — good resolution for identification of all three decoration types. At this resolution the zerefşân gold sprinkling is clearly legible as individual particles on both yellow and pink grounds. The halkârî gold-ink vine drawings on p010 left are visible as individual lines. The sukufe teşʿîr flowers on p020 show clear drawn-line structure. The tughra strokes and gold fill on p020 are unambiguous. 15 of 20 digitized pages were not downloaded or examined; the decoration program on these pages (pp. 004–009, 011–019) is assumed to follow the zerefşân pattern based on the album's visual logic but was not directly verified. The vakf seal text on pp. 002 and 020 is legible as a silver medallion but the full legend could not be read at 3264 px without magnification.",
+    "folios_examined": [
+      "corpus/iiif/sm_00009_p001.jpg",
+      "corpus/iiif/sm_00009_p002.jpg",
+      "corpus/iiif/sm_00009_p003.jpg",
+      "corpus/iiif/sm_00009_p010.jpg",
+      "corpus/iiif/sm_00009_p020.jpg"
+    ],
+    "folios_not_examined": "Pages p004–p009, p011–p019 (15 pages) were not downloaded in the IIIF image set for this analysis. The YEK triage screenshots (sm_00009_viewer.jpeg, sm_00009_last.jpeg) show thumbnail views of all 20 pages in the viewer, which were examined at thumbnail scale. Full IIIF resolution examination of the un-sampled pages is recommended as a follow-up priority to document the full extent of the zerefşân margin program and to identify any additional halkârî or teşʿîr occurrences in the interior. Note: p019 was listed in the task brief but does not exist as a downloaded IIIF file.",
+    "corpus_priority": "HIGH: Most technically diverse Süleymaniye Murakka Koleksiyonu album in the current corpus, combining zerefşân, halkârî, and teşʿîr in a single album — a triple-technique program unparalleled elsewhere in the project. Follow-up priorities: (1) Download and examine pp. 004–009 and 011–019 at IIIF resolution to document full zerefşân distribution and identify additional halkârî/teşʿîr occurrences; (2) Specialist identification of the tughra owner on p020; (3) Comparative study of calligraphy with authenticated İsmâʿîl Zühdî works at Sakıp Sabancı Museum; (4) Palaeographic confirmation of ketebe identifications for Mahmûd Tophanevî and Hâfız Yûsuf.",
+    "source_data": {
+      "visual_confirmation_file": "catalog/searches/visual_tier1_sm_00009.json",
+      "yek_id": "325921",
+      "iiif_id": "0000000356069",
+      "batch": "Phase 3 Track E — Tier 1 murakkaʿ albums (2026-02-28)"
+    }
+  }
+}

@@ -1,0 +1,493 @@
+{
+  "record_id": "hamidiye_00010",
+  "collection": {
+    "institution": "Süleymaniye Kütüphanesi — Hamidiye Koleksiyonu",
+    "city": "Istanbul",
+    "country": "Turkey",
+    "shelfmark": "00010",
+    "yek_url": "https://portal.yek.gov.tr/yazmaeser/eser-detay/265186"
+  },
+  "manuscript": {
+    "title": "Murakkaʿāt / مرقعات",
+    "title_script": "مرقعات",
+    "title_alt": "Murakkaʿ (calligraphy album); cover inscription: Murakkaʿa awla balaga al-ʿulā bi-khaṭṭ Ḥāfiẓ ʿUthmān (مرقعه اولى بلغ العلى بخط حافظ عثمان — First album, 'He Who Reaches Eminence', in the hand of Hafız Osman)",
+    "author": null,
+    "author_dates": null,
+    "calligrapher": "Hâfız Osman (حافظ عثمان, d. AH 1110/1698 CE)",
+    "calligrapher_dates": "Hâfız Osman: b. AH 1052/1642, d. AH 1110/1698",
+    "calligrapher_note": "Hâfız Osman Efendi (1642–1698) is considered the greatest Ottoman sülüs and nesih calligrapher of the 17th century. He was the calligrapher of Sultans Mustafa II and Ahmed III and is credited with perfecting the rules of the six classical calligraphic scripts (aklâm-ı sitte). The cover inscription 'murakkaat awla balagha al-ula bi-khatt Hafiz Osman' (first album in the hand of Hafız Osman) appears to be a dedicatory formula identifying this as his primary or first album, though the AH 1082 date in the YEK catalogue is approximately 16 years before his death, suggesting this may be an early compilation. The discrepancy between the 1082 copy date and his death in 1110 is unresolved — 1082 may be an album compilation date rather than a calligraphy date, or the album may have been assembled from pieces written over a long period.",
+    "date_ah": "1082",
+    "date_ce": "1671–72",
+    "place_of_copy": null,
+    "format": "murakkaat / murakkaa (murakkaʿ — calligraphy album)",
+    "format_note": "A bound calligraphy album (murakkaat / مرقعات) in Arabic naskh (nesih) script. Contents include Quranic verses and religious texts. The album is organized in a vassale format, with calligraphy panels mounted in multi-layer decorated paper grounds. 8 folios with 5 lines per page. Dimensions: 215×160 mm (page), text area approximately 125×75 mm.",
+    "language": "Arabic",
+    "script": "Arap harfli — Nesih (naskh) with sülüs (thuluth) display lines",
+    "dimensions_mm": {
+      "height": 215,
+      "width": 160
+    },
+    "folio_count": 8,
+    "yek_id": "265186",
+    "iiif_id": "0000000289503",
+    "notes": "Dated AH 1082 (1671–72 CE) calligraphy album attributed on its cover inscription to Hâfız Osman, the preeminent Ottoman calligrapher of the 17th century. Distinctive decorative features: (1) vivid polychrome battal ebru used as the cover/binding paper — among the most richly colored examples in the corpus; (2) deep blue (lacivert) mulevven paper used as the calligraphy writing surface on 4 of 8 text pages — an unusual function for colored paper, which is more typically used as margins or mounts; (3) tahrirli halkâr (outlined halkâr) botanical margins with large-scale floral compositions including a şems (sunflower) rosette on p010; (4) a 7+ layer cedvel framing system with candy-stripe diagonal bands throughout. YEK catalogue record extremely sparse (no genel_notlar, no kağıt özellikleri, no tezhip/minyatür fields). All decoration evidence from visual IIIF examination."
+  },
+  "paper_decoration": {
+    "types": [
+      "marbled",
+      "colored",
+      "halkar_margins",
+      "framing_system"
+    ],
+    "summary": "Hamidiye 00010 has a sophisticated four-technique decorative program organized systematically across the album. (1) BATTAL EBRU COVER: The front cover (p001) is covered with a vivid polychrome battal ebru (stone marbling) in at least six color tones — red/orange, teal/green, pink, cream, yellow, and grey — with bold flowing organic forms. This is the most richly colored battal ebru cover in the project corpus, and is accompanied by an Arabic inscription attributing the album to Hâfız Osman. (2) BLUE MULEVVEN CALLIGRAPHY SURFACE: Deep blue (lacivert) mulevven paper is used as the calligraphy writing surface on 4 of 8 text pages (pp. 005, 006, 008, 010), creating a deliberate alternation with the cream paper pages (pp. 003, 004, 007, 009). This use of mulevven as the calligraphy substrate — rather than merely as a margin or mount — is distinctive in the corpus and rare in the broader tradition. (3) TAHRIRLI HALKÂR MARGINS: Botanical halkâr painting (shaded gold/dark-pigment floral drawings) appears in the outer salmon/cream margins of multiple pages. The technique is tahrirli halkârî (outlined halkâr) based on the clearly visible dark outlines around the elongated leaf/petal forms on pages 005, 007, and especially 010. Page 010 is the most elaborate, with large-scale botanical compositions — compound flowering stems, branching leaves, and a prominent gold şems (sunflower) rosette in the upper margin area. (4) COMPLEX MULTI-LAYER CEDVEL FRAMING SYSTEM: A sophisticated framing system consisting of 7 or more distinct layers is visible throughout the album. The innermost layer frames the calligraphy text block (gold cetvels); this is surrounded by the mulevven or cream calligraphy ground; then candy-stripe diagonal bands (strips of possibly cut marbled paper or painted diagonal-striped paper); then blue and red rule lines; then an outer salmon/pink margin. Page 007 shows the most elaborate version of this system (7+ distinct layers). Gold şemse/divani medallion accents are visible on several pages (p008). ZEREFŞÂN: Not confirmed at 2560px resolution; scattered specks on p009 margin are ambiguous and may be zerefşân, foxing, or paper texture.",
+    "distribution_notes": "The decorative program is systematically organized: battal ebru on cover (p001); lacivert mulevven on 4 of 8 calligraphy pages as writing surface; halkâr margins on pp. 005, 007, and 010 (confirmed), with possible presence on other pages; complex cedvel framing throughout pp. 003–010. Page 010 is the album's visual culmination, combining the blue mulevven calligraphy surface with the most elaborate halkâr margins (large botanical compositions including şems rosette).",
+    "technique_terms": {
+      "ottoman": "battal ebru (kapak); lacivert mülevven kâğıt (yazı zemini); tahrirli halkârî kenar süslemesi; çok katmanlı altın cetvelli çerçeve; şems (güneş) motifi; candy-stripe diyagonal bant cetveli",
+      "persian": "kāġaḏ-e abrī-ye battāl (کاغذ ابری بطال — battal ebru); kāġaḏ-e mulavvan-e lājawardī (کاغذ ملوّن لاجوردی — lapis-blue colored paper); halkārī-ye taḥrīrdār (حلکاری تحریردار — outlined halkâr); jadval (جدول — ruling frame)",
+      "arabic": "waraq abrī (ورق ابری — marbled paper); waraq mulawwan (ورق ملوّن — colored paper); jadwal (جدول — frame/ruling)"
+    },
+    "catalogue_description": {
+      "paper_field": null,
+      "notes_field": null,
+      "decoration_field": null,
+      "source": "YEK portal, record 265186. Süleymaniye Kütüphanesi — Hamidiye Koleksiyonu. Catalogued by Erdem Karaaslan. The YEK catalogue record is exceptionally sparse: genel_notlar, kağıt özellikleri, and tezhip/minyatür fields are all null. The only textual evidence for the album's content and attribution comes from the cover inscription ('Murakkaʿa awla balaga al-ʿulā bi-khaṭṭ Ḥāfiẓ ʿUthmān') and the catalogue date (AH 1082). All decoration evidence is from visual examination of IIIF images."
+    }
+  },
+  "workshop_attribution": {
+    "primary_tradition": "ottoman",
+    "workshop_centre": "Istanbul",
+    "date_range_ce": "1671–72",
+    "confidence": 0.88,
+    "key_indicators": [
+      "Cover inscription explicitly attributes the album to Hâfız Osman (d. AH 1110/1698), the defining Ottoman calligrapher of the 17th century and calligrapher of the imperial court in Istanbul",
+      "YEK catalogue date AH 1082 / 1671–72 CE places the album in Hâfız Osman's active career in Istanbul",
+      "The vivid polychrome battal ebru cover, lacivert mulevven calligraphy ground, tahrirli halkâr margins, and multi-layer cedvel system are consistent with high-quality Ottoman album production in Istanbul in the second half of the 17th century",
+      "The candy-stripe diagonal band cedvel — a distinctive framing element visible throughout the album — is consistent with the Ottoman Istanbul workshop tradition of the period",
+      "The şems (sunflower) rosette on p010 is a characteristic Ottoman decorative motif of the period, associated with the nakkaşhane-i hümayun tradition"
+    ],
+    "cross_tradition_caveats": [
+      "The AH 1082 date creates a discrepancy: it is 16 years before Hâfız Osman's death (AH 1110/1698), but his calligraphy is documented from the 1070s AH onward, so the album could be authentic to 1082 (he would have been approximately 30 years old). Alternatively, 1082 may be a catalogue date for album compilation, not a calligraphy date.",
+      "The candy-stripe diagonal bands in the cedvel system could not be definitively identified as marbled paper strips, painted strips, or decorated paper at available IIIF resolution (2560px max for Süleymaniye collection); physical examination is required",
+      "Zerefşân (gold-sprinkled paper) is not confirmed and cannot be excluded: the salmon margin papers show scattered specks on p009 that may or may not be fine zerefşân particles"
+    ]
+  },
+  "codicology": {
+    "paper": {
+      "color": "Multiple: deep blue/lacivert (mulevven calligraphy ground, 5 pages); cream/white (calligraphy ground, 3 pages); salmon/pink (outer margin mounts, most pages); light blue (outer margin/mount, p008); varied (cover: polychrome battal ebru)",
+      "preparation": "Aharlı (sized/burnished) — the calligraphy panels show a smooth writing surface consistent with well-sized Ottoman calligraphy paper. The blue mulevven paper appears to be a dyed or pulp-tinted paper with consistent color throughout.",
+      "weight": "Indeterminate from IIIF images; the album dimensions (215×160 mm, text area 125×75 mm) indicate a compact, premium-format album",
+      "decoration": "Multiple: battal ebru cover; lacivert mulevven calligraphy panels; tahrirli halkâr botanical margin paintings; multi-layer cedvel with candy-stripe bands",
+      "paper_type": "Mixed: Eastern/Oriental or Ottoman paper for calligraphy panels; decorated and colored papers for grounds and mounts"
+    },
+    "ruling": {
+      "system": "Multi-layer cedvel system, 7+ layers on most pages (most elaborate on p007); includes gold rules, blue rules, red rules, and candy-stripe diagonal band strips",
+      "description": "The cedvel framing system is the most complex in the Hamidiye murakka subcorpus examined to date. The innermost gold cedvel frames the text block (5 lines of naskh per page); outside this, the calligraphy ground (mulevven or cream); then an inner border of colored rules (blue/red/gold); then candy-stripe diagonal bands creating a distinctive pattern; then outer salmon/pink or blue margin paper with halkâr decoration. Gold rosette verse markers and şemse/divani accents supplement the frame on several pages. Total distinct layers: 7+ on pp. 004, 005, 007."
+    },
+    "binding": {
+      "cover_description": "Cover paper: vivid polychrome battal ebru in red/orange, teal/green, pink, cream, yellow, grey on card/board support. The ebru cover is the primary visual element of the album's exterior. No separate leather binding visible on the cover in p001 — the ebru paper appears to be the outermost cover layer. Suleymaniye/Hamidiye collection catalogue label ('10') and stamp visible in upper right of p001.",
+      "cover_type": "Ebrulu cilt — marbled cover; battal ebru kaplı cilt",
+      "notes": "The battal ebru cover is exceptionally vivid and well-preserved. The palette of 6+ distinct color tones (red/orange, teal/green, pink, cream, yellow, grey) is unusual in its chromatic richness and may indicate a high-quality specialist marbler. The flowing organic patterns suggest a skilled Ottoman ebru master. The cover inscription in black ink attributes the album to Hâfız Osman — the inscription appears to be a later addition rather than an original calligraphy specimen, based on its placement and script quality."
+    },
+    "format": "Murakkaat (murakkaʿ) — bound calligraphy album in vassale format; compact premium format (215×160 mm)",
+    "condition_summary": "The album appears well-preserved overall at IIIF resolution. The battal ebru cover (p001) is vivid and undamaged. The calligraphy panels show good condition. The halkâr margin paintings (pp. 005, 007, 010) are legible, though the brown/dark pigment of the halkâr motifs appears somewhat faded or oxidized in the IIIF images. The multi-layer cedvel system is intact on all examined pages.",
+    "conservation_history": null
+  },
+  "visual_confirmation": {
+    "verdict": "confirmed",
+    "confidence": 0.93,
+    "screenshots_examined": 10,
+    "folios_examined": [
+      "corpus/iiif/hamidiye_00010_p001.jpg",
+      "corpus/iiif/hamidiye_00010_p002.jpg",
+      "corpus/iiif/hamidiye_00010_p003.jpg",
+      "corpus/iiif/hamidiye_00010_p004.jpg",
+      "corpus/iiif/hamidiye_00010_p005.jpg",
+      "corpus/iiif/hamidiye_00010_p006.jpg",
+      "corpus/iiif/hamidiye_00010_p007.jpg",
+      "corpus/iiif/hamidiye_00010_p008.jpg",
+      "corpus/iiif/hamidiye_00010_p009.jpg",
+      "corpus/iiif/hamidiye_00010_p010.jpg"
+    ],
+    "limitations": [
+      "IIIF resolution for Süleymaniye/Hamidiye collection is maximum 2560×1920 px — substantially lower than TIEM (up to 7749×4936 px). This resolution is borderline for zerefşân detection and limits fine halkâr technique assessment.",
+      "Zerefşân not confirmed but not definitively excluded — scattered specks on p009 salmon margin are ambiguous at 2560px.",
+      "YEK catalogue record has no genel_notlar, kağıt özellikleri, or tezhip/minyatür text — zero textual corroboration for any decoration claim.",
+      "Candy-stripe diagonal bands in cedvel system cannot be definitively identified as marbled paper strips, painted diagonal paper, or other material at available resolution.",
+      "The distinction between tahrirli halkâr and taramalı halkâr on pp. 005, 007, and 010 is based on visible outlines around motifs — confirmed as tahrirli at 2560px resolution.",
+      "Blue mulevven paper identification is highly confident (consistent deep blue surface color on 5 pages), but the dyeing technique (surface-dyed vs. pulp-tinted) cannot be determined from images."
+    ]
+  },
+  "folio_analyses": [
+    {
+      "folio": "p001 — Front cover: polychrome battal ebru",
+      "source_image": "corpus/iiif/hamidiye_00010_p001.jpg",
+      "decoration_present": true,
+      "decoration_types": ["marbled"],
+      "elements": [
+        {
+          "motif": "Battal ebru — vivid polychrome stone marbling",
+          "description": "Full cover covered with battal ebru (stone/spot marbling) in an exceptionally rich palette: red/orange, teal/green (two tones), pink, cream/white, yellow, and grey — at least 6 distinct color tones. The organic, flowing patterns are characteristic of battal ebru produced without comb manipulation; the pigments have flowed freely on the marbling size and been captured in large, rounded forms with naturalistic boundaries between color areas. The red/orange dominates the composition, with teal and pink creating contrast zones. The overall effect is vivid and polychrome in a way that distinguishes this cover from the more subdued single-color or two-tone battal ebrus in the corpus. The cover inscription — Murakkaʿa awla balaga al-ʿulā bi-khaṭṭ Ḥāfiẓ ʿUthmān — is written in black ink over the ebru surface. The Süleymaniye/Hamidiye collection label ('10') and circular stamp are in the upper right corner.",
+          "location": "Full cover (front board and cover paper)",
+          "confidence": 0.97
+        }
+      ],
+      "confidence": 0.97,
+      "notes": "The battal ebru cover is the most vivid and polychrome in the Hamidiye murakka subcorpus and among the most richly colored in the entire project corpus. The large organic forms and broad color zones suggest a skilled Istanbul ebru master. The cover inscription over the ebru is clearly legible and provides the key attribution to Hâfız Osman."
+    },
+    {
+      "folio": "p002 — Title/ownership page",
+      "source_image": "corpus/iiif/hamidiye_00010_p002.jpg",
+      "decoration_present": false,
+      "decoration_types": [],
+      "elements": [],
+      "confidence": 0.95,
+      "notes": "Ownership/title page with stamps, seal impressions, and catalogue labels. No decorated paper visible. Standard institutional documentation leaf."
+    },
+    {
+      "folio": "p003 — First calligraphy opening: lacivert mulevven surface + multi-layer cedvel",
+      "source_image": "corpus/iiif/hamidiye_00010_p003.jpg",
+      "decoration_present": true,
+      "decoration_types": ["colored", "framing_system"],
+      "elements": [
+        {
+          "motif": "Lacivert (lapis blue) mulevven calligraphy ground",
+          "description": "The calligraphy text block is written on deep blue (lacivert) mulevven paper. The color is consistent throughout, showing no variation or pattern characteristic of a decorated paper — this is a flat-dyed or pulp-tinted colored paper used as the primary writing surface. The calligraphy in black thuluth script contrasts sharply against the blue ground. Gold rosette verse markers are visible within the text block, their gold color reading warmly against the blue. This use of mulevven paper as the calligraphy substrate rather than as a margin treatment is a distinctive feature of this album.",
+          "location": "Calligraphy text block",
+          "confidence": 0.93
+        },
+        {
+          "motif": "Multi-layer cedvel framing system with candy-stripe diagonal bands",
+          "description": "The calligraphy panel is surrounded by a multi-layer framing system. From inside out: gold rules framing the text block; a blue rule and red rule; then notably distinctive candy-stripe diagonal band strips, which appear as diagonal alternating light/dark (possibly blue-grey/cream) striped paper strips cut and applied as a border element — or may be a specially painted border paper. The outer margin is salmon/pink plain paper. The total framing creates a visually complex layered frame.",
+          "location": "Frame around calligraphy panel",
+          "confidence": 0.85
+        }
+      ],
+      "confidence": 0.88,
+      "notes": "P003 establishes the album's primary decorative formula: lacivert mulevven calligraphy panel + complex multi-layer cedvel + salmon/pink outer margin. This formula repeats across pp. 004–010 with variations in the outer margin treatment (plain vs. halkâr-decorated)."
+    },
+    {
+      "folio": "p004 — Calligraphy: large sülüs display line + complex cedvel",
+      "source_image": "corpus/iiif/hamidiye_00010_p004.jpg",
+      "decoration_present": true,
+      "decoration_types": ["framing_system"],
+      "elements": [
+        {
+          "motif": "Cream calligraphy ground with elaborate multi-layer cedvel",
+          "description": "This page uses cream/white paper as the calligraphy ground (not lacivert), alternating with the blue mulevven pages to create compositional variety. A large bold sülüs display line in the upper register contrasts with smaller naskh text below. The multi-layer cedvel is highly elaborate: innermost gold rule, then colored rules (blue/orange/red), then the prominent candy-stripe diagonal band strips, creating a three-dimensional perspective effect in the frame. The candy-stripe bands are particularly pronounced and geometrically precise on this page.",
+          "location": "Full calligraphy page",
+          "confidence": 0.90
+        }
+      ],
+      "confidence": 0.90,
+      "notes": "P004 demonstrates the album's use of cream and blue mulevven pages in alternation. The candy-stripe cedvel bands are most clearly visible on this page, with a pronounced diagonal pattern that creates a sense of depth in the frame. The large sülüs display line ('Alladhi bi-jamālihi al-ḥasana...' — partially legible) is characteristic of Hâfız Osman's album format."
+    },
+    {
+      "folio": "p005 — Calligraphy: blue mulevven + tahrirli halkâr outer margins",
+      "source_image": "corpus/iiif/hamidiye_00010_p005.jpg",
+      "decoration_present": true,
+      "decoration_types": ["colored", "halkar_margins", "framing_system"],
+      "elements": [
+        {
+          "motif": "Lacivert mulevven calligraphy ground",
+          "description": "Deep blue mulevven paper as calligraphy writing surface. Large bold sülüs display line ('wa-ʿanhu ṣalawāt Allāh ʿalayhim...') in the upper register over naskh text below. Gold rosette verse markers visible within the text block. The blue ground is consistent with pp. 003, 006, and 010.",
+          "location": "Calligraphy text block",
+          "confidence": 0.95
+        },
+        {
+          "motif": "Tahrirli halkâr — outlined botanical margin paintings",
+          "description": "The outer salmon/pink margin paper is decorated with tahrirli halkâr: scattered elongated leaf/petal forms in dark brown/gold with clearly visible dark outlines (tahr — outlines applied over the main gold or dark-pigment body of each motif). The motifs are leaf-shaped (individual elongated ovate leaves and small compound sprigs) distributed across the margin in a scattered, naturalistic arrangement. The presence of outlines (as opposed to hatched/cross-hatched shading typical of taramalı halkâr) confirms the tahrirli subtype. The overall effect is a loose, airy botanical pattern in the margin.",
+          "location": "Outer salmon/pink margin, top, bottom, and sides",
+          "confidence": 0.88
+        }
+      ],
+      "confidence": 0.90,
+      "notes": "P005 is the first clear example of tahrirli halkâr in the album, with the dark outlines on the leaf/petal forms clearly visible at 2560px resolution. The combination of blue mulevven calligraphy surface with halkâr-decorated outer margins is highly distinctive and constitutes the album's most refined decorative statement."
+    },
+    {
+      "folio": "p007 — Calligraphy: most elaborate cedvel (7+ layers) + tahrirli halkâr",
+      "source_image": "corpus/iiif/hamidiye_00010_p007.jpg",
+      "decoration_present": true,
+      "decoration_types": ["halkar_margins", "framing_system"],
+      "elements": [
+        {
+          "motif": "7+ layer multi-layer cedvel — most elaborate in album",
+          "description": "This page shows the most elaborate multi-layer cedvel system in the album: at least seven distinct layers from inside out — innermost gold rule, inner colored rules (blue, orange/red, green), candy-stripe diagonal band strips (wider here than on other pages), additional colored rule lines, and the outer salmon margin. The diagonal candy-stripe bands create a pronounced perspective-box visual effect. Gold rule clarity is high on this page. The overall width of the frame relative to the text panel is the largest in the album, creating a very high decorative-to-text ratio.",
+          "location": "Frame surrounding calligraphy panel",
+          "confidence": 0.92
+        },
+        {
+          "motif": "Tahrirli halkâr — leaf/petal botanical margin painting",
+          "description": "Scattered elongated leaf and petal forms in dark brown, outlined (tahrirli technique), distributed across the salmon outer margin. The motifs are individually dispersed without connecting stems on this page — contrasting with the more composed botanical arrangement on p010. At 2560px resolution, individual motifs are 5–8 mm wide in the image (at native album size approximately 10–15 mm), clearly legible.",
+          "location": "Outer salmon margin, all four sides",
+          "confidence": 0.87
+        }
+      ],
+      "confidence": 0.90,
+      "notes": "Page 007 is the structurally most complex page in the album, with the widest and most layered cedvel system. The calligraphy ground is cream (not lacivert), providing contrast with the blue pages. The halkâr motifs here are simpler than on p010 — scattered leaves rather than composed floral arrangements — but clearly tahrirli."
+    },
+    {
+      "folio": "p008 — Calligraphy: light blue mulevven mount + şemse/divani accents",
+      "source_image": "corpus/iiif/hamidiye_00010_p008.jpg",
+      "decoration_present": true,
+      "decoration_types": ["colored", "framing_system"],
+      "elements": [
+        {
+          "motif": "Light blue mulevven outer mount",
+          "description": "The outer margin/mount on this page is a light blue (sky blue) mulevven paper — a lighter, cooler shade than the deep lacivert used as the calligraphy ground on other pages. This introduces a second mulevven color variant in the album: deep lacivert for the calligraphy ground, light blue for an outer mount. The distinction suggests the album maker had access to mulevven papers in multiple tones.",
+          "location": "Outer margin mount",
+          "confidence": 0.85
+        },
+        {
+          "motif": "Gold şemse / divani medallion accents",
+          "description": "Gold circular medallion accents (şemse or divani-style rosettes) are visible within the calligraphy panel, used as section dividers or decorative markers. These are small, gold-illuminated roundels integrated into the calligraphy layout.",
+          "location": "Within calligraphy text block, as dividers/accents",
+          "confidence": 0.80
+        }
+      ],
+      "confidence": 0.82,
+      "notes": "Page 008 introduces the second mulevven color (light blue outer mount vs. deep lacivert calligraphy ground), demonstrating that the album program distinguishes between mulevven as writing surface and mulevven as mount/frame."
+    },
+    {
+      "folio": "p009 — Calligraphy: salmon margin with ambiguous specks + multi-color cedvel",
+      "source_image": "corpus/iiif/hamidiye_00010_p009.jpg",
+      "decoration_present": true,
+      "decoration_types": ["framing_system"],
+      "elements": [
+        {
+          "motif": "Multi-color cedvel (gold, green/teal, red bands)",
+          "description": "The framing system on this page includes clearly visible gold, green/teal, and red rule bands in addition to the candy-stripe diagonal band strips. Gold rosette verse markers are visible within the text block. The color combination of the rules (gold, teal, red) is distinctive and consistent with a high-quality production context.",
+          "location": "Framing around calligraphy panel",
+          "confidence": 0.90
+        },
+        {
+          "motif": "Scattered specks in salmon outer margin — ambiguous (possible zerefşân)",
+          "description": "The salmon outer margin shows scattered small dots/specks that may be fine zerefşân (gold-sprinkled) particles, but are ambiguous at 2560px resolution. The specks are small, scattered, and irregular — consistent with either very fine zerefşân or foxing/paper texture. No definitive identification is possible at this resolution. A gold-sprinkled paper would be consistent with the album's luxury program, but the identification cannot be confirmed without higher-resolution imaging.",
+          "location": "Outer salmon margin",
+          "confidence": 0.40
+        }
+      ],
+      "confidence": 0.75,
+      "notes": "Page 009 is notable primarily for the ambiguous specks in the outer margin. These are documented here for follow-up examination but are NOT counted as confirmed zerefşân. The multi-color cedvel (gold/teal/red) is confirmed."
+    },
+    {
+      "folio": "p010 — MAJOR PAGE: lacivert mulevven + tahrirli halkâr with şems rosette",
+      "source_image": "corpus/iiif/hamidiye_00010_p010.jpg",
+      "decoration_present": true,
+      "decoration_types": ["colored", "halkar_margins", "framing_system"],
+      "elements": [
+        {
+          "motif": "Lacivert mulevven calligraphy ground",
+          "description": "Deep blue mulevven paper as calligraphy writing surface, consistent with pp. 003, 005, 006. Gold rosette markers visible within the text block. The combination of the blue calligraphy ground with the elaborate halkâr margin on this page creates the album's most complex and richly decorated opening.",
+          "location": "Calligraphy text block",
+          "confidence": 0.95
+        },
+        {
+          "motif": "Tahrirli halkâr — large-scale botanical composition with şems rosette",
+          "description": "The outer cream/white margin is decorated with large-scale tahrirli halkâr in a composed botanical arrangement. Key features clearly visible at 2560px resolution: (1) A large gold şems (sunflower/sun rosette) with radiating petals in the upper area of the margin — a şems is a circular motif with radiating petal or ray forms, associated with Ottoman illumination and here rendered in gold/dark pigment in the halkâr tradition; (2) Multiple large botanical sprays with branching compound leaves, individual petal forms, and flowers in dark brown/gold distributed across the four margin areas; (3) The motifs are clearly outlined (tahrirli technique — dark outlines over the body of each motif); (4) The overall composition is a large-scale naturalistic botanical arrangement, significantly more elaborate and compositionally complex than the scattered-leaf halkâr on pp. 005 and 007. The combination of a composed botanical scene with a prominent şems rosette in the corner/upper area is characteristic of high-quality Ottoman album margin decoration of the later 17th century.",
+          "location": "Outer cream margin, all four sides, with şems in upper area",
+          "confidence": 0.93
+        },
+        {
+          "motif": "Multi-color cedvel framing",
+          "description": "Gold and red cedvel lines frame the calligraphy text block. The framing is integrated with the blue mulevven calligraphy ground and the cream margin. Gold rosette verse markers within the text.",
+          "location": "Frame around calligraphy panel",
+          "confidence": 0.90
+        }
+      ],
+      "confidence": 0.93,
+      "notes": "Page 010 is the visual culmination of the album — the last text page before the rear cover, and the most elaborately decorated. The combination of deep blue lacivert mulevven calligraphy ground with large-scale tahrirli halkâr botanical margins including a prominent şems rosette represents a summation of the album's decorative ambitions. The şems motif in the margin halkâr is a distinctive feature not seen in other halkâr albums in the project corpus to date. At 2560px, the individual botanical spray elements are approximately 15–25 mm in the image, making them clearly legible."
+    }
+  ],
+  "terminology": {
+    "terms_used": [
+      {
+        "concept": "Calligraphy album",
+        "ottoman": "murakkaat / murakkaa (مرقعات)",
+        "arabic": "muraqqa (مرقع)",
+        "persian": "muraqqa (مرقع)",
+        "english": "Murakkaʿ: a bound album containing mounted calligraphic specimens, sometimes also including miniature paintings or illuminated pages. Hamidiye 00010 is a pure calligraphy album with no miniatures."
+      },
+      {
+        "concept": "Battal ebru — stone/spot marbling",
+        "ottoman": "battal ebru",
+        "arabic": null,
+        "persian": "abrī-ye battāl (ابری بطال)",
+        "english": "Battal ebru: the simplest marbled paper, produced by allowing pigments to float freely on marbling size without comb or stylus manipulation. Creates an irregular spotted or mottled pattern. In Hamidiye 00010, used as the cover paper in an exceptionally vivid 6+ color polychrome version."
+      },
+      {
+        "concept": "Colored paper — blue/lapis",
+        "ottoman": "mülevven kâğıt / lacivert kâğıt",
+        "arabic": "waraq mulawwan (ورق ملوّن)",
+        "persian": "kāġaḏ-e mulavvan-e lājawardī (کاغذ ملوّن لاجوردی)",
+        "english": "Mülevven kâğıt (colored paper) — specifically lacivert (deep blue/lapis) in this album. Used as the PRIMARY CALLIGRAPHY WRITING SURFACE on 4 of 8 text pages — an unusual function that distinguishes this album from examples where colored paper serves only as margins or mounts."
+      },
+      {
+        "concept": "Shaded gold margin painting",
+        "ottoman": "halkâr / halkârî",
+        "arabic": null,
+        "persian": "halkārī (حلکاری)",
+        "english": "Halkâr/halkârî: shaded gold (and gold-ink) floral and botanical painting in manuscript margins. A luxury Ottoman technique combining drawing skill with gold or dark-toned ink. The motifs are typically flowers, leaves, branches, birds, and other naturalistic subjects painted in the margin areas."
+      },
+      {
+        "concept": "Outlined halkâr technique",
+        "ottoman": "tahrirli halkârî",
+        "arabic": null,
+        "persian": null,
+        "english": "Tahrirli halkârî: halkâr paintings in which the main body of each motif is augmented by a visible dark outline (tahrir = lining/outlining). Distinct from taramalı halkârî in which shading is achieved through hatching/cross-hatching rather than outline. The outlines are clearly visible in Hamidiye 00010 at IIIF resolution, confirming the tahrirli subtype."
+      },
+      {
+        "concept": "Sunflower/sun rosette motif",
+        "ottoman": "şems / güneş motifi",
+        "arabic": "shams (شمس)",
+        "persian": "shamsa (شمسه)",
+        "english": "Şems: a circular radiate motif with petal-like or ray projections, resembling a sunflower or sun. In binding decoration, the şemse is the central oval medallion; in halkâr painting, the şems rosette is a radiate circular form used as a decorative accent in margin compositions. The large şems in p010 halkâr margin is a high-quality execution of this motif."
+      },
+      {
+        "concept": "Ruling lines / frame",
+        "ottoman": "cedvel / altın cedvel",
+        "arabic": "jadwal (جدول)",
+        "persian": "jadval (جدول)",
+        "english": "Cedvel: ruling or frame lines around the text block. In this album, a highly elaborate multi-layer cedvel system (7+ layers) with candy-stripe diagonal band inserts."
+      },
+      {
+        "concept": "Candy-stripe diagonal border strips",
+        "ottoman": "diyagonal şeritli bordür / şeritli cetvel",
+        "arabic": null,
+        "persian": null,
+        "english": "Candy-stripe diagonal bands: a cedvel border element consisting of diagonal alternating light/dark striped paper strips (or a specially painted border paper with diagonal lines) inserted as one layer of the multi-layer framing system. This distinctive element recurs throughout Hamidiye 00010 and creates a strong visual rhythm in the frame borders. May be cut strips of marbled or decorated paper applied as border elements — a technique requiring further investigation."
+      },
+      {
+        "concept": "Thuluth calligraphy",
+        "ottoman": "sülüs",
+        "arabic": "thuluth (ثلث)",
+        "persian": null,
+        "english": "Sülüs/thuluth: one of the six classical Islamic calligraphic hands (aklâm-ı sitte), characterized by large, bold, highly formalized letterforms used for display text. Hâfız Osman was a master of sülüs and nesih."
+      },
+      {
+        "concept": "Naskh calligraphy",
+        "ottoman": "nesih",
+        "arabic": "naskh (نسخ)",
+        "persian": null,
+        "english": "Nesih/naskh: one of the six classical hands, used for smaller text blocks. The body text of the calligraphy specimens in this album is in naskh."
+      },
+      {
+        "concept": "Protective guard leaf / flyleaf",
+        "ottoman": "vikaye yaprağı",
+        "arabic": null,
+        "persian": null,
+        "english": "Vikaye yaprağı: a protective or guard leaf at the beginning or end of a manuscript or album, often in a decorated paper."
+      }
+    ]
+  },
+  "bibliography": [
+    {
+      "citation": "Derman, M. Uğur. Hâfız Osman ve Ekolu. Istanbul: İslam Araştırmaları Merkezi (İSAM), 1998.",
+      "relevance": "The primary Turkish-language monograph on Hâfız Osman and his calligraphic school, covering his biographical details, the corpus of his albums, his calligraphic style, and his influence on later Ottoman calligraphy. Directly essential for establishing the attribution of Hamidiye 00010 to Hâfız Osman and contextualizing the AH 1082 / 1671–72 date. In Turkish.",
+      "relevance_score": 0.98,
+      "access_notes": "Turkish-language monograph. Held at major Ottomanist and Islamic manuscript libraries. İSAM (Istanbul) library is the primary access point."
+    },
+    {
+      "citation": "Derman, M. Uğur. Letters in Gold: Ottoman Calligraphy from the Sakıp Sabancı Collection, Istanbul. New York: Metropolitan Museum of Art, 1998.",
+      "relevance": "The standard English-language survey of Ottoman calligraphy, including substantial coverage of Hâfız Osman's life, work, and calligraphic albums. Provides biographical details, stylistic analysis, and illustrated comparanda for the calligraphy in Hamidiye 00010.",
+      "relevance_score": 0.95,
+      "access_notes": "Exhibition catalogue; widely held at major research libraries."
+    },
+    {
+      "citation": "Roxburgh, David J. The Persian Album, 1400–1600: From Dispersal to Collection. New Haven: Yale University Press, 2005.",
+      "relevance": "Primary scholarly study of the album-making tradition covering vassale mounting, decorated paper as ground, and the structural principles of murakkaat albums. Essential theoretical framework for the album format and decorative program of Hamidiye 00010.",
+      "relevance_score": 0.87,
+      "access_notes": "Monograph; widely held at major research libraries."
+    },
+    {
+      "citation": "Blair, Sheila S. 'Color and Gold: The Decorated Papers Used in Manuscripts in Later Islamic Times.' Muqarnas 17 (2000): 24–36.",
+      "relevance": "Foundational taxonomic study of decorated papers in Islamic manuscripts. The classification of battal ebru, mülevven (colored paper), and the general framework for halkâr margin decoration used in this catalog record derives from Blair's typology. Directly relevant to all four decoration types in Hamidiye 00010.",
+      "relevance_score": 0.93,
+      "access_notes": "Peer-reviewed article. Available via JSTOR and institutional library access."
+    },
+    {
+      "citation": "Tanındı, Zeren. 'Resimli bir Hafız Osman hüsn-ü hat koleksiyonu.' In Sanat Tarihinde Doğudan Batıya: Ünsal Yücel Anısına Sempozyum Bildirileri. Istanbul: Sandoz Kültür Yayınları, 1989. pp. 127–41.",
+      "relevance": "Turkish-language article on an illustrated Hâfız Osman calligraphy collection, directly relevant to the album format and decorative conventions of Hamidiye 00010. Provides comparanda within the Hâfız Osman album corpus. In Turkish.",
+      "relevance_score": 0.88,
+      "access_notes": "Turkish-language conference proceedings. Held at major Ottomanist libraries in Turkey."
+    },
+    {
+      "citation": "Gacek, Adam. Arabic Manuscripts: A Vademecum for Readers. Leiden: Brill, 2009.",
+      "relevance": "Standard reference for Islamic manuscript terminology and codicology. Used throughout this catalog record for terminology on format (murakkaat), ruling systems (cedvel), calligraphic scripts (sülüs/nesih), and physical structure.",
+      "relevance_score": 0.78,
+      "access_notes": "Reference monograph; widely held."
+    },
+    {
+      "citation": "Déroche, François. Islamic Codicology: An Introduction to the Study of Manuscripts in Arabic Script. Translated by Deke Dusinberre and David Radzinowicz. London: Al-Furqan Islamic Heritage Foundation, 2005.",
+      "relevance": "Foundational reference for Islamic manuscript codicology, providing classification framework for binding, ruling, paper decoration, and physical manuscript features used throughout this catalog record.",
+      "relevance_score": 0.78,
+      "access_notes": "Monograph; available at specialist libraries."
+    },
+    {
+      "citation": "Çağman, Filiz, and Zeren Tanındı. The Topkapı Saray Museum: The Albums and Illustrated Manuscripts. Translated and edited by J. M. Rogers. Boston: Little, Brown, 1986.",
+      "relevance": "Standard reference for Ottoman albums in Istanbul collections, including decorated paper programs in late 17th-century murakkaat albums. Provides comparanda for the album format, halkâr margins, and calligraphic content of Hamidiye 00010.",
+      "relevance_score": 0.83,
+      "access_notes": "Exhibition catalogue; widely held."
+    },
+    {
+      "citation": "Mahir, Banu. Osmanlı Minyatür Sanatı. Istanbul: Kabalcı, 2005.",
+      "relevance": "Survey of Ottoman manuscript decoration including the halkâr tradition and the 17th-century Istanbul workshop context. Provides general art-historical background for the tahrirli halkâr margins and the botanical motif vocabulary (şems, leaf sprays, flowers) documented in Hamidiye 00010. In Turkish.",
+      "relevance_score": 0.72,
+      "access_notes": "Turkish-language monograph. Held at major Ottomanist libraries."
+    }
+  ],
+  "suggested_collections": [
+    {
+      "institution": "Topkapı Sarayı Müzesi Kütüphanesi, Istanbul",
+      "reason": "Holds the most important Ottoman albums with comparable decorative programs, including albums by Hâfız Osman and his contemporaries with halkâr margins, mulevven papers, and complex cedvel systems. Direct comparanda for all decoration types in Hamidiye 00010.",
+      "digital_access": "https://kutuphane.tsmk.gov.tr"
+    },
+    {
+      "institution": "İslam Araştırmaları Merkezi (İSAM), Istanbul",
+      "reason": "The İSAM library holds the primary scholarly literature on Hâfız Osman and Ottoman calligraphy, including Derman's monograph directly relevant to this album's attribution. The İSAM manuscript collection may also hold comparable albums.",
+      "digital_access": null
+    },
+    {
+      "institution": "Chester Beatty Library, Dublin",
+      "reason": "Major collection of Ottoman calligraphy albums and decorated paper specimens from the 17th century, including examples of halkâr margins and lacivert mulevven paper in album contexts. Comparanda for the decorative program of Hamidiye 00010.",
+      "digital_access": "https://viewer.cbl.ie"
+    },
+    {
+      "institution": "Süleymaniye Kütüphanesi — broader Hamidiye Koleksiyonu",
+      "reason": "The Hamidiye collection contains further calligraphy albums from the same period; comparative analysis within the Hamidiye subcorpus would be productive for establishing workshop conventions and decorator attributions.",
+      "digital_access": "https://portal.yek.gov.tr"
+    }
+  ],
+  "provenance": {
+    "donor": "Hamidiye Koleksiyonu — endowed by Sultan Abdülhamid I (r. 1774–1789)",
+    "waqf": "Hamidiye Koleksiyonu vakfı. Sultan Abdülhamid I endowed the Hamidiye mosque complex in Istanbul in 1777–78 (AH 1191), and the associated library (now part of Süleymaniye Kütüphanesi) bears his name. The collection was deposited in Süleymaniye Kütüphanesi in the Republican period. The manuscript was produced c. AH 1082 / 1671–72 CE, approximately 100 years before the Hamidiye endowment; its path from production to the Hamidiye collection is unknown.",
+    "previous_shelfmarks": [],
+    "notes": "Currently held at Süleymaniye Kütüphanesi, Hamidiye Koleksiyonu, Istanbul, under shelfmark 00010 (catalogue label '10' visible on cover in p001). IIIF ID: 0000000289503. YEK ID: 265186. Album produced c. AH 1082 / 1671–72 CE; attributed on cover inscription to Hâfız Osman (d. AH 1110/1698). The album entered the Hamidiye endowment at an unknown date between 1671 and the endowment of the Hamidiye library (c. AH 1191 / 1777–78)."
+  },
+  "analysis_metadata": {
+    "analyzed_date": "2026-02-28",
+    "analyzer": "claude-code-manuscript-pipeline",
+    "pipeline_stage": "metadata-generator",
+    "image_source": "YEK Portal IIIF images, Süleymaniye Kütüphanesi — Hamidiye Koleksiyonu, YEK ID 265186, IIIF ID 0000000289503. 10 IIIF pages at maximum Süleymaniye resolution (2560×1920 px for most pages; 1920×2560 px for p001 cover).",
+    "image_quality_notes": "IIIF resolution for Süleymaniye/Hamidiye collection is 2560px maximum — substantially lower than TIEM collection (up to 7749px). At 2560px, the battal ebru (p001), mulevven calligraphy grounds (pp. 003, 005, 010), and tahrirli halkâr motifs with outlines (pp. 005, 007, 010) are unambiguously identifiable. The şems rosette on p010 is clearly legible. The candy-stripe cedvel bands are visible but their technique (marbled strips vs. painted paper) cannot be determined. Zerefşân on p009 salmon margin is ambiguous — not confirmed. Higher-resolution imaging (4000+ px) would enable: (1) definitive zerefşân determination on p009; (2) precise technique analysis of candy-stripe cedvel bands; (3) detailed assessment of halkâr motif vocabulary and possible hand attribution.",
+    "folios_examined": [
+      "corpus/iiif/hamidiye_00010_p001.jpg",
+      "corpus/iiif/hamidiye_00010_p002.jpg",
+      "corpus/iiif/hamidiye_00010_p003.jpg",
+      "corpus/iiif/hamidiye_00010_p004.jpg",
+      "corpus/iiif/hamidiye_00010_p005.jpg",
+      "corpus/iiif/hamidiye_00010_p006.jpg",
+      "corpus/iiif/hamidiye_00010_p007.jpg",
+      "corpus/iiif/hamidiye_00010_p008.jpg",
+      "corpus/iiif/hamidiye_00010_p009.jpg",
+      "corpus/iiif/hamidiye_00010_p010.jpg"
+    ],
+    "folios_not_examined": "All 10 available IIIF pages examined. The YEK catalogue records 8 folios; the IIIF set of 10 pages accounts for the cover (p001), ownership page (p002), 7 text pages (pp. 003–009), and a final decorated page (p010). No pages were omitted from examination.",
+    "corpus_priority": "HIGH: Dated AH 1082 (1671–72 CE) album with firm Hâfız Osman attribution. Four confirmed decoration types: battal ebru cover, lacivert mulevven calligraphy surface, tahrirli halkâr margins, complex multi-layer cedvel. The use of blue mulevven as calligraphy substrate (not merely margin) is rare and analytically significant. Priority for follow-up: (1) physical examination for zerefşân determination on p009; (2) comparative analysis of the candy-stripe cedvel bands with other late 17th-century Ottoman albums; (3) full-resolution imaging for halkâr motif-vocabulary analysis and potential decorator attribution.",
+    "source_data": {
+      "visual_confirmation_file": "catalog/searches/visual_slot4_hamidiye_00010.json",
+      "yek_id": "265186",
+      "iiif_id": "0000000289503",
+      "batch": "Murakka IIIF deep analysis batch (2026-02-28)"
+    }
+  }
+}

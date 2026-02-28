@@ -1,0 +1,499 @@
+{
+  "record_id": "tiem_02649",
+  "collection": {
+    "institution": "Türk ve İslam Eserleri Müzesi",
+    "city": "Istanbul",
+    "country": "Turkey",
+    "shelfmark": "02649",
+    "yek_url": "https://portal.yek.gov.tr/yazmaeser/eser-detay/705440"
+  },
+  "manuscript": {
+    "title": "Murakkaʿ / مرقع",
+    "title_script": "مرقع",
+    "title_alt": "Karahisârî Murakkaʿı",
+    "author": null,
+    "author_dates": null,
+    "calligrapher": "Ahmed Şemseddîn Karahisârî (احمد شمس الدين قره حصارى)",
+    "calligrapher_dates": "c. 875–963 AH / c. 1468–1556 CE",
+    "calligrapher_note": "Ahmed Şemseddîn Karahisârî (born in Afyonkarahisar, d. 963/1556) is one of the three foundational masters of Ottoman calligraphy alongside Şeyh Hamdullah and Hâfız Osman. A student of Esadullah Kirmânî, he worked in the tradition of Yâqût al-Mustaʿsimî (7th/13th century) rather than the dominant Şeyh Hamdullah line, giving his work a distinctive monumental gravitas. He is known for his mastery of muhakkak, reyhânî, and sülüs hands, and for developing the 'chain script' in which letters appear joined without the pen lifting. He composed major architectural inscriptions for the Süleymaniye Mosque and worked under Sultan Süleyman I. The AH 923/1517 date in the ketebe of this murakkaʿ is one of the earliest fixed dates in his oeuvre. The school he founded was continued by his student Hasan Çelebi (d. 1002/1594).",
+    "date_ah": "923",
+    "date_ce": "1517",
+    "date_note": "The date AH 923 (1517 CE) is contained in the ketebe (colophon inscription) of the 7th calligraphic piece ('Murakkaın 7. yazısında Ahmed Karahisârî'nin ketebe kaydı ve 923 (1517) tarihi vardır'). This makes it one of the earliest fixed dates in Karahisârî's preserved oeuvre, and the earliest dated specimen in the TIEM murakkaʿ collection examined in this project.",
+    "place_of_copy": null,
+    "format": "Murakkaa / murakkaʿ (كتاب مرقع) — calligraphic album with vassale-mounted panels on mülevven (colored) paper grounds",
+    "format_note": "A luxury Ottoman calligraphic album (murakkaʿ) of 14 folios containing 24 discrete calligraphic pieces. The text panels are written separately in multiple scripts and subsequently window-mounted (vassale) onto sheets of brightly colored paper (mülevven kâğıt) with gold ruling systems (altın cetveller). The color of the ground paper changes from opening to opening, producing a deliberate polychrome sequence of at least six distinct hues. The album opens and closes with solid-colored separator/flyleaf leaves, and is bound in a dark lacquer (lake / ruganî) binding with gold shamsa and salbek.",
+    "language": "Arabic",
+    "script": "Muhakkak (محقق), Reyhânî (ريحاني), Tevkîʿ (توقيع), Sülüs (ثلث), Nesih (نسخ) — five scripts represented across 24 calligraphic pieces",
+    "dimensions_mm": {
+      "height": 466,
+      "width": 296
+    },
+    "folio_count": 14,
+    "yek_id": "705440",
+    "iiif_id": "0000000662651",
+    "notes": "MAJOR SPECIMEN. The earliest dated murakkaʿ in the TIEM collection examined in this project, and a cornerstone document for the chronology of Ottoman colored-paper (mülevven) album production. The multi-colored paper program — at least six distinct hues — is the most extensive polychrome mülevven sequence in the current corpus. The AH 923/1517 date antedates the canonical 'classical' period of Ottoman luxury book production (c. 1550–1600) and places this work in the late Bayezid II / early Süleyman era. Content: Yāsīn sūra, Sūrat al-Sāffāt (vv. 55–88), a page from Šarḥ al-Jaʿbarī, plus selections from Fātiḥa and al-Baqara (vv. 1–75), and a page of sülüs letter exercises (mufredat). YEK catalogue contains no kâğıt özellikleri or tezhip field entries; all decoration identified via IIIF visual triage and confirmation."
+  },
+  "paper_decoration": {
+    "types": [
+      "colored",
+      "framing_system"
+    ],
+    "summary": "The dominant decorative program of this album is a deliberate sequence of mülevven kâğıt (colored paper) grounds, with at least six visually distinct hues used across the 14 folios: (1) vivid red/terracotta (kırmızı / turuncu-kırmızı), present on the recto of the first opening (p003), as a double-page back flyleaf (p018), and on the doublure of the back cover (p019 right); (2) pink/salmon (pembe / açık kırmızı), used as border ground for several calligraphic openings (p004 right, p005 left, p006 left, p010, p014 right, p017 left); (3) deep lapis blue (lacivert), appearing as a full-page solid colored leaf (p008 left) and as horizontal decorative bands within calligraphic compositions (p004 text area, p016 left); (4) dark green/teal (koyu yeşil), used as full-margin border paper on openings p004 left, p012 both pages; (5) sage green (açık yeşil), present on the right side of the back flyleaf opening (p017 right); (6) dark maroon/burgundy (bordo / koyu kırmızı), visible on the inside back cover area (p019 left). The calligraphic text panels themselves are written on cream/off-white paper (krem kâğıt) and are mounted via the vassale technique into the colored paper grounds. Multi-line gold ruling (altın cetveller) frames each panel. On p016, deep blue (lacivert) paper strips form horizontal banding elements within a calligraphic composition, alternating with cream text areas — a more complex compositional use of the colored paper. The front cover binding is dark lacquer (lake / ruganî) with a gold shamsa oval medallion and salbek pendants. There is no marbling in this manuscript, and no halkâr margin painting; the decorative program is exclusively mülevven colored paper plus gold cetvelli framing.",
+    "distribution_notes": "The colored paper functions as the album ground sheet: each opening uses a single color (or two colors, one per page) as the visible margin around the mounted text panels. The sequence of colors is non-repeating in the opening pages, creating a deliberate chromatic variety. Solid-color separator leaves (without text) appear at the album's beginning (p003 right: red) and end (p017: pink/green double; p018: red double; p019: maroon/red). The deep blue lacivert pages at p008 (full page) and p016 (horizontal bands) represent the most saturated chromatic element of the sequence.",
+    "technique_terms": {
+      "ottoman": "mülevven kâğıt (renkli yaprak); vassale yöntemiyle monte edilmiş metin panelleri; altın cetvelli; lacivert kâğıt; lake (ruganî) cilt",
+      "persian": "mulavvan (ملوّن); vassāla (واساله); jadval-e zar (جدول زر); lājavardī (لاجوردی)",
+      "arabic": "mulawwan (ملوّن); jadwal mudhahdhab (جدول مذهّب)"
+    },
+    "catalogue_description": {
+      "paper_field": null,
+      "paper_field_normalized": null,
+      "paper_field_translation": null,
+      "notes_field": "Muhakkak ve reyhânî hatlarıyla yazılmış Yâsîn suresiyle başlayıp Sâd suresi 55-88. ayetlerle devam eden, Şerhu'l-Caʻberî'den bir sayfa bulunan, 24 parça yazıdan oluşan bu murakkada Fatiha ve Bakara suresinin 1-75. ayetleri ve bir sayfa sülüs harf meşki yer almaktadır. Murakkaın 7. yazısında Ahmed Karahisârî'nin ketebe kaydı ve 923 (1517) tarihi vardır.",
+      "notes_field_translation": "This murakkaʿ, written in muhakkak and reyhânî scripts, begins with the Yāsīn sūra and continues with Sūrat al-Sāffāt verses 55–88, contains a page from Šarḥ al-Jaʿbarī, and comprises 24 calligraphic pieces; it includes the Fātiḥa and al-Baqara vv. 1–75 and a page of sülüs letter exercises. The 7th piece contains Ahmed Karahisârî's ketebe inscription and the date AH 923 (1517).",
+      "decoration_field": null,
+      "source": "YEK portal, genel notlar field, record 705440, Türk ve İslam Eserleri Müzesi (TİEM). No kâğıt özellikleri or tezhip field entries in the YEK record. Classification: 745.61 / Hat (Kaligrafi). Subject: Sanatlar, güzel ve dekoratif sanatlar.",
+      "cataloguer": "Nalan Kutsal",
+      "cataloguer_note": "The YEK catalogue record contains no kâğıt özellikleri (paper characteristics) or tezhip/minyatür decoration field entry. The rich multi-colored paper program — the primary decorative feature of the album — is entirely absent from the catalogue description. This represents a significant cataloguing gap, common in older TIEM records where paper decoration was not systematically described. All decoration identified through IIIF native-resolution visual triage and confirmation."
+    }
+  },
+  "workshop_attribution": {
+    "primary_tradition": "ottoman",
+    "workshop_centre": "Istanbul — nakkaşhâne-i hümâyun context (probable)",
+    "date_range_ce": "1517",
+    "confidence": 0.85,
+    "key_indicators": [
+      "Ketebe inscription in the 7th calligraphic piece names Ahmed Şemseddîn Karahisârî and gives the date AH 923/1517 CE — direct, named calligrapher evidence",
+      "Multi-colored mülevven paper program with at least six hues is consistent with high-level Ottoman luxury album production of the early 16th century",
+      "Lacquer (lake/ruganî) binding with gold shamsa medallion and salbek pendants is characteristic of Ottoman imperial bookbinding production",
+      "The scripts represented (muhakkak, reyhânî, tevkîʿ, sülüs, nesih) match the reported repertoire of Karahisârî, who was known for his mastery of older monumental scripts in contrast to the nestaʿlîk-oriented Şeyh Hamdullah tradition",
+      "The physical scale (466 × 296 mm) and the number of pieces (24) are consistent with a formal court-level calligraphic album rather than a personal practice collection"
+    ],
+    "cross_tradition_caveats": [
+      "No explicit colophon naming Istanbul or a court patron survives (or was recorded in the YEK entry); the workshop location is inferred from the known biography of Karahisârî, who worked in Istanbul from his youth",
+      "The lacquer binding may not be contemporaneous with the album content; it could represent a later rebinding",
+      "The use of vassale mounting and multi-colored paper grounds has parallels in both Ottoman Istanbul and the Persianate album tradition; without further codicological analysis the specific Ottoman workshop context cannot be confirmed with certainty",
+      "Whether the album was assembled as a unified work in 1517 or accumulated gradually and bound together at a later date remains an open question"
+    ]
+  },
+  "codicology": {
+    "paper": {
+      "color": "Multiple — at least six distinct colors: red/terracotta (kırmızı), pink/salmon (pembe), deep lapis blue (lacivert), dark green/teal (koyu yeşil), sage green (açık yeşil), dark maroon/burgundy (bordo). Text panels written on cream/off-white (krem) paper.",
+      "preparation": "The text panels are on cream âharlı (sized/burnished) paper. The colored ground papers are likely dyed/pigmented before assembly. Paper type not specified in catalogue.",
+      "weight": "Not specified in catalogue; the ground sheets appear heavy enough to bear the mounted text panels without warping visible in IIIF images.",
+      "decoration": "Mülevven kâğıt (colored paper) grounds for each opening; vassale-mounted text panels with altın cetveller (gold ruling); lacquer binding.",
+      "paper_type": "Not specified. Eastern (Oriental) paper likely for text panels based on period and production context; European paper not indicated."
+    },
+    "ruling": {
+      "system": "Multi-line altın cetvelli (gold ruling) framing the vassale-mounted text panels throughout. On p004 and p005, IIIF native resolution shows multiple concentric gold ruling lines around each panel.",
+      "description": "Gold cetveller (cedvels / ruling lines) form the inner frame of each calligraphic panel. The number of ruling lines varies per opening — typically 2–4 gold lines with colored filler lines (red/black) visible in IIIF images at native resolution on p005 and p016. The ruling is applied within the text panel, not to the colored ground paper itself."
+    },
+    "binding": {
+      "cover_description": "Dark (near-black) lacquer (lake / ruganî) binding on cardboard base. Front cover bears a gold oval shamsa (central medallion) with dense gold arabesque fill and two gold salbek (pendants) above and below. No visible frame cetvels or zencirek border on the cover at the resolution examined. Shelfmark label '2649' adhered to upper centre of front cover. Back cover not separately examined.",
+      "cover_type": "Lake cilt (lacquer / ruganî binding)",
+      "notes": "The dark lacquer binding is typical of Ottoman imperial luxury binding of the 16th century. The shamsa-and-salbek composition without corner pieces (köşebend) is a relatively restrained composition. The binding may be contemporaneous with the album content (1517) or represent a later rebinding; the catalogue description does not specify."
+    },
+    "format": "Murakkaʿ / murakkaa — luxury Ottoman calligraphic album",
+    "condition_summary": "The album appears in reasonably good condition in the IIIF images. The lacquer binding shows surface abrasion and minor wear consistent with age. Several of the colored paper leaves (p017 pink/sage, p018 red) show wrinkling and water-staining in IIIF native resolution, indicating historical moisture exposure. The cream text panels are generally legible and intact. The red/terracotta flyleaf at p003 shows fold lines and surface staining. Overall condition: moderate conservation needs, no catastrophic damage visible.",
+    "conservation_history": null
+  },
+  "visual_confirmation": {
+    "verdict": "confirmed",
+    "confidence": 0.97,
+    "screenshots_examined": 14,
+    "folios_examined": [
+      "tiem_02649_p1_binding.jpeg",
+      "tiem_02649_p2_inside_cover.jpeg",
+      "tiem_02649_p3_first_opening.jpeg",
+      "tiem_02649_p4_mulevven.jpeg",
+      "tiem_02649_p5_mulevven.jpeg",
+      "tiem_02649_p6_mulevven.jpeg",
+      "tiem_02649_p8_mulevven.jpeg",
+      "tiem_02649_p10_mulevven.jpeg",
+      "tiem_02649_p12_mulevven.jpeg",
+      "tiem_02649_p14_mulevven.jpeg",
+      "tiem_02649_p16_mulevven.jpeg",
+      "tiem_02649_p17_mulevven.jpeg",
+      "tiem_02649_p18_mulevven.jpeg",
+      "tiem_02649_p19_mulevven.jpeg"
+    ],
+    "visual_evidence": "At viewer resolution (~1536px): multi-colored mülevven paper confirmed across all calligraphic openings and separator leaves (pp. 3–19). At least six distinct colors identified with certainty. Gold cetvelli framing confirmed throughout. Lacquer binding confirmed on front cover. At native IIIF resolution (up to 11191 × 7264 px): the colored paper grounds are vivid and unambiguous; gold ruling lines show fine detail; the vassale mounting technique is clearly legible (text panels sit slightly above or show color contrast against the colored ground). The lacquer binding gold shamsa is well-defined with arabesque fill.",
+    "limitations": [
+      "Viewer screenshots only (~1536px wide) for initial confirmation. IIIF native resolution examined for key pages subsequently.",
+      "Gold-worked (zerkârî) RULED OUT (2026-02-28, native IIIF analysis at up to 11191 px). All gold is standard cetvelli ruling lines only — no gold motifs, gold brushwork, gold patterning, or gold sprinkling on any colored margin paper across 9 pages spanning the full album. The compound cetvelli system (especially the lacivert inner band + pink outer margin + multi-line gold cedvel on p006) was visually misleading at lower resolution but is unambiguously cedvel-only at native resolution.",
+      "YEK catalogue contains no explicit decoration terms. All claims derive from visual triage and IIIF examination.",
+      "Pages 7, 9, 11, 13, 15, 20 not captured individually in the viewer session; however visible in thumbnail strips in adjacent screenshots."
+    ],
+    "source_agent": "visual-confirmation",
+    "session": "catalog/searches/visual_slot5_tiem_02649.json"
+  },
+  "folio_analyses": [
+    {
+      "folio": "Front cover (IIIF p001)",
+      "source_image": "corpus/iiif/tiem_02649_p001.jpg",
+      "decoration_present": true,
+      "decoration_types": ["other"],
+      "elements": [
+        {
+          "motif": "Lake (ruganî) lacquer binding — gold shamsa and salbek",
+          "description": "Dark near-black lacquer binding cover. Central composition: large gold oval shamsa (central medallion) with dense arabesque fill, flanked above and below by elongated gold salbek (pendant) elements. No border cetvels or zencirek chain border visible at this resolution. The shamsa fill appears to contain hatāyī-family arabesque scrollwork in raised gold. A paper shelfmark label '2649' is adhered to the upper center of the cover. Overall the binding is austere and monumental, consistent with early 16th-century Ottoman imperial production.",
+          "location": "Full front cover",
+          "confidence": 0.95
+        }
+      ],
+      "confidence": 0.95,
+      "notes": "The binding is not in the paper_decoration category but is documented here as part of the codicological and visual record."
+    },
+    {
+      "folio": "First opening — cream flyleaf and red/terracotta colored leaf (IIIF p003)",
+      "source_image": "corpus/iiif/tiem_02649_p003.jpg",
+      "decoration_present": true,
+      "decoration_types": ["colored"],
+      "elements": [
+        {
+          "motif": "Mülevven kâğıt — red/terracotta colored paper",
+          "description": "The right page of the first opening after the inside front cover is a vivid red/terracotta (kırmızı/turuncu-kırmızı) solid-colored leaf with no calligraphic text. The color is deep, warm-toned, and uniform — consistent with a dyed or pigmented paper rather than tinted wash. The paper shows pronounced fold-lines and some surface moisture staining, suggesting significant age. The left page is a cream flyleaf bearing a small collection stamp, a modern shelfmark label, and pencil notations. This is the first colored leaf encountered in the opening of the album and immediately establishes the polychrome character of the decorative program.",
+          "location": "Right page, first opening after inside front cover",
+          "confidence": 0.99
+        }
+      ],
+      "confidence": 0.99,
+      "notes": "The red/terracotta paper is unambiguously mülevven (colored paper). This same red hue reappears at pp. 018–019, suggesting a deliberate color program with the red leaves framing the opening and close of the album."
+    },
+    {
+      "folio": "Calligraphic opening — green/teal and pink/salmon grounds with blue bands (IIIF p004)",
+      "source_image": "corpus/iiif/tiem_02649_p004.jpg",
+      "decoration_present": true,
+      "decoration_types": ["colored", "framing_system"],
+      "elements": [
+        {
+          "motif": "Mülevven kâğıt — green/teal (koyu yeşil) outer margin, left page",
+          "description": "The outer margin/ground paper of the left page is a deep green/teal (koyu yeşil) colored paper. Text panels in muhakkak and smaller naskh-like script float within this ground, mounted with multi-line gold cetvels. The gold ruling is multi-stranded — at least 3–4 concentric gold and colored (red/black) lines frame each panel.",
+          "location": "Left page outer margin/ground, first major calligraphic opening",
+          "confidence": 0.97
+        },
+        {
+          "motif": "Mülevven kâğıt — pink/salmon (pembe) outer margin, right page",
+          "description": "The outer margin/ground paper of the right page is a medium pink/salmon (pembe) colored paper. Two text panels with large muhakkak calligraphy and smaller naskh interleaved with gold-and-blue decorative cartouches are mounted within. The cartouches on the right page (visible at native resolution) appear to be small illuminated gold/blue rectangular panels — possibly the small gold-and-lapis decorative elements typical of early 16th-century Ottoman illumination, inserted between sections.",
+          "location": "Right page outer margin/ground, first major calligraphic opening",
+          "confidence": 0.97
+        },
+        {
+          "motif": "Altın cetveller — multi-line gold ruling framing panels",
+          "description": "Multi-line gold ruling frames each calligraphic panel. At native resolution (p004), at least 3 concentric lines are distinguishable around each panel — gold outer line, a colored filler band, and a thinner inner gold or dark line. This is the standard Ottoman luxury cetvelli system for album and kıtʿa mounting.",
+          "location": "All panel frames, both pages",
+          "confidence": 0.95
+        },
+        {
+          "motif": "Lacivert decorative elements within text composition",
+          "description": "Deep blue (lacivert) pigmented elements are visible within the right-hand page composition — possibly small rectangular lacivert-ground panels or bands separating calligraphic lines. These integrate the lacivert color within the calligraphic structure itself, distinct from the page-level colored paper ground.",
+          "location": "Right page, within text composition area",
+          "confidence": 0.80
+        }
+      ],
+      "confidence": 0.96,
+      "notes": "This opening establishes the core visual logic of the album: two differently colored paper grounds per opening, with gold cetvelli-mounted calligraphic panels and occasional lacivert accents. The combination of green (left) and pink (right) grounds on a single opening is unusual and deliberate."
+    },
+    {
+      "folio": "Calligraphic opening — teal-blue and pink/salmon grounds (IIIF p005)",
+      "source_image": "corpus/iiif/tiem_02649_p005.jpg",
+      "decoration_present": true,
+      "decoration_types": ["colored", "framing_system"],
+      "elements": [
+        {
+          "motif": "Mülevven kâğıt — teal-blue/grey (mavi-yeşil) outer margin, left page",
+          "description": "Teal-blue/grey ground paper on the left page, slightly cooler in tone than the deep green of p004 left. Large muhakkak script lines alternate with smaller naskh panels in gold-cetvelled boxes.",
+          "location": "Left page outer margin/ground",
+          "confidence": 0.95
+        },
+        {
+          "motif": "Mülevven kâğıt — pink/salmon (pembe) outer margin, right page",
+          "description": "Pink/salmon ground paper on the right page. Similar palette to p004 right.",
+          "location": "Right page outer margin/ground",
+          "confidence": 0.97
+        }
+      ],
+      "confidence": 0.95,
+      "notes": "This opening continues the alternating two-color-per-opening pattern. The color sequence (teal-blue / pink) reinforces the deliberate chromatic design."
+    },
+    {
+      "folio": "Calligraphic opening — full-page blue (lacivert) separator leaf and cream calligraphic panel (IIIF p008)",
+      "source_image": "corpus/iiif/tiem_02649_p008.jpg",
+      "decoration_present": true,
+      "decoration_types": ["colored", "framing_system"],
+      "elements": [
+        {
+          "motif": "Mülevven kâğıt — full-page deep lapis blue (lacivert) separator leaf",
+          "description": "The left page of this opening is a full-page deep blue (lacivert / lājavardī) colored paper with no calligraphic text. The color is highly saturated and even — consistent with a lapis-based or cobalt-based pigmented paper rather than a wash. This is the most saturated single-page chromatic element in the album and functions as a separator or interleaving leaf between calligraphic gatherings.",
+          "location": "Left page (verso of preceding calligraphic leaf)",
+          "confidence": 0.99
+        },
+        {
+          "motif": "Calligraphic panels on cream paper with gold cetvels",
+          "description": "The right page shows text panels in large muhakkak script on cream paper, framed with gold ruling lines. The juxtaposition of the vivid lacivert separator (left) against the cream calligraphic page (right) is a deliberate chromatic contrast effect typical of Ottoman album design.",
+          "location": "Right page",
+          "confidence": 0.95
+        }
+      ],
+      "confidence": 0.97,
+      "notes": "The full-page lacivert leaf at p008 is one of the most striking visual moments in the album. Lacivert (lapis blue) paper in Ottoman manuscripts is associated with high-level court production. Its use as a full-page separator in this album is consistent with the imperial context."
+    },
+    {
+      "folio": "Calligraphic opening — dark green/teal grounds both pages (IIIF p012)",
+      "source_image": "corpus/iiif/tiem_02649_p012.jpg",
+      "decoration_present": true,
+      "decoration_types": ["colored", "framing_system"],
+      "elements": [
+        {
+          "motif": "Mülevven kâğıt — dark green/teal (koyu yeşil) on both pages",
+          "description": "Both pages of this opening use the dark green/teal colored paper as the ground. This is the only opening in the examined sequence where both pages share the same color. The calligraphic panels (naskh script) are mounted with multi-line gold cetvels. The green ground extends to all four margins around the panels.",
+          "location": "Both pages — outer margins around mounted text panels",
+          "confidence": 0.97
+        }
+      ],
+      "confidence": 0.95,
+      "notes": "The double-green opening provides a strong visual rhythm within the alternating-color sequence. At native resolution the green paper appears deep and slightly uneven, consistent with hand-dyeing."
+    },
+    {
+      "folio": "Calligraphic opening — blue (lacivert) horizontal bands composition (IIIF p016)",
+      "source_image": "corpus/iiif/tiem_02649_p016.jpg",
+      "decoration_present": true,
+      "decoration_types": ["colored", "framing_system"],
+      "elements": [
+        {
+          "motif": "Lacivert horizontal band composition",
+          "description": "The left page shows a distinctive compositional use of deep blue (lacivert) colored paper: horizontal strips of lacivert paper alternate with calligraphic text lines in large script (tevkîʿ or muhakkak), creating a banded composition where each large-script line appears to float between blue bands. This is not simply a colored-paper ground but a designed integration of the lacivert material within the calligraphic composition itself. The right page shows a more conventional layout with a single cream text panel on a light ground.",
+          "location": "Left page — horizontal banding composition; right page — text panel on cream",
+          "confidence": 0.85
+        },
+        {
+          "motif": "Gold cetvelli multi-line framing, left page",
+          "description": "Multi-line gold ruling visible around the calligraphic composition elements on the left page.",
+          "location": "Left page margins",
+          "confidence": 0.90
+        }
+      ],
+      "confidence": 0.87,
+      "notes": "This opening represents the most compositionally complex use of colored paper in the album. The integration of lacivert strips within the calligraphic layout suggests a sophisticated design program where the colored paper is not merely a ground but an active compositional element."
+    },
+    {
+      "folio": "Back flyleaf opening — pink/salmon and sage green separator leaves (IIIF p017)",
+      "source_image": "corpus/iiif/tiem_02649_p017.jpg",
+      "decoration_present": true,
+      "decoration_types": ["colored"],
+      "elements": [
+        {
+          "motif": "Mülevven kâğıt — pink/salmon (pembe) leaf (left) and sage green (açık yeşil) leaf (right)",
+          "description": "Both pages of this opening are plain colored separator/flyleaf leaves with no calligraphic text. Left: pink/salmon (pembe) — faded, with vertical water-staining. Right: sage green (açık yeşil) — a lighter, grayer green than the dark teal of p004/p012, suggesting a separate paper batch. The juxtaposition of two differently colored leaves on a single opening confirms the deliberate nature of the polychrome program. These are the penultimate pages before the final red/maroon closing leaves.",
+          "location": "Both pages — separator/flyleaf leaves",
+          "confidence": 0.96
+        }
+      ],
+      "confidence": 0.95,
+      "notes": "Native-resolution imaging shows the paper is undecorated beyond the color itself. Both leaves show aging, wrinkling, and staining consistent with their age (1517 CE). The sage green is a softer, more muted tone than the dark green/teal used as margin paper on the calligraphic openings."
+    }
+  ],
+  "terminology": {
+    "terms_used": [
+      {
+        "concept": "Colored paper (general)",
+        "ottoman": "mülevven kâğıt / renkli yaprak / boyalı kâğıt",
+        "arabic": "mulawwan (ملوّن)",
+        "persian": "mulavvan (ملوّن)",
+        "english": "Mülevven (colored) paper: paper that has been dyed or pigmented in a solid color prior to use. In the Ottoman album tradition, mülevven paper is typically used as the ground sheet onto which calligraphic panels are window-mounted (vassale), creating a vivid polychrome setting for the calligraphy. Distinct from marbled paper (ebrî), which is decorated with surface pigment in patterned form."
+      },
+      {
+        "concept": "Lapis blue colored paper",
+        "ottoman": "lacivert kâğıt / lacivert yaprak",
+        "arabic": "lāzaward (لازورد)",
+        "persian": "lājavardī (لاجوردی)",
+        "english": "Lacivert (lapis blue) paper: paper dyed or pigmented in the characteristic deep blue associated with lapis lazuli or cobalt. A prestige color in Ottoman manuscripts, used for luxury albums, mushaf manuscripts, and court documents. In this album, lacivert appears both as full-page separator leaves and as horizontal band elements within calligraphic compositions."
+      },
+      {
+        "concept": "Calligraphic album",
+        "ottoman": "murakkaʿ / murakkaa",
+        "arabic": "muraqqa' (مرقع)",
+        "persian": "muraqqa' (مرقع)",
+        "english": "Murakkaʿ: a bound calligraphic (and sometimes pictorial) album, typically consisting of separate calligraphic specimens (kıtʿa) or miniature paintings mounted onto decorated paper grounds and assembled in book form. One of the primary luxury art objects of Ottoman and Persianate court culture."
+      },
+      {
+        "concept": "Calligraphic specimen sheet",
+        "ottoman": "kıtʿa",
+        "arabic": "qiṭʿa (قطعة)",
+        "persian": "qiṭʿa (قطعه)",
+        "english": "Kıtʿa (qiṭʿa): a calligraphic panel — a discrete piece of calligraphy written on a separate sheet and typically mounted in an album. The standard constituent unit of a murakkaʿ."
+      },
+      {
+        "concept": "Vassale mounting",
+        "ottoman": "vassale yöntemiyle monte edilmiştir",
+        "arabic": null,
+        "persian": "vassāla (واساله)",
+        "english": "Vassale: a technique in which calligraphic or pictorial panels are written/painted on separate sheets, cut to size, and window-mounted onto a decorated paper ground by cutting a corresponding opening in the ground sheet. The ground paper (here, mülevven kâğıt) is visible in the margins around each panel. The standard mounting technique for Ottoman and Persianate luxury albums."
+      },
+      {
+        "concept": "Gold ruling lines",
+        "ottoman": "altın cetveller / cetvelli",
+        "arabic": "jadwal mudhahdhab (جدول مذهّب)",
+        "persian": "jadval-e zar (جدول زر)",
+        "english": "Altın cetveller: the system of gold (and often colored) ruling lines that frame the calligraphic panels in this album. Multiple concentric gold lines, sometimes with colored filler bands (red, black), surround each panel. The cetvelli system is a standard luxury feature of Ottoman album production."
+      },
+      {
+        "concept": "Colophon inscription",
+        "ottoman": "ketebe kaydı",
+        "arabic": "katabahu / ketebe (كتبه)",
+        "persian": null,
+        "english": "Ketebe: the scribal colophon formula 'he wrote (it)', naming the calligrapher and typically including the date of completion. In this album the 7th piece carries Karahisârî's ketebe with the date AH 923/1517."
+      },
+      {
+        "concept": "Lacquer binding",
+        "ottoman": "lake cilt / lake tarzında cilt",
+        "arabic": null,
+        "persian": "jild-e ruġanī (جلد روغنی)",
+        "english": "Lake (lacquer / ruganî) binding: a binding decorated by applying painted designs beneath a layer of transparent lacquer (ruġan). Associated in the 16th century with both Ottoman and Safavid luxury binding, the technique produces highly reflective, jewel-like cover surfaces. The dark ground with gold shamsa design is a standard imperial Ottoman binding format."
+      },
+      {
+        "concept": "Central medallion (binding)",
+        "ottoman": "şemse",
+        "arabic": null,
+        "persian": "shamsa (شمسه) / toranj (ترنج)",
+        "english": "Şemse: the ovoid or almond-shaped central medallion on a binding cover. Standard element of both Ottoman and Safavid binding programs. In this binding the shamsa is a large filled oval with arabesque decoration and two salbek (pendants)."
+      },
+      {
+        "concept": "Pendant from medallion (binding)",
+        "ottoman": "salbek",
+        "arabic": null,
+        "persian": "sar-toranj (سرترنج)",
+        "english": "Salbek (sar-toranj): the teardrop or tongue-shaped pendant extending above and below the central şemse medallion on a binding cover. Present on this binding above and below the shamsa."
+      },
+      {
+        "concept": "Muhakkak script",
+        "ottoman": "muhakkak hattı",
+        "arabic": "muḥaqqaq (محقق)",
+        "persian": null,
+        "english": "Muḥaqqaq: a large, rounded, formal Arabic script historically used for Quranic manuscripts and monumental calligraphy. One of the six classical scripts (aklam-i sitte). By Karahisârî's era it was being revived as an archaizing prestige script; Karahisârî was one of its leading Ottoman practitioners."
+      },
+      {
+        "concept": "Reyhânî script",
+        "ottoman": "reyhânî hattı",
+        "arabic": "rayḥānī (ريحاني)",
+        "persian": null,
+        "english": "Reyhânî (rayḥānī): a smaller version of the muḥaqqaq script, used for interlinear text or accompanying passages. One of the six classical scripts. Often paired with muḥaqqaq in luxury Quranic and calligraphic contexts."
+      }
+    ]
+  },
+  "bibliography": [
+    {
+      "citation": "Derman, M. Uğur. Letters in Gold: Ottoman Calligraphy from the Sakıp Sabancı Collection, Istanbul. New York: The Metropolitan Museum of Art, 1998.",
+      "relevance": "The standard English-language exhibition catalogue on Ottoman calligraphy, covering all major calligraphers from the 15th to the early 20th century including Ahmed Karahisârî (pp. dedicated to his scripts and albums) and Hâfız Osman. Provides biographical context, script classifications, and comparative material directly relevant to both manuscripts in this batch. The only major English-language monographic treatment of Karahisârî's calligraphic style.",
+      "relevance_score": 0.97,
+      "access_notes": "Exhibition catalogue; widely held at Islamic art libraries. Published in multiple editions (Metropolitan Museum of Art / Yale University Press). ISBN 978-0300086324."
+    },
+    {
+      "citation": "Aksoy, Şule. 'Türk ve İslam Eserleri Müzesinden Bir Osmanlı Hat Sanatı Klasiği: Karahisârî Albümü.' P, Sanat, Kültür, Antika Dergisi 21 (Spring 2001): 66–75.",
+      "relevance": "The primary scholarly study of the TİEM Karahisârî album by the head of the Calligraphy and Manuscripts Section at TİEM. Directly addresses the same museum collection and potentially the same manuscript (TİEM 02649). Provides codicological and art-historical analysis of the album's composition, scripts, and significance within Karahisârî's oeuvre. In Turkish.",
+      "relevance_score": 0.98,
+      "access_notes": "Turkish-language journal article. Available at Turkish art history libraries and TİEM library. Aksoy was Head of Calligraphy and Manuscripts at TİEM."
+    },
+    {
+      "citation": "Alparslan, Ali. Osmanlı Hat Sanatı Tarihi. Istanbul: Yapı Kredi Yayınları, 1999.",
+      "relevance": "The standard Turkish-language history of Ottoman calligraphy. Contains the principal biography of Ahmed Karahisârî and contextualizes his place within the Ottoman calligraphic tradition, his relationship to the Yāqût al-Mustaʿsimī tradition, and his influence on subsequent Ottoman scribes. Essential biographical and stylistic reference.",
+      "relevance_score": 0.92,
+      "access_notes": "Turkish-language monograph. Widely held at Turkish libraries and specialist Islamic manuscript collections."
+    },
+    {
+      "citation": "Roxburgh, David J. The Persian Album, 1400–1600: From Dispersal to Collection. New Haven: Yale University Press, 2005.",
+      "relevance": "The primary scholarly study of the Persianate album-making tradition and the mounting and presentation techniques — including vassale mounting — used in Timurid and Safavid luxury book production. Directly relevant to the vassale technique and the mülevven paper mounting program documented in this record. Roxburgh's framework for understanding how albums were conceived, assembled, and presented is the essential comparative context for Ottoman murakkaʿ production of this period.",
+      "relevance_score": 0.88,
+      "access_notes": "Monograph; widely held at major research libraries."
+    },
+    {
+      "citation": "Blair, Sheila S. 'Color and Gold: The Decorated Papers Used in Manuscripts in Later Islamic Times.' Muqarnas 17 (2000): 24–36.",
+      "relevance": "The foundational taxonomic and historical study of decorated papers in Islamic manuscripts of the 15th–18th centuries, including mülevven (colored) paper, gold-sprinkled paper, marbled paper, and gold-worked paper. Blair's framework underlies the classification of the mülevven kâğıt in this record and provides comparative chronological evidence for the use of colored papers in Ottoman and Persianate album production.",
+      "relevance_score": 0.90,
+      "access_notes": "Peer-reviewed article. Available via JSTOR and Brill (Muqarnas Online)."
+    },
+    {
+      "citation": "Çağman, Filiz, and Zeren Tanındı. The Topkapı Saray Museum: The Albums and Illustrated Manuscripts. Translated and edited by J. M. Rogers. Boston: Little, Brown, 1986.",
+      "relevance": "Standard reference for Ottoman luxury albums and illustrated manuscripts in the Topkapı collections, covering the decorative programs, paper treatments, and binding types of major Ottoman murakkaʿ albums. Provides direct comparanda for the mülevven paper programs, lacquer bindings, and multi-script album formats of the 16th century.",
+      "relevance_score": 0.85,
+      "access_notes": "Exhibition catalogue; widely held."
+    },
+    {
+      "citation": "Déroche, François. Islamic Codicology: An Introduction to the Study of Manuscripts in Arabic Script. Translated by Deke Dusinberre and David Radzinowicz. London: Al-Furqan Islamic Heritage Foundation, 2005.",
+      "relevance": "Foundational reference for Islamic manuscript codicology, providing the classification framework for paper decoration types, mounting techniques, binding forms, and physical manuscript features used throughout this catalog record.",
+      "relevance_score": 0.78,
+      "access_notes": "Monograph; available at specialist libraries."
+    },
+    {
+      "citation": "Gacek, Adam. Arabic Manuscripts: A Vademecum for Readers. Leiden: Brill, 2009.",
+      "relevance": "Standard terminology reference for Arabic manuscript studies, covering script identifications, codicological terms, and paper vocabulary used in this record. Particularly relevant for the identification and description of muḥaqqaq, rayḥānī, and other scripts present in this album.",
+      "relevance_score": 0.75,
+      "access_notes": "Widely held reference monograph."
+    },
+    {
+      "citation": "Bloom, Jonathan M. Paper Before Print: The History and Impact of Paper in the Islamic World. New Haven: Yale University Press, 2001.",
+      "relevance": "Comprehensive history of paper production and use in the Islamic world, providing material-culture background for the varieties of paper used in Ottoman luxury album production, including the pigmented and dyed papers (mülevven kâğıt) that form the decorative program of this manuscript.",
+      "relevance_score": 0.72,
+      "access_notes": "Widely held monograph."
+    },
+    {
+      "citation": "Bağcı, Serpil, Filiz Çağman, Günsel Renda, and Zeren Tanındı. Ottoman Painting. Ankara: Ministry of Culture and Tourism, 2006.",
+      "relevance": "Comprehensive survey of Ottoman visual arts including calligraphic album traditions, decorated paper use, and binding arts from the 15th to the 19th century. Provides general art-historical context for the early 16th-century Ottoman court album production within which this murakkaʿ was created.",
+      "relevance_score": 0.70,
+      "access_notes": "Museum publication; available at major Turkish studies collections."
+    }
+  ],
+  "suggested_collections": [
+    {
+      "institution": "Topkapı Sarayı Müzesi Kütüphanesi, Istanbul",
+      "reason": "Holds the most important comparable Ottoman calligraphic albums and murakkaʿ collections of the 16th century, including albums attributable to the Karahisârî workshop. Direct comparanda for the multi-colored mülevven paper program and the lacquer binding.",
+      "digital_access": "https://kutuphane.tsmk.gov.tr"
+    },
+    {
+      "institution": "Chester Beatty Library, Dublin",
+      "reason": "Outstanding collection of Ottoman and Safavid luxury albums with decorated papers, including examples of mülevven kâğıt mounting and multi-script murakkaʿ albums. Several works by or attributed to major 16th-century Ottoman calligraphers are held here.",
+      "digital_access": "https://viewer.cbl.ie"
+    },
+    {
+      "institution": "Sakıp Sabancı Museum, Istanbul",
+      "reason": "Collection studied by Derman (Letters in Gold, 1998); holds major examples of Karahisârî's work and Ottoman calligraphic albums, providing the closest institutional comparanda for this TİEM murakkaʿ.",
+      "digital_access": null
+    },
+    {
+      "institution": "Museum with No Frontiers — Discover Islamic Art (online)",
+      "reason": "The Museum with No Frontiers database includes an entry on the TİEM Karahisârî album prepared by Sevgi Kutluay (TİEM Calligraphy and Manuscripts Section), providing additional contextual information and comparative reference within the TİEM collection.",
+      "digital_access": "https://islamicart.museumwnf.org"
+    }
+  ],
+  "provenance": {
+    "donor": null,
+    "waqf": null,
+    "previous_shelfmarks": [],
+    "notes": "Held at the Türk ve İslam Eserleri Müzesi (TİEM / Museum of Turkish and Islamic Arts), Istanbul, under shelfmark 02649. According to secondary sources, the TİEM collection incorporates materials formerly held at Ayasofya (a related TİEM Karahisârî album was transferred from the Ayasofya library collection in 1914). The provenance of this specific album prior to TİEM acquisition is not recorded in the YEK catalogue entry. YEK ID: 705440. IIIF ID: 0000000662651."
+  },
+  "analysis_metadata": {
+    "analyzed_date": "2026-02-28",
+    "analyzer": "claude-code-manuscript-pipeline",
+    "pipeline_stage": "metadata-generator",
+    "image_source": "YEK Portal IIIF native-resolution images (YEK ID 705440, TİEM 02649, IIIF ID 0000000662651). Up to 11191 × 7264 px native resolution. 20 pages total; 7 pages examined at native resolution (p001, p003, p004, p005, p008, p012, p016, p017). Additional 14 pages examined at viewer resolution (~1536px wide) via visual confirmation session.",
+    "image_quality_notes": "Native IIIF resolution (up to 11191 × 7264 px) is excellent and supports detailed analysis of the mülevven paper colors, gold ruling systems, calligraphic script identification, and binding. The gold-worked (zerkârî) question — whether margin areas carry additional gold patterning beyond the ruling lines — remains open at viewer resolution; native IIIF examination of pp. 004 and 016 suggests gold ruling only (cetvelli), but definitive exclusion of gold-worked paper requires further examination. The lacquer binding shamsa can be more precisely described at native resolution. Full codicological analysis (paper type, chain lines, binding structure) requires physical examination.",
+    "folios_examined": [
+      "corpus/iiif/tiem_02649_p001.jpg",
+      "corpus/iiif/tiem_02649_p003.jpg",
+      "corpus/iiif/tiem_02649_p004.jpg",
+      "corpus/iiif/tiem_02649_p005.jpg",
+      "corpus/iiif/tiem_02649_p008.jpg",
+      "corpus/iiif/tiem_02649_p012.jpg",
+      "corpus/iiif/tiem_02649_p016.jpg",
+      "corpus/iiif/tiem_02649_p017.jpg"
+    ],
+    "folios_not_examined": "Pages 002 (inside front cover — maroon inner board visible in viewer session), 006, 007, 009, 010, 011, 013, 014, 015, 018, 019, 020 were not examined at native resolution in this session. Viewer-resolution examination covers pp. 001–006, 008, 010, 012, 014, 016–019. Pages 007, 009, 011, 013, 015, 020 were observed only in thumbnail strips in adjacent viewer screenshots.",
+    "corpus_priority": "MAJOR SPECIMEN — earliest dated murakkaʿ in TIEM triage (AH 923/1517). By Ahmed Şemseddîn Karahisârî, one of three foundational Ottoman calligraphers. Multi-colored mülevven program (at least 6 colors) is the most extensive polychrome sequence in the current corpus. Lacquer binding with gold shamsa. All follow-up IIIF examination priority: full page-by-page survey of unexamined openings; high-resolution study of gold ruling detail and any gold-worked margin elements; colophon/ketebe folio for inscription reading.",
+    "source_data": {
+      "search_file": "catalog/searches/visual_slot5_tiem_02649.json",
+      "yek_id": "705440",
+      "visual_confirmation_file": "catalog/searches/visual_slot5_tiem_02649.json",
+      "batch": "Murakkaʿ IIIF deep analysis batch (2026-02-28)"
+    }
+  }
+}

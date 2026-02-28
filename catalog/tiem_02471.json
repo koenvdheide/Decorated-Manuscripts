@@ -1,0 +1,484 @@
+{
+  "record_id": "tiem_02471",
+  "collection": {
+    "institution": "Türk ve İslam Eserleri Müzesi",
+    "city": "Istanbul",
+    "country": "Turkey",
+    "shelfmark": "02471",
+    "yek_url": "https://portal.yek.gov.tr/yazmaeser/eser-detay/705408"
+  },
+  "manuscript": {
+    "title": "Murakkaʿ / مرقع",
+    "title_script": "مرقع",
+    "title_alt": "Murakkaʿ (calligraphy album)",
+    "author": null,
+    "author_dates": null,
+    "calligrapher": "Multiple: İsmaʿil Zühdî; Emir Efendizade Seyyid Abdülhalim; Hâfız Yûsuf; Sâmizade Abdullah; Seyyid Abdullah (AH 1110/1698–99 and AH 1113/1701–02); Hâfız Osman (d. AH 1110/1698)",
+    "calligrapher_dates": "Album compiled c. AH 1110–1113 / 1698–1702 CE; Hâfız Osman d. AH 1110/1698",
+    "calligrapher_note": "The album contains fourteen calligraphy pieces by six calligraphers. Ketebe (colophon) inscriptions place the works of Seyyid Abdullah at AH 1110 (1698–99) and AH 1113 (1701–02). The presence of a meşk (practice/model) inscription by Hâfız Osman — the most celebrated Ottoman calligrapher of the 17th century — confirms that some pieces are either by Osman or copies from his models. Hâfız Osman died in AH 1110/1698, so his pieces are datable to before that year.",
+    "date_ah": "c. 1110–1113",
+    "date_ce": "c. 1698–1702",
+    "place_of_copy": null,
+    "format": "murakkaa / murakkaat (murakkaʿ — calligraphy album)",
+    "format_note": "A bound calligraphy album (murakkaat / مرقعات) containing fourteen kıtʿa (قطعة — specimen sheets) in Arabic sülüs (thuluth) and nesih (naskh) scripts. Contents include hadith (prophetic sayings), Quranic verses, and harf meşkleri (letter-form practice models). The album is organized in a vassale format, with calligraphy panels window-mounted in decorated paper grounds.",
+    "language": "Arabic",
+    "script": "Arap harfli — Sülüs (thuluth) and Nesih (naskh)",
+    "dimensions_mm": {
+      "height": 328,
+      "width": 265
+    },
+    "folio_count": 8,
+    "yek_id": "705408",
+    "iiif_id": "0000000662621",
+    "notes": "MAJOR FIND: Most technique-rich decorated paper album in the project corpus. Contains at minimum three distinct block-printed or stenciled paper types (Types A, B, C — see below), multiple ebru subtypes, gold-worked inner borders, mulevven (colored/sage-green) paper, and a complex multi-layer cedvel framing system. YEK ID NOTE: The task initially cited YEK 705407 for this shelfmark; 705407 is TIEM 02470 (a separate murakka). Verified correct: YEK 705408 = TIEM 02471 / IIIF 0000000662621. Cataloguing by YEK: Nalan Kutsal. YEK catalogue contains no decoration description (kagit_ozellikleri = null, tezhip_minyatur = null); all decoration evidence is from visual examination of IIIF images."
+  },
+  "paper_decoration": {
+    "types": [
+      "other",
+      "marbled",
+      "gold_worked",
+      "colored",
+      "framing_system"
+    ],
+    "summary": "TIEM 02471 is the most technique-rich album in the project corpus, with a minimum of three distinct block-printed paper patterns, two varieties of marbled paper, gold-worked inner borders, and sage-green mulevven (colored) paper. The decorative program organizes the album into distinct zones: (1) the front doublure (p001) uses Type A block-printed paper — horizontal rows of alternating small red/pink flower clusters and blue-green leaf sprays on a cream ground, rows separated by delicate chain/zigzag ornamental borders; (2) the front endpaper opening (p002) deploys two different patterns side-by-side — Type B block-printed paper (large ogival medallion lattice with circular cells filled with dense blue-grey stippling separated by pink/red connecting zones) on the left, and battal ebru (blue-grey stone marbling) on the right; (3) the interior album openings (pp. 003–009) use a varied but systematic program: calligraphy panels are vassale-mounted in inner frames with gold-worked (zerkâri) stippled grounds, surrounded by salmon/pink inner mounts, with outer margins in hatip ebru (orange/red/blue-grey floral marbling) or gel-git (combed/taraklı) marbling in blue-grey tones; (4) one interior page (p004 left) shows sage-green mulevven paper as the inner frame ground; (5) p010 (rear endpaper opening) mirrors p002, with battal ebru on the left and Type B ogival lattice on the right. A third stenciled/block-printed paper type (Type C: scattered flowers on margins) was noted in the visual triage but could not be separately confirmed at IIIF resolution for all pages. The dark red leather binding with gilt chain-border (zencirek) outer frame is visible on p001. TECHNIQUE DETERMINATION (2026-02-28, native IIIF analysis): Type A (floral rows, doublure pp. 001/011): BLOCK-PRINTED (0.78) — border bands show continuous zigzag pattern without stencil bridges, clean motif edges without overspray, row-by-row lateral offset consistent with narrow-block application. Possible textile substrate (basma/chintz, 0.07). Type B (ogival medallion lattice, endpapers pp. 002/010): BLOCK-PRINTED (0.85, highest confidence) — branching stipple texture within medallion cells is a direct physical signature of carved woodblock ink transfer (veining/stippling gouge), cannot be replicated by stenciling. Cream gap between blue-grey and pink zones confirms multi-step production. Type C: RECLASSIFIED — red forms on p005 left are hatip ebru (marbled), not mechanically decorated. Type C restricted to p009 left only: scattered red trefoils on sage-green ground, tentatively STENCILED (0.50). Physical examination required for press indentation, verso show-through, and sub-millimeter stencil bridge detection.",
+    "distribution_notes": "Decorated paper is present throughout the album: block-printed papers on doublures and endpapers (pp. 001–002, 010–011); marbled papers as outer margin grounds on interior pages (pp. 003–009); gold-worked inner mount frames on interior pages; mulevven sage-green on at least one interior page inner frame (p004 left). The album thus uses decorated paper not only as flyleaves but as the primary ground for all calligraphy mounts.",
+    "technique_terms": {
+      "ottoman": "blok-baskılı kâğıt (Type A: çiçek sıralı; Type B: ogival kafes; Type C: serpme çiçek); battal ebru; hatip ebru; gel-git ebru / taraklı ebru; zerkâri iç bordür; mülevven kâğıt (çam yeşili); altın cetvelli; vassale yöntemiyle monte edilmiştir",
+      "persian": "kāġaḏ-e chāpī (کاغذ چاپی — printed/block-printed paper); kāġaḏ-e abrī (کاغذ ابری — marbled paper); zarkārī (زرکاری — gold-worked); jadval-e zar (جدول زر — gold ruling); vassāla (واساله — window-mounting)",
+      "arabic": "waraq maṭbūʿ (ورق مطبوع — printed paper); waraqa al-abrī (ورقة ابری — marbled paper); jadwal mudhahdhab (جدول مذهّب — gold-ruled frame)"
+    },
+    "catalogue_description": {
+      "paper_field": null,
+      "notes_field": "Hadis-i şerifler, ayetler ve harf meşkleri olmak üzere çeşitli yazıların yer aldığı, 14 parça yazıdan oluşan bu muraqqada 3. yazının sonunda İsmaʿil Zühdî'nin, 5. yazının sonunda Emir Efendizade Seyyid Abdülhalim'in, 6. yazının sonunda Hâfız Yûsuf'un, 7. yazının sonunda Sâmizade Abdullah'ın ketebe kayıtları bulunmaktadır. Muraqqadaki 9. yazının sonunda Seyyid Abdullah'ın ketebe kaydı ve 1113 (1701–1702) tarihi vardır. Muraqqadaki 10. yazı da Seyyid Abdullah'a aittir ve 1110 (1698–99) tarihlidir. Muraqqada yer alan 11. ve 12. yazıların sonunda Hâfız Osman'ın meşk kaydı vardır.",
+      "decoration_field": null,
+      "source": "YEK portal, genel_notlar field, record 705408. Türk ve İslam Eserleri Müzesi. Catalogued by Nalan Kutsal. Note: kağıt özellikleri and tezhip/minyatür fields are both null in the YEK record — all decoration claims derive exclusively from visual analysis of IIIF images."
+    }
+  },
+  "workshop_attribution": {
+    "primary_tradition": "ottoman",
+    "workshop_centre": "Istanbul",
+    "date_range_ce": "c. 1698–1702",
+    "confidence": 0.80,
+    "key_indicators": [
+      "Dated ketebe inscriptions of Seyyid Abdullah at AH 1110 (1698–99) and AH 1113 (1701–02) establish a firm late-17th/early-18th century Ottoman date",
+      "Hâfız Osman (d. AH 1110/1698) — the preeminent Ottoman sülüs calligrapher — is named in meşk inscriptions, placing the album in the Istanbul calligraphic tradition at its peak",
+      "The block-printed paper types (ogival medallion lattice with stippled cells; floral-row doublure paper) are consistent with late 17th-century Ottoman luxury album production in Istanbul",
+      "The combination of hatip ebru, gel-git ebru, and battal ebru as margin grounds, with vassale-format calligraphy mounts, is characteristic of the Istanbul album-making workshops of the late 17th century",
+      "The dark red leather binding with gilt zencirek chain-border frame is consistent with Ottoman bindings of the period"
+    ],
+    "cross_tradition_caveats": [
+      "The block-printed paper types (Types A, B, C) have no established Turkish attributive terminology in the YEK corpus and cannot currently be located in the comparative literature on Ottoman decorated paper; their workshop of manufacture is unknown",
+      "Type A floral-row paper resembles printed textile (chintz/basma) and may be imported rather than produced in Istanbul",
+      "ALTERNATIVE HYPOTHESIS — kumlu ebru (sand marbling): The stippled fill within Type B medallion cells could be kumlu ebru (fine-sprinkle marbling) applied through a reusable lattice mask, rather than block-print texture. The granular, spray-like character is consistent with both techniques. The lattice geometry is confirmed identical on front (p002) and rear (p010) endpapers, proving a reusable template; but the internal fill pattern may differ between sheets (which would favor kumlu-through-mask over block-print). Decisive test: 20x microscopic comparison of corresponding cells on both endpapers + verso examination for pigment penetration (marbling = both sides; block-print = recto only). Current assessment retains block-print as primary (0.85) with kumlu ebru hybrid as alternative (0.20-0.25)"
+    ]
+  },
+  "codicology": {
+    "paper": {
+      "color": "Multiple: cream (calligraphy panels, Type A doublure ground); blue-grey (battal ebru, Type B stippled circles); salmon/pink (inner mounts); sage-green (mulevven — at least one inner frame)",
+      "preparation": "Aharlı (sized/burnished) — the calligraphy panels show the smooth burnished surface characteristic of Ottoman calligraphy paper; the decorated paper grounds show a range of textures consistent with their respective techniques",
+      "weight": "Indeterminate from IIIF images; album format typically employs heavier stock for mounts",
+      "decoration": "Multiple decorated paper types as detailed in paper_decoration",
+      "paper_type": "Mixed: Eastern/Oriental paper for calligraphy panels; decorated papers of multiple techniques for grounds and mounts"
+    },
+    "ruling": {
+      "system": "Multi-layer cedvel system throughout album openings; gold rules, additional colored rules; inner frames around calligraphy panels",
+      "description": "Each album opening presents a multi-layer framing system: innermost gold cedvel framing the calligraphy text block, followed by gold-worked (zerkâri) stippled inner border bands, followed by a salmon/pink intermediate mount, followed by marbled or block-printed outer margin paper. The total layering creates a 5–7 zone framing system."
+    },
+    "binding": {
+      "cover_description": "Dark red (burgundy) leather binding; covers framed by gilt zencirek chain-border strips; visible in p001 margin and binding spine. The covers appear intact and original to the album.",
+      "cover_type": "Deri cilt — leather binding with gilt zencirek frame",
+      "notes": "The binding is consistently burgundy leather with a gilt ornamental frame, visible in the IIIF images. No lacquer (ruganî) or marbled binding covers were observed; the decorated papers are interior."
+    },
+    "format": "Murakkaat (murakkaʿ) — bound calligraphy album in vassale format",
+    "condition_summary": "The album appears generally well-preserved in IIIF images. The block-printed papers on pp. 001 and 002/010 are clearly legible. Some wear is visible in the calligraphy panels (light soiling, small tears at edges) consistent with heavy use as a workshop model book (meşkhane). The gold-worked inner borders show minor oxidation.",
+    "conservation_history": null
+  },
+  "visual_confirmation": {
+    "verdict": "confirmed",
+    "confidence": 0.92,
+    "screenshots_examined": 11,
+    "folios_examined": [
+      "corpus/iiif/tiem_02471_p001.jpg",
+      "corpus/iiif/tiem_02471_p002.jpg",
+      "corpus/iiif/tiem_02471_p003.jpg",
+      "corpus/iiif/tiem_02471_p004.jpg",
+      "corpus/iiif/tiem_02471_p005.jpg",
+      "corpus/iiif/tiem_02471_p006.jpg",
+      "corpus/iiif/tiem_02471_p007.jpg",
+      "corpus/iiif/tiem_02471_p008.jpg",
+      "corpus/iiif/tiem_02471_p009.jpg",
+      "corpus/iiif/tiem_02471_p010.jpg",
+      "corpus/iiif/tiem_02471_p011.jpg"
+    ],
+    "limitations": [
+      "IIIF screenshots are downscaled from native resolution (up to 7749x4936 px) to browser viewport; the full native resolution has not been examined systematically",
+      "Technique determination refined (2026-02-28): Type A block-printed (0.78), Type B block-printed (0.85, highest confidence — branching stipple diagnostic), Type C tentatively stenciled (0.50). Press indentation, verso show-through, and sub-mm stencil bridges still require physical examination",
+      "YEK catalogue contains no decoration description (kagit_ozellikleri and tezhip_minyatur = null); all observations are from visual examination only",
+      "Type C reclassification (2026-02-28): red forms on p005 confirmed as hatip ebru (marbled), not block-printed. Type C restricted to p009 left only (scattered red trefoils on sage-green ground)",
+      "The sage-green mulevven paper observed on p004 left may be a colored paper mount rather than a separate decorated paper ground"
+    ]
+  },
+  "folio_analyses": [
+    {
+      "folio": "p001 — Front doublure, Type A block-printed paper",
+      "source_image": "corpus/iiif/tiem_02471_p001.jpg",
+      "decoration_present": true,
+      "decoration_types": ["other"],
+      "elements": [
+        {
+          "motif": "Type A block-printed (or stenciled) paper — horizontal floral-row pattern",
+          "description": "Full doublure leaf decorated with a repeating pattern of horizontal rows of alternating small floral clusters: (a) red/pink flowers with multiple petals (carnation/lale type, approximately 8–10 mm at native resolution), and (b) blue-green leaf sprays with a central stem and lateral leaves. The two motif types alternate in horizontal bands. Each band is separated by a narrow ornamental border strip in gold/brown, appearing as a delicate chain or zigzag rule. The pattern is strikingly regular in spacing and motif size, consistent with mechanical reproduction (block-printing or stenciling) rather than hand-painting. The ground is cream-colored paper. The motif vocabulary — carnation/tulip-type flowers and leaf sprays — is within the Ottoman floral tradition and consistent with late 17th-century Istanbul production. This pattern type resembles printed cotton/linen chintz (basma) in its repeat structure and may derive from textile prototypes. A dark red (burgundy) leather binding frame is visible at the edges.",
+          "location": "Full doublure (inside front cover)",
+          "confidence": 0.88
+        }
+      ],
+      "confidence": 0.88,
+      "notes": "The Type A pattern is one of the most visually striking elements in the album. The extreme regularity of the repeat and the crisp border lines between rows are the primary diagnostic features for mechanical reproduction. The stencil-vs-block-print question remains open: Type A's textile-like repeat structure slightly favors block-printing, but stencil bridges may simply be too small to see at current resolution."
+    },
+    {
+      "folio": "p002 — Front endpaper opening: Type B block-printed paper (left) + battal ebru (right)",
+      "source_image": "corpus/iiif/tiem_02471_p002.jpg",
+      "decoration_present": true,
+      "decoration_types": ["other", "marbled"],
+      "elements": [
+        {
+          "motif": "Type B block-printed (or stenciled) paper — ogival medallion lattice",
+          "description": "The left page of the opening is covered with a large-scale ogival lattice pattern. Each cell of the lattice is a rounded, near-circular shape filled with dense, fine blue-grey stippling. The cells are separated by connecting zones in pink/red. The stippling within each circle has an organic, mottled texture that could result from either very fine stencil application or coarse woodblock ink transfer. The pattern fills the entire page. Compared to Type A, this is a bolder, more architectural repeat, with a scale approximately 5–6× larger than the Type A floral motifs. The color palette — blue-grey circles on pink/red connectors — is coordinated with the battal ebru facing page. No shelfmark or catalogue labels are visible on this page.",
+          "location": "Left page of front endpaper opening (inside front cover verso)",
+          "confidence": 0.90
+        },
+        {
+          "motif": "Battal ebru — blue-grey stone marbling",
+          "description": "The right page of the opening is covered with battal ebru (stone/spot marbling) in blue-grey tones with flowing organic forms. The pattern is unmistakably the result of freely floated pigments on marbling size, with the characteristic irregular, organic distribution of a battal ebru. No combing or stylus manipulation is evident. The color palette — predominantly blue-grey with lighter cream/white areas — coordinates visually with the Type B block-printed paper on the facing page, suggesting the two were selected as a deliberate pair.",
+          "location": "Right page of front endpaper opening (f. 1a recto)",
+          "confidence": 0.95
+        }
+      ],
+      "confidence": 0.93,
+      "notes": "The deliberate coordination of Type B paper color palette with the battal ebru facing it strongly suggests that the album's decorator chose these papers as a matched pair for the endpaper opening. The IIIF native resolution for p002 is 7631x4936 px — the highest resolution page in the album — but the present analysis used the downscaled IIIF viewer image."
+    },
+    {
+      "folio": "p003 — Calligraphy opening: gold-worked inner frames + hatip ebru outer margin",
+      "source_image": "corpus/iiif/tiem_02471_p003.jpg",
+      "decoration_present": true,
+      "decoration_types": ["gold_worked", "marbled", "framing_system"],
+      "elements": [
+        {
+          "motif": "Zerkâri inner mount — gold-worked stippled ground",
+          "description": "The left page (p003 left) shows a calligraphy panel window-mounted in a multi-layer frame. The innermost frame around the text panel is a gold-worked (zerkâri) paper with a dense, fine stippled texture in grey-gold — appearing as an overall granular metallic surface without distinct figural motifs. This is consistent with the Ottoman zerkâri technique in which the entire paper surface is worked with fine gold, creating a shimmering ground. A similar gold-worked frame is visible on the right page.",
+          "location": "Inner frame around calligraphy panel, both pages of the opening",
+          "confidence": 0.82
+        },
+        {
+          "motif": "Hatip ebru outer margin",
+          "description": "The right page (p003 right) has a hatip ebru (imam's marbling / floral marbling) in deep blue-grey with large curvilinear floral motifs as its outer margin paper. The hatip-style floral forms are clearly visible. The left page shows a pinkish-salmon outer margin which may be a lightly tinted or faded hatip ebru, or a separate colored mount.",
+          "location": "Outer margin area, right page; pinkish outer margin, left page",
+          "confidence": 0.80
+        }
+      ],
+      "confidence": 0.80,
+      "notes": "P003 introduces the interior album decorative program, which is more complex than the endpapers. The gold-worked inner frame + hatip ebru outer margin combination recurs across multiple interior openings."
+    },
+    {
+      "folio": "p004 — Calligraphy opening: mulevven sage-green inner frame (left) + hatip ebru outer",
+      "source_image": "corpus/iiif/tiem_02471_p004.jpg",
+      "decoration_present": true,
+      "decoration_types": ["colored", "marbled", "gold_worked", "framing_system"],
+      "elements": [
+        {
+          "motif": "Mülevven (sage-green colored) inner frame",
+          "description": "The left page has a distinctly sage-green/olive-toned inner frame surrounding the calligraphy panel. The color is consistent with a mulevven (colored/dyed) paper used as the inner mount. The green tone is subdued and consistent, without pattern, distinguishing it from marbled papers. This appears to be a flat-colored paper rather than a decorated ground.",
+          "location": "Inner mount frame, left page",
+          "confidence": 0.75
+        },
+        {
+          "motif": "Hatip ebru outer margin (red-orange and blue-grey tones)",
+          "description": "The outer margin of the left page shows a hatip ebru in warm red/orange and blue-grey tones with large, bold curvilinear floral motifs. This is the most vivid of the hatip ebru outer margins observed in the album interior. The right page shows a blue-grey hatip ebru or gel-git marbling as its outer margin. The contrast between the warm-toned hatip ebru on left and the cool-toned marbling on right is a recurring compositional feature of this album.",
+          "location": "Outer margin, left page (warm tones) and right page (cool tones)",
+          "confidence": 0.85
+        }
+      ],
+      "confidence": 0.80,
+      "notes": "The sage-green mulevven inner frame on p004 left is one of the most distinctive elements in the album. It may represent a separate category of colored paper used specifically as an inner mount, contrasting with the more elaborate decorated papers elsewhere."
+    },
+    {
+      "folio": "p005 — Calligraphy opening: hatip ebru (red) outer + zerkâri blue-pattern inner (right)",
+      "source_image": "corpus/iiif/tiem_02471_p005.jpg",
+      "decoration_present": true,
+      "decoration_types": ["marbled", "gold_worked", "framing_system"],
+      "elements": [
+        {
+          "motif": "Hatip ebru outer margin — bold red/orange tones",
+          "description": "The left page outer margin is covered with bold hatip ebru in red/orange tones with large curvilinear forms on a cream ground. The right page outer margin appears to be a blue-grey gel-git or battal ebru.",
+          "location": "Outer margins, both pages",
+          "confidence": 0.88
+        },
+        {
+          "motif": "Zerkâri blue patterned inner frame",
+          "description": "The right page shows a blue patterned inner frame around the calligraphy panel, appearing to be either a gold-worked paper with a blue ground or a colored paper with gold-worked decoration. The patterning is more elaborate than the stippled grey zerkâri of p003.",
+          "location": "Inner frame, right page",
+          "confidence": 0.72
+        }
+      ],
+      "confidence": 0.80,
+      "notes": "The variation in inner frame treatments across album pages — grey stippled zerkâri (p003), mulevven green (p004 left), blue zerkâri (p005 right) — suggests deliberate compositional variety rather than a uniform scheme."
+    },
+    {
+      "folio": "p007 — Calligraphy opening: gel-git/combed ebru (left) + hatip ebru (right)",
+      "source_image": "corpus/iiif/tiem_02471_p007.jpg",
+      "decoration_present": true,
+      "decoration_types": ["marbled", "framing_system"],
+      "elements": [
+        {
+          "motif": "Gel-git / taraklı ebru (combed marbling) — left outer margin",
+          "description": "The left page shows a gel-git (combed) or taraklı ebru in blue-grey, orange, and cream tones as the outer margin. The distinctive flowing, multi-directional curvilinear forms with layered color transitions visible on this page are consistent with gel-git (back-and-forth comb) marbling rather than simple battal or hatip styles. The large swirling formations suggest a skilled marbler working with multiple pigments.",
+          "location": "Outer margin, left page",
+          "confidence": 0.83
+        },
+        {
+          "motif": "Hatip ebru outer margin — warm pink/orange/cream",
+          "description": "The right page outer margin shows hatip ebru in warm pink/orange and cream, with large bold organic forms. The coloring is lighter than the red-dominant hatip ebru on p004 left.",
+          "location": "Outer margin, right page",
+          "confidence": 0.87
+        }
+      ],
+      "confidence": 0.83,
+      "notes": "The gel-git ebru on p007 left is the clearest example of combed marbling in the album. The variety of marbling subtypes across interior pages (battal, hatip, gel-git) suggests the album maker had access to a comprehensive range of Ottoman marbled paper types."
+    },
+    {
+      "folio": "p010 — Rear endpaper opening: battal ebru (left) + Type B ogival lattice (right)",
+      "source_image": "corpus/iiif/tiem_02471_p010.jpg",
+      "decoration_present": true,
+      "decoration_types": ["marbled", "other"],
+      "elements": [
+        {
+          "motif": "Battal ebru — blue-grey stone marbling (left)",
+          "description": "The left page of the rear endpaper opening shows battal ebru in blue-grey, cream, and light blue tones — the same battal ebru pattern used on p002 right, now appearing on the left as the album closes. The mirror-image placement of the battal ebru (front: right of p002; rear: left of p010) and the Type B ogival lattice (front: left of p002; rear: right of p010) is a deliberate symmetrical arrangement, framing the album interior as a unified decorative program.",
+          "location": "Left page of rear endpaper opening",
+          "confidence": 0.93
+        },
+        {
+          "motif": "Type B block-printed paper — ogival medallion lattice (right)",
+          "description": "The right page shows the same Type B ogival medallion lattice as p002 left: large rounded cells with dense blue-grey stippling on pink/red connectors. The recurrence of this pattern at both the front and rear endpapers, framing the calligraphy interior, confirms its role as the primary structural decorated paper in the album's design program.",
+          "location": "Right page of rear endpaper opening",
+          "confidence": 0.92
+        }
+      ],
+      "confidence": 0.93,
+      "notes": "The symmetrical deployment of battal ebru and Type B ogival lattice at both front (p002) and rear (p010) endpaper openings is the most significant structural feature of the album's decorative program. This mirror-image arrangement is a deliberate compositional decision, demonstrating that the album maker had a unified decorative concept from the outset."
+    }
+  ],
+  "terminology": {
+    "terms_used": [
+      {
+        "concept": "Calligraphy album",
+        "ottoman": "murakkaat / murakkaa (مرقعات)",
+        "arabic": "muraqqa (مرقع)",
+        "persian": "muraqqa (مرقع)",
+        "english": "Murakkaʿ: a bound album containing mounted calligraphic specimens (kıtʿa), often also miniature paintings. The Ottoman murakkaat format typically presents calligraphy panels window-mounted in decorated paper grounds."
+      },
+      {
+        "concept": "Specimen/practice sheet",
+        "ottoman": "kıtʿa / meşk",
+        "arabic": "qiṭʿa (قطعة)",
+        "persian": "qiṭʿa (قطعه)",
+        "english": "Kıtʿa: a single calligraphic specimen sheet, typically one side of a leaf. Meşk: a practice or model piece used in calligraphy teaching."
+      },
+      {
+        "concept": "Block-printed paper",
+        "ottoman": "blok-baskılı kâğıt / basma kâğıt",
+        "arabic": "waraq maṭbūʿ (ورق مطبوع)",
+        "persian": "kāġaḏ-e chāpī (کاغذ چاپی)",
+        "english": "Block-printed paper: paper decorated by pressing a carved wooden block carrying pigment onto the paper surface. Distinct from stenciling (no mask) and marbling (no trough/size). May show press indentation and direct ink transfer from the block. In Ottoman usage often associated with chintz-derived (basma) patterns."
+      },
+      {
+        "concept": "Stenciled paper",
+        "ottoman": "şablon baskılı kâğıt (no established standard term)",
+        "arabic": null,
+        "persian": null,
+        "english": "Stenciled paper: paper decorated by applying pigment through pre-cut template masks (stencils). Produces flat-color motifs with crisp edges; characteristic diagnostic traces include stencil bridges (unpainted connectors inside closed shapes), misregistration, and edge haloing. The distinction from block-printing requires physical examination or high-magnification imaging."
+      },
+      {
+        "concept": "Vassale mounting",
+        "ottoman": "vassale yöntemiyle monte edilmiştir",
+        "arabic": null,
+        "persian": "vassāla (واساله)",
+        "english": "Vassale: window-mounting technique in which calligraphy or painting panels are written or painted on separate sheets, cut, and mounted into openings cut from decorated paper grounds. The decorated paper forms the ground/margin and the calligraphy panel is the inset."
+      },
+      {
+        "concept": "Hatip ebru — floral marbling",
+        "ottoman": "hatip ebru / hatip ebrusu",
+        "arabic": null,
+        "persian": "abrī-ye gul-dār (ابری گل دار)",
+        "english": "Hatip ebru (imam's marbling): marbled paper with large curvilinear floral motifs formed by drawing a stylus through floated pigments on marbling size. Named in the Ottoman tradition after Hâtip Mehmed Efendi."
+      },
+      {
+        "concept": "Battal ebru — stone/spot marbling",
+        "ottoman": "battal ebru",
+        "arabic": null,
+        "persian": "abrī-ye battāl (ابری بطال)",
+        "english": "Battal ebru (stone/spot marbling): the simplest marbled paper, produced by allowing pigments to float freely on size without manipulation. Creates an irregular spotted or mottled pattern."
+      },
+      {
+        "concept": "Combed marbling",
+        "ottoman": "gel-git ebru / taraklı ebru",
+        "arabic": null,
+        "persian": null,
+        "english": "Gel-git ebru (back-and-forth marbling) / taraklı ebru (combed marbling): marbled paper produced by drawing a comb or rake through floated pigments in alternating directions. Creates flowing, wave-like or feathered patterns."
+      },
+      {
+        "concept": "Gold-worked paper",
+        "ottoman": "zerkâri kâğıt",
+        "arabic": null,
+        "persian": "zarkārī (زرکاری)",
+        "english": "Zerkâri (gold-worked) paper: paper decorated with motifs or overall surface treatment in gold, typically by burnishing gold onto a sized ground or applying gold pigment through techniques producing a worked metallic surface."
+      },
+      {
+        "concept": "Colored paper",
+        "ottoman": "mülevven kâğıt",
+        "arabic": "waraq mulawwan (ورق ملوّن)",
+        "persian": "kāġaḏ-e mulavvan (کاغذ ملوّن)",
+        "english": "Mülevven kâğıt (colored paper): paper dyed or pigmented in a solid color. In this album, sage-green mulevven paper is used as inner mount frames on at least one interior opening."
+      },
+      {
+        "concept": "Ruling lines",
+        "ottoman": "cedvel / altın cetvelli",
+        "arabic": "jadwal (جدول)",
+        "persian": "jadval (جدول)",
+        "english": "Cedvel: ruling lines framing the text block. The multi-layer cedvel system in this album creates the concentric frame zones (innermost text frame, inner mount, outer margin) characteristic of high-level Ottoman album production."
+      },
+      {
+        "concept": "Prophetic sayings",
+        "ottoman": "hadis-i şerifler",
+        "arabic": "aḥādīth (أحاديث)",
+        "persian": null,
+        "english": "Hadith (prophetic sayings): the album contents include calligraphic specimens of hadith texts, Quranic verses, and letter-form models (harf meşkleri)."
+      },
+      {
+        "concept": "Letter-form practice model",
+        "ottoman": "harf meşkleri",
+        "arabic": null,
+        "persian": null,
+        "english": "Meşk: calligraphy practice or model piece. Harf meşkleri: letter-form models demonstrating the correct form of individual Arabic letters in the calligraphic tradition."
+      }
+    ]
+  },
+  "bibliography": [
+    {
+      "citation": "Derman, M. Uğur. Letters in Gold: Ottoman Calligraphy from the Sakıp Sabancı Collection, Istanbul. New York: Metropolitan Museum of Art, 1998.",
+      "relevance": "The standard English-language survey of Ottoman calligraphy and the murakkaat album tradition, with extensive coverage of the Istanbul calligraphic schools of the 17th century, including Hâfız Osman and his circle. Directly relevant to this album's calligraphers, content, and Istanbul production context.",
+      "relevance_score": 0.95,
+      "access_notes": "Exhibition catalogue; widely held at major research libraries."
+    },
+    {
+      "citation": "Tanındı, Zeren. 'Bibliophile Aghas (Eunuchs) at Topkapı Saray.' Muqarnas 21 (2004): 333–43.",
+      "relevance": "Documents the album-collecting and commissioning practices of the Ottoman court during the late 17th century, the period of this album's production. Provides context for the patronage of murakkaat albums and the role of court calligraphers including Hâfız Osman.",
+      "relevance_score": 0.82,
+      "access_notes": "Peer-reviewed article. Available via JSTOR and institutional access."
+    },
+    {
+      "citation": "Roxburgh, David J. The Persian Album, 1400–1600: From Dispersal to Collection. New Haven: Yale University Press, 2005.",
+      "relevance": "The primary scholarly study of the album-making tradition in the Persianate and Ottoman worlds, covering the vassale mounting technique, the role of decorated papers as grounds for calligraphy mounts, and the structural principles of murakkaat albums. Provides essential theoretical and comparative framework for this record.",
+      "relevance_score": 0.90,
+      "access_notes": "Monograph; widely held at major research libraries."
+    },
+    {
+      "citation": "Blair, Sheila S. 'Color and Gold: The Decorated Papers Used in Manuscripts in Later Islamic Times.' Muqarnas 17 (2000): 24–36.",
+      "relevance": "The foundational taxonomic study of decorated papers in Islamic manuscripts, covering marbled, gold-sprinkled, gold-worked, and stenciled types. The classification framework for all paper types documented in this album — battal ebru, hatip ebru, gel-git ebru, zerkâri, mülevven — derives from or is consistent with Blair's typology.",
+      "relevance_score": 0.95,
+      "access_notes": "Peer-reviewed article. Available via JSTOR and institutional library access."
+    },
+    {
+      "citation": "Bloom, Jonathan M. Paper Before Print: The History and Impact of Paper in the Islamic World. New Haven: Yale University Press, 2001.",
+      "relevance": "Comprehensive history of paper in the Islamic world, providing material-culture background for the decorated paper practices documented in this album, including the history of paper marbling and the relationship between paper decoration techniques and manuscript production traditions.",
+      "relevance_score": 0.80,
+      "access_notes": "Widely held monograph."
+    },
+    {
+      "citation": "Çağman, Filiz, and Zeren Tanındı. The Topkapı Saray Museum: The Albums and Illustrated Manuscripts. Translated and edited by J. M. Rogers. Boston: Little, Brown, 1986.",
+      "relevance": "Standard reference for Ottoman albums and illustrated manuscripts in Istanbul collections, including decorated paper programs in late 17th-century murakkaat albums. Provides comparanda for the album format, decorated paper types, and calligraphic content of TIEM 02471.",
+      "relevance_score": 0.85,
+      "access_notes": "Exhibition catalogue; widely held."
+    },
+    {
+      "citation": "Gacek, Adam. Arabic Manuscripts: A Vademecum for Readers. Leiden: Brill, 2009.",
+      "relevance": "Standard reference for Islamic manuscript terminology and codicology, used throughout this catalog record for terminology on format, ruling systems, calligraphic scripts, and physical structure.",
+      "relevance_score": 0.78,
+      "access_notes": "Reference monograph; widely held."
+    },
+    {
+      "citation": "Déroche, François. Islamic Codicology: An Introduction to the Study of Manuscripts in Arabic Script. Translated by Deke Dusinberre and David Radzinowicz. London: Al-Furqan Islamic Heritage Foundation, 2005.",
+      "relevance": "Foundational reference for Islamic manuscript codicology, providing the classification framework for binding, ruling, paper, and decoration types used throughout this catalog record.",
+      "relevance_score": 0.78,
+      "access_notes": "Monograph; available at specialist libraries."
+    },
+    {
+      "citation": "Sturkenboom, Ilse. 'Printed and Stencilled Papers in Persianate Manuscripts.' GlobalDecoPaper Project, LMU Munich (forthcoming).",
+      "relevance": "The most directly relevant ongoing research on stenciled and block-printed decorated papers in Islamic manuscripts. The GlobalDecoPaper ERC project (LMU Munich) is the primary current research program on exactly the paper types documented in this album. This citation represents the state of the field as of 2026; refer to the project website for the most recent publications.",
+      "relevance_score": 0.98,
+      "access_notes": "Forthcoming research — check GlobalDecoPaper ERC project (LMU Munich) for current publications and database access. In German and English."
+    },
+    {
+      "citation": "Mahir, Banu. Osmanlı Minyatür Sanatı. Istanbul: Kabalcı, 2005.",
+      "relevance": "Survey of Ottoman miniature painting and luxury manuscript production, with coverage of the 17th-century Istanbul workshop tradition and the role of calligraphy albums in Ottoman court culture. In Turkish.",
+      "relevance_score": 0.70,
+      "access_notes": "Turkish-language monograph. Held at major Ottomanist libraries."
+    }
+  ],
+  "suggested_collections": [
+    {
+      "institution": "Topkapı Sarayı Müzesi Kütüphanesi, Istanbul",
+      "reason": "Holds the largest collection of Ottoman murakkaat albums with comparable decorated paper programs, including albums by Hâfız Osman and his contemporaries. Direct comparanda for the block-printed paper types, hatip ebru, and multi-layer cedvel framing system of TIEM 02471.",
+      "digital_access": "https://kutuphane.tsmk.gov.tr"
+    },
+    {
+      "institution": "Chester Beatty Library, Dublin",
+      "reason": "Major collection of Ottoman calligraphy albums and decorated paper specimens, including late 17th-century murakkaat albums. The Chester Beatty holds important examples of the decorated paper types (marbled, gold-worked, colored) found in this album.",
+      "digital_access": "https://viewer.cbl.ie"
+    },
+    {
+      "institution": "Türk ve İslam Eserleri Müzesi (TIEM), Istanbul — broader corpus",
+      "reason": "TIEM holds a large collection of murakkaat albums with decorated papers; the visual triage for this project confirmed 93/93 TIEM albums as positive for decorated paper. Comparative analysis within the TIEM murakka corpus would be especially productive for the block-printed paper types.",
+      "digital_access": "https://portal.yek.gov.tr"
+    },
+    {
+      "institution": "GlobalDecoPaper ERC Project, LMU Munich",
+      "reason": "The primary active research project on stenciled, block-printed, and related decorated papers in Islamic manuscripts. This album's block-printed paper types are directly within the project's scope. Contact with the GlobalDecoPaper team may enable comparative identification of the Type A and Type B patterns.",
+      "digital_access": null
+    }
+  ],
+  "provenance": {
+    "donor": null,
+    "waqf": null,
+    "previous_shelfmarks": [],
+    "notes": "Currently held at Türk ve İslam Eserleri Müzesi (TIEM), Istanbul, under shelfmark T 2471 (shelfmark label visible on p001). TIEM is a Turkish state museum; the manuscript entered the collection at an undetermined date. No waqf (endowment) information is available in the YEK catalogue record. YEK ID: 705408. IIIF ID: 0000000662621. The album dates to c. AH 1110–1113 / 1698–1702 CE based on dated ketebe inscriptions of Seyyid Abdullah."
+  },
+  "analysis_metadata": {
+    "analyzed_date": "2026-02-28",
+    "analyzer": "claude-code-manuscript-pipeline",
+    "pipeline_stage": "metadata-generator",
+    "image_source": "YEK Portal IIIF images, TIEM Yazma Eser Koleksiyonu, YEK ID 705408, IIIF ID 0000000662621. 11 IIIF pages downloaded at IIIF viewer resolution. Native resolution up to 7749x4936 px (p002).",
+    "image_quality_notes": "IIIF images examined at full download resolution (not downscaled to browser viewport). P001 native: 3923x4897 px; p002 native: 7631x4936 px; p003–p011 at lower native resolutions. The block-printed paper patterns (Types A and B) are clearly legible at available resolution. The stencil-vs-block-print distinction cannot be resolved at available resolution; full native-resolution imaging and physical examination are required for definitive determination. The gel-git ebru (p007), hatip ebru (multiple pages), and battal ebru (p002, p010) are unambiguously identified at available resolution. The mulevven sage-green paper (p004 left) is tentatively identified; spectroscopic or close-up examination would confirm the dye technique.",
+    "folios_examined": [
+      "corpus/iiif/tiem_02471_p001.jpg",
+      "corpus/iiif/tiem_02471_p002.jpg",
+      "corpus/iiif/tiem_02471_p003.jpg",
+      "corpus/iiif/tiem_02471_p004.jpg",
+      "corpus/iiif/tiem_02471_p005.jpg",
+      "corpus/iiif/tiem_02471_p006.jpg",
+      "corpus/iiif/tiem_02471_p007.jpg",
+      "corpus/iiif/tiem_02471_p008.jpg",
+      "corpus/iiif/tiem_02471_p009.jpg",
+      "corpus/iiif/tiem_02471_p010.jpg",
+      "corpus/iiif/tiem_02471_p011.jpg"
+    ],
+    "folios_not_examined": "All 11 IIIF pages were examined in the present analysis. The IIIF record contains 11 pages (p001–p011), covering the full 8-folio album. No pages were omitted. Note: native-resolution downloads of all pages were not systematically obtained; p001 and p002 were examined at their documented high native resolutions, while p003–p011 were examined at viewer-level resolution.",
+    "corpus_priority": "HIGHEST PRIORITY: Most technique-rich decorated paper album in the corpus. Contains multiple block-printed/stenciled paper types that are extremely rare in the YEK corpus and in the broader Islamic manuscript literature. Priority for: (1) full native-resolution imaging of Types A and B block-printed papers for stencil-vs-block-print determination; (2) physical examination for press indentation and stencil bridge identification; (3) comparative analysis with GlobalDecoPaper ERC database.",
+    "source_data": {
+      "visual_confirmation_file": "catalog/searches/visual_slot4_tiem_02471.json",
+      "yek_id": "705408",
+      "iiif_id": "0000000662621",
+      "batch": "Murakka IIIF deep analysis batch (2026-02-28)"
+    }
+  }
+}

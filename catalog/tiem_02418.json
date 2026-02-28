@@ -1,0 +1,443 @@
+{
+  "record_id": "tiem_02418",
+  "collection": {
+    "institution": "Türk ve İslam Eserleri Müzesi",
+    "city": "Istanbul",
+    "country": "Turkey",
+    "shelfmark": "02418",
+    "yek_url": "https://portal.yek.gov.tr/works/detail/705368"
+  },
+  "manuscript": {
+    "title": "Murakkaʿ / مرقع",
+    "title_script": "مرقع",
+    "title_alt": "Murakkaʿ (calligraphy album)",
+    "author": null,
+    "author_dates": null,
+    "calligrapher": "Muhammed Hocazade (Mehmed Hocazade, محمد خوجه‌زاده)",
+    "calligrapher_dates": "Active c. mid–late 17th century; d. after AH 1106/1694–95",
+    "calligrapher_note": "The ketebe (colophon) inscription of Muhammed Hocazade appears at the end of the first text piece with the date 'sene 1106' (AH 1106 / 1694–95 CE). Additional ketebe inscriptions of Muhammed Hocazade appear at the end of the third, fifth, and sixth text pieces. A seventh piece bears the inscription 'Harrerehu Muhammed el-şehir Hacezade' (Written by Muhammed known as Hacezade), confirming the calligrapher's identity and variant nisba (Hacezade vs. Hocazade). The remaining text pieces in the album bear no calligrapher's name or date, suggesting some pieces may be by other hands or students. Muhammed Hocazade is identified by the YEK catalogue as a 17th-century calligrapher; his nisba (Hocazade — son of a hoca/teacher) suggests a madrasa-educated background. He is not to be confused with the better-known Mehmed Hocazade (d. 893/1488), the theologian of Bursa — this is a distinct, later calligrapher.",
+    "date_ah": "1106",
+    "date_ce": "1694–95",
+    "place_of_copy": null,
+    "format": "murakkaa / murakkaat (murakkaʿ — calligraphy album)",
+    "format_note": "A bound calligraphy album (murakkaat / مرقعات) of 10 IIIF pages (12 folio count per catalogue) containing 12 kıtʿa (calligraphic specimen sheets) in Arabic sülüs (thuluth) and nesih (naskh) scripts. Contents include hadith-i şerifler (Prophetic sayings), a saying of Hz. Ali, a saying of Zunnun el-Mısrî (Dhū l-Nūn al-Miṣrī, the Egyptian Sufi), poetic fragments (şiir parçaları), and practice letter-strokes (karalamalar). The album organizes calligraphy panels in a vassale format, with text mounted in sheets of yellow zerefşân (gold-sprinkled) margin paper throughout the interior. The front and rear of the album use ebru (marbled) papers for the doublures and endpapers in a symmetric arrangement.",
+    "language": "Arabic",
+    "script": "Arap harfli — Sülüs (thuluth) and Nesih (naskh)",
+    "dimensions_mm": {
+      "height": 315,
+      "width": 230
+    },
+    "folio_count": 12,
+    "total_pages_iiif": 10,
+    "yek_id": "705368",
+    "iiif_id": "0000000662581",
+    "notes": "PRECISELY DATED ALBUM: AH 1106 / 1694–95 CE — one of the few murakka albums in the TIEM corpus with a confirmed internal date. The album's decorative program is notable for: (1) the systematic use of yellow zerefşân as the calligraphy page outer margin throughout (pp. 003–008); (2) the symmetric deployment of hatip ebru and gel-git/taraklı ebru at the album's front and rear (front: doublure gel-git left, endpaper hatip right; rear: endpaper hatip left, doublure gel-git right); (3) a lacquer (rugânî) binding of high quality with a large oval gold shamsa medallion on dark aubergine-brown leather. YEK ID NOTE: An earlier triage session erroneously assigned YEK ID 705355 to TIEM 02418; that ID belongs to TIEM 02175 (Ravzatu'l-Ahbab). The correct YEK ID 705368 was verified in the visual confirmation session. YEK catalogue entries kâğıt özellikleri and tezhip/minyatür are both null; all decoration evidence derives from visual examination of IIIF images and the visual confirmation data. Cataloguing by YEK: Nalan Kutsal."
+  },
+  "paper_decoration": {
+    "types": [
+      "marbled",
+      "gold_sprinkled",
+      "framing_system"
+    ],
+    "summary": "TIEM 02418 presents a two-zone decorative program with strict symmetry: (1) the album's structural zones (doublures and endpapers) use marbled (ebru) paper in two distinct subtypes; (2) all calligraphy-bearing interior pages (pp. 003–008, at minimum) use yellow zerefşân (gold-sprinkled) paper as the outer margin, unified by a consistent multi-layer cetvelli framing system. ZONE 1 — MARBLED PAPERS (doublures and endpapers): The front doublure (p002 left) is covered in gel-git / taraklı ebru (combed marbling): a clear pattern of vertical combed waves in grey-blue, pink, yellow, and dark grey/black, produced by drawing a comb through floated pigments. The combing direction is predominantly vertical, creating flowing parallel wave forms that fan out at the lower left — classic gel-git technique. The front endpaper (p002 right) is covered in hatip ebru (imam's marbling / floral marbling): large rounded botanical forms — rose/peony shapes — in warm pink, violet-purple, and orange-brown on a grey-beige ground. The rounded, bulging forms with irregular outlines are characteristic of the hatip ebru technique, in which a pointed tool draws through the floated pigments to create large, closed, bloom-like shapes. The rear endpaper (p009 left) carries hatip ebru of the same type as the front endpaper (p002 right), confirming a deliberate symmetric mirror arrangement. The rear doublure (p009 right) carries gel-git ebru matching the front doublure (p002 left). The perfect front-rear symmetry of ebru types — (front: gel-git doublure | hatip endpaper) / (rear: hatip endpaper | gel-git doublure) — is a sophisticated compositional decision demonstrating unified album design. ZONE 2 — ZEREFŞÂN MARGIN PAPER (interior pages pp. 003–008): A vivid golden-yellow zerefşân (gold-sprinkled) paper constitutes the outer margin on all examined calligraphy opening pages (pp. 003, 005 confirmed; additional interior pages visible as thumbnails). The zerefşân is notably yellow-golden in hue — consistent with a yellow-tinted ground paper over which fine gold particles have been applied, or a golden-yellow mulevven paper with zerefşân overlay. The gold speckles are visible at IIIF resolution as a fine, uniform distribution of small bright gold particles across the yellow ground. This yellow zerefşân margin paper is one of the most vivid and consistent examples of this decoration type in the TIEM murakka corpus. FRAMING SYSTEM: Each calligraphy opening features a consistent multi-layer framing system: (from outside inward) the yellow zerefşân outer margin; a thin pink/salmon inner frame strip; a multi-line blue and gold altın cetvelli ruling; then the cream paper calligraphy panel. This four-zone framing is clearly legible on pp. 003 and 005.",
+    "distribution_notes": "Marbled papers appear exclusively at the structural front and rear of the album (doublures and endpapers — pp. 002, 009). Yellow zerefşân appears exclusively on the interior calligraphy pages (pp. 003–008 or more). This strict two-zone distribution — marbled for structural/binding-adjacent positions, zerefşân for calligraphy openings — is a coherent design program in which different decorated paper types serve different functional roles.",
+    "technique_terms": {
+      "ottoman": "hatip ebru (ön ve arka iç kapak yüzü — endpaper); gel-git ebru / taraklı ebru (ön ve arka kapak doublure); zerefşân kâğıt / yaldız serpme kâğıt (sarı renk — iç sayfa kenarları); altın cetvelli + pembe iç bordür (çerçeve sistemi); rugânî cilt (lake cilt) — ovalşemse + salbek, hatai motifli; vassale yöntemiyle monte edilmiştir",
+      "persian": "kāġaḏ-e abrī hatīb (کاغذ ابری خطیب — hatip marbling); abrī-ye gel-git (ابری گل‌گیت — combed marbling); kāġaḏ-e zar-afşān (کاغذ زرافشان — gold-sprinkled); jild-e rūġanī (جلد روغنی — lacquer binding); şamsa (شمسه); vassāla (واساله)",
+      "arabic": "waraq mubaqqa' hatībī (ورق مبقع خطيبي — hatip marbled paper); waraq muzahhar (ورق مزهر — gold-sprinkled paper); jild lākkī (جلد لاكي — lacquer binding)"
+    },
+    "catalogue_description": {
+      "paper_field": null,
+      "notes_field": "Hadis-i şeriflerin, Hz. Ali'den ve Zunnun-i Mısrî'den bir sözün, bazı şiir parçalarının ve karamaların yer aldığı, 12 yazıdan oluşan bu muraqqada 1. yazının sonunda Muhammed Hocazade'nin ketebe kaydı vardır ve 'sene 1106' (1694-95) tarihi yazılmıştır. 3. yazının sonunda da Muhammed Hocazade'nin ketebe kaydı bulunmaktadır. 5-6. yazıların sonuna da Muhammed Hocazade yazılmıştır. Muraqqadaki 7. yazının sonunda da 'Harrerehu Muhammed es-şehir Hacezade' yazılı bir kayıt vardır. Diğer yazılarda hattat adı veya tarih bulunmamaktadır.",
+      "notes_field_translation": "This album, comprising 12 text pieces, contains Prophetic traditions, a saying from Hz. Ali and from Dhū l-Nūn al-Miṣrī, some poetic fragments, and practice letter-strokes. At the end of the first text, Muhammed Hocazade's ketebe inscription appears together with the date 'year 1106' (1694–95). Muhammed Hocazade's ketebe also appears at the end of the third text. The name 'Muhammed Hocazade' is written at the end of the fifth and sixth texts. At the end of the seventh text there is an inscription 'Written by Muhammed, known as Hacezade.' Other texts contain neither a calligrapher's name nor a date.",
+      "decoration_field": null,
+      "source": "YEK portal, genel_notlar field, record 705368, Türk ve İslam Eserleri Müzesi. Catalogued by Nalan Kutsal. Note: kâğıt özellikleri and tezhip/minyatür fields are both null — all decoration evidence derives from visual examination of IIIF images."
+    }
+  },
+  "workshop_attribution": {
+    "primary_tradition": "ottoman",
+    "workshop_centre": "Istanbul",
+    "date_range_ce": "AH 1106 / 1694–95 CE (precisely dated)",
+    "confidence": 0.90,
+    "key_indicators": [
+      "Precise date AH 1106 / 1694–95 CE from the first ketebe inscription of Muhammed Hocazade establishes a firm late-17th century date",
+      "The lacquer (rugânî) binding with central oval shamsa medallion and salbek pendants bearing red hatai floral motifs on a gold ground is a high-quality example of Ottoman lacquer bookbinding of the period — closely paralleling documented Istanbul lacquer workshop production of the late 17th century",
+      "The yellow zerefşân margin paper program throughout the calligraphy interior is consistent with the fashion for gold-sprinkled luxury paper in Istanbul album production of the late Köprülü / early Edirne-based court era (c. 1683–1703)",
+      "The symmetric deployment of hatip ebru and gel-git ebru at the front and rear structural positions demonstrates familiarity with high-level Istanbul album-making conventions",
+      "The sülüs-nesih dual-script format with hadith and Sufi content is characteristic of Istanbul meşkhane (calligraphy school) production of the late 17th century"
+    ],
+    "cross_tradition_caveats": [
+      "Muhammed Hocazade cannot be matched to a documented calligrapher in the available published sources; further archival research in Ottoman biographical dictionaries (tezkireler) and waqf records is needed",
+      "The variant nisba spelling (Hocazade vs. Hacezade) within the same album suggests possible scribal variation or a transitional phonological shift in the calligrapher's self-presentation",
+      "The remaining text pieces in the album (those without ketebe) may be by different hands or students; the album may represent a multi-hand production organized around Hocazade's work",
+      "The hatip ebru type and gel-git type used for the doublures and endpapers are well-established Ottoman marbling techniques of the period; however, the specific marbler is unknown"
+    ]
+  },
+  "codicology": {
+    "paper": {
+      "color": "Multiple: cream (calligraphy panels); yellow-golden zerefşân ground (interior page outer margins, pp. 003–008); grey-blue/pink/yellow gel-git ebru (doublures, pp. 002 left, 009 right); pink/purple/orange hatip ebru (endpapers, pp. 002 right, 009 left)",
+      "preparation": "Aharlı (sized/burnished) — the calligraphy panels show the smooth, reflective surface of aharlı paper characteristic of Ottoman luxury album production. The yellow zerefşân margin paper has a distinctly treated surface consistent with gold-sprinkling onto a pre-tinted (yellow) aharlı base.",
+      "weight": "Indeterminate from IIIF images. Album board structure consistent with standard Ottoman album format of the period.",
+      "decoration": "Yellow zerefşân (gold-sprinkled) on all interior calligraphy page margins; hatip ebru on front and rear endpapers; gel-git/taraklı ebru on front and rear doublures; lacquer binding exterior.",
+      "paper_type": "Mixed: aharlı cream paper for calligraphy panels; yellow-tinted zerefşân ground for margin papers; hatip ebru and gel-git ebru marbled papers for structural positions (doublures and endpapers)."
+    },
+    "ruling": {
+      "system": "Multi-layer altın cetvelli (gold-ruled) framing system on all calligraphy openings, combined with a pink/salmon inner frame strip. Clearly legible on pp. 003 and 005.",
+      "description": "Each calligraphy opening presents a consistent four-zone framing system: (1) outermost: yellow zerefşân margin paper; (2) a thin pink/salmon strip (colored fillet or separate paper mount strip) forming the visual inner boundary of the margin; (3) a multi-line altın cetvelli system — at minimum two gold lines flanking a thin blue or darker colored rule; (4) innermost: the cream calligraphy panel. The pink inner strip creates a warm chromatic transition between the yellow-gold outer margin and the gold ruling. On p003, the blue-gold ruling combination is clearly visible; on p005, the pink inner strip is particularly prominent. This cetvelli system is consistent with high-quality Istanbul album production of the late 17th century."
+    },
+    "binding": {
+      "cover_description": "Dark aubergine/dark brown lacquer (rugânî) binding of high quality. The front and back covers (pp. 001, 010) each bear a large central oval shamsa (şemse) medallion with a pointed oval outline fringed by radiating gold spikes (sun-ray border), filled with dense hatai (ḥatāʾī) floral motifs — scrolling stems with full red flowers (roses or chrysanthemums) and red leaves on a gold ground. Above and below the central oval, a matching smaller almond-shaped pendant (salbek) completes the vertical composition. The outer frame of the binding consists of multiple gilt-tooled bands: an innermost gold fillet, followed by a broader band with chevron or rope tooling, followed by a narrow outer gilt fillet — creating a refined multi-layer border typical of late Ottoman lacquer bindings. The binding ground is a deep aubergine/chocolate-brown lacquer with a smooth, glossy surface. The front cover (p001) retains a rectangular TIEM accession label (handwritten in red ink and pen) at the upper right.",
+      "cover_type": "Rugânî cilt (lacquer binding) — dark aubergine-brown ground, oval şemse + salbek with hatai floral motifs in red on gold, multi-band gilt outer frame",
+      "notes": "The lacquer binding is a high-quality specimen of late Ottoman lacquer bookbinding, consistent with Istanbul workshop production of the late 17th century. The oval şemse + salbek composition with hatai floral infill is a canonical Ottoman lacquer binding design. The identical design and condition on both covers (pp. 001, 010) confirms the binding is complete and original. Lacquer bindings of this type are associated with the court workshops and high-status commissioned works; their presence here may indicate a significant patron or a gifted album rather than a routine meşkhane production."
+    },
+    "format": "Murakkaat — Ottoman calligraphy album with vassale-mounted sülüs-nesih kıtʿa on zerefşân margin grounds and ebru structural papers",
+    "condition_summary": "The album appears well-preserved in the IIIF images. The lacquer binding (pp. 001, 010) shows good condition with minor edge wear but no major damage to the lacquer surface. The hatip ebru (pp. 002 right, 009 left) and gel-git ebru (pp. 002 left, 009 right) are vivid and clearly legible. The yellow zerefşân margin paper (pp. 003, 005) is intact and the gold sprinkling is visible. The calligraphy panels are legible throughout. Library stamps visible on the rear endpaper page (p009 right, above the gel-git ebru).",
+    "conservation_history": null
+  },
+  "visual_confirmation": {
+    "verdict": "confirmed",
+    "confidence": 0.95,
+    "screenshots_examined": 7,
+    "folios_examined": [
+      "corpus/iiif/tiem_02418_p001.jpg",
+      "corpus/iiif/tiem_02418_p002.jpg",
+      "corpus/iiif/tiem_02418_p003.jpg",
+      "corpus/iiif/tiem_02418_p005.jpg",
+      "corpus/iiif/tiem_02418_p009.jpg",
+      "corpus/iiif/tiem_02418_p010.jpg",
+      "tiem_batch2_13_02418.jpeg"
+    ],
+    "visual_evidence": "Hatip ebru confirmed on pp. 002 right and 009 left (large rounded rose/peony forms in pink, purple, orange on grey-beige ground). Gel-git/taraklı ebru confirmed on pp. 002 left and 009 right (vertical combed waves in grey-blue, pink, yellow, dark grey). Symmetric mirror arrangement confirmed: (front: gel-git doublure | hatip endpaper) / (rear: hatip endpaper | gel-git doublure). Yellow zerefşân margin paper confirmed on pp. 003 and 005. Multi-layer pink+blue+gold cetvelli framing confirmed on pp. 003 and 005. Lacquer binding with oval şemse + salbek + hatai motifs confirmed on pp. 001 and 010. Triage screenshot confirms IIIF = 10 pages (p001–p010), matching the visual confirmation data.",
+    "limitations": [
+      "Pages p004, p006, p007, p008 were not individually downloaded; visible as thumbnails in the triage screenshot. The thumbnail evidence suggests the yellow zerefşân program continues on these pages but individual confirmation is pending.",
+      "YEK catalogue contains no decoration description (kâğıt özellikleri and tezhip/minyatür = null); all observations derive from visual examination only.",
+      "The yellow tinting of the zerefşân ground paper may represent either (a) a yellow-dyed aharlı paper with zerefşân overlay, or (b) a yellow mülevven paper with zerefşân overlay. The distinction cannot be resolved at IIIF resolution.",
+      "The marbling subtypes (hatip vs. gel-git) are clearly identifiable at available IIIF resolution. The gel-git identification is supported by the unambiguous vertical combing pattern on p002 left.",
+      "YEK ID correction: the earlier triage session erroneously used YEK ID 705355 (= TIEM 02175 Ravzatu'l-Ahbab). The correct ID 705368 is confirmed in the visual confirmation data and from the IIIF page header text visible in the triage screenshot."
+    ]
+  },
+  "folio_analyses": [
+    {
+      "folio": "p001 — Front cover (lacquer binding)",
+      "source_image": "corpus/iiif/tiem_02418_p001.jpg",
+      "decoration_present": true,
+      "decoration_types": ["other"],
+      "elements": [
+        {
+          "motif": "Lacquer binding — dark aubergine-brown with oval shamsa + salbek (hatai floral)",
+          "description": "The front cover is a high-quality lacquer (rugânî) binding in dark aubergine/chocolate-brown with a glossy lacquer surface. The cover design is organized vertically around a central oval shamsa (şemse) medallion: a large pointed-oval form fringed by radiating gold spike-rays on all sides, filled with dense scrolling hatai (ḥatāʾī) floral motifs — red flowers (roses or chrysanthemums) and red leaves on a gold ground. The internal floral scrollwork is intricate, with multiple overlapping leaf and flower forms occupying the full medallion interior. Above and below the central oval, a smaller almond-shaped salbek pendant repeats the same format at reduced scale. The outer border of the cover consists of a multi-layer gilt frame: a narrow inner fillet, a broader tooled band (rope or cable pattern), and a narrow outer fillet. A TIEM accession label (handwritten red ink) is affixed to the upper right corner. The design is identical on the back cover (p010), as is standard for paired lacquer bindings. This is the finest binding in the Phase 3 Track E Tier 1 murakka batch.",
+          "location": "Full exterior front cover",
+          "confidence": 0.97
+        }
+      ],
+      "confidence": 0.97,
+      "notes": "The lacquer binding of TIEM 02418 is a significant specimen in the corpus. Ottoman lacquer bindings (rugânî cilt) with hatai floral shemse are well-documented in the Topkapı and other Istanbul collections from the 16th–18th centuries; the oval format with radiating ray-border and paired salbek is a canonical late Ottoman composition. This binding considerably elevates the status of the album — lacquer bindings were associated with court or high-status commissions."
+    },
+    {
+      "folio": "p002 — Inside front cover opening: gel-git ebru doublure (left) + hatip ebru endpaper (right)",
+      "source_image": "corpus/iiif/tiem_02418_p002.jpg",
+      "decoration_present": true,
+      "decoration_types": ["marbled"],
+      "elements": [
+        {
+          "motif": "Gel-git / taraklı ebru (combed marbling) — front doublure, left page",
+          "description": "The left page (inside front cover doublure) is covered with gel-git / taraklı ebru (combed marbling). The pattern consists of flowing, parallel wave-like formations produced by drawing a comb through floated pigments in alternating back-and-forth strokes. The combing direction is predominantly vertical (top-to-bottom), creating tall, slightly undulating parallel lines that fan toward the lower left, with occasional wider wave-curves. The color palette is multi-toned: grey-blue as the dominant ground color, with contrasting pink/rose, yellow/buff, and dark grey/black lines running through the composition. The technique is unambiguous — no spotted shapes (not battal), no drawn floral motifs (not hatip); the comb-line structure is the defining feature. The gel-git pattern in this album is one of the clearer examples of this marbling subtype in the TIEM murakka corpus.",
+          "location": "Full left page (inside front cover doublure)",
+          "confidence": 0.95
+        },
+        {
+          "motif": "Hatip ebru (floral marbling) — front endpaper, right page",
+          "description": "The right page (first endpaper, facing the front doublure) is covered with hatip ebru — the Ottoman marbling technique named after Hâtip Mehmed Efendi, which produces large, rounded, closed botanical forms by drawing a pointed stylus through floated pigments. The forms on this page are bold rose/peony-like shapes: rounded, slightly irregular ovals and near-circles in warm pink and deep violet-purple tones, set against a grey-beige or light warm-brown ground. Additional orange-brown forms and paler pink areas fill the interstices. The botanical forms are distinctly three-dimensional in appearance — slightly raised-looking, with irregular white-cream outlines separating each form from the ground — characteristic of the hatip process. The overall visual effect is of a densely scattered botanical field. The palette is consistent with late 17th-century Ottoman hatip ebru production in Istanbul.",
+          "location": "Full right page (first endpaper)",
+          "confidence": 0.93
+        }
+      ],
+      "confidence": 0.95,
+      "notes": "The deliberate pairing of gel-git (left) and hatip (right) on the opening double-page spread — and the exact mirror of this arrangement at the back of the album (pp. 009–010) — confirms a carefully designed decorative program. The two marbling techniques complement each other visually: the linear, rhythmic gel-git wave-forms contrast with the rounded, organic botanical forms of the hatip ebru."
+    },
+    {
+      "folio": "p003 — First calligraphy opening: yellow zerefşân margins + multi-layer cetvelli framing",
+      "source_image": "corpus/iiif/tiem_02418_p003.jpg",
+      "decoration_present": true,
+      "decoration_types": ["gold_sprinkled", "framing_system"],
+      "elements": [
+        {
+          "motif": "Yellow-golden zerefşân (gold-sprinkled) outer margin — both pages",
+          "description": "Both pages of the first calligraphy opening show the same vivid yellow-golden zerefşân paper as the full outer margin. The ground color is a warm golden-yellow, significantly more yellow and saturated than the typical cream or off-white zerefşân ground papers seen in other albums in this corpus. Fine gold particles are visible as small bright gold specks distributed uniformly across the yellow ground — the distribution is consistent with fırça zerefşanı (brush-sprinkled) technique. The yellow-gold combination produces a highly luminous, warm margin that contrasts effectively with the cool-toned ebru papers at the album's structural positions. This yellow zerefşân margin paper is the defining visual characteristic of the album's calligraphy interior.",
+          "location": "Full outer margins of both pages",
+          "confidence": 0.92
+        },
+        {
+          "motif": "Multi-layer cetvelli framing system — pink inner strip + blue-gold ruling",
+          "description": "Between the yellow zerefşân outer margin and the calligraphy panels, a layered framing system is clearly visible: (from outside inward) the yellow zerefşân margin; a thin salmon/pink frame strip (the innermost margin element — possibly a separate colored paper strip or a painted fillet); a multi-line ruling system with blue and gold lines (at minimum: one blue line + two gold lines, or vice versa); then the cream calligraphy panel. The blue+gold cetvelli combination against the warm pink strip creates a vibrant color sequence — yellow-gold → pink → blue+gold → cream — that is distinctive and sophisticated. On the left page, an additional detail visible at p003 is what appears to be a floral rosette or sun (shamsa-like roundel) element within or near the calligraphy panel, possibly a chapter or section marker.",
+          "location": "Frame zones between outer margin and calligraphy panels, both pages",
+          "confidence": 0.90
+        },
+        {
+          "motif": "Vassale-mounted calligraphy panels — sülüs and nesih on cream paper",
+          "description": "Both pages bear calligraphy panels mounted in the yellow zerefşân grounds. The left page shows a sülüs-nesih kıtʿa with large sülüs lines and smaller nesih text blocks in a multi-panel layout with gold rosettes at corners and midpoints. The right page shows a similar layout. The calligraphy is in black ink with red diacritical marks on cream aharlı paper. The ketebe of Muhammed Hocazade appears at the end of the first piece (p003 left bottom area), accompanied by the date '1106'.",
+          "location": "Central calligraphy panels, both pages",
+          "confidence": 0.88
+        }
+      ],
+      "confidence": 0.91,
+      "notes": "P003 establishes the album's calligraphy interior program and contains the key dated ketebe inscription (AH 1106). The yellow zerefşân margin paper, the pink-blue-gold cetvelli framing, and the cream calligraphy panels form a coherent, visually rich program that is maintained consistently across all interior openings. This is one of the most vividly colored zerefşân examples in the corpus."
+    },
+    {
+      "folio": "p005 — Mid-section calligraphy opening: yellow zerefşân + prominent pink inner frame",
+      "source_image": "corpus/iiif/tiem_02418_p005.jpg",
+      "decoration_present": true,
+      "decoration_types": ["gold_sprinkled", "framing_system"],
+      "elements": [
+        {
+          "motif": "Yellow-golden zerefşân outer margin — both pages (consistent with p003)",
+          "description": "The yellow-golden zerefşân outer margin continues on both pages of this mid-section opening, identical in character to p003. The gold sprinkling is clearly visible, and the yellow ground color is equally vivid. This confirms that the zerefşân margin program is maintained throughout the calligraphy interior, not only on the first opening.",
+          "location": "Full outer margins of both pages",
+          "confidence": 0.93
+        },
+        {
+          "motif": "Prominent pink/rose inner frame strip — both pages",
+          "description": "The pink/salmon inner frame strip between the zerefşân margin and the gold-blue cetvelli is particularly prominent on p005 — wider and more visually striking than on p003. This pink strip is a distinct paper element (colored mount or painted fillet) in a warm rose/salmon tone that coordinates with the pink tones of the hatip ebru and gel-git papers at the album's structural positions. On this page it is almost as wide as the gold ruling band, creating a warm colored accent that dominates the frame zone.",
+          "location": "Inner frame strip between zerefşân margin and gold ruling, both pages",
+          "confidence": 0.93
+        },
+        {
+          "motif": "Calligraphy panels with section markers — sülüs-nesih",
+          "description": "Both pages show calligraphy panels with the sülüs-nesih format. Small decorative roundels (possibly gold or gilded) are visible at the corners and midpoints of the panels — serving as panel delimiters or section markers. The calligraphy on p005 includes the ketebe notations of Muhammed Hocazade at the ends of the fifth and sixth pieces, confirming continued authorship.",
+          "location": "Central calligraphy panels, both pages",
+          "confidence": 0.87
+        }
+      ],
+      "confidence": 0.91,
+      "notes": "P005 confirms the consistency of the zerefşân + cetvelli program and highlights the prominence of the pink inner frame strip in the overall design. The repeated appearance of small gold roundels at panel corners is a minor but distinctive decorative feature worth noting for corpus comparison."
+    },
+    {
+      "folio": "p009 — Near-end opening: hatip ebru endpaper (left) + gel-git ebru doublure (right)",
+      "source_image": "corpus/iiif/tiem_02418_p009.jpg",
+      "decoration_present": true,
+      "decoration_types": ["marbled"],
+      "elements": [
+        {
+          "motif": "Hatip ebru (floral marbling) — rear endpaper, left page",
+          "description": "The left page (rear endpaper) carries hatip ebru that is visually identical in type and palette to the front endpaper (p002 right): large rounded rose/peony forms in warm pink, violet-purple, and orange-brown on a grey-beige ground. The same botanical motif character — rounded, closed forms with white-cream outlines — is present. Minor color variations between this sheet and p002 right are consistent with batch variation in natural dye-based marbling pigments; the marbling session may be the same or a closely matched session. The symmetric placement of hatip ebru at both the front and rear structural endpaper positions is thus precisely confirmed.",
+          "location": "Full left page (rear endpaper)",
+          "confidence": 0.93
+        },
+        {
+          "motif": "Gel-git / taraklı ebru (combed marbling) — rear doublure, right page",
+          "description": "The right page (inside back cover doublure) carries gel-git/taraklı ebru matching the front doublure (p002 left) in technique and palette: vertical combed wave formations in grey-blue, pink, yellow, and dark grey. Library stamps from the TIEM collection are affixed to this page (circular stamp in black ink, visible in the upper portion), along with a shelfmark label (T 2418 / I — visible at upper right). The gel-git pattern is undisturbed beneath the stamps. The symmetric deployment of gel-git ebru at both the front and rear doublure positions is confirmed.",
+          "location": "Full right page (inside back cover doublure)",
+          "confidence": 0.94
+        }
+      ],
+      "confidence": 0.95,
+      "notes": "P009 confirms the symmetric mirror arrangement of the two ebru types at the album's structural positions: (front: gel-git doublure | hatip endpaper) vs. (rear: hatip endpaper | gel-git doublure). This is a sophisticated compositional strategy in which the two marbling techniques frame the calligraphy interior from both ends, with their positions swapped to create a chiastic (A–B / B–A) symmetry."
+    },
+    {
+      "folio": "p010 — Back cover (lacquer binding)",
+      "source_image": "corpus/iiif/tiem_02418_p010.jpg",
+      "decoration_present": true,
+      "decoration_types": ["other"],
+      "elements": [
+        {
+          "motif": "Lacquer binding — back cover, identical to front",
+          "description": "The back cover is identical in design to the front cover (p001): dark aubergine-brown lacquer ground with a central oval shamsa + salbek composition bearing red hatai floral motifs on gold, and a multi-band gilt outer frame. Slightly more worn than the front cover, with light surface scratching consistent with handling. The design is intact and clearly legible. A small blue library sticker is visible at the upper right edge (not described further). The paired front-back lacquer binding is complete and original.",
+          "location": "Full exterior back cover",
+          "confidence": 0.97
+        }
+      ],
+      "confidence": 0.97,
+      "notes": "Back cover confirms intact original lacquer binding. The pair is complete and consistent, with no evidence of rebinding or cover replacement."
+    }
+  ],
+  "terminology": {
+    "terms_used": [
+      {
+        "concept": "Calligraphy album",
+        "ottoman": "murakkaat / murakkaa (مرقعات)",
+        "arabic": "muraqqa' (مرقع) / muraqqa'āt (مرقعات)",
+        "persian": "muraqqa' (مرقع)",
+        "english": "Murakkaʿ (pl. murakkaat): a bound album of calligraphic specimens (kıtʿa), sometimes with miniature paintings. TIEM 02418 is a pure calligraphy album with 12 text pieces in sülüs-nesih, dated AH 1106 / 1694–95 CE."
+      },
+      {
+        "concept": "Hatip ebru — floral marbling",
+        "ottoman": "hatip ebru / hatip ebrusu",
+        "arabic": null,
+        "persian": "abrī-ye gul-dār (ابری گل دار) / abrī-ye hatībī",
+        "english": "Hatip ebru (imam's marbling): a marbled paper technique in which large, rounded, closed botanical forms — resembling roses, peonies, or tulips — are produced by drawing a pointed stylus through floated pigments on the marbling size. Named in Ottoman tradition after Hâtip Mehmed Efendi (also spelled Hatip Mehmed Efendi), a 17th-century calligrapher and marbler credited with developing or perfecting the technique. Distinguishable from battal ebru (no stylus manipulation) and gel-git (linear comb rather than closed forms)."
+      },
+      {
+        "concept": "Gel-git ebru — combed marbling",
+        "ottoman": "gel-git ebru / taraklı ebru",
+        "arabic": null,
+        "persian": "abrī-ye şāna (ابری شانه — combed marbling)",
+        "english": "Gel-git ebru (back-and-forth marbling) / taraklı ebru (combed marbling): produced by drawing a comb (tarak) or rake through floated pigments in alternating directions, creating flowing parallel wave-like formations. 'Gel-git' means 'come-go' in Turkish, referring to the back-and-forth motion of the comb. One of the more technically demanding marbling subtypes."
+      },
+      {
+        "concept": "Gold-sprinkled paper",
+        "ottoman": "zerefşân / yaldız serpme kâğıt / altınlı kâğıt / serpme",
+        "arabic": "waraq muzahhar (ورق مزهر — gilded paper)",
+        "persian": "kāġaḏ-e zar-afşān (کاغذ زرافشان) / zar-andūd (زراندود)",
+        "english": "Zerefşân: gold-sprinkled paper produced by distributing fine gold particles (real gold or metallic pigment) over a sized paper surface. In TIEM 02418, a yellow-ground zerefşân is used throughout the calligraphy openings as the outer margin paper. The yellow ground color is distinctive — most zerefşân examples in this corpus use cream or off-white grounds. Zerefşân derives from the Persian zar-afşān (gold-scattering). See also: Sheila Blair, 'Color and Gold' (2000)."
+      },
+      {
+        "concept": "Lacquer binding",
+        "ottoman": "rugânî cilt / lake cilt",
+        "arabic": "jild lākkī (جلد لاكي)",
+        "persian": "jild-e rūġanī (جلد روغنی)",
+        "english": "Rugânî cilt (lacquer binding): a binding technique in which the cover surface is decorated with painted designs sealed under a glossy lacquer (rugân / rūġan) layer. Ottoman lacquer bindings typically use painted floral motifs (hatai, şakayık, lale) under a transparent protective lacquer. Distinguished from painted (boyama) and gold-tooled (altın varak) leather bindings. A high-status technique associated with court workshops."
+      },
+      {
+        "concept": "Shamsa medallion",
+        "ottoman": "şemse / şemse motifi",
+        "arabic": "shams (شمس — sun) / shamsa (شمسة — sun-disc medallion)",
+        "persian": "şamsa (شمسه)",
+        "english": "Şemse: a sun-disc or medallion motif used on binding covers and inside album pages. In TIEM 02418, the binding şemse is an oval (not circular) form with radiating gold ray-spikes, filled with hatai floral scrollwork. The oval variant of the şemse is common in late Ottoman lacquer bookbinding."
+      },
+      {
+        "concept": "Salbek pendant",
+        "ottoman": "salbek",
+        "arabic": null,
+        "persian": "salbak (سلبک)",
+        "english": "Salbek: a small droplet-shaped or almond-shaped pendant that flanks the central şemse medallion on a binding cover, positioned at the midpoint of the top and bottom edges. In TIEM 02418, the salbek repeats the oval + ray-spike form of the central medallion at reduced scale."
+      },
+      {
+        "concept": "Hatai floral motif",
+        "ottoman": "hatāyī / hatayı motifi",
+        "arabic": null,
+        "persian": "ḥatāʾī (ختائی — of Cathay/China)",
+        "english": "Hatāyī: a large category of stylized floral motifs in Islamic decorative arts, characterized by curvilinear scrolling stems bearing composite flowers with multiple layered petals. In the Ottoman tradition, hatāyī typically refers to the half-palmette and composite flower forms derived from Chinese prototypes via Central Asian and Persian intermediaries. In TIEM 02418, the binding şemse is filled with dense hatāyī floral scrollwork in red on a gold ground."
+      },
+      {
+        "concept": "Vassale mounting",
+        "ottoman": "vassale yöntemiyle monte edilmiştir",
+        "arabic": null,
+        "persian": "vassāla (واساله)",
+        "english": "Vassale: the window-mounting technique for calligraphy albums, in which calligraphy panels are produced on separate sheets and inserted into prepared openings in the decorated paper grounds."
+      },
+      {
+        "concept": "Prophetic tradition",
+        "ottoman": "hadis-i şerif (pl. hadis-i şerifler)",
+        "arabic": "ḥadīth (حديث — pl. aḥādīth)",
+        "persian": "ḥadīs (حدیث)",
+        "english": "Hadith: a recorded saying, action, or tacit approval attributed to the Prophet Muḥammad. In Ottoman calligraphy albums, hadith texts are among the most common subjects for sülüs kıtʿa specimens, valued both for religious merit and as vehicles for demonstrating calligraphic skill."
+      },
+      {
+        "concept": "Dhū l-Nūn al-Miṣrī",
+        "ottoman": "Zunnun-i Mısrî",
+        "arabic": "Dhū l-Nūn al-Miṣrī (ذو النون المصري — d. 245/859–60)",
+        "persian": "Zū l-Nūn Miṣrī (ذو النون مصری)",
+        "english": "Dhū l-Nūn al-Miṣrī: an early Egyptian Sufi and theologian (d. 245/859–60), known for his teachings on mystical knowledge and gnosis. The inclusion of one of his sayings in this album reflects the Sufi intellectual interests common in late Ottoman calligraphy albums."
+      }
+    ]
+  },
+  "bibliography": [
+    {
+      "citation": "Blair, Sheila S. 'Color and Gold: The Decorated Papers Used in Manuscripts in Later Islamic Times.' Muqarnas 17 (2000): 24–36.",
+      "relevance": "Foundational taxonomic study of decorated papers, providing the framework for classifying the hatip ebru, gel-git ebru, and zerefşân papers in this album. Blair's descriptions of hatip ebru formation and its distinguishing features are directly applicable to the identification of the TIEM 02418 endpapers. Available open-access: https://www.academia.edu/28982991/",
+      "relevance_score": 0.97,
+      "access_notes": "Peer-reviewed article. Available via JSTOR, Brill (Muqarnas Online), and open-access PDF on Academia.edu."
+    },
+    {
+      "citation": "Derman, M. Uğur. Letters in Gold: Ottoman Calligraphy from the Sakıp Sabancı Collection, Istanbul. New York: Metropolitan Museum of Art, 1998.",
+      "relevance": "Standard English-language survey of Ottoman calligraphy and the murakkaat album tradition. Directly relevant for the late 17th-century Istanbul calligraphic school (Hâfız Osman's period) within which Muhammed Hocazade worked, and for the sülüs-nesih format of the album's text pieces.",
+      "relevance_score": 0.88,
+      "access_notes": "Exhibition catalogue; widely held at major research libraries."
+    },
+    {
+      "citation": "Roxburgh, David J. The Persian Album, 1400–1600: From Dispersal to Collection. New Haven: Yale University Press, 2005.",
+      "relevance": "Essential study of the murakkaʿ album format and the vassale mounting technique. Provides the structural and art-historical context for understanding how the symmetric ebru program and zerefşân interior of TIEM 02418 relate to broader Persianate and Ottoman album-making conventions.",
+      "relevance_score": 0.85,
+      "access_notes": "Monograph; widely held at major research libraries."
+    },
+    {
+      "citation": "Çağman, Filiz, and Zeren Tanındı. The Topkapı Saray Museum: The Albums and Illustrated Manuscripts. Translated and edited by J. M. Rogers. Boston: Little, Brown, 1986.",
+      "relevance": "Standard reference for Ottoman albums and decorated paper programs in Istanbul collections. Provides comparanda for the late 17th-century Istanbul lacquer binding tradition and the album format conventions used in TIEM 02418.",
+      "relevance_score": 0.82,
+      "access_notes": "Exhibition catalogue; widely held."
+    },
+    {
+      "citation": "Gülnur Duran. 'Osmanlı Cilt Sanatı.' In Osmanlı Uygarlığı, vol. 2, edited by Halil İnalcık and Günsel Renda, 900–925. Istanbul: Kültür ve Turizm Bakanlığı, 2003.",
+      "relevance": "Specialist study of Ottoman bookbinding, including lacquer (rugânî) bindings of the 17th and 18th centuries. Directly relevant for documenting and comparing the lacquer binding of TIEM 02418 — its şemse + salbek composition, hatai floral fill, and multi-band gilt frame — against dated examples in Istanbul collections. In Turkish.",
+      "relevance_score": 0.90,
+      "access_notes": "Turkish-language chapter in a major reference work. Widely held at Ottoman studies libraries in Turkey."
+    },
+    {
+      "citation": "Scheper, Karin. The Technique of Islamic Bookbinding: Methods, Materials and Regional Varieties. Leiden: Brill, 2015.",
+      "relevance": "Comprehensive technical study of Islamic bookbinding methods, including lacquer technique, binding materials, and structural analysis. Provides the codicological framework for describing and classifying the rugânî cilt of TIEM 02418.",
+      "relevance_score": 0.82,
+      "access_notes": "Monograph; available at major research libraries and via Brill Online."
+    },
+    {
+      "citation": "Tanındı, Zeren. 'Bibliophile Aghas (Eunuchs) at Topkapı Saray.' Muqarnas 21 (2004): 333–43.",
+      "relevance": "Documents album-collecting practices in the late Ottoman court (AH 1100s / late 17th century), the precise period of this album's production (AH 1106 / 1694–95). Provides patronage and production context for Istanbul lacquer-bound calligraphy albums.",
+      "relevance_score": 0.78,
+      "access_notes": "Peer-reviewed article. Available via JSTOR and institutional access."
+    },
+    {
+      "citation": "Bloom, Jonathan M. Paper Before Print: The History and Impact of Paper in the Islamic World. New Haven: Yale University Press, 2001.",
+      "relevance": "Comprehensive history of paper in the Islamic world, providing material-culture background for the marbled paper tradition (ebru) and gold-sprinkled paper (zerefşân) practices in the Ottoman context.",
+      "relevance_score": 0.75,
+      "access_notes": "Widely held monograph."
+    },
+    {
+      "citation": "Gacek, Adam. Arabic Manuscripts: A Vademecum for Readers. Leiden: Brill, 2009.",
+      "relevance": "Standard terminology reference for Islamic manuscript codicology, covering script identification (sülüs, nesih), format types (murakkaat), ruling systems (cedvel), and general codicological vocabulary used throughout this catalog record.",
+      "relevance_score": 0.75,
+      "access_notes": "Reference monograph; widely held."
+    }
+  ],
+  "suggested_collections": [
+    {
+      "institution": "Topkapı Sarayı Müzesi Kütüphanesi, Istanbul",
+      "reason": "Holds the largest collection of Ottoman lacquer-bound calligraphy albums and murakkaat with comparable decorated paper programs from the late 17th century. The Topkapı collection is the primary comparanda source for both the lacquer binding style and the hatip ebru + zerefşân paper program of TIEM 02418. Also holds documented works by calligraphers active in the AH 1106 period.",
+      "digital_access": "https://kutuphane.tsmk.gov.tr"
+    },
+    {
+      "institution": "Türk ve İslam Eserleri Müzesi (TIEM), Istanbul — broader murakka corpus",
+      "reason": "TIEM holds numerous comparable late 17th–early 18th century murakkaat albums. Within the TIEM corpus, the closest parallels for the yellow zerefşân interior program are likely to be found in other TIEM albums of the same period. Systematic comparison of lacquer-bound murakka albums in the TIEM collection would be productive.",
+      "digital_access": "https://portal.yek.gov.tr"
+    },
+    {
+      "institution": "Chester Beatty Library, Dublin",
+      "reason": "Major collection of Ottoman calligraphy albums and decorated paper specimens, including examples of hatip ebru, gel-git ebru, and zerefşân programs in late Ottoman murakkaat from the late 17th century. The Chester Beatty digital viewer allows examination of comparable album programs.",
+      "digital_access": "https://viewer.cbl.ie"
+    },
+    {
+      "institution": "Sakıp Sabancı Museum, Istanbul",
+      "reason": "Holds the collection surveyed in Derman (1998), including major examples of late 17th-century Ottoman calligraphy albums. The Sakıp Sabancı collection provides comparanda for the sülüs-nesih kıtʿa format and the Istanbul calligraphic milieu of AH 1106 / 1694–95.",
+      "digital_access": null
+    }
+  ],
+  "provenance": {
+    "donor": null,
+    "waqf": null,
+    "previous_shelfmarks": [],
+    "notes": "Currently held at Türk ve İslam Eserleri Müzesi (TIEM), Istanbul, under shelfmark T 2418 (IIIF page header visible in triage screenshot: 'TİEM Yazma Eser Koleksiyonu / 02418'). TIEM is a Turkish state museum; no waqf (endowment) or donor information is available in the YEK catalogue record. The album dates precisely to AH 1106 / 1694–95 CE from the first ketebe inscription of Muhammed Hocazade. YEK ID: 705368. IIIF ID: 0000000662581. NOTE: An earlier triage session erroneously used YEK ID 705355 (TIEM 02175 Ravzatu'l-Ahbab); the correct ID 705368 was verified in the visual confirmation data."
+  },
+  "analysis_metadata": {
+    "analyzed_date": "2026-02-28",
+    "analyzer": "claude-code-manuscript-pipeline",
+    "pipeline_stage": "metadata-generator",
+    "image_source": "YEK Portal IIIF images, TIEM Yazma Eser Koleksiyonu, YEK ID 705368, IIIF ID 0000000662581. 6 IIIF pages downloaded at IIIF native resolution (p001, p002, p003, p005, p009, p010). Additional 1 triage image examined (tiem_batch2_13_02418.jpeg). Pages p004, p006, p007, p008 examined as thumbnails in the triage screenshot.",
+    "image_quality_notes": "Downloaded IIIF pages are at good resolution sufficient for clear identification of all decorated paper types. The gel-git ebru (p002 left, p009 right), hatip ebru (p002 right, p009 left), yellow zerefşân (p003, p005), and lacquer binding (p001, p010) are all unambiguously identified. The yellow tinting of the zerefşân ground paper cannot be fully characterized at IIIF resolution (dyed vs. mulevven overlay). The remaining interior pages (p004, p006, p007, p008) are confirmed by thumbnail as continuing the yellow zerefşân + cetvelli program; individual high-resolution examination is recommended for completeness.",
+    "folios_examined": [
+      "corpus/iiif/tiem_02418_p001.jpg",
+      "corpus/iiif/tiem_02418_p002.jpg",
+      "corpus/iiif/tiem_02418_p003.jpg",
+      "corpus/iiif/tiem_02418_p005.jpg",
+      "corpus/iiif/tiem_02418_p009.jpg",
+      "corpus/iiif/tiem_02418_p010.jpg",
+      "tiem_batch2_13_02418.jpeg"
+    ],
+    "folios_not_examined": "Pages p004, p006, p007, p008 (4 of 10 IIIF pages) were not individually downloaded. Thumbnail evidence confirms these pages continue the yellow zerefşân + cetvelli interior program; native-resolution examination would confirm any variation.",
+    "corpus_priority": "HIGH: Precisely dated (AH 1106 / 1694–95 CE) album with an exceptional lacquer binding and a well-preserved symmetric ebru program (hatip + gel-git) at structural positions. The yellow-ground zerefşân is the most vivid example of this paper type in the TIEM murakka corpus to date. Priority follow-up: (1) download pp. 004, 006–008 at native resolution to confirm full zerefşân extent; (2) transcription of all ketebe inscriptions for Muhammed Hocazade biographical research; (3) comparative study of the lacquer binding with documented Istanbul lacquer bindings of the AH 1100s decade.",
+    "source_data": {
+      "visual_confirmation_file": "catalog/searches/visual_tier1_tiem_02418.json",
+      "yek_id": "705368",
+      "iiif_id": "0000000662581",
+      "yek_id_correction_note": "Previous triage session incorrectly used YEK ID 705355 (= TIEM 02175 Ravzatu'l-Ahbab). Correct ID 705368 verified in visual confirmation session.",
+      "batch": "Murakka IIIF deep analysis — Phase 3 Track E Tier 1 (2026-02-28)"
+    }
+  }
+}

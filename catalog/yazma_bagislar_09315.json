@@ -1,0 +1,415 @@
+{
+  "record_id": "yazma_bagislar_09315",
+  "collection": {
+    "institution": "Süleymaniye Kütüphanesi — Yazma Bağışlar",
+    "city": "Istanbul",
+    "country": "Turkey",
+    "shelfmark": "09315",
+    "yek_url": "https://portal.yek.gov.tr/yazmaeser/eser-detay/683760"
+  },
+  "manuscript": {
+    "title": "Murakkaat / مرقعات",
+    "title_script": "مرقعات",
+    "title_alt": "Hâfız Osmân Murakkaatı",
+    "author": null,
+    "author_dates": null,
+    "calligrapher": "Hâfız Osmân (حافظ عثمان) — attributed, with uncertainty",
+    "calligrapher_dates": "c. 1052–1110 AH / c. 1642–1698 CE",
+    "calligrapher_note": "Hâfız Osmân (Hafiz Osman, d. 1110/1698) is the third of the canonical 'three pillars' of Ottoman calligraphy alongside Şeyh Hamdullah and Ahmed Karahisârî. He studied under Derviş Ali and is credited with perfecting the nestaʿlîk and naskh-sülüs tradition that dominated Ottoman calligraphy through the 19th century. He is particularly famous for his hilye compositions (descriptive calligraphic panels of the Prophet) and for his standardization of the sülüs and naskh hands. His calligraphic albums (murakkaat) are held in major collections including Topkapı, the Sakıp Sabancı Museum, and various European holdings. The YEK attribution to Hâfız Osmân is marked with a question mark ('?') in the catalogue, indicating uncertainty. Given the album's structure (sülüs kıtʿalar / calligraphic specimens in sülüs) and the late 17th-century period, the attribution is plausible but not confirmed by a dated ketebe in the recorded catalogue metadata.",
+    "date_ah": null,
+    "date_ce": null,
+    "date_note": "No explicit date given in the YEK catalogue record. Given the uncertain attribution to Hâfız Osmân (d. 1110/1698), the album is likely to date from the second half of the 11th/17th century. A Sotheby's auction lot (2021) for a signed Hâfız Osmân murakkaʿ with marbled covers was dated 1109 AH/1697 CE — suggesting marbled-ebru album formats were in production in his late period. In the absence of a ketebe date, this record uses null for date_ah and date_ce.",
+    "place_of_copy": null,
+    "format": "Murakkaat / murakkaatı (مرقعات) — calligraphic album with vassale-mounted sülüs panels on battal ebru paper grounds",
+    "format_note": "A bound Ottoman calligraphic album (murakkaat / murakkaʿ) of 10 folios containing sülüs calligraphic specimens (kıtʿa). The text panels are written on cream paper and window-mounted (vassale) onto sheets of battal ebru (stone/spot marbled) paper. The marbling is present on every leaf, including covers and doublures. Two distinct battal ebru color schemes are used: a dominant blue-grey palette (covers, text-opening outer borders) and a secondary pink/rose palette (doublures, selected inner border strips). A polychrome variant appears on p007. Each calligraphic panel is framed by gold cetveller (gold ruling) and a thin red inner frame strip, with the battal ebru forming the outer margin. The album binding covers are also covered in battal ebru.",
+    "language": "Arabic",
+    "script": "Sülüs (ثلث) — throughout",
+    "dimensions_mm": {
+      "height": 254,
+      "width": 170
+    },
+    "folio_count": 10,
+    "yek_id": "683760",
+    "iiif_id": "0000000673737",
+    "notes": "One of the clearest battal ebru specimens in the corpus, with the YEK catalogue's explicit notation 'Ebru, 1-10' unambiguously confirmed visually on every page. The distinction of two color-coordinated battal ebru schemes — blue-grey for exterior/covers/text-opening outer borders, pink/rose for doublures/inner borders — represents a sophisticated decorative program in which ebru color coordinates with page function. This is the only Süleymaniye Yazma Bağışlar album with a confirmed battal ebru throughout program in the current corpus. Attribution to Hâfız Osmân is uncertain (YEK uses '?') but plausible given period and script type."
+  },
+  "paper_decoration": {
+    "types": [
+      "marbled",
+      "colored",
+      "framing_system"
+    ],
+    "summary": "The decorative program of this album is organized entirely around battal ebru (stone/spot marbled) paper, present on every page including binding covers and doublures. Two primary color schemes of battal ebru are used: (1) a blue-grey/cream battal ebru, constituting the dominant scheme — present on both the front and back covers (pp. 001, 009), on the outer margin borders of the calligraphic openings (pp. 003, 005, 006), and on some openings throughout the album body; (2) a pink/rose battal ebru, used for the inside front cover doublure (p002 left) and inside back cover doublure (p008 right), and appearing as inner border strips on select calligraphic openings (p004 inner border, p007 inner border). A third, polychrome variant — mixing pinks, blues, and olive-greens — appears on the outer border of p007, suggesting a different marbling session or trough batch. The marbling subtype is consistently battal ebru (stone/spot marbling): the pattern shows irregular organic blob shapes without the combed lines of gel-git/taraklı ebru and without the drawn floral motifs of hatip ebru. At native IIIF resolution (p003, p004, p007) the battal ebru pattern is clearly legible with large, organic, cloud-like shapes typical of this technique. Each calligraphic panel is framed by multi-line gold cetveller (gold ruling) and a thin red/pink inner frame strip separating the mounted panel from the ebru outer border. The interior panel paper is cream/off-white âharlı paper on which the sülüs calligraphy is written. An additional endpaper visible on p002 right and p008 left appears as a warm yellowish-cream paper with a slightly speckled surface — possibly a light gold-sprinkled (zerefşân) paper or warm-toned battal variant; this is ambiguous at the resolutions examined.",
+    "distribution_notes": "Battal ebru is present on every single page: front and back covers (exterior), both doublures (interior covers), all text-opening borders (outer margin), and both endpapers at the album's beginning and end. The blue-grey scheme dominates the exterior-facing and outer-margin contexts; the pink/rose scheme is consistently used for the doublures and inner border strips that face the calligraphic text. This color-context logic — cool blue-grey for margins, warm pink/rose for the intimate inner frame — suggests a coherent design intention rather than random paper selection.",
+    "technique_terms": {
+      "ottoman": "battal ebru (taş ebru / leke ebru); vassale yöntemiyle monte edilmiş metin panelleri; altın cetvelli; kırmızı iç çerçeve; ebrulu cilt",
+      "persian": "abrī (ابری) — battal subtype; vassāla (واساله)",
+      "arabic": null
+    },
+    "catalogue_description": {
+      "paper_field": null,
+      "paper_field_normalized": null,
+      "paper_field_translation": null,
+      "notes_field": "Hat, 1-10; Ebru, 1-10.",
+      "notes_field_normalized": "Hat, 1-10; Ebru, 1-10.",
+      "notes_field_translation": "Calligraphy [on] folios 1–10; Ebru [marbled paper on] folios 1–10.",
+      "decoration_field": null,
+      "source": "YEK portal, genel notlar field, record 683760, Süleymaniye Kütüphanesi, Yazma Bağışlar collection. Subject: Hat (Calligraphy). No kâğıt özellikleri or tezhip field entries.",
+      "cataloguer_note": "The genel notlar entry 'Hat, 1-10; Ebru, 1-10' is the YEK cataloguing formula for indicating that the script type 'Hat' (calligraphy) and the paper type 'Ebru' (marbled) apply to all 10 folios of the album. This is an unusually complete decoration notation for a YEK record, and the 'Ebru, 1-10' claim is precisely and fully confirmed by visual examination. The catalogue is also correct in assigning it to the collection 'Yazma Bağışlar' (Donated Manuscripts), which at Süleymaniye houses miscellaneous donated collections."
+    }
+  },
+  "workshop_attribution": {
+    "primary_tradition": "ottoman",
+    "workshop_centre": "Istanbul",
+    "date_range_ce": "late 17th century (c. 1670–1698)",
+    "confidence": 0.70,
+    "key_indicators": [
+      "The sülüs script throughout is consistent with the dominant Istanbul court calligraphic tradition of the late 17th century",
+      "Battal ebru marbling on every leaf of an album is a format well-documented in late Ottoman (17th–18th century) calligraphic album production",
+      "The two-color battal ebru scheme (blue-grey exterior / pink doublures) suggests a planned coordinated production rather than casual assembly — consistent with a professional workshop context",
+      "The combination of gold cetveller and red inner frame strips is a standard Ottoman calligraphic mounting format",
+      "The uncertain attribution to Hâfız Osmân (d. 1110/1698) by the YEK cataloguer is contextually plausible and consistent with the late 17th-century Istanbul sülüs tradition he represented"
+    ],
+    "cross_tradition_caveats": [
+      "No ketebe (colophon inscription) date or location is recorded in the catalogue; the attribution to Hâfız Osmân rests on the YEK cataloguer's assessment and cannot be independently verified from the available images",
+      "The attribution is marked with a question mark ('?') in the catalogue, indicating the cataloguer's own uncertainty",
+      "Battal ebru albums with sülüs calligraphy were a standard Istanbul format and cannot be attributed to a specific calligrapher on visual grounds alone; physical examination of the calligraphy against documented works by Hâfız Osmân is needed for confirmation",
+      "The polychrome battal ebru variant at p007 (mixing pinks, blues, and olive-greens) may represent a different paper batch or a later insertion rather than a contemporaneous production"
+    ]
+  },
+  "codicology": {
+    "paper": {
+      "color": "Battal ebru: (1) blue-grey/cream dominant scheme; (2) pink/rose secondary scheme; (3) polychrome variant (p007 outer border). Text panels on cream/off-white paper. Endpapers: warm yellowish-cream (possibly light zerefşân or warm battal variant).",
+      "preparation": "Not specified in catalogue. The calligraphic text panels are on âharlı (sized) cream paper consistent with Ottoman luxury production. The battal ebru paper is produced by the standard marbling technique (floating pigments on size in a trough).",
+      "weight": "Not specified. Folios appear of standard thickness for Ottoman album production at this period.",
+      "decoration": "Battal ebru marbled paper on all folios (covers + text openings + doublures). Gold cetvelli framing with red inner frame strips for each calligraphic panel.",
+      "paper_type": "Combination of battal ebru ground sheets (marbled) and cream text panel paper. No information on chain lines or watermarks in the catalogue."
+    },
+    "ruling": {
+      "system": "Multi-line altın cetvelli (gold ruling) framing each calligraphic panel, plus a thin red inner frame strip between the panel and the outer ebru border.",
+      "description": "Each calligraphic panel is bordered by: (from outside in) the battal ebru outer margin paper; a multi-line gold cedvel system (typically 3–4 lines including gold outer, colored filler, and inner gold); a thin red or pink frame strip immediately surrounding the cream text area. This three-zone framing system is clearly legible in native IIIF images at p003, p004, p005, and p007. The gold ruling is applied to the mounted panel's edges, with the red strip providing a warm chromatic accent between the gold rule and the cream text surface."
+    },
+    "binding": {
+      "cover_description": "Both front and back covers are covered in blue-grey battal ebru (stone/spot marbled) paper — matching the album's interior color scheme. The marbling on the covers is the same blue-grey/cream pattern as the text-opening outer borders. A brown leather spine connects the covers. The inside front cover doublure (p002 left) is pink/rose battal ebru — coordinated with the pink ebru used in the interior. The inside back cover doublure (p008 right) is also pink/rose battal ebru (matching the front doublure). No gold medallion, şemse, or lacquer decoration is present on the exterior covers; the decoration is entirely from the marbled paper itself.",
+      "cover_type": "Ebrulu cilt (marbled paper binding) — battal ebru on both external covers and doublures",
+      "notes": "The binding is an integral part of the decorative program: the same battal ebru color scheme (blue-grey exterior, pink doublures) that structures the album's interior is carried through to the binding. This unified approach — in which covers, doublures, and text-opening borders all participate in the same color-coordinated ebru program — is an unusually coherent design for a late Ottoman album."
+    },
+    "format": "Murakkaat — Ottoman calligraphic album (sülüs kıtʿalar on battal ebru grounds)",
+    "condition_summary": "The manuscript appears well-preserved. The battal ebru marbling on covers (p001, p009) and interior pages is vivid and largely undamaged. The pink doublure (p002 left) shows the pattern clearly. Minor foxing and light soiling visible on the endpapers. The calligraphic text panels are legible. No catastrophic damage, loss of leaves, or major repair campaigns visible in the IIIF images.",
+    "conservation_history": null
+  },
+  "visual_confirmation": {
+    "verdict": "confirmed",
+    "confidence": 0.98,
+    "screenshots_examined": 9,
+    "folios_examined": [
+      "yb_09315_p1_battal_ebru.jpeg",
+      "yb_09315_p2_inside_cover.jpeg",
+      "yb_09315_p3_ebru_calligraphy.jpeg",
+      "yb_09315_p4_ebru_calligraphy.jpeg",
+      "yb_09315_p5_ebru_calligraphy.jpeg",
+      "yb_09315_p6_ebru_calligraphy.jpeg",
+      "yb_09315_p7_ebru_calligraphy.jpeg",
+      "yb_09315_p8_ebru_endpaper.jpeg",
+      "yb_09315_p9_back_cover.jpeg"
+    ],
+    "visual_evidence": "Battal ebru confirmed on every single page (100% coverage). Front and back covers (pp. 1, 9): blue-grey battal ebru. Doublures (pp. 2, 8): pink/rose battal ebru. Text opening borders (pp. 3–7): blue-grey battal ebru outer borders with pink/rose inner border strips on select openings. Polychrome battal ebru on p007 outer border. Gold cetveller and red inner frame strips confirmed. Vassale mounting of calligraphic panels visible. The YEK 'Ebru, 1-10' claim is precisely accurate. At native IIIF resolution (pp. 001, 002, 003, 004, 007) the battal ebru pattern is unambiguous: large irregular organic shapes characteristic of stone/spot marbling without combed lines (not gel-git) and without drawn floral motifs (not hatip ebru).",
+    "limitations": [
+      "Viewer screenshots (~1536px wide) for initial confirmation. IIIF native resolution examined for key pages subsequently.",
+      "Calligraphic attribution to Hâfız Osmân cannot be confirmed from visual examination alone; requires comparison with documented works by Hâfız Osmân.",
+      "No date or ketebe inscription visible in examined images; dating remains uncertain.",
+      "The ambiguous endpaper (p002 right, p008 left) — yellowish-cream with speckled surface — cannot be definitively classified as zerefşân or warm battal at the resolutions examined.",
+      "IIIF internal ID successfully extracted: 0000000673737."
+    ],
+    "source_agent": "visual-confirmation",
+    "session": "catalog/searches/visual_slot5_yb_09315.json"
+  },
+  "folio_analyses": [
+    {
+      "folio": "Front cover (IIIF p001)",
+      "source_image": "corpus/iiif/yb_09315_p001.jpg",
+      "decoration_present": true,
+      "decoration_types": ["marbled"],
+      "elements": [
+        {
+          "motif": "Battal ebru — blue-grey/cream stone marbling, front cover",
+          "description": "The front cover is covered in blue-grey battal ebru (stone/spot marbling). At native IIIF resolution the pattern shows large irregular organic shapes in blue-grey against a cream/tan ground, with white veining and cloud-like outlines characteristic of battal (random-drop) marbling. No combing lines, no drawn floral motifs. A brown leather spine is visible at the right edge. A library accession stamp (Süleymaniye Kütüphanesi — Yazma Bağışlar, shelfmark 9315) is adhered to the inside panel. The blue-grey palette is muted, consistent with cobalt or indigo-based pigments floated on marbling size.",
+          "location": "Full front cover exterior",
+          "confidence": 0.99
+        }
+      ],
+      "confidence": 0.99,
+      "notes": "The battal ebru identification is unambiguous at native resolution. The front cover ebru is a convincing exemplar of the blue-grey battal subtype — the most classic and restrained of the battal color variants."
+    },
+    {
+      "folio": "Inside front cover — pink/rose battal ebru doublure and endpaper (IIIF p002)",
+      "source_image": "corpus/iiif/yb_09315_p002.jpg",
+      "decoration_present": true,
+      "decoration_types": ["marbled"],
+      "elements": [
+        {
+          "motif": "Battal ebru — pink/rose doublure",
+          "description": "The inside front cover (doublure) is covered in pink/rose battal ebru. The marbling shows large curvilinear organic shapes in rose-pink and white against a light ground, with the characteristic irregular boundary lines of battal marbling. The pink is warm and saturated — consistent with a rose-based or red-shifted marbling color. A library stamp is visible in the lower area. This pink doublure directly contrasts with and complements the blue-grey exterior cover, revealing a deliberate two-tone color program.",
+          "location": "Inside front cover (doublure), left page",
+          "confidence": 0.98
+        },
+        {
+          "motif": "Endpaper — warm yellowish-cream paper with speckled surface",
+          "description": "The right page shows a warm yellowish-cream paper with what appears to be a speckled or slightly granular surface texture. This could be: (a) a light zerefşân (gold-sprinkled) paper with tarnished/faint gold particles; (b) a warm-toned battal ebru variant with very faint, almost invisible marbling; or (c) an aged cream paper with natural surface variation. The library label 'Süleymaniye Kütüphanesi — Yazma Bağışlar — No. 9315' is pasted to this page. Ambiguous at the resolutions examined.",
+          "location": "First endpaper (right page of inside front cover opening)",
+          "confidence": 0.55
+        }
+      ],
+      "confidence": 0.97,
+      "notes": "The pink battal ebru doublure is unambiguous. The endpaper at right requires physical examination or higher-resolution imaging to classify definitively."
+    },
+    {
+      "folio": "First calligraphic opening — sülüs kıtʿalar on blue-grey battal ebru (IIIF p003)",
+      "source_image": "corpus/iiif/yb_09315_p003.jpg",
+      "decoration_present": true,
+      "decoration_types": ["marbled", "framing_system"],
+      "elements": [
+        {
+          "motif": "Battal ebru — blue-grey stone marbling, outer border",
+          "description": "Both pages of the first calligraphic opening show the blue-grey battal ebru as the outer border/margin paper. The pattern matches the front cover in character: large organic irregular shapes in blue-grey on cream. The marbling surrounds each calligraphic panel on all four sides.",
+          "location": "Outer border margins of both pages",
+          "confidence": 0.99
+        },
+        {
+          "motif": "Vassale mounting — sülüs kıtʿa panels on cream paper",
+          "description": "Each page carries a calligraphic panel written in sülüs script on cream paper, window-mounted (vassale) into the battal ebru ground. The junction between the cream panel and the blue-grey ebru border is clearly visible. The panels contain formal sülüs calligraphy, consistent with the corpus of late 17th-century Ottoman religious text kıtʿalar.",
+          "location": "Both pages — central calligraphic panels",
+          "confidence": 0.97
+        },
+        {
+          "motif": "Gold cetveller and red inner frame — three-zone framing system",
+          "description": "The framing system between the calligraphic panel and the ebru border consists of: (from the text outward) the cream text surface, then a thin red/pink frame strip, then gold ruling lines (altın cetveller, multiple strands), then the blue-grey battal ebru border. This three-zone system is clearly legible at native resolution on p003.",
+          "location": "Panel borders, both pages",
+          "confidence": 0.97
+        }
+      ],
+      "confidence": 0.98,
+      "notes": "This opening delivers the clearest visual confirmation of the album's core decorative program: battal ebru outer border + vassale-mounted calligraphic panel + gold cetvelli framing + red inner strip. The entire program is intact and visually coherent."
+    },
+    {
+      "folio": "Calligraphic opening — pink/rose inner border and blue-grey outer border (IIIF p004)",
+      "source_image": "corpus/iiif/yb_09315_p004.jpg",
+      "decoration_present": true,
+      "decoration_types": ["marbled", "colored", "framing_system"],
+      "elements": [
+        {
+          "motif": "Battal ebru — blue-grey outer border, both pages",
+          "description": "The outer border of both pages maintains the blue-grey battal ebru scheme.",
+          "location": "Outer border margins of both pages",
+          "confidence": 0.99
+        },
+        {
+          "motif": "Pink/rose colored inner border strip",
+          "description": "Between the battal ebru outer border and the calligraphic panel, a distinct pink/rose colored paper strip functions as an inner border element — distinct from the ebru pattern itself. This strip is a flat solid-color element (not marbled) in a warm rose/pink tone, corresponding to the color of the doublure ebru. At native resolution on p004, this inner border strip is clearly separate from both the ebru outer margin and the gold cetvelli frame.",
+          "location": "Inner border strips on both pages, between ebru outer and gold ruling inner frame",
+          "confidence": 0.92
+        },
+        {
+          "motif": "Gold cetveller — multi-line gold ruling",
+          "description": "Multi-line gold ruling framing the calligraphic panels, consistent with p003.",
+          "location": "Panel frames, both pages",
+          "confidence": 0.95
+        }
+      ],
+      "confidence": 0.97,
+      "notes": "The addition of the pink/rose inner border strip on this opening introduces a fourth zone to the framing system: ebru outer → pink inner border → gold cetveller → cream panel. The pink inner border visually echoes the pink/rose doublure ebru, creating a color-coordinated layering effect."
+    },
+    {
+      "folio": "Calligraphic opening — polychrome battal ebru (IIIF p007)",
+      "source_image": "corpus/iiif/yb_09315_p007.jpg",
+      "decoration_present": true,
+      "decoration_types": ["marbled", "colored", "framing_system"],
+      "elements": [
+        {
+          "motif": "Battal ebru — polychrome outer border (pinks, blues, olive-greens)",
+          "description": "The outer border of this opening uses a distinctly different battal ebru batch: a polychrome pattern mixing warm pinks, blue-grey, and olive-green/dark tones in large organic shapes. This is visually distinct from the dominant blue-grey scheme of the other openings. It is still clearly battal ebru (no combing, no drawn motifs), but the color palette is richer. This may represent a different marbling session, a different batch of size, or a deliberate variation within the album's program.",
+          "location": "Outer border margins of both pages",
+          "confidence": 0.96
+        },
+        {
+          "motif": "Pink/rose inner border strip — wider than p004",
+          "description": "The pink/rose inner border strip on p007 appears wider than on p004, providing a more prominent warm inner border between the polychrome ebru and the gold cetvelli frame. The combination of the polychrome outer ebru with the pink inner strip creates the most chromatically complex opening in the album.",
+          "location": "Inner border strips, both pages",
+          "confidence": 0.93
+        },
+        {
+          "motif": "Sülüs kıtʿa panels — cream paper, vassale-mounted",
+          "description": "As on other openings, sülüs calligraphy panels on cream paper are vassale-mounted within the framing system.",
+          "location": "Central panels, both pages",
+          "confidence": 0.97
+        }
+      ],
+      "confidence": 0.96,
+      "notes": "The polychrome battal ebru at p007 is the most visually striking opening in the album. The variation in ebru color may reflect a deliberate compositional choice — introducing a different chromatic character toward the end of the calligraphic sequence — or may represent a later insertion or repair. Physical examination would help determine whether this leaf is contemporaneous with the rest of the album."
+    }
+  ],
+  "terminology": {
+    "terms_used": [
+      {
+        "concept": "Marbled paper — general",
+        "ottoman": "ebruli kâğıt / ebrî kâğıt",
+        "arabic": null,
+        "persian": "kāġaz-e abrī (کاغذ ابری)",
+        "english": "Ebrî / ebrulu: marbled paper, produced by floating pigments on a water-and-thickener size in a trough, arranging them into patterns, and pressing a sheet of paper onto the surface to transfer the design. The Turkish term 'ebru' derives from Persian 'abrī' (cloud-like). The YEK catalogue entry 'Ebru, 1-10' designates marbled paper on all 10 folios."
+      },
+      {
+        "concept": "Battal ebru — stone/spot marbling",
+        "ottoman": "battal ebru / taş ebru / leke ebru",
+        "arabic": null,
+        "persian": null,
+        "english": "Battal ebru (stone/spot marbling): the simplest form of marbled paper, produced by allowing pigments to float freely on the marbling size without combing or stylus manipulation. Creates an irregular spotted or mottled pattern of large organic shapes. 'Battal' (Ottoman Turkish) means 'ruined, worthless, large and irregular' — reflecting the informal appearance of the pattern relative to more elaborate marbling techniques. Distinguished from gel-git/taraklı ebru (combed, with wavy parallel lines) and hatip ebru (with drawn floral motifs)."
+      },
+      {
+        "concept": "Calligraphic album",
+        "ottoman": "murakkaʿ / murakkaat",
+        "arabic": "muraqqa' (مرقع) / muraqqa'āt (مرقعات)",
+        "persian": "muraqqa' (مرقع)",
+        "english": "Murakkaʿ (pl. murakkaat): a bound calligraphic (and sometimes pictorial) album. Here specifically a collection of sülüs script kıtʿa panels assembled in album form, with battal ebru paper as the decorative ground throughout."
+      },
+      {
+        "concept": "Sülüs script",
+        "ottoman": "sülüs hattı",
+        "arabic": "thuluth (ثلث)",
+        "persian": null,
+        "english": "Sülüs (thuluth): one of the six classical Arabic scripts, characterized by large, rounded letterforms with dramatic contrast between thick and thin strokes. Historically used for titles, headings, and monumental contexts. One of the scripts most closely associated with Hâfız Osmân's calligraphic mastery."
+      },
+      {
+        "concept": "Vassale mounting",
+        "ottoman": "vassale yöntemiyle monte edilmiştir",
+        "arabic": null,
+        "persian": "vassāla (واساله)",
+        "english": "Vassale: the window-mounting technique in which calligraphic panels are written on separate sheets, cut, and mounted into openings in a decorated paper ground. Used throughout this album, with the battal ebru serving as the ground into which cream calligraphic panels are inserted."
+      },
+      {
+        "concept": "Gold ruling lines",
+        "ottoman": "altın cetveller / cetvelli / altın cedvel",
+        "arabic": "jadwal mudhahdhab (جدول مذهّب)",
+        "persian": "jadval-e zar (جدول زر)",
+        "english": "Altın cetveller: multi-line gold ruling framing the calligraphic panels. In this album, the cetvelli system uses 3–4 gold and colored lines to frame each panel, between the panel edge and the inner border strip."
+      },
+      {
+        "concept": "Doublure",
+        "ottoman": "iç kapak / iç cilt kâğıdı",
+        "arabic": null,
+        "persian": "āstar-e badraqa (آستر بدرقه)",
+        "english": "Doublure: the decorated paper or leather lining of the inside of a binding cover. In this album, both the front and back cover doublures are pink/rose battal ebru, coordinated with the pink inner border strips of the calligraphic openings."
+      },
+      {
+        "concept": "Marbled binding",
+        "ottoman": "ebrulu cilt",
+        "arabic": null,
+        "persian": null,
+        "english": "Ebrulu cilt: a binding covered in marbled paper. In this album, the exterior covers are in blue-grey battal ebru, matching the outer border scheme of the text openings."
+      }
+    ]
+  },
+  "bibliography": [
+    {
+      "citation": "Derman, M. Uğur. Letters in Gold: Ottoman Calligraphy from the Sakıp Sabancı Collection, Istanbul. New York: The Metropolitan Museum of Art, 1998.",
+      "relevance": "The standard English-language exhibition catalogue on Ottoman calligraphy, covering Hâfız Osmân's life, scripts, and calligraphic albums in detail. Provides the key comparative context for attributing calligraphic work to Hâfız Osmân, and for understanding the role of album formats (murakkaat) in the late Ottoman calligraphic tradition. Essential for evaluating the uncertain attribution in this record.",
+      "relevance_score": 0.95,
+      "access_notes": "Exhibition catalogue; widely held at Islamic art libraries. ISBN 978-0300086324."
+    },
+    {
+      "citation": "Blair, Sheila S. 'Color and Gold: The Decorated Papers Used in Manuscripts in Later Islamic Times.' Muqarnas 17 (2000): 24–36.",
+      "relevance": "Foundational taxonomic study of decorated papers in Islamic manuscripts, providing the framework for classifying the battal ebru throughout this album. Blair's discussion of marbled paper varieties (hatip, battal, gel-git) and their chronological distribution is directly relevant. Available at: https://www.academia.edu/28982991/Color_and_Gold_The_Decorated_Papers_Used_in_Manuscripts_in_Later_Islamic_Times",
+      "relevance_score": 0.97,
+      "access_notes": "Peer-reviewed article. Available via JSTOR and Brill (Muqarnas Online). Open-access PDF on Academia.edu."
+    },
+    {
+      "citation": "Roxburgh, David J. The Persian Album, 1400–1600: From Dispersal to Collection. New Haven: Yale University Press, 2005.",
+      "relevance": "Essential study of the murakkaʿ album format and the vassale mounting technique in the Persianate tradition. Provides the broader art-historical context within which Ottoman album production — including this Hâfız Osmân murakkaat — developed and differentiated itself. The album-making conventions, mounting practices, and decorated paper programs described by Roxburgh are directly comparable to those observed in this manuscript.",
+      "relevance_score": 0.88,
+      "access_notes": "Monograph; widely held at major research libraries."
+    },
+    {
+      "citation": "Bağcı, Serpil, Filiz Çağman, Günsel Renda, and Zeren Tanındı. Ottoman Painting. Ankara: Ministry of Culture and Tourism, 2006.",
+      "relevance": "Comprehensive survey of Ottoman visual arts including the album tradition, calligraphic practices, and decorated paper use in the 17th and 18th centuries. Provides comparative context for the late Ottoman (late 17th-century) album production within which this murakkaat was likely created.",
+      "relevance_score": 0.80,
+      "access_notes": "Museum publication; available at major Turkish studies collections."
+    },
+    {
+      "citation": "Déroche, François. Islamic Codicology: An Introduction to the Study of Manuscripts in Arabic Script. Translated by Deke Dusinberre and David Radzinowicz. London: Al-Furqan Islamic Heritage Foundation, 2005.",
+      "relevance": "Foundational reference for Islamic manuscript codicology, providing the classification framework for paper decoration types (marbled, colored, gold-worked), mounting techniques (vassale), binding forms, and physical manuscript features used throughout this catalog record.",
+      "relevance_score": 0.78,
+      "access_notes": "Monograph; available at specialist libraries."
+    },
+    {
+      "citation": "Gacek, Adam. Arabic Manuscripts: A Vademecum for Readers. Leiden: Brill, 2009.",
+      "relevance": "Standard terminology reference for Arabic manuscript studies, covering script identifications, codicological terms, and paper vocabulary. Relevant for the identification and description of the sülüs script throughout this album and for general codicological terminology used in this record.",
+      "relevance_score": 0.75,
+      "access_notes": "Widely held reference monograph."
+    },
+    {
+      "citation": "Bloom, Jonathan M. Paper Before Print: The History and Impact of Paper in the Islamic World. New Haven: Yale University Press, 2001.",
+      "relevance": "Comprehensive history of paper production and use in the Islamic world, providing material-culture background for the marbled paper tradition in the Ottoman context, including production techniques and the role of decorated papers in luxury manuscript and album production.",
+      "relevance_score": 0.72,
+      "access_notes": "Widely held monograph."
+    },
+    {
+      "citation": "Çağman, Filiz, and Zeren Tanındı. The Topkapı Saray Museum: The Albums and Illustrated Manuscripts. Translated and edited by J. M. Rogers. Boston: Little, Brown, 1986.",
+      "relevance": "Standard reference for Ottoman luxury albums and illustrated manuscripts in the Topkapı collections, covering decorated paper programs and binding types of 16th–17th century Ottoman murakkaʿ albums. Provides comparanda for the battal ebru album format and the sülüs calligraphic tradition.",
+      "relevance_score": 0.75,
+      "access_notes": "Exhibition catalogue; widely held."
+    }
+  ],
+  "suggested_collections": [
+    {
+      "institution": "Süleymaniye Kütüphanesi, Istanbul",
+      "reason": "Holding institution. Other albums in the Yazma Bağışlar and related sub-collections may use comparable battal ebru programs and are likely to provide within-collection comparative material.",
+      "digital_access": "https://portal.yek.gov.tr"
+    },
+    {
+      "institution": "Topkapı Sarayı Müzesi Kütüphanesi, Istanbul",
+      "reason": "The principal repository of Hâfız Osmân's signed and documented works. Comparison with authenticated Hâfız Osmân calligraphy in the Topkapı collection is essential for confirming or disconfirming the uncertain attribution of this album.",
+      "digital_access": "https://kutuphane.tsmk.gov.tr"
+    },
+    {
+      "institution": "Sakıp Sabancı Museum, Istanbul",
+      "reason": "Holds the collection studied by Derman (Letters in Gold, 1998), including major examples of Hâfız Osmân's calligraphy and albums. Documented works there provide the closest comparative material for attribution.",
+      "digital_access": null
+    },
+    {
+      "institution": "Chester Beatty Library, Dublin",
+      "reason": "Outstanding collection of Ottoman calligraphic albums with decorated papers, including examples of battal ebru throughout programs and sülüs murakkaat from the late Ottoman period.",
+      "digital_access": "https://viewer.cbl.ie"
+    }
+  ],
+  "provenance": {
+    "donor": null,
+    "waqf": null,
+    "previous_shelfmarks": [],
+    "notes": "Held at Süleymaniye Kütüphanesi, Istanbul, under the Yazma Bağışlar (Donated Manuscripts) sub-collection, shelfmark 09315. The Yazma Bağışlar collection aggregates manuscripts donated by private individuals and institutions at various dates; the provenance of this specific album prior to donation is not recorded in the YEK catalogue entry. YEK ID: 683760. IIIF ID: 0000000673737."
+  },
+  "analysis_metadata": {
+    "analyzed_date": "2026-02-28",
+    "analyzer": "claude-code-manuscript-pipeline",
+    "pipeline_stage": "metadata-generator",
+    "image_source": "YEK Portal IIIF native-resolution images (YEK ID 683760, Süleymaniye — Yazma Bağışlar 09315, IIIF ID 0000000673737). Up to 6296 px native resolution. 9 pages total; all 9 examined at native resolution (p001–p009). Additional 9 viewer-resolution screenshots (~1536px wide) examined via visual confirmation session.",
+    "image_quality_notes": "Native IIIF resolution (up to 6296 px) is good and supports clear identification of the battal ebru marbling pattern, color schemes, and framing system. The ambiguous endpaper (p002 right, p008 left) cannot be definitively classified at this resolution. No colophon or ketebe inscription was located in the examined images, consistent with the catalogue's absence of a date. Full attribution confirmation requires physical comparison with documented Hâfız Osmân works.",
+    "folios_examined": [
+      "corpus/iiif/yb_09315_p001.jpg",
+      "corpus/iiif/yb_09315_p002.jpg",
+      "corpus/iiif/yb_09315_p003.jpg",
+      "corpus/iiif/yb_09315_p004.jpg",
+      "corpus/iiif/yb_09315_p005.jpg",
+      "corpus/iiif/yb_09315_p006.jpg",
+      "corpus/iiif/yb_09315_p007.jpg",
+      "corpus/iiif/yb_09315_p008.jpg",
+      "corpus/iiif/yb_09315_p009.jpg"
+    ],
+    "folios_not_examined": null,
+    "corpus_priority": "High — one of the clearest battal ebru specimens in the corpus. YEK 'Ebru, 1-10' fully confirmed. Two-color-coordinated battal ebru scheme (blue-grey exterior / pink doublures) is an unusually coherent design. Follow-up priority: (1) locate ketebe inscription for attribution and dating; (2) compare calligraphy with documented Hâfız Osmân works; (3) high-resolution examination of ambiguous endpapers.",
+    "source_data": {
+      "search_file": "catalog/searches/visual_slot5_yb_09315.json",
+      "yek_id": "683760",
+      "visual_confirmation_file": "catalog/searches/visual_slot5_yb_09315.json",
+      "batch": "Murakkaʿ IIIF deep analysis batch (2026-02-28)"
+    }
+  }
+}

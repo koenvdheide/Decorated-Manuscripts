@@ -1,0 +1,366 @@
+{
+  "record_id": "na_00084",
+  "collection": {
+    "institution": "Süleymaniye Kütüphanesi — Nuri Arlasez Koleksiyonu",
+    "city": "Istanbul",
+    "country": "Turkey",
+    "shelfmark": "NA 00084",
+    "yek_url": "https://portal.yek.gov.tr/works/detail/406000"
+  },
+  "manuscript": {
+    "title": "Murakkaʿ / مرقعات",
+    "title_script": "مرقعات",
+    "title_alt": "Mustafa Râkım Efendi Murakkaʿı",
+    "author": null,
+    "author_dates": null,
+    "calligrapher": "Mustafa Râkım Efendi (مصطفى راقم أفندي) — attributed by ownership note on p003",
+    "calligrapher_dates": "1171–1241 AH / 1757–1826 CE",
+    "calligrapher_note": "Mustafa Râkım Efendi (also spelled Rakim) was the foremost Ottoman calligrapher of the late 18th and early 19th centuries and is credited with perfecting the celî sülüs (large-scale thuluth) script into its canonical modern form. He served as court calligrapher to Selim III and later Mahmud II, and was responsible for the tughra designs of Selim III and Mustafa IV. His work represents the definitive Ottoman classical style that would be transmitted through the 19th century. The attribution here rests on an ownership note reading 'merhum Mustafa Râkım Efendi' visible on p003 — the word 'merhum' (the late, the deceased) indicates the note was written after Râkım's death in 1826, making this a posthumous attribution or ownership/provenance inscription rather than a ketebe. The YEK catalogue description field is blank; the cataloguer notes 'ownership note on p003 reads merhum Mustafa Rakim Efendi' but does not classify the calligraphy as by Râkım. The mesk specimens on p002 — calligraphic exercises with ligature analysis — are consistent stylistically with the Râkım school but cannot be confirmed as autograph without specialist examination.",
+    "date_ah": null,
+    "date_ce": "late 18th–early 19th century (probable, consistent with Rakim's active period c. 1785–1826)",
+    "date_note": "No explicit date in the YEK record. The ownership inscription 'merhum Mustafa Râkım Efendi' establishes a terminus post quem of AH 1241/1826 CE (Râkım's death), since 'merhum' was added after his death. The album itself, however, may have been compiled during Râkım's lifetime. The battal ebru borders on p004 — in blue, cream, and gold tones — are consistent with late 18th to early 19th-century Ottoman marbling production. Date range 'late 18th–early 19th century' is adopted with low confidence.",
+    "place_of_copy": "Istanbul (probable)",
+    "format": "Murakkaʿ (مرقعات) — small calligraphic album of 2 folios (4 pages). Calligraphic mesk exercises on cream paper (p002), with full-page hatip ebru (p001) and battal ebru-bordered calligraphic kıtʿa opening (p004).",
+    "format_note": "An exceptionally compact murakkaʿ of only 2 folios, digitized as 4 pages. Despite its small size, the album presents two distinct ebru types: full-page hatip ebru as a complete leaf (p001) and battal ebru as the wide outer border of the calligraphic opening (p004). This two-type ebru program within 2 folios is without parallel in the current corpus and represents a highly concentrated demonstration of marbling technique. The calligraphic content on p002 consists of mesk (practice/model) exercises: multiple parallel renderings of sülüs or celî sülüs ligatures in black ink on plain cream paper arranged in vertical and diagonal columns, consistent with the pedagogical and workshop-model function of a murakkaʿ.",
+    "language": "Arabic",
+    "script": "Sülüs / Celî Sülüs (ثلث / جلي ثلث) — the p002 mesk exercises show large-scale sülüs letterforms consistent with the celî sülüs speciality of Mustafa Râkım Efendi",
+    "dimensions_mm": {
+      "height": 315,
+      "width": 190
+    },
+    "folio_count": 2,
+    "yek_id": "406000",
+    "iiif_id": "0000000398421",
+    "notes": "CORPUS SIGNIFICANCE: One of the finest hatip ebru examples in the project corpus. The full-page hatip ebru leaf (p001) is exceptional in scale, colour complexity, and preservation, displaying the characteristic combed leaf/feather pattern in at least 6 colours (blue, orange/burnt sienna, gold/ochre, green, dark red/maroon, and cream) with additional scattered dot splashes. The battal ebru borders on the calligraphic opening (p004) form a wide outer frame of blue-grey stone/spot marbling with gold-cream florets, coordinated with a multi-line compound cetvel (dark blue, red, gold, green). The combination of two distinct ebru types — hatip and battal — in a single 2-folio album is unique in the corpus. The YEK catalogue record has no decoration fields completed despite the spectacular decoration program. Catalogued as collection 'Nuri Arlasez Koleksiyonu', a private donation to Süleymaniye; the collector's identity and acquisition history are not documented in the YEK record."
+  },
+  "paper_decoration": {
+    "types": [
+      "marbled",
+      "framing_system"
+    ],
+    "summary": "The decorative program of this compact 2-folio murakkaʿ is organised around two distinct types of Ottoman marbled paper used in complementary roles. The first leaf (p001) functions as a full-page hatip ebru specimen: the entire recto surface is covered with a spectacular combed leaf/feather marbling in at least six colours (blue, orange/burnt sienna, gold/ochre, sage green, dark red/maroon, and cream), with scattered circular dot splashes distributed across the pattern, all enclosed within a narrow dark ornamental border frame. This is one of the most chromatic and spatially complex hatip ebru leaves in the corpus. The fourth page (p004) presents a double-page calligraphic opening in which wide battal ebru (stone/spot marbling) borders frame the text area on all four sides: the marbling is predominantly blue-grey/cream with scattered gold and cream florets in an irregular pattern characteristic of the battal technique, providing a rich textural contrast to the intimate calligraphic surface. The text panels are on burnished cream paper (âharlı kâğıt) and are framed by a multi-line compound cetvel system (dark blue, red, gold, and green rules), creating a five-zone framing sequence: battal ebru outer margin — multi-line cedvel — cream text surface. Pages p002 and p003 (recto and verso of the inner leaf) are on plain cream/buff paper with no decorated paper treatment: p002 carries the calligraphic mesk exercises and p003 the ownership inscription and institutional stamp.",
+    "distribution_notes": "Hatip ebru: p001 only (full-page, single leaf). Battal ebru: p004 only (wide outer borders framing calligraphic kıtʿa, double-page). Framing system (multi-line cedvel): p004. Plain paper (undecorated): p002 (calligraphic mesk), p003 (ownership/institutional leaf). The two ebru types are used in structurally distinct roles — the hatip ebru as the decorative object itself; the battal ebru as the ground framing the calligraphic text — demonstrating a sophisticated compositional logic in a very small album.",
+    "technique_terms": {
+      "ottoman": "hatip ebru (taraklı / combed leaf-feather marbling); battal ebru (taş ebru, leke ebru — stone/spot marbling); çok renkli (multi-colour); altın cetvelli; sülüs hattı; merhum Mustafa Râkım Efendi'ye ait (attributed to, per ownership note)",
+      "persian": "abrī-ye ḥatīp (ابری حطیب — imam's marbling); abrī-ye battāl (ابری بطال — stone/spot marbling); jadval-e zar (جدول زر — gold ruling)",
+      "arabic": "waraq al-abrī al-ḥatīp (ورق الابری الحطیب); waraq al-abrī al-battāl (ورق الابری البطال)"
+    },
+    "catalogue_description": {
+      "paper_field": null,
+      "paper_field_normalized": null,
+      "paper_field_translation": null,
+      "notes_field": "Ownership note: 'merhum Mustafa Rakim Efendi'",
+      "notes_field_normalized": "Mülkiyet notu: 'merhum Mustafa Râkım Efendi'",
+      "notes_field_translation": "Ownership note: '[property of] the late Mustafa Râkım Efendi'",
+      "decoration_field": null,
+      "source": "YEK portal, record 406000, Süleymaniye Kütüphanesi — Nuri Arlasez Koleksiyonu, NA 00084. Catalogued by Yusuf Yıldırım. Fields kağıt özellikleri, tezhip/minyatür, and genel notlar are all null in the YEK record. The spectacular two-type ebru decoration program is entirely absent from the YEK catalogue description.",
+      "cataloguer_note": "The YEK catalogue record for NA 00084 is markedly incomplete for a manuscript of this art-historical significance. The tezhip/minyatür, kağıt özellikleri, and genel notlar fields are all empty. The only inscription noted is the ownership attribution to Mustafa Râkım Efendi. The decoration program — hatip ebru full-page leaf and battal ebru-bordered calligraphic opening — is documented entirely from visual examination of the IIIF images."
+    }
+  },
+  "workshop_attribution": {
+    "primary_tradition": "ottoman",
+    "workshop_centre": "Istanbul",
+    "date_range_ce": "c. 1790–1826 (late 18th–early 19th century, Selim III / Mahmud II era)",
+    "confidence": 0.72,
+    "key_indicators": [
+      "Ownership note 'merhum Mustafa Râkım Efendi' connects the album to the circle of the preeminent late Ottoman calligrapher (d. 1826) and implies Istanbul provenance",
+      "The celî sülüs mesk exercises on p002 are consistent with the Râkım school's pedagogical format and the large-scale sülüs letterforms he standardized",
+      "Hatip ebru in multiple colours with combed leaf/feather pattern is well documented in late 18th–early 19th-century Istanbul marbling workshops; the colour palette (blue, orange, ochre, green, dark red) is consistent with the period",
+      "The battal ebru border treatment — blue-grey stone marbling with gold/cream florets — on a calligraphic kıtʿa opening matches formats known from late Ottoman murakkaʿ production in Istanbul",
+      "The album dimensions (315 × 190 mm) and format (compact two-folio murakkaʿ) are consistent with Ottoman private-collector and workshop presentation albums of the late 18th–early 19th century"
+    ],
+    "cross_tradition_caveats": [
+      "No dated ketebe inscription is present in the catalogue or visible in the IIIF images; the attribution to Râkım's circle rests on the ownership note alone",
+      "'Merhum' in the ownership note establishes a terminus post quem of 1826 but does not fix the date of the album itself or its calligraphy; the album may have been assembled by a pupil or collector after Râkım's death",
+      "The mesk exercises on p002 cannot be confirmed as autograph without specialist comparative examination against authenticated Râkım works; the YEK cataloguer did not assert authorship",
+      "Hatip ebru and battal ebru were produced by multiple Istanbul marblers throughout the 18th–19th century; style alone cannot confirm a specific workshop or atelier",
+      "The Nuri Arlasez collection provenance at Süleymaniye is a modern donation; earlier ownership history before Arlasez is unknown"
+    ]
+  },
+  "codicology": {
+    "paper": {
+      "color": "P001: multi-colour hatip ebru ground (blue, orange/burnt sienna, gold/ochre, sage green, dark red/maroon, cream). P002–P003: plain cream/buff paper (âharlı). P004: battal ebru outer borders (blue-grey/cream with gold/cream florets); calligraphic text panels on burnished cream paper.",
+      "preparation": "The calligraphic text panels (p002, p004 text area) are on âharlı (sized and burnished) cream paper consistent with Ottoman calligraphy paper production. The hatip ebru leaf (p001) is on a cream ground paper with marbling applied by the floating-pigment trough technique. The battal ebru borders (p004) are likewise produced by the trough technique.",
+      "weight": "Indeterminate from IIIF images; album folios appear of normal weight for Ottoman luxury production.",
+      "decoration": "P001: full-page hatip ebru. P004: battal ebru outer borders + multi-line cedvel framing. P002–P003: plain cream.",
+      "paper_type": "Mixed: hatip ebru marbled paper (p001); plain âharlı cream (p002–p003); combination of battal ebru outer border with âharlı cream text insert (p004)."
+    },
+    "ruling": {
+      "system": "Multi-line compound cedvel on p004 only; absent from p001 (full-page ebru) and p002–p003 (plain paper).",
+      "description": "On p004, the calligraphic panels are framed by a compound multi-line ruling system (altın cedvel) comprising at minimum four coloured lines visible at IIIF resolution: a dark blue outer rule, a thin red rule, one or more gold rules, and a green inner rule. This four-colour cedvel creates a vivid coloured frame separating the battal ebru border from the cream text surface. The total frame depth is approximately 8–10 mm at the described dimensions, consistent with a late Ottoman luxury presentation format. No ruling visible on p001 (hatip ebru leaf, with only the narrow dark ornamental border frame at the sheet edges) or p002 (plain mesk paper)."
+    },
+    "binding": {
+      "cover_description": "The binding is not distinctly visible in the IIIF images. P001 is the first digitized page (likely the first recto after any cover), showing the full-page hatip ebru without an adjacent binding cover. The triage screenshot (na_00084_viewer.png) shows the hatip ebru leaf in the viewer with thumbnail images of all four pages visible. No cover material is separately documented in the YEK catalogue.",
+      "cover_type": "Unknown — binding not captured in IIIF digitization or catalogue record.",
+      "notes": "The compact 2-folio format raises the question of whether this is a bound album or a folded bifolio. The YEK catalogue records 2 folios / 4 pages; the physical binding type cannot be determined from the available images. A bound album format (however slim) is assumed given the murakkaʿ genre designation."
+    },
+    "format": "Murakkaʿ — compact 2-folio Ottoman calligraphic album with hatip ebru full-page leaf and battal ebru-bordered calligraphic opening",
+    "condition_summary": "The manuscript appears well-preserved. The hatip ebru leaf (p001) is vivid and undamaged, with no visible losses or major abrasion. The ownership inscription on p003 is legible. The battal ebru borders on p004 are intact. Minor surface soiling is visible on the plain cream pages. Resolution (2048 × 1536 px for all pages) is adequate for ebru identification and pattern analysis but does not allow close examination of script details on p002.",
+    "conservation_history": null
+  },
+  "visual_confirmation": {
+    "verdict": "confirmed",
+    "confidence": 0.97,
+    "screenshots_examined": 5,
+    "folios_examined": [
+      "corpus/iiif/na_00084_p001.jpg",
+      "corpus/iiif/na_00084_p002.jpg",
+      "corpus/iiif/na_00084_p003.jpg",
+      "corpus/iiif/na_00084_p004.jpg",
+      "na_00084_viewer.png"
+    ],
+    "visual_evidence": "CONFIRMED at high confidence. P001: unambiguous hatip ebru — full-page combed leaf/feather marbling in six or more colours (blue, orange/burnt sienna, gold/ochre, sage green, dark red/maroon, cream) with scattered circular dot splashes; enclosed in a narrow dark ornamental border frame at the sheet edges. The hatip (combed-motif) technique is clearly legible: the pattern shows elongated feather/leaf forms created by stylus-drawing through floated pigments, distinguishing it definitively from battal ebru (random drop) or gel-git (parallel comb) techniques. P004: wide battal ebru borders on all four sides of the calligraphic double-page opening; blue-grey/cream stone/spot marbling with gold and cream florets irregularly distributed; multi-line compound cedvel (dark blue, red, gold, green) framing the text area; calligraphic kıtʿa in sülüs or celî sülüs on burnished cream paper within the border. P002: plain cream paper, no decoration — mesk calligraphic exercises in black ink. P003: plain buff paper, ownership inscription 'merhum Mustafa Râkım Efendi' in small naskh, Türkiye Yazma Eserler Kurumu embossed stamp. Two distinct ebru types (hatip + battal) confirmed in one album.",
+    "limitations": [
+      "All pages at uniform 2048 × 1536 px resolution — moderate resolution adequate for ebru identification but does not support close palaeographic analysis of the mesk exercises on p002",
+      "The binding is not captured in the IIIF images; physical format (bound album vs. bifolio) cannot be confirmed",
+      "Attribution of the mesk exercises to Mustafa Râkım Efendi's hand cannot be confirmed from visual examination alone; requires specialist comparison with authenticated autograph works",
+      "Date of production is not directly determinable from the images; the ownership note provides a terminus post quem of 1826 (after Râkım's death) but not an absolute date",
+      "No page p019 exists in the IIIF record — the album is complete at 4 pages (2 folios)"
+    ],
+    "source_agent": "visual-confirmation",
+    "session": "catalog/searches/visual_tier1_na_00084.json"
+  },
+  "folio_analyses": [
+    {
+      "folio": "p001 — Full-page hatip ebru leaf",
+      "source_image": "corpus/iiif/na_00084_p001.jpg",
+      "decoration_present": true,
+      "decoration_types": ["marbled"],
+      "elements": [
+        {
+          "motif": "Hatip ebru — full-page combed leaf/feather marbling",
+          "description": "The entire recto surface of this leaf is covered with a hatip ebru (imam's marbling) pattern. The marbling displays the characteristic elongated feather/leaf forms of the hatip technique, created by drawing a stylus through a bed of floated pigments on a water-and-tragacanth size in a marbling trough. The colours are richly varied: a dominant blue ground (cobalt-tone), with overlying feather/leaf forms in orange/burnt sienna, gold/ochre, sage green, dark red/maroon, and cream/white. Scattered across the pattern are small circular dot splashes, creating a secondary texture within the larger feather forms. The overall visual effect is of an exceptionally dense, layered, and chromatically complex marbling that ranks among the finest hatip ebru specimens in the project corpus. The pattern is enclosed by a narrow dark ornamental border frame at the sheet edges — appearing as a dark grey-brown band approximately 5–8 mm wide, which may be a painted or printed border applied to the marbled sheet. The verso (p002) is plain cream paper with mesk calligraphy, confirming that only the recto of this leaf is marbled.",
+          "location": "Full recto surface of the first leaf; bordered by narrow dark frame",
+          "confidence": 0.97
+        }
+      ],
+      "confidence": 0.97,
+      "notes": "The hatip ebru identification is unambiguous at the 2048 × 1536 px resolution. The colour complexity and the large scale of the feather/leaf motifs are consistent with high-quality late 18th–early 19th-century Ottoman marbling. This leaf is one of the finest hatip ebru specimens in the project corpus, notable for the six-colour palette and the integration of scattered dot splashes within the combed pattern."
+    },
+    {
+      "folio": "p002 — Calligraphic mesk exercises, plain cream paper",
+      "source_image": "corpus/iiif/na_00084_p002.jpg",
+      "decoration_present": false,
+      "decoration_types": [],
+      "elements": [
+        {
+          "motif": "Meşk (calligraphic practice/model exercises) — plain cream paper",
+          "description": "This page shows a large sheet of cream/ivory paper carrying multiple parallel renderings of sülüs or celî sülüs letterforms and ligatures in black ink. The writing is arranged in vertical and diagonal columns, with individual letter-clusters or word-forms repeated in horizontal rows across the sheet — the characteristic format of Ottoman meşk (harf meşkleri / letter-form model) production for calligraphic teaching and practice. The paper itself is plain, âharlı (sized), and has an aged buff tone. At 2048 × 1536 px the individual letterforms cannot be fully read but the large-scale formal character of the script is consistent with celî sülüs. No decorated paper, ruling, or border is visible. The meşk sheet appears to be mounted or hinged rather than bound conventionally, given the large format (approximately 270–280 mm wide) relative to the album dimensions.",
+          "location": "Full recto of inner leaf (p002 recto)",
+          "confidence": 0.90
+        }
+      ],
+      "confidence": 0.90,
+      "notes": "This page has no decorated paper. It is documented because it is part of the album's content (calligraphic meşk) and provides the context for attributing the album to the Mustafa Râkım Efendi school. Its large-scale celî sülüs exercises are consistent with the Râkım tradition."
+    },
+    {
+      "folio": "p003 — Ownership note and institutional stamp, plain buff paper",
+      "source_image": "corpus/iiif/na_00084_p003.jpg",
+      "decoration_present": false,
+      "decoration_types": [],
+      "elements": [
+        {
+          "motif": "Ownership note — 'merhum Mustafa Râkım Efendi'",
+          "description": "The page shows the verso of the inner leaf in plain buff/cream paper. Near the top centre, a small note in black ink reads 'merhum Mustafa Râkım Efendi' followed by a second word partially legible as 'hattiyye' or similar — possibly indicating 'his calligraphy [specimen]' or a similar possessive phrase. The script is small informal naskh. Centred on the lower half of the page is the embossed seal of the Türkiye Yazma Eserler Kurumu (Turkish Manuscripts Institution), a standard ownership/acquisition stamp applied to manuscripts in their custody. No decorated paper and no further decoration are present on this page.",
+          "location": "Upper centre (ownership note) and lower centre (institutional stamp)",
+          "confidence": 0.92
+        }
+      ],
+      "confidence": 0.92,
+      "notes": "The ownership note is the primary documentary evidence for the Mustafa Râkım Efendi attribution. The word 'merhum' (the late / God have mercy on him) indicates it was written after Râkım's death in AH 1241/1826 CE. The note is written by a different hand from the calligraphy on p002."
+    },
+    {
+      "folio": "p004 — Calligraphic kıtʿa with battal ebru borders, double-page opening",
+      "source_image": "corpus/iiif/na_00084_p004.jpg",
+      "decoration_present": true,
+      "decoration_types": ["marbled", "framing_system"],
+      "elements": [
+        {
+          "motif": "Battal ebru outer borders — blue-grey stone/spot marbling with florets",
+          "description": "The outer border of both pages of this opening is covered with battal ebru (stone/spot marbling) in a predominantly blue-grey and cream palette. The marbling displays the characteristic irregular organic blob shapes of the battal technique — pigments allowed to float freely on the marbling size without combing or stylus work. Distributed across the battal ebru field are scattered small gold/cream florets (rounded floral shapes, approximately 5–8 mm at native scale), which appear to be secondary motifs added within or on top of the battal ebru pattern. The florets are irregularly placed across the marbled ground. The blue-grey tone is dominant, with cream/white areas forming the lighter parts of the irregular pattern. The border is wide — approximately 40–50 mm on each side — creating a prominent decorative frame for the calligraphic text panels. This battal ebru is distinct from the hatip ebru of p001: there are no combed/drawn feather or leaf motifs here, only the free-floating irregular stone/spot pattern.",
+          "location": "Full outer borders on all four sides of both pages of the double-page opening",
+          "confidence": 0.95
+        },
+        {
+          "motif": "Multi-line compound cedvel framing system",
+          "description": "Between the battal ebru outer border and the calligraphic text panels, a compound multi-line ruling system (altın cedvel) is visible. The cedvel comprises at minimum four coloured rule lines visible at IIIF resolution: a dark blue outer line, a red line, a gold line, and a green inner line. Additional narrow lines may be present. This compound cedvel creates a vivid, polychrome frame transition between the blue-grey battal ebru border and the cream text surface. The colour combination of dark blue, red, gold, and green is characteristic of late Ottoman luxury album production.",
+          "location": "Panel frames on both pages, between the battal ebru border and the text surface",
+          "confidence": 0.90
+        },
+        {
+          "motif": "Calligraphic kıtʿa on burnished cream paper — sülüs/celî sülüs",
+          "description": "The text panels on both pages carry formal calligraphic kıtʿa (specimen texts) in sülüs or celî sülüs script in black ink, written on burnished cream (âharlı) paper. The text appears to be Arabic — the script is large, formal, and highly resolved, with the dramatic thick-thin stroke contrast and the rounded letterforms characteristic of the sülüs hand. The composition is arranged in multiple horizontal lines with the calligraphy filling the panel area. Gold ink rosettes or small gold ornaments appear between text sections. The entire calligraphic panel functions as a vassale insert within the battal ebru-bordered ground, creating the standard Ottoman album format.",
+          "location": "Central text panels on both pages, surrounded by the cedvel and battal ebru border",
+          "confidence": 0.88
+        }
+      ],
+      "confidence": 0.93,
+      "notes": "Page p004 presents the classic late Ottoman album calligraphic opening format: vassale-mounted sülüs kıtʿa panels framed by a multi-line cedvel within a wide marbled-paper border. The battal ebru here contrasts structurally and aesthetically with the full-page hatip ebru of p001 — the hatip ebru as decorative object, the battal ebru as mounting ground. The scattered gold/cream florets within the battal ebru field are an additional decorative element not typically noted in standard battal ebru descriptions; these may have been added by brush or stamp after the marbling was completed."
+    }
+  ],
+  "terminology": {
+    "terms_used": [
+      {
+        "concept": "Calligraphic album",
+        "ottoman": "murakkaʿ / murakkaat (مرقعات)",
+        "arabic": "muraqqa' (مرقع) / muraqqa'āt (مرقعات)",
+        "persian": "muraqqa' (مرقع)",
+        "english": "Murakkaʿ: a bound album of calligraphic specimens (kıtʿa), sometimes also miniature paintings. In this album, the format is reduced to its most essential elements: a single full-page hatip ebru leaf and a battal ebru-bordered calligraphic double-page opening within 2 folios."
+      },
+      {
+        "concept": "Imam's marbling — hatip ebru",
+        "ottoman": "hatip ebru / hatip ebrusu",
+        "arabic": "waraqa al-abrī al-ḥatīp (ورق الابری الحطیب)",
+        "persian": "kāġaz-e abrī-ye ḥatīp (کاغذ ابری حطیب)",
+        "english": "Hatip ebru: marbled paper produced by drawing a stylus through floated pigments on marbling size to create elongated leaf/feather forms. Named in the Ottoman tradition after Hâtip Mehmed Efendi, who is credited with developing the technique. The defining characteristic — drawn, stylized feather or leaf motifs — clearly distinguishes hatip ebru from battal ebru (random drop) and gel-git/taraklı ebru (mechanically combed)."
+      },
+      {
+        "concept": "Stone/spot marbling — battal ebru",
+        "ottoman": "battal ebru / taş ebru / leke ebru",
+        "arabic": "waraqa al-abrī al-battāl (ورق الابری البطال)",
+        "persian": "kāġaz-e abrī-ye battāl (کاغذ ابری بطال)",
+        "english": "Battal ebru: marbled paper produced by allowing pigments to float freely on marbling size without combing or stylus work. Creates irregular spotted or mottled cloud-like shapes. The term 'battal' (Ottoman Turkish, from Arabic baṭṭāl — idle, large, irregular) reflects the informal, unmanipulated character of the pattern. In this album, used as wide outer borders on the calligraphic opening (p004), contrasting with the more elaborate hatip ebru full-page leaf (p001)."
+      },
+      {
+        "concept": "Practice/model calligraphy sheet",
+        "ottoman": "meşk / harf meşki",
+        "arabic": "mashq (مشق)",
+        "persian": "mashq (مشق)",
+        "english": "Meşk: calligraphic practice or model piece used in Ottoman calligraphy teaching. Harf meşki: letter-form model demonstrating the correct construction of individual Arabic letters. The large-scale sülüs meşk exercises on p002 are characteristic of the Mustafa Râkım Efendi school's pedagogical production."
+      },
+      {
+        "concept": "Gold ruling lines",
+        "ottoman": "altın cedvel / altın cetveller / cetvelli",
+        "arabic": "jadwal mudhahdhab (جدول مذهّب)",
+        "persian": "jadval-e zar (جدول زر)",
+        "english": "Altın cedvel: gold ruling lines framing the calligraphic text panels. In this album, a compound multi-line cedvel system (dark blue, red, gold, and green rules) frames the text panels on p004, creating a polychrome transition between the battal ebru border and the cream calligraphic surface."
+      },
+      {
+        "concept": "Ownership note",
+        "ottoman": "mülkiyet notu / temellük kaydı",
+        "arabic": "tammallaka (تملّك) / waqafa (وقف)",
+        "persian": null,
+        "english": "Mülkiyet notu: ownership inscription, typically naming the owner and sometimes including a date. In this album, the ownership note 'merhum Mustafa Râkım Efendi' serves as the sole documentary evidence linking the album to the Ottoman master calligrapher. 'Merhum' (the late) confirms the note was written after Râkım's death in 1826."
+      },
+      {
+        "concept": "Large-format thuluth script",
+        "ottoman": "celî sülüs",
+        "arabic": "thuluth jalī (ثلث جلي)",
+        "persian": null,
+        "english": "Celî sülüs: the large-scale formal version of the sülüs (thuluth) script, used for monumental and display calligraphy. Mustafa Râkım Efendi's principal achievement was the standardization of the celî sülüs script into its definitive modern Ottoman form. The large letterforms on p002 are consistent with celî sülüs practice models (meşk) of the Râkım school."
+      },
+      {
+        "concept": "Sized/burnished paper",
+        "ottoman": "âharlı kâğıt",
+        "arabic": "waraq muʿajjan (ورق معجّن)",
+        "persian": "kāġaḏ-e āhārdār (کاغذ آهاردار)",
+        "english": "Âharlı kâğıt: paper that has been sized (coated with a starch or gum sizing agent) and burnished (polished with a smooth stone or tool) to create a smooth, non-absorbent surface ideal for calligraphy. Standard paper preparation for Ottoman luxury manuscripts and calligraphic albums."
+      }
+    ]
+  },
+  "bibliography": [
+    {
+      "citation": "Derman, M. Uğur. Letters in Gold: Ottoman Calligraphy from the Sakıp Sabancı Collection, Istanbul. New York: The Metropolitan Museum of Art, 1998.",
+      "relevance": "The standard English-language exhibition catalogue on Ottoman calligraphy, with extensive coverage of Mustafa Râkım Efendi's life, works, and the celî sülüs tradition he standardized. Provides the primary art-historical context for evaluating the attribution of this album and for understanding the calligraphic school represented by the meşk exercises on p002. Essential for any assessment of the Râkım attribution.",
+      "relevance_score": 0.96,
+      "access_notes": "Exhibition catalogue (Metropolitan Museum of Art, New York). Widely held at Islamic art libraries. ISBN 978-0300086324."
+    },
+    {
+      "citation": "Derman, M. Uğur. Türk Hat Sanatının Şaheserleri. Istanbul: Milli Eğitim Bakanlığı, 1982.",
+      "relevance": "Comprehensive Turkish-language survey of masterworks of Ottoman calligraphy, with detailed treatment of Mustafa Râkım Efendi's career, authenticated works, and the institutional history of celî sülüs. The primary Turkish-language reference for Râkım attribution questions. In Turkish.",
+      "relevance_score": 0.88,
+      "access_notes": "Turkish-language monograph. Held at major Ottoman studies and Islamic manuscript libraries in Turkey."
+    },
+    {
+      "citation": "Blair, Sheila S. 'Color and Gold: The Decorated Papers Used in Manuscripts in Later Islamic Times.' Muqarnas 17 (2000): 24–36.",
+      "relevance": "The foundational taxonomic study of decorated papers in Islamic manuscripts, providing the classification framework for the two ebru types documented in this album: hatip ebru (imam's marbling with drawn motifs) and battal ebru (stone/spot marbling). Blair's typology and her chronological survey of marbled paper distribution are directly applicable to this record.",
+      "relevance_score": 0.97,
+      "access_notes": "Peer-reviewed article. Available via JSTOR (Muqarnas) and open-access PDF on Academia.edu."
+    },
+    {
+      "citation": "Bloom, Jonathan M. Paper Before Print: The History and Impact of Paper in the Islamic World. New Haven: Yale University Press, 2001.",
+      "relevance": "Comprehensive history of paper production and use in the Islamic world, including chapters on the marbling tradition, its Ottoman development, and the material-culture context of decorated paper in luxury manuscripts and albums. Provides background for the marbling techniques documented in this album.",
+      "relevance_score": 0.75,
+      "access_notes": "Widely held monograph. Yale University Press."
+    },
+    {
+      "citation": "Roxburgh, David J. The Persian Album, 1400–1600: From Dispersal to Collection. New Haven: Yale University Press, 2005.",
+      "relevance": "The primary scholarly study of the murakkaʿ album format and its decorated paper programs in the Persianate and Ottoman traditions. Provides the theoretical framework and historical context for the Ottoman two-folio calligraphic album format represented by NA 00084.",
+      "relevance_score": 0.82,
+      "access_notes": "Widely held monograph. Yale University Press."
+    },
+    {
+      "citation": "Çağman, Filiz, and Zeren Tanındı. The Topkapı Saray Museum: The Albums and Illustrated Manuscripts. Translated and edited by J. M. Rogers. Boston: Little, Brown, 1986.",
+      "relevance": "Standard reference for Ottoman luxury albums and illustrated manuscripts, covering decorated paper programs, ebru types, and calligraphic formats from the 16th–18th centuries. Provides comparative context for the battal ebru-bordered calligraphic opening format and the hatip ebru tradition in Ottoman album production.",
+      "relevance_score": 0.80,
+      "access_notes": "Exhibition catalogue; widely held."
+    },
+    {
+      "citation": "Tanındı, Zeren. 'Bibliophile Aghas (Eunuchs) at Topkapı Saray.' Muqarnas 21 (2004): 333–43.",
+      "relevance": "Documents album-collecting and commissioning practices at the Ottoman court, including the role of decorated-paper albums in Selim III and Mahmud II period patronage — the period most likely for this album's production. Provides court-patronage context for the Râkım attribution.",
+      "relevance_score": 0.72,
+      "access_notes": "Peer-reviewed article. Available via JSTOR."
+    },
+    {
+      "citation": "Gacek, Adam. Arabic Manuscripts: A Vademecum for Readers. Leiden: Brill, 2009.",
+      "relevance": "Standard terminology reference for Islamic manuscript codicology, covering script identification (sülüs, celî sülüs), ownership notations, format terms (murakkaʿ, kıtʿa, meşk), and paper description vocabulary used throughout this record.",
+      "relevance_score": 0.75,
+      "access_notes": "Reference monograph; widely held."
+    },
+    {
+      "citation": "Déroche, François. Islamic Codicology: An Introduction to the Study of Manuscripts in Arabic Script. Translated by Deke Dusinberre and David Radzinowicz. London: Al-Furqan Islamic Heritage Foundation, 2005.",
+      "relevance": "Foundational reference for Islamic manuscript codicology, providing classification frameworks for binding, ruling, paper decoration types, and format terms used throughout this catalog record.",
+      "relevance_score": 0.73,
+      "access_notes": "Widely held reference monograph."
+    }
+  ],
+  "suggested_collections": [
+    {
+      "institution": "Süleymaniye Kütüphanesi, Istanbul — Nuri Arlasez Koleksiyonu",
+      "reason": "Holding institution. Other items in the Arlasez collection may contain related decorated paper albums; the collection provenance prior to Arlasez has not been investigated.",
+      "digital_access": "https://portal.yek.gov.tr"
+    },
+    {
+      "institution": "Sakıp Sabancı Museum, Istanbul",
+      "reason": "Holds the largest documented collection of Mustafa Râkım Efendi's authenticated calligraphic works, including meşk albums. The Sakıp Sabancı collection provides the closest comparanda for evaluating the Râkım attribution of the calligraphy in this album.",
+      "digital_access": null
+    },
+    {
+      "institution": "Topkapı Sarayı Müzesi Kütüphanesi, Istanbul",
+      "reason": "Holds major examples of Ottoman calligraphic albums with hatip ebru and battal ebru decorated papers, as well as authenticated works by Mustafa Râkım Efendi from his court calligrapher period under Selim III and Mahmud II.",
+      "digital_access": "https://kutuphane.tsmk.gov.tr"
+    },
+    {
+      "institution": "Chester Beatty Library, Dublin",
+      "reason": "Outstanding collection of Ottoman calligraphic albums with decorated papers, including late 18th–early 19th-century murakkaʿ albums with hatip ebru and battal ebru programs comparable to NA 00084.",
+      "digital_access": "https://viewer.cbl.ie"
+    }
+  ],
+  "provenance": {
+    "donor": "Nuri Arlasez (collector; collection donated to Süleymaniye Kütüphanesi — date of donation not specified in YEK record)",
+    "waqf": null,
+    "previous_shelfmarks": [],
+    "notes": "Currently held at Süleymaniye Kütüphanesi, Istanbul, under the Nuri Arlasez Koleksiyonu sub-collection, shelfmark NA 00084. The Nuri Arlasez collection consists of manuscripts donated by the private collector Nuri Arlasez; no further provenance information before the Arlasez collection is documented in the YEK record. The ownership note 'merhum Mustafa Râkım Efendi' suggests the album was at some point in the possession of Râkım or, more likely, documented as having belonged to him posthumously — but the full provenance chain from Râkım's estate to the Arlasez collection cannot be reconstructed from available sources. YEK ID: 406000. IIIF ID: 0000000398421."
+  },
+  "analysis_metadata": {
+    "analyzed_date": "2026-02-28",
+    "analyzer": "claude-code-manuscript-pipeline",
+    "pipeline_stage": "metadata-generator",
+    "image_source": "YEK Portal IIIF images, Süleymaniye Kütüphanesi — Nuri Arlasez Koleksiyonu, shelfmark NA 00084. YEK ID 406000, IIIF ID 0000000398421. All 4 pages downloaded at 2048 × 1536 px. Additionally: triage screenshot na_00084_viewer.png (YEK viewer at thumbnail scale) and preliminary assessment from catalog/searches/visual_tier1_na_00084.json.",
+    "image_quality_notes": "All four pages are at uniform 2048 × 1536 px resolution. This resolution is fully adequate for identification of the hatip ebru and battal ebru types and for reading the ownership note on p003. It is not sufficient for close palaeographic analysis of the meşk exercises on p002 or for identification of individual gold particles or micro-textures within the ebru. The hatip ebru feather/leaf pattern on p001 is clearly legible and allows confident classification. The battal ebru on p004 is unambiguous. No higher-resolution native IIIF imaging was attempted for this album.",
+    "folios_examined": [
+      "corpus/iiif/na_00084_p001.jpg",
+      "corpus/iiif/na_00084_p002.jpg",
+      "corpus/iiif/na_00084_p003.jpg",
+      "corpus/iiif/na_00084_p004.jpg"
+    ],
+    "folios_not_examined": "None — the complete 4-page digitization was examined. Note: no p019 exists; the claim in the task brief was an error. The album is complete as digitized (2 folios / 4 pages).",
+    "corpus_priority": "HIGH: One of the finest hatip ebru specimens in the corpus; the only album presenting two distinct ebru types (hatip + battal) in a single 2-folio unit. The Mustafa Râkım Efendi attribution warrants specialist follow-up: (1) palaeographic comparison with authenticated Râkım meşk albums at Sakıp Sabancı Museum; (2) possible exhibition or study day access for physical examination of meşk sheet; (3) provenance research into Nuri Arlasez collection acquisition.",
+    "source_data": {
+      "visual_confirmation_file": "catalog/searches/visual_tier1_na_00084.json",
+      "yek_id": "406000",
+      "iiif_id": "0000000398421",
+      "batch": "Phase 3 Track E — Tier 1 murakkaʿ albums (2026-02-28)"
+    }
+  }
+}

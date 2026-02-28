@@ -1,0 +1,519 @@
+{
+  "record_id": "hap_00375m1",
+  "collection": {
+    "institution": "Köprülü Kütüphanesi (Hacı Ahmed Paşa Koleksiyonu)",
+    "institution_alt": "Köprülü Library — Hacı Ahmed Pasha Collection",
+    "city": "Istanbul",
+    "country": "Turkey",
+    "shelfmark": "00375M1",
+    "yek_id": "363459",
+    "yek_url": "https://portal.yek.gov.tr/works/detail/363459",
+    "iiif_id": "0000000657814",
+    "collection_note": "The Köprülü Library (Köprülü Kütüphanesi) was formally established in 1678 under a waqfiyya (endowment deed) drawn up by Fazıl Mustafa Pasha, completing a project begun by his father Grand Vizier Köprülü Mehmed Pasha (d. 1661) and continued by his brother Fazıl Ahmed Pasha. It is the oldest independent standing library in Istanbul and one of the earliest purpose-built public libraries in the Islamic world. The Hacı Ahmed Paşa sub-collection within the Köprülü complex represents a substantial bequest by Hâcı (Hâfız) Ahmed Pasha, named among the most significant donors to the library. The library currently holds 3,790 manuscripts. YEK cataloguer: Osman Baş."
+  },
+  "manuscript": {
+    "title": "Murakkaʿ / مرقع",
+    "title_script": "مرقع",
+    "title_alt": "Murakkaʿ (mixed calligraphy and painting album)",
+    "author": null,
+    "author_dates": null,
+    "calligrapher": null,
+    "calligrapher_note": "No ketebe (colophon) inscription identifying a calligrapher has been observed in the examined folios. The YEK catalogue record does not name a calligrapher. The script is described as 'Arap harfli — Muhtelif' (multiple scripts) in the YEK record, consistent with an album compiled from pieces by multiple hands. The 20 miniatures suggest the album combined calligraphic kıtʿa with works from at least one Persian/Timurid or Safavid painting atelier. Attribution to specific calligraphers or painters requires internal examination of all 20 miniatures and the calligraphic pieces.",
+    "date_ah": null,
+    "date_ce": null,
+    "date_range_note": "Undated. The miniature paintings (particularly p022) exhibit stylistic features consistent with the Safavid/Timurid tradition of the 15th–16th century CE: the blue-grey ground, densely populated battle composition, polychrome palette with red, orange, and teal pigments, and figure type. However, albums by definition aggregate works of potentially different periods. The binding, ebru doublures, and framing program appear stylistically consistent with Ottoman luxury album production of the 17th century. A date range spanning the second half of the 16th to the early 17th century CE is plausible for the compilation and binding, with component works potentially predating the album's assembly. Physical and comparative examination of the miniatures and scripts would be required for firmer dating.",
+    "place_of_copy": null,
+    "place_of_copy_note": "Istanbul is the most probable location for the album's assembly and binding, given its presence in the Köprülü Library, an Istanbul waqf collection. The component miniatures may have been produced in a different center (Tabriz, Herat, Shiraz) before acquisition.",
+    "format": "murakkaa / murakkaat (murakkaʿ — mixed painting and calligraphy album)",
+    "format_note": "A bound mixed album (murakkaat / مرقعات) containing 20 miniature paintings and multiple tezhipli (illuminated) calligraphic specimens (kıtʿa / قطعة). The YEK catalogue description states: 'İçinde 20 adet minyatür ve tezhipli güzel yazı örnekleri bulunmaktadır' (It contains 20 miniatures and examples of illuminated fine calligraphy). The album is in vassale format throughout: calligraphic and pictorial panels are window-mounted in decorated paper grounds. With 43 pages (36 folios), this is a substantial album. The presence of miniature paintings alongside calligraphy distinguishes this album from pure calligraphy murakkaat (such as TIEM 02471), placing it in the broader tradition of mixed Persian/Ottoman painting albums.",
+    "language": "Arapça (Arabic) — Muhtelif (multiple)",
+    "script": "Arap harfli — Muhtelif (multiple scripts; Arabic-letter writing in various scripts consistent with an album format)",
+    "dimensions_mm": {
+      "height": 362,
+      "width": 230,
+      "note": "Dimensions from YEK catalogue record. This is a vertical (portrait-orientation) album, larger than standard murakka format."
+    },
+    "folio_count": 36,
+    "total_digitized_pages": 43,
+    "yek_catalogue_description": "İçinde 20 adet minyatür ve tezhipli güzel yazı örnekleri bulunmaktadır. (It contains 20 miniatures and examples of illuminated fine calligraphy.)",
+    "notes": "EXCEPTIONAL MIXED ALBUM: This is the most complex album in the Tier 1 murakka batch, combining miniature painting (20 works), calligraphic kıtʿa, tezhip (illumination), and the widest variety of decorated paper types observed in any single album in this project corpus. The YEK catalogue record is critically incomplete: its genel_notlar field mentions only '20 miniatures and tezhipli calligraphy specimens' and is entirely silent on the decorated paper program — the hatip ebru doublures, zerefshan-type margin paper, blue-green mulevven, illuminated shamsa, and luxury leather binding with gold shamsa+salbek are all absent from the YEK description. IIIF imaging at up to 11,470 × 8,979 px provides exceptional resolution for analysis."
+  },
+  "paper_decoration": {
+    "types": [
+      "marbled",
+      "gold_sprinkled",
+      "colored",
+      "illuminated_margins",
+      "framing_system"
+    ],
+    "summary": "Hâcı Ahmed Paşa 00375M1 presents the most varied decorated paper program among the non-TIEM murakka albums examined in this project, combining at least four distinct paper decoration categories across its 43 pages. (1) HATIP EBRU DOUBLURES (pp. 002 and 042): The album's most exceptional feature is a matching pair of hatip ebru (floral marbled paper) doublures at both front and rear covers. Both doublures share an identical compositional scheme: a red/brown battal ebru (stone-marbled) ground overpainted or combined with a single centrally placed blue hyacinth (sümbül / سنبل) motif with a green stem and green lanceolate leaves. The hyacinth is rendered in a stylus-drawn hatip technique, the flower head composed of clustered blue petals (darker at center, lighter at periphery), the stem tapering to a bifurcating green base. This is a classic Ottoman murakka endpaper design associated with the Ottoman marbling tradition's use of sümbül as a luxury motif for album doublures. The matching of front and rear doublures in an identical compositional scheme is a deliberate and sophisticated design decision. (2) GREEN-SPECKLED MARGIN PAPER (p022 right): The calligraphic kıtʿa on p022 right is mounted on a paper with distinctive green speckle on a cream/pale ground — consistent either with zerefşân (gold-sprinkled) technique in which the metallic particles have oxidized to green/grey, or with a green-tinted pigment sprinkle (serpme) applied directly. The speckle is distributed across the entire margin field and also visible on the adjacent flyleaf (p002 left) and the inner cover (p042 right), suggesting the same paper stock was used throughout the album's flyleaves. (3) BLUE-GREEN MULEVVEN / ZEREFSHAN FLYLEAVES (pp. 002 left, 042 right): The front flyleaf (p002 left) and rear inner cover surface (p042 right) show a blue-green speckled paper — cream ground with small green/teal specks distributed across the surface, likely the same stock as the margin paper on p022. Pencil catalogue notations ('Köprülü / 375 M... / H. Ahmet P...' on p002 left; similar on p042 right) confirm these are library flyleaves, not decorative endpapers. (4) ILLUMINATED SERLEVHA AND SHAMSA (p003): The opening double-page spread presents two of the album's highest-quality illuminated elements: a multi-panel calligraphic piece with a gold-and-lapis blue illuminated headpiece (serlevha / سرلوحه) on the left, and an almond-shaped (vesica/mandorla) shamsa medallion in concentric layers of gold, lapis blue, and green on the right. (5) MULTI-LINE CETVEL FRAMING (p022 right): The calligraphic panel on p022 right is enclosed within a multi-line cetvel system with gold and colored rules — the standard Ottoman album framing system.",
+    "distribution_notes": "Decorated/special paper is present at all zones of the album structure: doublures (pp. 002, 042 — hatip ebru); flyleaves (pp. 002 left, 042 right — green-speckled mulevven/zerefshan); opening illuminated pages (p003 — serlevha + shamsa); interior calligraphic pages (p022 right — green-speckled margin + cetvel); and the binding covers (pp. 001, 043). The decorated paper program thus frames the entire album from covers to interior, a characteristic of high-quality Ottoman luxury album production.",
+    "technique_terms": {
+      "ottoman": "hatip ebru (هاتب ابروسو — sümbüllü / hyacinth motif); yeşil serpme / zerefşân (yeşil/gri yaldız serpme — green-speckled sprinkled paper); mülevven kâğıt (blue-green tint); tezhipli serlevha (tezhibi: hatayi + rumi + lapis + altın); şemse / اشمسه (mandorla biçimli — vesica format); çok çizgili altın cetvel; deri cilt — şemse + salbek (gold-stamped shamsa and salbek)",
+      "persian": "abrī-ye gul-dār (ابری گل دار — hatip ebru); zarkōb / zerefshān (زرافشان — gold/metal sprinkled paper); kāġaḏ-e mulavvan (کاغذ ملوّن — colored paper); sar-lawḥa (سرلوحه — illuminated headpiece); shams (شمس — medallion); jadval-e zar (جدول زر — gold ruling)",
+      "arabic": "waraqa abriyya (ورقة ابرية — marbled paper); jadwal mudhahdhab (جدول مذهّب — gold-ruled frame); shamsa (شمسة — medallion)"
+    },
+    "catalogue_description": {
+      "paper_field": null,
+      "notes_field": "İçinde 20 adet minyatür ve tezhipli güzel yazı örnekleri bulunmaktadır.",
+      "decoration_field": null,
+      "source": "YEK portal, genel_notlar field, record 363459. Köprülü Kütüphanesi / Hacı Ahmed Paşa Koleksiyonu. Catalogued by Osman Baş. The YEK record lists kâğıt özellikleri (paper characteristics) and tezhip/minyatür fields as null or blank — all decorated paper observations are from visual analysis of IIIF images. The catalogue is significantly under-described: it does not mention the hatip ebru doublures, zerefşân-type margin paper, illuminated shamsa, or the binding's gold shamsa+salbek decoration."
+    }
+  },
+  "miniatures": {
+    "count_per_catalogue": 20,
+    "count_visually_confirmed": 1,
+    "confirmed_folios": [
+      {
+        "page": "p022 left (recto of f. 11)",
+        "subject": "Battle scene",
+        "description": "Full-page miniature painting depicting a dense, multi-figure battle or combat scene. The composition fills the entire page to its margins without a text border, suggesting it is a free miniature mounted in the album rather than an in-situ illustration. The ground is a deep blue-grey (possibly lapis lazuli or azurite), against which numerous mounted and dismounted warriors, horses, and weapons are depicted in dynamic, overlapping arrangements. The palette is strongly polychrome: red, orange, yellow, teal/blue-green, white, and gold accents. Fallen figures appear in the lower register. No clear landscape features (trees, hills) are visible; the composition is entirely figural. The style is consistent with the Safavid/Timurid battle-painting tradition of the late 15th to mid-16th century: the flat, densely populated composition without recession or ground plane, the figure proportions, and the palette and armor vocabulary closely resemble works from the Tabriz, Shiraz, or Herat ateliers of the period. An Ottoman origin cannot be entirely excluded, as Ottoman ateliers under Suleyman I also produced battle scenes, but the specific figure type and compositional density favour a Persian/Timurid-Safavid origin for this piece.",
+        "style": "Safavid/Timurid — probable; Ottoman origin possible but less likely",
+        "style_confidence": 0.72,
+        "dimensions_note": "Full page, no text frame visible. Mounted in album without cetvel border."
+      }
+    ],
+    "unexamined_count": 19,
+    "notes": "Only p022 (one of 43 digitized pages) has been examined among the 20 miniature paintings. The remaining 19 miniatures are distributed across unexamined pages. Full iconographic and stylistic analysis of all 20 miniatures is required and is outside the scope of this record's current examination. The presence of 20 miniatures in a 43-page (36-folio) album indicates a very high miniature density: approximately one miniature per 2 pages, suggesting either a dedicated painting album or one in which miniatures and calligraphy pieces alternate in near-equal measure."
+  },
+  "illumination": {
+    "elements_confirmed": [
+      {
+        "type": "Serlevha (illuminated headpiece)",
+        "location": "p003 left — opening calligraphic piece",
+        "description": "A calligraphic panel comprising a multi-panel layout: the upper register is dominated by an arched or rectangular illuminated headpiece (serlevha) in gold and lapis lazuli blue, with hatayi (هتايي — Chinese-inspired cloud-scroll palmette) and rumi (رومي — arabesque split-palmette) foliate ornament. The headpiece contains a central cartouche (panel) in lapis blue with gold inscriptions. Below the headpiece, the main calligraphic text area is divided into columns or panels in a layout typical of an album-opening kıtʿa, with multiple text registers. The calligraphic piece is mounted on a pink/rose paper strip border before its outer decorated margin, creating a layered frame effect. The illumination palette — strong lapis blue, burnished gold, and white or cream highlights — is consistent with high-quality Ottoman tezhip (تذهيب) of the 16th–17th century.",
+        "confidence": 0.90
+      },
+      {
+        "type": "Shamsa medallion (zahriye-type)",
+        "location": "p003 right — opening shamsa page",
+        "description": "A large almond-shaped (vesica / mandorla / badem biçimli) shamsa medallion centered on a cream page. The medallion is composed of concentric layered zones: an outermost lapis blue halo with fine gold hatching or rumi interlace, a middle zone in gold (burnished, possibly with hatayi or scroll ornament), and a central panel in a warm olive/green gold tone bearing a large inscription — likely a shelfmark or ownership notation (the digits '375' are consistent with the shelfmark Köprülü 375). Small finial diamonds or arabesque terminals project from the top and bottom of the medallion in lapis and gold. The overall form is consistent with the zahriye shamsa (زهرية شمسة — frontispiece medallion) as used in high-quality Ottoman and Persianate manuscript production, adapted here for the album's opening dedication or identification page. The cream ground of the page shows fine speckling consistent with the zerefshan-type paper noted elsewhere in the album.",
+        "confidence": 0.88
+      }
+    ],
+    "notes": "Only p003 (the illuminated opening double-page spread) has been examined. Given the catalogue's mention of 'tezhipli güzel yazı örnekleri' (illuminated calligraphy specimens), additional tezhip decoration is likely to be present on other unexamined calligraphic kıtʿa pages throughout the album."
+  },
+  "workshop_attribution": {
+    "primary_tradition": "ottoman",
+    "workshop_centre": "Istanbul (probable assembly and binding); component miniatures potentially from a Persian/Timurid-Safavid atelier",
+    "date_range_ce": "16th–17th century (album compilation); component miniatures possibly 15th–16th century",
+    "confidence": 0.65,
+    "key_indicators": [
+      "Ottoman hatip ebru doublures with hyacinth (sümbül) motif are a distinctly Ottoman marbling tradition, consistent with Istanbul album production of the 17th century",
+      "The luxury leather binding with gold shamsa+salbek stamp on both covers is consistent with high-quality Ottoman bookbinding of the 16th–17th century",
+      "The illuminated shamsa medallion and serlevha on p003 exhibit standard Ottoman tezhip vocabulary (hatayi, rumi, lapis+gold palette)",
+      "Köprülü Library provenance: the Köprülü family collection (waqf established 1678) accumulated manuscripts through purchase, gift, and inheritance from across the Ottoman Empire, including Persian manuscripts and albums",
+      "The green-speckled margin paper and multi-line cetvel framing system are consistent with the Ottoman album production tradition",
+      "The battle miniature on p022 shows stylistic features typical of the Safavid/Timurid painting tradition (15th–16th c.), suggesting the album incorporates older Persian or Persianate works alongside Ottoman-period elements"
+    ],
+    "cross_tradition_caveats": [
+      "The 20 miniatures may span more than one tradition (Ottoman, Safavid, Timurid) and period — full iconographic and stylistic analysis is required",
+      "The album may be a compiled (mecmua / جنگ) format that aggregates pre-existing works rather than a purpose-commissioned unified program",
+      "The dating of the binding and doublures may not correspond to the dating of the earliest component works"
+    ]
+  },
+  "codicology": {
+    "paper": {
+      "color": "Multiple: cream (flyleaves, shamsa page, calligraphic panel mounts); green-speckled cream (flyleaves, margin paper — pp. 002 left, 022 right, 042 right); red/brown + blue (hatip ebru doublures — pp. 002 right, 042 left); pink/rose (inner mount strip on p003 left calligraphic piece)",
+      "preparation": "Aharlı (sized/burnished) for calligraphic writing surfaces — the kıtʿa panel on p022 right shows a smooth, burnished surface consistent with Ottoman calligraphy paper (ahar kâğıdı). The hatip ebru papers are likely sized before marbling. The cream pages (p003) show a fine, smooth finish.",
+      "weight": "Indeterminate from IIIF images. The album format typically employs heavier stock for mounting boards.",
+      "decoration": "Multiple decorated paper categories as detailed in paper_decoration section.",
+      "paper_type": "Mixed: Oriental paper (Eastern/Islamic manufacture) for calligraphic surfaces; decorated papers (hatip ebru, zerefşân-type) for doublures and margin grounds."
+    },
+    "ruling": {
+      "system": "Multi-line cetvel (ruling) system on interior calligraphic pages; gold rules confirmed on p022 right; additional colored rules (red/pink visible on p022 right outer frame).",
+      "description": "The calligraphic kıtʿa on p022 right is framed by a multi-line cetvel system: an inner gold rule defining the text block, followed by a red/pink rule, followed by the outer decorated margin. A small gold disc or interlinear medallion is visible at the top center of the text column. The gold medallion may be a baş (headpiece ornament) or a sertap (column-dividing ornament). The overall framing depth is moderate — consistent with the Ottoman album format in which the decorated margin paper itself serves as the primary visual frame."
+    },
+    "binding": {
+      "cover_description": "Brown (medium-dark brown, with surface oxidation/patina visible in IIIF images giving a grey-green cast) leather binding, identical at front (p001) and back (p043). The central ornament on each cover is a gold-stamped shamsa (medallion) with salbek (teardrop pendant finials at top and bottom), creating the classic Ottoman shamsa+salbek layout. The shamsa body contains interlaced geometric or floral ornament in gold. Small raised dots form a border ring around the shamsa. A gold-ruled border frame (double or triple line) runs near the edges of each cover. The binding is in original condition, showing wear consistent with age and use: surface scuffing, minor losses to the leather, edge wear, and oxidation of the gold stamping. The two covers are physically matched.",
+      "cover_type": "Deri cilt — leather binding with gold-stamped shamsa+salbek medallion (şemse + salbek cilt)",
+      "doublure_description": "Front doublure (p002 right): hatip ebru, red/brown battal ground + blue sümbül (hyacinth) with green stem. Rear doublure (p042 left): matching hatip ebru, same compositional scheme. Both doublures are in good condition; the marbling is vivid and well-preserved.",
+      "notes": "The binding is a high-quality Ottoman leather binding of the type associated with Istanbul court or library production. The shamsa+salbek motif is the standard luxury Ottoman binding decoration. The matching hatip ebru doublures are a deliberate luxury feature. No lacquer (ruganî) cover treatment is present."
+    },
+    "format": "Murakkaat (murakkaʿ) — bound mixed painting and calligraphy album in vassale format",
+    "condition_summary": "The album appears generally well-preserved. The leather binding shows age-related surface oxidation and wear but remains structurally intact. The hatip ebru doublures are in good condition with vivid colour retention. The illuminated shamsa and serlevha on p003 show minor foxing spots on the cream ground paper but the illumination itself appears intact. The battle miniature on p022 left shows some surface wear (slight abrasion in the lighter areas) but the composition and palette are clearly legible. The green-speckled margin papers are well-preserved.",
+    "conservation_history": null
+  },
+  "visual_confirmation": {
+    "verdict": "confirmed",
+    "confidence": 0.93,
+    "screenshots_examined": 6,
+    "folios_examined": [
+      "corpus/iiif/hap_00375m1_p001.jpg",
+      "corpus/iiif/hap_00375m1_p002.jpg",
+      "corpus/iiif/hap_00375m1_p003.jpg",
+      "corpus/iiif/hap_00375m1_p022.jpg",
+      "corpus/iiif/hap_00375m1_p042.jpg",
+      "corpus/iiif/hap_00375m1_p043.jpg"
+    ],
+    "primary_evidence": "Hatip ebru doublures confirmed at both front (p002 right) and rear (p042 left) covers, with matching compositional scheme (red/brown battal ebru ground + central blue sümbül/hyacinth with green stem and leaves). Green-speckled margin paper confirmed on p022 right and flyleaves. Illuminated serlevha and shamsa medallion confirmed on p003. Full-page battle miniature confirmed on p022 left. Gold shamsa+salbek leather binding confirmed on pp. 001 and 043. Blue-green speckled flyleaves confirmed on pp. 002 left and 042 right.",
+    "limitations": [
+      "Only 6 of 43 digitized pages examined; the remaining 37 pages (including 19 of 20 miniatures and the majority of calligraphic kıtʿa) are unexamined",
+      "The green-speckle on the margin paper (p022 right) and flyleaves (pp. 002 left, 042 right) cannot be definitively classified at IIIF resolution: both oxidised zerefşân (gold/silver sprinkle) and green-pigment serpme (direct pigment speckle) are possible",
+      "The distinction between the hatip ebru technique and battal ebru with overpainted sümbül cannot be confirmed from IIIF images alone — physical examination would establish whether the flower is integrally marbled (true hatip) or added after marbling",
+      "Style attribution of the battle miniature (Safavid/Timurid vs. Ottoman) requires specialist consultation and full examination of all 20 miniatures",
+      "No date inscription has been observed in the examined pages; additional page examination may reveal colophon or ketebe information",
+      "Native IIIF resolution of p001 (6000×9415 px) and p043 (6153×9279 px) is lower than the interior pages (up to 11,470×8,980 px) — the binding details are clearly legible but microstructural examination of the tooling is not possible at this resolution"
+    ]
+  },
+  "folio_analyses": [
+    {
+      "folio": "p001 — Front cover",
+      "source_image": "corpus/iiif/hap_00375m1_p001.jpg",
+      "image_native_resolution": "6000 × 9415 px",
+      "decoration_present": true,
+      "decoration_types": ["framing_system"],
+      "elements": [
+        {
+          "motif": "Gold-stamped leather binding — shamsa + salbek",
+          "description": "Brown leather cover (oxidised surface with grey-green patina) bearing a central gold-stamped ornament in the classic Ottoman şemse+salbek composition: an elongated central medallion (şemse) with teardrop finials (salbek) projecting at top and bottom. The shamsa body contains interlaced geometric and/or floral ornament in relief gold stamping. A ring of small raised dots encircles the medallion. The remaining cover field is plain brown leather. A double or triple gold-ruled border runs parallel to all four edges of the cover, approximately 10–12 mm from the edge. The binding spine is visible at left: dark, tight. Physical condition: surface scuffing and oxidation throughout, with some loss of gold in the border rules and moderate wear to the leather surface consistent with heavy historical use.",
+          "location": "Full front cover (exterior)",
+          "confidence": 0.95
+        }
+      ],
+      "confidence": 0.95,
+      "notes": "The binding is structurally intact and identifiable as a high-quality Ottoman deri cilt. The shamsa+salbek motif is the standard Ottoman luxury binding ornament. No lacquer treatment; no flap (mıklep) visible."
+    },
+    {
+      "folio": "p002 — Front flyleaf (left) + Front doublure / hatip ebru endpaper (right)",
+      "source_image": "corpus/iiif/hap_00375m1_p002.jpg",
+      "image_native_resolution": "11,011 × 8,979 px",
+      "decoration_present": true,
+      "decoration_types": ["marbled", "gold_sprinkled"],
+      "elements": [
+        {
+          "motif": "Flyleaf — green-speckled cream paper",
+          "description": "Left half of the double-page opening: a single flyleaf in cream paper with small scattered green-teal specks distributed across the surface. The specks are approximately 0.5–1.5 mm in apparent size, distributed without pattern, consistent with a serpme (sprinkled) technique — either zerefşân in which gold/silver particles have oxidised to green/grey, or a directly applied green pigment sprinkle on sized cream paper. Pencil notations in Latin script at upper left read: 'Köprülü / 375 M... / H. Ahmet P...' — library shelfmark and collection identifier added by a later librarian. The paper is otherwise plain.",
+          "location": "Left page (front flyleaf, inside front cover)",
+          "confidence": 0.78,
+          "technique_note": "Green-speckle classification: zerefşân (oxidised) vs. green serpme cannot be resolved at IIIF resolution. Spectroscopic analysis required for pigment identification."
+        },
+        {
+          "motif": "Hatip ebru doublure — sümbül (hyacinth) on battal ebru ground",
+          "description": "Right half of the double-page opening: the front doublure (inside cover paste-down or firmly adhered endpaper) decorated with hatip ebru marbling in a classic Ottoman sümbüllü doublure composition. The ground is battal ebru (stone marbling) in warm red/brown tones — reddish-terra cotta with cream veining typical of battal ebru in warm iron oxide / vermilion pigments. Against this ground, centrally placed on the lower half of the composition, is a single blue hyacinth (sümbül / سنبل) motif with a naturalistic rendering: the flower head consists of clustered oval petals in deep cobalt blue (slightly lighter at the petal edges), arranged in a dense conical raceme typical of hyacinth flower morphology. The stem is narrow, curving slightly, in a muted green-grey. At the base, the stem forks into two lanceolate green leaves, slightly lighter than the stem. The flower motif is placed off-center toward the lower half of the page, as is typical of the single-flower doublure format. The battal ebru ground pattern is clearly separated from the sümbül motif, confirming the hatip technique in which the flower is drawn onto the marbled surface using a fine stylus. The overall composition is framed by the binding board edge.",
+          "location": "Right page (front doublure, paste-down endpaper inside front cover)",
+          "confidence": 0.95,
+          "technique_note": "Hatip ebru confirmed: battal ebru ground with stylus-drawn sümbül overlay is the diagnostic feature. The question of whether the sümbül was applied before or after the battal ground was laid cannot be resolved from IIIF images alone, but the result is consistent with the standard Ottoman hatip ebru doublure technique associated with album production."
+        }
+      ],
+      "confidence": 0.93,
+      "notes": "The front doublure is in good condition with vivid colour retention. The hatip ebru composition — single sümbül on a warm red/brown battal ground — is one of the most recognisable Ottoman luxury album endpaper formats and is directly paralleled in contemporary Istanbul murakka production. This is the highest resolution page in the examined set at 11,011 × 8,979 px."
+    },
+    {
+      "folio": "p003 — Illuminated opening: serlevha calligraphic piece (left) + shamsa medallion (right)",
+      "source_image": "corpus/iiif/hap_00375m1_p003.jpg",
+      "image_native_resolution": "11,470 × 8,979 px",
+      "decoration_present": true,
+      "decoration_types": ["illuminated_margins"],
+      "elements": [
+        {
+          "motif": "Illuminated calligraphic kıtʿa with serlevha",
+          "description": "Left page: a mounted calligraphic piece with an elaborate multi-panel layout. The upper zone of the calligraphic panel is occupied by an illuminated serlevha (unvân / سرلوحه) in gold and lapis lazuli blue: the headpiece is of arched or rectangular form with a central lapis blue cartouche bearing gold text or ornament, flanked by gold hatayi and rumi interlace ornament in the surrounding field. The headpiece colour scheme — intense lapis blue and burnished gold with possible white highlights — is consistent with high-quality Ottoman tezhip of the 16th–17th century. Below the serlevha, the calligraphic text occupies two or more column-panels in a multi-register layout with dividing gold rules. The script appears to be nesih (naskh) or muhaqqaq in the text columns. The panel is narrow and tall (in portrait orientation), suggesting it is a single kıtʿa specimen sheet. The calligraphic panel is mounted on a layered border: a pink/rose-coloured paper strip (approximately 10 mm wide) serves as an immediate frame, followed by the outer margin. A green-speckled cream outer margin ground is visible at the outer edges, consistent with the zerefşân-type paper noted elsewhere in the album.",
+          "location": "Left page of opening double-page spread (p003 left)",
+          "confidence": 0.88
+        },
+        {
+          "motif": "Shamsa medallion — vesica format with concentric layers",
+          "description": "Right page: a large mandorla (almond/vesica) shaped shamsa medallion centered on a cream page. The medallion has a vertical elongation ratio of approximately 2:1 (height:width) and tapers to points at top and bottom, with small projecting diamond-shaped finials (salbek type) at each pole. The medallion is composed of multiple concentric zones from outer to center: (1) an outermost ring in lapis lazuli blue with fine gold hatayi or rumi ornament; (2) a broad middle zone in burnished gold, possibly with an applied ornamental pattern; (3) an inner zone in a warm olive-gold or green-gold tone; (4) a central field, also in lapis or darker tone, bearing a large inscription — the visible numeral '375' in gold or white is legible against the dark ground and corresponds to the shelfmark. The page ground is cream with very fine speckling (consistent with the zerefşân-type paper). The overall design of the shamsa page is a luxury feature, typically placed at the album's opening as a frontispiece or ownership/dedication page, with the shelfmark written in the center indicating it was used as the library identification page after acquisition.",
+          "location": "Right page of opening double-page spread (p003 right)",
+          "confidence": 0.88
+        }
+      ],
+      "confidence": 0.88,
+      "notes": "P003 represents the formal opening of the album proper, with the serlevha kıtʿa and shamsa medallion creating a paired frontispiece spread. This is a highly accomplished illuminated opening consistent with a commissioned luxury album. The shamsa format (with shelfmark in centre) was standard practice at the Köprülü Library for identifying acquired manuscripts. The highest available resolution (11,470 × 8,979 px) makes this the most detail-rich examined page."
+    },
+    {
+      "folio": "p022 — Battle miniature (left) + calligraphic kıtʿa on speckled margin paper (right)",
+      "source_image": "corpus/iiif/hap_00375m1_p022.jpg",
+      "image_native_resolution": "11,470 × 8,980 px",
+      "decoration_present": true,
+      "decoration_types": ["gold_sprinkled", "framing_system"],
+      "miniature_present": true,
+      "elements": [
+        {
+          "motif": "Full-page battle miniature — Safavid/Timurid style",
+          "description": "Left page: a full-page miniature painting depicting a complex multi-figure battle or combat scene. The composition fills the entire page to the binding edge without an inner text border, suggesting it is a full album miniature mounted in the murakkaat format. The ground colour is a deep blue-grey consistent with azurite or lapis lazuli wash, applied broadly across the background between and behind the figures. The scene contains a very large number of figures (estimated 30+), mostly mounted cavalry and foot soldiers in dense overlapping groupings that fill the entire picture plane without recession or spatial perspectival ordering — a compositional feature characteristic of the pre-Mughal Safavid/Timurid battle-scene tradition. Armour, weapons (swords, spears, bows, shields), horses in dynamic poses (rearing, galloping, fallen), turbans, helmets, and flags are rendered in a vivid polychrome palette: orange, red, teal/blue-green, yellow, white, and gold accents. Fallen and wounded figures appear in the lower register. No landscape elements (trees, rocks, horizon) are visible — the composition is entirely figural. The figure proportions — rounded heads, stocky bodies, summary facial features — and the palette and armour vocabulary are closest to the Safavid/Timurid painting tradition of the late 15th to mid-16th century, specifically the Tabriz and Shiraz schools. Direct comparison with the Shahnameh of Shah Tahmasp (c. 1524–1565) and related Safavid battle miniatures would be productive.",
+          "location": "Left page (full-page miniature)",
+          "style_attribution": "Safavid/Timurid (probable: Tabriz or Shiraz school); Ottoman origin less probable but not excluded",
+          "style_confidence": 0.72,
+          "confidence": 0.90
+        },
+        {
+          "motif": "Calligraphic kıtʿa on green-speckled margin paper with multi-line cetvel",
+          "description": "Right page: a calligraphic specimen (kıtʿa) mounted in the vassale format on a green-speckled margin paper. The outer margin paper covering the full page has the characteristic green-teal speckling on a cream/pale ground observed on the album's flyleaves. The calligraphic panel inset into this margin is a text column in nasta'liq script (Persian-style diagonal hanging script, characteristic of Ottoman kıtʿa pieces for Persian poetry or prose). The panel is framed by a multi-line cetvel system: an inner gold rule, a red or pink rule, and the outer margin speckled paper. A small gold disc or circular medallion is visible at the upper center of the text column — this is a standard Ottoman kıtʿa ornament (sertap or baş medallion). The overall layout, with the calligraphic column mounted centrally in a broad decorated margin, is the standard Ottoman murakka vassale format.",
+          "location": "Right page",
+          "confidence": 0.88
+        }
+      ],
+      "confidence": 0.89,
+      "notes": "P022 is the most important interior page examined, pairing a major battle miniature (Safavid/Timurid tradition) with an Ottoman nasta'liq kıtʿa on green-speckled margin paper — a juxtaposition characteristic of the mixed Ottoman album format that incorporated Persian and Persianate works alongside Ottoman calligraphy. The facing of a Persian-style miniature with an Ottoman calligraphic specimen is strong evidence of the album's mixed-tradition character."
+    },
+    {
+      "folio": "p042 — Rear doublure / hatip ebru endpaper (left) + rear flyleaf (right)",
+      "source_image": "corpus/iiif/hap_00375m1_p042.jpg",
+      "image_native_resolution": "11,470 × 8,980 px",
+      "decoration_present": true,
+      "decoration_types": ["marbled", "colored"],
+      "elements": [
+        {
+          "motif": "Hatip ebru doublure — sümbül (hyacinth) on battal ebru ground — rear",
+          "description": "Left page: the rear doublure, matching the front doublure (p002 right) in overall design. The ground is battal ebru in warm red/brown tones with cream veining, identical in technique and palette to the front doublure. Centrally placed is a single blue hyacinth (sümbül) motif with green stem and lanceolate leaves. The hyacinth on this page appears slightly more compact in the flower head and positioned slightly higher and more to the left relative to the page center compared to the front doublure — suggesting two individually produced hatip ebru sheets rather than a single sheet cut in half, but executed by the same hand or in the same production session from the same palette. The battal ebru background pattern is distinct from the front doublure's pattern (the stone-marble veining takes a slightly different course), confirming they are separately produced sheets rather than mirrors of a single sheet.",
+          "location": "Left page (rear doublure, paste-down endpaper inside back cover)",
+          "confidence": 0.95,
+          "technique_note": "Two separately produced but matched hatip ebru sheets at front and rear is the highest-quality doublure format, implying a specialist ebru maker produced these as a matched commission for this album."
+        },
+        {
+          "motif": "Rear flyleaf — blue-green speckled paper",
+          "description": "Right page: the rear flyleaf (the album's final free page before the back cover). The paper shows the same blue-green teal speckling on cream ground as the front flyleaf (p002 left). Pencil notations are visible in the upper portion, similar in character to those on the front flyleaf (library/conservation annotations). The speckling appears slightly denser or bluer in tone than the front flyleaf, which may reflect a different light angle in imaging or a slightly different pigment application. The overall impression is consistent with the same paper stock used throughout the album's flyleaves.",
+          "location": "Right page (rear flyleaf, inside back cover)",
+          "confidence": 0.80
+        }
+      ],
+      "confidence": 0.92,
+      "notes": "The rear doublure confirms the matched hatip ebru doublure program as a deliberate bilateral design feature of the album. The two individually produced sümbüllü ebru sheets, matched in palette and motif but distinct in the battal ground pattern, represent a high-quality specialist commission."
+    },
+    {
+      "folio": "p043 — Back cover",
+      "source_image": "corpus/iiif/hap_00375m1_p043.jpg",
+      "image_native_resolution": "6,153 × 9,279 px",
+      "decoration_present": true,
+      "decoration_types": ["framing_system"],
+      "elements": [
+        {
+          "motif": "Gold-stamped leather binding — shamsa + salbek (rear cover)",
+          "description": "Brown leather back cover, matching the front cover (p001) in design and condition. The gold-stamped shamsa+salbek central ornament is present, with the same elongated medallion form, interlaced ornament, and dot-border ring. The surface oxidation and patina is more pronounced on the back cover, giving a stronger grey-green cast, possibly due to its outer surface orientation during storage. The gold border rules near the cover edges are visible. The binding condition is consistent with the front cover: structurally sound, surface-worn.",
+          "location": "Full back cover (exterior)",
+          "confidence": 0.95
+        }
+      ],
+      "confidence": 0.95,
+      "notes": "The back cover confirms the matched binding design. The slightly heavier oxidation on the back cover compared to the front is typical of bindings stored face-up for extended periods."
+    }
+  ],
+  "terminology": {
+    "terms_used": [
+      {
+        "concept": "Mixed painting and calligraphy album",
+        "ottoman": "murakkaʿ / مرقع (murakkaat pl.)",
+        "arabic": "muraqqa (مرقع)",
+        "persian": "muraqqa (مرقع)",
+        "english": "Murakkaʿ: a bound album containing mounted calligraphic specimens (kıtʿa) and/or miniature paintings. A mixed album (resimli murakka) combines both pictorial and calligraphic elements, often compiled from works of different periods and traditions."
+      },
+      {
+        "concept": "Calligraphic specimen sheet",
+        "ottoman": "kıtʿa / قطعة",
+        "arabic": "qiṭʿa (قطعة)",
+        "persian": "qiṭʿa (قطعه)",
+        "english": "A single calligraphic specimen sheet, typically one side of a leaf, presented as an independent work. In albums, kıtʿa are window-mounted in decorated paper grounds using the vassale technique."
+      },
+      {
+        "concept": "Hatip ebru — floral marbled paper (hyacinth type)",
+        "ottoman": "hatip ebrusu / sümbüllü ebru",
+        "arabic": null,
+        "persian": "abrī-ye gul-dār (ابری گل دار)",
+        "english": "Hatip ebru (imam's marbling): marbled paper with large curvilinear floral motifs formed by drawing a stylus through floated pigments on marbling size. In its sümbül (hyacinth) variant, the flower is the central motif, characteristic of Ottoman luxury album doublures. Named in the Ottoman tradition after Hâtip Mehmed Efendi."
+      },
+      {
+        "concept": "Battal ebru — stone/spot marbling",
+        "ottoman": "battal ebru",
+        "arabic": null,
+        "persian": "abrī-ye battāl (ابری بطال)",
+        "english": "Battal ebru: stone or spot marbling, produced by allowing pigments to float freely on marbling size without manipulation. The red/brown battal ebru ground of the doublures in this album is the base layer over which the sümbül motif is drawn."
+      },
+      {
+        "concept": "Gold-sprinkled paper (potential oxidised type)",
+        "ottoman": "zerefşân / yaldız serpme / serpme kâğıt",
+        "arabic": "ṣafḥa dharūriyya (صفحة ذرورية) — descriptive, not established term",
+        "persian": "zarafshān (زرافشان)",
+        "english": "Zerefşân (gold-sprinkled) paper: paper decorated by scattering metallic (gold or silver) particles onto a sized paper surface. In this album, the green speckling on the flyleaves and margin papers may represent zerefşân in which the metallic particles have oxidised, or may alternatively be a direct green pigment sprinkle (serpme)."
+      },
+      {
+        "concept": "Hyacinth flower motif in marbling",
+        "ottoman": "sümbül / سنبل",
+        "arabic": "sumbul (سنبل)",
+        "persian": "sunbul (سنبل)",
+        "english": "Sümbül (hyacinth): in the Ottoman ebru tradition, a specific floral motif depicting the hyacinth flower, formed using the hatip technique. Sümbüllü ebru doublures are one of the most prestigious formats for Ottoman luxury album endpapers."
+      },
+      {
+        "concept": "Illuminated headpiece",
+        "ottoman": "serlevha / سرلوحه — unvân",
+        "arabic": "ʿunwān (عنوان)",
+        "persian": "sar-lawḥa (سرلوحه)",
+        "english": "Serlevha (illuminated headpiece): an illuminated panel placed at the head of a calligraphic piece or page, typically in gold and lapis lazuli with hatayi and rumi ornament."
+      },
+      {
+        "concept": "Frontispiece medallion",
+        "ottoman": "şemse / شمسه — zahriye",
+        "arabic": "shamsa (شمسة)",
+        "persian": "shamsa (شمسه)",
+        "english": "Shamsa (sun/medallion): a circular or vesica-shaped medallion used as a frontispiece ornament in luxury manuscripts and albums, often bearing ownership inscriptions, shelfmarks, or dedication texts. In this album, the shamsa is of vesica (almond/mandorla) form with the Köprülü Library shelfmark '375' in the center."
+      },
+      {
+        "concept": "Binding medallion ornament",
+        "ottoman": "şemse + salbek (cilt süsü)",
+        "arabic": "shamsa (شمسة) + salbak",
+        "persian": "shamsa + salbak",
+        "english": "Shamsa + salbek: the standard Ottoman luxury binding ornament consisting of a central medallion (şemse) with teardrop finials (salbek) projecting at top and bottom. Present on both covers of this binding."
+      },
+      {
+        "concept": "Window-mounting technique",
+        "ottoman": "vassale yöntemiyle monte edilmiştir",
+        "arabic": null,
+        "persian": "vassāla (واساله)",
+        "english": "Vassale: the technique of window-mounting calligraphy or painting panels into openings cut from decorated paper grounds, so the decorated paper forms the margin and the panel is the inset. The standard format for Ottoman murakkaat."
+      },
+      {
+        "concept": "Ruling lines",
+        "ottoman": "cedvel / altın cetvel / çizgili cetvel",
+        "arabic": "jadwal (جدول)",
+        "persian": "jadval (جدول)",
+        "english": "Cedvel: ruling lines framing the calligraphic text block. In this album, multi-line cedvel with gold and red/pink rules is visible on p022 right."
+      },
+      {
+        "concept": "Column ornament / interlinear medallion",
+        "ottoman": "sertap / baş madalyon",
+        "arabic": null,
+        "persian": null,
+        "english": "Sertap or baş madalyon: a small gold disc or medallion placed at the head of a calligraphic text column or between text registers, a standard Ottoman kıtʿa ornamental feature."
+      },
+      {
+        "concept": "Colored/dyed paper",
+        "ottoman": "mülevven kâğıt / boyalı kâğıt",
+        "arabic": "waraq mulawwan (ورق ملوّن)",
+        "persian": "kāġaḏ-e mulavvan (کاغذ ملوّن)",
+        "english": "Mülevven kâğıt (colored paper): paper tinted or dyed in a solid or lightly variegated color. In this album, the blue-green speckled flyleaves may represent a mülevven paper with a serpme (speckle) overlay."
+      }
+    ]
+  },
+  "bibliography": [
+    {
+      "citation": "Roxburgh, David J. The Persian Album, 1400–1600: From Dispersal to Collection. New Haven: Yale University Press, 2005.",
+      "relevance": "The primary scholarly study of the album-making tradition in the Persianate and Ottoman worlds. Covers the murakkaat format, vassale mounting, the role of decorated papers as grounds for miniature and calligraphic mounts, and the structural principles governing the design programs of luxury albums. Essential framework for this record's mixed painting-and-calligraphy album.",
+      "relevance_score": 0.95,
+      "access_notes": "Monograph; widely held at major research libraries."
+    },
+    {
+      "citation": "Blair, Sheila S. 'Color and Gold: The Decorated Papers Used in Manuscripts in Later Islamic Times.' Muqarnas 17 (2000): 24–36.",
+      "relevance": "Foundational taxonomic study of decorated papers in Islamic manuscripts, covering marbled, gold-sprinkled, gold-worked, and colored types. The classification framework for the hatip ebru, battal ebru, zerefşân-type, and mülevven papers documented in this album derives from or is consistent with Blair's typology.",
+      "relevance_score": 0.93,
+      "access_notes": "Peer-reviewed article. Available via JSTOR and institutional library access."
+    },
+    {
+      "citation": "Derman, M. Uğur. Letters in Gold: Ottoman Calligraphy from the Sakıp Sabancı Collection, Istanbul. New York: Metropolitan Museum of Art, 1998.",
+      "relevance": "Standard English-language survey of Ottoman calligraphy and the murakkaat album tradition, with extensive coverage of Istanbul calligraphic schools, album formats, and the role of decorated papers and illumination in luxury calligraphy albums.",
+      "relevance_score": 0.88,
+      "access_notes": "Exhibition catalogue; widely held at major research libraries. Also available via Metropolitan Museum of Art publications."
+    },
+    {
+      "citation": "Çağman, Filiz, and Zeren Tanındı. The Topkapı Saray Museum: The Albums and Illustrated Manuscripts. Translated and edited by J. M. Rogers. Boston: Little, Brown, 1986.",
+      "relevance": "Standard reference for Ottoman albums and illustrated manuscripts in Istanbul collections. Provides essential comparanda for the mixed painting-calligraphy album format, decorated paper programs in Ottoman luxury albums, and the formal conventions of murakkaat production in Istanbul.",
+      "relevance_score": 0.88,
+      "access_notes": "Exhibition catalogue; widely held."
+    },
+    {
+      "citation": "Tanındı, Zeren. 'Bibliophile Aghas (Eunuchs) at Topkapı Saray.' Muqarnas 21 (2004): 333–43.",
+      "relevance": "Documents the album-collecting and commissioning practices of the Ottoman court during the later 17th century, the probable period of this album's compilation. Provides context for the patronage networks through which mixed albums combining Persian miniatures and Ottoman calligraphy were assembled.",
+      "relevance_score": 0.80,
+      "access_notes": "Peer-reviewed article. Available via JSTOR and institutional access."
+    },
+    {
+      "citation": "Mahir, Banu. Osmanlı Minyatür Sanatı. Istanbul: Kabalcı, 2005.",
+      "relevance": "Survey of Ottoman miniature painting, with coverage of the late 15th–17th-century Istanbul workshop tradition and the role of imported Persian miniatures in Ottoman album production. Directly relevant to the battle miniature on p022 and the question of Safavid/Timurid vs. Ottoman workshop origin. In Turkish.",
+      "relevance_score": 0.85,
+      "access_notes": "Turkish-language monograph. Held at major Ottomanist libraries."
+    },
+    {
+      "citation": "Bağcı, Serpil, Filiz Çağman, Günsel Renda, and Zeren Tanındı. Osmanlı Resim Sanatı. Ankara: Kültür Bakanlığı, 2006.",
+      "relevance": "Comprehensive survey of Ottoman painting including miniature painting, with analysis of the mixed album tradition, the absorption of Safavid and Timurid pictorial conventions into Ottoman album production, and the specific stylistic features that differentiate Persian-origin miniatures from Ottoman copies. Critical for attributing the battle miniature on p022.",
+      "relevance_score": 0.85,
+      "access_notes": "Turkish-language survey (English translation published as Ottoman Painting, Turkish Ministry of Culture, 2006). Widely held."
+    },
+    {
+      "citation": "Hillenbrand, Robert. Islamic Art and Architecture. London: Thames and Hudson, 1999.",
+      "relevance": "Standard English-language survey providing broader art-historical context for the Timurid/Safavid battle-painting tradition represented in this album's miniatures, and for the luxury manuscript decoration practices (illumination, binding) documented in this record.",
+      "relevance_score": 0.75,
+      "access_notes": "Survey monograph; widely held."
+    },
+    {
+      "citation": "Bloom, Jonathan M. Paper Before Print: The History and Impact of Paper in the Islamic World. New Haven: Yale University Press, 2001.",
+      "relevance": "Comprehensive history of paper in the Islamic world, providing material-culture background for the decorated paper practices documented in this album, including the history of paper marbling in the Ottoman tradition and the relationship between paper decoration and manuscript production.",
+      "relevance_score": 0.78,
+      "access_notes": "Widely held monograph."
+    },
+    {
+      "citation": "Gacek, Adam. Arabic Manuscripts: A Vademecum for Readers. Leiden: Brill, 2009.",
+      "relevance": "Standard reference for Islamic manuscript terminology and codicology. Used throughout this catalog record for terminology on format, ruling systems, calligraphic scripts, physical structure, and the murakkaat album format.",
+      "relevance_score": 0.75,
+      "access_notes": "Reference monograph; widely held."
+    },
+    {
+      "citation": "Déroche, François. Islamic Codicology: An Introduction to the Study of Manuscripts in Arabic Script. Translated by Deke Dusinberre and David Radzinowicz. London: Al-Furqan Islamic Heritage Foundation, 2005.",
+      "relevance": "Foundational reference for Islamic manuscript codicology, providing the classification framework for binding, ruling, paper, and decoration types used throughout this catalog record.",
+      "relevance_score": 0.72,
+      "access_notes": "Monograph; available at specialist libraries."
+    },
+    {
+      "citation": "Köprülü Kütüphanesi. 'Koleksiyon Tarihi.' Istanbul: Köprülü Kütüphanesi, n.d. Available: https://istanbultarihi.ist/671-koprulu-library.",
+      "relevance": "Primary institutional documentation for the Köprülü Library's foundation, waqfiyya history, and collection provenance. Essential for establishing the provenance chain of HAP 00375M1 within the Hacı Ahmed Paşa bequest.",
+      "relevance_score": 0.88,
+      "access_notes": "Institutional history accessible online via Istanbul Tarihi portal."
+    }
+  ],
+  "suggested_collections": [
+    {
+      "institution": "Topkapı Sarayı Müzesi Kütüphanesi, Istanbul",
+      "reason": "Holds the largest collection of Ottoman and Persian-Ottoman mixed murakkaat albums, including albums incorporating Safavid/Timurid miniatures with Ottoman calligraphy (e.g., H.2135, H.2153, H.2160). Direct comparanda for the battle miniature style, hatip ebru doublures, and Ottoman album binding format of HAP 00375M1.",
+      "digital_access": "https://kutuphane.tsmk.gov.tr"
+    },
+    {
+      "institution": "Chester Beatty Library, Dublin",
+      "reason": "Holds major examples of Ottoman and Persian albums (murakkaat) with hatip ebru endpapers and Safavid/Timurid miniatures incorporated into Ottoman album formats. The Chester Beatty's collections of Persian miniature albums provide important comparanda for the p022 battle miniature.",
+      "digital_access": "https://viewer.cbl.ie"
+    },
+    {
+      "institution": "Köprülü Kütüphanesi — broader corpus",
+      "reason": "Other manuscripts within the Köprülü Library (and specifically the Hacı Ahmed Paşa sub-collection) may share binding, paper stock, or ebru makers with HAP 00375M1. A systematic survey of the Köprülü murakka holdings would be productive for provenance and workshop identification.",
+      "digital_access": "https://portal.yek.gov.tr"
+    },
+    {
+      "institution": "Bibliothèque nationale de France, Paris — Département des manuscrits orientaux",
+      "reason": "The BnF holds major Persian and Ottoman albums incorporating Safavid and Timurid miniatures, some with hatip ebru endpapers. French collections received significant Ottoman material through diplomatic exchange. BnF's online database (Gallica) provides digitised access.",
+      "digital_access": "https://gallica.bnf.fr"
+    },
+    {
+      "institution": "Bodleian Libraries, University of Oxford",
+      "reason": "The Bodleian holds Persian and Ottoman manuscripts including mixed albums. Elaine Wright's work on Persian illumination provides a comparative framework for the serlevha and shamsa on p003. FIHRIST union catalogue covers Oxford's Islamic holdings.",
+      "digital_access": "https://digital.bodleian.ox.ac.uk"
+    }
+  ],
+  "provenance": {
+    "donor": "Hâcı (Hâfız) Ahmed Paşa — collection donor to Köprülü Library",
+    "waqf": "Köprülü Library Waqf (established 1678 under waqfiyya of Fazıl Mustafa Pasha); Hacı Ahmed Paşa sub-bequest",
+    "previous_shelfmarks": ["Köprülü 375 M (pencil notation visible on p002 left flyleaf)"],
+    "notes": "The manuscript is held at the Köprülü Library (Köprülü Kütüphanesi), Istanbul, within the Hacı Ahmed Paşa sub-collection (shelfmark 00375M1). The Köprülü Library was the first purpose-built independent public library in the Islamic world, formally opened under a waqfiyya prepared in 1678 by Fazıl Mustafa Pasha; the library was built adjacent to the tomb of Grand Vizier Köprülü Mehmed Pasha (d. 1661) and initially combined the books of the father and son (Fazıl Ahmed Pasha) before the endowment was formalised. Hâcı Ahmed Paşa (also referred to as Hâfız Ahmed Paşa in some sources) is identified as one of the most significant individual donors to the library collection. The pencil notation 'Köprülü / 375 M... / H. Ahmet P...' on the front flyleaf confirms the library's standard identification system and the sub-collection attribution. The manuscript's route into the Köprülü collection is unknown. The YEK ID is 363459. Current location: Köprülü Kütüphanesi, Divanyolu Caddesi, Sultanahmet, Istanbul."
+  },
+  "analysis_metadata": {
+    "analyzed_date": "2026-02-28",
+    "analyzer": "claude-code-manuscript-pipeline",
+    "pipeline_stage": "metadata-generator",
+    "model": "claude-sonnet-4-6",
+    "image_source": "YEK Portal IIIF images, Köprülü Kütüphanesi / Hacı Ahmed Paşa Koleksiyonu, YEK ID 363459, IIIF ID 0000000657814. 6 IIIF pages downloaded at native resolution.",
+    "image_quality_notes": "Exceptional resolution: interior double-page spreads (pp. 002, 003, 022, 042) at 11,011–11,470 × 8,979–8,980 px. Binding covers (pp. 001, 043) at 6,000–6,153 × 9,279–9,415 px. The hatip ebru doublures, illuminated shamsa and serlevha, battle miniature, and green-speckled margin paper are all clearly legible at available resolution. Limitation: only 6 of 43 digitized pages examined; 19 of 20 miniatures and the majority of calligraphic kıtʿa remain unexamined.",
+    "folios_examined": [
+      "corpus/iiif/hap_00375m1_p001.jpg",
+      "corpus/iiif/hap_00375m1_p002.jpg",
+      "corpus/iiif/hap_00375m1_p003.jpg",
+      "corpus/iiif/hap_00375m1_p022.jpg",
+      "corpus/iiif/hap_00375m1_p042.jpg",
+      "corpus/iiif/hap_00375m1_p043.jpg"
+    ],
+    "folios_not_examined": "37 of 43 pages unexamined (pp. 004–021, 023–041). This includes 19 of 20 miniatures, all unidentified calligraphic kıtʿa beyond the p003 opening piece, any additional decorated papers in the interior, and any colophon or ketebe pages that would establish dating and calligrapher attribution. Full IIIF imaging of all 43 pages is recommended.",
+    "corpus_priority": "HIGHEST PRIORITY in non-TIEM Tier 1 batch: most complex album (mixed miniatures + calligraphy + multiple decoration types + Köprülü provenance). Priority actions: (1) Full IIIF survey of all 43 pages for miniature count verification, style analysis, and additional decorated paper identification. (2) Specialist consultation for the p022 battle miniature: Safavid/Timurid vs. Ottoman attribution requires comparison with dated comparanda (Bağcı et al. 2006; Mahir 2005). (3) Pigment analysis of the green speckle on flyleaves and margin paper to establish zerefşân vs. direct serpme. (4) Physical examination of hatip ebru doublures to confirm technique (integral hatip vs. overpainted battal). (5) Search for comparable sümbüllü hatip ebru doublures in the Topkapı and Chester Beatty collections for workshop attribution.",
+    "source_data": {
+      "visual_confirmation_file": "catalog/searches/visual_tier1_hap_00375m1.json",
+      "yek_id": "363459",
+      "iiif_id": "0000000657814",
+      "batch": "Phase 3 Track E Tier 1 — non-TIEM murakka albums (2026-02-28)"
+    }
+  }
+}

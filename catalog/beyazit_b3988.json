@@ -1,0 +1,349 @@
+{
+  "record_id": "beyazit_b3988",
+  "collection": {
+    "institution": "Beyazıt Devlet Kütüphanesi",
+    "city": "Istanbul",
+    "country": "Turkey",
+    "shelfmark": "B3988",
+    "yek_url": "https://portal.yek.gov.tr/yazmaeser/eser-detay/567999"
+  },
+  "manuscript": {
+    "title": "Ḥāshiye ʿalā Sharḥ Hidāyat al-Ḥikma",
+    "title_arabic": "حاشية على شرح هداية الحكمة",
+    "title_alt": "Hashiye alâ Şerh-i Hidâyeti'l-Hikme",
+    "author": "Naṣrullāh b. Muḥammad el-ʿÖmerī el-ʿAcemī el-Ḥalḥālī",
+    "author_dates": "d. 946/1539",
+    "author_note": "Naṣrullāh Ḥalḥālī (d. 946/1539) was an Iranian (ʿAcemī) scholar in the Ottoman madrasa tradition. His supercommentary (hashiye) on the commentary on the Hidāyat al-Ḥikma of Athīr al-Dīn al-Abharī (d. ca. 663/1265) was a standard text in Ottoman madrasa curricula for Islamic philosophy (ʿilm-i hikmet / felsefe). The present copy, dated AH 1055 (1645–46 CE), was made approximately one century after the author's death.",
+    "calligrapher": null,
+    "calligrapher_dates": null,
+    "date_ah": "1055",
+    "date_ce": "1645–46",
+    "place_of_copy": null,
+    "format": "Hashiye (supercommentary) — Islamic philosophy (ʿilm-i felsefe)",
+    "format_note": "A supercommentary (ḥāshiya / hashiye) on the commentary on Athīr al-Dīn al-Abharī's Hidāyat al-Ḥikma, a standard introductory text for Islamic philosophy in the Ottoman madrasa tradition. Copied in taʿlīq script, with marginal annotations (hashiye/derkenar material) extending beyond the cedvel frame throughout the manuscript.",
+    "language": "Arabic",
+    "script": "Taʿlīk (Arap harfli / Talik)",
+    "dimensions_mm": {
+      "height": 200,
+      "width": 130
+    },
+    "writing_area_mm": {
+      "height": 120,
+      "width": 70
+    },
+    "folio_count": 138,
+    "folio_detail": "I + 136 + I flyleaves (I+136+I yk.), 17 lines per page (17 st.)",
+    "yek_id": "567999",
+    "iiif_id": "0000000273245",
+    "notes": "INCIDENTAL FIND from Protocol D H1 (dış pervaz) search. The YEK catalogue record has no decoration field ('Tezhip/Minyatür/Harita/Çizim' field absent) — the manuscript was under-catalogued and its serlevha was discovered only through visual inspection during Protocol D visual confirmation. The catalogue note that triggered the search hit describes physical damage (trimming of dış pervaz and üst pervaz on f.1) rather than decoration. The genuine illuminated serlevha was not recorded in the YEK metadata. AH 1055 / 1645–46 CE places the copy in the reign of Sultan İbrāhīm I (r. 1640–1648). The binding is a fine red leather Ottoman binding with central mandorla medallion (şemse) and corner pieces (köşebend)."
+  },
+  "paper_decoration": {
+    "types": [
+      "illuminated_margins",
+      "framing_system"
+    ],
+    "summary": "The decorative program of this manuscript consists of two elements: (1) an illuminated serlevha (headpiece) on f.1b, and (2) a framing system (cedvel) continuing throughout the manuscript. The serlevha is a substantial polychrome headpiece of standard mid-17th-century Ottoman type, with a pointed/ogival crown form (tac). The headpiece ground is lapis blue with gold leaf accents, hatayi (hatāyī) composite floral motifs in red, green, and white, and finials (tığ) projecting upward above the crown. Below the headpiece arch a horizontal cartouche/medallion contains text (likely the title or Bismillah). The overall quality and compositional vocabulary are consistent with competent Ottoman madrasa-copy illumination of the mid-17th century, rather than court-level production. The framing system (cedvel) consists of a multi-line ruling in gold and dark ink framing the text block on all pages, continuing throughout the manuscript body. Two large circular library seals (mühür) are visible on the outer margins of f.1b. The manuscript note describes damage: the outer frame (dış pervaz) and approximately half of the upper frame (üst pervaz) of f.1 have been trimmed away without cutting into the writing area — an intervention likely made during rebinding or to regularize the dimensions of the volume. This damage is significant because it reduces the original frame dimensions at the opening bifolio and may have removed marginalia.",
+    "technique_terms": {
+      "ottoman": "serlevha tezhibi; altın cetvelli / cetvelli; tac şekilli serlevha; dış pervaz hasarı",
+      "persian": "sarlawḥ (سرلوح); jadval-e zar (جدول زر)",
+      "arabic": "ʿunwān (عنوان); jadwal mudhahdhab (جدول مذهّب); ḥāshiya (حاشية)"
+    },
+    "catalogue_description": {
+      "paper_field": null,
+      "notes_field": "1. varağın dış pervazı ve üst pervazının yaklaşık yarısı yazı alanına taşmayacak şekilde kesilip alınmış. Kopuk varaklar var.",
+      "notes_field_translation": "The outer frame and approximately half of the upper frame of folio 1 have been cut away without encroaching on the writing area. There are detached folios.",
+      "decoration_field": null,
+      "source": "YEK portal, genel notlar field, record 567999. Beyazıt Devlet Kütüphanesi, Istanbul.",
+      "cataloguer_note": "The YEK catalogue record for this manuscript has NO decoration field (the 'Tezhip/Minyatür/Harita/Çizim' field is entirely absent from the record). The only catalogue note describes physical damage to the framing system. The illuminated serlevha and the cedvel framing system were identified entirely through direct visual inspection of the IIIF images during the Protocol D search session. This is a clear case of under-cataloguing: the manuscript has genuine illumination that is not recorded in the YEK metadata."
+    }
+  },
+  "workshop_attribution": {
+    "primary_tradition": "ottoman",
+    "workshop_centre": "Istanbul (probable) or provincial Ottoman",
+    "date_range_ce": "1645–46",
+    "confidence": 0.70,
+    "key_indicators": [
+      "Serlevha with lapis blue ground, gold hatayi motifs, and pointed-arch form is consistent with mid-17th-century Ottoman madrasa-copy illumination",
+      "Taʿlīk script (Arap harfli Talik) is characteristic of the Ottoman madrasa manuscript tradition of the 17th century, often used for philosophical and legal texts",
+      "Red leather binding with central şemse (mandorla medallion) and köşebend corner pieces is standard Ottoman binding of the mid-17th century",
+      "The dense marginal annotation tradition (hashiye) extending beyond the framing system is characteristic of Ottoman madrasa scholarly culture",
+      "AH 1055 / 1645–46 falls in the reign of Sultan İbrāhīm I — a period of continued active Ottoman manuscript production despite political instability"
+    ],
+    "cross_tradition_caveats": [
+      "The serlevha quality and compositional vocabulary are consistent with competent Ottoman production but do not distinguish between Istanbul and provincial workshops without further comparative analysis",
+      "No colophon has been examined; the place of copying is unknown",
+      "The gold quality of the cetvels (ruling lines) is uncertain at IIIF resolution — they may be dark ink rather than gold leaf; this affects the luxury-level assessment",
+      "The author Naṣrullāh Ḥalḥālī was an ʿAcemī (Iranian) scholar, but the manuscript itself shows no specifically Safavid or Iranian decorative features"
+    ]
+  },
+  "codicology": {
+    "paper": {
+      "color": "Off-white/cream, yellowed with age; standard Ottoman writing paper",
+      "preparation": "Not specified in catalogue",
+      "weight": "Not specified",
+      "decoration": "No decorated paper; paper itself is undecorated",
+      "paper_type": "Ottoman writing paper; no watermark or chain-line data available from catalogue"
+    },
+    "ruling": {
+      "system": "Cedvel (ruling lines) — multi-line ruling in gold and/or dark ink framing the text block on all pages",
+      "description": "A multi-line cedvel framing system is visible throughout the manuscript. On the opening bifolio (IIIF p002) the framing is clearly visible on f.1a; on subsequent folios (IIIF p003) the cedvel continues consistently. The outer frame (dış pervaz) on f.1 has been partially trimmed as noted in the catalogue. The ruling may include gold lines (altın cedvel) but this cannot be confirmed at current resolution — the lines appear gold in the serlevha opening but may be dark ink with gold highlight in the body of the manuscript."
+    },
+    "binding": {
+      "cover_description": "Red leather binding on cardboard (kırmızı deri cilt, mukavva üzerine). Cover decoration includes a central mandorla medallion (şemse) and corner pieces (köşebend). The binding is visible in the IIIF viewer p001 image and is described in the catalogue as 'kırmızı deri' (red leather) with 'ortada madalyon ve köşe bezemeli' (central medallion and corner decoration).",
+      "cover_type": "Kırmızı deri cilt — red leather binding with stamped şemse and köşebend",
+      "notes": "The red leather binding with şemse and köşebend is a standard form of Ottoman scholarly manuscript binding of the 17th century. No mıklep (flap) is mentioned in the catalogue. The binding quality is consistent with a madrasa commission rather than a court or high-level patronage production."
+    },
+    "format": "Hashiye (supercommentary) codex — Arabic-language Islamic philosophy",
+    "condition_summary": "Moderate condition. The outer frame (dış pervaz) and approximately half of the upper frame (üst pervaz) of f.1 have been trimmed away — a significant loss to the framing system at the opening bifolio (confirmed visually in IIIF p002, where the upper-right corner of f.1b shows the damage). There are detached folios (kopuk varaklar) noted in the catalogue. The remainder of the manuscript appears adequately preserved in the IIIF images, though only the first few openings were examined. Two large circular library/ownership seals are visible on f.1b margins.",
+    "conservation_history": "Partial trimming of f.1 dış pervaz and üst pervaz — the catalogue note 'kesilip alınmış' ('cut away') indicates a deliberate trimming rather than accidental damage, likely during a rebinding. Detached folios noted (kopuk varaklar) but extent unspecified."
+  },
+  "visual_confirmation": {
+    "verdict": "confirmed",
+    "confidence": 0.90,
+    "screenshots_examined": 5,
+    "limitations": [
+      "Only 5 of 139 total pages examined. The framing system likely continues throughout the manuscript but only the first few openings were checked.",
+      "The catalogue has no decoration field; the serlevha was identified as an incidental find, not from catalogue metadata.",
+      "Resolution of IIIF captures is moderate (approximately 1600px width); higher resolution would allow detailed analysis of serlevha motifs and gilding technique.",
+      "Gold quality of cetvels (ruling lines) is uncertain at this resolution — they may be dark ink rather than gold ruling.",
+      "The full extent of physical damage to the framing system (beyond f.1) has not been assessed."
+    ]
+  },
+  "folio_analyses": [
+    {
+      "folio": "f.1b (IIIF p002, right page)",
+      "source_image": "corpus/iiif/beyazit_b3988_p002.jpg",
+      "decoration_present": true,
+      "decoration_types": ["illuminated_margins", "framing_system"],
+      "elements": [
+        {
+          "motif": "Serlevha — polychrome headpiece with pointed crown form",
+          "description": "A large, elaborate illuminated serlevha (headpiece) occupying the upper portion of f.1b. The headpiece is structured as a pointed/ogival crown form (tac şeklinde serlevha), with the arch projecting into the upper margin. The ground of the serlevha is lapis blue (lacivert), with gold leaf applied in large arabesques and hatāyī (hatayi, ختایی) composite floral motifs — Chinese-derived lotus and peony forms rendered in a mid-17th-century Ottoman idiom. Accent colors include red/crimson, green, and white. Thin gold finials (tığ) project above the arch into the upper margin. Below the arch a horizontal cartouche/medallion panel in blue and gold contains text, likely the Bismillah or the work's title. The serlevha is visually prominent and of good quality for a madrasa scholarly text, though not at the level of court or high-patronage illumination. The damage to the upper-right area is visible: the dış pervaz (outer frame) and üst pervaz (upper frame) have been trimmed at this corner, but the serlevha interior and the writing area below are intact.",
+          "location": "Upper section of f.1b (right page of opening bifolio)",
+          "confidence": 0.90
+        },
+        {
+          "motif": "Altın/dark-ink cedvel — framing system, f.1b",
+          "description": "A multi-line ruling system (cedvel) frames the text area below the serlevha on f.1b. The ruling consists of multiple parallel lines in gold and/or dark ink forming a rectangular frame. Two large circular seals (mühür) are visible on the outer margin of f.1b, one above and one below the text area.",
+          "location": "Text-block perimeter on f.1b",
+          "confidence": 0.88
+        }
+      ],
+      "confidence": 0.90,
+      "notes": "The damage to the upper-right corner of f.1b (trimming of dış pervaz and üst pervaz) is clearly visible at IIIF resolution. The serlevha itself is intact. The taʿlīq text below the serlevha begins with dense Arabic commentary. Marginal annotations in a different hand extend beyond the cedvel frame into the outer margin."
+    },
+    {
+      "folio": "f.1a (IIIF p002, left page)",
+      "source_image": "corpus/iiif/beyazit_b3988_p002.jpg",
+      "decoration_present": true,
+      "decoration_types": ["framing_system"],
+      "elements": [
+        {
+          "motif": "Cedvel — framing system on f.1a",
+          "description": "The left page (f.1a) of the opening bifolio shows the cedvel framing system: multi-line ruling in gold and dark ink forming a rectangular border around the dense taʿlīq text. The ruling is clean and consistent with the standard Ottoman framing vocabulary. Marginal annotations and an ownership seal are visible in the left margin.",
+          "location": "Text-block perimeter on f.1a (left page of opening bifolio)",
+          "confidence": 0.88
+        }
+      ],
+      "confidence": 0.88,
+      "notes": "No serlevha or additional illumination on f.1a. The cedvel framing is the sole decoration element on this page."
+    },
+    {
+      "folio": "ff.2a–2b (IIIF p003)",
+      "source_image": "corpus/iiif/beyazit_b3988_p003.jpg",
+      "decoration_present": true,
+      "decoration_types": ["framing_system"],
+      "elements": [
+        {
+          "motif": "Cedvel — framing system continuation",
+          "description": "Both pages of the second opening show the cedvel framing system continuing consistently: multi-line ruling in gold/dark ink around the dense taʿlīq text. The ruling system is uniform and extends through at least the first three examined openings. Marginal annotations (hashiye/derkenar) in a small hand extend beyond the frame into the outer margins on both pages. Red ink text is visible at the foot of the right page (a rubric or marginal correction).",
+          "location": "Text-block perimeter on both pages",
+          "confidence": 0.85
+        }
+      ],
+      "confidence": 0.85,
+      "notes": "The marginal annotation density (hashiye material) extending beyond the frame throughout the manuscript body is characteristic of an actively studied madrasa text. No additional illumination beyond the cedvel was observed on this bifolio."
+    }
+  ],
+  "terminology": {
+    "terms_used": [
+      {
+        "concept": "Illuminated headpiece",
+        "ottoman": "serlevha / tezhipli serlevha",
+        "arabic": "ʿunwān (عنوان)",
+        "persian": "sarlawḥ (سرلوح)",
+        "english": "The decorated panel at the top of the first page of a text. In this manuscript the serlevha is on f.1b, with a pointed-arch crown form, lapis blue ground, and gold hatayi motifs consistent with mid-17th-century Ottoman illumination."
+      },
+      {
+        "concept": "Supercommentary",
+        "ottoman": "hāşiye / haşiye",
+        "arabic": "ḥāshiya (حاشية)",
+        "persian": "ḥāshiya",
+        "english": "Hāşiye / ḥāshiya: a supercommentary — a commentary on an existing commentary. In the madrasa tradition, this is a tertiary text: the primary text (matn) receives a commentary (sharh), and the commentary receives a supercommentary (hashiye). The present manuscript is a hashiye on the sharh of the Hidāyat al-Ḥikma. The marginal annotations (derkenar/hāmiş) extending beyond the cedvel frames are characteristic of active madrasa reading of hashiye texts."
+      },
+      {
+        "concept": "Ruling lines / frame",
+        "ottoman": "cedvel / altın cetvelli",
+        "arabic": "jadwal (جدول)",
+        "persian": "jadval-e zar (جدول زر)",
+        "english": "Cedvel: the system of ruling lines framing the text block. In this manuscript a multi-line cedvel in gold and/or dark ink frames the text area throughout the manuscript, continuing beyond the opening bifolio."
+      },
+      {
+        "concept": "Outer border band",
+        "ottoman": "dış pervaz / kenar suyu",
+        "arabic": null,
+        "persian": null,
+        "english": "Dış pervaz: the outer border/frame band surrounding the text block and inner ruling lines. In this manuscript the dış pervaz has been trimmed on f.1 — the catalogue note 'dış pervazı kesilip alınmış' documents this damage explicitly."
+      },
+      {
+        "concept": "Upper frame band",
+        "ottoman": "üst pervaz",
+        "arabic": null,
+        "persian": null,
+        "english": "Üst pervaz: the upper frame/border band, i.e., the ruling system along the top edge of the text block. Approximately half of the üst pervaz on f.1 has been trimmed in this manuscript."
+      },
+      {
+        "concept": "Chinese-derived lotus/peony motif",
+        "ottoman": "hatâyî / hatayi",
+        "arabic": null,
+        "persian": "khatāʾī (ختایی)",
+        "english": "Hatāyī: Chinese-derived composite flowers and peony forms, one of the primary motif families in Ottoman manuscript illumination. Present in the lapis-blue ground of the serlevha headpiece of this manuscript."
+      },
+      {
+        "concept": "Central medallion (binding)",
+        "ottoman": "şemse",
+        "arabic": null,
+        "persian": "shamsa (شمسه) / toranj (ترنج)",
+        "english": "Şemse: the central oval or mandorla-shaped stamped medallion on the binding cover. Present on the red leather binding of this manuscript."
+      },
+      {
+        "concept": "Corner pieces (binding)",
+        "ottoman": "köşebend",
+        "arabic": null,
+        "persian": null,
+        "english": "Köşebend: stamped or gilded corner-piece decoration on the binding cover. Present on the red leather binding of this manuscript alongside the central şemse."
+      },
+      {
+        "concept": "Finials / spike extensions",
+        "ottoman": "tığ",
+        "arabic": null,
+        "persian": null,
+        "english": "Tığ: spike-like projections above the arch of a serlevha headpiece. Present in the upper margin of f.1b, projecting above the headpiece crown."
+      },
+      {
+        "concept": "Marginal annotation",
+        "ottoman": "derkenar / hāşiye",
+        "arabic": "hāmiš (هامش)",
+        "persian": "dar-kanār",
+        "english": "Derkenar / hāmiš: marginal notes or glosses, written in the margin beyond the cedvel frame. In this manuscript dense marginal annotations extend beyond the ruling throughout the text, characteristic of an actively used madrasa study copy."
+      },
+      {
+        "concept": "Detached folios",
+        "ottoman": "kopuk varaklar",
+        "arabic": null,
+        "persian": null,
+        "english": "Kopuk varaklar: detached or loose folios — folios that have separated from their quire structure, typically through binding failure or wear. Noted in the catalogue for this manuscript."
+      }
+    ]
+  },
+  "bibliography": [
+    {
+      "citation": "Déroche, François. Islamic Codicology: An Introduction to the Study of Manuscripts in Arabic Script. Translated by Deke Dusinberre and David Radzinowicz. London: Al-Furqan Islamic Heritage Foundation, 2005.",
+      "relevance": "Foundational reference for Islamic manuscript codicology, providing the classification framework for framing systems (cedvel/jadwal), headpieces (ʿunwān/serlevha), and the taxonomy of border damage. Directly applicable to the cedvel framing system and the dış pervaz damage described in this record.",
+      "relevance_score": 0.85,
+      "access_notes": "Monograph; available at specialist libraries."
+    },
+    {
+      "citation": "Gacek, Adam. Arabic Manuscripts: A Vademecum for Readers. Leiden: Brill, 2009.",
+      "relevance": "Standard reference glossary for Arabic manuscript terminology, directly relevant for classifying the hashiye (supercommentary) format, the cedvel framing, and the marginal annotation (hāmiš/derkenar) conventions documented in this record.",
+      "relevance_score": 0.87,
+      "access_notes": "Monograph; widely held."
+    },
+    {
+      "citation": "Gacek, Adam. The Arabic Manuscript Tradition: A Glossary of Technical Terms and Bibliography. Leiden: Brill, 2001.",
+      "relevance": "Companion volume to the 2009 Vademecum; documents terminology for manuscript features including the ḥāshiya format, framing conventions, and physical damage vocabulary (trimming, detachment) relevant to this record.",
+      "relevance_score": 0.82,
+      "access_notes": "Monograph; widely held."
+    },
+    {
+      "citation": "Tanındı, Zeren. \"Illuminated Manuscripts.\" In The Arts of the Book in Central Asia, 14th–16th Centuries, edited by Basil Gray, 179–209. Paris: UNESCO, 1979.",
+      "relevance": "Documents Ottoman illumination conventions of the pre- and early post-conquest period, providing the developmental background for the mid-17th-century Ottoman serlevha type documented in this manuscript. Relevant for stylistic comparanda.",
+      "relevance_score": 0.68,
+      "access_notes": "Chapter in edited volume; major research libraries."
+    },
+    {
+      "citation": "Atıl, Esin. Levni and the Surname: The Story of an Eighteenth-Century Ottoman Festival. Washington D.C.: Smithsonian Institution Press, 1999.",
+      "relevance": "Documents 17th–18th-century Ottoman manuscript decoration conventions including serlevha types and cedvel framing systems, providing period comparanda for the mid-17th-century Ottoman serlevha in this manuscript.",
+      "relevance_score": 0.58,
+      "access_notes": "Monograph; widely held."
+    },
+    {
+      "citation": "Rescher, Nicholas. The Development of Arabic Logic. Pittsburgh: University of Pittsburgh Press, 1964.",
+      "relevance": "Provides intellectual-historical context for the Hidāyat al-Ḥikma of Athīr al-Dīn al-Abharī and its commentary tradition, situating this manuscript within the broader history of Islamic philosophy (falsafa / ʿilm-i hikmet) in the Ottoman madrasa context.",
+      "relevance_score": 0.60,
+      "access_notes": "Monograph; widely held at philosophy and Islamic studies libraries."
+    },
+    {
+      "citation": "Kaya, Mahmut. \"Hidâyetü'l-Hikme.\" TDV İslâm Ansiklopedisi, vol. 17, pp. 471–472. Istanbul: TDV, 1998. [In Turkish]",
+      "relevance": "Turkish-language encyclopedia entry on the Hidāyat al-Ḥikma text and its manuscript tradition in the Ottoman madrasa context, directly relevant to situating this hashiye manuscript within the textual transmission of al-Abharī's work.",
+      "relevance_score": 0.72,
+      "access_notes": "Turkish-language encyclopedia; available via TDV İslâm Ansiklopedisi online (https://islamansiklopedisi.org.tr)."
+    },
+    {
+      "citation": "Scheper, Karin. The Technique of Islamic Bookbinding: Methods, Materials and Regional Varieties. Leiden: Brill, 2018.",
+      "relevance": "Comprehensive technical study of Islamic bookbinding techniques, directly relevant for the red leather binding with şemse and köşebend documented in this record. Provides the comparative framework for assessing the binding type and its relationship to the manuscript's production context.",
+      "relevance_score": 0.65,
+      "access_notes": "Monograph; specialist library holdings."
+    }
+  ],
+  "suggested_collections": [
+    {
+      "institution": "Beyazıt Devlet Kütüphanesi, Istanbul (same collection)",
+      "reason": "The manuscript's home institution. Additional Beyazıt manuscripts of the same period and subject (Islamic philosophy, hashiye texts, mid-17th century) would provide the closest comparanda for the serlevha and binding types.",
+      "digital_access": "https://portal.yek.gov.tr"
+    },
+    {
+      "institution": "Süleymaniye Kütüphanesi, Istanbul",
+      "reason": "Holds the largest concentration of Ottoman madrasa scholarly manuscripts in Turkey, including numerous copies of hashiye texts on al-Abharī's Hidāyat al-Ḥikma with comparable serlevha decoration from the same period (AH 1055 / 17th century).",
+      "digital_access": "https://portal.yek.gov.tr"
+    },
+    {
+      "institution": "Chester Beatty Library, Dublin",
+      "reason": "Holds Ottoman madrasa manuscripts with comparable cedvel framing and serlevha decoration from the 17th century, relevant for comparative analysis of the illumination conventions documented in this record.",
+      "digital_access": "https://viewer.cbl.ie"
+    },
+    {
+      "institution": "Bodleian Library, Oxford (Fihrist union catalogue)",
+      "reason": "The Fihrist union catalogue (fihrist.org.uk) covers UK collections and would help identify other manuscript witnesses of Naṣrullāh Ḥalḥālī's hashiye held in European libraries, useful for contextualizing this copy within the broader manuscript tradition.",
+      "digital_access": "https://fihrist.org.uk"
+    }
+  ],
+  "provenance": {
+    "donor": null,
+    "waqf": "Beyazıt Devlet Kütüphanesi, Istanbul. The exact provenance chain is unknown. Two large circular seals (mühür) visible on f.1b margins suggest multiple ownership or library registrations. The manuscript was found through the YEK portal as shelfmark B3988.",
+    "previous_shelfmarks": [],
+    "notes": "No explicit waqf or donor information identified in the available catalogue record or IIIF images. The two large circular seals on f.1b may include ownership or waqf stamps that could yield provenance information upon closer examination. The manuscript was produced in AH 1055 / 1645–46 CE. The dış pervaz and üst pervaz trimming on f.1 suggests at least one rebinding episode after the original production. Current YEK ID: 567999. IIIF ID: 0000000273245."
+  },
+  "analysis_metadata": {
+    "analyzed_date": "2026-02-28",
+    "analyzer": "claude-code-manuscript-pipeline",
+    "pipeline_stage": "metadata-generator",
+    "image_source": "YEK Portal IIIF captures (YEK ID 567999, Beyazıt Devlet Kütüphanesi, IIIF ID 0000000273245) — captured by visual-confirmation agent during Protocol D H1 (dış pervaz) incidental-find session",
+    "image_quality_notes": "Five IIIF images examined (pp. 001–005). The IIIF captures (pp. 002–003) are at higher resolution (~1600px width) than the viewer captures (pp. 001, 004–005). The serlevha (p002) and framing system (pp. 002–003) are clearly legible. Gold quality of cetvels is uncertain at this resolution. The serlevha motif detail and gilding technique require higher-resolution imaging for full art-historical analysis. The dış pervaz damage on f.1 is clearly visible.",
+    "folios_examined": [
+      "corpus/iiif/beyazit_b3988_p001.jpg",
+      "corpus/iiif/beyazit_b3988_p002.jpg",
+      "corpus/iiif/beyazit_b3988_p003.jpg",
+      "corpus/iiif/beyazit_b3988_p004.jpg",
+      "corpus/iiif/beyazit_b3988_p005.jpg"
+    ],
+    "folios_not_examined": "Only the first 5 pages (3 bifolio openings) of a 139-page manuscript were examined. The full extent of the cedvel framing system, any further decoration within the manuscript body, the colophon, and the complete binding exterior were not examined. The catalogue states 'kopuk varaklar' (detached folios) but the affected folios are not identified. Priority for follow-up: (1) colophon examination to identify the copyist, place, and full date formula; (2) systematic survey of the full manuscript for any additional illuminated sections not visible at the opening; (3) examination of the large seals on f.1b for provenance identification.",
+    "corpus_priority": "LOW-MEDIUM. Standard mid-17th-century Ottoman madrasa text with competent serlevha illumination, interesting primarily as an under-catalogued case (no YEK decoration field). The incidental discovery of the serlevha through Protocol D search confirms the value of visual verification for manuscripts with only damage notes. Not a priority for deep analysis.",
+    "source_data": {
+      "search_file": "search_2026-02-27_protocolD_final.json",
+      "yek_id": "567999",
+      "visual_confirmation_file": "catalog/searches/visual_slot3_beyazit_b3988.json",
+      "batch": "Protocol D incidental find (H1 dış pervaz search)"
+    }
+  }
+}

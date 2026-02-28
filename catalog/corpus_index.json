@@ -1,6 +1,6 @@
 {
-  "generated": "2026-02-26",
-  "manuscript_count": 22,
+  "generated": "2026-02-28",
+  "manuscript_count": 56,
   "note": "Auto-maintained by metadata-generator. Do not edit manually.",
   "entries": [
     {
@@ -11,8 +11,18 @@
       "author": null,
       "date_ah": null,
       "date_ce": "16th century [?]",
-      "decoration_types": ["gold_sprinkled", "marbled", "colored", "framing_system"],
-      "paper_categories": ["zerefşân", "ebrulu", "mülevven", "yaldız cetvelli"],
+      "decoration_types": [
+        "gold_sprinkled",
+        "marbled",
+        "colored",
+        "framing_system"
+      ],
+      "paper_categories": [
+        "zerefşân",
+        "ebrulu",
+        "mülevven",
+        "yaldız cetvelli"
+      ],
       "key_features": [
         "Only confirmed mixed paper type MS in corpus (zerefşân + ebrulu + mülevven)",
         "Serlevha with hatāyī-rūmī on lapis blue ground",
@@ -33,8 +43,15 @@
       "author": "ʿAlī Shīr Navāʾī",
       "date_ah": "956",
       "date_ce": "1549–1550",
-      "decoration_types": ["gold_sprinkled", "framing_system"],
-      "paper_categories": ["yaldız serpme", "zerefşân", "yaldız cedvel"],
+      "decoration_types": [
+        "gold_sprinkled",
+        "framing_system"
+      ],
+      "paper_categories": [
+        "yaldız serpme",
+        "zerefşân",
+        "yaldız cedvel"
+      ],
       "key_features": [
         "Dated AH 956 / CE 1549–1550 (only dated MS in Batch 1)",
         "Chagatai Turkish divan in taʿlīq script",
@@ -55,8 +72,15 @@
       "author": null,
       "date_ah": null,
       "date_ce": "16th–17th century [?]",
-      "decoration_types": ["gold_sprinkled", "framing_system"],
-      "paper_categories": ["zerefşân", "serpme", "altın cedvel"],
+      "decoration_types": [
+        "gold_sprinkled",
+        "framing_system"
+      ],
+      "paper_categories": [
+        "zerefşân",
+        "serpme",
+        "altın cedvel"
+      ],
       "key_features": [
         "Margin zerefşân confirmed on both pages of p006",
         "Gold cedvel framing throughout",
@@ -66,7 +90,7 @@
       "visual_confirmation": "confirmed",
       "primary_tradition": "ottoman",
       "workshop_centre": "Istanbul",
-      "confidence": 0.80,
+      "confidence": 0.8,
       "catalogued_date": "2026-02-26"
     },
     {
@@ -77,8 +101,15 @@
       "author": "Jalāl al-Dīn Rūmī [anthology compiler unknown]",
       "date_ah": null,
       "date_ce": "16th–18th century [undetermined]",
-      "decoration_types": ["gold_sprinkled", "framing_system"],
-      "paper_categories": ["zerefşân", "serpme", "altın cedvel"],
+      "decoration_types": [
+        "gold_sprinkled",
+        "framing_system"
+      ],
+      "paper_categories": [
+        "zerefşân",
+        "serpme",
+        "altın cedvel"
+      ],
       "key_features": [
         "Mevlana poetry anthology",
         "Illuminated headpiece (başlığı tezhipli) — not examined; on separate opening",
@@ -88,7 +119,7 @@
       "visual_confirmation": "probable",
       "primary_tradition": "ottoman",
       "workshop_centre": "Istanbul (probable)",
-      "confidence": 0.60,
+      "confidence": 0.6,
       "catalogued_date": "2026-02-26"
     },
     {
@@ -99,8 +130,15 @@
       "author": "Kemālpaşazāde (Ibn Kemāl, d. 940/1534)",
       "date_ah": null,
       "date_ce": "c. 1534–1600 (16th century, post-death of author)",
-      "decoration_types": ["gold_sprinkled", "framing_system"],
-      "paper_categories": ["zerefşân", "serpme", "altın cetvelli"],
+      "decoration_types": [
+        "gold_sprinkled",
+        "framing_system"
+      ],
+      "paper_categories": [
+        "zerefşân",
+        "serpme",
+        "altın cetvelli"
+      ],
       "key_features": [
         "Zahriye frontispiece (bordo/dark-red + gold; p004)",
         "Serlevha with lapis blue + hatāyī-rūmī (p006)",
@@ -121,8 +159,15 @@
       "author": null,
       "date_ah": null,
       "date_ce": "16th–17th century [?]",
-      "decoration_types": ["gold_sprinkled", "framing_system"],
-      "paper_categories": ["yaldız serpmeli", "serpme", "altın cedvel"],
+      "decoration_types": [
+        "gold_sprinkled",
+        "framing_system"
+      ],
+      "paper_categories": [
+        "yaldız serpmeli",
+        "serpme",
+        "altın cedvel"
+      ],
       "key_features": [
         "Mecmûʿa risale 1 of composite volume YY00006636",
         "Serlevha with hatāyī-rūmī-penç in lapis + gold",
@@ -143,8 +188,14 @@
       "author": null,
       "date_ah": null,
       "date_ce": "16th–17th century [?]",
-      "decoration_types": ["gold_sprinkled", "framing_system"],
-      "paper_categories": ["yaldız serpmeli kenarlar", "altın cetvelli"],
+      "decoration_types": [
+        "gold_sprinkled",
+        "framing_system"
+      ],
+      "paper_categories": [
+        "yaldız serpmeli kenarlar",
+        "altın cetvelli"
+      ],
       "key_features": [
         "Mecmûʿa risale 2 of composite volume YY00006636 (same binding as -001)",
         "Double-page serlevha (both pages illuminated; rare) in lapis + gold",
@@ -165,8 +216,14 @@
       "author": "Kâtib Çelebi (d. 1067/1657)",
       "date_ah": null,
       "date_ce": "17th–18th century (estimated)",
-      "decoration_types": ["gold_sprinkled", "framing_system"],
-      "paper_categories": ["serpme oksitlenmiş yaldız", "zerefşân (oxidized)"],
+      "decoration_types": [
+        "gold_sprinkled",
+        "framing_system"
+      ],
+      "paper_categories": [
+        "serpme oksitlenmiş yaldız",
+        "zerefşân (oxidized)"
+      ],
       "key_features": [
         "Oxidized gold-sprinkled margins — distinctive brownish-golden/greenish-grey tone",
         "Polychrome cedvel (green, red, black) without gold ruling — provincial character",
@@ -187,8 +244,17 @@
       "author": null,
       "date_ah": null,
       "date_ce": null,
-      "decoration_types": ["gold_sprinkled", "colored", "framing_system"],
-      "paper_categories": ["zerefşân", "mülevven", "mavi-gri kâğıt", "altın cetvelli"],
+      "decoration_types": [
+        "gold_sprinkled",
+        "colored",
+        "framing_system"
+      ],
+      "paper_categories": [
+        "zerefşân",
+        "mülevven",
+        "mavi-gri kâğıt",
+        "altın cetvelli"
+      ],
       "key_features": [
         "Blue-grey colored paper ground with zerefşân overlay — distinctive combination",
         "Gold cetvels on blue-grey paper clearly visible at screenshot resolution",
@@ -209,8 +275,13 @@
       "author": "Ünsî (attributed; uncertain)",
       "date_ah": null,
       "date_ce": null,
-      "decoration_types": ["silver_sprinkled"],
-      "paper_categories": ["gümüş yaldız serpmeli", "sim-efşan"],
+      "decoration_types": [
+        "silver_sprinkled"
+      ],
+      "paper_categories": [
+        "gümüş yaldız serpmeli",
+        "sim-efşan"
+      ],
       "key_features": [
         "Only silver-sprinkled MS in corpus (gümüş yaldız serpmeli)",
         "Cool blue-grey tonal evidence only; particles unresolved at all available resolutions",
@@ -231,8 +302,15 @@
       "author": "Fakhr al-Dīn al-Rāzī (d. 606/1209)",
       "date_ah": null,
       "date_ce": "16th–17th century (terminus ante quem 1763 CE)",
-      "decoration_types": ["gold_sprinkled", "framing_system"],
-      "paper_categories": ["zerefşân derkenar", "serpme", "müzehheb cedvel"],
+      "decoration_types": [
+        "gold_sprinkled",
+        "framing_system"
+      ],
+      "paper_categories": [
+        "zerefşân derkenar",
+        "serpme",
+        "müzehheb cedvel"
+      ],
       "key_features": [
         "Zerefşân limited to margins of first gatherings only (ilk formaların derkenarları)",
         "Müzehheb cedvel throughout; serlevha with hatāyī-rūmī-penç",
@@ -253,8 +331,13 @@
       "author": null,
       "date_ah": null,
       "date_ce": "17th–18th century [?]",
-      "decoration_types": ["gold_sprinkled"],
-      "paper_categories": ["şâykâllı zerefşân", "saykallı zerefşan kâğıt"],
+      "decoration_types": [
+        "gold_sprinkled"
+      ],
+      "paper_categories": [
+        "şâykâllı zerefşân",
+        "saykallı zerefşan kâğıt"
+      ],
       "key_features": [
         "Burnished (şâykâllı) zerefşân subtype — most resolution-sensitive in Batch 1",
         "Gold particles compressed/polished into paper surface; no raised sparkle",
@@ -264,7 +347,7 @@
       "visual_confirmation": "probable",
       "primary_tradition": "ottoman",
       "workshop_centre": null,
-      "confidence": 0.40,
+      "confidence": 0.4,
       "catalogued_date": "2026-02-26"
     },
     {
@@ -275,8 +358,14 @@
       "author": null,
       "date_ah": null,
       "date_ce": "17th–19th century (uncertain)",
-      "decoration_types": ["gold_sprinkled", "colored"],
-      "paper_categories": ["zerefşân kâğıt", "mülevven (possible sage-green ground)"],
+      "decoration_types": [
+        "gold_sprinkled",
+        "colored"
+      ],
+      "paper_categories": [
+        "zerefşân kâğıt",
+        "mülevven (possible sage-green ground)"
+      ],
       "key_features": [
         "Conk (accordion-fold) format — only conk in corpus",
         "Possible mülevven sage-green ground not noted in catalogue; needs in-person verification",
@@ -297,8 +386,12 @@
       "author": "Abū Manṣūr Muḥammad ibn Aḥmad al-Azharī (d. 980 CE / 370 AH)",
       "date_ah": null,
       "date_ce": "18th century binding [?]; text copy undated",
-      "decoration_types": ["gold_sprinkled"],
-      "paper_categories": ["zerefşân kâğıtla kaplanmış"],
+      "decoration_types": [
+        "gold_sprinkled"
+      ],
+      "paper_categories": [
+        "zerefşân kâğıtla kaplanmış"
+      ],
       "key_features": [
         "Zerefşân on endpapers only (zerefşân kâğıtla kaplanmıştır per catalogue)",
         "Şükûfe floral painted endpapers in naturalistic Ottoman flower style over zerefşân ground",
@@ -319,8 +412,15 @@
       "author": "Samīn al-Ḥalabī (d. 756/1355)",
       "date_ah": "1177",
       "date_ce": "1763–1764",
-      "decoration_types": ["gold_worked", "framing_system"],
-      "paper_categories": ["zerkâri-bordürlü", "hâtime zerkâri", "altın cedvel"],
+      "decoration_types": [
+        "gold_worked",
+        "framing_system"
+      ],
+      "paper_categories": [
+        "zerkâri-bordürlü",
+        "hâtime zerkâri",
+        "altın cedvel"
+      ],
       "key_features": [
         "Opening bifolio and colophon (hâtime) section gold-worked (zerkâri)",
         "Zerkâri confined to opening leaves and hâtime — characteristic late Ottoman programme",
@@ -341,8 +441,17 @@
       "author": "Attributed to ʿAbdallāh ibn ʿAbbās (d. 68/687–88)",
       "date_ah": null,
       "date_ce": null,
-      "decoration_types": ["gold_worked", "illuminated_margins", "framing_system"],
-      "paper_categories": ["zerkâri etek/ağız", "nefis müzehheb serlevha", "renkli nakışlı", "cetvelli"],
+      "decoration_types": [
+        "gold_worked",
+        "illuminated_margins",
+        "framing_system"
+      ],
+      "paper_categories": [
+        "zerkâri etek/ağız",
+        "nefis müzehheb serlevha",
+        "renkli nakışlı",
+        "cetvelli"
+      ],
       "key_features": [
         "Etek (foot) and ağız (outer) margins gold-worked throughout — full-codex zerkâri programme",
         "Serlevha described as 'nefis müzehheb, renkli nakışlı' — high-quality polychrome headpiece",
@@ -352,7 +461,7 @@
       "visual_confirmation": "probable",
       "primary_tradition": "ottoman",
       "workshop_centre": "Amasya or Istanbul — uncertain",
-      "confidence": 0.60,
+      "confidence": 0.6,
       "catalogued_date": "2026-02-26"
     },
     {
@@ -363,8 +472,16 @@
       "author": "Süleyman Çelebi",
       "date_ah": "999",
       "date_ce": "1590–1591",
-      "decoration_types": ["gold_worked", "illuminated_margins", "framing_system"],
-      "paper_categories": ["tamamı yaldız bezemeli", "aharlı nohudî renkli kâğıt", "altın cetvelli"],
+      "decoration_types": [
+        "gold_worked",
+        "illuminated_margins",
+        "framing_system"
+      ],
+      "paper_categories": [
+        "tamamı yaldız bezemeli",
+        "aharlı nohudî renkli kâğıt",
+        "altın cetvelli"
+      ],
       "key_features": [
         "Unique 'tamamı yaldız bezemeli' in entire corpus — full-surface gold on every page, not only margins",
         "Highest visual confirmation confidence in Batch 2 (0.99); finest gold-worked paper in project corpus",
@@ -385,8 +502,17 @@
       "author": null,
       "date_ah": "973",
       "date_ce": "1565–1566",
-      "decoration_types": ["gold_worked", "illuminated_margins", "framing_system"],
-      "paper_categories": ["zerendûd sûre başlıkları", "müzehheb serlevha", "altın cetvelli", "altın duraklı"],
+      "decoration_types": [
+        "gold_worked",
+        "illuminated_margins",
+        "framing_system"
+      ],
+      "paper_categories": [
+        "zerendûd sûre başlıkları",
+        "müzehheb serlevha",
+        "altın cetvelli",
+        "altın duraklı"
+      ],
       "key_features": [
         "Zerendûd surah title cartouches throughout — gold-painted script on lapis-blue ground",
         "Polychrome serlevha AH 973/1565–66 — dated, Selim II period Ottoman Quran",
@@ -407,8 +533,16 @@
       "author": "Jalāl al-Dīn al-Suyūṭī",
       "date_ah": "1192",
       "date_ce": "1778",
-      "decoration_types": ["gold_worked", "illuminated_margins", "framing_system"],
-      "paper_categories": ["zerkâri", "serlevha laciverdi müzehheb", "altın cetvelli"],
+      "decoration_types": [
+        "gold_worked",
+        "illuminated_margins",
+        "framing_system"
+      ],
+      "paper_categories": [
+        "zerkâri",
+        "serlevha laciverdi müzehheb",
+        "altın cetvelli"
+      ],
       "key_features": [
         "Ilk iki sayfa zerkâri — hatāyī-islīmī scrollwork confirmed on opening bifolio",
         "Polychrome lacivert serlevha visually confirmed; plain margins from f. 2b onward",
@@ -429,8 +563,16 @@
       "author": "Abū Ḥāmid Muḥammad al-Ghazālī",
       "date_ah": null,
       "date_ce": null,
-      "decoration_types": ["gold_worked", "illuminated_margins", "framing_system"],
-      "paper_categories": ["zerkâri yaprak kenarları", "serlevha mülevven tezhibli", "altın cetvelli"],
+      "decoration_types": [
+        "gold_worked",
+        "illuminated_margins",
+        "framing_system"
+      ],
+      "paper_categories": [
+        "zerkâri yaprak kenarları",
+        "serlevha mülevven tezhibli",
+        "altın cetvelli"
+      ],
       "key_features": [
         "Full-codex zerkâri — 'yaprak kenarları zerkârî': all leaf margins gold-worked throughout",
         "Magnificent polychrome portal-arch serlevha in blue-gold-red-green confirmed visually",
@@ -451,8 +593,18 @@
       "author": "Rüşenî Dede Ömer Aydınî",
       "date_ah": "1030",
       "date_ce": "1620–1621",
-      "decoration_types": ["gold_worked", "colored", "illuminated_margins", "framing_system"],
-      "paper_categories": ["çiçek motifli zerkâri", "renkli saykallı âbâdî kâğıt", "altın cetvelli", "tezhip serlevha"],
+      "decoration_types": [
+        "gold_worked",
+        "colored",
+        "illuminated_margins",
+        "framing_system"
+      ],
+      "paper_categories": [
+        "çiçek motifli zerkâri",
+        "renkli saykallı âbâdî kâğıt",
+        "altın cetvelli",
+        "tezhip serlevha"
+      ],
       "key_features": [
         "Spectacular çiçek motifli floral zerkâri on ff. 1b–2a — hatāyî peonies and islîmî vines",
         "Renkli saykallı ince âbâdî kâğıt — rare burnished colored abadi paper",
@@ -473,8 +625,15 @@
       "author": null,
       "date_ah": "1135",
       "date_ce": "1722–1723",
-      "decoration_types": ["gold_worked", "marbled", "framing_system"],
-      "paper_categories": ["çeşitli zerkâri kâğıt", "ebrî kâğıt"],
+      "decoration_types": [
+        "gold_worked",
+        "marbled",
+        "framing_system"
+      ],
+      "paper_categories": [
+        "çeşitli zerkâri kâğıt",
+        "ebrî kâğıt"
+      ],
       "key_features": [
         "Çeşitli (mixed/various) zerkâri paper throughout — assembled from disparate luxury stocks",
         "Ebrî (blue marbled) paper visually confirmed at pp. 4a–4b and 16a",
@@ -484,8 +643,1030 @@
       "visual_confirmation": "probable",
       "primary_tradition": "ottoman",
       "workshop_centre": "Istanbul (probable)",
-      "confidence": 0.70,
+      "confidence": 0.7,
       "catalogued_date": "2026-02-26"
+    },
+    {
+      "record_id": "muglali_hoca_mustafa_00035",
+      "collection": "Süleymaniye Kütüphanesi — Muğlalı Hoca Mustafa Efendi Koleksiyonu",
+      "shelfmark": "00035",
+      "title": "Dîvân-ı Sâʾib-i Tebrîzî",
+      "author": "Sâʾib-i Tebrîzî (d. 1087/1676)",
+      "date_ah": null,
+      "date_ce": "17th–18th century (undated)",
+      "decoration_types": [
+        "halkar_margins",
+        "illuminated_margins",
+        "framing_system"
+      ],
+      "paper_categories": [
+        "derkenar halkârî",
+        "çok renkli halkâr",
+        "şükûfe",
+        "altın-kırmızı-yeşil cedvel"
+      ],
+      "key_features": [
+        "Dense polychrome halkâr on ff. 1b–2a: tulips, roses, narcissi, carnations in pink, red, green, gold",
+        "Blue-and-gold serlevha medallion with rectangular panels; tezhip also at f. 49a",
+        "Multi-colour cedvel (gold, red, green, blue); multicolumnar (musirlidir) layout",
+        "Sa'ib Tabrizi dîvân: most widely copied Persian poet in Ottoman Istanbul c. 1680–1780"
+      ],
+      "visual_confirmation": "confirmed",
+      "primary_tradition": "ottoman",
+      "workshop_centre": null,
+      "confidence": 0.96,
+      "catalogued_date": "2026-02-27"
+    },
+    {
+      "record_id": "yazma_bagislar_08418",
+      "collection": "Süleymaniye Kütüphanesi — Yazma Bağışlar Koleksiyonu",
+      "shelfmark": "08418",
+      "title": "İlm-i Hâl",
+      "author": null,
+      "date_ah": null,
+      "date_ce": null,
+      "decoration_types": [
+        "halkar_margins",
+        "illuminated_margins",
+        "framing_system"
+      ],
+      "paper_categories": [
+        "halkârî tezyinatlı",
+        "serlevha",
+        "altın durak"
+      ],
+      "key_features": [
+        "Gold halkâr scrolling vine and leaf margins on opening bifolio (ff. 1b–2a)",
+        "Illuminated serlevha and durak ornaments throughout",
+        "Ebrulu (marbled) binding cover — BINDING FP, not page decoration",
+        "Short catechetical text; high luxury production relative to genre"
+      ],
+      "visual_confirmation": "confirmed",
+      "primary_tradition": "ottoman",
+      "workshop_centre": null,
+      "confidence": 0.93,
+      "catalogued_date": "2026-02-27"
+    },
+    {
+      "record_id": "manisa_4408-1",
+      "collection": "Manisa İl Halk Kütüphanesi",
+      "shelfmark": "4408/1",
+      "title": "Muḥīṭ (al-Muḥīṭ fī al-Lugha)",
+      "author": "Abū al-Qāsim Ismāʿīl ibn ʿAbbād al-Ṭālaqānī (al-Ṣāḥib, d. 385/995)",
+      "date_ah": null,
+      "date_ce": null,
+      "decoration_types": [
+        "colored"
+      ],
+      "paper_categories": [
+        "lacivert kâğıt",
+        "sarı kâğıt",
+        "mülevven"
+      ],
+      "key_features": [
+        "Multi-color leaf program: lacivert (lapis-blue) AND sarı (yellow/cream) leaves confirmed in screenshots",
+        "Both colors present in same volume — unusual dual-tone mülevven scheme",
+        "10th-century Arabic lexicon; post-Mamluk/Ottoman context for production",
+        "Manisa İl collection; cataloguer: Zahide Kutlay"
+      ],
+      "visual_confirmation": "confirmed",
+      "primary_tradition": "ottoman",
+      "workshop_centre": null,
+      "confidence": 0.95,
+      "catalogued_date": "2026-02-27"
+    },
+    {
+      "record_id": "damad_ibrahim_pasa_00027-001",
+      "collection": "Süleymaniye Kütüphanesi — Damad İbrahim Paşa Koleksiyonu",
+      "shelfmark": "00027-001",
+      "title": "Tenbîhü'l-Efhâm ilâ Tedebbüri'l-Kitâbi'l-Hakîm (vol. 1)",
+      "author": "İbn Berrecân (d. 536/1142)",
+      "date_ah": "1128",
+      "date_ce": "1715–1716",
+      "decoration_types": [
+        "marbled",
+        "illuminated_margins",
+        "framing_system"
+      ],
+      "paper_categories": [
+        "vikāye yaprağı hatip ebrūlu",
+        "mihrabiye",
+        "müzehhep sûre başlıkları",
+        "altın cedvel"
+      ],
+      "key_features": [
+        "Hatip ebrūlu vikāye yaprağı (protective marbled flyleaf) confirmed by YEK genel_notlar",
+        "Full luxury illumination programme: mihrabiye portal, müzehhep sûre başlıkları, altın cedvel",
+        "Damad İbrahim Paşa patronage; Tulip Period (AH 1128/CE 1715–16)",
+        "Vol. 1 of 2-volume tafsīr set; vol. 2 = damad_ibrahim_pasa_00027-002"
+      ],
+      "visual_confirmation": "confirmed",
+      "primary_tradition": "ottoman",
+      "workshop_centre": "Istanbul (probable)",
+      "confidence": 0.92,
+      "catalogued_date": "2026-02-27"
+    },
+    {
+      "record_id": "diyarbakir_649",
+      "collection": "Diyarbakır Yazma Eser Kütüphanesi",
+      "shelfmark": "649",
+      "title": "Risâle (unidentified)",
+      "author": null,
+      "date_ah": null,
+      "date_ce": null,
+      "decoration_types": [
+        "colored"
+      ],
+      "paper_categories": [
+        "sarı boyalı kâğıt",
+        "Avrupa filigranı"
+      ],
+      "key_features": [
+        "Sarı (yellow-dyed) paper with European watermark — cross-cultural paper supply",
+        "Provincial Diyarbakır context; workshop uncertain",
+        "Unidentified short risâle in Arabic or Ottoman; undated",
+        "Sarı boyalı subtype of mülevven; European paper imported and dyed locally"
+      ],
+      "visual_confirmation": "confirmed",
+      "primary_tradition": "ottoman",
+      "workshop_centre": "Provincial — Diyarbakır region (probable)",
+      "confidence": 0.88,
+      "catalogued_date": "2026-02-27"
+    },
+    {
+      "record_id": "nuruosmaniye_04372",
+      "collection": "Nuruosmaniye Kütüphanesi",
+      "shelfmark": "04372",
+      "title": "Dîvân (unidentified Safavid)",
+      "author": null,
+      "date_ah": "956",
+      "date_ce": "1549–1550",
+      "decoration_types": [
+        "marbled",
+        "framing_system"
+      ],
+      "paper_categories": [
+        "vassale ebrulu",
+        "battal ebru",
+        "altın cetvelli"
+      ],
+      "key_features": [
+        "ONLY Safavid manuscript in project corpus — Ardabil, AH 956/1549–50; Shah Mahmud al-Kātib",
+        "Vassale mounting with battal ebru outer margins AND inner gold-ruled frames",
+        "Combined vassale + battal ebru format = Safavid murakkaat album conventions",
+        "Highest-status colophon in corpus: major Safavid calligrapher, dated, located"
+      ],
+      "visual_confirmation": "confirmed",
+      "primary_tradition": "safavid",
+      "workshop_centre": "Ardabil (Safavid)",
+      "confidence": 0.98,
+      "catalogued_date": "2026-02-27"
+    },
+    {
+      "record_id": "turhan_valide_sultan_00150m",
+      "collection": "Süleymaniye Kütüphanesi — Turhan Valide Sultan Koleksiyonu",
+      "shelfmark": "00150M",
+      "title": "Vakfiye (waqfiyya of Sultan IV. Mehmed)",
+      "author": null,
+      "date_ah": "1073",
+      "date_ce": "1662–1663",
+      "decoration_types": [
+        "halkar_margins",
+        "framing_system"
+      ],
+      "paper_categories": [
+        "yoğun altın şükûfe halkâr",
+        "3 renkli cedvel",
+        "tuğra IV. Mehmed"
+      ],
+      "key_features": [
+        "Imperial vakfiye of Sultan IV. Mehmed with his tuğra — highest-status document in corpus",
+        "Dense gold şükûfe (floral) halkâr on all margins throughout the codex",
+        "3-colour cedvel (gold, red, blue/black) consistent throughout",
+        "AH 1073/1662–63 firm date; Turhan Valide Sultan (queen mother) waqf"
+      ],
+      "visual_confirmation": "confirmed",
+      "primary_tradition": "ottoman",
+      "workshop_centre": "Istanbul — imperial atelier (nakkaşhâne-i hümâyun)",
+      "confidence": 0.97,
+      "catalogued_date": "2026-02-27"
+    },
+    {
+      "record_id": "diyarbakir_12",
+      "collection": "Diyarbakır Yazma Eser Kütüphanesi",
+      "shelfmark": "12",
+      "title": "unidentified (probable theological/Sufi text)",
+      "author": null,
+      "date_ah": "1109",
+      "date_ce": "1697–1698",
+      "decoration_types": [
+        "colored"
+      ],
+      "paper_categories": [
+        "mülevven âbâdî kâğıt"
+      ],
+      "key_features": [
+        "Mülevven (colored) âbâdî paper — specific paper stock identified in YEK catalogue",
+        "Dated AH 1109/CE 1697–98 — one of only three firmly dated colored-paper MSS in corpus",
+        "Visual ambiguity caveat: IIIF color calibration affects confidence",
+        "Provincial Diyarbakır context; paper possibly imported and locally re-used"
+      ],
+      "visual_confirmation": "probable",
+      "primary_tradition": "ottoman",
+      "workshop_centre": "Provincial — Diyarbakır region (probable)",
+      "confidence": 0.75,
+      "catalogued_date": "2026-02-27"
+    },
+    {
+      "record_id": "manisa_4620-1",
+      "collection": "Manisa İl Halk Kütüphanesi",
+      "shelfmark": "4620/1",
+      "title": "unidentified religious text",
+      "author": null,
+      "date_ah": "1100",
+      "date_ce": "1688–1689",
+      "decoration_types": [
+        "colored"
+      ],
+      "paper_categories": [
+        "sarı boyalı kâğıt",
+        "üzüm salkımı taç filigranı"
+      ],
+      "key_features": [
+        "Sarı boyalı (yellow-dyed) paper with bunch-of-grapes crown watermark; AH 1100 / CE 1688–1689 dated",
+        "Yellow tint visible on p005; color calibration caveat applies to IIIF imaging",
+        "Risale 1 of mecmûʿa 4620; modest decoration (red incipits); provincial Manisa collection",
+        "Cataloguer: Zahide Kutlay; identical paper formula to adjacent manisa_4633"
+      ],
+      "visual_confirmation": "probable",
+      "primary_tradition": "ottoman",
+      "workshop_centre": null,
+      "confidence": 0.75,
+      "catalogued_date": "2026-02-27"
+    },
+    {
+      "record_id": "manisa_4633",
+      "collection": "Manisa İl Halk Kütüphanesi",
+      "shelfmark": "4633",
+      "title": "Hediyyetü's-Sü'lûk fî Şerhi Tuhfeti'l-Mülûk",
+      "author": "es-Sivâsî el-Kastamûnî el-Halvetî el-Hanefî (d. 1000/1592)",
+      "date_ah": null,
+      "date_ce": "post-1592 (undated)",
+      "decoration_types": [
+        "colored"
+      ],
+      "paper_categories": [
+        "sarı boyalı kâğıt",
+        "üzüm salkımı taç filigranı",
+        "yaldız zencirekli cilt"
+      ],
+      "key_features": [
+        "Sarı boyalı paper with bunch-of-grapes crown watermark; identical paper formula to manisa_4620-1 (same cataloguer)",
+        "Luxury binding: yaldız zencirekli mıkleplı kırmızı meşin with matching mahfaza (slipcase)",
+        "Nastaʿlīq script for Ḥanafī fiqh commentary — unusual script choice for this genre",
+        "Undated; author d. 1592 is terminus post quem; provincial Manisa collection"
+      ],
+      "visual_confirmation": "probable",
+      "primary_tradition": "ottoman",
+      "workshop_centre": null,
+      "confidence": 0.75,
+      "catalogued_date": "2026-02-27"
+    },
+    {
+      "record_id": "asir_efendi_00321",
+      "collection": "Süleymaniye Kütüphanesi — Âşir Efendi Koleksiyonu",
+      "shelfmark": "00321",
+      "title": "Münşeʾât",
+      "author": "Abdülkerîm Çelebi (d. 1038/1629)",
+      "date_ah": "1053",
+      "date_ce": "1643–1644",
+      "decoration_types": [
+        "colored"
+      ],
+      "paper_categories": [
+        "mülevven kâğıt"
+      ],
+      "key_features": [
+        "Mülevven kâğıt (colored paper): pinkish/warm-tinted ground",
+        "Ottoman epistolary collection (münşeʾât); taʿlîk script",
+        "Identification relies primarily on catalogue description; visual tint subtle",
+        "Luxury meşin binding with gilt şemse and zencirek border"
+      ],
+      "visual_confirmation": "probable",
+      "primary_tradition": "ottoman",
+      "workshop_centre": null,
+      "confidence": 0.7,
+      "catalogued_date": "2026-02-27"
+    },
+    {
+      "record_id": "damad_ibrahim_pasa_00027-002",
+      "collection": "Süleymaniye Kütüphanesi — Damad İbrahim Paşa Koleksiyonu",
+      "shelfmark": "00027-002",
+      "title": "Tenbîhü'l-Efhâm ilâ Tedebbüri'l-Kitâbi'l-Hakîm ve Taʿarrufü'l-Âyât ve'n-Nebei'l-Azîm (vol. 2)",
+      "author": "İbn Berrecân (d. 536/1142)",
+      "date_ah": "1128",
+      "date_ce": "1715–1716",
+      "decoration_types": [
+        "marbled",
+        "illuminated_margins",
+        "framing_system"
+      ],
+      "paper_categories": [
+        "vikāye yaprağı hatip ebrūlu",
+        "mihrabiye",
+        "müzehhep sūre başlıkları",
+        "altın cedvel"
+      ],
+      "key_features": [
+        "Vol. 2 of 2-vol set; independently corroborates hatip ebrulu vikāye yaprağı per own catalogue entry",
+        "Full luxury illumination programme matching vol. 1 (confirmed): mihrabiye, müzehhep sūre başlıkları, altın cedvel",
+        "Flyleaf not captured in examined IIIF page — verdict relies on catalogue text and vol. 1 confirmation",
+        "Damad İbrahim Paşa patronage; Tulip Period (AH 1128/CE 1715–16)"
+      ],
+      "visual_confirmation": "probable",
+      "primary_tradition": "ottoman",
+      "workshop_centre": "Istanbul (probable — same set as vol. 1)",
+      "confidence": 0.7,
+      "catalogued_date": "2026-02-27"
+    },
+    {
+      "record_id": "ali_nihat_tarlan_00153",
+      "collection": "Süleymaniye Kütüphanesi — Ali Nihat Tarlan Koleksiyonu",
+      "shelfmark": "00153",
+      "title": "Şehnâme",
+      "author": "Firdevsî (d. 416/1026)",
+      "date_ah": null,
+      "date_ce": null,
+      "decoration_types": [
+        "halkar_margins",
+        "illuminated_margins",
+        "framing_system"
+      ],
+      "paper_categories": [
+        "sayfa kenarları çiçek motifli halkârî",
+        "beyne-satır tezhip",
+        "yaldızlı çift cedvel",
+        "samânî kâğıt"
+      ],
+      "key_features": [
+        "Flower-motif halkâr margins on ff. 1a, 12b, 13a; beyne-satır illumination on same folios",
+        "Double gold cedvel throughout; orange inter-column cetvels; 4-column Shahnameh layout",
+        "Unbound (ciltsiz, sirazesi dağınık) — urgent conservation need",
+        "Same collection as ali_nihat_tarlan_00075; Şehnâme (Persian epic) in taʿlîk script"
+      ],
+      "visual_confirmation": "probable",
+      "primary_tradition": "ottoman",
+      "workshop_centre": null,
+      "confidence": 0.65,
+      "catalogued_date": "2026-02-27"
+    },
+    {
+      "record_id": "ankara_06hk4663",
+      "collection": "Ankara Adnan Ötüken İl Halk Kütüphanesi",
+      "shelfmark": "06 Hk 4663",
+      "title": "Kurʿân-ı Kerîm",
+      "author": null,
+      "date_ah": "1271",
+      "date_ce": "1854–1855",
+      "decoration_types": [
+        "colored",
+        "halkar_margins",
+        "illuminated_margins",
+        "framing_system"
+      ],
+      "paper_categories": [
+        "mülevven",
+        "kenarları halkârî yaldızlı",
+        "yaldız cetvelli",
+        "hizib gülleri mülevven tezhibli"
+      ],
+      "key_features": [
+        "Cross-category programme: mülevven + halkâr + tezhip on opening bifolio",
+        "Dated AH 1271 / CE 1854–55 — only 19th-century Quran in Batch 3 corpus",
+        "Kafes şemseli binding with zencerek border; partially oxidized gilding",
+        "Opening bifolio not captured in available IIIF screenshot"
+      ],
+      "visual_confirmation": "probable",
+      "primary_tradition": "ottoman",
+      "workshop_centre": "Istanbul or major provincial centre (probable)",
+      "confidence": 0.65,
+      "catalogued_date": "2026-02-27"
+    },
+    {
+      "record_id": "kastamonu_1569",
+      "collection": "Kastamonu Yazma Eser Kütüphanesi",
+      "shelfmark": "1569",
+      "title": "Mazharüʿn-Nûr",
+      "author": "Münîbullâh b. İnâyetullâh el-Hüseynî (d. 1174/1760)",
+      "date_ah": null,
+      "date_ce": "post-1760 (undated)",
+      "decoration_types": [
+        "halkar_margins",
+        "illuminated_margins",
+        "framing_system"
+      ],
+      "paper_categories": [
+        "ilk sayfa kenarı halkârî",
+        "nefis müzehhep serlevha",
+        "renkli müzehhep cedvel"
+      ],
+      "key_features": [
+        "Ilk sayfa kenarı halkârî — first-page margin halkâr only; confirmed genuine YEK phrase",
+        "Nefis müzehhep serlevha at opening; renkli müzehhep cedveller throughout",
+        "Ahmet Siyahi Efendi vakıf mührü on f. 1a; Halîdiyye Medresesi provenance",
+        "Incomplete copy (sonu yarım bırakılmıştır); GAL S. II, 616"
+      ],
+      "visual_confirmation": "probable",
+      "primary_tradition": "ottoman",
+      "workshop_centre": "Provincial Ottoman — Kastamonu region (probable)",
+      "confidence": 0.6,
+      "catalogued_date": "2026-02-27"
+    },
+    {
+      "record_id": "milli_kutuphane_fb393",
+      "collection": "Milli Kütüphane Yazmalar",
+      "shelfmark": "06 Mil Yz FB 393",
+      "title": "Nasîhatüʿl-Mülûk",
+      "author": "Mustafâ Mîrzâ b. Abd er-Raʿûf (active c. 1100/1689)",
+      "date_ah": "1106",
+      "date_ce": "1694–1695",
+      "decoration_types": [
+        "halkar_margins",
+        "illuminated_margins",
+        "framing_system"
+      ],
+      "paper_categories": [
+        "şükûfe halkârî nakış (f. 3a)",
+        "mihrabiye mavi boyalı tezhibli",
+        "cetvelli"
+      ],
+      "key_features": [
+        "Probable royal commission for Sultan II. Mustafa — f. 1a inscription in gilded circle",
+        "Şükûfe halkârî nakış on f. 3a (GENUINE page halkâr; distinct from binding halkâr on cover)",
+        "Binding has halkârî salbek gömme şemse (BINDING FP — NOT page decoration)",
+        "AH 1106/CE 1694–95; mihrabiye XVII. yüzyıl mavi boyalı tezhibli"
+      ],
+      "visual_confirmation": "probable",
+      "primary_tradition": "ottoman",
+      "workshop_centre": "Istanbul — probable royal commission (Sultan II. Mustafa)",
+      "confidence": 0.6,
+      "catalogued_date": "2026-02-27"
+    },
+    {
+      "record_id": "esad_efendi_03413-001",
+      "collection": "Süleymaniye Kütüphanesi — Esad Efendi Koleksiyonu",
+      "shelfmark": "03413-001",
+      "title": "Munterhabu Ravzatil-Ukul vel-Efkar ve Nuzheti'l-Esma' vel-Ebsar",
+      "author": null,
+      "date_ah": null,
+      "date_ce": null,
+      "decoration_types": [
+        "marbled"
+      ],
+      "paper_categories": [
+        "ebrulu kagit",
+        "karisik renkte ebri",
+        "aharli filigranli"
+      ],
+      "key_features": [
+        "Mixed-color marbled paper (karisik renkte, ebrulu) per YEK catalogue",
+        "Risale not located within 187-page host mecmua; classification catalogue-based only",
+        "Heavily annotated with Arabic and Persian marginal glosses (hasiye)",
+        "Watermarked (filigranli) sized (aharli) paper stock"
+      ],
+      "visual_confirmation": "probable",
+      "primary_tradition": "ottoman",
+      "workshop_centre": null,
+      "confidence": 0.55,
+      "catalogued_date": "2026-02-27"
+    },
+    {
+      "record_id": "galata_mevlevihanesi_00109",
+      "collection": "Süleymaniye Kütüphanesi — Galata Mevlevihanesi Koleksiyonu",
+      "shelfmark": "00109",
+      "title": "Murakka'at",
+      "author": "Yedikuleli Seyyid Abdullah Efendi (calligrapher; d. 1144/1731)",
+      "date_ah": null,
+      "date_ce": "early 18th century (c. 1700-1731)",
+      "decoration_types": [
+        "framing_system"
+      ],
+      "paper_categories": [
+        "cetvelli murakka",
+        "altin cedvel (probable)"
+      ],
+      "key_features": [
+        "RECLASSIFIED: catalogued as cetvelli murakka; YEK says 'Ebru kagit' but no ebru on writing surfaces",
+        "Sulus calligraphy; contains opening beyts of Qasidat al-Burda (Imam Busiri)",
+        "Calligrapher Yedikuleli Seyyid Abdullah Efendi (d. 1144/1731); early 18th c. Istanbul",
+        "Galata Mevlevihanesi vakfi; vakif: el-Hac Hafiz Mahmud Seyhul-Kurra Sevki"
+      ],
+      "visual_confirmation": "probable",
+      "primary_tradition": "ottoman",
+      "workshop_centre": "Istanbul",
+      "confidence": 0.65,
+      "catalogued_date": "2026-02-27"
+    },
+    {
+      "record_id": "hasan_pasa_3286-23",
+      "collection": "Hasan Paşa Yazma Eser Kütüphanesi",
+      "shelfmark": "3286/23",
+      "title": "Nuzhetu't-Tarf fi Ilmi's-Sarf",
+      "author": "Meydani, Ebul-Fazl Ahmed b. Muhammed b. Ahmed el-Meydani en-Nisaburi (d. 518/1124)",
+      "date_ah": "1114",
+      "date_ce": "1702-1703",
+      "decoration_types": [
+        "colored"
+      ],
+      "paper_categories": [
+        "bazi yapraklar renkli",
+        "mulevven",
+        "capa filigrani"
+      ],
+      "key_features": [
+        "Some leaves colored (bazi yapraklar renkli) per YEK catalogue; European anchor watermark",
+        "Dated AH 1114/CE 1702-03; Arabic morphology (sarf) text",
+        "Risale 23 in large mecmua (367 pp.); folios not located -- TUYATOK cards captured only",
+        "GAL S.I. 507; Hasan Pasa collection, Corum"
+      ],
+      "visual_confirmation": "probable",
+      "primary_tradition": "uncertain",
+      "workshop_centre": null,
+      "confidence": 0.5,
+      "catalogued_date": "2026-02-27"
+    },
+    {
+      "record_id": "trabzon_00112",
+      "collection": "Trabzon (Süleymaniye Kütüphanesi)",
+      "shelfmark": "00112",
+      "title": "Ziyāʾü'l-Cinān ve Şifāʾü'l-Cenān",
+      "author": "İbrāhīm b. Aḥmed el-Edhemī et-Tokādī",
+      "date_ah": "1255",
+      "date_ce": "1840",
+      "decoration_types": [
+        "illuminated_margins",
+        "framing_system",
+        "other"
+      ],
+      "paper_categories": [
+        "altın cetvelli",
+        "şekilli yazı",
+        "serlevha tezhibi"
+      ],
+      "key_features": [
+        "Author autograph (müellif nüshası) — unique witness to the text",
+        "Full-manuscript geometric text-layout program (muvaşşah/şekilli yazı): grid, diamond-compartment, sword/minaret, inverted-triangle colophon",
+        "Provincial serlevha with unusual landscape/garden pictorial element",
+        "Only confirmed example of a full-manuscript muvaşşah program in the corpus"
+      ],
+      "visual_confirmation": "confirmed",
+      "primary_tradition": "ottoman",
+      "workshop_centre": "Tokat or provincial Anatolia",
+      "confidence": 0.95,
+      "catalogued_date": "2026-02-28"
+    },
+    {
+      "record_id": "beyazit_b3988",
+      "collection": "Beyazıt Devlet Kütüphanesi",
+      "shelfmark": "B3988",
+      "title": "Ḥāshiye ʿalā Sharḥ Hidāyat al-Ḥikma",
+      "author": "Naṣrullāh b. Muḥammad el-ʿÖmerī el-ʿAcemī el-Ḥalḥālī",
+      "date_ah": "1055",
+      "date_ce": "1645–46",
+      "decoration_types": [
+        "illuminated_margins",
+        "framing_system"
+      ],
+      "paper_categories": [
+        "altın cetvelli",
+        "serlevha tezhibi"
+      ],
+      "key_features": [
+        "Under-catalogued: no YEK decoration field — serlevha identified by visual inspection only",
+        "Polychrome serlevha with lapis blue ground and hatayi motifs (f.1b)",
+        "Incidental find from Protocol D H1 (dış pervaz) search",
+        "Damage to dış pervaz and üst pervaz on f.1 noted in catalogue"
+      ],
+      "visual_confirmation": "confirmed",
+      "primary_tradition": "ottoman",
+      "workshop_centre": "Istanbul (probable) or provincial Ottoman",
+      "confidence": 0.9,
+      "catalogued_date": "2026-02-28"
+    },
+    {
+      "record_id": "nuruosmaniye_00360",
+      "collection": "Nuruosmaniye Kütüphanesi",
+      "shelfmark": "00360",
+      "title": "Anwār al-Tanzīl wa-Asrār al-Taʾwīl (Tefsiru'l-Beydâvî)",
+      "author": "Nāṣir al-Dīn al-Bayḍāwī al-Shīrāzī",
+      "date_ah": "911",
+      "date_ce": "1506",
+      "decoration_types": [
+        "framing_system",
+        "illuminated_margins"
+      ],
+      "paper_categories": [
+        "vassale yazılmış",
+        "mavi ve yaldız cetvelli",
+        "nohudi kâğıt",
+        "tezhipli serlevha"
+      ],
+      "key_features": [
+        "Vassale mounting throughout all 533 folios on plain nohudi ground paper",
+        "Compound blue-and-gold cetvel framing system visible on every page",
+        "Spectacular double-page illuminated serlevha (ff. 1b-2a) with hatāyī-islīmī headpiece",
+        "Copied in Coron (Koroni, Peloponnese) AH 911/1506 by a Kāzarūnī scribe — Ottoman peripheral production"
+      ],
+      "visual_confirmation": "confirmed",
+      "primary_tradition": "ottoman",
+      "workshop_centre": "Coron (Koroni, Peloponnese) — illumination possibly Istanbul-trained",
+      "confidence": 0.95,
+      "catalogued_date": "2026-02-28"
+    },
+    {
+      "record_id": "sehzade_mehmed_00067",
+      "collection": "Süleymaniye Kütüphanesi — Şehzade Mehmed Koleksiyonu",
+      "shelfmark": "00067",
+      "title": "Ḥall Mushkilāt al-Ishārāt (Sharḥ al-Ishārāt wa-l-Tanbīhāt)",
+      "author": "Naṣīr al-Dīn al-Ṭūsī",
+      "date_ah": "872",
+      "date_ce": "1467",
+      "decoration_types": [
+        "marbled",
+        "illuminated_margins",
+        "framing_system"
+      ],
+      "paper_categories": [
+        "zahriye şemse",
+        "ünvan tezhibi",
+        "yaldızlı cetvel",
+        "ebrulu ilk yaprak"
+      ],
+      "key_features": [
+        "Fātiḥ Sultan Meḥmed personal library commission — twin shamsa zahriye with royal dedication (AH 872/1467)",
+        "Magnificent unvan tezhip (f. 2b) and section tezhip (f. 129b) in lapis-blue hatāyī-rūmī style",
+        "Gold cetvel framing throughout; gold ink for commented passages",
+        "Provenance chain: Meḥmed II → Bāyezīd II → Şehzade Meḥmed b. Süleymān vakf; possible earliest dateable marbled leaf in corpus"
+      ],
+      "visual_confirmation": "confirmed",
+      "primary_tradition": "ottoman",
+      "workshop_centre": "Istanbul — nakkaşhâne-i hümâyun (Fātiḥ period)",
+      "confidence": 0.9,
+      "catalogued_date": "2026-02-28"
+    },
+    {
+      "record_id": "tiem_02471",
+      "collection": "Türk ve İslam Eserleri Müzesi",
+      "shelfmark": "02471",
+      "title": "Murakkaʿ / مرقع",
+      "author": null,
+      "date_ah": "c. 1110–1113",
+      "date_ce": "c. 1698–1702",
+      "decoration_types": [
+        "other",
+        "marbled",
+        "gold_worked",
+        "colored",
+        "framing_system"
+      ],
+      "paper_categories": [
+        "blok-baskılı kâğıt (Type A/B/C)",
+        "battal ebru",
+        "hatip ebru",
+        "gel-git ebru",
+        "zerkâri",
+        "mülevven"
+      ],
+      "key_features": [
+        "Most technique-rich decorated paper album in corpus: 3+ block-printed/stenciled paper types",
+        "Type B ogival medallion lattice deployed symmetrically at front and rear endpapers",
+        "Battal + hatip + gel-git ebru as interior margin grounds; vassale calligraphy mounts throughout",
+        "Hâfız Osman meşk inscriptions; 14 kıtʿa by 6 calligraphers; dated AH 1110–1113"
+      ],
+      "visual_confirmation": "confirmed",
+      "primary_tradition": "ottoman",
+      "workshop_centre": "Istanbul",
+      "confidence": 0.92,
+      "catalogued_date": "2026-02-28"
+    },
+    {
+      "record_id": "hamidiye_00010",
+      "collection": "Süleymaniye Kütüphanesi — Hamidiye Koleksiyonu",
+      "shelfmark": "00010",
+      "title": "Murakkaʿāt / مرقعات",
+      "author": null,
+      "date_ah": "1082",
+      "date_ce": "1671–72",
+      "decoration_types": [
+        "marbled",
+        "colored",
+        "halkar_margins",
+        "framing_system"
+      ],
+      "paper_categories": [
+        "battal ebru (kapak)",
+        "lacivert mülevven (yazı zemini)",
+        "tahrirli halkâr",
+        "çok katmanlı cedvel"
+      ],
+      "key_features": [
+        "Blue (lacivert) mülevven used as calligraphy WRITING SURFACE on 5/8 pages — rare function",
+        "Vivid polychrome battal ebru cover (6+ colors) — most chromatic in corpus",
+        "Tahrirli halkâr with şems (sunflower) rosette on p010 — large-scale botanical composition",
+        "Dated AH 1082 / 1671–72; attributed to Hâfız Osman on cover inscription; 7+ layer cedvel"
+      ],
+      "visual_confirmation": "confirmed",
+      "primary_tradition": "ottoman",
+      "workshop_centre": "Istanbul",
+      "confidence": 0.93,
+      "catalogued_date": "2026-02-28"
+    },
+    {
+      "record_id": "tiem_02649",
+      "collection": "Türk ve İslam Eserleri Müzesi",
+      "shelfmark": "02649",
+      "title": "Murakkaʿ / مرقع",
+      "author": null,
+      "date_ah": "923",
+      "date_ce": "1517",
+      "decoration_types": [
+        "colored",
+        "framing_system"
+      ],
+      "paper_categories": [
+        "mülevven kâğıt",
+        "lacivert kâğıt",
+        "altın cetvelli",
+        "vassale monte"
+      ],
+      "key_features": [
+        "EARLIEST dated murakkaʿ in TIEM triage — AH 923/1517 by Ahmed Şemseddîn Karahisârî (d. 963/1556)",
+        "Multi-colored mülevven program: at least 6 distinct hues (red, pink, lacivert, green/teal, sage green, maroon) — most extensive polychrome sequence in corpus",
+        "Lacquer (lake/ruganî) binding with gold shamsa medallion and salbek pendants",
+        "Calligraphic album of 24 pieces in 5 scripts (muhakkak, reyhânî, tevkîʿ, sülüs, nesih); vassale-mounted panels"
+      ],
+      "visual_confirmation": "confirmed",
+      "primary_tradition": "ottoman",
+      "workshop_centre": "Istanbul — nakkaşhâne-i hümâyun context (probable)",
+      "confidence": 0.97,
+      "catalogued_date": "2026-02-28"
+    },
+    {
+      "record_id": "yazma_bagislar_09315",
+      "collection": "Süleymaniye Kütüphanesi — Yazma Bağışlar",
+      "shelfmark": "09315",
+      "title": "Murakkaat / مرقعات",
+      "author": null,
+      "date_ah": null,
+      "date_ce": "late 17th century (c. 1670–1698)",
+      "decoration_types": [
+        "marbled",
+        "colored",
+        "framing_system"
+      ],
+      "paper_categories": [
+        "battal ebru",
+        "altın cetvelli",
+        "pembe iç çerçeve"
+      ],
+      "key_features": [
+        "Battal ebru on every page including covers and doublures — YEK Ebru 1-10 fully confirmed",
+        "Two-color-coordinated battal ebru scheme: blue-grey exterior/outer borders + pink/rose doublures/inner borders",
+        "Polychrome battal ebru variant on p007; vassale-mounted sülüs kıtʿalar throughout",
+        "Attributed to Hâfız Osmân (d. 1110/1698) — uncertain (YEK marks with ?); sülüs script throughout"
+      ],
+      "visual_confirmation": "confirmed",
+      "primary_tradition": "ottoman",
+      "workshop_centre": "Istanbul",
+      "confidence": 0.98,
+      "catalogued_date": "2026-02-28"
+    },
+    {
+      "record_id": "hap_00375m1",
+      "collection": "Köprülü Kütüphanesi (Hacı Ahmed Paşa Koleksiyonu)",
+      "shelfmark": "00375M1",
+      "title": "Murakkaʿ / مرقع",
+      "author": null,
+      "date_ah": null,
+      "date_ce": "16th–17th century (probable compilation date; component miniatures possibly 15th–16th c.)",
+      "decoration_types": [
+        "marbled",
+        "gold_sprinkled",
+        "colored",
+        "illuminated_margins",
+        "framing_system"
+      ],
+      "paper_categories": [
+        "hatip ebru (sümbüllü — hyacinth motif)",
+        "battal ebru",
+        "yeşil serpme / zerefşân",
+        "mülevven kâğıt",
+        "tezhipli serlevha",
+        "şemse madalyon",
+        "deri cilt şemse+salbek"
+      ],
+      "key_features": [
+        "MOST COMPLEX album in Tier 1 batch: 20 miniatures + calligraphic kıtʿa + tezhip + multiple decorated paper types",
+        "Matching hatip ebru doublures at BOTH covers: red/brown battal ebru ground + central blue sümbül (hyacinth) with green stem — classic Ottoman luxury doublure format",
+        "Illuminated opening (p003): vesica shamsa medallion (gold/lapis/green layers, shelfmark '375' in center) paired with serlevha kıtʿa (gold+lapis headpiece, hatayi+rumi)",
+        "Full-page battle miniature (p022 left) in Safavid/Timurid style (blue-grey ground, dense polychrome composition); green-speckled margin paper on facing calligraphic page",
+        "YEK catalogue critically silent on decorated paper program — all decoration evidence from IIIF visual analysis",
+        "Köprülü Library (Hacı Ahmed Paşa sub-collection); waqf 1678; YEK ID 363459; IIIF up to 11,470 px"
+      ],
+      "visual_confirmation": "confirmed",
+      "primary_tradition": "ottoman",
+      "workshop_centre": "Istanbul (album assembly and binding); component miniatures possibly Safavid/Timurid atelier",
+      "confidence": 0.93,
+      "catalogued_date": "2026-02-28"
+    },
+    {
+      "record_id": "tiem_02482",
+      "collection": "Türk ve İslam Eserleri Müzesi",
+      "shelfmark": "02482",
+      "title": "Murakkaʿ / مرقع",
+      "author": null,
+      "date_ah": null,
+      "date_ce": "late 17th–early 18th century (c. 1688–1718)",
+      "decoration_types": [
+        "other",
+        "marbled",
+        "gold_sprinkled",
+        "colored",
+        "framing_system"
+      ],
+      "paper_categories": [
+        "blok-baskılı kâğıt (nar deseni)",
+        "battal ebru",
+        "zerefşân",
+        "altın cetvelli"
+      ],
+      "key_features": [
+        "Block-printed/silhouetted POMEGRANATE PATTERN paper confirmed — 2 color variants (vermillion + navy, and green + ochre)",
+        "Battal ebru margins on calligraphy openings; zerefşân endpapers/doublures",
+        "Calligrapher Kâtibzade; 20 text pieces (hadith, prayers, Hz. Ali sayings) in sülüs/nesih",
+        "YEK ID 705418; IIIF ID 0000000662631; 14 pages"
+      ],
+      "visual_confirmation": "confirmed",
+      "primary_tradition": "ottoman",
+      "workshop_centre": "Istanbul",
+      "confidence": 0.92,
+      "catalogued_date": "2026-02-28"
+    },
+    {
+      "record_id": "tiem_02418",
+      "collection": "Türk ve İslam Eserleri Müzesi",
+      "shelfmark": "02418",
+      "title": "Murakkaʿ / مرقع",
+      "author": null,
+      "date_ah": "1106",
+      "date_ce": "1694–95",
+      "decoration_types": [
+        "marbled",
+        "gold_sprinkled",
+        "framing_system"
+      ],
+      "paper_categories": [
+        "hatip ebru",
+        "gel-git ebru",
+        "altın cetvelli"
+      ],
+      "key_features": [
+        "Hatip ebru + gel-git ebru + battal ebru: triple marbling-type album",
+        "Lacquer (lake/ruganî) binding with gold shamsa — confirmed by visual inspection",
+        "Calligrapher Muhammed Hocazade (Hacezade); dated AH 1106/1694-95",
+        "YEK ID corrected: 705355→705368; IIIF ID 0000000662581; 10 pages"
+      ],
+      "visual_confirmation": "confirmed",
+      "primary_tradition": "ottoman",
+      "workshop_centre": "Istanbul",
+      "confidence": 0.95,
+      "catalogued_date": "2026-02-28"
+    },
+    {
+      "record_id": "tiem_02437",
+      "collection": "Türk ve İslam Eserleri Müzesi",
+      "shelfmark": "02437",
+      "title": "Muraqqaʿ / مرقع",
+      "author": null,
+      "date_ah": null,
+      "date_ce": "late 17th century (c. 1680–1698)",
+      "decoration_types": [
+        "gold_sprinkled",
+        "colored",
+        "illuminated_margins",
+        "framing_system"
+      ],
+      "paper_categories": [
+        "pembe zerefşân",
+        "yeşil zerefşân",
+        "lacivert zerefşân",
+        "koltuk tezhibi",
+        "altın cetvelli"
+      ],
+      "key_features": [
+        "THREE distinct colored zerefşân types: pink (endpapers), sage-green (p003 margins), blue/lacivert (p004 margins)",
+        "Chromatic progression: pink→green→blue→pink — systematic polychrome zerefşân program",
+        "Hâfız Osmân ketebe (d. 1110/1698); 4 kıtʿa in sülüs/muhakkak/nesih; hadith content",
+        "YEK ID corrected: 705374→705378; IIIF ID 0000000662591; 6 pages"
+      ],
+      "visual_confirmation": "confirmed",
+      "primary_tradition": "ottoman",
+      "workshop_centre": "Istanbul",
+      "confidence": 0.93,
+      "catalogued_date": "2026-02-28"
+    },
+    {
+      "record_id": "yb_02955",
+      "collection": "Süleymaniye Kütüphanesi — Yazma Bağışlar",
+      "shelfmark": "02955",
+      "title": "Muraqqaʿāt / مرقعات",
+      "author": null,
+      "date_ah": "1318",
+      "date_ce": "1900–01",
+      "decoration_types": [
+        "marbled",
+        "colored",
+        "framing_system"
+      ],
+      "paper_categories": [
+        "battal ebru (4 palet)",
+        "somaki ebru",
+        "gel-git ebru (kapak şeridi)",
+        "altın cetvelli",
+        "renkli iç çerçeve"
+      ],
+      "key_features": [
+        "Full-album battal ebru in FOUR distinct color palettes: polychrome cover → crimson somaki → teal → dark grey",
+        "Chromatic arc: warm/vivid (front) → cool/dark (close) — most elaborate multi-palette ebru in corpus",
+        "Hasan Rızâ Efendi (d. 1920), dated AH 1318/1900-01; landscape orientation (rare for murakka)",
+        "YEK catalogue completely undocumented for decoration; YEK ID 346533; IIIF ID 0000000335457; 9 pages"
+      ],
+      "visual_confirmation": "confirmed",
+      "primary_tradition": "ottoman",
+      "workshop_centre": "Istanbul",
+      "confidence": 0.97,
+      "catalogued_date": "2026-02-28"
+    },
+    {
+      "record_id": "na_00084",
+      "collection": "Süleymaniye Kütüphanesi — Nuri Arlasez Koleksiyonu",
+      "shelfmark": "NA 00084",
+      "title": "Murakkaʿ / مرقعات",
+      "author": null,
+      "date_ah": null,
+      "date_ce": "late 18th–early 19th century (c. 1790–1826)",
+      "decoration_types": [
+        "marbled",
+        "framing_system"
+      ],
+      "paper_categories": [
+        "hatip ebru (tam sayfa)",
+        "battal ebru (kenar bordürü)",
+        "çok renkli cedvel"
+      ],
+      "key_features": [
+        "One of FINEST hatip ebru specimens in corpus — full-page leaf in 6+ colors (blue, orange, ochre, green, maroon, cream)",
+        "Two distinct ebru types (hatip + battal) in single 2-folio album — unique in corpus",
+        "Ownership note: 'merhum Mustafa Râkım Efendi' (d. 1826) — major calligrapher attribution",
+        "Compound multi-line cedvel (dark blue, red, gold, green); meşk exercises on p002; YEK ID 406000; IIIF ID 0000000398421"
+      ],
+      "visual_confirmation": "confirmed",
+      "primary_tradition": "ottoman",
+      "workshop_centre": "Istanbul",
+      "confidence": 0.97,
+      "catalogued_date": "2026-02-28"
+    },
+    {
+      "record_id": "sm_00009",
+      "collection": "Süleymaniye Kütüphanesi — Süleymaniye Murakka Koleksiyonu",
+      "shelfmark": "SM 00009",
+      "title": "Murakkaʿ / مرقعات",
+      "author": null,
+      "date_ah": null,
+      "date_ce": "late 18th century (c. 1787 terminus ante quem, Fethizâde vakf seal)",
+      "decoration_types": [
+        "gold_sprinkled",
+        "halkar_margins",
+        "marginal_drawings",
+        "framing_system"
+      ],
+      "paper_categories": [
+        "zerefşân",
+        "tahrirli halkâr",
+        "teşʿîr (şükûfe)",
+        "altın cetvelli"
+      ],
+      "key_features": [
+        "TRIPLE-TECHNIQUE album: tughra + zerefşân + halkâr — all confirmed at IIIF resolution",
+        "Tughra calligraphy on gold zerefşân ground with polychrome halkar margins",
+        "Three calligraphers identified by ketebe: İsmâʿîl Zühdî, Mahmûd Tophanevî, Hâfız Yûsuf",
+        "Fethizâde Mustafa Efendi vakf seal dated AH 1202/1787-88 (terminus ante quem); YEK ID 325921; 20 pages"
+      ],
+      "visual_confirmation": "confirmed",
+      "primary_tradition": "ottoman",
+      "workshop_centre": "Istanbul",
+      "confidence": 0.94,
+      "catalogued_date": "2026-02-28"
     }
   ]
 }

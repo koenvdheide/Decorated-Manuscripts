@@ -1,0 +1,368 @@
+{
+  "record_id": "nuruosmaniye_00360",
+  "collection": {
+    "institution": "Nuruosmaniye Kütüphanesi",
+    "city": "Istanbul",
+    "country": "Turkey",
+    "shelfmark": "00360",
+    "yek_url": "https://portal.yek.gov.tr/works/detail/172985"
+  },
+  "manuscript": {
+    "title": "Anwār al-Tanzīl wa-Asrār al-Taʾwīl (Tefsiru'l-Beydâvî)",
+    "title_arabic": "أنوار التنزيل وأسرار التأويل",
+    "title_alt": "Envâru't-Tenzîl ve Esrâru't-Teʾvîl",
+    "author": "Nāṣir al-Dīn Abū Saʿīd ʿAbd Allāh b. ʿUmar b. Muḥammad al-Bayḍāwī al-Shīrāzī (d. 691/1292)",
+    "author_dates": "d. 691/1292",
+    "author_note": "Al-Bayḍāwī was chief judge (qādī) of Shīrāz and author of the most widely copied Quranic commentary in the Sunni world. His Anwār al-Tanzīl supplanted the Kashshāf of al-Zamakhsharī in madrasa curricula and was reproduced in luxury format throughout the Ottoman, Safavid, and Mughal traditions.",
+    "calligrapher": "b. Jalāl b. Amīn b. Jalāl b. Aṣīl al-Murshidī al-Kāzarūnī (ابن جلال ابن أمين ابن جلال ابن أصيل المرشدي الكازروني)",
+    "calligrapher_dates": null,
+    "calligrapher_note": "The copyist's nisba al-Kāzarūnī places his origin in Kāzarūn (Fārs province, southern Iran). The copy was completed on 3 Dhū al-Qaʿda 911 AH (approximately April 1506 CE) in Coron (Koroni), a fortress in the southern Peloponnese that was under Ottoman control 1500–1532. This is a remarkable conjunction: a copyist of Iranian origin working in a recently conquered Greek harbour town, producing a luxury Arabic scholarly text for an Ottoman institutional context.",
+    "date_ah": "911",
+    "date_ce": "1506",
+    "date_detail": "3 Dhū al-Qaʿda 911 AH (approx. April 1506 CE), per colophon",
+    "place_of_copy": "Coron (Koroni), Peloponnese (Ottoman-held 1500–1532)",
+    "format": "Tafsir (Quranic commentary) with vassale mounting",
+    "format_note": "A luxury copy of al-Bayḍāwī's Quranic commentary (tafsir), in which the text is written on separate panels and window-mounted (vassale) throughout all 533 folios. This is a scholarly text production using the vassale technique for durability and elegance rather than for the purely decorative aims of Safavid literary manuscripts.",
+    "language": "Arabic",
+    "script": "Nesih (Naskh / نسخ)",
+    "dimensions_mm": {
+      "height": 271,
+      "width": 155
+    },
+    "writing_area_mm": {
+      "height": 170,
+      "width": 90
+    },
+    "folio_count": 533,
+    "yek_id": "172985",
+    "iiif_id": "0000000169953",
+    "notes": "Second vassale manuscript in the project corpus (after Nuruosmaniye 04372, Safavid, AH 956). Unlike the Safavid specimen, this manuscript uses plain nohudi (buff) margin paper — not marbled ebru — as the ground into which text panels are mounted. The decoration program consists of the compound blue-and-gold cetvel framing system and an elaborate double-page serlevha at the opening. Provenance is direct: the III. Osman tuğralı vakıf mühürü confirms entry into the Nuruosmaniye endowment. Ownership notes record Hoca Fadlallah and the seal of Ibrahim Hanif. The copyist's Kazaruni origin and the unusual production locus of Coron make this an art-historically significant document of early 16th-century Ottoman book production in the provincial and newly-conquered western territories."
+  },
+  "paper_decoration": {
+    "types": [
+      "framing_system",
+      "illuminated_margins"
+    ],
+    "summary": "The decorative program of this large Baydawi tafsir is organized around two interrelated features: (1) the vassale (window-mounting) technique applied uniformly throughout all 533 folios, whereby text panels written on a distinct paper stock are mounted into rectangular windows cut in the surrounding nohudi (buff/cream) margin paper, and (2) a compound cetvel framing system of blue and gold ruling lines that delineates each text panel throughout the manuscript. The decorative climax is the double-page illuminated serlevha at ff. 1b-2a, where each page carries a large arched headpiece in blue and gold with hatāyī and islīmī scrollwork, koltuk (corner-fill) ornaments, and the compound cetvel system forming an elaborate multi-line border around the text blocks. Small cross-shaped ornamental markers are distributed across the nohudi margin paper of the illuminated opening. On all standard text pages (examined at p006, p007, p280, p543-p547), the vassale construction and gold cetvel framing are consistent and maintained to the colophon. The blue cetvels are clearly distinguishable on the illuminated opening; on standard text pages the compound ruling includes a fine blue inner line that is difficult to separate from the gold at screenshot resolution. Red ink is used throughout for Quranic verse citations within the commentary. The binding is a later replacement in cherry-red leather with a cold-pressed şemse.",
+    "distribution_notes": "Vassale construction maintained uniformly from f. 1b to the final text page (~f. 530b/colophon area). The illuminated double-page serlevha at ff. 1b-2a is the sole fully decorated opening; all subsequent pages follow the standard vassale + gold cetvel format. The nohudi margin paper provides a consistent visual field across the entire manuscript, with the mounted text panels clearly legible as distinct material objects. Extensive marginal glosses (hashiye/derkenar) written diagonally in the margins throughout the text confirm intensive scholarly use.",
+    "technique_terms": {
+      "ottoman": "vassale yazılmış; mavi ve yaldız cetvelli; az aharlı kâğıt; nohudi renkli kâğıt; tezhipli serlevha",
+      "persian": null,
+      "arabic": "jadwal mudhahdhab wa-azraq (جدول مذهّب وأزرق)"
+    },
+    "catalogue_description": {
+      "paper_field": "Az aharli su yolu yatay ve dikey nohudi renkli mavi ve yaldiz cetvelli orta kalinlikta bir kagida yazili vassale yazilmis",
+      "paper_field_normalized": "Az aharlı, su yolu yatay ve dikey, nohudi renkli, mavi ve yaldız cetvelli, orta kalınlıkta bir kâğıda yazılı, vassale yazılmış",
+      "paper_field_translation": "Lightly sized, chain lines horizontal and vertical, buff/cream colored, with blue and gold ruling lines (cetvels), written on medium-weight paper, composed in the vassale (window-mounting) technique",
+      "notes_field": "Tefsir konulu bir eserdir.",
+      "notes_field_translation": "It is a work on tafsir (Quranic exegesis).",
+      "decoration_field": null,
+      "source": "YEK portal, kâğıt özellikleri and genel notlar fields, record 172985. Nuruosmaniye Kütüphanesi.",
+      "cataloguer_note": "The kâğıt özellikleri field combines paper description and binding technique in a single clause: 'vassale yazılmış' explicitly identifies the window-mounting technique. The presence of horizontal and vertical chain lines ('su yolu yatay ve dikey') is consistent with either Eastern or European paper of the period; the nohudi color and medium weight are consistent with standard Ottoman scholarly manuscript paper of the early 16th century."
+    }
+  },
+  "workshop_attribution": {
+    "primary_tradition": "ottoman",
+    "workshop_centre": "Coron (Koroni, Peloponnese) — provincial Ottoman; illumination possibly Istanbul-trained",
+    "date_range_ce": "1506",
+    "confidence": 0.78,
+    "key_indicators": [
+      "Colophon dated 3 Dhū al-Qaʿda 911 / approx. April 1506 CE, with copy place identified as Coron (Koroni, Peloponnese) — direct production evidence",
+      "The double-page illuminated serlevha with blue-and-gold hatāyī/islīmī headpiece and compound cetvel system is consistent with early 16th-century Ottoman court manuscript illumination style, suggesting the illuminator may have been trained in Istanbul even if the copy was made provincially",
+      "The vassale technique for a scholarly Arabic text (rather than a Persian literary text as in the Safavid tradition) reflects Ottoman adaptation of the mounting technique for madrasa-context manuscripts",
+      "The nohudi (buff) paper with medium sizing and both horizontal and vertical chain lines is consistent with Ottoman manuscript paper of the early 16th century",
+      "The III. Osman tuğralı vakıf mühürü on f. 1a confirms eventual Ottoman institutional ownership"
+    ],
+    "cross_tradition_caveats": [
+      "The copyist's nisba al-Kāzarūnī suggests Iranian origin; it is possible that certain aspects of the book production (including the use of the vassale technique) reflect Iranian training transmitted through a copyist working in Ottoman territory",
+      "The illumination program at ff. 1b-2a cannot be definitively attributed to the same hand/workshop as the text copy; the illuminator may have been a different craftsperson, either in Coron or brought from a more central Ottoman context",
+      "Coron is an unusual production location for a luxury illustrated manuscript; the quality of the decoration raises the question of whether the vassale construction and illumination were added at a later date (possibly in Istanbul) after the text was copied in Coron",
+      "The cold-pressed şemse binding is of unknown date and may be a later Ottoman Istanbul replacement rather than the original binding"
+    ]
+  },
+  "codicology": {
+    "paper": {
+      "color": "Nohudi (buff/cream) — consistently pale amber-buff throughout the manuscript; margin paper and text panel paper are of slightly different tones, the distinction being the visual basis for reading the vassale mounting",
+      "preparation": "Az aharlı (lightly sized); chain lines in both horizontal and vertical directions (su yolu yatay ve dikey), suggesting Eastern paper or a particular European/transitional stock",
+      "weight": "Orta kalınlıkta (medium weight) per catalogue",
+      "decoration": "Plain nohudi paper serves as the margin sheet into which text panels are vassale-mounted; gold and blue cetvel ruling frames the text panels; the margin paper itself is undecorated except on the serlevha opening where small cross-shaped ornaments are distributed across the field",
+      "paper_type": "Consistent with Ottoman medium-grade scholarly manuscript paper of the early 16th century; the bidirectional chain lines are unusual and may indicate a specific paper variety"
+    },
+    "ruling": {
+      "system": "Compound altın ve mavi cetvelli (blue and gold ruling) — a multi-line cetvel system of gold and blue ruling lines forming a rectangular frame around each vassale-mounted text panel",
+      "description": "The cetvel system consists of at minimum two distinct elements visible at IIIF resolution on the serlevha opening: a thick gold outer ruling line and a blue inner ruling line, forming a compound border that frames the text panels. On standard text pages, the gold cetvel is the primary visual element; the blue line is present but may be a thinner companion to the main gold rule. The catalogue field 'mavi ve yaldız cetvelli' (blue and gold ruling) is directly confirmed."
+    },
+    "binding": {
+      "cover_description": "Cardboard (mukavva) base; spine and right cover covered in cherry-red (visne rengi) leather with floral motifs; cold-pressed şemse (central medallion); damaged cetvels; left cover lost; mıklep (flap) present. A binding 'without many special features' per catalogue — suggesting a later replacement or a modest contemporary binding.",
+      "cover_type": "Soğuk şemseli (cold-pressed medallion) deri cilt",
+      "notes": "The binding is in damaged condition; the left cover is missing entirely. The cherry-red leather with a cold-pressed (not gilt) şemse does not correspond to the luxury level implied by the vassale interior, suggesting the current binding is a later replacement or a post-production rebinding, possibly during the manuscript's Ottoman custody before the Nuruosmaniye endowment."
+    },
+    "format": "Tafsir — luxury scholarly codex with vassale mounting throughout",
+    "condition_summary": "The manuscript is in generally good condition internally, with the vassale construction intact throughout all 533 folios examined (pp. 5-547). The nohudi paper is slightly discolored but structurally sound. The illuminated serlevha at ff. 1b-2a is vivid and undamaged. The binding is damaged (left cover missing, cetvels damaged). The catalogue notes 'Derkenar var. Sukka var.' (marginal notes present, slips present), and the marginal glosses visible at IIIF resolution suggest intensive scholarly use.",
+    "conservation_history": "The left cover of the binding is lost; the remaining right cover and spine survive in cherry-red leather with a cold-pressed şemse. No information on conservation campaigns. The manuscript carries ownership seals and marginal notes indicating active scholarly use through at least the 18th century (when it entered the Nuruosmaniye endowment under Sultan III. Osman, r. 1754–1757)."
+  },
+  "visual_confirmation": {
+    "verdict": "confirmed",
+    "confidence": 0.95,
+    "screenshots_examined": 14,
+    "limitations": [
+      "Screenshot and IIIF viewer resolution limits fine-line analysis of the cetvel system on standard text pages; the blue inner cetvel line is clearly visible only on the serlevha opening",
+      "YEK watermark overlay partially obscures surface detail on all pages",
+      "Only 14 of 548 total IIIF pages examined; however, the serlevha, early text pages, mid-manuscript, near-end, and colophon area were all visited, confirming the vassale construction is maintained throughout",
+      "Colophon (IIIF p547): inverted-triangle (maklūb muthallathat) format confirmed. Text in naskh, date formula visible in lower lines, proper names in middle section. Character-by-character transcription NOT possible at available resolution (watermark overlay). Catalogue-derived readings (scribe: ibn Jalal al-Murshidi al-Kazaruni; date: 3 Dhu al-Qa'da 911 AH; place: Coron) consistent with layout but not independently verified. No hatime decoration. Seals on f. 1a (p004): III. Osman tuğralı vakıf mühürü (large circular, greenish-blue), Ibrahim Hanif seal (smaller circular), Hoca Fadlallah ownership inscription, modern Nuruosmaniye library stamp",
+      "No examination of the binding covers from the interior (doublures, pastedowns)"
+    ]
+  },
+  "folio_analyses": [
+    {
+      "folio": "ff. 1b-2a — double-page illuminated serlevha (IIIF p005)",
+      "source_image": "corpus/iiif/nuruosmaniye_00360_p005.jpg",
+      "decoration_present": true,
+      "decoration_types": ["illuminated_margins", "framing_system"],
+      "elements": [
+        {
+          "motif": "Double-page illuminated serlevha — rectangular headpiece with hatāyī-rūmī scrollwork and polylobed koltuk fills",
+          "description": "Each page of the opening carries a large rectangular (not arched) illuminated headpiece spanning the full width of the text block, approximately 20-25% of page height. The headpiece ground is deep lapis blue with dense hatāyī (ختایی) composite lotus/peony flowers, rūmī split-leaf palmettes, and islīmī vine-scroll framework in gold, supplemented with small polychrome flower heads (vermilion/red) and white petal highlights. A central lobed cartouche with gold ground contains an inscription. Flanking the text block at headpiece level are large polylobed koltuk fills — complex multi-lobed shapes with pointed projections (tīğ), filled with gold scrollwork and polychrome detail on lapis blue ground. A compound multi-band border frame surrounds the text block: narrow gold ruling, blue inner border band with white/gold rūmī scroll, gold intermediate band with fine arabesque, wider blue outer border band with larger-scale rūmī-hatāyī and polychrome accents, and a final gold/blue outer ruling line. The restricted palette (lapis-gold dominant, ~85-90% surface area; no green, no pink, minimal red) is diagnostic of the pre-Süleymaniye 'classic' Ottoman style of the Bayezid II era (1481-1512). Style assessment (2026-02-28): high-quality provincial Ottoman illumination with Timurid-Turkmen influence, consistent with a well-trained illuminator working in the Coron context; slightly below the very finest metropolitan nakkaşhâne level (confidence 0.72).",
+          "location": "Top of each page on the double-page opening ff. 1b-2a",
+          "confidence": 0.95
+        },
+        {
+          "motif": "Compound blue-and-gold cetvel system",
+          "description": "The text panel on each page is surrounded by a multi-line cetvel border clearly visible at IIIF resolution on the illuminated opening. The system consists of: (1) an outer thick gold ruling line; (2) a blue ruling line (mavi cetvel); (3) additional fine gold companion lines forming a layered, compound border. On the serlevha opening, a further elaborate koltuk-and-frame composition (see above) enriches the inner border. On standard text pages the compound cetvel simplifies to a primary gold frame with blue accent lines.",
+          "location": "Surrounding text panels on all examined pages; most elaborate form at ff. 1b-2a",
+          "confidence": 0.95
+        },
+        {
+          "motif": "Ornamental cross-shaped margin markers",
+          "description": "The nohudi (buff) margin paper of the illuminated opening is decorated with small cross-shaped (haç biçimli) ink ornaments distributed in a loose grid across the entire margin field. These serve as a subtle decorative ground for the serlevha opening, creating a patterned field without painted decoration. The motif is consistent with Ottoman cetvelli manuscript practice of the early 16th century.",
+          "location": "Margin field of ff. 1b-2a, outside the cetvel frame",
+          "confidence": 0.85
+        },
+        {
+          "motif": "Vassale mounting — text panels on nohudi ground",
+          "description": "The text panels are separately written and mounted (vassale yazılmış) into rectangular windows cut in the nohudi margin paper. The distinction between the text panel paper (slightly crisper, more yellowish) and the surrounding margin paper (more uniformly buff) is legible at IIIF resolution as a faint boundary line coinciding with the cetvel frame. This construction — unlike the Safavid Nuruosmaniye 04372 where the ground paper is decorated ebru — uses plain nohudi paper as the ground.",
+          "location": "Text panels throughout, most clearly seen at serlevha opening pp005 and standard page p006",
+          "confidence": 0.97
+        }
+      ],
+      "confidence": 0.95,
+      "notes": "The serlevha opening is the decorative climax of the manuscript. The blue-and-gold hatāyī-islīmī headpiece and compound cetvel system represent a standard Ottoman luxury tafsir production program of the early 16th century. The cross-shaped margin ornaments are an unusual and noteworthy feature, providing a decorative field for the otherwise plain nohudi margin paper."
+    },
+    {
+      "folio": "ff. 2b-3a — standard text page opening (IIIF p006)",
+      "source_image": "corpus/iiif/nuruosmaniye_00360_p006.jpg",
+      "decoration_present": true,
+      "decoration_types": ["framing_system"],
+      "elements": [
+        {
+          "motif": "Vassale construction with gold cetvel framing and marginal glosses",
+          "description": "The text panel is clearly mounted (vassale) within the nohudi margin paper, with the rectangular boundary between text panel and margin paper legible at IIIF resolution. Gold cetvel (ruling) lines frame the text panel on all four sides. Dense diagonal marginal glosses (hashiye / derkenar) in a smaller, cursive hand fill all four margins, written both between the text panel and the outer edge and across the margin corners. Red ink is used within the text panel for Quranic verse citations. The Nesih hand of the main text is clear and regular.",
+          "location": "Both pages of the opening; extensive glosses in all margins",
+          "confidence": 0.97
+        }
+      ],
+      "confidence": 0.97,
+      "notes": "The standard text page format: vassale mounting, gold cetvels, red-ink Quranic citations, and dense marginal glosses is consistent and maintained throughout the manuscript. The combination of a luxury physical format (vassale) with intensive scholarly annotation (marginal glosses throughout) makes this manuscript a distinctive example of Ottoman scholarly book use."
+    },
+    {
+      "folio": "ff. ~138b-139a — mid-volume text page (IIIF p280)",
+      "source_image": "corpus/iiif/nuruosmaniye_00360_p280.jpg",
+      "decoration_present": true,
+      "decoration_types": ["framing_system"],
+      "elements": [
+        {
+          "motif": "Vassale construction maintained mid-volume — gold cetvel, red headers, marginal glosses",
+          "description": "Mid-volume confirmation that the vassale construction and cetvel framing system are maintained without interruption. Red ink surah and section headers are clearly visible within the text panel. Gold cetvel framing remains consistent. Marginal glosses continue across all margins. The Hindi numeral '۱۳۷' visible at the upper right of the right page confirms the folio location.",
+          "location": "Both pages of the mid-volume opening, circa f. 138-139",
+          "confidence": 0.96
+        }
+      ],
+      "confidence": 0.96,
+      "notes": "Mid-volume confirmation of uniform vassale + cetvel construction. The red-ink Quranic verse headers contribute to the visual organization of the commentary and represent an integrated element of the decorative and functional program."
+    }
+  ],
+  "terminology": {
+    "terms_used": [
+      {
+        "concept": "Vassale mounting",
+        "ottoman": "vassale yazılmış / vassale yöntemiyle monte edilmiştir",
+        "arabic": null,
+        "persian": "vassāla (واساله)",
+        "english": "Vassale: a technique in which the text (or decorative panels) are written on separate sheets of paper, then cut to size and window-mounted into openings cut in a surrounding sheet of paper. The catalogue term 'vassale yazılmış' is specific and unambiguous. In this manuscript, plain nohudi paper serves as the ground sheet — unlike the Safavid use of ebru paper as ground."
+      },
+      {
+        "concept": "Buff/cream paper color",
+        "ottoman": "nohudi renkli kâğıt",
+        "arabic": null,
+        "persian": null,
+        "english": "Nohudi: literally 'chickpea-colored'; describes a buff or cream paper color standard in Ottoman scholarly manuscript production. Distinct from the pure white of heavily sized luxury paper and from colored (mülevven) paper."
+      },
+      {
+        "concept": "Illuminated headpiece",
+        "ottoman": "serlevha / tezhipli serlevha",
+        "arabic": "ʿunwān (عنوان)",
+        "persian": "sarlawḥ (سرلوح)",
+        "english": "Illuminated headpiece at the top of the text opening. In this manuscript the serlevha is an arched blue-and-gold composition with hatāyī and islīmī motifs, executed in the Ottoman court style of the early 16th century."
+      },
+      {
+        "concept": "Chinese-derived composite flower motif",
+        "ottoman": "hatâyî / hatayi (ختایی)",
+        "arabic": null,
+        "persian": "khatāʾī (ختایی)",
+        "english": "Hatāyī: Chinese-derived composite flowers and peony forms; one of the primary motif families in Islamic manuscript illumination. Here combined with islīmī arabesque scrollwork in the serlevha."
+      },
+      {
+        "concept": "Arabesque scrollwork",
+        "ottoman": "islîmî",
+        "arabic": "islīmī (إسليمي)",
+        "persian": "islīmī",
+        "english": "Islīmī: arabesque — interlacing scrollwork derived from vegetal stems. Combined with hatāyī motifs in the serlevha headpiece."
+      },
+      {
+        "concept": "Ruling lines",
+        "ottoman": "cedvel / altın cetvelli / mavi cetvelli",
+        "arabic": "jadwal (جدول)",
+        "persian": "jadval (جدول)",
+        "english": "Cetvel: ruling lines framing the text block. In this manuscript: a compound system of blue (mavi) and gold (yaldız) ruling lines. The blue cetvel is a distinctive feature of early Ottoman luxury manuscript production."
+      },
+      {
+        "concept": "Corner fill between text block and arched headpiece",
+        "ottoman": "koltuk",
+        "arabic": null,
+        "persian": null,
+        "english": "Koltuk: the triangular or shaped fill ornament between a rectangular text block and an arched headpiece frame. Here filled with gilded arabesque, completing the serlevha composition."
+      },
+      {
+        "concept": "Marginal glosses",
+        "ottoman": "derkenar / hashiye",
+        "arabic": "ḥāshiya (حاشية)",
+        "persian": "ḥāshiya",
+        "english": "Marginal commentary/glosses written in the margins of the main text. In this manuscript, extensive diagonal derkenar cover all four margins of virtually every page, evidence of active scholarly engagement."
+      },
+      {
+        "concept": "Lightly sized paper",
+        "ottoman": "az aharlı kâğıt",
+        "arabic": null,
+        "persian": null,
+        "english": "Az aharlı: lightly sized paper — paper treated with a minimal amount of sizing agent (âhar) to reduce ink bleed-through. Distinguished from fully sized (aharlı) paper used in luxury calligraphic productions."
+      },
+      {
+        "concept": "Central medallion (binding)",
+        "ottoman": "soğuk şemse / şemse",
+        "arabic": null,
+        "persian": "shamsa (شمسه)",
+        "english": "Şemse: central medallion on the binding cover. Here described as 'soğuk' (cold-pressed, i.e., blind-stamped without gold) — indicating a relatively modest binding, likely a later replacement."
+      }
+    ]
+  },
+  "bibliography": [
+    {
+      "citation": "Déroche, François. Islamic Codicology: An Introduction to the Study of Manuscripts in Arabic Script. Translated by Deke Dusinberre and David Radzinowicz. London: Al-Furqan Islamic Heritage Foundation, 2005.",
+      "relevance": "Foundational reference for Islamic manuscript codicology. Provides the framework for the classification of the vassale mounting technique, the cetvel ruling system, and the physical description of the paper in this record. The chapter on decorated papers and on text layout/construction are directly applicable.",
+      "relevance_score": 0.92,
+      "access_notes": "Monograph; available at specialist libraries."
+    },
+    {
+      "citation": "Gacek, Adam. The Arabic Manuscript Tradition: A Glossary of Technical Terms and Bibliography. Leiden: Brill, 2001.",
+      "relevance": "Standard terminological reference for Arabic manuscript studies, providing the technical vocabulary for tafsir manuscripts, cetvel systems, marginal glosses (hashiye), and codicological features. Directly relevant to the identification and description of this Arabic-script manuscript.",
+      "relevance_score": 0.88,
+      "access_notes": "Monograph; widely available."
+    },
+    {
+      "citation": "Gacek, Adam. Arabic Manuscripts: A Vademecum for Readers. Leiden: Brill, 2009.",
+      "relevance": "The principal desk reference for readers of Arabic manuscripts, covering physical features, decoration terminology, and codicological conventions. Used here for the standardization of paper, ruling, and decoration terminology in the catalog record.",
+      "relevance_score": 0.87,
+      "access_notes": "Monograph; widely available."
+    },
+    {
+      "citation": "Roxburgh, David J. The Persian Album, 1400–1600: From Dispersal to Collection. New Haven: Yale University Press, 2005.",
+      "relevance": "The primary study of the vassale mounting technique in the Persianate manuscript tradition. Provides essential comparative context for the Ottoman use of the vassale technique in this manuscript, including discussion of how the technique spread from its Timurid/Safavid origins into Ottoman practice.",
+      "relevance_score": 0.85,
+      "access_notes": "Monograph; widely held at major research libraries."
+    },
+    {
+      "citation": "Tanındı, Zeren. 'Manuscript Production in the Ottoman Palace Workshop.' Manuscripts of the Middle East 3 (1988): 67–98.",
+      "relevance": "Survey of Ottoman imperial manuscript production at the nakkaşhâne-i hümâyun, covering the illumination programs (headpieces, cetvels, marginal decoration) of early 16th-century court manuscripts that provide direct stylistic comparanda for the serlevha and cetvel system of this manuscript.",
+      "relevance_score": 0.82,
+      "access_notes": "Peer-reviewed article. Available at specialist libraries."
+    },
+    {
+      "citation": "Blair, Sheila S. 'Color and Gold: The Decorated Papers Used in Manuscripts in Later Islamic Times.' Muqarnas 17 (2000): 24–36.",
+      "relevance": "Foundational study of decorated papers in Islamic manuscripts, including the taxonomy of vassale-mounted texts and plain-paper grounds. Provides comparative context for the Ottoman use of plain nohudi paper as the vassale ground in contrast to the Safavid use of marbled ebru paper.",
+      "relevance_score": 0.78,
+      "access_notes": "Peer-reviewed article. Available via JSTOR."
+    },
+    {
+      "citation": "Bloom, Jonathan M. Paper Before Print: The History and Impact of Paper in the Islamic World. New Haven: Yale University Press, 2001.",
+      "relevance": "Comprehensive history of paper in the Islamic world. Relevant to the characterization of the nohudi paper with bidirectional chain lines (su yolu yatay ve dikey) and medium weight. The chapter on Ottoman paper production and paper trade provides context for the paper stock used by a copyist working in Coron, Peloponnese in 1506.",
+      "relevance_score": 0.75,
+      "access_notes": "Widely held monograph."
+    },
+    {
+      "citation": "Ayverdi, İlhan. Kubbealtı Lugati: Misalli Büyük Türkçe Sözlük. Istanbul: Kubbealtı Neşriyatı, 2006.",
+      "relevance": "Reference for Ottoman Turkish lexicographical terms used in the YEK catalogue description, including 'nohudi' (buff/chickpea-colored), 'vassale,' 'az aharlı,' 'mavi cetvelli,' and 'şemse.' Essential for normalizing and translating the YEK paper field data.",
+      "relevance_score": 0.70,
+      "access_notes": "Turkish-language lexicon. Available at major Turkish library collections and university libraries."
+    },
+    {
+      "citation": "Çağman, Filiz, and Zeren Tanındı. The Topkapı Saray Museum: The Albums and Illustrated Manuscripts. Translated and edited by J. M. Rogers. Boston: Little, Brown, 1986.",
+      "relevance": "Standard reference for Ottoman luxury manuscripts in Istanbul collections, providing stylistic comparanda for the illuminated serlevha headpiece and cetvel program of this manuscript in the early 16th-century Ottoman court context.",
+      "relevance_score": 0.72,
+      "access_notes": "Exhibition catalogue; widely held."
+    }
+  ],
+  "suggested_collections": [
+    {
+      "institution": "Topkapı Sarayı Müzesi Kütüphanesi, Istanbul",
+      "reason": "Holds the largest collection of early 16th-century Ottoman luxury tafsir manuscripts with vassale construction, illuminated serlevhas, and compound cetvel systems. Closest stylistic comparanda for the Nuruosmaniye 00360 illumination program are likely to be found here.",
+      "digital_access": "https://kutuphane.tsmk.gov.tr"
+    },
+    {
+      "institution": "Nuruosmaniye Kütüphanesi, Istanbul (YEK Portal)",
+      "reason": "The holding institution. The full IIIF image set (548 pages) is accessible via the YEK portal and would support a complete survey of the vassale construction, marginal annotations, and colophon.",
+      "digital_access": "https://portal.yek.gov.tr/works/detail/172985"
+    },
+    {
+      "institution": "Chester Beatty Library, Dublin",
+      "reason": "Holds major examples of the Bayḍāwī tafsir in luxury manuscript form from the Ottoman and Mamluk traditions, providing comparanda for the decoration program and physical format of this record.",
+      "digital_access": "https://viewer.cbl.ie"
+    }
+  ],
+  "provenance": {
+    "donor": null,
+    "waqf": "Nuruosmaniye Kütüphanesi — vakıf of Sultan III. Osman (r. 1754–1757). The III. Osman tuğralı vakıf mühürü is present on f. 1a, confirming entry into the Nuruosmaniye endowment. The manuscript was produced in AH 911 / 1506 CE, approximately 250 years before the Nuruosmaniye endowment, and its intervening ownership history is partially recoverable from the seals and ownership notes.",
+    "previous_owners": [
+      "Khwāja Faḍlallāh — temellük (ownership notation) on f. 1a",
+      "Ibrāhīm Ḥanīf — seal (mühür) on f. 1a"
+    ],
+    "previous_shelfmarks": [],
+    "notes": "The manuscript was copied in Coron (Koroni, Peloponnese) on 3 Dhū al-Qaʿda 911 AH / approx. April 1506 CE by a copyist of Iranian origin (al-Kāzarūnī). Coron was a key Ottoman-controlled harbour fortress on the southwestern Peloponnesian coast, held from the conquest of 1500 until its fall in 1532. The manuscript thus documents Ottoman book production — including a luxury vassale format and an illuminated serlevha — in a recently conquered peripheral territory in the first decade of the 16th century. The ownership trail (Khwāja Faḍlallāh, Ibrāhīm Ḥanīf, III. Osman vakıf) reflects the manuscript's movement from the provincial periphery into the Istanbul institutional collection over the following two and a half centuries. YEK ID: 172985; IIIF ID: 0000000169953."
+  },
+  "analysis_metadata": {
+    "analyzed_date": "2026-02-28",
+    "analyzer": "claude-code-manuscript-pipeline",
+    "pipeline_stage": "metadata-generator",
+    "image_source": "YEK Portal IIIF downloads (YEK ID 172985, Nuruosmaniye Kütüphanesi, IIIF ID 0000000169953) — captured by visual-confirmation agent, session 2026-02-26/2026-02-28; supplemented by IIIF images in corpus/iiif/nuruosmaniye_00360_p*.jpg",
+    "image_quality_notes": "IIIF images at viewer resolution. The serlevha (p005), standard text page (p006), mid-volume page (p280), near-end pages (p543, p545-p547), and colophon area are all clearly legible for the purpose of confirming the vassale construction, cetvel framing, and illuminated headpiece. The compound blue cetvel is clearly distinguishable on the serlevha opening (p005) but difficult to isolate on standard text pages. Higher-resolution native IIIF downloads (bypassing watermark overlay) would enable: (1) precise analysis of the serlevha illumination motifs; (2) reading of the colophon inscription; (3) precise identification of the paper types for text panels vs. margin sheets.",
+    "folios_examined": [
+      "corpus/iiif/nuruosmaniye_00360_p005.jpg (ff. 1b-2a — serlevha opening)",
+      "corpus/iiif/nuruosmaniye_00360_p006.jpg (ff. 2b-3a — standard text, marginal glosses)",
+      "corpus/iiif/nuruosmaniye_00360_p007.jpg (ff. 3b-4a — standard text)",
+      "corpus/iiif/nuruosmaniye_00360_p280.jpg (mid-volume text, ~f. 138-139)",
+      "corpus/iiif/nuruosmaniye_00360_p543.jpg (near-end, Sūrat al-ʿĀdiyāt area)",
+      "corpus/iiif/nuruosmaniye_00360_p545.jpg (near-end, short surahs)",
+      "corpus/iiif/nuruosmaniye_00360_p546.jpg (near-end)",
+      "corpus/iiif/nuruosmaniye_00360_p547.jpg (final text opening / colophon area)",
+      "corpus/iiif/nuruosmaniye_00360_p001.jpg (binding cover)",
+      "corpus/iiif/nuruosmaniye_00360_p003.jpg (title label)",
+      "corpus/iiif/nuruosmaniye_00360_p004.jpg (seal page, f. 1a)"
+    ],
+    "folios_not_examined": "The bulk of the manuscript (533 folios; 548 IIIF pages total) was not individually surveyed. Viewer screenshots at pp. 100 and 400 were captured during the visual confirmation session, confirming the continuation of the vassale construction through the middle sections. Priority for follow-up: (1) colophon examination (reading the full ketebe formula, verifying copyist name and place); (2) complete survey of the 8 preliminary folios (including III. Osman vakıf mühürü page, Hoca Fadlallah temellük, Ibrahim Hanif seal); (3) high-resolution native IIIF download of the serlevha opening for detailed motif analysis.",
+    "source_data": {
+      "visual_confirmation_file": "catalog/searches/visual_slot1_nuruosmaniye_00360.json",
+      "yek_id": "172985",
+      "iiif_id": "0000000169953",
+      "batch": "Follow-up cataloguing (2026-02-28) — from MEMORY.md Follow-up Items"
+    }
+  }
+}

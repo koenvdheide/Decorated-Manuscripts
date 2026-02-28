@@ -1,0 +1,468 @@
+{
+  "record_id": "tiem_02437",
+  "collection": {
+    "institution": "Türk ve İslam Eserleri Müzesi",
+    "city": "Istanbul",
+    "country": "Turkey",
+    "shelfmark": "02437",
+    "yek_url": "https://portal.yek.gov.tr/works/detail/705378"
+  },
+  "manuscript": {
+    "title": "Muraqqaʿ / مرقع",
+    "title_script": "مرقع",
+    "title_alt": "Hâfız Osmân Muraqqaʿı",
+    "author": null,
+    "author_dates": null,
+    "calligrapher": "Hâfız Osmân (حافظ عثمان)",
+    "calligrapher_dates": "c. 1052–1110 AH / c. 1642–1698 CE",
+    "calligrapher_note": "Hâfız Osmân (Hafiz Osman, d. 1110/1698) is one of the canonical 'three pillars' of Ottoman calligraphy alongside Şeyh Hamdullah and Ahmed Karahisârî. He studied under Derviş Ali and is credited with perfecting the nesih and sülüs hands that dominated Ottoman calligraphy through the 19th century. The YEK catalogue records a ketebe (colophon inscription) by Hâfız Osmân at the end of the album: 'Hadis-i şerifler'in yer aldığı, 4 yazıdan oluşan bu muraqqaın sonunda Hâfız Osmân'ın ketebe kaydı bulunmaktadır.' This is a direct attribution — the album concludes with Hâfız Osmân's signed ketebe — though no date is recorded in the catalogue. The attribution is therefore firm for the calligraphic content; the album's decorated paper program was presumably commissioned or assembled concurrently.",
+    "date_ah": null,
+    "date_ce": null,
+    "date_note": "No date is given in the YEK catalogue record. The ketebe of Hâfız Osmân (d. 1110/1698) places the album before or at 1110 AH/1698 CE. The decorated paper program — polychrome zerefşân with scattered botanicals on pink, sage-green, and blue grounds — is consistent with late 17th-century Istanbul production. Date null pending physical examination or further archival research.",
+    "place_of_copy": null,
+    "format": "Muraqqaʿ / مرقع — compact calligraphic album with polychrome zerefşân endpapers and mulevven zerefşân margin grounds",
+    "format_note": "A bound Ottoman calligraphic album (muraqqaʿ) of 4 folios (6 pages including covers) containing 4 kıtʿa (calligraphic specimen sheets) in Arabic sülüs, muhakkak, and nesih scripts. The album's distinguishing feature is its THREE distinct colored zerefşân paper types — pink (endpapers and doublures), sage green (p003), and blue/lacivert (p004) — constituting one of the most elaborate polychrome zerefşân programs documented in the project corpus. Each calligraphy page uses a different zerefşân color as the outer margin ground, creating a chromatic sequence across the album's four leaves. The covers are red leather with a gilt diamond-lattice shamsa.",
+    "language": "Arabic",
+    "script": "Sülüs (ثلث), Muhakkak (محقق), and Nesih (نسخ) — per YEK catalogue: 'Arap harfli — Sülüs, Muhakkak, Nesih'",
+    "dimensions_mm": {
+      "height": 285,
+      "width": 218,
+      "writing_area_mm": {
+        "height": 207,
+        "width": 145
+      },
+      "note": "Outer dimensions 285×218 mm; text area 207×145 mm per YEK catalogue"
+    },
+    "folio_count": 4,
+    "yek_id": "705378",
+    "iiif_id": "0000000662591",
+    "notes": "A compact but technique-rich album. The combination of three distinct colored zerefşân types (pink, sage green, lacivert blue) in a single 4-folio album is exceptional in the project corpus. The pink endpapers (p002, p005) are particularly unusual: on the pink zerefşân ground, scattered small botanical elements are present — rounded green leaf clusters and purple/violet small leaves, distributed freely across the surface, with an underlying white crackle-vein network giving the paper a semi-marbled appearance. This composite character of the pink paper — zerefşân base with additional scattered botanical motifs — raises the question of whether the botanical elements represent a second decorative layer (stencil, stamp, or freehand) applied over the zerefşân. The calligraphy pages (p003, p004) each feature a different zerefşân color in the margins, with multi-layer cetvelli framing and small koltuk (corner) illumination pieces with rosette medallions in the inner frame corners. YEK note: ID corrected from 705374 (which is TIEM 02430) to 705378. Catalogue entry by Nalan Kutsal."
+  },
+  "paper_decoration": {
+    "types": [
+      "gold_sprinkled",
+      "colored",
+      "illuminated_margins",
+      "framing_system"
+    ],
+    "summary": "TIEM 02437 exhibits a polychrome zerefşân program of exceptional rarity: three distinct colored zerefşân paper types are used within a single 4-folio album, each assigned to a specific structural position. (1) Pink/rose zerefşân (endpapers and doublures, pp. 002 and 005): a warm rose-pink ground with fine gold speckling, over which white crackle-vein patterning and scattered small botanical elements — rounded green leaves and purple/violet small leaf clusters — are distributed freely. This composite paper combines the zerefşân technique with what appears to be an additional scattered botanical layer, giving the endpapers a distinctive character intermediate between zerefşân and a lightly decorated paper. (2) Sage-green zerefşân (outer margin paper, p003): a subdued sage/olive-green ground with fine gold speckling clearly visible at IIIF resolution; used as the outer border margin for the first calligraphy leaf. (3) Blue/lacivert zerefşân (outer margin paper, p004): a clear lapis-blue or lacivert ground with fine gold speckling; used as the outer border margin for the second calligraphy leaf. Each calligraphy opening (pp. 003, 004) uses its respective zerefşân color as the full outer margin surrounding the calligraphic panel, framed by a multi-layer system of gold cetveller and thin red inner rules. Small koltuk (corner) illumination pieces with rosette medallions are placed at the inner corners of the frame on both calligraphy pages. The album's decorative program as a whole thus creates a chromatic progression: pink endpapers → sage-green margins → blue margins → pink endpapers, enclosing the calligraphy within a systematic color sequence.",
+    "distribution_notes": "Pink zerefşân: front doublure + first endpaper (p002, both sides) and rear endpaper + back doublure (p005, both sides). Sage-green zerefşân: outer margin of first calligraphy opening (p003). Blue/lacivert zerefşân: outer margin of second calligraphy opening (p004). Covers: plain red leather with gilt shamsa (p001, p006) — no zerefşân on exterior covers. The zerefşân papers are entirely interior decorative elements.",
+    "technique_terms": {
+      "ottoman": "zerefşân / serpme (altın yaldız serpilmiş kâğıt); renkli zerefşân (pembe, çam yeşili, lacivert); koltuk tezhibi (köşe süslemesi); altın cetvelli; kırmızı iç cetvel",
+      "persian": "zar-afshān (زر افشان) — gold-sprinkled paper; rang-āmīz (رنگ آمیز) — colored",
+      "arabic": "waraq muzakhraf (ورق مزخرف) — decorated paper; jadwal mudhahdhab (جدول مذهّب) — gold-ruled frame"
+    },
+    "catalogue_description": {
+      "paper_field": null,
+      "paper_field_normalized": null,
+      "paper_field_translation": null,
+      "notes_field": "Hadis-i şeriflerin yer aldığı, 4 yazıdan oluşan bu muraqqaın sonunda Hâfız Osmân'ın ketebe kaydı bulunmaktadır. Tarih yazılmamıştır.",
+      "notes_field_normalized": "Hadis-i şeriflerin yer aldığı, 4 yazıdan oluşan bu muraqqaın sonunda Hâfız Osmân'ın ketebe kaydı bulunmaktadır. Tarih yazılmamıştır.",
+      "notes_field_translation": "This album consisting of 4 calligraphic specimens containing hadith (prophetic sayings) has the ketebe inscription of Hâfız Osmân at its end. No date has been written.",
+      "decoration_field": null,
+      "source": "YEK portal, genel notlar field, record 705378, Türk ve İslam Eserleri Müzesi. Catalogued by Nalan Kutsal. Kâğıt özellikleri and tezhip/minyatür fields are null in the YEK record. All paper decoration observations derive from visual examination of IIIF images."
+    }
+  },
+  "workshop_attribution": {
+    "primary_tradition": "ottoman",
+    "workshop_centre": "Istanbul",
+    "date_range_ce": "late 17th century (c. 1680–1698)",
+    "confidence": 0.82,
+    "key_indicators": [
+      "The ketebe of Hâfız Osmân (d. 1110/1698) at the album's end places production in Istanbul before 1698",
+      "The scripts employed — sülüs, muhakkak, and nesih — are core Istanbul court calligraphic repertoire of the late 17th century",
+      "Polychrome zerefşân (colored gold-sprinkled paper) in three distinct color variants is characteristic of late Ottoman Istanbul luxury album production, where coordinated decorative paper programs signaled high-quality commissions",
+      "The red leather binding with gilt diamond-lattice shamsa and corner ornaments is a standard Istanbul album binding format of the late 17th century",
+      "The koltuk (corner) illumination pieces with rosette medallions on the calligraphy pages reflect Istanbul nakkaşhane illumination practice"
+    ],
+    "cross_tradition_caveats": [
+      "No date is recorded in the ketebe — the album may postdate Hâfız Osmân's death if copied from his model or if the ketebe was added later",
+      "The composite character of the pink zerefşân (zerefşân base + scattered botanical elements) is unusual and may indicate a hybrid production technique; the botanical motifs could be hand-painted, stenciled, or applied from a separate decorative pass",
+      "Zerefşân papers with colored grounds are produced across the Ottoman Empire; attribution to Istanbul specifically rests on the Hâfız Osmân attribution and the consistent Istanbul binding style rather than the paper type alone"
+    ]
+  },
+  "codicology": {
+    "paper": {
+      "color": "Three zerefşân types: (1) pink/rose with white crackle-vein network and scattered green/purple botanicals (endpapers, pp. 002, 005); (2) sage/olive-green with fine gold speckling (margin paper, p003); (3) lacivert/blue with fine gold speckling (margin paper, p004). Text panels on cream/off-white burnished âharlı paper.",
+      "preparation": "The calligraphy text panels are written on âharlı (sized and burnished) cream paper, consistent with Ottoman luxury calligraphy paper. The zerefşân margin papers have fine gold particles applied to colored grounds — the green and blue zerefşân are clearly legible at IIIF resolution (fine gold speckling visible as glinting points). The pink endpaper has a more complex surface: the white crackle-vein pattern suggests either a marbling-influenced technique or a deliberately crackled size layer, over which or within which the gold was sprinkled and botanical elements added.",
+      "weight": "Indeterminate from IIIF images. Standard Ottoman album weight expected.",
+      "decoration": "Zerefşân on colored grounds (three colors) as margin and endpaper papers. Gold cetvelli and red inner ruling. Koltuk tezhibi (corner illumination) on calligraphy pages.",
+      "paper_type": "Eastern/Oriental paper for calligraphy panels; zerefşân on colored grounds for margins and endpapers."
+    },
+    "ruling": {
+      "system": "Multi-layer altın cetvelli (gold ruling) framing each calligraphy panel, with thin red inner frame strips and gold outer frame. Koltuk (corner) illumination medallions at inner frame corners.",
+      "description": "Each calligraphy opening presents a layered framing system visible in the IIIF images at pp. 003 and 004: (from outside in) the zerefşân outer margin paper; a multi-line gold cetvel system (gold outer rule, colored filler, inner gold, producing a 3–4 line frame); a thin red inner frame strip immediately surrounding the cream calligraphy text area; and within the red strip, small koltuk illumination pieces at the four inner corners — these appear as small square or rectangular panels with rosette or geometric medallion illumination in gold and colors. The red and gold lines are clearly legible at IIIF resolution. The overall system is consistent with late Ottoman album production of the highest quality."
+    },
+    "binding": {
+      "cover_description": "Both front (p001) and back (p006) covers are dark red/crimson leather. Each cover bears: (1) a gilt outer frame (zencirek or straight line, narrowly applied at the cover edge); (2) a central gilt shamsa in the form of a diamond-lattice (cross-hatched grid) with extending directional ornaments at the top, bottom, and sides — a characteristic late Ottoman shamsa type; (3) gilt corner ornament points at the four corners. The binding is intact and original to the album. No marbled paper on binding covers — plain red leather throughout exterior. Library accession labels (TIEM T 2437 and a second label) are affixed to the inside front cover (p002).",
+      "cover_type": "Deri cilt — red leather binding with gilt shamsa and corner ornaments",
+      "notes": "The gilt diamond-lattice shamsa on both covers is a consistently documented Ottoman album binding type of the late 17th century. The shamsa on the front (p001) and back (p006) are closely matched in design, suggesting simultaneous production rather than rebinding."
+    },
+    "format": "Muraqqaʿ — compact Ottoman calligraphic album (4 folios / 6 pages including covers)",
+    "condition_summary": "The album is generally well-preserved. The zerefşân margin papers (pp. 003, 004) are vivid and legible. The pink endpapers (pp. 002, 005) show differential condition: p002 (inside front cover) is relatively clean; p005 (rear endpaper) shows more significant soiling, foxing, and some surface degradation on the left half (the degraded appearance at p005 left may obscure the original botanical elements). The calligraphy panels are legible at IIIF resolution. The binding covers (pp. 001, 006) are intact with some light scuffing. No catastrophic damage, missing leaves, or major repair campaigns are visible.",
+    "conservation_history": null
+  },
+  "visual_confirmation": {
+    "verdict": "confirmed",
+    "confidence": 0.93,
+    "screenshots_examined": 6,
+    "folios_examined": [
+      "corpus/iiif/tiem_02437_p001.jpg",
+      "corpus/iiif/tiem_02437_p002.jpg",
+      "corpus/iiif/tiem_02437_p003.jpg",
+      "corpus/iiif/tiem_02437_p004.jpg",
+      "corpus/iiif/tiem_02437_p005.jpg",
+      "corpus/iiif/tiem_02437_p006.jpg"
+    ],
+    "visual_evidence": "Three distinct colored zerefşân types confirmed across 6 IIIF pages. (1) Pink/rose zerefşân: clearly present on both sides of p002 (inside front cover opening) and both sides of p005 (rear endpaper/doublure opening); the pink ground is warm rose/salmon in tone, with white crackle-vein patterning and scattered small botanical elements — rounded green leaves and purple/violet small leaf clusters distributed randomly across the ground; fine gold speckling present but somewhat obscured by the botanical overlay and condition. (2) Sage-green zerefşân: unambiguously present on the outer margin of both pages of p003 (first calligraphy opening); the sage/olive-green ground with fine gold speckling is clearly legible; gold speckling points visible as bright spots on the green ground. (3) Blue/lacivert zerefşân: unambiguously present on the outer margin of both pages of p004 (second calligraphy opening); the muted blue/lacivert ground with fine gold speckling is clear. Multi-layer cetvelli framing (gold lines + red inner strip) confirmed on pp. 003, 004. Koltuk illumination corner pieces confirmed on pp. 003, 004. Red leather binding with gilt diamond-lattice shamsa confirmed on pp. 001, 006. The three-color zerefşân program across 4 folios is one of the most elaborate polychrome zerefşân sequences in the corpus.",
+    "limitations": [
+      "IIIF images examined at download resolution; native resolution not systematically checked for gold-speckle microstructure",
+      "The composite character of the pink zerefşân (scattered botanical elements + crackle-vein network over pink ground) raises an unresolved question: whether the botanical elements are part of the zerefşân production, stenciled/stamped after, or hand-painted; physical examination required for resolution",
+      "Calligraphic attribution to Hâfız Osmân accepted from YEK catalogue (ketebe recorded); cannot be independently verified from available images without comparison to documented works",
+      "No date inscribed in the album; dating is inferred from the Hâfız Osmân attribution",
+      "p005 left half shows significant degradation that may obscure details of the rear endpaper decoration"
+    ],
+    "source_agent": "metadata-generator (direct IIIF examination)",
+    "session": "catalog/searches/visual_tier1_tiem_02437.json"
+  },
+  "folio_analyses": [
+    {
+      "folio": "Front cover (IIIF p001)",
+      "source_image": "corpus/iiif/tiem_02437_p001.jpg",
+      "decoration_present": true,
+      "decoration_types": ["framing_system"],
+      "elements": [
+        {
+          "motif": "Red leather binding with gilt diamond-lattice shamsa",
+          "description": "The front cover is dark red/crimson leather. A gilt shamsa in diamond-lattice (cross-hatched grid) form occupies the center, with extending ornamental arms at top, bottom, left, and right terminating in small pointed or rounded ornaments. Gilt outer frame lines run along the cover edges. Gilt corner ornaments at the four corners. Two library accession labels are affixed to the upper center area (reading 'T 101' and 'T 2437'). The diamond-lattice form of the shamsa — a grid of diagonal crossing lines within a diamond outline — is a characteristic late Ottoman album binding type.",
+          "location": "Full front cover exterior",
+          "confidence": 0.97
+        }
+      ],
+      "confidence": 0.97,
+      "notes": "The binding is intact and original. The gilt shamsa design corresponds to a standard late Ottoman album binding type of the late 17th century."
+    },
+    {
+      "folio": "Inside front cover + first endpaper — pink zerefşân (IIIF p002)",
+      "source_image": "corpus/iiif/tiem_02437_p002.jpg",
+      "decoration_present": true,
+      "decoration_types": ["gold_sprinkled", "colored"],
+      "elements": [
+        {
+          "motif": "Pink/rose zerefşân with botanical overlay — inside front cover doublure (left page)",
+          "description": "The inside front cover (doublure) is covered with a distinctive paper on a warm rose/salmon-pink ground. The paper exhibits: (a) a network of white crackle-vein lines distributed across the surface, forming an irregular reticulate pattern reminiscent of marble veining; (b) scattered small botanical elements — small rounded green leaf clusters (3–5 leaves per group) and small purple/violet single or paired leaves — distributed freely across the pink ground; (c) fine gold speckling (zerefşân) applied to the pink ground. The white crackle-vein network suggests either a marbling-influenced production technique or a deliberately crackled sizing layer. The scattered botanical elements are consistent with either freehand painting, stenciling, or a printed technique applied over the zerefşân base. Library accession labels and handwritten numerals (TIEM 2437 reference) are affixed to this page.",
+          "location": "Inside front cover (doublure), left page of opening",
+          "confidence": 0.88
+        },
+        {
+          "motif": "Pink/rose zerefşân with botanical overlay — first endpaper (right page)",
+          "description": "The right page of the opening shows the same pink zerefşân paper: warm rose/salmon ground, scattered green and purple/violet botanical elements, white crackle-vein network. A large dark smudge or stain is visible in the upper right area. The botanical elements on this page are slightly larger and more clearly visible than on the doublure (left page), showing the green leaf clusters more distinctly.",
+          "location": "First endpaper, right page of inside front cover opening",
+          "confidence": 0.88
+        }
+      ],
+      "confidence": 0.88,
+      "notes": "The pink zerefşân endpaper is one of the most distinctive elements in the album. The composite character — zerefşân base + crackle-vein network + scattered botanicals — is unusual and may represent a layered production technique. The botanical elements' density and distribution suggest a non-random (possibly mechanical or semi-mechanical) application. Physical examination is needed to determine whether the crackle veining is part of a marbling layer underneath the zerefşân, or a size-crackle phenomenon."
+    },
+    {
+      "folio": "First calligraphy opening — sage-green zerefşân margins (IIIF p003)",
+      "source_image": "corpus/iiif/tiem_02437_p003.jpg",
+      "decoration_present": true,
+      "decoration_types": ["gold_sprinkled", "colored", "illuminated_margins", "framing_system"],
+      "elements": [
+        {
+          "motif": "Sage-green zerefşân — outer margin, both pages",
+          "description": "The outer margin of both pages in the first calligraphy opening is covered with sage/olive-green zerefşân paper. The sage-green ground is a subdued, somewhat muted green tone. Fine gold speckling (zerefşân) is clearly visible at IIIF resolution as bright gold points distributed evenly across the sage-green surface. The sage-green color is consistent with a plant-dye or mineral-pigmented colored paper ground.",
+          "location": "Outer margin surrounding calligraphy panels, both pages",
+          "confidence": 0.95
+        },
+        {
+          "motif": "Multi-layer cetvelli framing — gold lines and red inner strip",
+          "description": "Between the sage-green zerefşân outer margin and the cream calligraphy text area, a multi-layer framing system is visible: gold outer ruling lines (altın cetveller), a narrow colored filler band, additional gold lines, and a thin red inner rule immediately surrounding the cream text panel. This produces a 3–4 line frame in gold and red, clearly legible at IIIF resolution.",
+          "location": "Panel frame, both pages",
+          "confidence": 0.93
+        },
+        {
+          "motif": "Koltuk tezhibi — corner illumination pieces",
+          "description": "At the inner frame corners of both pages, small koltuk (corner) illumination pieces are visible. These appear as small square or rectangular panels with geometric or rosette medallion illumination in gold and polychrome. The corner pieces punctuate the transition between the cetvelli frame and the text panel. At IIIF resolution they are legible as gold-dominated medallion compositions.",
+          "location": "Four corners of the inner frame, both pages",
+          "confidence": 0.85
+        },
+        {
+          "motif": "Calligraphy panels — sülüs, muhakkak, and nesih kıtʿalar",
+          "description": "Each page carries a calligraphic panel on cream âharlı paper. The panels contain formal calligraphy in multiple scripts — the large main lines are in sülüs or muhakkak (with pronounced diagonal and curved strokes), while smaller intervening lines appear in nesih. The content appears to be hadith (prophetic sayings) per the YEK catalogue description. Multiple script registers are visible on each panel, with horizontal section dividers.",
+          "location": "Central text panels, both pages",
+          "confidence": 0.90
+        }
+      ],
+      "confidence": 0.93,
+      "notes": "The sage-green zerefşân is one of the clearest examples of colored zerefşân in the project corpus: the gold speckling on the green ground is directly visible at IIIF resolution without ambiguity. The three-script calligraphic program (sülüs/muhakkak/nesih) within a single panel is consistent with the higher-level Ottoman calligraphic exhibition pieces."
+    },
+    {
+      "folio": "Second calligraphy opening — blue/lacivert zerefşân margins (IIIF p004)",
+      "source_image": "corpus/iiif/tiem_02437_p004.jpg",
+      "decoration_present": true,
+      "decoration_types": ["gold_sprinkled", "colored", "illuminated_margins", "framing_system"],
+      "elements": [
+        {
+          "motif": "Blue/lacivert zerefşân — outer margin, both pages",
+          "description": "The outer margin of both pages in the second calligraphy opening is covered with blue/lacivert zerefşân paper. The ground is a muted blue — not a vivid lapis blue but a softer, greyed lacivert tone. Fine gold speckling (zerefşân) is visible on the blue ground. The combination of lacivert ground + gold zerefşân is the most prestigious of the colored zerefşân variants in the Ottoman tradition, evoking the lapis lazuli and gold pairing of high-status illuminated manuscripts.",
+          "location": "Outer margin surrounding calligraphy panels, both pages",
+          "confidence": 0.93
+        },
+        {
+          "motif": "Multi-layer cetvelli framing — gold lines and red inner strip",
+          "description": "The same multi-layer framing system as p003: gold cetveller plus red inner rule, framing the cream calligraphy panel within the blue zerefşân outer margin.",
+          "location": "Panel frame, both pages",
+          "confidence": 0.93
+        },
+        {
+          "motif": "Koltuk tezhibi — corner illumination pieces",
+          "description": "Corner illumination pieces at the inner frame corners, consistent with those on p003.",
+          "location": "Four corners of the inner frame, both pages",
+          "confidence": 0.85
+        },
+        {
+          "motif": "Calligraphy panels — multi-script kıtʿalar",
+          "description": "Cream âharlı calligraphy panels in sülüs/muhakkak and nesih, consistent with p003. Multi-register layout with horizontal section dividers between large and small script lines.",
+          "location": "Central text panels, both pages",
+          "confidence": 0.90
+        }
+      ],
+      "confidence": 0.93,
+      "notes": "The blue/lacivert zerefşân on p004 completes the album's three-color sequence: pink (endpapers) → green (p003) → blue (p004) → pink (rear endpapers). The lacivert + gold pairing is the most prestigious variant of colored zerefşân in the Ottoman tradition, suggesting deliberate compositional hierarchy: the second calligraphy leaf (which presumably ends with Hâfız Osmân's ketebe) may have been assigned the most prestigious paper color."
+    },
+    {
+      "folio": "Rear endpaper + inside back cover — pink zerefşân (IIIF p005)",
+      "source_image": "corpus/iiif/tiem_02437_p005.jpg",
+      "decoration_present": true,
+      "decoration_types": ["gold_sprinkled", "colored"],
+      "elements": [
+        {
+          "motif": "Pink/rose zerefşân with botanical overlay — rear endpaper (both pages, degraded condition)",
+          "description": "Both pages of the rear endpaper opening show the same pink zerefşân paper as p002. The left page is significantly degraded: heavy foxing, large areas of grey/brown discoloration, and surface loss partially obscure the pink ground and botanical elements, though the warm rose tone and some scattered green botanical elements remain visible through the degradation. The right page is in better condition, clearly showing the pink ground with scattered green leaf clusters and smaller purple/violet elements, plus the white crackle-vein network, matching the front endpaper (p002).",
+          "location": "Both pages of rear endpaper/inside back cover opening",
+          "confidence": 0.84
+        }
+      ],
+      "confidence": 0.84,
+      "notes": "The differential condition between left (degraded) and right (preserved) pages of p005 may reflect exposure to moisture or other damage in the rear of the album. The right page clearly confirms that the pink zerefşân endpapers at front and rear are from the same paper stock, providing a coherent four-corner pink framing for the album's interior."
+    },
+    {
+      "folio": "Back cover (IIIF p006)",
+      "source_image": "corpus/iiif/tiem_02437_p006.jpg",
+      "decoration_present": true,
+      "decoration_types": ["framing_system"],
+      "elements": [
+        {
+          "motif": "Red leather binding with gilt diamond-lattice shamsa — back cover",
+          "description": "The back cover is identical in structure to the front (p001): dark red/crimson leather with a central gilt diamond-lattice shamsa (slightly smaller than the front cover shamsa), gilt outer frame lines, and gilt corner ornaments. The back cover is in somewhat better condition than the front, with less surface abrasion.",
+          "location": "Full back cover exterior",
+          "confidence": 0.97
+        }
+      ],
+      "confidence": 0.97,
+      "notes": "The back cover confirms the bilateral symmetry of the binding program: front and back covers are matched, as is standard for Ottoman luxury album bindings."
+    }
+  ],
+  "terminology": {
+    "terms_used": [
+      {
+        "concept": "Gold-sprinkled paper (colored ground variant)",
+        "ottoman": "zerefşân / serpme / renkli zerefşân / pembe zerefşân / yeşil zerefşân / lacivert zerefşân",
+        "arabic": "waraq muzakhraf bi-al-dhahab (ورق مزخرف بالذهب)",
+        "persian": "zar-afshān (زر افشان) — gold-sprinkled; zar-afshān-e rang-ī (زر افشان رنگی) — colored gold-sprinkled",
+        "english": "Zerefşân (also serialized as zerafshan, zar-afshan): paper decorated by sprinkling or flicking fine gold particles (or gold-colored pigment) onto a prepared ground. In standard Ottoman production the ground is cream or off-white; in colored zerefşân (renkli zerefşân) the ground paper is first dyed or pigmented in a solid color before the gold is applied. Three color variants in this album: pink (pembe), sage-green (çam yeşili), and blue (lacivert). Colored zerefşân on lacivert grounds is a particularly prestigious variant associated with Istanbul court production."
+      },
+      {
+        "concept": "Crackle-vein network on pink paper",
+        "ottoman": "çatlak damar deseni / kırık boya etkisi",
+        "arabic": null,
+        "persian": null,
+        "english": "The white crackle-vein network observed on the pink zerefşân endpapers of this album — an irregular reticulate pattern of thin white lines — may result from: (a) the cracking and separation of a size or pigment layer applied to the paper surface, creating lines where the substrate shows through; (b) a marbling technique in which a white pigment is floated on a pink marbling size to create vein-like patterns; or (c) the veining effect of a paper produced by the battal ebru technique with a pink + white color scheme that has subsequently faded or been bleached. The phenomenon requires physical examination and possibly spectroscopic analysis to resolve."
+      },
+      {
+        "concept": "Calligraphic album",
+        "ottoman": "muraqqaʿ / murakkaat (مرقعات)",
+        "arabic": "muraqqa (مرقع) / muraqqa'at (مرقعات)",
+        "persian": "muraqqa (مرقع)",
+        "english": "Muraqqaʿ: a bound Ottoman calligraphic (and sometimes pictorial) album. This album contains 4 kıtʿa (specimen sheets) in sülüs, muhakkak, and nesih scripts, with the signed ketebe of Hâfız Osmân at the conclusion."
+      },
+      {
+        "concept": "Calligraphic specimen sheet",
+        "ottoman": "kıtʿa (قطعة) / kıtʿa-i hat",
+        "arabic": "qiṭʿa (قطعة)",
+        "persian": "qiṭʿa (قطعه)",
+        "english": "Kıtʿa: a single calligraphic specimen sheet, typically displaying one or more lines of formal calligraphy in one or more scripts. This album contains four kıtʿa in Arabic, with content from hadith (prophetic sayings)."
+      },
+      {
+        "concept": "Sülüs script",
+        "ottoman": "sülüs hattı",
+        "arabic": "thuluth (ثلث)",
+        "persian": null,
+        "english": "Sülüs (thuluth): one of the six classical Arabic scripts, characterized by large rounded letterforms with strong contrast between thick and thin strokes. One of the three scripts present in this album."
+      },
+      {
+        "concept": "Muhakkak script",
+        "ottoman": "muhakkak hattı",
+        "arabic": "muḥaqqaq (محقق)",
+        "persian": null,
+        "english": "Muhakkak: a large, bold Arabic script with wide, horizontal strokes and pronounced vertical elements. One of the classical six scripts; closely related to sülüs. Present in this album alongside sülüs."
+      },
+      {
+        "concept": "Nesih script",
+        "ottoman": "nesih hattı",
+        "arabic": "naskh (نسخ)",
+        "persian": null,
+        "english": "Nesih (naskh): a small, rounded, clear Arabic script widely used for manuscript copying. Present in the smaller-scale lines of the calligraphy panels in this album."
+      },
+      {
+        "concept": "Corner illumination",
+        "ottoman": "koltuk tezhibi / köşe süslemesi",
+        "arabic": "tazwīq al-zāwiya (تزويق الزاوية)",
+        "persian": "tazʾīn-e gusha (تزئین گوشه)",
+        "english": "Koltuk tezhibi: decorative illuminated elements placed at the inner corners of a framing system, within the angle (koltuk) formed by the cetvelli borders. In this album, small rectangular or square illuminated medallion pieces with rosette or geometric motifs are placed at the four inner corners of each calligraphy panel's frame."
+      },
+      {
+        "concept": "Gold ruling lines",
+        "ottoman": "altın cetvel / cetvelli / altın cetveller",
+        "arabic": "jadwal mudhahdhab (جدول مذهّب)",
+        "persian": "jadval-e zar (جدول زر)",
+        "english": "Altın cetvel: ruling lines applied in gold, framing the calligraphic text panel. In this album, multi-line gold cetveller (typically 3–4 lines) frame each panel, with a red inner rule providing chromatic contrast between the gold system and the cream text ground."
+      },
+      {
+        "concept": "Colophon inscription",
+        "ottoman": "ketebe kaydı",
+        "arabic": "kitāb al-fāriġ (كتاب الفارغ) / fāriġa",
+        "persian": "ketābe (کتابه)",
+        "english": "Ketebe kaydı: the closing inscription in which the calligrapher records their name (and often the date and place of copying). In this album, the ketebe of Hâfız Osmân appears at the end of the album without a date, per the YEK catalogue description."
+      },
+      {
+        "concept": "Gilt diamond-lattice shamsa",
+        "ottoman": "şemse / yaldızlı şemse / elmas kafes şemse",
+        "arabic": "shams (شمس)",
+        "persian": "shamsa (شمسه)",
+        "english": "Şemse (shamsa): a central oval, round, or diamond-shaped medallion placed on a manuscript binding cover. In this album, the shamsa takes a diamond-lattice (cross-hatched grid) form — a standard late Ottoman album binding type — with extending directional ornaments. Applied in gold (yaldız) on red leather."
+      }
+    ]
+  },
+  "bibliography": [
+    {
+      "citation": "Derman, M. Uğur. Letters in Gold: Ottoman Calligraphy from the Sakıp Sabancı Collection, Istanbul. New York: The Metropolitan Museum of Art, 1998.",
+      "relevance": "The primary English-language exhibition catalogue on Ottoman calligraphy, with extensive coverage of Hâfız Osmân's scripts, calligraphic albums, and the Istanbul court calligraphic tradition of the 17th century. Essential for contextualizing this album's ketebe attribution to Hâfız Osmân, evaluating the sülüs/muhakkak/nesih script combination, and situating the album within the broader corpus of Hâfız Osmân's documented works.",
+      "relevance_score": 0.97,
+      "access_notes": "Exhibition catalogue (Metropolitan Museum of Art, 1998); widely held at Islamic art and Ottoman studies libraries. ISBN 978-0870998843."
+    },
+    {
+      "citation": "Blair, Sheila S. 'Color and Gold: The Decorated Papers Used in Manuscripts in Later Islamic Times.' Muqarnas 17 (2000): 24–36.",
+      "relevance": "Foundational taxonomic study providing the classification framework for zerefşân (gold-sprinkled) paper and its colored variants. Blair documents the range of colored zerefşân grounds used in Islamic manuscripts, including lacivert/blue variants, which is directly relevant to this album's three-color zerefşân program. Her discussion of gold-sprinkled papers as a category distinct from marbled and stenciled papers is the basis for classification here.",
+      "relevance_score": 0.97,
+      "access_notes": "Peer-reviewed article. Available via JSTOR (Brill/Muqarnas Online). Open-access PDF accessible at Academia.edu."
+    },
+    {
+      "citation": "Çağman, Filiz, and Zeren Tanındı. The Topkapı Saray Museum: The Albums and Illustrated Manuscripts. Translated and edited by J. M. Rogers. Boston: Little, Brown, 1986.",
+      "relevance": "Standard reference for Ottoman calligraphic albums and their decorated paper programs in the Topkapı collections. Provides direct comparanda for Hâfız Osmân-era (late 17th-century) murakkaat albums with zerefşân paper programs, multi-layer cetvelli framing, and gilt leather bindings. Relevant for contextualizing the album's binding format (gilt diamond-lattice shamsa on red leather) within the corpus of documented Ottoman album bindings.",
+      "relevance_score": 0.90,
+      "access_notes": "Exhibition catalogue; widely held at Turkish and Islamic art research libraries."
+    },
+    {
+      "citation": "Roxburgh, David J. The Persian Album, 1400–1600: From Dispersal to Collection. New Haven: Yale University Press, 2005.",
+      "relevance": "Essential study of the murakkaat album format and decorated paper programs in the Persianate-Ottoman tradition. Provides the theoretical framework for understanding polychrome paper programs as deliberate compositional choices in album design, applicable to the three-color zerefşân sequence in TIEM 02437.",
+      "relevance_score": 0.85,
+      "access_notes": "Monograph; widely held at research libraries."
+    },
+    {
+      "citation": "Tanındı, Zeren. 'Bibliophile Aghas (Eunuchs) at Topkapı Saray.' Muqarnas 21 (2004): 333–43.",
+      "relevance": "Documents album-collecting and commissioning practices at the Ottoman court in the late 17th century — the period of this album's production. Provides context for the patronage environment within which Hâfız Osmân created calligraphic albums and for the decorated paper programs associated with high-status Ottoman album commissions in this period.",
+      "relevance_score": 0.80,
+      "access_notes": "Peer-reviewed article. Available via JSTOR and institutional library access."
+    },
+    {
+      "citation": "Bloom, Jonathan M. Paper Before Print: The History and Impact of Paper in the Islamic World. New Haven: Yale University Press, 2001.",
+      "relevance": "Comprehensive history of paper production and use in the Islamic world, providing material-culture background for zerefşân paper production techniques, colored paper traditions, and the role of decorated papers in luxury manuscript and album production in the Ottoman context.",
+      "relevance_score": 0.75,
+      "access_notes": "Widely held monograph."
+    },
+    {
+      "citation": "Gacek, Adam. Arabic Manuscripts: A Vademecum for Readers. Leiden: Brill, 2009.",
+      "relevance": "Standard reference for Islamic manuscript codicological terminology and script identification. Relevant for the identification and description of the sülüs, muhakkak, and nesih scripts in this album, and for general codicological terms (ketebe, kıtʿa, cetvel) used in this record.",
+      "relevance_score": 0.78,
+      "access_notes": "Reference monograph; widely held."
+    },
+    {
+      "citation": "Déroche, François. Islamic Codicology: An Introduction to the Study of Manuscripts in Arabic Script. Translated by Deke Dusinberre and David Radzinowicz. London: Al-Furqan Islamic Heritage Foundation, 2005.",
+      "relevance": "Foundational reference for Islamic manuscript codicology, covering paper decoration types, binding forms, ruling systems, and physical manuscript description. Provides the classification framework used throughout this catalog record.",
+      "relevance_score": 0.75,
+      "access_notes": "Monograph; available at specialist libraries."
+    },
+    {
+      "citation": "Scheper, Karin. The Technique of Islamic Bookbinding: Methods, Materials and Regional Varieties. Leiden: Brill, 2015.",
+      "relevance": "Systematic study of Islamic bookbinding techniques, relevant for the physical analysis of the red leather binding with gilt shamsa. The diamond-lattice shamsa type and gilt leather binding techniques documented in this album are within the scope of Scheper's regional and chronological survey.",
+      "relevance_score": 0.72,
+      "access_notes": "Monograph; available at Islamic bookbinding and manuscript studies libraries."
+    },
+    {
+      "citation": "Bağcı, Serpil, Filiz Çağman, Günsel Renda, and Zeren Tanındı. Ottoman Painting. Ankara: Ministry of Culture and Tourism, 2006.",
+      "relevance": "Comprehensive survey of Ottoman visual arts, covering the album tradition and calligraphic practices of the 17th century. Provides comparative context for the late Ottoman (late 17th-century) album production associated with Hâfız Osmân and his circle.",
+      "relevance_score": 0.72,
+      "access_notes": "Museum publication; widely held at Turkish studies collections."
+    }
+  ],
+  "suggested_collections": [
+    {
+      "institution": "Türk ve İslam Eserleri Müzesi (TIEM), Istanbul — broader corpus",
+      "reason": "The TIEM murakka corpus (93 positive albums confirmed in visual triage) contains numerous comparanda for the zerefşân album format and the Hâfız Osmân calligraphic tradition. TIEM 02471 (catalogued) uses colored zerefşân and mulevven papers; wider TIEM survey may reveal additional colored zerefşân programs.",
+      "digital_access": "https://portal.yek.gov.tr"
+    },
+    {
+      "institution": "Topkapı Sarayı Müzesi Kütüphanesi, Istanbul",
+      "reason": "Holds the largest corpus of authenticated Hâfız Osmân works. Physical comparison with documented Topkapı albums by Hâfız Osmân is essential for confirming the attribution and for finding parallel colored zerefşân programs from the late 17th century.",
+      "digital_access": "https://kutuphane.tsmk.gov.tr"
+    },
+    {
+      "institution": "Sakıp Sabancı Museum, Istanbul",
+      "reason": "Holds major Hâfız Osmân calligraphic works studied in Derman (1998). The closest comparative corpus for evaluating the attribution of TIEM 02437 to Hâfız Osmân.",
+      "digital_access": null
+    },
+    {
+      "institution": "Chester Beatty Library, Dublin",
+      "reason": "Major collection of Ottoman calligraphic albums with decorated papers, including albums with colored zerefşân programs and gilt leather bindings from the late 17th century. Provides international comparanda for the paper decoration program.",
+      "digital_access": "https://viewer.cbl.ie"
+    },
+    {
+      "institution": "GlobalDecoPaper ERC Project, LMU Munich",
+      "reason": "The primary active research project on decorated papers in Islamic manuscripts. The composite character of the pink zerefşân endpapers (zerefşân base + crackle-vein network + scattered botanicals) raises classification questions that fall within the GlobalDecoPaper research scope.",
+      "digital_access": null
+    }
+  ],
+  "provenance": {
+    "donor": null,
+    "waqf": null,
+    "previous_shelfmarks": ["T 101 (partial label visible on p001 — may be an earlier accession reference)"],
+    "notes": "Held at Türk ve İslam Eserleri Müzesi (TIEM), Istanbul, under shelfmark T 2437. TIEM is a Turkish state museum; the manuscript entered the collection at an undetermined date prior to YEK registration. The two labels visible on p001 read 'T 101' (possibly an earlier accession reference) and 'T 2437' (current shelfmark). No waqf (endowment) information is available. YEK ID: 705378. IIIF ID: 0000000662591. The album is attributed to Hâfız Osmân (d. 1110/1698) by the YEK cataloguer, placing its production in late 17th-century Istanbul."
+  },
+  "analysis_metadata": {
+    "analyzed_date": "2026-02-28",
+    "analyzer": "claude-code-manuscript-pipeline",
+    "pipeline_stage": "metadata-generator",
+    "image_source": "YEK Portal IIIF images, TIEM Yazma Eser Koleksiyonu, YEK ID 705378, IIIF ID 0000000662591. All 6 pages downloaded and examined at IIIF resolution. Supplementary triage screenshot (tiem_batch2_16_02437.jpeg) examined for overall layout.",
+    "image_quality_notes": "IIIF images are clear and support confident identification of the three zerefşân color variants and framing system. The pink zerefşân endpapers are clearly legible on p002; p005 left half is significantly degraded, reducing analysis confidence for that portion. The gold speckling on the sage-green (p003) and blue (p004) margins is directly visible at download resolution. The botanical elements on the pink papers are visible at download resolution but their production technique (stencil, stamp, freehand) cannot be determined without physical examination or higher magnification. No ketebe inscription text or colophon is independently readable from IIIF images; YEK catalogue text is relied upon for content description.",
+    "folios_examined": [
+      "corpus/iiif/tiem_02437_p001.jpg",
+      "corpus/iiif/tiem_02437_p002.jpg",
+      "corpus/iiif/tiem_02437_p003.jpg",
+      "corpus/iiif/tiem_02437_p004.jpg",
+      "corpus/iiif/tiem_02437_p005.jpg",
+      "corpus/iiif/tiem_02437_p006.jpg"
+    ],
+    "folios_not_examined": "All 6 IIIF pages examined. The album is complete (6 pages covering front cover, inside cover/endpaper, 2 calligraphy openings, rear endpaper/inside back cover, back cover).",
+    "corpus_priority": "High — one of only two confirmed three-color zerefşân programs in the corpus (with nuruosmaniye_02295). The composite pink endpaper (zerefşân + crackle-vein + scattered botanicals) is unique in the corpus and warrants physical examination. Priority follow-up: (1) physical examination of pink endpapers to determine crackle-vein and botanical techniques; (2) comparison with authenticated Hâfız Osmân works for attribution confirmation; (3) higher-resolution imaging of koltuk tezhibi corner pieces.",
+    "source_data": {
+      "visual_confirmation_file": "catalog/searches/visual_tier1_tiem_02437.json",
+      "yek_id": "705378",
+      "iek_id_note": "YEK ID corrected: was 705374 (TIEM 02430) in preliminary triage; correct ID for TIEM 02437 is 705378",
+      "iiif_id": "0000000662591",
+      "batch": "Murakkaʿ IIIF deep analysis batch (2026-02-28)"
+    }
+  }
+}

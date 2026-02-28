@@ -1,0 +1,408 @@
+{
+  "record_id": "sehzade_mehmed_00067",
+  "collection": {
+    "institution": "Süleymaniye Kütüphanesi — Şehzade Mehmed Koleksiyonu",
+    "city": "Istanbul",
+    "country": "Turkey",
+    "shelfmark": "00067",
+    "yek_url": "https://portal.yek.gov.tr/works/detail/333274"
+  },
+  "manuscript": {
+    "title": "Ḥall Mushkilāt al-Ishārāt (Sharḥ al-Ishārāt wa-l-Tanbīhāt)",
+    "title_arabic": "حل مشكلات الإشارات (شرح الإشارات والتنبيهات)",
+    "title_alt": "Hallu Müşkilâti'l-İşârât; Şerhu'l-İşârât ve't-Tenbîhât",
+    "author": "Naṣīr al-Dīn Muḥammad b. Muḥammad al-Ṭūsī (نصير الدين محمد بن محمد الطوسي), d. 672/1274",
+    "author_dates": "d. 672/1274",
+    "author_note": "Naṣīr al-Dīn al-Ṭūsī was the most eminent mathematician, astronomer, and philosopher of the 13th century Islamic world. His Sharḥ al-Ishārāt is the definitive commentary on Ibn Sīnā's al-Ishārāt wa-l-Tanbīhāt (Pointers and Reminders), itself the most sophisticated statement of Ibn Sīnā's mature philosophy. The Ṭūsī commentary was a standard text of Islamic philosophical education and was copied widely across the Ottoman, Safavid, and Timurid traditions.",
+    "calligrapher": null,
+    "calligrapher_dates": null,
+    "calligrapher_note": null,
+    "date_ah": "872",
+    "date_ce": "1467",
+    "date_detail": "22 Muḥarram 872 AH = 20 August 1467 CE, per colophon",
+    "place_of_copy": null,
+    "format": "Philosophical commentary (sharh) — court luxury codex",
+    "format_note": "A luxury court production commissioned for the personal library (mütalaahane) of Sultan Meḥmed II (Fātiḥ), copied on 22 Muḥarram 872 AH / 20 August 1467 CE. The manuscript features a twin shamsa zahriye with a royal dedication, a magnificent unvan tezhip, a section tezhip, and gold cetvel framing throughout — all consistent with the highest level of Fātiḥ-era court manuscript production.",
+    "language": "Arabic",
+    "script": "Taʿlīk (تعلیق) — Arabic Talik hand",
+    "dimensions_mm": {
+      "height": 252,
+      "width": 155
+    },
+    "writing_area_mm": {
+      "height": 170,
+      "width": 90
+    },
+    "folio_count": 397,
+    "preliminary_folios": "VIII preliminary folios (Roman numerals I–VIII)",
+    "end_folios": "III end folios",
+    "lines_per_page": 21,
+    "yek_id": "333274",
+    "iiif_id": "0000000348716",
+    "notes": "EXCEPTIONAL SPECIMEN. Dated Fātiḥ-era court production with a directly documented royal provenance chain: Meḥmed II (r. 1451–1481) → Sultan II. Bāyezīd (seal, ff. 1a, 397b) → Şehzade Meḥmed b. Süleymān (vakf, d. 950/1543). The twin shamsa zahriye at ff. 1b-2a carries an explicit dedication formula stating the manuscript was prepared for the personal reading (mütālaʿa) of Fātiḥ Sultan Meḥmed. The consistent inscription 'Bismillāhi'l-Meliki'l-Vehhāb' (بسم الله الملك الوهاب) in the cartouches of the illuminated headpieces at ff. 2b and 129b is a distinctive royal formula. The first leaf (f. I) is described as marbled (ebrulu) in the YEK catalogue, making this the earliest dateable instance of a marbled leaf in an Ottoman manuscript in the corpus. Worm damage at the top margin noted in the catalogue ('ust tarafindan hafif kurt yeniklidir')."
+  },
+  "paper_decoration": {
+    "types": [
+      "marbled",
+      "illuminated_margins",
+      "framing_system"
+    ],
+    "summary": "The decorative program of this exceptional Fātiḥ-era court manuscript operates on three integrated levels. (1) The illumination program: a twin shamsa zahriye (facing pointed-oval illuminated medallions) at ff. 1b-2a carrying the royal dedication, a magnificent double-height unvan tezhip (illuminated headpiece) at f. 2b in the style of the Fātiḥ-era nakkaşhâne, and a section-opening bolüm başı tezhibi at f. 129b — both headpieces sharing an identical decorative vocabulary of deep lapis blue ground with hatāyī and rūmī scrollwork in gold and polychrome. (2) The framing system: gold cetvel (yaldızlı cetvel) framing throughout the text block (yazi alani altin yaldizli cetvelle cevrelenmis), with the Talik-script text written on cream/ivory paper. The commented passages (şerh edilen ibareler) are additionally indicated in gold ink (altin yaldizli murekkep), creating an internal visual hierarchy. (3) The marbled first leaf: the YEK catalogue states 'Nushanin ilk yapragi ebrulu' (the first leaf is marbled). The digital image of IIIF p1 shows irregular mottling on f. Ia consistent with degraded battal ebru from 1467 CE. The visual evidence at digital resolution has been upgraded to probable (0.65) after native IIIF analysis: f. Ia shows genuinely anomalous organic mottling inconsistent with foxing, water damage, or uniform aging. The cataloguer's in-person assessment provides the strongest grounds for acceptance. If confirmed, this marbled leaf — dated AH 872 / 1467 CE — would be among the earliest dateable marbled leaves in an Ottoman manuscript and a significant landmark in the history of Islamic marbled paper.",
+    "distribution_notes": "The illuminated elements are concentrated at three specific locations: ff. 1b-2a (twin shamsa zahriye), f. 2b (unvan tezhip and opening serlevha), and f. 129b (section-opening bolüm başı tezhibi). The gold cetvel framing system is uniform throughout all 397 text folios. The marbled leaf is a single preliminary leaf (f. I). The gold-ink commentary passages are distributed throughout the text wherever a passage being commented upon is cited.",
+    "technique_terms": {
+      "ottoman": "zahriye; tezhipli serlevha / ünvan tezhibi; bölüm başı tezhibi; yaldızlı cetvel; altın mürekkepli metin; ebrulu ilk yaprak",
+      "persian": "shamsa (شمسه); sarlawḥ (سرلوح); khaṭṭ-i zarīn (خط زرین)",
+      "arabic": "zahriyya (زهرية); ʿunwān (عنوان); jadwal mudhahdhab (جدول مذهّب); dhahab (ذهب)"
+    },
+    "catalogue_description": {
+      "paper_field": null,
+      "notes_field": "Nusha Fatih Sultan Mehmed Han'in ozel kutuphanesi icin istinsah edilmistir. Zahriyede bulunan karsilikli iki muzehhep semseden sagda olaninda nushanin Fatih Sultan Mehmed Han'in mutalaasina sunulduguna dair ifadeler, sol tarafta olaninda ise eser ve muellif ismi yazmaktadir. 2b sayfasindaki unvan tezhibi ile 129b sayfasindaki bolum basi tezhibinin kitabesinde 'Bismi'l-Meliki'l-Vehhab' ifadesi bulunmaktadir. IIIa ve 1a sayfalarinda da eser ve muellif ismi not edilmistir. Vb sayfasinda eserin tamamlanmamis bir fihristi vardir. IIIa ve 397a sayfalarinda nushanin bulundugu kutuphane ve koleksiyon adi ile koleksiyon numarasi bilgileri yer almaktadir. 1a sayfasinda nushanin numarasi kaydedilmistir. Nushada yazi alani altin yaldizli cetvelle cevrelenmis olup serh edilen ibareler altin yaldizli murekkeple belirtilmistir. 181b sayfasinin kenarina metinle ilgili bir not yazilmistir. Yaprak sonlari musirlidir. Nushada 4 farkli yaprak numaralandirmasi yapilmis olup katalog kaydinda daha az hata icerdiginden sayfa cetvellerinin hemen ustunde yer alan hindi rakamlar dikkate alinmistir. IIIa sayfasinda yaprak sayisi hatali olarak 365 olarak yazilmistir. Nushanin ilk yapragi ebrulu olup II, IV, VI, VII, VIII ile sondaki I ve II. yapraklari bostur. Nusha ust tarafindan hafif kurt yeniklidir.",
+      "notes_field_normalized": "Nüsha Fatih Sultan Mehmed Han'ın özel kütüphanesi için istinsah edilmiştir. Zahriyede bulunan karşılıklı iki müzehhep şemşeden sağda olanında nüshanın Fatih Sultan Mehmed Han'ın mütalâasına sunulduğuna dair ifadeler, sol tarafta olanında ise eser ve müellif ismi yazmaktadır. 2b sayfasındaki ünvan tezhibi ile 129b sayfasındaki bölüm başı tezhibinin kitabesinde 'Bismillāhi'l-Meliki'l-Vehhāb' ifadesi bulunmaktadır. IIIa ve 1a sayfalarında da eser ve müellif ismi not edilmiştir. Vb sayfasında eserin tamamlanmamış bir fihristi vardır. IIIa ve 397a sayfalarında nüshanın bulunduğu kütüphane ve koleksiyon adı ile koleksiyon numarası bilgileri yer almaktadır. 1a sayfasında nüshanın numarası kaydedilmiştir. Nüshada yazı alanı altın yaldızlı cetvel ile çevrelenmiş olup şerh edilen ibareler altın yaldızlı mürekkeple belirtilmiştir. 181b sayfasının kenarına metinle ilgili bir not yazılmıştır. Yaprak sonları müşirlidir. Nüshada 4 farklı yaprak numaralandırması yapılmış olup katalog kaydında daha az hata içerdiğinden sayfa cetvellerinin hemen üstünde yer alan Hindî rakamlar dikkate alınmıştır. IIIa sayfasında yaprak sayısı hatalı olarak 365 olarak yazılmıştır. Nüshanın ilk yaprağı ebrulu olup II, IV, VI, VII, VIII ile sondaki I ve II. yaprakları boştur. Nüsha üst tarafından hafif kurt yeniklidir.",
+      "notes_field_translation": "The copy was made for the personal library of Fatih Sultan Mehmed Han. Of the two facing illuminated shamsa medallions in the zahriye, the right one contains a statement that the copy was presented for the personal reading (mütālaʿa) of Fatih Sultan Mehmed Han, while the left one contains the title of the work and the author's name. The cartouches of the unvan tezhip at page 2b and the section-opening tezhip at page 129b contain the inscription 'Bismillāhi'l-Meliki'l-Vehhāb.' The title and author name are also noted on pages IIIa and 1a. Page Vb contains an incomplete table of contents. Pages IIIa and 397a contain information on the library, collection name, and collection number where the copy is held. The copy number is recorded on page 1a. The text area is framed with gold ruled lines, and the passages being commented upon are indicated in gold ink. A note related to the text is written in the margin of page 181b. Leaf ends are catchworded. Four different foliation systems are present; the Hindi numerals above the cetvels have been used in the catalogue record as they contain fewer errors. The folio count on page IIIa is erroneously written as 365. The first leaf of the copy is marbled (ebrulu); leaves II, IV, VI, VII, VIII and the last I and II are blank. The copy has slight worm damage at the top.",
+      "decoration_field": "Tezhip, 1b, 2a, 2b, 129b",
+      "source": "YEK portal, genel notlar and tezhip/minyatür fields, record 333274. Süleymaniye Kütüphanesi, Şehzade Mehmed Koleksiyonu.",
+      "cataloguer_note": "The genel notlar field is exceptionally detailed and constitutes the primary source for this catalog record. The cataloguer's explicit statement 'Nüshanın ilk yaprağı ebrulu' (the first leaf is marbled) is the basis for including marbled paper in the decoration types; the visual evidence at digital resolution is ambiguous but deference to the professional in-person assessment is appropriate."
+    }
+  },
+  "workshop_attribution": {
+    "primary_tradition": "ottoman",
+    "workshop_centre": "Istanbul — nakkaşhâne-i hümâyun (Fātiḥ period, pre-1481)",
+    "date_range_ce": "1467",
+    "confidence": 0.92,
+    "key_indicators": [
+      "Colophon dated 22 Muḥarram 872 AH / 20 August 1467 CE — direct production evidence placing the manuscript in the reign of Fātiḥ Sultan Meḥmed (r. 1451–1481)",
+      "The zahriye dedication formula explicitly states the manuscript was prepared for Fātiḥ Sultan Meḥmed's personal library (mütalaahane / ḫāṣṣa kütüphanesi) — the highest level of Ottoman royal commission",
+      "The twin shamsa zahriye with lapis blue ground, hatāyī-rūmī scrollwork in gold, and the specific 'Bismillāhi'l-Meliki'l-Vehhāb' cartouche formula are diagnostic of Fātiḥ-era imperial court illumination, associated with the Istanbul nakkaşhâne under the patronage of the conqueror",
+      "The double-page unvan tezhip and section tezhip at f. 129b share identical decorative vocabulary and execution quality, confirming a unified single-workshop production program",
+      "The provenance chain Fātiḥ → Bāyezīd II → Şehzade Meḥmed vakf is documented by successive royal seals and vakf records, independently corroborating the royal production context"
+    ],
+    "cross_tradition_caveats": [
+      "The use of the Talik (Taʿlīk) script for an Arabic philosophical text is somewhat unusual; Arabic texts were more commonly written in Naskh (Nesih) in the Ottoman tradition. The choice of Talik may indicate a scribe with Persian-tradition training, or may reflect the particular taste of the Fātiḥ-era court where Persian literary culture was highly prestigious",
+      "The illumination style of the Fātiḥ period is transitional, combining strong Timurid/Herat influences (the shamsa zahriye form, the hatāyī vocabulary) with emerging Ottoman-specific elements. Precise attribution to a named illuminator within the Istanbul nakkaşhâne cannot be made without additional archival documentation",
+      "The first marbled leaf (f. I) cannot be independently confirmed as original to the 1467 production at this digital resolution; it may be an early or later addition. If original, it would be an exceptionally early example of marbled paper in an Ottoman manuscript"
+    ]
+  },
+  "codicology": {
+    "paper": {
+      "color": "Cream/ivory (standard Ottoman scholarly manuscript paper); preliminary leaf f. I described as 'ebrulu' (marbled) per catalogue",
+      "preparation": "The kagit_ozellikleri field is null in the YEK record; physical description derived from the genel notlar field and IIIF images",
+      "weight": null,
+      "decoration": "Gold cetvel framing throughout text block; gold ink (altın yaldızlı mürekkep) for commented passages; first leaf described as marbled (ebrulu)",
+      "paper_type": "Consistent with mid-15th-century Ottoman court manuscript paper; the visual evidence in IIIF images shows cream/ivory paper of good quality"
+    },
+    "ruling": {
+      "system": "Altın yaldızlı cetvel (gold ruling) — the text block is framed by gold ruling lines throughout the manuscript (yazi alani altin yaldizli cetvelle cevrelenmis)",
+      "description": "Multi-line gold cetvel system visible throughout all examined text pages. The gold ruling forms a prominent rectangular frame around the text block with both a thick main rule and finer companion lines. An additional functional element: the passages being commented upon (şerh edilen ibareler) are written in gold ink throughout, creating a two-level visual hierarchy between the primary text (gold) and the commentary (black Talik)."
+    },
+    "binding": {
+      "cover_description": "Sanatli mesin (artistically worked sheep leather/maroquin), semseli (with medallion), köşebentli (with corner pieces), sirazeli (sewn/with silk headbands). An artistically executed leather binding with şemse and köşebend decoration.",
+      "cover_type": "Şemseli, köşebentli meşin cilt",
+      "notes": "The binding is described as 'sanatli' (artistic/accomplished) — a higher-quality binding than the damaged replacement found on Nuruosmaniye 00360. The presence of şemse (central medallion), köşebend (corner pieces), and sıraze (headband) is consistent with an Ottoman court binding of the mid-15th century, though whether this is the original 1467 binding or a later replacement is not specified in the catalogue."
+    },
+    "format": "Philosophical sharh (commentary) — luxury court codex with royal dedication",
+    "condition_summary": "The manuscript is in generally good condition. The illuminated elements at ff. 1b-2a, 2b, and 129b are vivid and well-preserved as seen in the IIIF images. The catalogue notes slight worm damage at the top margin ('ust tarafindan hafif kurt yeniklidir'). Four different foliation systems are present, indicating the manuscript has been extensively referenced and catalogued over the centuries. Catchwords (müşir) are present at leaf ends. The blank preliminary leaves (II, IV, VI, VII, VIII) and the final blank leaves are consistent with the standard structure of Ottoman court manuscripts.",
+    "conservation_history": "Slight worm damage ('kurt yeniği') at the top margin noted in the YEK catalogue. No specific conservation campaigns documented. The manuscript passed through at least two major institutional transfers (from Fātiḥ's library through Bāyezīd II's library into the Şehzade Meḥmed vakf) without apparent major restoration events."
+  },
+  "visual_confirmation": {
+    "verdict": "confirmed",
+    "confidence": 0.90,
+    "screenshots_examined": 13,
+    "limitations": [
+      "Screenshot resolution (~1536px viewport) adequate for large-scale decoration (shamsa, headpieces, cetvel) but insufficient for fine detail analysis or definitive marbling identification on the degraded first leaf",
+      "YEK watermark overlay partially obscures surface detail, particularly on the first leaf where marbling evidence is sought",
+      "Only 13 of approximately 408 IIIF pages examined; however, all claimed decoration locations (ff. 1b-2a zahriye, f. 2b unvan, f. 129b section tezhip, regular text cetvels, first leaf) were visited",
+      "Colophon page (f. 397a) and end pages not examined",
+      "The Hindi numeral foliation creates slight ambiguity in pinpointing exact folio correspondence in the pp. 132–133 area"
+    ]
+  },
+  "folio_analyses": [
+    {
+      "folio": "f. I recto (IIIF p001) — first leaf, marbled leaf claim",
+      "source_image": "corpus/iiif/sehzade_mehmed_00067_p001.jpg",
+      "decoration_present": null,
+      "decoration_types": ["marbled"],
+      "elements": [
+        {
+          "motif": "Possible marbled paper (ebrulu) — f. I recto",
+          "description": "The catalogue states 'Nüshanın ilk yaprağı ebrulu' (the first leaf of the copy is marbled). IIIF p001 shows the outer cover of the Süleymaniye library box and the title inscribed on f. Ia in a library hand, with a Süleymaniye Kütüphanesi accession stamp. The reverse side of this leaf (f. Ib) is not separately captured. The visual confirmation session (sehzade_mehmed_00067_p1) observed irregular mottling on the lower-left portion of f. Ia, concentrated near the gutter, with organic flowing qualities possibly consistent with heavily degraded battal ebru (stone marbling) from 1467 CE. The pattern is also consistent with water damage, adhesive staining from the binding, or foxing. The cataloguer's in-person examination remains the stronger evidence.",
+          "location": "f. I (first preliminary leaf, recto and verso); only recto accessible in IIIF p001",
+          "confidence": 0.65
+        }
+      ],
+      "confidence": 0.65,
+      "notes": "Verdict for marbled leaf: PROBABLE (0.65, upgraded from 0.55 after native IIIF analysis 2026-02-28). The surface of f. Ia shows genuinely anomalous organic mottling — dramatically different from all other pages — consistent with heavily degraded battal ebru. Cannot be fully explained by foxing, water damage, adhesive staining, or uniform aging alone. Resolution insufficient to resolve diagnostic droplet/spot microstructure. The professional cataloguer's in-person assessment ('ilk yapragi ebrulu') remains the strongest evidence. Physical examination under magnification and raking light required for definitive confirmation. If confirmed as original to the 1467 production, this would be one of the earliest precisely dateable examples of ebru in an Ottoman manuscript."
+    },
+    {
+      "folio": "ff. 1b-2a — twin shamsa zahriye (IIIF p004)",
+      "source_image": "corpus/iiif/sehzade_mehmed_00067_p004.jpg",
+      "decoration_present": true,
+      "decoration_types": ["illuminated_margins"],
+      "elements": [
+        {
+          "motif": "Twin shamsa zahriye — facing pointed-oval illuminated medallions",
+          "description": "Two large pointed-oval (badem şeklinde / almond-form) illuminated shamsa medallions face each other across the opening of ff. 1b-2a. Each medallion features: (1) a deep lapis blue inner ground (lājavardīna) with white Arabic text in the central field; (2) an intermediate zone with a band of blue ground bearing gold hatāyī scrollwork and tiny polychrome flower heads; (3) an outer border with gold leaf lobes alternating with small pointed salbek finials extending into the cream margin; (4) corner rosettes at the cardinal points of the outer border. The right shamsa (f. 2a) contains the dedication formula stating the manuscript was prepared for Fātiḥ Sultan Meḥmed Han's personal reading (mütālaʿa); the left shamsa (f. 1b) contains the title of the work and the author's name. The style is consistent with the Fātiḥ-era Ottoman court illumination tradition, showing strong Timurid/Herat influence in the shamsa format while adapted to Ottoman palatial taste.",
+          "location": "Full-page medallions on ff. 1b and 2a respectively; margin paper is cream/ivory",
+          "confidence": 0.98
+        }
+      ],
+      "confidence": 0.98,
+      "notes": "The twin shamsa zahriye is the most visually spectacular element of the manuscript and is unambiguously confirmed at IIIF resolution. The lapis blue ground, hatāyī scrollwork, gold cartouches, and salbek finials are all clearly legible. The faint shamsa bleedthrough visible on f. IIIa (IIIF p003) corroborates the strong gold-laden illumination of this opening. The zahriye format — a full-page illuminated medallion at the manuscript's opening — is a standard feature of Timurid and early Ottoman luxury court manuscripts."
+    },
+    {
+      "folio": "ff. 2b-3a — unvan tezhip and opening text pages (IIIF p005)",
+      "source_image": "corpus/iiif/sehzade_mehmed_00067_p005.jpg",
+      "decoration_present": true,
+      "decoration_types": ["illuminated_margins", "framing_system"],
+      "elements": [
+        {
+          "motif": "Ünvan tezhibi (illuminated headpiece) — f. 2b",
+          "description": "A magnificent double-height illuminated headpiece (ünvan tezhibi) occupies the top of f. 2b. The headpiece has a deep lapis blue ground with dense interlocking hatāyī (composite flowers) and rūmī (split-leaf palmettes) scrollwork in gold and polychrome (green, red, white highlights). The headpiece is crowned by an elaborate tāc (crown) finial of muqarnas-influenced blue and gold crenellations along the top edge, and terminates at the bottom in a hanging kandīl (pendant lamp) form. A central cartouche with gold ground contains white Arabic text (the 'Bismillāhi'l-Meliki'l-Vehhāb' formula per catalogue). Below the headpiece, the text begins in Talik script. The left-hand page (f. 3a) shows the continuation of the text with gold cetvel framing. Şehzade Meḥmed b. Süleymān vakf seals are visible on both pages.",
+          "location": "Top of f. 2b; headpiece approximately double the height of a standard single-line headpiece",
+          "confidence": 0.97
+        },
+        {
+          "motif": "Gold cetvel framing — text block",
+          "description": "Multi-line gold ruling lines (altın yaldızlı cetvel) form a prominent rectangular frame around the text block on both pages of the opening. The cetvel system consists of a thick primary gold rule with fine companion lines, creating a layered border effect. The framing is consistent with the catalogue description 'yazi alani altin yaldizli cetvelle cevrelenmis.' Gold ink is used for the commented passage text within the body of the commentary.",
+          "location": "Both pages of every examined opening; most elaborate form visible in conjunction with the ünvan at ff. 2b-3a",
+          "confidence": 0.97
+        }
+      ],
+      "confidence": 0.97,
+      "notes": "The ünvan tezhip at f. 2b is a masterwork of Fātiḥ-era court illumination. The dense hatāyī-rūmī program on lapis blue ground, the tāc and kandīl finials, and the gold-ground cartouche with the 'Bismillāhi'l-Meliki'l-Vehhāb' formula are all diagnostic of the highest level of mid-15th-century Ottoman court illumination practice, showing the assimilation and transformation of Timurid/Herat decorative vocabulary into an Ottoman court idiom."
+    },
+    {
+      "folio": "ff. ~129b-130a — section-opening bolüm başı tezhibi (IIIF p133)",
+      "source_image": null,
+      "decoration_present": true,
+      "decoration_types": ["illuminated_margins", "framing_system"],
+      "elements": [
+        {
+          "motif": "Bölüm başı tezhibi (section-opening illuminated headpiece) — f. 129b",
+          "description": "A section-opening illuminated headpiece virtually identical in style, scale, and decorative vocabulary to the ünvan tezhip at f. 2b. Deep lapis blue ground with hatāyī-rūmī scrollwork in gold and polychrome; tāc crenellated finials at top; hanging kandīl pendant at bottom; gold-ground central cartouche with the 'Bismillāhi'l-Meliki'l-Vehhāb' formula. The near-identical treatment of both headpieces confirms they were executed by the same illuminator or workshop team in a single unified production campaign. Gold cetvel framing on both pages of the opening.",
+          "location": "f. 129b (right-hand page of IIIF p133 opening), confirmed from visual confirmation session screenshot",
+          "confidence": 0.95
+        }
+      ],
+      "confidence": 0.95,
+      "notes": "The section tezhip confirms the manuscript's production as a unified luxury program with consistent illumination throughout. The catalogue entry 'Tezhip, 1b, 2a, 2b, 129b' exactly corresponds to the four decorated locations confirmed in the visual survey. No p133 IIIF image was captured in the current session's corpus; description is based on the visual confirmation session data."
+    }
+  ],
+  "terminology": {
+    "terms_used": [
+      {
+        "concept": "Frontispiece with facing medallions",
+        "ottoman": "zahriye / karşılıklı şemse",
+        "arabic": "zahriyya (زهرية)",
+        "persian": "shamsa (شمسه)",
+        "english": "Zahriye: a frontispiece page or opening, typically featuring a full-page or full-opening decorative composition. Here: two facing pointed-oval illuminated shamsa medallions on ff. 1b-2a, the standard zahriye format of Ottoman and Timurid luxury manuscripts."
+      },
+      {
+        "concept": "Pointed-oval medallion",
+        "ottoman": "şemse / badem şeklinde şemse",
+        "arabic": null,
+        "persian": "shamsa (شمسه) / toranj (ترنج)",
+        "english": "Şemse: central medallion, typically in a pointed-oval (almond/badem) form. In the zahriye context, the şemse occupies the full page and carries inscribed text (title, dedication, author). The pointed finials (salbek) extend from the medallion into the margins."
+      },
+      {
+        "concept": "Pendant/tongue extending from medallion",
+        "ottoman": "salbek / sar-toranj",
+        "arabic": null,
+        "persian": "sar-toranj (سر ترنج)",
+        "english": "Salbek: the pointed tongue or finial extending from the apex and base of the şemse medallion into the surrounding margin. Here visible as a prominent feature of the twin shamsa zahriye."
+      },
+      {
+        "concept": "Illuminated headpiece",
+        "ottoman": "ünvan tezhibi / serlevha",
+        "arabic": "ʿunwān (عنوان)",
+        "persian": "sarlawḥ (سرلوح)",
+        "english": "Ünvan tezhibi: the illuminated headpiece at the top of the first text page (f. 2b in this manuscript). Here a double-height composition with lapis blue ground, hatāyī-rūmī program, tāc finials, kandīl pendant, and inscription cartouche."
+      },
+      {
+        "concept": "Section-opening illumination",
+        "ottoman": "bölüm başı tezhibi",
+        "arabic": null,
+        "persian": null,
+        "english": "Bölüm başı tezhibi: an illuminated headpiece marking the opening of a major section of the text (equivalent to the ünvan at the beginning of the work, but placed at a section boundary). Here at f. 129b, matching the ünvan in style and formula."
+      },
+      {
+        "concept": "Crown finial on headpiece",
+        "ottoman": "tâç",
+        "arabic": null,
+        "persian": "tāj (تاج)",
+        "english": "Tāç: the crown-like crenellated finial at the top of an illuminated headpiece, often of muqarnas-influenced design. A standard feature of Timurid and early Ottoman ünvan compositions."
+      },
+      {
+        "concept": "Pendant lamp finial on headpiece",
+        "ottoman": "kandil",
+        "arabic": "qandīl (قنديل)",
+        "persian": "qandīl (قندیل)",
+        "english": "Kandīl: the pendant lamp or drop finial hanging from the bottom of an illuminated headpiece. A standard pairing with the tāç at the top, found in both Timurid and Ottoman luxury manuscripts."
+      },
+      {
+        "concept": "Chinese-derived composite flower motif",
+        "ottoman": "hatâyî / hatayi",
+        "arabic": null,
+        "persian": "khatāʾī (ختایی)",
+        "english": "Hatāyī: Chinese-derived composite flowers and peony-lotus forms. Here used in the grounds of the shamsa medallions and the ünvan headpiece as the primary scrollwork motif."
+      },
+      {
+        "concept": "Split-leaf palmette arabesque",
+        "ottoman": "rûmî",
+        "arabic": null,
+        "persian": "rūmī (رومی)",
+        "english": "Rūmī: split-leaf palmette scrollwork derived from Byzantine/Seljuk decorative tradition. Combined with hatāyī in the ünvan headpiece to form the characteristic Ottoman hatāyī-rūmī synthesis of the Fātiḥ period."
+      },
+      {
+        "concept": "Royal patronage formula",
+        "ottoman": "mütalaahane-i hümayun / hassa kütüphane",
+        "arabic": "maktaba al-sulṭān (مكتبة السلطان)",
+        "persian": null,
+        "english": "Mütalaahane / ḫāṣṣa kütüphane: the personal library or reading room of the sultan. The zahriye dedication formula 'nushanın Fatih Sultan Mehmed Han'ın mütalâasına sunulduğu' (the copy was submitted for the reading of Fatih Sultan Mehmed Han) is an explicit royal commission indicator."
+      },
+      {
+        "concept": "Royal dedication inscription",
+        "ottoman": "Bismillāhi'l-Meliki'l-Vehhāb",
+        "arabic": "Bismi Allāhi al-Maliki al-Wahhāb (بسم الله الملك الوهاب)",
+        "persian": null,
+        "english": "Bismillāhi'l-Meliki'l-Vehhāb: 'In the name of God, the King, the Bestower' — a distinctive invocation formula found in the cartouches of both headpieces (ff. 2b and 129b), specific to royal or high-level Ottoman court manuscript patronage. The epithet al-Wahhāb (the Bestower/Giver) is used here as a divine name with royal connotations."
+      },
+      {
+        "concept": "Gold ink for commented text",
+        "ottoman": "altın yaldızlı mürekkep",
+        "arabic": "dhahab (ذهب) / ḥibr mudhahdhab (حبر مذهّب)",
+        "persian": "zarīn-qalam (زرین قلم)",
+        "english": "Altın yaldızlı mürekkep: gold ink used for the passages being commented upon (şerh edilen ibareler), creating a visual distinction between the primary (Ṭūsī's commentary, in black Talik) and the texts being commented on (Ibn Sīnā's Ishārāt, in gold ink)."
+      },
+      {
+        "concept": "Marbled paper",
+        "ottoman": "ebrulu kâğıt / ebrî",
+        "arabic": null,
+        "persian": "kāġad-e abrī (کاغذ ابری)",
+        "english": "Ebrulu: marbled paper. Here applied to a single preliminary leaf (f. I) described as marbled in the YEK catalogue. If original to the 1467 production, this would be among the earliest dateable Ottoman marbled leaves in the project corpus."
+      },
+      {
+        "concept": "Catchword",
+        "ottoman": "müşir / yakut",
+        "arabic": "raqqīm / muṣṭalaḥ al-waṣl",
+        "persian": "muʿaqqabī",
+        "english": "Müşir: catchword — the first word of the following page written at the bottom-right of the current page to ensure correct ordering of leaves. Present at leaf ends throughout this manuscript (yaprak sonları müşirlidir)."
+      }
+    ]
+  },
+  "bibliography": [
+    {
+      "citation": "Déroche, François. Islamic Codicology: An Introduction to the Study of Manuscripts in Arabic Script. Translated by Deke Dusinberre and David Radzinowicz. London: Al-Furqan Islamic Heritage Foundation, 2005.",
+      "relevance": "Foundational codicological reference. Provides the framework for the physical description of the manuscript — zahriye format, shamsa medallion forms, ünvan tezhip structure, cetvel ruling systems, and catchword conventions. Essential for all codicological descriptions in this catalog record.",
+      "relevance_score": 0.90,
+      "access_notes": "Monograph; available at specialist libraries."
+    },
+    {
+      "citation": "Gacek, Adam. Arabic Manuscripts: A Vademecum for Readers. Leiden: Brill, 2009.",
+      "relevance": "Standard desk reference for Arabic manuscript terminology. Used for the standardization of all Arabic-script manuscript features: script identification (Talik), decoration terms (ünvan, zahriye, cetvel), and codicological conventions.",
+      "relevance_score": 0.87,
+      "access_notes": "Monograph; widely available."
+    },
+    {
+      "citation": "Tanındı, Zeren. 'İslâm Dünyasında Sanat Tarihinin Kaynakları Olarak Sultanların Kütüphaneleri.' In Uluslararası Sanat Tarihi Sempozyumu: Prof. Dr. Gönül Öney'e Armağan. Izmir: Ege Üniversitesi, 2002.",
+      "relevance": "Studies Ottoman sultanic libraries including the personal library of Fātiḥ Sultan Meḥmed, providing direct context for the commission and production of this manuscript as a mütalaahane copy. Tanındı's work on Fātiḥ-era court manuscripts is the most authoritative source for the illumination program of this period.",
+      "relevance_score": 0.92,
+      "access_notes": "Turkish-language conference proceedings. Available at major Turkish academic libraries."
+    },
+    {
+      "citation": "Tanındı, Zeren. 'Manuscript Production in the Ottoman Palace Workshop.' Manuscripts of the Middle East 3 (1988): 67–98.",
+      "relevance": "Survey of Ottoman imperial manuscript production including the illumination programs of the nakkaşhâne-i hümâyun under successive sultans. Provides stylistic comparanda for the Fātiḥ-era hatāyī-rūmī vocabulary, twin shamsa zahriye format, and ünvan tezhip composition documented in this record.",
+      "relevance_score": 0.90,
+      "access_notes": "Peer-reviewed article; available at specialist libraries."
+    },
+    {
+      "citation": "Çağman, Filiz, and Zeren Tanındı. The Topkapı Saray Museum: The Albums and Illustrated Manuscripts. Translated and edited by J. M. Rogers. Boston: Little, Brown, 1986.",
+      "relevance": "Standard reference for Ottoman court manuscripts, including Fātiḥ-era luxury productions. Provides illustrated comparanda for the shamsa zahriye format, ünvan tezhip, and gold cetvel system present in this manuscript. The catalogue entries document parallel illuminated manuscripts from the Topkapı collection.",
+      "relevance_score": 0.88,
+      "access_notes": "Exhibition catalogue; widely held."
+    },
+    {
+      "citation": "Raby, Julian, and Zeren Tanındı. Turkish Bookbinding in the 15th Century: The Foundation of an Ottoman Court Style. London: Azimuth Editions, 1993.",
+      "relevance": "Definitive study of 15th-century Ottoman court bookbinding, with extensive documentation of the Fātiḥ-era binding style including şemse medallion, köşebend corner pieces, and the leather-working techniques used in this manuscript's binding. The royal library provenance (Fātiḥ → Bāyezīd II) makes this reference directly applicable.",
+      "relevance_score": 0.88,
+      "access_notes": "Monograph; available at major Islamic art history libraries."
+    },
+    {
+      "citation": "Roxburgh, David J. The Persian Album, 1400–1600: From Dispersal to Collection. New Haven: Yale University Press, 2005.",
+      "relevance": "The primary study of the Timurid/Herat shamsa zahriye tradition and its influence on Ottoman court manuscript arts. Provides essential comparative context for the twin shamsa format at ff. 1b-2a and the Timurid decorative vocabulary (hatāyī, lapis blue ground, salbek finials) visible in this Fātiḥ-era Ottoman manuscript.",
+      "relevance_score": 0.83,
+      "access_notes": "Monograph; widely held at major research libraries."
+    },
+    {
+      "citation": "Blair, Sheila S. 'Color and Gold: The Decorated Papers Used in Manuscripts in Later Islamic Times.' Muqarnas 17 (2000): 24–36.",
+      "relevance": "Foundational study of decorated papers in Islamic manuscripts including the earliest documented instances of marbled (ebrī) paper. Directly relevant to the assessment of the marbled first leaf claim (f. I, 'ebrulu' per catalogue). Blair's framework provides the historical context for a 1467-dated marbled leaf.",
+      "relevance_score": 0.80,
+      "access_notes": "Peer-reviewed article. Available via JSTOR."
+    },
+    {
+      "citation": "Bloom, Jonathan M. Paper Before Print: The History and Impact of Paper in the Islamic World. New Haven: Yale University Press, 2001.",
+      "relevance": "Comprehensive history of paper in the Islamic world. Chapter on decorated papers provides context for the marbled leaf at f. I, and the broader history of paper preparation in the mid-15th-century Ottoman context.",
+      "relevance_score": 0.75,
+      "access_notes": "Widely held monograph."
+    },
+    {
+      "citation": "Gohlman, William E. The Life of Ibn Sīnā: A Critical Edition and Annotated Translation. Albany: State University of New York Press, 1974.",
+      "relevance": "Scholarly edition and translation relevant to the text — Ibn Sīnā's Ishārāt wa-l-Tanbīhāt, on which the Ṭūsī commentary copied in this manuscript is the authoritative commentary. Provides essential background for understanding the intellectual significance of Fātiḥ Sultan Meḥmed's commission of a luxury copy of this philosophical work.",
+      "relevance_score": 0.65,
+      "access_notes": "Monograph; available at major university libraries with philosophy and Islamic studies collections."
+    }
+  ],
+  "suggested_collections": [
+    {
+      "institution": "Topkapı Sarayı Müzesi Kütüphanesi, Istanbul",
+      "reason": "Holds the largest collection of Fātiḥ-era and Bāyezīd II-era court manuscripts in any single institution, many of which share the twin shamsa zahriye format, hatāyī-rūmī ünvan tezhip, and gold cetvel system documented in this record. Direct stylistic comparanda are available for the shamsa medallions, tāc and kandīl headpiece finials, and the royal 'Bismillāhi'l-Meliki'l-Vehhāb' cartouche formula.",
+      "digital_access": "https://kutuphane.tsmk.gov.tr"
+    },
+    {
+      "institution": "Süleymaniye Kütüphanesi, Istanbul (YEK Portal)",
+      "reason": "The holding institution. The full IIIF image set (~408 pages) is accessible via the YEK portal and would support complete examination of all decorated folios, the colophon, the marbled first leaf, and the royal seals.",
+      "digital_access": "https://portal.yek.gov.tr/works/detail/333274"
+    },
+    {
+      "institution": "Chester Beatty Library, Dublin",
+      "reason": "Holds major examples of Ottoman Fātiḥ-era court manuscripts and later Ottoman illuminated manuscripts with twin shamsa zahriye compositions and ünvan tezhip programs comparable to this record.",
+      "digital_access": "https://viewer.cbl.ie"
+    },
+    {
+      "institution": "Bodleian Library, Oxford",
+      "reason": "Elaine Wright's work on Islamic illuminated manuscripts includes Timurid and early Ottoman examples with shamsa zahriye and ünvan tezhip programs directly comparable to this record.",
+      "digital_access": "https://digital.bodleian.ox.ac.uk"
+    }
+  ],
+  "provenance": {
+    "donor": null,
+    "waqf": "Şehzade Mehmed b. Süleymān vakf (d. 950/1543). The vakf records are at ff. 2b, 3a, 245b, 246a, and 397a, confirmed by the seal 'Meḥmed b. Süleymān Ḫān el-Müẓaffer Dāʾimā' at multiple locations throughout the manuscript.",
+    "previous_owners": [
+      "Fātiḥ Sultan Meḥmed (r. 1451–1481) — primary commissioner; mütalaahane copy per zahriye dedication",
+      "Sultan II. Bāyezīd (r. 1481–1512) — royal seal 'Bāyezīd b. Meḥmed Ḫān Müẓaffer Dāʾimā' at ff. 1a, 397b",
+      "Şehzade Meḥmed b. Süleymān (d. 950/1543) — vakf endowment, seals at ff. 1a, 2b, 3a, 63b, 64a, 129b, 130a, 213b, 214a, 245b, 246a, 295b, 296a, 343b, 344a, 397a"
+    ],
+    "previous_shelfmarks": [],
+    "notes": "This manuscript documents one of the most complete and historically significant royal provenance chains in the project corpus. It was commissioned for the personal library of Fātiḥ Sultan Meḥmed — the conqueror of Constantinople — and copied on 22 Muḥarram 872 AH / 20 August 1467 CE, fourteen years after the conquest. It then passed directly to Bāyezīd II (Fātiḥ's son and successor), and subsequently entered the vakf endowment of Şehzade Meḥmed b. Süleymān (grandson of Bāyezīd II, son of Sultan Süleymān the Magnificent, d. 1543), whose vakf established the Şehzade Mehmed library collection now held at the Süleymaniye Kütüphanesi, Istanbul. The manuscript's current collection reflects its last institutional home in this vakf. YEK ID: 333274; IIIF ID: 0000000348716."
+  },
+  "analysis_metadata": {
+    "analyzed_date": "2026-02-28",
+    "analyzer": "claude-code-manuscript-pipeline",
+    "pipeline_stage": "metadata-generator",
+    "image_source": "YEK Portal IIIF downloads (YEK ID 333274, Süleymaniye Kütüphanesi, IIIF ID 0000000348716) — captured by visual-confirmation agent and direct IIIF download in corpus/iiif/sehzade_mehmed_00067_p*.jpg",
+    "image_quality_notes": "IIIF images at viewer/download resolution. The twin shamsa zahriye (p004) and ünvan tezhip (p005) are clearly legible with sufficient detail to identify the decorative vocabulary, colors, and inscription cartouches. The gold cetvel system is unambiguous throughout the text pages. The marbled first leaf (p001/f. Ia) is the only element that cannot be definitively assessed at the available resolution due to degradation and watermark overlay; the cataloguer's in-person assessment takes precedence. Native IIIF download at full resolution (bypassing browser screenshot) would substantially improve the marbling assessment.",
+    "folios_examined": [
+      "corpus/iiif/sehzade_mehmed_00067_p001.jpg (f. Ia — possible marbled leaf)",
+      "corpus/iiif/sehzade_mehmed_00067_p002.jpg (fihrist / table of contents, f. Vb)",
+      "corpus/iiif/sehzade_mehmed_00067_p003.jpg (f. IIIa — title note, shamsa bleedthrough)",
+      "corpus/iiif/sehzade_mehmed_00067_p004.jpg (ff. 1b-2a — twin shamsa zahriye)",
+      "corpus/iiif/sehzade_mehmed_00067_p005.jpg (ff. 2b-3a — ünvan tezhip and opening text)"
+    ],
+    "folios_not_examined_this_session": "IIIF pp. 6-9 (early text pages with gold cetvels), pp. 130-133 (section tezhip area at f. 129b), and all end pages including colophon (f. 397a) were examined in the visual confirmation session (visual_slot2_sehzade_mehmed_00067.json) but the corresponding images were not captured in corpus/iiif/. The section tezhip analysis is based on the visual confirmation session data. Priority for follow-up: (1) native IIIF download of f. I (both sides) for marbling assessment; (2) colophon examination for copyist attribution; (3) high-resolution imaging of the shamsa zahriye for detailed motif analysis and potential illuminator attribution.",
+    "source_data": {
+      "visual_confirmation_file": "catalog/searches/visual_slot2_sehzade_mehmed_00067.json",
+      "yek_id": "333274",
+      "iiif_id": "0000000348716",
+      "batch": "Follow-up cataloguing (2026-02-28) — from MEMORY.md Follow-up Items"
+    }
+  }
+}

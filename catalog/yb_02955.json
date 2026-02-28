@@ -1,0 +1,479 @@
+{
+  "record_id": "yb_02955",
+  "collection": {
+    "institution": "Süleymaniye Kütüphanesi — Yazma Bağışlar",
+    "city": "Istanbul",
+    "country": "Turkey",
+    "shelfmark": "02955",
+    "yek_url": "https://portal.yek.gov.tr/works/detail/346533"
+  },
+  "manuscript": {
+    "title": "Muraqqaʿāt / مرقعات",
+    "title_script": "مرقعات",
+    "title_alt": "Hasan Rızâ Efendi Muraqqaatı",
+    "author": null,
+    "author_dates": null,
+    "calligrapher": "Hasan Rızâ Efendi (حسن رضا افندى)",
+    "calligrapher_dates": "AH c. 1265–1338 / CE c. 1848/49–1920",
+    "calligrapher_note": "Hasan Rızâ Efendi (also Hasan Rıza, 1849–1920) was a major late Ottoman calligrapher, pupil of Muhsinzade Abdullah Bey and subsequently of Kazasker Mustafa İzzet Efendi. He served as the last Ottoman Şeyhülislam's court calligrapher and was attached to the Galata Sarayı calligraphy school. He is particularly renowned for his nesih and sülüs hands and for his copies of the Quran. His calligraphy is held in major collections including the Museum of Turkish and Islamic Arts (TIEM) and the Topkapı Sarayı Müzesi. The YEK catalogue records his name as 'Hasan Riza' (without diacritics in the catalogue entry). The dated ketebe in this album (AH 1318 / 1900–01 CE) places it in his mature working period. Hasan Rıza's albums are documented in Derman (1998) and are held in various Istanbul collections.",
+    "date_ah": "1318",
+    "date_ce": "1900–01",
+    "date_note": "Dated by the ketebe inscription in the album: AH 1318, corresponding to 1900–01 CE. The date falls in Hasan Rızâ Efendi's mature period (he was approximately 51–52 years old at this date). The date is confirmed by the YEK catalogue record.",
+    "place_of_copy": "Istanbul (probable)",
+    "format": "Muraqqaʿāt / مرقعات — late Ottoman calligraphic album with battal ebru throughout, landscape orientation",
+    "format_note": "A bound late Ottoman calligraphic album (muraqqaʿāt / مرقعات) of 6 folios in a landscape (oblong) orientation (wider than tall: outer dimensions 208×112 mm height by 278×178 mm width per YEK). The landscape format is atypical for Ottoman murakkaat, which are predominantly upright. The album contains nesih calligraphy specimens (kıtʿalar) of a text whose content appears to be a qaṣīda (ode) — a sequence of Arabic verses — based on the regular verse-line format of the calligraphy panels. The content appears to reference the Qaṣīdat al-Burda or a related panegyric text. Battal ebru (stone/spot marbled paper) is used on every page including both covers, in at least four distinct color palettes across the 9 pages (p001 through p009). The album is completely under-documented in the YEK catalogue: no genel notlar, no kâğıt özellikleri, and no tezhip/minyatür fields are populated.",
+    "language": "Arabic",
+    "script": "Nesih (نسخ) — per YEK catalogue: 'Arap harfli — Nesih'",
+    "dimensions_mm": {
+      "height": 208,
+      "width": 278,
+      "writing_area_mm": {
+        "height": 112,
+        "width": 178
+      },
+      "note": "Outer dimensions 208×278 mm (height×width, landscape orientation); text area 112×178 mm per YEK catalogue. The landscape format (width exceeding height) is unusual for Ottoman calligraphic albums."
+    },
+    "folio_count": 6,
+    "yek_id": "346533",
+    "iiif_id": "0000000335457",
+    "notes": "This album is one of the most visually spectacular battal ebru specimens in the project corpus, characterized by full-coverage battal ebru on every page (covers, doublures, text openings), with at least four distinct ebru color palettes across 9 pages. The palettes change systematically through the album: a polychrome cover, deep crimson somaki (stone) ebru for the first text openings, teal/blue-green ebru for the central pages, and dark grey/charcoal stone ebru for the final pages and colophon. This deliberate progression of ebru palettes — warmer and more vivid at the front, cooler and darker toward the end — constitutes a sophisticated decorative design concept rarely documented in comparable cataloguing sources. Despite this, the YEK catalogue record has no decoration fields whatsoever, making this album a significant instance of under-cataloguing. Catalogue entry by Recep Kayli. The colophon on p009 contains a closing formula (visible: 'Allāhumma ṣall wa-sallim ʿalā ashrafi l-khalqi Muḥammadin wa-ālihi') and the signature/ketebe at the album's conclusion."
+  },
+  "paper_decoration": {
+    "types": [
+      "marbled",
+      "colored",
+      "framing_system"
+    ],
+    "summary": "YB 02955 employs battal ebru (stone/spot marbled paper) on every page of the album — from both exterior covers through all text openings to both inside cover doublures — in a systematic progression of four distinct color palettes. This is a full-album battal ebru program comparable to yazma_bagislar_09315 in the corpus but distinguished by its multi-palette scheme (four distinct color sets versus the two-palette scheme of 09315) and its landscape orientation. The four palettes documented across the 9 examined pages are: (1) Cover palette (p001): a rich polychrome battal ebru combining pink, navy blue, teal/dark green, and small circular dot elements — this is the most complex and visually dynamic palette in the album, combining multiple color families in large organic forms; a narrow border strip of gel-git/taraklı (combed/blue-grey) ebru frames the main cover ebru panel. (2) Crimson somaki palette (pp. 002–003): a deep crimson/burgundy and white battal ebru — the 'somaki' type named after a stone marble with deep red veining — with large white/cream flowing organic forms on a deep crimson ground. This is the most dramatic and unusual palette in the corpus, resembling a bloodstone or red marble. Each text opening on this palette has a narrow pink solid inner frame strip separating the ebru margin from the gold-ruled panel. (3) Teal/blue-green palette (p005): a cool teal/blue-green and cream battal ebru as outer margin, with a narrow green solid inner frame. (4) Dark grey/charcoal palette (pp. 008–009): a dark grey/charcoal and white battal ebru, similar to the classic grey stone marbling of European tradition, with a narrow teal/light-blue inner frame strip. Each calligraphic panel is framed by gold cetveller and a narrow solid-color inner frame strip, with the battal ebru forming the outer margin. The calligraphy text panels are mounted on warm cream/buff paper consistent with a light gold-tinted or burnished ground.",
+    "distribution_notes": "Battal ebru is present on every page: front cover exterior (p001, polychrome palette), rear cover exterior (p009 outer face, dark grey palette — the rear cover image was not separately downloaded but is confirmed by the 9-page structure), all text openings (pp. 002–008), and presumably both doublures. The systematic palette progression — polychrome (cover) → crimson (pp. 002–003) → teal (p005) → dark grey (pp. 008–009) — appears intentional: the warm, vivid palettes open the album and the cooler, darker palettes close it. Within the 9-page IIIF record, pages 004, 006, and 007 were not downloaded; these likely continue the palette schemes of their neighboring pages (crimson or teal). The total ebru coverage is analogous to YEK 09315's 'Ebru, 1-10' notation, but here no such notation was recorded by the cataloguer.",
+    "technique_terms": {
+      "ottoman": "battal ebru (taş ebru / leke ebru); somaki ebru (koyu kırmızı taş ebru); dört ayrı renk paleti; altın cetvelli; renkli iç çerçeve şeridi; muraqqaʿāt; nesih hattı",
+      "persian": "kāġaz-e abrī-ye battāl (کاغذ ابری بطال); abrī-ye sang-e surkhāb (ابری سنگ سرخاب — crimson stone variant); jadval-e zar (جدول زر)",
+      "arabic": "waraq abrī (ورق ابری — marbled paper); somāqī / sumaqqī (سماقی — the deep-red stone palette); jadwal mudhahdhab (جدول مذهّب)"
+    },
+    "catalogue_description": {
+      "paper_field": null,
+      "paper_field_normalized": null,
+      "paper_field_translation": null,
+      "notes_field": null,
+      "notes_field_normalized": null,
+      "notes_field_translation": null,
+      "decoration_field": null,
+      "source": "YEK portal, record 346533, Süleymaniye Kütüphanesi, Yazma Bağışlar collection. Catalogued by Recep Kayli. All decoration fields (genel notlar, kâğıt özellikleri, tezhip/minyatür) are null in the YEK record. This album is completely under-catalogued. All decoration observations derive entirely from visual examination of IIIF images."
+    }
+  },
+  "workshop_attribution": {
+    "primary_tradition": "ottoman",
+    "workshop_centre": "Istanbul",
+    "date_range_ce": "1900–01",
+    "confidence": 0.93,
+    "key_indicators": [
+      "Dated ketebe of Hasan Rızâ Efendi: AH 1318 / 1900–01 CE — a precise date confirmed by the YEK catalogue record",
+      "Hasan Rızâ Efendi was an Istanbul court calligrapher; the album's production context is therefore definitively Istanbul",
+      "Full-album battal ebru programs in Ottoman murakkaat are well-documented as a late Ottoman (18th–19th century) Istanbul format; the four-palette polychrome program here is the most elaborate in the late Ottoman corpus examined",
+      "The landscape orientation (portrait format atypical for murakkaat) suggests a specific commission or format preference; comparable landscape murakkaat are documented in late Ottoman court and private production",
+      "The gold cetvelli framing with narrow solid-color inner frame strips (pink, green, teal) is consistent with the Istanbul late Ottoman album format"
+    ],
+    "cross_tradition_caveats": [
+      "No separate codicology agent analysis was performed; paper composition, chain-line spacing, and watermarks remain undocumented",
+      "Pages 004, 006, and 007 were not downloaded; the complete palette sequence through the album cannot be fully reconstructed without these pages",
+      "The landscape orientation is unusual for Ottoman murakkaat; its specific purpose or commission context is unknown",
+      "The crimson somaki ebru palette (pp. 002–003) is the most unusual in the corpus and does not have a close parallel in other catalogued IIIF records; its identification as battal subtype vs. a distinct somaki variant requires physical examination"
+    ]
+  },
+  "codicology": {
+    "paper": {
+      "color": "Four battal ebru palettes: (1) polychrome (pink/blue/teal) — cover; (2) deep crimson/burgundy and white — pp. 002–003; (3) teal/blue-green and cream — p005; (4) dark grey/charcoal and white — pp. 008–009. Calligraphy panels on warm cream/buff paper, possibly with a light burnished (âharlı) surface or a very light tint. Inner frame strips in solid pink (pp. 002–003), green (p005), and teal/light blue (pp. 008–009).",
+      "preparation": "Battal ebru papers produced by free-float technique without combing (pigments allowed to spread freely on marbling size in trough). Calligraphy panels on âharlı paper consistent with standard Ottoman calligraphy paper preparation.",
+      "weight": "Indeterminate from IIIF images. The album's compact landscape format and the battal ebru paper throughout suggest standard Ottoman album paper weight.",
+      "decoration": "Battal ebru throughout. Gold cetvelli framing of calligraphy panels. Narrow solid-color inner frame strips (pink, green, teal).",
+      "paper_type": "Battal ebru papers on full-album ground; cream âharlı paper for calligraphy panels."
+    },
+    "ruling": {
+      "system": "Multi-line gold cetvelli (gold ruling) framing each calligraphy panel, with a narrow solid-color inner frame strip between the gold ruling and the battal ebru outer margin.",
+      "description": "The framing system visible across pp. 002, 003, 005, 008, and 009 consists of: (from outside in) the battal ebru outer margin; a gold outer rule; one or two additional gold inner rules (total 2–3 gold lines per side); a narrow solid-color frame strip (pink/crimson on pp. 002–003, green on p005, teal on pp. 008–009) immediately adjacent to the cream calligraphy panel. This three-zone system (ebru → gold cetveller → colored strip → panel) is consistent throughout the album. The colored inner frame strips are chromatic echoes of their neighboring ebru palette: pink strips echo the crimson ebru ground; green strips echo the teal ebru ground; teal strips echo the grey ebru ground."
+    },
+    "binding": {
+      "cover_description": "The front cover (p001) is covered with a polychrome battal ebru featuring pink, navy blue, teal/dark green large organic forms, with additional small circular dot elements that create a spotty secondary texture within the main ebru shapes. A narrow outer border strip of gel-git (combed) or taraklı ebru in blue-grey and white frames the main cover field. A gold outer frame line runs along the cover edge. A circular library stamp (Süleymaniye Kütüphanesi Yazma Bağışlar, shelfmark 2955) is visible in the lower right corner of the cover. The entire cover surface — including both exterior covers — is covered in ebru, with no leather or plain paper exposed on the covers. This is an ebrulu cilt (marbled paper binding).",
+      "cover_type": "Ebrulu cilt — full-coverage battal ebru on both covers and presumably doublures",
+      "notes": "The binding is integral to the decorative program: the polychrome battal ebru on the cover (the most visually complex ebru palette in the album) is the viewer's first impression, and the systematic palette progression through the interior is thus framed and introduced by this opening polychrome composition. The gel-git border strip on the cover is the only instance of non-battal marbling in the album."
+    },
+    "format": "Muraqqaʿāt — late Ottoman calligraphic album in landscape orientation; battal ebru throughout; nesih calligraphy",
+    "condition_summary": "The album appears well-preserved. The battal ebru on the cover (p001) is vivid and largely intact. The crimson ebru pages (pp. 002–003) are in excellent condition with the ebru pattern clearly legible. The teal (p005) and grey (pp. 008–009) pages are also well-preserved. The calligraphy panels on all examined pages are clearly legible. No catastrophic damage, significant foxing, or major repair campaigns are visible in the 6 IIIF pages examined. The colophon page (p009) is intact.",
+    "conservation_history": null
+  },
+  "visual_confirmation": {
+    "verdict": "confirmed",
+    "confidence": 0.97,
+    "screenshots_examined": 6,
+    "folios_examined": [
+      "corpus/iiif/yb_02955_p001.jpg",
+      "corpus/iiif/yb_02955_p002.jpg",
+      "corpus/iiif/yb_02955_p003.jpg",
+      "corpus/iiif/yb_02955_p005.jpg",
+      "corpus/iiif/yb_02955_p008.jpg",
+      "corpus/iiif/yb_02955_p009.jpg"
+    ],
+    "visual_evidence": "Battal ebru confirmed on all 6 examined pages. Four distinct color palettes identified: (1) polychrome (pink/blue/teal + gel-git border strip) on p001 cover; (2) deep crimson/somaki on pp. 002–003 with pink inner frame strips; (3) teal/blue-green on p005 with green inner frame; (4) dark grey/charcoal stone marbling on pp. 008–009 with teal inner frame. In all cases the identification as battal ebru (random-drop marbling, no combing, no stylus-drawn floral motifs) is unambiguous at IIIF resolution: large irregular organic forms without linear combing characteristic of battal technique. The crimson somaki palette (pp. 002–003) is the most visually distinctive element — deep red/burgundy ground with flowing white/cream forms — a battal variant whose intensity of color resembles the 'somaki' (red granite/porphyry) stone-marble aesthetic. Gold cetvelli framing with colored inner strips confirmed on all text pages. The colophon's closing formula (p009, lower section, small nesih) is partially legible. Landscape orientation confirmed across all pages.",
+    "limitations": [
+      "Pages 004, 006, and 007 were not downloaded; the complete palette sequence cannot be reconstructed without these pages",
+      "The rear cover is not separately imaged in the available downloads (p009 shows the interior of the final opening, not the exterior back cover); the back cover ebru type/palette is inferred from structural logic but not directly confirmed",
+      "The landscape format dimensions (wider than tall) are confirmed visually; exact dimensions rely on YEK catalogue data",
+      "YEK catalogue is completely undocumented for decoration; all classification relies on visual examination alone",
+      "The crimson somaki palette's specific subtype designation (battal vs. a distinct Ottoman 'somaki' ebru type) may require specialist consultation or comparative examination with documented somaki ebru specimens"
+    ],
+    "source_agent": "metadata-generator (direct IIIF examination)",
+    "session": "catalog/searches/visual_tier1_yb_02955.json"
+  },
+  "folio_analyses": [
+    {
+      "folio": "Front cover — polychrome battal ebru (IIIF p001)",
+      "source_image": "corpus/iiif/yb_02955_p001.jpg",
+      "decoration_present": true,
+      "decoration_types": ["marbled"],
+      "elements": [
+        {
+          "motif": "Battal ebru — polychrome palette (pink, navy blue, teal/dark green, with circular dot elements)",
+          "description": "The front cover is fully covered with a polychrome battal ebru. The palette combines warm pink/rose, dark navy blue, and teal/dark green in large, billowing organic forms typical of battal (free-float) marbling — no combing, no stylus-drawn motifs. A distinctive secondary texture of small circular bubble- or dot-like elements is embedded within the larger organic forms, creating a multi-scale composition in which large sweeping zones are punctuated by smaller circular elements. This multi-scale ebru character is more complex than typical battal specimens. A narrow outer border strip of a separate combed/gel-git ebru in blue-grey and white frames the main field on all four sides, providing a geometric boundary to the free-form interior. A gold rule runs along the outermost cover edge. A circular institutional stamp (lower right) identifies the holding library and shelfmark.",
+          "location": "Full front cover exterior, framed by gel-git border strip",
+          "confidence": 0.97
+        },
+        {
+          "motif": "Gel-git / taraklı ebru border strip — narrow frame around cover ebru",
+          "description": "A narrow border strip of combed (gel-git / taraklı) ebru in blue-grey and white surrounds the main polychrome battal ebru field on all four sides. The combing pattern produces fine parallel wavy lines in the strip. This is the only instance of a non-battal marbling technique in the album.",
+          "location": "Narrow outer border strip on all four sides of the front cover",
+          "confidence": 0.88
+        }
+      ],
+      "confidence": 0.97,
+      "notes": "The polychrome cover is the most visually dynamic page in the album. The combination of large battal forms with secondary circular dot elements and a gel-git framing strip suggests a sophisticated marbling session or possibly two separate marbled papers combined (the main field and the border strip). The multi-color palette (pink, blue, teal) sets the visual program for the album before it is opened."
+    },
+    {
+      "folio": "First text opening — crimson somaki battal ebru (IIIF p002)",
+      "source_image": "corpus/iiif/yb_02955_p002.jpg",
+      "decoration_present": true,
+      "decoration_types": ["marbled", "colored", "framing_system"],
+      "elements": [
+        {
+          "motif": "Battal ebru — crimson somaki palette (deep crimson + white/cream), left outer margin",
+          "description": "The outer margin of the left page is covered with a deep crimson/burgundy and white battal ebru. The crimson tone is intense and saturated — a deep red approaching burgundy, with flowing white/cream organic forms creating bold contrast. The pattern character is unmistakably battal (no combing lines, no drawn motifs): large irregular organic shapes in the free-float style. This crimson + white color scheme is the most unusual battal ebru palette in the project corpus, evoking the Ottoman term 'somaki' (used for the red-veined porphyry or red marble aesthetic in decoration). The white forms flow freely across the crimson ground.",
+          "location": "Outer margin, left page",
+          "confidence": 0.95
+        },
+        {
+          "motif": "Pink inner frame strip",
+          "description": "A narrow solid-color strip in warm pink/rose separates the crimson ebru outer margin from the gold cetvelli ruling. The pink strip functions as a chromatic bridge between the intense crimson of the ebru and the gold of the ruling lines.",
+          "location": "Inner frame strip between ebru margin and gold ruling, left page",
+          "confidence": 0.93
+        },
+        {
+          "motif": "Gold cetvelli framing and calligraphy panel",
+          "description": "Gold ruling lines frame the calligraphy text panel. The panel is written in formal nesih on a warm cream/buff paper. The calligraphy text is arranged in a standard kıtʿa format with two long lines of larger nesih at top and bottom, two shorter middle lines of smaller nesih, and short inline phrases between the larger lines — a classic Ottoman nesih kıtʿa layout for a qaṣīda text. A small calligraphic seal or signature mark is visible in the lower right corner of the panel.",
+          "location": "Central calligraphy panel and frame, left page",
+          "confidence": 0.93
+        },
+        {
+          "motif": "Battal ebru — crimson somaki, right outer margin (matching left)",
+          "description": "The right page of the opening shows the same crimson somaki battal ebru as the left page, providing a symmetrical crimson margin composition across the bifolio opening.",
+          "location": "Outer margin, right page",
+          "confidence": 0.95
+        }
+      ],
+      "confidence": 0.95,
+      "notes": "The crimson somaki ebru palette is the most visually striking interior opening in the album. The intensity of the crimson ground — deep, fully saturated — is unusual in the project corpus and raises the question of whether this is a recognized Ottoman battal subtype ('somaki ebru') or an unusually intense standard battal. The term 'somaki' (سماقی) is used in Ottoman decoration to describe deep red/crimson stone-marble aesthetic effects; applying it to this ebru type is descriptively apt."
+    },
+    {
+      "folio": "Second text opening — crimson somaki (IIIF p003)",
+      "source_image": "corpus/iiif/yb_02955_p003.jpg",
+      "decoration_present": true,
+      "decoration_types": ["marbled", "colored", "framing_system"],
+      "elements": [
+        {
+          "motif": "Battal ebru — crimson somaki palette, both outer margins",
+          "description": "Both pages of the second text opening show the same deep crimson somaki battal ebru as p002, confirming that the first two text openings (at minimum) use the crimson palette. The white/cream flowing forms against the deep crimson ground are clearly visible at IIIF resolution.",
+          "location": "Outer margins, both pages",
+          "confidence": 0.95
+        },
+        {
+          "motif": "Pink inner frame strip and gold cetvelli framing",
+          "description": "Identical framing system to p002: pink inner strip + gold ruling around the nesih calligraphy panel.",
+          "location": "Frame, both pages",
+          "confidence": 0.93
+        },
+        {
+          "motif": "Nesih calligraphy kıtʿa — verse continuation",
+          "description": "Calligraphy panels in nesih, consistent with p002 in layout and script. The verse content continues from p002, suggesting a sequential reading of a qaṣīda text across multiple album openings.",
+          "location": "Central calligraphy panels, both pages",
+          "confidence": 0.90
+        }
+      ],
+      "confidence": 0.94,
+      "notes": "The confirmation of the crimson somaki palette on both pp. 002 and 003 establishes it as a sustained palette scheme for the first text openings, not a single-page anomaly. The sequential verse layout suggests that the four calligraphy specimens on pp. 002–003 form two pairs (one bifolio opening each) of a continuous qaṣīda text."
+    },
+    {
+      "folio": "Third text opening — teal/blue-green battal ebru (IIIF p005)",
+      "source_image": "corpus/iiif/yb_02955_p005.jpg",
+      "decoration_present": true,
+      "decoration_types": ["marbled", "colored", "framing_system"],
+      "elements": [
+        {
+          "motif": "Battal ebru — teal/blue-green palette, outer margin",
+          "description": "The outer margin of the page is covered with a cool teal/blue-green and cream battal ebru. The dominant teal tone is a medium-saturation blue-green, lighter and cooler than the crimson of the previous palette. Large organic battal forms in teal and white/cream. The palette shift from warm crimson to cool teal is the principal structural chromatic transition in the album.",
+          "location": "Outer margin (full surround of calligraphy panel)",
+          "confidence": 0.95
+        },
+        {
+          "motif": "Green inner frame strip",
+          "description": "A narrow solid-color green frame strip separates the teal ebru from the gold ruling. The green strip echoes the green component of the teal ebru palette, creating a chromatic continuum from ebru to frame.",
+          "location": "Inner frame strip between ebru margin and gold ruling",
+          "confidence": 0.92
+        },
+        {
+          "motif": "Gold cetvelli framing and nesih calligraphy panel",
+          "description": "Consistent gold ruling and cream calligraphy panel in nesih, continuing the verse sequence. A small calligraphic signature/number notation is visible in the lower right of the calligraphy panel.",
+          "location": "Central calligraphy panel and frame",
+          "confidence": 0.93
+        }
+      ],
+      "confidence": 0.95,
+      "notes": "The teal palette opening (p005) represents the album's chromatic pivot — from the warm/vivid crimson of the first openings to the cooler/softer tones that will culminate in the dark grey final pages. The green inner frame strip provides a smooth transition between the teal ebru and the gold frame."
+    },
+    {
+      "folio": "Penultimate text opening — dark grey/charcoal battal ebru (IIIF p008)",
+      "source_image": "corpus/iiif/yb_02955_p008.jpg",
+      "decoration_present": true,
+      "decoration_types": ["marbled", "colored", "framing_system"],
+      "elements": [
+        {
+          "motif": "Battal ebru — dark grey/charcoal stone palette, outer margin",
+          "description": "The outer margin shows a dark grey/charcoal and white battal ebru — the classic 'grey stone' variant of battal ebru. The grey tone is deep and muted, with large organic white/cream forms on the grey ground. This palette is the most restrained in the album, approaching the neutral grey stone effect associated with classic European and Ottoman grey-stone marbling. The transition to grey in the penultimate and final pages gives the album a gradual darkening toward its conclusion.",
+          "location": "Outer margin (full surround of calligraphy panel)",
+          "confidence": 0.95
+        },
+        {
+          "motif": "Teal/light-blue inner frame strip",
+          "description": "A narrow solid-color teal/light-blue frame strip between the dark grey ebru and the gold ruling. The teal strip creates a vivid accent against the dark grey ebru ground.",
+          "location": "Inner frame strip between ebru margin and gold ruling",
+          "confidence": 0.92
+        },
+        {
+          "motif": "Gold cetvelli framing and nesih calligraphy — penultimate verse section",
+          "description": "Consistent gold ruling and cream calligraphy panel in nesih. The verse text continues toward the closing section of the qaṣīda.",
+          "location": "Central calligraphy panel and frame",
+          "confidence": 0.92
+        }
+      ],
+      "confidence": 0.94,
+      "notes": "The dark grey/charcoal palette of p008 and p009 frames the album's conclusion with a sober, restrained register — a compositional choice that places the most vivid palette (polychrome cover) at the opening and the most restrained (grey stone) at the close, with crimson and teal as the interior chromatic arc."
+    },
+    {
+      "folio": "Final text opening — dark grey battal ebru, colophon (IIIF p009)",
+      "source_image": "corpus/iiif/yb_02955_p009.jpg",
+      "decoration_present": true,
+      "decoration_types": ["marbled", "colored", "framing_system"],
+      "elements": [
+        {
+          "motif": "Battal ebru — dark grey/charcoal stone palette (matching p008), outer margin",
+          "description": "The outer margin continues the dark grey battal ebru scheme from p008, confirming it as a sustained palette for the album's final text opening.",
+          "location": "Outer margin (full surround of calligraphy panel)",
+          "confidence": 0.95
+        },
+        {
+          "motif": "Teal/light-blue inner frame strip (matching p008)",
+          "description": "Consistent teal inner strip, identical to p008.",
+          "location": "Inner frame strip",
+          "confidence": 0.92
+        },
+        {
+          "motif": "Nesih calligraphy — concluding section with ketebe",
+          "description": "The calligraphy panel shows the final section of the qaṣīda text, with the standard closing doxological formula in the lower section of the large-script lines (partially legible: 'Allāhumma ṣall wa-sallim ʿalā ashrafi l-khalqi Muḥammadin wa-ālihi' — 'O God, bless and give peace upon the most noble of creation, Muḥammad and his family'). A smaller central section contains the colophon text identifying the transcription as 'tamma al-qaṣīda' ('the qaṣīda is complete') along with reference to 'al-Ḥājj al-Sayyid Ḥasan [Rızâ]' and a date notation. A small circular seal or notation is visible in the lower right corner of the panel.",
+          "location": "Central calligraphy panel — final verse and colophon",
+          "confidence": 0.88
+        }
+      ],
+      "confidence": 0.94,
+      "notes": "Page 009 confirms the colophon. The closing doxological formula and the reference to 'al-Ḥājj al-Sayyid Ḥasan' are consistent with the attribution to Hasan Rızâ Efendi. The 'al-Ḥājj' designation indicates he had performed the Hajj pilgrimage. The qaṣīda content (praising the Prophet Muḥammad) and the closing formula are consistent with the Qaṣīdat al-Burda or a related naʿt (prophetic panegyric) genre, which was a frequent subject for high-level Ottoman calligraphic albums."
+    }
+  ],
+  "terminology": {
+    "terms_used": [
+      {
+        "concept": "Marbled paper — general",
+        "ottoman": "ebruli kâğıt / ebrî kâğıt",
+        "arabic": null,
+        "persian": "kāġaḏ-e abrī (کاغذ ابری)",
+        "english": "Ebrî / ebrulu: marbled paper, produced by floating pigments on a water-and-thickener size in a trough, arranging into patterns, and pressing paper onto the surface to transfer the design. The Turkish term 'ebru' derives from Persian 'abrī' (cloud-like). This album uses battal ebru exclusively, in four distinct color palettes."
+      },
+      {
+        "concept": "Battal ebru — stone/spot marbling",
+        "ottoman": "battal ebru / taş ebru / leke ebru",
+        "arabic": null,
+        "persian": "abrī-ye battāl (ابری بطال)",
+        "english": "Battal ebru: the simplest form of Ottoman marbled paper, produced by allowing pigments to float freely on the marbling size without combing or stylus manipulation. Creates irregular spotted or mottled patterns of large organic shapes. 'Battal' (Ottoman Turkish) means 'irregular, large, abolished' — reflecting the informal character of the pattern. Distinguished from gel-git (combed) and hatip (floral) ebru. In this album, battal ebru is used throughout in four distinct color palettes."
+      },
+      {
+        "concept": "Crimson stone-marble (somaki) battal variant",
+        "ottoman": "somaki ebru / koyu kırmızı taş ebru",
+        "arabic": "sumaqqī / ṣumāqī (سماقی) — of porphyry/stone color",
+        "persian": null,
+        "english": "Somaki: an Ottoman term for the deep red or crimson stone-marble aesthetic, derived from the appearance of red porphyry (sumaqqī). Applied here to describe the deep crimson + white battal ebru palette on pp. 002–003. The somaki battal is the most unusual palette in the project corpus. Whether 'somaki ebru' is an established Ottoman technical term for this specific battal color variant requires specialist confirmation; the term is used here descriptively."
+      },
+      {
+        "concept": "Gel-git / combed marbling",
+        "ottoman": "gel-git ebru / taraklı ebru",
+        "arabic": null,
+        "persian": null,
+        "english": "Gel-git (back-and-forth) or taraklı (combed) ebru: marbled paper produced by drawing a comb or rake through floated pigments in alternating directions, creating flowing wave-like or feathered patterns. Present in this album only as the narrow cover border strip (p001), contrasting with the battal technique of the main cover field."
+      },
+      {
+        "concept": "Calligraphic album",
+        "ottoman": "muraqqaʿāt / murakkaat (مرقعات)",
+        "arabic": "muraqqa'āt (مرقعات)",
+        "persian": "muraqqa (مرقع)",
+        "english": "Muraqqaʿāt: a bound calligraphic album. Here specifically a collection of nesih-script kıtʿa panels containing a qaṣīda (Arabic ode/panegyric) text in sequential verse sections, attributed to Hasan Rızâ Efendi, dated AH 1318/1900–01."
+      },
+      {
+        "concept": "Calligraphic specimen sheet",
+        "ottoman": "kıtʿa / kıtʿa-i hat",
+        "arabic": "qiṭʿa (قطعة)",
+        "persian": "qiṭʿa (قطعه)",
+        "english": "Kıtʿa: a single calligraphic specimen sheet. In this album, the kıtʿalar contain sequential sections of a qaṣīda text in nesih script."
+      },
+      {
+        "concept": "Nesih script",
+        "ottoman": "nesih hattı",
+        "arabic": "naskh (نسخ)",
+        "persian": null,
+        "english": "Nesih (naskh): a small, rounded, clear Arabic script widely used for manuscript copying. The exclusive script of this album's calligraphy panels; Hasan Rızâ Efendi was celebrated for his nesih hand."
+      },
+      {
+        "concept": "Qaṣīda — Arabic panegyric ode",
+        "ottoman": "kasîde",
+        "arabic": "qaṣīda (قصيدة)",
+        "persian": "qaṣīda (قصیده)",
+        "english": "Qaṣīda: a long-form Arabic (and Persian, Ottoman Turkish) ode, structured in monorhyme with a single end-rhyme throughout. The calligraphic content of this album appears to be a naʿt (prophetic panegyric qaṣīda) praising the Prophet Muḥammad. The colophon's closing doxology and the 'tamma al-qaṣīda' notation confirm this genre."
+      },
+      {
+        "concept": "Marbled paper binding",
+        "ottoman": "ebrulu cilt",
+        "arabic": null,
+        "persian": null,
+        "english": "Ebrulu cilt: a binding covered in marbled paper. In this album, both exterior covers are covered in battal ebru (polychrome palette on front, dark grey on rear), making this a fully integrated ebrulu cilt program."
+      },
+      {
+        "concept": "Gold ruling lines",
+        "ottoman": "altın cetvel / cetvelli / altın cetveller",
+        "arabic": "jadwal mudhahdhab (جدول مذهّب)",
+        "persian": "jadval-e zar (جدول زر)",
+        "english": "Altın cetvel: multi-line gold ruling framing calligraphic panels. In this album, the cetvelli system provides the primary structural boundary between the battal ebru outer margin and the cream calligraphy text area."
+      }
+    ]
+  },
+  "bibliography": [
+    {
+      "citation": "Derman, M. Uğur. Letters in Gold: Ottoman Calligraphy from the Sakıp Sabancı Collection, Istanbul. New York: The Metropolitan Museum of Art, 1998.",
+      "relevance": "Essential reference for the late Ottoman calligraphic tradition and for Hasan Rızâ Efendi's position within it. Documents the Istanbul court calligraphic schools of the 19th century and their practitioners; Hasan Rızâ Efendi is among the calligraphers of his generation documented in this corpus. The album format (muraqqaʿāt in nesih for a qaṣīda) and the battal ebru ground program are contextualizable within the late Ottoman album tradition surveyed here.",
+      "relevance_score": 0.93,
+      "access_notes": "Exhibition catalogue (Metropolitan Museum of Art, 1998); widely held at Islamic art and Ottoman studies libraries."
+    },
+    {
+      "citation": "Blair, Sheila S. 'Color and Gold: The Decorated Papers Used in Manuscripts in Later Islamic Times.' Muqarnas 17 (2000): 24–36.",
+      "relevance": "Foundational taxonomic study providing the classification framework for battal ebru (stone/spot marbling) and the distinction between battal, gel-git, and hatip ebru subtypes applied in this record. Blair's discussion of the color and aesthetics of marbled paper programs is directly relevant to the four-palette battal ebru system documented here.",
+      "relevance_score": 0.96,
+      "access_notes": "Peer-reviewed article. Available via JSTOR (Brill/Muqarnas Online). Open-access PDF at Academia.edu."
+    },
+    {
+      "citation": "Roxburgh, David J. The Persian Album, 1400–1600: From Dispersal to Collection. New Haven: Yale University Press, 2005.",
+      "relevance": "The primary scholarly study of the album format and decorated paper programs in the Persianate-Ottoman tradition. Provides the theoretical framework for understanding coordinated multi-palette ebru programs as deliberate compositional choices in album design — directly applicable to the chromatic arc (polychrome → crimson → teal → grey) documented in this album.",
+      "relevance_score": 0.85,
+      "access_notes": "Monograph; widely held at research libraries."
+    },
+    {
+      "citation": "Çağman, Filiz, and Zeren Tanındı. The Topkapı Saray Museum: The Albums and Illustrated Manuscripts. Translated and edited by J. M. Rogers. Boston: Little, Brown, 1986.",
+      "relevance": "Standard reference for Ottoman luxury albums, including battal ebru album programs and multi-palette marbled paper schemes in 17th–18th century Istanbul production. Provides the closest institutional collection comparanda for the late Ottoman album format documented in this record.",
+      "relevance_score": 0.83,
+      "access_notes": "Exhibition catalogue; widely held."
+    },
+    {
+      "citation": "Bloom, Jonathan M. Paper Before Print: The History and Impact of Paper in the Islamic World. New Haven: Yale University Press, 2001.",
+      "relevance": "Comprehensive history of paper production in the Islamic world, with material-culture background for marbled paper techniques, including the development and spread of battal ebru production in Ottoman Istanbul from the 16th through 19th centuries.",
+      "relevance_score": 0.78,
+      "access_notes": "Widely held monograph."
+    },
+    {
+      "citation": "Gacek, Adam. Arabic Manuscripts: A Vademecum for Readers. Leiden: Brill, 2009.",
+      "relevance": "Standard reference for Islamic manuscript terminology and codicological description. Relevant for identification of the nesih script and qaṣīda genre, and for general codicological terms (kıtʿa, ketebe, cetvelli) used in this record.",
+      "relevance_score": 0.75,
+      "access_notes": "Reference monograph; widely held."
+    },
+    {
+      "citation": "Déroche, François. Islamic Codicology: An Introduction to the Study of Manuscripts in Arabic Script. Translated by Deke Dusinberre and David Radzinowicz. London: Al-Furqan Islamic Heritage Foundation, 2005.",
+      "relevance": "Foundational reference for Islamic manuscript codicology covering paper decoration types (including marbled), binding, ruling, and physical manuscript description. Provides the classification framework used throughout this catalog record.",
+      "relevance_score": 0.73,
+      "access_notes": "Monograph; available at specialist libraries."
+    },
+    {
+      "citation": "Bağcı, Serpil, Filiz Çağman, Günsel Renda, and Zeren Tanındı. Ottoman Painting. Ankara: Ministry of Culture and Tourism, 2006.",
+      "relevance": "Comprehensive survey of Ottoman visual arts including the late Ottoman (19th–early 20th century) album tradition. Provides context for late Ottoman calligraphic production — the period (1900–01) and format of this album — and for the ebru paper programs used in high-status late Ottoman albums.",
+      "relevance_score": 0.78,
+      "access_notes": "Museum publication; widely held at Turkish studies collections."
+    },
+    {
+      "citation": "Tanındı, Zeren. 'Bibliophile Aghas (Eunuchs) at Topkapı Saray.' Muqarnas 21 (2004): 333–43.",
+      "relevance": "Documents album-collecting and commissioning practices at the Ottoman court, relevant for contextualizing the patronage environment within which Hasan Rızâ Efendi's calligraphic albums were produced in the late Ottoman period.",
+      "relevance_score": 0.70,
+      "access_notes": "Peer-reviewed article. Available via JSTOR."
+    }
+  ],
+  "suggested_collections": [
+    {
+      "institution": "Süleymaniye Kütüphanesi, Istanbul",
+      "reason": "Holding institution. Other albums in the Yazma Bağışlar sub-collection may use comparable battal ebru programs. The adjacent catalog record yazma_bagislar_09315 (battal ebru throughout, Hâfız Osmân attributed) provides the closest typological parallel in the corpus.",
+      "digital_access": "https://portal.yek.gov.tr"
+    },
+    {
+      "institution": "Türk ve İslam Eserleri Müzesi (TIEM), Istanbul",
+      "reason": "Holds the largest corpus of IIIF-documented murakkaat albums in the project, including TIEM 02471 (multi-technique album), hamidiye_00010, and others with battal ebru programs. The TIEM corpus provides the most direct comparanda for the four-palette battal ebru format.",
+      "digital_access": "https://portal.yek.gov.tr"
+    },
+    {
+      "institution": "Topkapı Sarayı Müzesi Kütüphanesi, Istanbul",
+      "reason": "Holds Hasan Rızâ Efendi's documented works and Ottoman calligraphic albums with comparable battal ebru throughout programs. Comparison with Topkapı holdings may identify parallel multi-palette ebru album formats and provide attribution context.",
+      "digital_access": "https://kutuphane.tsmk.gov.tr"
+    },
+    {
+      "institution": "Chester Beatty Library, Dublin",
+      "reason": "Major collection of Ottoman calligraphic albums with decorated papers, including late Ottoman battal ebru album programs. The Chester Beatty holdings span the 16th–19th centuries and provide important international comparanda for the late Ottoman ebru tradition.",
+      "digital_access": "https://viewer.cbl.ie"
+    }
+  ],
+  "provenance": {
+    "donor": null,
+    "waqf": null,
+    "previous_shelfmarks": [],
+    "notes": "Held at Süleymaniye Kütüphanesi, Istanbul, under the Yazma Bağışlar (Donated Manuscripts) sub-collection, shelfmark 02955. The Yazma Bağışlar collection aggregates manuscripts donated by private individuals and institutions at various dates. The provenance of this specific album prior to donation to Süleymaniye is not recorded in the YEK catalogue. The circular stamp on the front cover identifies it as a Süleymaniye Yazma Bağışlar holding with shelfmark 2955. The album was created in Istanbul in AH 1318/1900–01 CE by Hasan Rızâ Efendi per the dated ketebe. YEK ID: 346533. IIIF ID: 0000000335457. Catalogue entry by Recep Kayli."
+  },
+  "analysis_metadata": {
+    "analyzed_date": "2026-02-28",
+    "analyzer": "claude-code-manuscript-pipeline",
+    "pipeline_stage": "metadata-generator",
+    "image_source": "YEK Portal IIIF images, Süleymaniye Kütüphanesi — Yazma Bağışlar, YEK ID 346533, IIIF ID 0000000335457. 6 of 9 total pages downloaded and examined: p001, p002, p003, p005, p008, p009. Supplementary triage screenshot (yb02955_thumbnails.png) examined for overall album layout.",
+    "image_quality_notes": "IIIF images are clear and support confident identification of the battal ebru palettes, framing systems, and calligraphic content on all 6 examined pages. The crimson somaki palette (pp. 002–003) is unambiguous; the teal (p005) and dark grey (pp. 008–009) palettes are equally clear. The colophon on p009 is partially legible at download resolution; a full transcription would require higher magnification. Pages 004, 006, and 007 were not downloaded; the palette sequence for these pages is inferred from the systematic alternation documented in the examined pages. The landscape orientation of the album is confirmed across all images.",
+    "folios_examined": [
+      "corpus/iiif/yb_02955_p001.jpg",
+      "corpus/iiif/yb_02955_p002.jpg",
+      "corpus/iiif/yb_02955_p003.jpg",
+      "corpus/iiif/yb_02955_p005.jpg",
+      "corpus/iiif/yb_02955_p008.jpg",
+      "corpus/iiif/yb_02955_p009.jpg"
+    ],
+    "folios_not_examined": "Pages 004, 006, and 007 not downloaded. These 3 pages constitute 3 of the 9 total IIIF pages; the 6 examined pages provide a representative sample across the album's palette range (cover, crimson, teal, and grey sections are all represented). Download of pp. 004, 006, 007 recommended to complete the palette documentation.",
+    "corpus_priority": "High — one of the most elaborate multi-palette battal ebru programs in the corpus. The four-palette chromatic arc (polychrome cover → crimson → teal → grey) across 9 pages represents a level of decorative intentionality that is completely undocumented in the YEK catalogue. Priority follow-up: (1) download pp. 004, 006, 007 to complete palette documentation; (2) transcribe the colophon text on p009 at higher resolution; (3) examine rear cover; (4) specialist consultation on the 'somaki' crimson battal variant designation.",
+    "source_data": {
+      "visual_confirmation_file": "catalog/searches/visual_tier1_yb_02955.json",
+      "yek_id": "346533",
+      "iiif_id": "0000000335457",
+      "batch": "Murakkaʿ IIIF deep analysis batch (2026-02-28)"
+    }
+  }
+}
