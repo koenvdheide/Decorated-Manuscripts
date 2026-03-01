@@ -107,7 +107,11 @@
       "folio": "Double-page opening — serlevha zone (IIIF p005)",
       "source_image": "corpus/visual_confirmation_batch2/nuruosmaniye_03903_p005_iiif.png",
       "decoration_present": true,
-      "decoration_types": ["gold_worked", "illuminated_margins", "framing_system"],
+      "decoration_types": [
+        "gold_worked",
+        "illuminated_margins",
+        "framing_system"
+      ],
       "elements": [
         {
           "motif": "tamamı yaldız bezemeli — full-surface gold arabesque ground",
@@ -135,7 +139,10 @@
       "folio": "Interior text pages (IIIF p007)",
       "source_image": "corpus/visual_confirmation_batch2/nuruosmaniye_03903_p007_iiif.png",
       "decoration_present": true,
-      "decoration_types": ["gold_worked", "framing_system"],
+      "decoration_types": [
+        "gold_worked",
+        "framing_system"
+      ],
       "elements": [
         {
           "motif": "tamamı yaldız bezemeli — full-surface gold geometric/arabesque ground (interior pages)",
@@ -284,14 +291,8 @@
     {
       "citation": "Raby, Julian, and Zeren Tanındı. Turkish Bookbinding in the 15th Century: The Foundation of an Ottoman Court Style. London: Azimuth Editions, 1993.",
       "relevance": "Essential study of Ottoman court bookbinding, relevant to the ebru (marbled) binding covers documented on this manuscript and to the luxury binding context of a high-level Ottoman commission.",
-      "relevance_score": 0.80,
+      "relevance_score": 0.8,
       "access_notes": "Available at major research libraries."
-    },
-    {
-      "citation": "Sturkenboom, Ilse. 'Chinese Decorated Paper in Persianate Manuscripts: Identifying a Luxury Import.' Forthcoming (GlobalDecoPaper ERC Project, LMU Munich).",
-      "relevance": "Forthcoming research on decorated paper typology in Persianate and Ottoman manuscripts, including fully gold-worked papers. The methodological approach is directly relevant to classifying and contextualizing the 'tamamı yaldız bezemeli' technique of this manuscript within the broader Islamicate luxury paper tradition.",
-      "relevance_score": 0.85,
-      "access_notes": "Forthcoming. Check GlobalDecoPaper ERC project website (LMU Munich) for preprints."
     },
     {
       "citation": "Kiel, Machiel. 'Süleyman Çelebi.' In Encyclopaedia of Islam, Second Edition, edited by P. Bearman et al. Leiden: Brill, 1954–2009.",

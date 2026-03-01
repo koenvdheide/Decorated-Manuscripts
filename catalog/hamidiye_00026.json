@@ -63,7 +63,7 @@
     "primary_tradition": "ottoman",
     "workshop_centre": "Istanbul",
     "date_range_ce": "17th–18th century (c. 1650–1750)",
-    "confidence": 0.70,
+    "confidence": 0.7,
     "key_indicators": [
       "Sülüs-nesih mesk format in a bound murakka is characteristic of the Ottoman Istanbul calligraphic pedagogical tradition, particularly associated with the post-Hafiz Osman period (late 17th–18th century)",
       "The vassale window-mounting technique for calligraphy panels onto marbled margin grounds is a standard Ottoman Istanbul murakka production method",
@@ -132,7 +132,9 @@
       "folio": "Front cover (IIIF p001)",
       "source_image": "corpus/iiif/hamidiye_00026_p001.jpg",
       "decoration_present": true,
-      "decoration_types": ["marbled"],
+      "decoration_types": [
+        "marbled"
+      ],
       "elements": [
         {
           "motif": "Hatip ebru — heart-shaped golden motifs on grey-white fern-patterned marbled ground",
@@ -164,7 +166,10 @@
       "folio": "Calligraphy page 1 — battal ebru margins, blue-green-yellow (IIIF p003)",
       "source_image": "corpus/iiif/hamidiye_00026_p003.jpg",
       "decoration_present": true,
-      "decoration_types": ["marbled", "framing_system"],
+      "decoration_types": [
+        "marbled",
+        "framing_system"
+      ],
       "elements": [
         {
           "motif": "Battal ebru — blue-green, yellow, cream, brown-olive marbled margins",
@@ -192,7 +197,10 @@
       "folio": "Calligraphy page 2 — battal ebru margins, pink-rose dominant (IIIF p004)",
       "source_image": "corpus/iiif/hamidiye_00026_p004.jpg",
       "decoration_present": true,
-      "decoration_types": ["marbled", "framing_system"],
+      "decoration_types": [
+        "marbled",
+        "framing_system"
+      ],
       "elements": [
         {
           "motif": "Battal ebru — pink/rose dominant with blue-green and yellow splashes",
@@ -220,7 +228,10 @@
       "folio": "Calligraphy page 3 — battal ebru margins, blue-green and cream (IIIF p005)",
       "source_image": "corpus/iiif/hamidiye_00026_p005.jpg",
       "decoration_present": true,
-      "decoration_types": ["marbled", "framing_system"],
+      "decoration_types": [
+        "marbled",
+        "framing_system"
+      ],
       "elements": [
         {
           "motif": "Battal ebru — blue-green, cream, and yellow with feathery plant-like patterns",
@@ -248,7 +259,10 @@
       "folio": "Calligraphy page 4 — battal ebru margins, multi-color vivid (IIIF p006)",
       "source_image": "corpus/iiif/hamidiye_00026_p006.jpg",
       "decoration_present": true,
-      "decoration_types": ["marbled", "framing_system"],
+      "decoration_types": [
+        "marbled",
+        "framing_system"
+      ],
       "elements": [
         {
           "motif": "Battal ebru — vivid multi-color with grey, green, cream, yellow, and large rounded swirling forms",
@@ -276,7 +290,10 @@
       "folio": "Calligraphy page 5 — battal ebru margins, blue-grey and orange-peach (IIIF p007)",
       "source_image": "corpus/iiif/hamidiye_00026_p007.jpg",
       "decoration_present": true,
-      "decoration_types": ["marbled", "framing_system"],
+      "decoration_types": [
+        "marbled",
+        "framing_system"
+      ],
       "elements": [
         {
           "motif": "Battal ebru — blue-grey and orange/peach dominant with pronounced feathery-leaf patterns",
@@ -304,7 +321,10 @@
       "folio": "Calligraphy page 6 — battal ebru margins, blue-grey, orange-peach, cream (IIIF p008)",
       "source_image": "corpus/iiif/hamidiye_00026_p008.jpg",
       "decoration_present": true,
-      "decoration_types": ["marbled", "framing_system"],
+      "decoration_types": [
+        "marbled",
+        "framing_system"
+      ],
       "elements": [
         {
           "motif": "Battal ebru — blue-grey, orange-peach, and cream swirling organic patterns",
@@ -332,7 +352,11 @@
       "folio": "Calligraphy page 7 — battal ebru margins, blue-green; pink mulevven bottom sülüs (IIIF p009)",
       "source_image": "corpus/iiif/hamidiye_00026_p009.jpg",
       "decoration_present": true,
-      "decoration_types": ["marbled", "colored", "framing_system"],
+      "decoration_types": [
+        "marbled",
+        "colored",
+        "framing_system"
+      ],
       "elements": [
         {
           "motif": "Battal ebru — blue-green and cream with leaf-like motifs",
@@ -356,7 +380,7 @@
           "motif": "Sülüs-nesih mesk calligraphy panel — seventh kıtʿa, with mulevven accent",
           "description": "Sülüs-nesih mesk format. The panel structure shows: top sülüs line on cream paper; nesih mesk rows in the middle on cream paper; bottom sülüs line on the pink/rose mulevven strip. The Arabic calligraphy appears to be a continuation of the sülüs mesk text present throughout the album.",
           "location": "Central calligraphy panel",
-          "confidence": 0.90
+          "confidence": 0.9
         }
       ],
       "confidence": 0.93,
@@ -366,7 +390,10 @@
       "folio": "Calligraphy page 8 — battal ebru margins, vivid multi-color (IIIF p010)",
       "source_image": "corpus/iiif/hamidiye_00026_p010.jpg",
       "decoration_present": true,
-      "decoration_types": ["marbled", "framing_system"],
+      "decoration_types": [
+        "marbled",
+        "framing_system"
+      ],
       "elements": [
         {
           "motif": "Battal ebru — vivid multi-color: grey-blue, orange-rust, red, cream, dark patches",
@@ -394,7 +421,11 @@
       "folio": "Calligraphy page 9 — final page: battal ebru margins, large stone pattern; pink mulevven top sülüs; seal stamp (IIIF p011)",
       "source_image": "corpus/iiif/hamidiye_00026_p011.jpg",
       "decoration_present": true,
-      "decoration_types": ["marbled", "colored", "framing_system"],
+      "decoration_types": [
+        "marbled",
+        "colored",
+        "framing_system"
+      ],
       "elements": [
         {
           "motif": "Battal ebru — large rounded stone/spot pattern: grey-blue, orange-rust, cream, and red-brown",
@@ -406,7 +437,7 @@
           "motif": "Pink/rose mulevven strip — top sülüs writing surface",
           "description": "The top sülüs calligraphy line is written on a pink/rose colored paper strip (mulevven), the second mulevven occurrence in the album (mirroring p009's bottom sülüs strip). The top sülüs line reads: 'Qāla rasūlallāhi ṣallā allāhu ʿalayhi wa...' (the standard Arabic hadith introduction formula), indicating that this kıtʿa is a Prophetic hadith in sülüs script. The pink ground is clearly distinct from the cream paper below it.",
           "location": "Top sülüs line within the calligraphy panel",
-          "confidence": 0.90
+          "confidence": 0.9
         },
         {
           "motif": "Multi-color compound cetvel framing",
@@ -424,7 +455,7 @@
           "motif": "Sülüs-nesih mesk calligraphy panel — ninth and final kıtʿa",
           "description": "The final calligraphy page. The panel structure: pink mulevven top sülüs line (hadith opening formula); cream paper nesih text block (the body of the hadith, in a dense diagonal arrangement typical of mesk nesih); no explicit ketebe inscription is visible. The absence of a ketebe on the final page is unusual but may indicate the ketebe is on an undigitized page or the album is intentionally unsigned.",
           "location": "Central calligraphy panel",
-          "confidence": 0.90
+          "confidence": 0.9
         }
       ],
       "confidence": 0.97,
@@ -520,13 +551,13 @@
     {
       "citation": "Derman, M. Uğur. Letters in Gold: Ottoman Calligraphy from the Sakıp Sabancı Collection, Istanbul. New York: The Metropolitan Museum of Art, 1998.",
       "relevance": "Primary English-language exhibition catalogue on Ottoman calligraphy, covering the murakka album format, sülüs-nesih mesk pedagogy, and the broader calligraphic tradition within which this album was produced. Relevant for contextualizing the sülüs-nesih mesk format and for comparative calligraphic analysis once a ketebe attribution is established.",
-      "relevance_score": 0.80,
+      "relevance_score": 0.8,
       "access_notes": "Exhibition catalogue (Metropolitan Museum of Art, 1998); widely held. ISBN 978-0870998843."
     },
     {
       "citation": "Çağman, Filiz, and Zeren Tanındı. The Topkapı Saray Museum: The Albums and Illustrated Manuscripts. Translated and edited by J. M. Rogers. Boston: Little, Brown, 1986.",
       "relevance": "Standard reference for Ottoman calligraphic albums and decorated paper programs in the Topkapı collections. Provides comparative context for Ottoman murakka albums with ebru (marbled paper) covers and margin grounds, vassale-mounted calligraphy panels, and multi-color cetvel framing systems. Relevant for situating Hamidiye 00026 within the broader Ottoman murakka tradition.",
-      "relevance_score": 0.80,
+      "relevance_score": 0.8,
       "access_notes": "Exhibition catalogue; widely held at Turkish and Islamic art research libraries."
     },
     {
@@ -536,15 +567,9 @@
       "access_notes": "Reference monograph; widely held."
     },
     {
-      "citation": "Sturkenboom, Ilse. 'Chinese Decorated Paper in Persianate Manuscripts.' Forthcoming. GlobalDecoPaper ERC Project, LMU Munich.",
-      "relevance": "The GlobalDecoPaper project's research program on decorated paper in Islamic manuscripts is directly relevant to the classification and comparative analysis of the hatip ebru cover. The project's developing typology for Ottoman ebru subtypes (including the differentiation of hatip ebru motif types — rosettes, flowers, hearts) would provide the comparative framework needed to place this album's heart-shaped hatip motif within the documented spectrum of hatip ebru production.",
-      "relevance_score": 0.75,
-      "access_notes": "Forthcoming publication (LMU Munich ERC project). Project information at: https://www.en.islamicarthistory.uni-muenchen.de/research/global-deco-paper/index.html"
-    },
-    {
       "citation": "Bağcı, Serpil, Filiz Çağman, Günsel Renda, and Zeren Tanındı. Ottoman Painting. Ankara: Ministry of Culture and Tourism, 2006.",
       "relevance": "Comprehensive survey of Ottoman visual arts including the murakka album tradition and the decorative arts of the 17th–18th century Ottoman period. Provides comparative context for situating this album within the broader Ottoman cultural production of its probable period of origin.",
-      "relevance_score": 0.70,
+      "relevance_score": 0.7,
       "access_notes": "Museum publication; widely held at Turkish studies collections."
     }
   ],

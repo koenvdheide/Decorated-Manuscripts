@@ -58,7 +58,7 @@
     "primary_tradition": "ottoman",
     "workshop_centre": "Istanbul",
     "date_range_ce": "c. 1698–1702",
-    "confidence": 0.80,
+    "confidence": 0.8,
     "key_indicators": [
       "Dated ketebe inscriptions of Seyyid Abdullah at AH 1110 (1698–99) and AH 1113 (1701–02) establish a firm late-17th/early-18th century Ottoman date",
       "Hâfız Osman (d. AH 1110/1698) — the preeminent Ottoman sülüs calligrapher — is named in meşk inscriptions, placing the album in the Istanbul calligraphic tradition at its peak",
@@ -123,7 +123,9 @@
       "folio": "p001 — Front doublure, Type A block-printed paper",
       "source_image": "corpus/iiif/tiem_02471_p001.jpg",
       "decoration_present": true,
-      "decoration_types": ["other"],
+      "decoration_types": [
+        "other"
+      ],
       "elements": [
         {
           "motif": "Type A block-printed (or stenciled) paper — horizontal floral-row pattern",
@@ -139,13 +141,16 @@
       "folio": "p002 — Front endpaper opening: Type B block-printed paper (left) + battal ebru (right)",
       "source_image": "corpus/iiif/tiem_02471_p002.jpg",
       "decoration_present": true,
-      "decoration_types": ["other", "marbled"],
+      "decoration_types": [
+        "other",
+        "marbled"
+      ],
       "elements": [
         {
           "motif": "Type B block-printed (or stenciled) paper — ogival medallion lattice",
           "description": "The left page of the opening is covered with a large-scale ogival lattice pattern. Each cell of the lattice is a rounded, near-circular shape filled with dense, fine blue-grey stippling. The cells are separated by connecting zones in pink/red. The stippling within each circle has an organic, mottled texture that could result from either very fine stencil application or coarse woodblock ink transfer. The pattern fills the entire page. Compared to Type A, this is a bolder, more architectural repeat, with a scale approximately 5–6× larger than the Type A floral motifs. The color palette — blue-grey circles on pink/red connectors — is coordinated with the battal ebru facing page. No shelfmark or catalogue labels are visible on this page.",
           "location": "Left page of front endpaper opening (inside front cover verso)",
-          "confidence": 0.90
+          "confidence": 0.9
         },
         {
           "motif": "Battal ebru — blue-grey stone marbling",
@@ -161,7 +166,11 @@
       "folio": "p003 — Calligraphy opening: gold-worked inner frames + hatip ebru outer margin",
       "source_image": "corpus/iiif/tiem_02471_p003.jpg",
       "decoration_present": true,
-      "decoration_types": ["gold_worked", "marbled", "framing_system"],
+      "decoration_types": [
+        "gold_worked",
+        "marbled",
+        "framing_system"
+      ],
       "elements": [
         {
           "motif": "Zerkâri inner mount — gold-worked stippled ground",
@@ -173,17 +182,22 @@
           "motif": "Hatip ebru outer margin",
           "description": "The right page (p003 right) has a hatip ebru (imam's marbling / floral marbling) in deep blue-grey with large curvilinear floral motifs as its outer margin paper. The hatip-style floral forms are clearly visible. The left page shows a pinkish-salmon outer margin which may be a lightly tinted or faded hatip ebru, or a separate colored mount.",
           "location": "Outer margin area, right page; pinkish outer margin, left page",
-          "confidence": 0.80
+          "confidence": 0.8
         }
       ],
-      "confidence": 0.80,
+      "confidence": 0.8,
       "notes": "P003 introduces the interior album decorative program, which is more complex than the endpapers. The gold-worked inner frame + hatip ebru outer margin combination recurs across multiple interior openings."
     },
     {
       "folio": "p004 — Calligraphy opening: mulevven sage-green inner frame (left) + hatip ebru outer",
       "source_image": "corpus/iiif/tiem_02471_p004.jpg",
       "decoration_present": true,
-      "decoration_types": ["colored", "marbled", "gold_worked", "framing_system"],
+      "decoration_types": [
+        "colored",
+        "marbled",
+        "gold_worked",
+        "framing_system"
+      ],
       "elements": [
         {
           "motif": "Mülevven (sage-green colored) inner frame",
@@ -198,14 +212,18 @@
           "confidence": 0.85
         }
       ],
-      "confidence": 0.80,
+      "confidence": 0.8,
       "notes": "The sage-green mulevven inner frame on p004 left is one of the most distinctive elements in the album. It may represent a separate category of colored paper used specifically as an inner mount, contrasting with the more elaborate decorated papers elsewhere."
     },
     {
       "folio": "p005 — Calligraphy opening: hatip ebru (red) outer + zerkâri blue-pattern inner (right)",
       "source_image": "corpus/iiif/tiem_02471_p005.jpg",
       "decoration_present": true,
-      "decoration_types": ["marbled", "gold_worked", "framing_system"],
+      "decoration_types": [
+        "marbled",
+        "gold_worked",
+        "framing_system"
+      ],
       "elements": [
         {
           "motif": "Hatip ebru outer margin — bold red/orange tones",
@@ -220,14 +238,17 @@
           "confidence": 0.72
         }
       ],
-      "confidence": 0.80,
+      "confidence": 0.8,
       "notes": "The variation in inner frame treatments across album pages — grey stippled zerkâri (p003), mulevven green (p004 left), blue zerkâri (p005 right) — suggests deliberate compositional variety rather than a uniform scheme."
     },
     {
       "folio": "p007 — Calligraphy opening: gel-git/combed ebru (left) + hatip ebru (right)",
       "source_image": "corpus/iiif/tiem_02471_p007.jpg",
       "decoration_present": true,
-      "decoration_types": ["marbled", "framing_system"],
+      "decoration_types": [
+        "marbled",
+        "framing_system"
+      ],
       "elements": [
         {
           "motif": "Gel-git / taraklı ebru (combed marbling) — left outer margin",
@@ -249,7 +270,10 @@
       "folio": "p010 — Rear endpaper opening: battal ebru (left) + Type B ogival lattice (right)",
       "source_image": "corpus/iiif/tiem_02471_p010.jpg",
       "decoration_present": true,
-      "decoration_types": ["marbled", "other"],
+      "decoration_types": [
+        "marbled",
+        "other"
+      ],
       "elements": [
         {
           "motif": "Battal ebru — blue-grey stone marbling (left)",
@@ -386,7 +410,7 @@
     {
       "citation": "Roxburgh, David J. The Persian Album, 1400–1600: From Dispersal to Collection. New Haven: Yale University Press, 2005.",
       "relevance": "The primary scholarly study of the album-making tradition in the Persianate and Ottoman worlds, covering the vassale mounting technique, the role of decorated papers as grounds for calligraphy mounts, and the structural principles of murakkaat albums. Provides essential theoretical and comparative framework for this record.",
-      "relevance_score": 0.90,
+      "relevance_score": 0.9,
       "access_notes": "Monograph; widely held at major research libraries."
     },
     {
@@ -398,7 +422,7 @@
     {
       "citation": "Bloom, Jonathan M. Paper Before Print: The History and Impact of Paper in the Islamic World. New Haven: Yale University Press, 2001.",
       "relevance": "Comprehensive history of paper in the Islamic world, providing material-culture background for the decorated paper practices documented in this album, including the history of paper marbling and the relationship between paper decoration techniques and manuscript production traditions.",
-      "relevance_score": 0.80,
+      "relevance_score": 0.8,
       "access_notes": "Widely held monograph."
     },
     {
@@ -420,15 +444,9 @@
       "access_notes": "Monograph; available at specialist libraries."
     },
     {
-      "citation": "Sturkenboom, Ilse. 'Printed and Stencilled Papers in Persianate Manuscripts.' GlobalDecoPaper Project, LMU Munich (forthcoming).",
-      "relevance": "The most directly relevant ongoing research on stenciled and block-printed decorated papers in Islamic manuscripts. The GlobalDecoPaper ERC project (LMU Munich) is the primary current research program on exactly the paper types documented in this album. This citation represents the state of the field as of 2026; refer to the project website for the most recent publications.",
-      "relevance_score": 0.98,
-      "access_notes": "Forthcoming research — check GlobalDecoPaper ERC project (LMU Munich) for current publications and database access. In German and English."
-    },
-    {
       "citation": "Mahir, Banu. Osmanlı Minyatür Sanatı. Istanbul: Kabalcı, 2005.",
       "relevance": "Survey of Ottoman miniature painting and luxury manuscript production, with coverage of the 17th-century Istanbul workshop tradition and the role of calligraphy albums in Ottoman court culture. In Turkish.",
-      "relevance_score": 0.70,
+      "relevance_score": 0.7,
       "access_notes": "Turkish-language monograph. Held at major Ottomanist libraries."
     }
   ],

@@ -153,7 +153,9 @@
       "folio": "Cover opening (IIIF p001)",
       "source_image": "corpus/iiif/galata_mevlevihanesi_00110_p001.jpeg",
       "decoration_present": true,
-      "decoration_types": ["colored"],
+      "decoration_types": [
+        "colored"
+      ],
       "elements": [
         {
           "motif": "Doublure — olive-green speckled paper",
@@ -175,13 +177,18 @@
       "folio": "First text opening (IIIF p002)",
       "source_image": "corpus/iiif/galata_mevlevihanesi_00110_p002.jpeg",
       "decoration_present": true,
-      "decoration_types": ["colored", "gold_sprinkled", "illuminated_margins", "framing_system"],
+      "decoration_types": [
+        "colored",
+        "gold_sprinkled",
+        "illuminated_margins",
+        "framing_system"
+      ],
       "elements": [
         {
           "motif": "Olive-green / olive-gold mülevven margin",
           "description": "Outer margin field: uniform olive-green with slight golden-yellow cast, consistent with aged or saffron-tinted green-dyed paper. Fine, evenly distributed dark speckles visible across the entire margin surface, consistent with zerefşân gold-sprinkling per catalogue.",
           "location": "Outer margin (both pages of opening)",
-          "confidence": 0.90
+          "confidence": 0.9
         },
         {
           "motif": "Polychrome illuminated headbands",
@@ -208,7 +215,12 @@
       "folio": "Second text opening (IIIF p003)",
       "source_image": "corpus/iiif/galata_mevlevihanesi_00110_p003.jpeg",
       "decoration_present": true,
-      "decoration_types": ["colored", "gold_sprinkled", "illuminated_margins", "framing_system"],
+      "decoration_types": [
+        "colored",
+        "gold_sprinkled",
+        "illuminated_margins",
+        "framing_system"
+      ],
       "elements": [
         {
           "motif": "Salmon / pink mülevven margin",
@@ -220,7 +232,7 @@
           "motif": "Polychrome illuminated headbands with red/gold floral motifs",
           "description": "Same format as p002 but with a slightly different color emphasis — the illuminated band at the upper right panel shows a distinctive red/gold cross-hatch or grid pattern interspersed with floral rosettes. Bottom bands also carry polychrome floral decoration.",
           "location": "Top and bottom of each calligraphy panel",
-          "confidence": 0.90
+          "confidence": 0.9
         }
       ],
       "confidence": 0.92
@@ -229,28 +241,38 @@
       "folio": "Light green text opening (IIIF p006)",
       "source_image": "corpus/iiif/galata_mevlevihanesi_00110_p006.jpeg",
       "decoration_present": true,
-      "decoration_types": ["colored", "gold_sprinkled", "illuminated_margins", "framing_system"],
+      "decoration_types": [
+        "colored",
+        "gold_sprinkled",
+        "illuminated_margins",
+        "framing_system"
+      ],
       "elements": [
         {
           "motif": "Light green mülevven margin",
           "description": "Outer margin field: medium-light green with a fresh, slightly cool tone, clearly distinct from the olive-green/olive-gold of p002. This is the 4th or 5th distinct color in the program depending on classification of cream pages. Fine dark zerefşân speckles uniformly distributed. The combination of this light green with the red/blue illuminated headbands creates a striking contrast.",
           "location": "Outer margin (both pages of opening)",
-          "confidence": 0.90
+          "confidence": 0.9
         }
       ],
-      "confidence": 0.90
+      "confidence": 0.9
     },
     {
       "folio": "Warm orange text opening (IIIF p009)",
       "source_image": "corpus/iiif/galata_mevlevihanesi_00110_p009.jpeg",
       "decoration_present": true,
-      "decoration_types": ["colored", "gold_sprinkled", "illuminated_margins", "framing_system"],
+      "decoration_types": [
+        "colored",
+        "gold_sprinkled",
+        "illuminated_margins",
+        "framing_system"
+      ],
       "elements": [
         {
           "motif": "Warm orange / saffron mülevven margin",
           "description": "Outer margin field: warm golden-orange to saffron color, distinctly deeper and warmer than the pale gold of p008 or the cream of p004/p007. This orange-saffron hue is paralleled in the corpus only by Hamidiye 00034 (which has a similarly saturated orange). Fine dark zerefşân speckles visible throughout. Blue floral motifs visible in the illuminated headbands.",
           "location": "Outer margin (both pages of opening)",
-          "confidence": 0.90
+          "confidence": 0.9
         },
         {
           "motif": "Blue-accented illuminated headbands",
@@ -259,13 +281,15 @@
           "confidence": 0.88
         }
       ],
-      "confidence": 0.90
+      "confidence": 0.9
     },
     {
       "folio": "Back cover opening (IIIF p010)",
       "source_image": "corpus/iiif/galata_mevlevihanesi_00110_p010.jpeg",
       "decoration_present": true,
-      "decoration_types": ["colored"],
+      "decoration_types": [
+        "colored"
+      ],
       "elements": [
         {
           "motif": "Flyleaf — vivid yellow mülevven (matching p001 right)",
@@ -277,10 +301,10 @@
           "motif": "Doublure — olive-green speckled paper (matching p001 left)",
           "description": "Right side of back cover opening: olive-green with dense dark speckles, matching the p001 left-side doublure. Confirms the symmetrical placement of doublure and flyleaf on both covers.",
           "location": "Back cover doublure (right page of opening)",
-          "confidence": 0.90
+          "confidence": 0.9
         }
       ],
-      "confidence": 0.90
+      "confidence": 0.9
     }
   ],
   "terminology": {
@@ -387,12 +411,6 @@
       "access_notes": "Print; Kubbealtı Neşriyatı, Istanbul."
     },
     {
-      "citation": "Sturkenboom, Ilse. 'Coloured and Decorated Papers in Ottoman Manuscripts: New Approaches to an Understudied Field.' In Decorated Papers in Islamic Manuscripts: Techniques, Typologies, and Regional Traditions, eds. forthcoming (GlobalDecoPaper / LMU Munich).",
-      "relevance": "Forthcoming work from the ERC GlobalDecoPaper Project (LMU Munich) directly addressing the classification of mülevven, zerefşân, and composite decoration programs in Ottoman manuscripts; methodology directly applicable to the multi-color program documented in this record.",
-      "relevance_score": 0.85,
-      "access_notes": "Forthcoming; see GlobalDecoPaper ERC Project (LMU Munich) for current publications."
-    },
-    {
       "citation": "Gacek, Adam. Arabic Manuscripts: A Vademecum for Readers. Leiden: Brill, 2009.",
       "relevance": "Standard terminology reference for Arabic manuscript tradition; useful for the standardization of codicological terms (cedvel, ʿunwān, kıt'a) used in this record.",
       "relevance_score": 0.65,
@@ -419,7 +437,10 @@
   "provenance": {
     "donor": null,
     "waqf": "Galata Mevlevîhânesi Koleksiyonu (vakıf); now at Süleymaniye Kütüphanesi",
-    "previous_shelfmarks": ["I-110", "T 2451"],
+    "previous_shelfmarks": [
+      "I-110",
+      "T 2451"
+    ],
     "notes": "Galata Mevlevîhânesi Koleksiyonu, Süleymaniye Kütüphanesi, Istanbul. Library labels: T 2451 (YEK accession or temporary number) and I-110 (collection shelfmark as visible on binding). Calligrapher: Mahmud Celaleddin (محمود جلال الدین), b. c. 1750 Dagestan, d. 1244/1829 Istanbul. Content: verses from Ibn al-Fāriḍ and Imâm Bûsîrî divans. Catalogued 04.12.2020 by Fakirullah Yıldız. YEK ID: 246892; IIIF ID: 0000000185338. The album entered the Galata Mevlevîhânesi collection at an undetermined date; the dervish lodge was an important centre of calligraphic culture in Istanbul."
   },
   "analysis_metadata": {

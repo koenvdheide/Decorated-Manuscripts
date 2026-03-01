@@ -125,7 +125,9 @@
       "folio": "Hatip ebru front cover (IIIF p001)",
       "source_image": "corpus/iiif/hamidiye_00035_p001.jpg",
       "decoration_present": true,
-      "decoration_types": ["marbled"],
+      "decoration_types": [
+        "marbled"
+      ],
       "elements": [
         {
           "motif": "Full-page hatip ebru cover — large naturalistic leaf/frond motifs",
@@ -141,7 +143,9 @@
       "folio": "Inside cover — waqf seal (IIIF p002)",
       "source_image": "corpus/iiif/hamidiye_00035_p002.jpg",
       "decoration_present": false,
-      "decoration_types": ["other"],
+      "decoration_types": [
+        "other"
+      ],
       "elements": [
         {
           "motif": "Inside cover — plain cream paper with waqf seal and ownership text",
@@ -157,7 +161,10 @@
       "folio": "First calligraphy page — tahrirli halkâr margins (IIIF p003)",
       "source_image": "corpus/iiif/hamidiye_00035_p003.jpg",
       "decoration_present": true,
-      "decoration_types": ["halkar_margins", "framing_system"],
+      "decoration_types": [
+        "halkar_margins",
+        "framing_system"
+      ],
       "elements": [
         {
           "motif": "Tahrirli halkâr margins — composite peonies, oak-leaf vine forms, gold + dark grey/olive",
@@ -185,7 +192,10 @@
       "folio": "Mid-album calligraphy page — tahrirli halkâr, warmer gold (IIIF p006)",
       "source_image": "corpus/iiif/hamidiye_00035_p006.jpg",
       "decoration_present": true,
-      "decoration_types": ["halkar_margins", "framing_system"],
+      "decoration_types": [
+        "halkar_margins",
+        "framing_system"
+      ],
       "elements": [
         {
           "motif": "Tahrirli halkâr margins — composite roses/peonies, warmer gold tone",
@@ -213,7 +223,10 @@
       "folio": "Penultimate calligraphy page — tahrirli halkâr with Ḥāfiẓ text (IIIF p011)",
       "source_image": "corpus/iiif/hamidiye_00035_p011.jpg",
       "decoration_present": true,
-      "decoration_types": ["halkar_margins", "framing_system"],
+      "decoration_types": [
+        "halkar_margins",
+        "framing_system"
+      ],
       "elements": [
         {
           "motif": "Tahrirli halkâr margins — large composite rose/peony and oak-leaf forms",
@@ -231,7 +244,7 @@
           "motif": "Vassale-mounted nastaʿlīq kıtʿa — Ḥāfiẓ of Shiraz attribution",
           "description": "The calligraphy panel contains landscape-format taʿlīq calligraphy. The middle commentary line includes text that reads 'Hāfız' (حافظ) — a poet attribution identifying the verses as poetry by Ḥāfiẓ-e Shīrāzī (d. 791/1390). The two main bayt lines contain Persian verse text. The calligraphy is of the same skilled hand observed across all examined pages.",
           "location": "Central calligraphy panel",
-          "confidence": 0.90
+          "confidence": 0.9
         }
       ],
       "confidence": 0.92,
@@ -241,7 +254,10 @@
       "folio": "Final calligraphy page — halkâr + blue filler bands (IIIF p012)",
       "source_image": "corpus/iiif/hamidiye_00035_p012.jpg",
       "decoration_present": true,
-      "decoration_types": ["halkar_margins", "framing_system"],
+      "decoration_types": [
+        "halkar_margins",
+        "framing_system"
+      ],
       "elements": [
         {
           "motif": "Tahrirli halkâr margins — dark grey/olive leaf and vine forms",
@@ -323,19 +339,13 @@
     {
       "citation": "Blair, Sheila S. 'Color and Gold: The Decorated Papers Used in Manuscripts in Later Islamic Times.' Muqarnas XVII (2000): 24–36.",
       "relevance": "Foundational survey of decorated paper types in Islamic manuscripts; covers hatip ebru and gold-painted margin papers (halkâr equivalent). Essential for contextualizing the hatip ebru cover and the halkâr margin program.",
-      "relevance_score": 0.90,
+      "relevance_score": 0.9,
       "access_notes": "Available through JSTOR and institutional access."
-    },
-    {
-      "citation": "Sturkenboom, Ilse. 'Decorated Papers in Persianate Manuscripts: Marbled, Sprinkled, and Tinted Papers in the Islamic Book Arts.' GlobalDecoPaper ERC Project, LMU Munich (forthcoming).",
-      "relevance": "Most current research on hatip ebru typology (including the leaf/frond motif variants) and halkâr classification; directly relevant to the distinctive hatip ebru cover type and the tahrirli halkâr technique.",
-      "relevance_score": 0.92,
-      "access_notes": "Forthcoming; project information at GlobalDecoPaper ERC Project, LMU Munich."
     },
     {
       "citation": "Bloom, Jonathan M. Paper Before Print: The History and Impact of Paper in the Islamic World. New Haven: Yale University Press, 2001.",
       "relevance": "Historical context for decorated paper production including marbling and gold-painted margins in the Islamic world.",
-      "relevance_score": 0.70,
+      "relevance_score": 0.7,
       "access_notes": "Available in major research libraries."
     },
     {

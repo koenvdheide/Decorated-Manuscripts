@@ -24,7 +24,9 @@
     "significant_note": "SIGNIFICANT FIND: Visual confirmation establishes multi-colored scattered leaves (mülevven renkli yapraklar) throughout the codex — lapis blue (lacivert) and yellow confirmed on examined pages; green to be verified on deeper folios. This multi-colored leaf programme is consistent with the Manisa cataloguing phrase 'bazı yapraklar lacivert, yeşil, sarı ve mavi' and represents a notable example of Ottoman colored-paper practice in a provincial Anatolian collection."
   },
   "paper_decoration": {
-    "types": ["colored"],
+    "types": [
+      "colored"
+    ],
     "summary": "Multi-colored scattered leaves (mülevven renkli yapraklar / boyalı yapraklar) are present throughout the manuscript: some leaves are in lapis blue (lacivert), yellow (sarı), and potentially green (yeşil) and blue (mavi) — all confirmed by catalogue description and corroborated by visual examination of pp. 005 and 015. The colored leaves bear chain-line watermarks (suyolu filigranı), suggesting European or Europeanized paper stock dyed before or after manufacture. Quranic verse sections are marked in red ink; stop marks (duraklar) are also red. The decoration programme is purely paper-based (no halkâr, tezhip, or gold), consistent with a provincial Ottoman manuscript of modest but deliberate luxury.",
     "technique_terms": {
       "ottoman": "mülevven / boyalı yapraklar; renkli yaprak; lacivert; suyolu filigranı",
@@ -41,7 +43,7 @@
     "primary_tradition": "ottoman",
     "workshop_centre": null,
     "date_range_ce": null,
-    "confidence": 0.30,
+    "confidence": 0.3,
     "key_indicators": [
       "Multi-colored scattered leaves (lacivert, yeşil, sarı, mavi) consistent with Ottoman paper decoration practice documented across Turkish provincial collections",
       "Chain-line watermarks (suyolu filigranı) on colored leaves: consistent with European paper imports widely used in Ottoman manuscripts from the 16th c. onward",
@@ -70,7 +72,10 @@
     "binding": {
       "description": "Şemseli kahverengi deri cilt — brown leather binding with şemse central medallion. Spine repaired with burgundy (bordo) leather in a later intervention.",
       "material": "brown leather (kahverengi deri); spine repair in burgundy leather (bordo deri)",
-      "features": ["şemse", "repaired spine"]
+      "features": [
+        "şemse",
+        "repaired spine"
+      ]
     },
     "format": "risale (Quranic commentary), vol. 1 of mecmûʿa 4408",
     "condition_summary": "Beginning of text is missing (eserin başı eksiktir). Binding spine has been repaired with burgundy leather. Otherwise no further condition issues noted in catalogue.",
@@ -179,7 +184,7 @@
     {
       "citation": "Blair, Sheila S. 'Color and Gold: The Decorated Papers Used in Manuscripts in Later Islamic Times.' Muqarnas 17 (2000): 24–36.",
       "relevance": "Primary reference for colored paper (mülevven) in Islamic manuscripts; includes discussion of dyed paper leaves in Ottoman and Persian traditions. Directly applicable to the multi-colored leaf programme documented here.",
-      "relevance_score": 0.90,
+      "relevance_score": 0.9,
       "access_notes": "Available via JSTOR and open-access repositories."
     },
     {
@@ -187,12 +192,6 @@
       "relevance": "Foundational history of paper in the Islamic world including colored and decorated paper production; essential background for understanding the chain-line watermarked colored leaves in this manuscript.",
       "relevance_score": 0.75,
       "access_notes": "Available in major research libraries."
-    },
-    {
-      "citation": "Sturkenboom, Ilse. 'Decorated Papers in the Islamic Manuscript Tradition.' In GlobalDecoPaper Project Publications (LMU Munich, forthcoming).",
-      "relevance": "Forthcoming research on decorated paper classification in Persianate manuscripts including Ottoman contexts; directly relevant to the colored-leaf programme in this manuscript. Monitor for publication.",
-      "relevance_score": 0.80,
-      "access_notes": "Forthcoming; monitor GlobalDecoPaper ERC Project (LMU Munich) at globaldecopaper.eu for updates."
     },
     {
       "citation": "Déroche, François. Islamic Codicology: An Introduction to the Study of Manuscripts in Arabic Script. London: Al-Furqan Islamic Heritage Foundation, 2005.",
@@ -203,7 +202,7 @@
     {
       "citation": "Loveday, Helen. Islamic Paper: A Study of the Ancient Craft. London: Don Baker Memorial Fund, 2001.",
       "relevance": "Detailed study of Islamic paper production and varieties including colored and dyed papers; background for the suyolu filigranı (chain-line watermark) and colored paper stocks in this manuscript.",
-      "relevance_score": 0.70,
+      "relevance_score": 0.7,
       "access_notes": "Available in major research libraries."
     }
   ],
@@ -235,7 +234,10 @@
     "analyzer": "claude-code-manuscript-pipeline",
     "image_source": "YEK IIIF viewer (portal.yek.gov.tr / iiif_id: 0000000100115)",
     "image_quality_notes": "IIIF viewer resolution sufficient for macro-level color identification (lacivert blue and sarı yellow clearly distinguishable). Chain-line watermarks not resolvable at viewer resolution. Pigment analysis not possible from digital images.",
-    "folios_examined": ["p005 (opening pages, lacivert leaf confirmed)", "p015 (interior pages, lacivert + sarı confirmed)"],
+    "folios_examined": [
+      "p005 (opening pages, lacivert leaf confirmed)",
+      "p015 (interior pages, lacivert + sarı confirmed)"
+    ],
     "folios_not_examined": "Majority of folios not systematically examined. Green (yeşil) leaves noted in catalogue not verified. Full extent and distribution of colored leaves across the manuscript unconfirmed. Beginning of text is missing (eserin başı eksiktir)."
   }
 }

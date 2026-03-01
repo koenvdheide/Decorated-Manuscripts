@@ -23,7 +23,9 @@
     "notes": "Dated AH 1100 / CE 1688–1689. Arabic text in naskh-derived script (nesih kırmasi). Risale 1 of mecmûʿa 4620. Section incipits (söz başları), chapter titles (matlablar) in red. Cataloguer: Zahide Kutlay. Binding: spine, outer edges, and flap in light purple/plum (visre rengi) leather; patterned paper-covered boards; detached flap and damaged spine noted (sertabı yırtık)."
   },
   "paper_decoration": {
-    "types": ["colored"],
+    "types": [
+      "colored"
+    ],
     "summary": "The YEK kagit_ozellikleri field reads 'Üzüm salkımı taç filigranli, sarı boyalı' — indicating yellow-dyed (sarı boyalı) paper with a bunch-of-grapes crown watermark (üzüm salkımı taç filigranı). Visual examination of p005 shows a distinctly warm yellow tint on the paper, consistent with the catalogued 'sarı boyalı' (yellow-dyed) description. The color calibration caveat applies: screen rendering of IIIF images may shift warm tones, and the yellow tone may be intensified by scanner settings. Nevertheless, the explicit catalogue term 'sarı boyalı' (not merely 'mülevven') provides specific support for intentional yellow dyeing, making this a probable record. The decoration programme is modest: red section headings and chapter titles, no gold, consistent with a provincial fiqh anthology of the late 17th century.",
     "technique_terms": {
       "ottoman": "sarı boyalı kâğıt; üzüm salkımı taç filigranı",
@@ -40,7 +42,7 @@
     "primary_tradition": "ottoman",
     "workshop_centre": null,
     "date_range_ce": "1688–1689 (dated)",
-    "confidence": 0.20,
+    "confidence": 0.2,
     "key_indicators": [
       "Dated AH 1100 / CE 1688–1689 — late 17th-century Ottoman production, period consistent with use of sarı boyalı (yellow-dyed) paper in Ottoman fiqh manuscripts",
       "Manisa İl Halk Kütüphanesi provenance suggests Aegean/western Anatolian provincial context rather than Istanbul",
@@ -60,14 +62,24 @@
     },
     "ruling": {
       "description": "Söz başları, matlablar kırmızı (section incipits and chapter headings in red). No elaborate cedvel or framing system is noted in the catalogue.",
-      "ink_colors": ["black", "red (for section incipits and chapter headings)"],
+      "ink_colors": [
+        "black",
+        "red (for section incipits and chapter headings)"
+      ],
       "lines_per_page": null
     },
     "binding": {
       "description": "Sırtı, sertabı, yanı visre rengi meşin desenli kâğıt kaplı mukavva ciltli, mıkleplı, sırtı ve sertabı yırtık. Board binding (mukavva) covered in patterned paper (desenli kâğıt), with light purple/plum leather (visre rengi meşin) on spine, outer edges, and flap (mıklep); spine and flap torn. This is a composite binding shared by the mecmûʿa 4620.",
       "binding_type": "Board binding with patterned paper covers and leather spine/edges/flap",
-      "materials": ["mukavva (boards)", "visre rengi meşin (light purple leather)", "desenli kâğıt (patterned paper covers)"],
-      "decoration": ["desenli kâğıt kaplı kapaklar", "mıkleplı"]
+      "materials": [
+        "mukavva (boards)",
+        "visre rengi meşin (light purple leather)",
+        "desenli kâğıt (patterned paper covers)"
+      ],
+      "decoration": [
+        "desenli kâğıt kaplı kapaklar",
+        "mıkleplı"
+      ]
     },
     "format": "Mecmûʿa (composite manuscript) — risale 1 of 4620",
     "condition_summary": "Fair to poor. Spine and flap (sertab) torn. Patterned paper boards intact. Text block condition not fully assessed.",
@@ -120,7 +132,7 @@
     {
       "citation": "Blair, Sheila S. 'Color and Gold: The Decorated Papers Used in Manuscripts in Later Islamic Times.' Muqarnas 17 (2000): 24–36.",
       "relevance": "Principal study of colored papers (including sarı boyalı / yellow-dyed papers) in Islamic manuscripts; directly relevant to the yellow-dyed paper of this Manisa fiqh manuscript and its typological classification within the broader category of mülevven papers.",
-      "relevance_score": 0.90,
+      "relevance_score": 0.9,
       "access_notes": "Peer-reviewed. Available via JSTOR."
     },
     {
@@ -134,12 +146,6 @@
       "relevance": "Standard codicological reference covering paper identification, watermark analysis, and manuscript description relevant to this record; also provides context for the mecmûʿa format and ruling conventions.",
       "relevance_score": 0.72,
       "access_notes": "Available at major research libraries."
-    },
-    {
-      "citation": "Sturkenboom, Ilse. 'Identifying Chinese Decorated Paper in Persianate Manuscripts: Methodological Challenges.' GlobalDecoPaper ERC Project, LMU Munich (forthcoming).",
-      "relevance": "Forthcoming research on the classification and identification of decorated and dyed papers in Islamic manuscripts; methodological framework applicable to the challenge of confirming intentional yellow dyeing versus paper aging in IIIF-based remote examination.",
-      "relevance_score": 0.60,
-      "access_notes": "Forthcoming. GlobalDecoPaper ERC Project, LMU Munich."
     }
   ],
   "suggested_collections": [
@@ -165,7 +171,9 @@
     "analyzer": "claude-code-manuscript-pipeline",
     "image_source": "YEK Portal IIIF — Manisa İl Halk Kütüphanesi (portal.yek.gov.tr); screenshot via visual-confirmation agent (Batch 3, 2026-02-26). Primary yek_id: 91026; IIIF id: 0000000104711. Note: Manisa IIIF images pp. 1–4 are typically spine/binding photographs; p005 is the first text content page examined.",
     "image_quality_notes": "One IIIF screenshot examined (p005). The yellow tint is visible but color calibration caveats apply. Intentional dyeing is supported by the explicit catalogue term 'sarı boyalı' but cannot be confirmed as definitively distinct from scanner-induced warmth at available digital resolution.",
-    "folios_examined": ["p005 (IIIF screenshot — text leaf, probable yellow-dyed paper ground)"],
+    "folios_examined": [
+      "p005 (IIIF screenshot — text leaf, probable yellow-dyed paper ground)"
+    ],
     "folios_not_examined": "All remaining folios of the risale and mecmûʿa; extent of sarı boyalı paper across the full volume unassessed."
   }
 }

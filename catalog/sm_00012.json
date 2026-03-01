@@ -144,7 +144,10 @@
       "folio": "p006 — Single page: Nesih kıtʿa on vivid yellow mülevven, three-layer cetvelli",
       "source_image": "corpus/iiif/sm_00012_p006.jpeg",
       "decoration_present": true,
-      "decoration_types": ["colored", "framing_system"],
+      "decoration_types": [
+        "colored",
+        "framing_system"
+      ],
       "elements": [
         {
           "motif": "Vivid yellow mülevven margin paper (sarı mülevven)",
@@ -162,7 +165,7 @@
           "motif": "Fethizâde vakf seal — bottom of page",
           "description": "The vakf seal of Fethizâde Mustafa Efendi (AH 1202) visible at the bottom of the page, confirming the album's institutional provenance.",
           "location": "Bottom margin",
-          "confidence": 0.90
+          "confidence": 0.9
         },
         {
           "motif": "Red/pink decorated side paper — left edge",
@@ -178,13 +181,18 @@
       "folio": "p008 — Spread: yellow mülevven + zerefşân (left) / blue-green battal ebru (right)",
       "source_image": "corpus/iiif/sm_00012_p008.jpeg",
       "decoration_present": true,
-      "decoration_types": ["colored", "gold_sprinkled", "marbled", "framing_system"],
+      "decoration_types": [
+        "colored",
+        "gold_sprinkled",
+        "marbled",
+        "framing_system"
+      ],
       "elements": [
         {
           "motif": "Yellow mülevven with zerefşân overlay — left page",
           "description": "The left page margin continues the vivid yellow mülevven from p006, but here gold zerefşân speckles are clearly visible on the yellow ground. The gold particles scattered across the yellow base create a combined mülevven-plus-zerefşân effect. Gold cetvelli and gold verse markers are also present.",
           "location": "Full outer margin, left page",
-          "confidence": 0.90
+          "confidence": 0.9
         },
         {
           "motif": "Blue-green battal ebru — right page margin",
@@ -212,7 +220,12 @@
       "folio": "p010 — Spread: peach/salmon mülevven + zerefşân (left) / polychrome battal ebru (right)",
       "source_image": "corpus/iiif/sm_00012_p010.jpeg",
       "decoration_present": true,
-      "decoration_types": ["colored", "gold_sprinkled", "marbled", "framing_system"],
+      "decoration_types": [
+        "colored",
+        "gold_sprinkled",
+        "marbled",
+        "framing_system"
+      ],
       "elements": [
         {
           "motif": "Peach/salmon mülevven with zerefşân overlay — left page",
@@ -236,7 +249,7 @@
           "motif": "Fethizâde vakf seal — bottom-right",
           "description": "Vakf seal of Fethizâde Mustafa Efendi at bottom-right of the opening.",
           "location": "Bottom-right margin",
-          "confidence": 0.90
+          "confidence": 0.9
         }
       ],
       "confidence": 0.93,
@@ -246,7 +259,11 @@
       "folio": "p012 — Single page: meşk/masq exercise page with gold ruled lines, cetvelli, marbled side papers, and illuminated medallion",
       "source_image": "corpus/iiif/sm_00012_p012.jpeg",
       "decoration_present": true,
-      "decoration_types": ["illuminated_margins", "marbled", "framing_system"],
+      "decoration_types": [
+        "illuminated_margins",
+        "marbled",
+        "framing_system"
+      ],
       "elements": [
         {
           "motif": "Gold ruled lines on calligraphic exercise page",
@@ -258,7 +275,7 @@
           "motif": "Cetvelli border at edges",
           "description": "A cetvelli frame borders the page edges, consistent with the compound framing system documented throughout the album.",
           "location": "Page edges",
-          "confidence": 0.90
+          "confidence": 0.9
         },
         {
           "motif": "Marbled side papers — bottom-left",
@@ -276,7 +293,7 @@
           "motif": "Fethizâde vakf seal — top-right",
           "description": "The vakf seal of Fethizâde Mustafa Efendi at the top-right of the page.",
           "location": "Top-right margin",
-          "confidence": 0.90
+          "confidence": 0.9
         }
       ],
       "confidence": 0.85,
@@ -286,28 +303,31 @@
       "folio": "p014 — Final page: Nesih text on cream ground with zerefşân margins, double cetvelli",
       "source_image": "corpus/iiif/sm_00012_p014.jpeg",
       "decoration_present": true,
-      "decoration_types": ["gold_sprinkled", "framing_system"],
+      "decoration_types": [
+        "gold_sprinkled",
+        "framing_system"
+      ],
       "elements": [
         {
           "motif": "Zerefşân (gold-sprinkled) margin paper on cream/off-white ground",
           "description": "The final page margin is cream or off-white paper with gold zerefşân sprinkling. This is a different ground color from the yellow and peach/salmon mülevven pages — the zerefşân here is applied directly on a cream base without additional coloring, producing a subtler gold-on-cream effect. The zerefşân particles are visible at IIIF resolution.",
           "location": "Outer margin",
-          "confidence": 0.90
+          "confidence": 0.9
         },
         {
           "motif": "Dark green/black outer with gold inner double cetvelli frame",
           "description": "The page is framed by a double cetvelli: a dark green or black outer ruling line with a gold inner ruling line. The calligraphic text in dark ink is contained within a gold cetvelli frame. The orange/brown leather binding spine is visible at the left edge.",
           "location": "Full frame",
-          "confidence": 0.90
+          "confidence": 0.9
         },
         {
           "motif": "Fethizâde vakf seal — bottom-left",
           "description": "The vakf seal of Fethizâde Mustafa Efendi at the bottom-left of the final page.",
           "location": "Bottom-left margin",
-          "confidence": 0.90
+          "confidence": 0.9
         }
       ],
-      "confidence": 0.90,
+      "confidence": 0.9,
       "notes": "P014 establishes that zerefşân also appears on a cream (uncolored) ground in the album — distinct from the mülevven+zerefşân combinations on pp008L and p010L. The darker, subtler tone of zerefşân on cream at p014 completes the picture: the album employs three zerefşân ground variants: yellow mülevven, peach/salmon mülevven, and plain cream."
     }
   ],
@@ -409,15 +429,9 @@
       "access_notes": "Museum publication; available at major Turkish studies collections."
     },
     {
-      "citation": "Sturkenboom, Ilse. 'Chinese Decorated Paper in Persianate Manuscripts.' Forthcoming / ERC Global Deco Paper Project (LMU Munich, ongoing).",
-      "relevance": "Active research on decorated paper classification in Persianate and Ottoman manuscripts, including battal ebru comparative typology. The GlobalDecoPaper project at LMU Munich is currently the leading research initiative for the systematic classification of Islamic decorated papers. Relevant to the two-palette battal ebru program documented in SM 00012.",
-      "relevance_score": 0.75,
-      "access_notes": "Forthcoming publication. Project website: https://www.en.kunstgeschichte.uni-muenchen.de/research/erc-projects/global-deco-paper/index.html"
-    },
-    {
       "citation": "Bloom, Jonathan M. Paper Before Print: The History and Impact of Paper in the Islamic World. New Haven: Yale University Press, 2001.",
       "relevance": "Background on the history of paper production and decorated paper traditions in the Islamic world, providing context for the mülevven and zerefşân programs in SM 00012.",
-      "relevance_score": 0.70,
+      "relevance_score": 0.7,
       "access_notes": "Widely held monograph."
     },
     {

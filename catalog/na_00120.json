@@ -107,7 +107,7 @@
     "confidence": 0.96,
     "confidence_breakdown": {
       "resolution_quality": 0.75,
-      "folio_coverage": 1.0,
+      "folio_coverage": 1,
       "visual_match": 0.98,
       "limiting_factor": "resolution (approximately 75% native IIIF; fine details of paper surface texture reduced)"
     },
@@ -137,7 +137,9 @@
       "folio": "Front cover (IIIF p001)",
       "source_image": "corpus/iiif/na_00120_p001.jpg",
       "decoration_present": true,
-      "decoration_types": ["marbled"],
+      "decoration_types": [
+        "marbled"
+      ],
       "elements": [
         {
           "motif": "Hatip ebrûsu — botanical leaf and feather motifs on dark ground",
@@ -167,7 +169,9 @@
       "folio": "Inside front cover + first mülevven leaf (IIIF p002)",
       "source_image": "corpus/iiif/na_00120_p002.jpg",
       "decoration_present": true,
-      "decoration_types": ["colored"],
+      "decoration_types": [
+        "colored"
+      ],
       "elements": [
         {
           "motif": "Inside front cover doublure — plain paper with handwritten cataloguing notes",
@@ -190,7 +194,10 @@
       "folio": "First calligraphy opening (IIIF p003)",
       "source_image": "corpus/iiif/na_00120_p003.jpg",
       "decoration_present": true,
-      "decoration_types": ["colored", "framing_system"],
+      "decoration_types": [
+        "colored",
+        "framing_system"
+      ],
       "elements": [
         {
           "motif": "Green mülevven paper — full-page calligraphy mounting ground",
@@ -221,7 +228,10 @@
       "folio": "Second calligraphy opening (IIIF p004)",
       "source_image": "corpus/iiif/na_00120_p004.jpg",
       "decoration_present": true,
-      "decoration_types": ["colored", "framing_system"],
+      "decoration_types": [
+        "colored",
+        "framing_system"
+      ],
       "elements": [
         {
           "motif": "Green mülevven paper — full-page calligraphy mounting ground",
@@ -250,7 +260,10 @@
       "folio": "Third calligraphy opening (IIIF p005)",
       "source_image": "corpus/iiif/na_00120_p005.jpg",
       "decoration_present": true,
-      "decoration_types": ["colored", "framing_system"],
+      "decoration_types": [
+        "colored",
+        "framing_system"
+      ],
       "elements": [
         {
           "motif": "Green mülevven paper — full-page calligraphy mounting ground",
@@ -279,7 +292,10 @@
       "folio": "Fourth (final) calligraphy opening (IIIF p006)",
       "source_image": "corpus/iiif/na_00120_p006.jpg",
       "decoration_present": true,
-      "decoration_types": ["colored", "framing_system"],
+      "decoration_types": [
+        "colored",
+        "framing_system"
+      ],
       "elements": [
         {
           "motif": "Green mülevven paper — full-page calligraphy mounting ground",
@@ -292,7 +308,7 @@
           "motif": "Vassale-mounted calligraphy panels — kıtʿa on cream paper",
           "description": "Three vertical strips on the left page; right page appears to have two clearly visible strips (the third may be present but partially obscured by the gutter fold). The right page of p006 may carry the final kıtʿa of the album, possibly including the calligrapher's ketebe inscription, but this cannot be confirmed at available image resolution.",
           "location": "Both pages — calligraphy panel strips",
-          "confidence": 0.90
+          "confidence": 0.9
         },
         {
           "motif": "Simple single-line dark border",
@@ -435,21 +451,15 @@
       "access_notes": "Monograph; available at specialist libraries."
     },
     {
-      "citation": "Sturkenboom, Ilse. 'Chinese Decorated Papers in Persianate Manuscripts: A Preliminary Survey.' In New Findings in the History of the Book and Paper: Proceedings of the 38th IADA Congress. 2023.",
-      "relevance": "Recent scholarship on decorated paper traditions in Persianate-Ottoman manuscripts, including the identification and classification of colored and patterned papers imported or adapted from Chinese sources. Relevant for situating the green mülevven paper tradition in a broader cross-cultural context and for the GlobalDecoPaper ERC project framework applied in this record.",
-      "relevance_score": 0.65,
-      "access_notes": "Conference proceedings. Check IADA publications for open access. Note: publication details require verification — the GlobalDecoPaper ERC project (LMU Munich) is the primary active research group for this topic."
-    },
-    {
       "citation": "Müstakimzâde Süleyman Saʿdeddin Efendi. Tuhfe-i Hattâtîn. Edited by İbnülemin Mahmud Kemal İnal. Istanbul: Devlet Matbaası, 1928. (Arabic script original c. 1788.)",
       "relevance": "The standard Ottoman biographical dictionary of calligraphers, containing entries for thousands of Ottoman calligraphers from the 15th through 18th centuries. Essential for any attempt to identify and date Zühdü Efendi based on the YEK calligrapher attribution. If Zühdü Efendi is an 18th-century figure, an entry in the Tuhfe is plausible; if 19th century, İnal's Son Hattatlar would be the more appropriate source.",
-      "relevance_score": 0.70,
+      "relevance_score": 0.7,
       "access_notes": "Ottoman Turkish (Arabic script) primary source; 1928 edited edition widely held at Turkish manuscript libraries. Facsimile and partial digitization available through Turkish manuscript repositories."
     },
     {
       "citation": "İnal, İbnülemin Mahmud Kemal. Son Hattatlar. Istanbul: Maarif Basımevi, 1955.",
       "relevance": "Biographical dictionary of late Ottoman (19th–early 20th century) calligraphers. Relevant for identifying Zühdü Efendi if active in the 19th century — the period most consistent with the stylistic and material evidence of NA 00120. Complements Müstakimzâde's Tuhfe-i Hattâtîn for later periods.",
-      "relevance_score": 0.70,
+      "relevance_score": 0.7,
       "access_notes": "Turkish-language monograph; widely held at Turkish research libraries."
     }
   ],

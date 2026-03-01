@@ -135,7 +135,9 @@
       "folio": "Inside front cover + first flyleaf — red/pink boya efşân endpapers (IIIF p001)",
       "source_image": "corpus/iiif/vahid_pasa_01220_p001.jpg",
       "decoration_present": true,
-      "decoration_types": ["other"],
+      "decoration_types": [
+        "other"
+      ],
       "elements": [
         {
           "motif": "Dense red/pink boya efşân — full-ground endpaper paper",
@@ -151,7 +153,11 @@
       "folio": "Calligraphy spread 1 — alif-bā combinations (IIIF p002)",
       "source_image": "corpus/iiif/vahid_pasa_01220_p002.jpg",
       "decoration_present": true,
-      "decoration_types": ["other", "colored", "framing_system"],
+      "decoration_types": [
+        "other",
+        "colored",
+        "framing_system"
+      ],
       "elements": [
         {
           "motif": "Deep teal mülevven outer margin — vassale ground",
@@ -179,7 +185,11 @@
       "folio": "Calligraphy spread 2 — jīm-dāl combinations (IIIF p003)",
       "source_image": "corpus/iiif/vahid_pasa_01220_p003.jpg",
       "decoration_present": true,
-      "decoration_types": ["other", "colored", "framing_system"],
+      "decoration_types": [
+        "other",
+        "colored",
+        "framing_system"
+      ],
       "elements": [
         {
           "motif": "Deep teal mülevven outer margin (consistent with p002)",
@@ -197,7 +207,7 @@
           "motif": "Vassale calligraphy panels — off-white paper (both panels)",
           "description": "Both panels on this spread appear to use a similar off-white to lightly cream paper, in contrast to the yellowish-cream of some panels in p002 and p005. The hurûfât content progresses through jīm-dāl combinations. Taʿlîk calligraphy is clear and flowing, with 4–5 lines per panel.",
           "location": "Central calligraphy panels, both pages",
-          "confidence": 0.90
+          "confidence": 0.9
         }
       ],
       "confidence": 0.95,
@@ -207,7 +217,11 @@
       "folio": "Calligraphy spread 3 — ṣād-ṭā combinations (IIIF p004)",
       "source_image": "corpus/iiif/vahid_pasa_01220_p004.jpg",
       "decoration_present": true,
-      "decoration_types": ["other", "colored", "framing_system"],
+      "decoration_types": [
+        "other",
+        "colored",
+        "framing_system"
+      ],
       "elements": [
         {
           "motif": "Deep teal mülevven outer margin (consistent)",
@@ -235,7 +249,11 @@
       "folio": "Calligraphy spread 4 — ṭā-ʿayn-fā combinations (IIIF p005)",
       "source_image": "corpus/iiif/vahid_pasa_01220_p005.jpg",
       "decoration_present": true,
-      "decoration_types": ["other", "colored", "framing_system"],
+      "decoration_types": [
+        "other",
+        "colored",
+        "framing_system"
+      ],
       "elements": [
         {
           "motif": "Deep teal mülevven outer margin",
@@ -253,7 +271,7 @@
           "motif": "Vassale calligraphy panels — yellowish-cream (both panels)",
           "description": "Both left and right panels appear to use a similar yellowish-cream/buff paper on this spread (consistent with the left panels in p002 and p004). Hurûfât content: ṭā-ʿayn-fā combinations. Flowing taʿlîk, 4–5 lines per panel.",
           "location": "Central calligraphy panels, both pages",
-          "confidence": 0.90
+          "confidence": 0.9
         }
       ],
       "confidence": 0.95,
@@ -263,7 +281,11 @@
       "folio": "Calligraphy spread 5 — fā-kāf-mīm combinations (IIIF p006)",
       "source_image": "corpus/iiif/vahid_pasa_01220_p006.jpg",
       "decoration_present": true,
-      "decoration_types": ["other", "colored", "framing_system"],
+      "decoration_types": [
+        "other",
+        "colored",
+        "framing_system"
+      ],
       "elements": [
         {
           "motif": "Deep teal mülevven outer margin",
@@ -281,7 +303,7 @@
           "motif": "Vassale calligraphy panels — off-white paper (both panels)",
           "description": "Both panels on this spread use off-white/cream paper. Hurûfât content: fā-kāf-mīm combinations. The letter forms in taʿlîk are clearly rendered, with characteristic right-leaning diagonal forms of the taʿlîk style.",
           "location": "Central calligraphy panels, both pages",
-          "confidence": 0.90
+          "confidence": 0.9
         }
       ],
       "confidence": 0.95,
@@ -291,7 +313,11 @@
       "folio": "Calligraphy spread 6 — mīm-nūn combinations + ketebe (IIIF p007)",
       "source_image": "corpus/iiif/vahid_pasa_01220_p007.jpg",
       "decoration_present": true,
-      "decoration_types": ["other", "colored", "framing_system"],
+      "decoration_types": [
+        "other",
+        "colored",
+        "framing_system"
+      ],
       "elements": [
         {
           "motif": "Deep teal mülevven outer margin",
@@ -309,7 +335,7 @@
           "motif": "Vassale left panel — off-white paper with Persian verse + Yesârî ketebe",
           "description": "Left panel: off-white/cream âharlı paper with taʿlîk calligraphy. The content of this panel differs from the pure hurûfât of the preceding panels: it includes a Persian verse couplet ('chun khalâṣ yābi-d ze mufradāt / vaqt-i mashq-i murakkabāt āmad' — 'when freed from individual letters, the time for compound practice comes') followed by a 'Yesari' ketebe signature. This is the conclusive colophon of the album, confirming the calligrapher's identity. The couplet is pedagogical — it marks the end of single-letter exercises and the beginning of compound forms, functioning as a literary conclusion to the hurûfât sequence.",
           "location": "Left calligraphy panel",
-          "confidence": 0.90
+          "confidence": 0.9
         },
         {
           "motif": "Vassale right panel — blue-grey mülevven paper (EXCEPTIONAL: colored writing surface)",
@@ -325,7 +351,9 @@
       "folio": "Back endpaper/flyleaf — red/pink boya efşân (IIIF p008)",
       "source_image": "corpus/iiif/vahid_pasa_01220_p008.jpg",
       "decoration_present": true,
-      "decoration_types": ["other"],
+      "decoration_types": [
+        "other"
+      ],
       "elements": [
         {
           "motif": "Dense red/pink boya efşân — full-ground endpaper paper (rear)",
@@ -341,7 +369,9 @@
       "folio": "Binding doublures — European floral fabric/printed paper (IIIF p009)",
       "source_image": "corpus/iiif/vahid_pasa_01220_p009.jpg",
       "decoration_present": true,
-      "decoration_types": ["other"],
+      "decoration_types": [
+        "other"
+      ],
       "elements": [
         {
           "motif": "European-style floral doublures — vertical striped polychrome floral pattern",
@@ -449,14 +479,8 @@
     {
       "citation": "Bloom, Jonathan M. Paper Before Print: The History and Impact of Paper in the Islamic World. New Haven: Yale University Press, 2001.",
       "relevance": "Comprehensive history of paper production and use in the Islamic world, providing material-culture background for the mülevven (colored) paper tradition and the serpme (sprinkling) technique. Relevant for understanding the production methods behind the teal mülevven margins and the red/pink boya efşân endpapers, and for situating these techniques within the broader history of Islamic decorated paper.",
-      "relevance_score": 0.80,
+      "relevance_score": 0.8,
       "access_notes": "Widely held monograph."
-    },
-    {
-      "citation": "Sturkenboom, Ilse. 'Decorated Papers in Persianate Manuscripts: Classification, Technique, and Cultural Transfer.' Forthcoming (GlobalDecoPaper ERC Project, LMU Munich).",
-      "relevance": "Active research project specifically focused on decorated paper classification in Islamic manuscripts, including unusual serpme and colored paper variants. The red/pink boya efşân documented in this album — a RARE non-gold serpme variant — falls squarely within the GlobalDecoPaper research remit. Consultation with the GlobalDecoPaper team is recommended for identifying parallel examples and for spectroscopic characterization of the sprinkled substance.",
-      "relevance_score": 0.90,
-      "access_notes": "Forthcoming publication; contact GlobalDecoPaper ERC Project, LMU Munich for pre-publication consultation. Project website: globaldecoper.hypotheses.org (or equivalent)."
     },
     {
       "citation": "Gacek, Adam. Arabic Manuscripts: A Vademecum for Readers. Leiden: Brill, 2009.",
@@ -467,7 +491,7 @@
     {
       "citation": "Déroche, François. Islamic Codicology: An Introduction to the Study of Manuscripts in Arabic Script. Translated by Deke Dusinberre and David Radzinowicz. London: Al-Furqan Islamic Heritage Foundation, 2005.",
       "relevance": "Foundational reference for Islamic manuscript codicology, covering paper preparation, decoration types, ruling systems, binding forms, and physical description standards. The classification frameworks for the compound cedvel, vassale mounting, and paper color categories used in this record are grounded in Déroche's system.",
-      "relevance_score": 0.80,
+      "relevance_score": 0.8,
       "access_notes": "Monograph; available at specialist libraries."
     },
     {
@@ -518,7 +542,9 @@
   "provenance": {
     "donor": null,
     "waqf": "A vakf (endowment) inscription and/or library stamp is visible on p001 (inside front cover), partially legible at IIIF resolution. The stamp appears to be the Kütahya Vahid Paşa Kütüphanesi accession seal. The vakf affiliation of the album — whether it was originally endowed to the Vahid Paşa library or was acquired later — is not determinable from the image alone. Physical examination of the vakf inscription on p001 would clarify the provenance chain.",
-    "previous_shelfmarks": ["1220 (current shelfmark, visible on p001 handwritten at top center)"],
+    "previous_shelfmarks": [
+      "1220 (current shelfmark, visible on p001 handwritten at top center)"
+    ],
     "notes": "Held at Kütahya Vahid Paşa Kütüphanesi, Kütahya, Turkey, under shelfmark 1220. YEK ID: 520279. IIIF ID: 0000000502489. Kütahya is an important Anatolian city with a documented tradition of ceramic arts (İznik and Kütahya tiles) and calligraphy; the Vahid Paşa Kütüphanesi is a provincial library established as a waqf institution. The album was likely produced in Istanbul (given the Yesârî attribution to an imperial calligrapher) and subsequently transferred to Kütahya, possibly through the personal library of a provincial official or through a waqf endowment. The absence of detailed provenance documentation in the YEK record reflects the limited metadata currently available for this collection. The cataloguer (İleyha Tuğçe Durmaz) populated only basic bibliographic fields. A full examination of the album's vakf inscription and any ex-libris or ownership marks would be the first step in reconstructing the provenance chain. Note: This library should not be confused with Veliyyüddin Efendi Kütüphanesi, Istanbul — they are distinct institutions in different cities."
   },
   "analysis_metadata": {

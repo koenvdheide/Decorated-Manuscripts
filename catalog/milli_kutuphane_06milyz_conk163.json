@@ -20,7 +20,10 @@
     "folio_count": null
   },
   "paper_decoration": {
-    "types": ["gold_sprinkled", "colored"],
+    "types": [
+      "gold_sprinkled",
+      "colored"
+    ],
     "summary": "The catalogue describes zerefşân kâğıt (gold-sprinkled paper) throughout this conk-format manuscript. Visual examination of p003 reveals a paper surface with a distinct pale-green / sage tint that may indicate a mülevven (colored/tinted) ground combined with, or underlying, the zerefşân application. At the available viewer resolution, individual gold particles are not resolved; the narrow conk format further reduces the effective image area. The 'probable' verdict is therefore based primarily on the catalogue description rather than independent visual confirmation. The thumbnail strip shows varied page colors across the 124 digitized pages, suggesting the paper stock may not be uniform throughout.",
     "technique_terms": {
       "ottoman": "zerefşân kâğıt / serpme; mülevven kâğıt",
@@ -89,7 +92,9 @@
           "element_type_ottoman": "zerefşân kâğıt",
           "element_type_persian": "zarafshān",
           "motifs": [],
-          "colors": ["gold particles on aged cream/green-tinted paper"],
+          "colors": [
+            "gold particles on aged cream/green-tinted paper"
+          ],
           "gold_technique": "serpme / zerefşân",
           "position": "full page surface"
         },
@@ -98,7 +103,9 @@
           "element_type_ottoman": "mülevven / boyalı kâğıt",
           "element_type_persian": null,
           "motifs": [],
-          "colors": ["pale green / sage tint"],
+          "colors": [
+            "pale green / sage tint"
+          ],
           "gold_technique": null,
           "position": "visible on the page surface; the paper appears to have a distinct greenish tint"
         }
@@ -191,12 +198,6 @@
       "relevance": "Overview of Ottoman manuscript art and production contexts; discusses the range of manuscript types produced within the Ottoman tradition, from luxury court commissions to practical compilations.",
       "relevance_score": 0.45,
       "access_notes": "Monograph. In Turkish."
-    },
-    {
-      "citation": "Sturkenboom, Ilse. 'Chinese Decorated Paper in Persianate Manuscripts: A Preliminary Survey.' Forthcoming, GlobalDecoPaper ERC Project (LMU Munich).",
-      "relevance": "Addresses the use of decorated papers — including colored and gold-sprinkled stocks — in Persianate and Ottoman manuscripts; methodologically relevant for identifying paper types from digitized images at low resolution.",
-      "relevance_score": 0.6,
-      "access_notes": "Forthcoming publication. See GlobalDecoPaper ERC Project, LMU Munich for project updates."
     }
   ],
   "suggested_collections": [
@@ -222,7 +223,9 @@
     "analyzer": "claude-code-manuscript-pipeline",
     "image_source": "YEK portal digital viewer screenshots (IIIF viewer; direct IIIF download unavailable due to HTTP/2 ping / CORS restrictions)",
     "image_quality_notes": "Single screenshot of p003 examined at approximately 1536 × 864 px viewer resolution. The conk format's narrow, tall proportions further reduce the effective image area per folio. At this resolution, individual zerefşân particles are not resolvable; the subtle warm surface quality and the catalogue field 'zerefşan kağıt' are the basis for the 'probable' classification. The greenish paper tint (possibly mülevven ground) is an additional feature not mentioned in the catalogue and warrants in-person examination. 124 pages are digitized and available for further targeted examination.",
-    "folios_examined": ["p003"],
+    "folios_examined": [
+      "p003"
+    ],
     "folios_not_examined": "123 of 124 digitized pages not examined; only p003 was captured in the visual confirmation screenshot batch."
   }
 }

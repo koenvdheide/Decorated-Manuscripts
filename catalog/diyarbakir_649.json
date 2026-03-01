@@ -23,7 +23,9 @@
     "notes": "Incomplete copy: contains only the last juz' (thirtieth section) of the Qur'an commentary. Arabic text in taʿlīq script. Cataloguer: Nesibe Büşra Tokuş. The author's death date (AH 950 / CE 1543) provides a firm terminus post quem for the manuscript. The binding has separate ebru paper covers (ebrulu mukavva cilt) — a binding feature distinct from the colored text-block paper, not counted as paper decoration of the manuscript proper."
   },
   "paper_decoration": {
-    "types": ["colored"],
+    "types": [
+      "colored"
+    ],
     "summary": "The manuscript is written on scattered colored (mülevven / renkli) leaves — the YEK kagit_ozellikleri field reads 'rutubet lekeli bayraklı koç filigranli açık krem kaplı yapraklar renkli', indicating that among the predominantly cream-coloured leaves, certain folios are distinctly colored. Visual examination of p005 (IIIF screenshot) confirms a clearly yellow-dyed leaf on the left side of the page spread, with a lighter cream/yellow leaf on the right, providing direct visual evidence for the 'yapraklar renkli' (colored leaves) description. The specific color confirmed is yellow (sarı), with the possibility of additional colors on unexamined deeper folios. The technique is consistent with surface dyeing or immersion dyeing of individual sheets before binding — a well-documented practice in Ottoman manuscript production using organic dyes (safflower, saffron, or turmeric for yellow). The European watermark (bayraklı koç filigranı — ram with flag) identifies the paper stock as European import paper, subsequently dyed in an Islamic workshop context. Damp staining (rutubet lekesi) is noted by the cataloguer throughout. The binding additionally carries ebru (marbled) paper covers (ebrulu mukavva cilt) but this is a binding feature and is not counted here as paper decoration of the manuscript leaves.",
     "technique_terms": {
       "ottoman": "yapraklar renkli; mülevven; boyalı; renkli yaprak",
@@ -61,14 +63,22 @@
     },
     "ruling": {
       "description": "Söz başları kırmızıdır (text incipits in red). No cedvel or elaborate ruling system is noted in the catalogue; consistent with a working scholarly manuscript rather than a luxury copy.",
-      "ink_colors": ["black", "red (for incipits)"],
+      "ink_colors": [
+        "black",
+        "red (for incipits)"
+      ],
       "lines_per_page": null
     },
     "binding": {
       "description": "Sağ kapak gövdeden ayrılmış, sırtı çok yıpranmış, kahverengi meşin üstü lekeli aşınmış, ebru kâğıt kaplı mukavva cilt. Brown leather (kahverengi meşin) with marbled paper covers on boards (ebrulu mukavva). Right cover detached from spine; spine heavily worn; leather surface stained and abraded. The marbled paper on the binding covers is distinct from and should not be confused with the colored paper leaves of the manuscript text block.",
       "binding_type": "Marbled paper over boards (mukavva) with leather spine",
-      "materials": ["kahverengi meşin (brown leather)", "ebru kâğıt (marbled paper covers)"],
-      "decoration": ["ebrulu mukavva kaplı (marbled paper boards)"]
+      "materials": [
+        "kahverengi meşin (brown leather)",
+        "ebru kâğıt (marbled paper covers)"
+      ],
+      "decoration": [
+        "ebrulu mukavva kaplı (marbled paper boards)"
+      ]
     },
     "format": "ḥāshiya (gloss on Qur'an commentary)",
     "condition_summary": "Poor to fair. Right cover detached; spine heavily worn; leather stained and abraded; damp staining (rutubet lekesi) throughout text block. The volume survives as an incomplete copy (last juz' only) and shows signs of heavy use.",
@@ -89,7 +99,9 @@
       "folio": "p005 — text leaves, mid-volume (IIIF)",
       "source_image": "corpus/visual_confirmation_batch3/diyarbakir_649_p005_iiif.png",
       "decoration_present": true,
-      "decoration_types": ["colored"],
+      "decoration_types": [
+        "colored"
+      ],
       "elements": [
         {
           "motif": "Yellow-dyed leaf (sarı boyalı yaprak)",
@@ -152,7 +164,7 @@
     {
       "citation": "Blair, Sheila S. 'Color and Gold: The Decorated Papers Used in Manuscripts in Later Islamic Times.' Muqarnas 17 (2000): 24–36.",
       "relevance": "The primary scholarly reference on colored papers (mülevven / mulauwwan) in later Islamic manuscripts; discusses the range of dyed papers — including yellow, blue, green, and pink — used across Ottoman, Safavid, and Mughal manuscript production. Directly relevant to the renkli yaprak of this Diyarbakır manuscript.",
-      "relevance_score": 0.90,
+      "relevance_score": 0.9,
       "access_notes": "Peer-reviewed. JSTOR access. Open access likely via institutional repositories."
     },
     {
@@ -164,7 +176,7 @@
     {
       "citation": "Loveday, Helen. Islamic Paper: A Study of the Ancient Craft. London: Don Baker Memorial Fund, 2001.",
       "relevance": "Specialized study of Islamic papermaking and paper varieties, including the identification of European import papers and the dyeing of paper for manuscript use; relevant to identifying the production context of the European watermarked colored paper in this Diyarbakır manuscript.",
-      "relevance_score": 0.80,
+      "relevance_score": 0.8,
       "access_notes": "Available at specialist libraries in Islamic manuscript studies."
     },
     {
@@ -178,12 +190,6 @@
       "relevance": "Standard codicological reference for Arabic-script manuscripts; covers paper identification, watermark analysis, ruling systems, and binding description — all applicable to the physical description of this Diyarbakır manuscript.",
       "relevance_score": 0.75,
       "access_notes": "Available at major research libraries and partially online."
-    },
-    {
-      "citation": "Sturkenboom, Ilse. 'Identifying Chinese Decorated Paper in Persianate Manuscripts: Methodological Challenges.' GlobalDecoPaper ERC Project, LMU Munich (forthcoming).",
-      "relevance": "Forthcoming research from the GlobalDecoPaper project on the identification and classification of decorated and dyed papers in Islamic manuscripts; methodological framework relevant to the challenge of attributing colored paper techniques across Ottoman, Safavid, and import paper contexts, including the identification of European paper stocks subsequently dyed for Islamic manuscript use.",
-      "relevance_score": 0.65,
-      "access_notes": "Forthcoming. GlobalDecoPaper ERC Project, LMU Munich. Monitor project outputs at globaldecoratedpaper.eu."
     }
   ],
   "suggested_collections": [

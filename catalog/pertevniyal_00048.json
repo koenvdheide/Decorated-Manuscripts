@@ -52,7 +52,7 @@
     "technique_terms": {
       "ottoman": "mülevven kâğıt (altı renk: yeşil, pembe/gül, mavi, lacivert, zeytin yeşili, turuncu/safran); altın cetvel; vassale yöntemiyle monte edilmiş hat paneli; daire işaret (bölüm ayraç madalyonu); zerefşân (muhtemelen, pp004/025/044)",
       "persian": "mulavvan (ملوّن) — colored paper; jadval-e tala (جدول طلا) — gold ruling; ṣaḥīfa-ye mulavvan (صحیفه ملوّن) — colored leaf; zarafshān (زر افشان) — gold-sprinkled (probable)",
-      "arabic": "waraq mulauwwan (ورق ملوّن) — colored paper (six colors: akhḍar / wardi / azraq samāwī / azraq ghamiq / zaytūnī / burhānī); jadwal mudhahhhab (جدول مذهّب) — gold-ruled frame; dhahab marshūsh (ذهب مرشوش) — gold-sprinkled (probable)"
+      "arabic": "waraq mulauwwan (ورق ملوّن) — colored paper (six colors: akhḍar / wardi / azraq samāwī / azraq ghamiq / zaytūnī / burhānī); jadwal mudhahhab (جدول مذهّب) — gold-ruled frame; dhahab marshūsh (ذهب مرشوش) — gold-sprinkled (probable)"
     },
     "catalogue_description": {
       "paper_field": null,
@@ -69,7 +69,7 @@
     "primary_tradition": "ottoman",
     "workshop_centre": "Istanbul",
     "date_range_ce": "1793–1794 (AH 1208, dated)",
-    "confidence": 0.90,
+    "confidence": 0.9,
     "key_indicators": [
       "Explicit date AH 1208/1793–94 in YEK catalogue, confirmed by müstensih attribution to İbrāhīm Ṭāhir — the most precisely dated album in the Pertevniyal murakkaʿ sub-group",
       "Six-color mulevven paper program with gold cedvel framing and vassale mounting throughout 44 pages is characteristic of late Ottoman Istanbul luxury calligraphic album production of the late 18th century",
@@ -151,7 +151,7 @@
       {
         "decoration_type": "gold_sprinkled (zerefşân — probable)",
         "verdict": "probable",
-        "confidence": 0.60,
+        "confidence": 0.6,
         "notes": "Fine speckles visible on pp004 (pink), 025 (orange), 044 (orange, on calligraphy panel surface). Pattern consistent with zerefşân (gold sprinkling) but cannot exclude foxing or paper fiber inclusions at 2560×1920 px resolution. Physical examination required."
       },
       {
@@ -175,7 +175,9 @@
       "folio": "P001 (IIIF p001)",
       "source_image": "corpus/iiif/pertevniyal_00048_p001.jpg",
       "decoration_present": false,
-      "decoration_types": ["other"],
+      "decoration_types": [
+        "other"
+      ],
       "elements": [
         {
           "motif": "Red/crimson leather binding cover",
@@ -191,7 +193,10 @@
       "folio": "P002 (IIIF p002)",
       "source_image": "corpus/iiif/pertevniyal_00048_p002.jpg",
       "decoration_present": true,
-      "decoration_types": ["colored", "framing_system"],
+      "decoration_types": [
+        "colored",
+        "framing_system"
+      ],
       "elements": [
         {
           "motif": "Green mulevven margin paper (yeşil mülevven)",
@@ -225,7 +230,10 @@
       "folio": "P003 (IIIF p003)",
       "source_image": "corpus/iiif/pertevniyal_00048_p003.jpg",
       "decoration_present": true,
-      "decoration_types": ["colored", "framing_system"],
+      "decoration_types": [
+        "colored",
+        "framing_system"
+      ],
       "elements": [
         {
           "motif": "Green mulevven margin paper (yeşil mülevven)",
@@ -253,7 +261,10 @@
       "folio": "P004 (IIIF p004)",
       "source_image": "corpus/iiif/pertevniyal_00048_p004.jpg",
       "decoration_present": true,
-      "decoration_types": ["colored", "framing_system"],
+      "decoration_types": [
+        "colored",
+        "framing_system"
+      ],
       "elements": [
         {
           "motif": "Pink/rose mulevven margin paper (pembe/gül mülevven)",
@@ -277,7 +288,7 @@
           "motif": "Probable zerefşân (gold sprinkling — probable, 0.60)",
           "description": "Fine speckles visible across the pink/rose margin ground. Consistent with zerefşân (hand-sprinkled gold particles, fırça zerefşanı technique), but could also represent paper fiber inclusions or foxing at this resolution. Physical examination required to confirm.",
           "location": "Full margin",
-          "confidence": 0.60
+          "confidence": 0.6
         }
       ],
       "confidence": 0.93,
@@ -287,7 +298,10 @@
       "folio": "P006 (IIIF p006)",
       "source_image": "corpus/iiif/pertevniyal_00048_p006.jpg",
       "decoration_present": true,
-      "decoration_types": ["colored", "framing_system"],
+      "decoration_types": [
+        "colored",
+        "framing_system"
+      ],
       "elements": [
         {
           "motif": "Sky blue mulevven margin paper (mavi mülevven)",
@@ -315,7 +329,10 @@
       "folio": "P010 (IIIF p010)",
       "source_image": "corpus/iiif/pertevniyal_00048_p010.jpg",
       "decoration_present": true,
-      "decoration_types": ["colored", "framing_system"],
+      "decoration_types": [
+        "colored",
+        "framing_system"
+      ],
       "elements": [
         {
           "motif": "Olive-green mulevven margin paper (zeytin yeşili mülevven)",
@@ -343,7 +360,10 @@
       "folio": "P015 (IIIF p015)",
       "source_image": "corpus/iiif/pertevniyal_00048_p015.jpg",
       "decoration_present": true,
-      "decoration_types": ["colored", "framing_system"],
+      "decoration_types": [
+        "colored",
+        "framing_system"
+      ],
       "elements": [
         {
           "motif": "Olive-green/sage mulevven margin paper (adaçayı/zeytin yeşili mülevven)",
@@ -377,7 +397,10 @@
       "folio": "P020 (IIIF p020)",
       "source_image": "corpus/iiif/pertevniyal_00048_p020.jpg",
       "decoration_present": true,
-      "decoration_types": ["colored", "framing_system"],
+      "decoration_types": [
+        "colored",
+        "framing_system"
+      ],
       "elements": [
         {
           "motif": "Sky blue mulevven margin paper (mavi mülevven)",
@@ -411,7 +434,10 @@
       "folio": "P025 (IIIF p025)",
       "source_image": "corpus/iiif/pertevniyal_00048_p025.jpg",
       "decoration_present": true,
-      "decoration_types": ["colored", "framing_system"],
+      "decoration_types": [
+        "colored",
+        "framing_system"
+      ],
       "elements": [
         {
           "motif": "Orange/saffron mulevven margin paper (turuncu/safran mülevven)",
@@ -435,7 +461,7 @@
           "motif": "Possible zerefşân (0.60 — borderline)",
           "description": "Dark speckles on the orange/saffron ground. May represent oxidized gold sprinkling (zerefşân) or age-related foxing. Indeterminate at current resolution.",
           "location": "Full margin",
-          "confidence": 0.60
+          "confidence": 0.6
         }
       ],
       "confidence": 0.93,
@@ -445,7 +471,10 @@
       "folio": "P030 (IIIF p030)",
       "source_image": "corpus/iiif/pertevniyal_00048_p030.jpg",
       "decoration_present": true,
-      "decoration_types": ["colored", "framing_system"],
+      "decoration_types": [
+        "colored",
+        "framing_system"
+      ],
       "elements": [
         {
           "motif": "Olive-green mulevven margin paper (zeytin yeşili mülevven)",
@@ -473,7 +502,10 @@
       "folio": "P035 (IIIF p035)",
       "source_image": "corpus/iiif/pertevniyal_00048_p035.jpg",
       "decoration_present": true,
-      "decoration_types": ["colored", "framing_system"],
+      "decoration_types": [
+        "colored",
+        "framing_system"
+      ],
       "elements": [
         {
           "motif": "Lacivert/navy blue mulevven margin paper (lacivert mülevven)",
@@ -501,7 +533,10 @@
       "folio": "P040 (IIIF p040)",
       "source_image": "corpus/iiif/pertevniyal_00048_p040.jpg",
       "decoration_present": true,
-      "decoration_types": ["colored", "framing_system"],
+      "decoration_types": [
+        "colored",
+        "framing_system"
+      ],
       "elements": [
         {
           "motif": "Orange/saffron mulevven margin paper (turuncu/safran mülevven)",
@@ -529,7 +564,10 @@
       "folio": "P044 (IIIF p044)",
       "source_image": "corpus/iiif/pertevniyal_00048_p044.jpg",
       "decoration_present": true,
-      "decoration_types": ["colored", "framing_system"],
+      "decoration_types": [
+        "colored",
+        "framing_system"
+      ],
       "elements": [
         {
           "motif": "Orange mulevven margin paper — slightly faded (turuncu mülevven)",
@@ -553,7 +591,7 @@
           "motif": "Visible speckles on calligraphy panel surface (probable zerefşân, 0.60)",
           "description": "On this page, speckles are visible specifically on the cream calligraphy panel writing surface rather than (or in addition to) the orange margin. If zerefşân, the gold was applied to the calligraphy panel itself rather than the margin paper — an unusual variant. Could also be foxing or paper fiber inclusions. Catalog card/stamp visible bottom right.",
           "location": "Calligraphy panel and margin",
-          "confidence": 0.60
+          "confidence": 0.6
         }
       ],
       "confidence": 0.92,
@@ -586,7 +624,7 @@
       {
         "concept": "Gold ruling / frame lines",
         "ottoman": "altın cetvel / cetvelli (جدول)",
-        "arabic": "jadwal mudhahhhab (جدول مذهّب)",
+        "arabic": "jadwal mudhahhab (جدول مذهّب)",
         "persian": "jadval-e tala (جدول طلا)",
         "english": "gold-ruled framing system around text block"
       },
@@ -673,7 +711,7 @@
       "access_notes": "In Turkish. Available in major Turkish and international Islamicate art libraries."
     },
     {
-      "citation": "Déroche, François. Islamic Codicology: An Introduction to the Study of Manuscripts in Arabic Script. London: Al-Furqān Islamic Heritage Foundation, 2006.",
+      "citation": "Déroche, François. Islamic Codicology: An Introduction to the Study of Manuscripts in Arabic Script. Translated by Deke Dusinberre and David Radzinowicz. London: Al-Furqān Islamic Heritage Foundation, 2005.",
       "relevance": "Standard codicological reference for Arabic-script manuscripts. Provides terminology and methodology for physical description of paper, ruling, and binding aspects documented in this record.",
       "relevance_score": 0.68,
       "access_notes": "Available in major research libraries. English translation of the original French."
@@ -681,7 +719,7 @@
     {
       "citation": "Aksel, Malik. Türklerde Dini Resimler: Yazı-Resim. Istanbul: Elif Yayınları, 1967.",
       "relevance": "Early study of Ottoman calligraphic art and the hat meşki tradition. Provides context for the calligraphic exercise album (muraqqaʿāt) format employed in Pertevniyal 00048. In Turkish.",
-      "relevance_score": 0.60,
+      "relevance_score": 0.6,
       "access_notes": "In Turkish. Available in major Turkish libraries."
     },
     {
@@ -705,14 +743,8 @@
     {
       "citation": "Roxburgh, David J. The Persian Album, 1400–1600: From Dispersal to Collection. New Haven: Yale University Press, 2005.",
       "relevance": "Comprehensive study of the Islamic album (murakkaʿ) tradition from Timurid through Safavid periods. Essential comparative framework for understanding the Ottoman hat meşki muraqqaʿāt format of Pertevniyal 00048 in relation to the broader Islamic album tradition.",
-      "relevance_score": 0.70,
+      "relevance_score": 0.7,
       "access_notes": "Available in major research libraries."
-    },
-    {
-      "citation": "Sturkenboom, Ilse, and Stefanie Seeberg, eds. GlobalDecoPaper: Decorated Papers in Manuscripts of the Middle East, South and Southeast Asia. ERC Project, LMU Munich (in progress, 2022–).",
-      "relevance": "Active ERC research project on decorated paper in Islamic manuscripts, directly relevant to the mulevven colored paper program and probable zerefşân of Pertevniyal 00048. See project portal at https://www.globaldecorpaper.de for preliminary results and publications.",
-      "relevance_score": 0.88,
-      "access_notes": "Open-access project outputs available via LMU Munich project portal. Primary contact for emerging scholarship on Ottoman decorated paper."
     }
   ],
   "suggested_collections": [
@@ -738,7 +770,19 @@
     "image_source": "IIIF: https://iiif.manuscriptlink.com/iiif/0000000361867 (YEK IIIF server, accessed 2026-02-28 via Playwright download workaround)",
     "image_quality_notes": "IIIF images served at 2560×1920 px (server-capped); native resolution per IIIF manifest is 4330×2897 px. Resolution adequate for color identification, cedvel documentation, and vassale detection. Insufficient for zerefşân subtype determination, fine surface detail, or colophon/ketebe transcription. YEK digital watermark overlay present on all interior pages.",
     "folios_examined": [
-      "p001", "p002", "p003", "p004", "p006", "p010", "p015", "p020", "p025", "p030", "p035", "p040", "p044"
+      "p001",
+      "p002",
+      "p003",
+      "p004",
+      "p006",
+      "p010",
+      "p015",
+      "p020",
+      "p025",
+      "p030",
+      "p035",
+      "p040",
+      "p044"
     ],
     "folios_not_examined": "31 pages not examined in current IIIF sample: pp005, 007–009, 011–014, 016–019, 021–024, 026–029, 031–034, 036–039, 041–043. Colors of unexamined pages cannot be confirmed; additional mulevven colors may be present. Full coverage would require downloading all 44 IIIF pages.",
     "cross_references": [

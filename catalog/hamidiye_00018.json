@@ -68,7 +68,7 @@
     "primary_tradition": "ottoman",
     "workshop_centre": "Istanbul — probable high-quality Ottoman production",
     "date_range_ce": "17th–18th century CE (undated; range based on decoration program typology)",
-    "confidence": 0.70,
+    "confidence": 0.7,
     "key_indicators": [
       "Hatip ebru front cover is a distinctly Ottoman marbling tradition; the technique originated and primarily flourished in Ottoman Istanbul",
       "Polychrome battal/gel-git ebru endpapers and margin papers are characteristic of high-quality Ottoman album production from the 17th century onward",
@@ -133,7 +133,9 @@
       "folio": "Front cover — hatip ebru (IIIF p001)",
       "source_image": "corpus/iiif/hamidiye_00018_p001.jpeg",
       "decoration_present": true,
-      "decoration_types": ["marbled"],
+      "decoration_types": [
+        "marbled"
+      ],
       "elements": [
         {
           "motif": "Hatip ebru front cover — large organic frond/leaf forms on warm pink/salmon ground",
@@ -149,7 +151,9 @@
       "folio": "Inside cover (doublure) + front endpaper — waqf seal + battal/gel-git ebru (IIIF p002)",
       "source_image": "corpus/iiif/hamidiye_00018_p002.jpeg",
       "decoration_present": true,
-      "decoration_types": ["marbled"],
+      "decoration_types": [
+        "marbled"
+      ],
       "elements": [
         {
           "motif": "Inside front cover (doublure) — waqf seal and ownership inscription on plain cream paper",
@@ -171,7 +175,10 @@
       "folio": "First calligraphy opening — sülüs + nesih on battal/gel-git ebru margins (IIIF p003)",
       "source_image": "corpus/iiif/hamidiye_00018_p003.jpeg",
       "decoration_present": true,
-      "decoration_types": ["marbled", "framing_system"],
+      "decoration_types": [
+        "marbled",
+        "framing_system"
+      ],
       "elements": [
         {
           "motif": "Polychrome battal/gel-git ebru as outer margin paper — both panels",
@@ -199,7 +206,10 @@
       "folio": "Calligraphy page — sülüs on elaborate blue cetvelli (IIIF p005)",
       "source_image": "corpus/iiif/hamidiye_00018_p005.jpeg",
       "decoration_present": true,
-      "decoration_types": ["marbled", "framing_system"],
+      "decoration_types": [
+        "marbled",
+        "framing_system"
+      ],
       "elements": [
         {
           "motif": "Large sülüs calligraphy panel — hadith text",
@@ -227,7 +237,10 @@
       "folio": "Interior calligraphy page — large sülüs header, battal/gel-git ebru margins (IIIF p010)",
       "source_image": "corpus/iiif/hamidiye_00018_p010.jpeg",
       "decoration_present": true,
-      "decoration_types": ["marbled", "framing_system"],
+      "decoration_types": [
+        "marbled",
+        "framing_system"
+      ],
       "elements": [
         {
           "motif": "Large sülüs header panel",
@@ -255,7 +268,11 @@
       "folio": "Calligraphy page — large sülüs on zerefşān-over-mulevven margins (IIIF p015)",
       "source_image": "corpus/iiif/hamidiye_00018_p015.jpeg",
       "decoration_present": true,
-      "decoration_types": ["colored", "gold_sprinkled", "framing_system"],
+      "decoration_types": [
+        "colored",
+        "gold_sprinkled",
+        "framing_system"
+      ],
       "elements": [
         {
           "motif": "Orange/amber mulevven with zerefşān — outer margin",
@@ -283,7 +300,9 @@
       "folio": "Back endpaper — polychrome battal/gel-git ebru (IIIF p020)",
       "source_image": "corpus/iiif/hamidiye_00018_p020.jpeg",
       "decoration_present": true,
-      "decoration_types": ["marbled"],
+      "decoration_types": [
+        "marbled"
+      ],
       "elements": [
         {
           "motif": "Back endpaper — polychrome large-scale battal/gel-git ebru",
@@ -366,7 +385,7 @@
     {
       "citation": "Tanındı, Zeren. 'Bibliophile Aghas (Eunuchs) at Topkapı Saray.' Muqarnas 21 (2004): 333–43.",
       "relevance": "Ottoman album culture and the circulation of decorated calligraphy albums in the imperial court; context for the high-quality small-format muraqqaʿ type exemplified by Hamidiye 00018.",
-      "relevance_score": 0.70,
+      "relevance_score": 0.7,
       "access_notes": "Available through JSTOR."
     },
     {
@@ -374,12 +393,6 @@
       "relevance": "Background history of paper in the Islamic world; essential context for the decorated paper tradition within which hatip ebru, battal ebru, and zerefşān practices should be understood.",
       "relevance_score": 0.72,
       "access_notes": "Standard monograph."
-    },
-    {
-      "citation": "Sturkenboom, Ilse. 'Marbled Paper in the Islamic World: Recent Research and New Directions.' GlobalDecoPaper Working Papers, LMU Munich (forthcoming).",
-      "relevance": "Emerging scholarship on decorated paper classification including hatip and battal ebru types in Persianate and Ottoman manuscripts; most directly relevant recent research on the ebru program of Hamidiye 00018.",
-      "relevance_score": 0.88,
-      "access_notes": "Forthcoming; check GlobalDecoPaper ERC Project (LMU Munich) for preprints."
     },
     {
       "citation": "Derman, M. Uğur. Türk Hat Sanatının Şaheserleri / Masterpieces of Turkish Calligraphy. Istanbul: Sabancı Üniversitesi Sakıp Sabancı Müzesi, 1998.",

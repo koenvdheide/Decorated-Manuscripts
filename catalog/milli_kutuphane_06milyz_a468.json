@@ -20,7 +20,9 @@
     "folio_count": null
   },
   "paper_decoration": {
-    "types": ["gold_sprinkled"],
+    "types": [
+      "gold_sprinkled"
+    ],
     "summary": "The manuscript is written on burnished gold-sprinkled paper (şâykâllı zerefşân kâğıt). In this technique, fine gold particles are applied to the paper surface and then burnished with a polishing stone (mühre), compressing and integrating the particles into the surface. The result is a subtly lustrous, uniform sheen rather than the raised glitter characteristic of standard serpme. At viewer resolution (~1536 px), the burnished finish is visually indistinguishable from plain cream paper; the identification rests primarily on the YEK catalogue description ('saykalli zerefsan kagit'). The visual confirmation verdict is therefore 'probable' and is explicitly resolution-limited. Higher-resolution imaging (native IIIF tile access or physical examination) is required for definitive confirmation.",
     "technique_terms": {
       "ottoman": "şâykâllı zerefşân kâğıt / saykallı zerefşan kağıt",
@@ -37,7 +39,7 @@
     "primary_tradition": "ottoman",
     "workshop_centre": null,
     "date_range_ce": "17th–18th century",
-    "confidence": 0.30,
+    "confidence": 0.3,
     "key_indicators": [
       "Burnished zerefşân paper, a technique documented in Ottoman manuscript production from at least the 16th century onward",
       "Naskh script, the standard Ottoman copying hand for prose texts",
@@ -52,7 +54,7 @@
   "codicology": null,
   "visual_confirmation": {
     "verdict": "probable",
-    "confidence": 0.40,
+    "confidence": 0.4,
     "screenshots_examined": 1,
     "limitations": [
       "Only one folio examined (p003); full extent of decorated paper throughout the manuscript is unverified",
@@ -73,7 +75,9 @@
           "element_type_ottoman": "şâykâllı zerefşân kâğıt",
           "element_type_persian": "zarafshān-e ṣayqalī",
           "motifs": [],
-          "colors": ["burnished gold particles on cream paper"],
+          "colors": [
+            "burnished gold particles on cream paper"
+          ],
           "gold_technique": "şâykâllı zerefşân (burnished/polished serpme)",
           "position": "full page surface"
         },
@@ -82,7 +86,9 @@
           "element_type_ottoman": "metin sahası",
           "element_type_persian": null,
           "motifs": [],
-          "colors": ["black ink on cream paper"],
+          "colors": [
+            "black ink on cream paper"
+          ],
           "gold_technique": null,
           "position": "central text area, written in naskh script"
         }
@@ -100,7 +106,7 @@
         "tradition": "Ottoman",
         "period": "17th–18th century [?]",
         "workshop": "Unknown; a Nakşibendi-related text, possibly produced in or for a tekke/lodge context",
-        "confidence": 0.30,
+        "confidence": 0.3,
         "justification": "The burnished zerefşân technique on a Sufi text suggests Ottoman production, as zerefşân paper was used across a range of Ottoman manuscript types. Nakşibendi texts circulated widely from the 16th century onward. Without visible illumination, colophon data, or distinctive codicological features, style-based dating is highly uncertain. The use of saykallı (burnished) zerefşân may suggest a somewhat refined production context."
       },
       "condition_notes": "Paper appears in fair condition with moderate aging/yellowing. No obvious damage, tears, or repairs visible. The burnished zerefşân, if present, has likely mellowed further with age.",
@@ -163,7 +169,7 @@
     {
       "citation": "Bloom, Jonathan M. Paper Before Print: The History and Impact of Paper in the Islamic World. New Haven: Yale University Press, 2001.",
       "relevance": "Comprehensive history of paper in the Islamic world, covering paper production, treatment, and decoration techniques including gilding and surface finishing. Contextualises the burnished paper tradition.",
-      "relevance_score": 0.80,
+      "relevance_score": 0.8,
       "access_notes": null
     },
     {
@@ -189,12 +195,6 @@
       "relevance": "Zeren Tanındı's scholarship on Ottoman illumination and paper decoration is central to understanding zerefşân paper use in the Ottoman court context. Specific reference to be verified against available editions. [Citation in Turkish]",
       "relevance_score": 0.85,
       "access_notes": "In Turkish. Verify exact publication details against Yapı Kredi Yayınları catalogue or WorldCat before finalising."
-    },
-    {
-      "citation": "Sturkenboom, Ilse. Chinese Decorated Paper in Persianate Manuscripts. ERC GlobalDecoPaper Project, LMU Munich (forthcoming).",
-      "relevance": "Forthcoming monograph on decorated paper in Persianate manuscripts, including cross-tradition transfer of gold-working and burnishing techniques. Directly relevant to the şâykâllı zerefşân technique and its possible Chinese-paper origins.",
-      "relevance_score": 0.80,
-      "access_notes": "Forthcoming as of 2025–26. Monitor LMU Munich GlobalDecoPaper ERC project outputs: https://www.en.islamicarthistory.uni-muenchen.de/research/globaldecoper/index.html"
     },
     {
       "citation": "Loveday, Helen. Islamic Paper: A Study of the Ancient Craft. London: Archetype Publications, 2001.",
@@ -237,7 +237,9 @@
     "analyzer": "claude-code-manuscript-pipeline",
     "image_source": "YEK portal viewer screenshot (corpus/visual_confirmation_batch1/milli_kutuphane_06milyz_a468_p003_iiif.png)",
     "image_quality_notes": "Viewer screenshot at approximately 1536×864 px. This resolution is insufficient to resolve burnished gold particles compressed into the paper surface (şâykâllı zerefşân subtype). The burnished technique produces no raised sparkle, making it the most resolution-sensitive decoration type in this batch. The identification is accordingly rated 'probable' and is based primarily on the YEK catalogue description rather than independent visual evidence. Direct IIIF tile download was unavailable due to HTTP/2 / CORS restrictions.",
-    "folios_examined": ["p003"],
+    "folios_examined": [
+      "p003"
+    ],
     "folios_not_examined": "All folios other than p003 were not examined. The extent of decorated paper throughout the manuscript — whether all folios, gatherings, or select openings carry the şâykâllı zerefşân — is unknown."
   }
 }

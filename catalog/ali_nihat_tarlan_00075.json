@@ -119,7 +119,11 @@
     }
   ],
   "paper_decoration": {
-    "types": ["gold_worked", "marbled", "framing_system"],
+    "types": [
+      "gold_worked",
+      "marbled",
+      "framing_system"
+    ],
     "summary": "The volume uses 'çeşitli zerkâri kâğıt' (various/mixed gold-worked paper) throughout — implying that different types of zerkâri papers were assembled from disparate sources to produce the volume, a common practice in Ottoman mecmûʿa production of the 18th century. Zerkâri (zarkārī) paper carries gold motifs worked directly into the paper surface, typically floral, geometric, or chevron patterns applied before binding. The variety of papers in a single volume suggests the scribe or compiler drew on a stock of assorted luxury papers rather than a single commissioned batch. Folio pages 4a–4b (IIIF p007) carry ebrî (marbled) paper in blue marbling, clearly confirmed at visual examination — this introduces decorative variety at what may be the opening of a risale or a preliminary leaf. A further marbled leaf is recorded at page 16a. The zerkâri decoration itself was not visually distinguished from plain aged paper at available digital resolution, likely due to oxidation of the gold, which commonly darkens to a brownish-grey tone on Ottoman zerkâri papers. IIIF p004 shows a heavily darkened preliminary page consistent with oxidized gold-worked paper. The catalogue claim of 'çeşitli zerkâri kâğıt' is assessed as probable pending in-person examination under raking light.",
     "technique_terms": {
       "ottoman": "çeşitli zerkâri kâğıt; ebrî / ebrulu kâğıt",
@@ -136,7 +140,7 @@
     "primary_tradition": "ottoman",
     "workshop_centre": "Istanbul (probable)",
     "date_range_ce": "1722–1723",
-    "confidence": 0.70,
+    "confidence": 0.7,
     "key_indicators": [
       "Dated AH 1135 / CE 1722–23: falls squarely in the Tulip Period (Lâle Devri, 1718–1730) under Sultan Ahmed III, a period of intensified luxury book production and conspicuous decorative arts in Istanbul",
       "Mixed zerkâri paper assembled from varied sources: a characteristic practice of 18th-century Istanbul mecmûʿa production, where booksellers and compilers assembled volumes from available luxury stocks",
@@ -153,7 +157,7 @@
   "codicology": null,
   "visual_confirmation": {
     "verdict": "probable",
-    "confidence": 0.70,
+    "confidence": 0.7,
     "screenshots_examined": 4,
     "limitations": [
       "Gold-worked (zerkâri) paper not visually distinguishable from age-darkened plain paper at available digital resolution",
@@ -167,7 +171,9 @@
       "folio": "Preliminary leaf — possibly f. 1b or pastedown area (IIIF p004)",
       "source_image": "corpus/visual_confirmation_batch2/ali_nihat_tarlan_00075_p004_iiif.png",
       "decoration_present": null,
-      "decoration_types": ["gold_worked"],
+      "decoration_types": [
+        "gold_worked"
+      ],
       "elements": [
         {
           "motif": "Darkened preliminary page — possible oxidized zerkâri",
@@ -183,7 +189,9 @@
       "folio": "Pages 4a–4b — ebrî leaf (IIIF p007)",
       "source_image": "corpus/visual_confirmation_batch2/ali_nihat_tarlan_00075_p007_iiif.png",
       "decoration_present": true,
-      "decoration_types": ["marbled"],
+      "decoration_types": [
+        "marbled"
+      ],
       "elements": [
         {
           "motif": "Ebrî (marbled paper) — blue marbling",
@@ -199,32 +207,36 @@
       "folio": "Body text pages — mid-volume (IIIF p010)",
       "source_image": "corpus/visual_confirmation_batch2/ali_nihat_tarlan_00075_p010_iiif.png",
       "decoration_present": null,
-      "decoration_types": ["framing_system"],
+      "decoration_types": [
+        "framing_system"
+      ],
       "elements": [
         {
           "motif": "Body text with ruling",
           "description": "Regular text pages examined. Cedvel (frame lines) visible around text block. Paper appears aged; no zerkâri patterns distinguishable at this resolution. Cannot confirm or exclude gold-worked paper ground from this view.",
           "location": "Text block and margins",
-          "confidence": 0.50
+          "confidence": 0.5
         }
       ],
-      "confidence": 0.50,
+      "confidence": 0.5,
       "notes": "No distinctive decorative evidence at available resolution. Consistent with either plain paper or oxidized/faded zerkâri."
     },
     {
       "folio": "Body text pages — later in volume (IIIF p014)",
       "source_image": "corpus/visual_confirmation_batch2/ali_nihat_tarlan_00075_p014_iiif.png",
       "decoration_present": null,
-      "decoration_types": ["framing_system"],
+      "decoration_types": [
+        "framing_system"
+      ],
       "elements": [
         {
           "motif": "Body text with ruling",
           "description": "Regular text pages. Similar appearance to p010 — aged paper with ruling lines around text block. No zerkâri patterns discernible. The second marbled leaf (page 16a) is in the adjacent sequence but was not captured in the examined screenshots.",
           "location": "Text block and margins",
-          "confidence": 0.50
+          "confidence": 0.5
         }
       ],
-      "confidence": 0.50,
+      "confidence": 0.5,
       "notes": "The marbled leaf at page 16a would be approximately two IIIF pages after this spread but was not captured. No distinctive decoration visible at this page."
     }
   ],
@@ -291,7 +303,7 @@
     {
       "citation": "Bloom, Jonathan M. Paper Before Print: The History and Impact of Paper in the Islamic World. New Haven: Yale University Press, 2001.",
       "relevance": "Comprehensive history of Islamic papermaking and paper decoration, covering the spread of decorated paper production across the Islamic world, including the Ottoman context relevant to an AH 1135 / CE 1722–23 mecmûʿa.",
-      "relevance_score": 0.80,
+      "relevance_score": 0.8,
       "access_notes": "Available at major research libraries."
     },
     {
@@ -309,13 +321,13 @@
     {
       "citation": "Roxburgh, David J. The Persian Album 1400–1600: From Dispersal to Collection. New Haven: Yale University Press, 2005.",
       "relevance": "Although focused on Persian and Timurid album-making, provides the intellectual framework for mecmûʿa compilation as a cultural practice; the multi-text mecmûʿa format of Ali Nihat Tarlan 00075, with its assembled luxury papers, is directly comparable to the album-making tradition discussed.",
-      "relevance_score": 0.60,
+      "relevance_score": 0.6,
       "access_notes": "Available at major research libraries."
     },
     {
       "citation": "Déroche, François. Islamic Codicology: An Introduction to the Study of Manuscripts in Arabic Script. Translated by Deke Dusinberre and David Radzinowicz. London: Al-Furqan Islamic Heritage Foundation, 2005.",
       "relevance": "Standard codicological reference covering Ottoman manuscript formats, mecmûʿa structure, and paper decoration conventions. The framework for describing risale composition and physical volume structure used in this record.",
-      "relevance_score": 0.70,
+      "relevance_score": 0.7,
       "access_notes": "Available at major research libraries and partially online."
     },
     {
@@ -329,12 +341,6 @@
       "relevance": "Ali Nihat Tarlan (1898–1978) was a prominent Turkish literary historian and Ottoman literature scholar at Istanbul University; this publication represents his scholarly legacy. Understanding the collector is directly relevant to provenance research for the Ali Nihat Tarlan Koleksiyonu at Süleymaniye.",
       "relevance_score": 0.55,
       "access_notes": "In Turkish. Available at Turkish university libraries."
-    },
-    {
-      "citation": "Sturkenboom, Ilse. 'Identifying Chinese Decorated Paper in Persianate Manuscripts: Methodological Challenges.' GlobalDecoPaper ERC Project, LMU Munich (forthcoming).",
-      "relevance": "Forthcoming research from the GlobalDecoPaper project on the identification and classification of imported decorated papers in Persianate (and by extension Ottoman) manuscripts — directly relevant to the question of whether the çeşitli zerkâri kâğıt in this mecmûʿa includes imported Iranian or Central Asian papers alongside Istanbul-produced examples.",
-      "relevance_score": 0.70,
-      "access_notes": "Forthcoming. GlobalDecoPaper ERC Project, LMU Munich. Monitor project outputs at globaldecoratedpaper.eu."
     },
     {
       "citation": "Wright, Elaine. Islam: Faith, Art, Culture — Manuscripts of the Chester Beatty Library. London: Scala Publishers / Chester Beatty Library, 2009.",
