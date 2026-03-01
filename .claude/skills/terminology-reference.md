@@ -29,6 +29,15 @@ Single source of truth for all technical terminology used in this project. Agent
 | Marginal drawings | teşʿîr | tashʿīr (تشعير) | tashʿīr (تشعیر) | fine-line gold drawings in margins |
 | Shaded gold painting | halkâr / halkârî | — | halkārī (حلکاری) | shaded gold floral margin painting |
 | Central medallion | şemse | — | shamsa (شمسه) / toranj (ترنج) | medallion (binding/page) |
+| Carpet page | tam sayfa tezhibi | ṣafḥa mudhahhabah (صفحة مذهبة) | sar-lawḥ-i tamāmiyya | full-page illumination / carpet page |
+| Verse marker | durak | ʿalāmat al-āya (علامة الآية) | gül-i fāṣila | verse-ending marker |
+| Finispiece | hâtime (خاتمه) | khātima (خاتمة) | khātima | colophon decoration / finispiece |
+| Tughra | tuğra (طغرا) | ṭughrā (طغراء) | tughrā (طغرا) | sultan's monogram |
+| Hilye | hilye-i şerîf (حلیه شریف) | ḥilya (حِلْية) | ḥilya | calligraphic portrait of the Prophet |
+| Interlinear illumination | beyit arası tezhibi / satır arası tezhibi | — | — | decoration between text lines |
+| Cut paper | — | qaṭʿī (قطعی) | qaṭʿī (قطعی) | cut-paper calligraphy / découpage |
+| Penwork | kalem işi (قلم ایشی) | taḥrīr (تحریر) | taḥrīr | pen-drawn decoration (no gold/pigment) |
+| Medallion pendant | tire / tîre (تیره) | — | — | hanging pendant from marginal medallion |
 
 ## Decoration Types
 
@@ -42,6 +51,10 @@ Single source of truth for all technical terminology used in this project. Agent
 - **tığ** — finials / spike-like extensions from headpiece or medallion into margin
 - **koltuk** — corner pieces / triangular margin fill between rectangular text block and arched frame
 - **gül** — rosette (also used for verse markers in Qurans)
+- **hâtime** / khātima — finispiece / colophon decoration; the ending counterpart to serlevha. Text typically tapers to a triangular point. Ottoman scribes often switch to dīwānī script for the colophon.
+- **beyit arası tezhibi** / satır arası tezhibi — interlinear illumination: decorative elements occupying the spaces between written lines. Particularly associated with Safavid luxury production, though not exclusive to it. See also: bulut/abr-i band (cloud bands following script contours)
+- **fasıl başı** / bahir başı / ara başlık — text dividers in non-Qur'anic manuscripts (chapter headings, section separators). Follows the logical structure of the text rather than fixed intervals.
+- **serlevha anatomy** — the multi-register structure of an Ottoman headpiece, from top to bottom: **tığ zone** (delicate stalks with floral terminations), **kubbe zone** (scalloped dome surmounting rectangle), **rectangular headpiece panel** (main ʿunwān band with central cartouche), **koltuk zone** (illuminated side panels flanking text), **text well** (bordered area with text). Standard Ottoman serlevha: 3–4 registers; elaborate examples: 5–7 zones.
 
 ### Border system (pervaz / kenar suyu)
 
@@ -63,13 +76,34 @@ The Ottoman framing system uses layered borders around the text block:
 - **kenar notu** (Ott.) — marginal note
 - These are not decoration per se, but records noting "derkenar vardır" often indicate manuscripts with elaborate ruling/framing systems
 
+### Mushaf gülleri (Qur'anic text markers)
+
+Ottoman terminology groups all Qur'anic marginal markers under **mushaf gülleri** (مصحف گللری, "Qur'an rosettes"). These form a strict hierarchy:
+
+- **durak** (دوراق) / gül-i fâsıla — verse-ending rosettes placed at the end of each verse. Arabic: ʿalāmat al-āya / fāṣila. Ottoman subtypes by form: *helezonî durak* (spiral), *şeşhâne durak* (six-compartment/hexagonal), *pençhâne durak* (five-compartment), *mücevher/geçme durak* (jewel/interlocking), *müzehhep durak* (gilded)
+- **hamse gülü** (خمسه گلى) — marginal medallion at every 5th verse. Originally teardrop (*damla*), later pear-shaped (*armudî*)
+- **aşere gülü** (عشره گلى) — marginal medallion at every 10th verse. Originally marked by ʿayn (ع); later circular illuminated forms
+- **cüz gülü** (جزء گلى) — larger marginal medallion marking each of the 30 juz' divisions (~every 20 pages)
+- **hizb gülü** (حزب گلى) — marginal medallion marking each of the 60 ḥizb divisions (2 per juz', ~every 10 pages)
+- **secde gülü** (سجده گلى) — marginal medallion at the 14 prostration verses; typically contains "secde" in white on gold
+- **sûre başı tezhibi** / ser-sûre (سوره باشى تذهيبى) — illuminated rectangular panel separating surahs, containing surah name, verse count, and revelation place. Associated marginal element: **sûre başı gülü** (medallion protruding from heading panel into margin)
+
+### Calligraphic formats and special page types
+
+- **tuğra** (طغرا) — the sultan's monogram. Five anatomical components: **sere/kürsü** (سره, base with sultan's name), **beyze** (بيضه, two oval loops), **tuğ** (طوغ, three vertical strokes), **zülfe** (ذلفه, S-shaped sinuous lines), **kol/hançer** (قول/خنجر, dagger-like horizontal extension). Illumination palette: gold and lapis lazuli with secondary red, green, white. Peak elaboration under Süleyman (Kara Memi style); perfected by Mustafa Râkım Efendi (1757–1826).
+- **hilye-i şerîf** (حلیه شریف) — calligraphic portrait of the Prophet Muhammad. Six structural elements (named after body parts): **baş makam** (باش مقام, upper Basmala panel), **göbek** (گوبك, central roundel with physical description), **hilâl** (هلال, crescent space), **köşe yazıları** (corner medallions with Rashidun caliph names), **kuşak** (قوشاق, horizontal belt panel), **etek** (اتك, bottom panel with ketebe/date). Canonical layout created by Hâfız Osman (1642–1698). Believed to have talismanic properties.
+- **müsenna / muthanná** (مثنى) — mirror calligraphy: text and its reflection placed symmetrically. Creates bilateral geometric, zoomorphic, or architectural compositions. Flourished in 18th–19th c. Bektashi/Sufi contexts.
+- **icâzet / ijāza** (اجازت) — calligraphic diploma certifying mastery. Top: Basmala in thuluth; middle: demonstration text; lower: signed approvals (*taṣdīq*) of masters; *silsila* (chain of teachers). The script *rik'a* was called *icâzet yazısı* ("ijāza script").
+- **qıt'a** (قطعه) vs. **levha** (لوحه) — qıt'a = calligraphic specimen panel for album mounting; levha = larger panel for wall display. Both feature illuminated panels, gold roundels, and decorative borders. Key distinction: levha = wall display; qıt'a = album (murakkaʿ) mounting.
+
 ### Binding decoration elements
 
 - **şemse** / shamsa / toranj — central medallion (on bindings or pages)
-- **salbek** / sar-toranj — pendant / tongue extending from şemse
+- **salbek** / sar-toranj — pendant / tongue extending from şemse (primarily on binding covers)
+- **tire / tîre** (تیره) — pendant extension projecting from marginal medallions on pages. Teardrop, flame-shaped, or lancet-shaped; typically 1/3 to 1/2 the height of parent medallion. Distinction from salbek: **salbek** = binding pendant from cover şemse; **tire** = page-level pendant from marginal gül markers. Subtypes: simple flame/teardrop, lobed, palmette, multi-tiered, axial vs. diagonal
 - **köşebend** — corner pieces (on bindings)
 - **zencirek / zencerek** (زنجيرك) — chain border: repeating interlinked ring/loop motifs in a narrow band. Applied to page edges, calligraphy panels, and binding edges.
-- **ruganî / lake** — lacquer (for lacquer-painted bindings, Persian tradition)
+- **ruganî / lake** — lacquer (for lacquer-painted bindings, Persian tradition). See also *roghanī* under Paper Decoration Techniques for lacquer painting on paper within manuscripts.
 
 ### Motif families
 
@@ -78,18 +112,23 @@ The Ottoman framing system uses layered borders around the text block:
 - **bulut** / cloud band — Chinese-derived cloud scrolls. Subtypes: **yığma bulut** (heaped cloud), **dolantı bulut** (winding cloud), **ayırma bulut** (separating cloud), **Çin bulutu** (Chinese cloud)
 - **münhanî** — spiral / arabesque scrollwork
 - **saz** — long serrated leaves with composite flowers (Ottoman court style)
-- **penç** — five-petalled rosette
-- **gonca** — bud form
+- **penç** (پنج) — stylized bird's-eye/plan view of a fully opened flower. Central hub (*kaneviçe*) with radiating petals. Petal-count variants: *yekberk* (1), *düberk* (2), *seberk* (3), *ciharberk* (4), *pençberk* (5, most common), *şeşberk* (6), *sadberk* (many). **Çarkıfelek**: pinwheel variant with petals curving in one direction. The penç is the plan-view complement to hatāyī's elevation/profile view.
+- **gonca / goncagül** (غنچه‌گل) — profile view of an unopened or partially opened bud, showing calyx (*çanak*) embracing petals. Directional motif. Represents the immature stage; hatāyī represents the fully opened flower.
+- **yaprak** (یپراق) — stylized leaf forms as independent elements and building blocks. In saz compositions: **hançer yaprak** (dagger leaf) — large serrated leaves prominent in 16th-c. Karamemi style.
 - **hataî gül** — hatāyī rose
 - **girih** — geometric interlace patterns
 - **islîmî** — arabesque; **islîmî-i mârī** — snake/dragon-derived arabesque (linked to cloud band origins)
-- **lâle** — tulip; **karanfil** — carnation; **sümbül** — hyacinth; **gül** — rose; **şükûfe** — flowers (general, often in margin context)
+- **lâle** — tulip; **karanfil** — carnation; **sümbül** — hyacinth; **gül** — rose; **şükûfe** — flowers (general, often in margin context). **Şükûfe** as period style: semi-naturalistic to realistic flower paintings emerging in the 18th c. under European influence (Lâle Devri / Tulip Era, 1718–1730); distinguished from classical motifs by realistic rendering, shading, and botanical accuracy.
+- **ortabağ / agraf / düğüm / kenet** — junction ornaments: small binding motifs at stem intersections. "At these points, tepelik, knot, agraf are placed." Also *ortabağ bulut* (linking cloud elements between cloud forms).
+- **ayırma** — dividing motifs used to partition compositional fields into separate color zones, creating the münâvebe (alternation) effect. Two main types: **ayırma rûmî** and **ayırma bulut**.
+- **tepelik** — crown/cap motif at the apex of compositions. **Tepelik rûmî** (crown-form rūmī at top of closed forms and symmetry axis); **tepelik bulut** (crown-form cloud motif). Related: **tâcü'l-cedvel** (تاج الجدول, "crown of the frame") — decorative crown rising above the rectangular text frame.
+- **çintemani** — three-dot and tiger-stripe pattern: three dots in a triangle combined with two wavy parallel lines. Derives from Central Asian Buddhist symbolism, became Ottoman sovereignty symbol. Appears sparingly in tezhip (more common in textiles/ceramics).
 
 ## Gold Techniques
 
 | Term | Language | Meaning |
 | --- | --- | --- |
-| halkâr / halkârî | Ott./Pers. | Shaded gold floral painting, typically in margins. Subtypes: **taramalı halkârî** (hatched/lined shading), **tahrirli halkârî** (outlined with darker gold/ink) |
+| halkâr / halkârî | Ott./Pers. | Shaded gold floral painting (halkâr = noun, halkârî = adjectival form), typically in margins. Subtypes: **taramalı halkârî** (hatched/lined shading), **tahrirli halkârî** (outlined with darker gold/ink) |
 | zerefşân / serpme / yaldız serpme | Pers./Ott. | Gold-sprinkled (particles scattered on paper surface). Subtypes: **kalbur zerefşanı** (sieve-sprinkled, finer), **fırça zerefşanı** (brush-sprinkled, coarser). Surface variant: **şâykâllı zerefşân** (burnished/polished gold-sprinkled — particles compressed and polished, harder to read at low resolution; confirmed: Milli Kütüphane 614152) |
 | sim efşan / sim-efşan | Ott. | Silver-sprinkled (silver equivalent of zer-efşan; *sim* = silver). Distinct from *gümüş yaldız serpmeli* (the more common Ottoman term); found in Ali Emiri Belge berats (155133, 155116) |
 | zer-endûd | Pers. | Gold-painted / gold-applied surface |
@@ -97,7 +136,12 @@ The Ottoman framing system uses layered borders around the text block:
 | zerkâri | Pers. | Gold-worked (motifs worked into paper surface in gold) |
 | altın varak | Ott. | Gold leaf |
 | mücevher altın | Ott. | Shell gold (powdered gold in medium) |
-| sıvama altın | Ott. | Applied/painted gold |
+| sıvama altın (سیواما آلتین) | Ott. | Solid gold ground: entire background covered with gold leaf, burnished, then design painted on top. Distinguished from classical tezhip where individual motifs are gilded. Characteristic of later Ottoman (18th–19th c.) and earlier Timurid luxury manuscripts |
+| çift tahrir / havalı | Ott. | Double outline technique: motif details drawn with two parallel outline strokes with bare ground ("air") between them. On dark grounds: light outlines; on light grounds: dark. Sub-techniques: *sıvama* (solid fill) and *taramalı* (hatched). Requires exceptional brush control |
+| iplik | Ott. | Thin thread-line parallel to cedvel (ruling frame); a fine decorative framing line |
+| kuzu | Ott. | Very fine line parallel to the main border. "The kuzu drawn parallel to the iplik and the tığ ensure the design blends with the outer ground" |
+| hurde nakış / hurde tezyinat | Ott./Pers. | Miniature painting at the limits of brush control (*hurde* = small/minute). **Hurde rûmî**: rūmī motifs nested inside larger rūmī forms. **Hurde bulut**: miniature cloud fill elements. Distinguished by exceptional fineness and density — motifs within motifs. Ottoman classical (16th c., Karamemi) and Safavid |
+| dendân-ı mûşî / dendanlı | Pers./Ott. | Sawtooth border: continuous symmetrical zigzag or serrated edge pattern in burnished gold. *Dendân-ı mûşî* (دندان موشی) = "mouse teeth" (finest variant). Defines the boundary between illuminated fields and plain paper, sitting between the cedvel and the illuminated field. Characteristic of high-quality 16th-century Ottoman court illumination |
 | zermürekkep | Ott. | Gold ink (used for halkârî and teşʿîr work) |
 | gümüş yaldız serpmeli | Ott. | Silver-sprinkled (rare) |
 | altınlı kağıt / yaldızlı kağıt | Ott. | Gilded paper (general) |
@@ -180,18 +224,37 @@ No standardized Turkish cataloguing term exists for any of these techniques. Dis
 **Stenciled paper subtypes by material:**
 
 - **stencil-applied color** — pigment brushed/dabbed through cut-out stencil, leaving flat-color motifs (or motifs in reserve against colored ground)
-- **stencil-applied metallic** — gold leaf or shell-gold (zer-mürekkep) applied through stencil, producing gold repeat-patterns
+- **stencil-applied metallic** — gold leaf or shell-gold (zermürekkep) applied through stencil, producing gold repeat-patterns
 - **stencil borders as inserted leaves** — separate stencil-decorated leaves bound into or vassale-mounted in the manuscript
 
 **Key figures and collections:**
 
-- **Karamemi** (fl. 1545–66): chief illuminator of Sultan Süleyman's court; hand-painted naturalistic floral borders in Divan-ı Muhibbi (1565–66) served as prototypes for mechanically stenciled paper
+- **Karamemi** (fl. 1545–66): chief illuminator of Sultan Süleyman's court; hand-painted naturalistic floral borders in Divan-ı Muhibbi (1565–66) later informed or paralleled stencil-based repeat patterns
 - **Known examples**: Stuttgart alba amicorum (Württembergische Landesbibliothek, 98 sheets), Coburg, Kassel, BnF Paris, John Rylands MS 7046 (1531–33)
 - **Global Deco Paper Project** (LMU Munich) — active research project on decorated paper classification including Ottoman material
 
-**⚠ Timeline:** Gold stencilling extends into the 19th century (1829 Ottoman manuscript, Shapero) — not limited to the 16th-century "classic" period.
+**⚠ Timeline:** Gold stencilling extends into the 19th century (1829 Ottoman manuscript, Shapero; commercial record, scholarly confirmation desirable) — not limited to the 16th-century "classic" period.
 
 **⚠ Literature terminology overlap:** Some English-language scholarship (e.g., Blair, Muqarnas 17, 2000; Sotheby's auction catalogues) uses "silhouette paper" to describe what may be stenciled paper, or uses "stencilled silhouette paper" as a compound term. When reading secondary sources, verify which production technique is actually described rather than assuming terminological consistency.
+
+### Cut paper (qat'ī)
+
+- **qaṭʿī** (قطعی, from *qaṭʿ* = "cutting") — cut-paper calligraphy: individual letters, dots, and syllables cut from paper with fine blades and pasted onto contrasting backgrounds. Light-toned cut-outs on dark grounds (or reverse). The finest examples simulate written calligraphy indistinguishably. Practitioners: *qāṭiʿān* (قاطعان, "cutters"). French: *découpage*.
+- **Key masters**: Sangī ʿAlī Badakhshī, Mawlānā Naẕr ʿAlī Qaṭʿī, Shaykh ʿAbdallāh Haravī, Dūst-Muḥammad. Developed at the Timurid court workshop at Herat (late 15th c.). Flourished under Safavid patronage.
+- **Identification**: Look for slight variations in paper tone/thickness between letters and background; seams at letter edges; contrasting colors; combination with müsennā and architectural framing (mihrab-shaped cutouts).
+
+### Lacquer painting on paper (roghanī)
+
+- **roghanī** (روغنی, "lacquered") / **naqāshī-yi roghanī** (لاکی نقاشی) — lacquer painting on paper. Lacquer material: *roghan-i kamān* or *lāk* (لاک), from shellac resin — distinct from East Asian tree-resin lacquer.
+- **Layer structure**: pasteboard → fine white paper → first brownish shellac layer → watercolor/opaque pigments → final transparent shellac varnish. Paint is "sandwiched" between two shellac layers.
+- **Distinction from regular miniature painting**: visible surface sheen/gloss; slight amber yellowing from shellac aging; network cracking (distinct from paint flaking); often on pasteboard substrate. Regular miniatures: matte gouache on sized paper without lacquer.
+- **Traditions**: Safavid (16th–18th c.) — originated at Timurid Herat court of Sultan Husayn Bayqara; **Qajar** (1789–1925) — peak era with European-influenced portraiture. Interior page lacquer application is rare; the technique is more commonly associated with bindings. See also *ruganî / lake* under Binding decoration elements.
+
+### Penwork (kalem işi)
+
+- **kalem işi** (قلم ایشی, "pen work") / **kalem tezyīnātı** — decorative embellishments executed solely with pen and ink: NO gold leaf, NO opaque pigments, NO lapis lazuli grounds. Arabic: **taḥrīr** (تحریر, "delineation by pen"). Typically 1–3 ink colors (red most common, then blue, occasionally black/green). Simple geometric borders, pen-drawn florets and vine scrolls, headpiece suggestions with ink arabesques.
+- **Most developed in the Maghribi tradition**: North African Qur'ans characteristically use polychrome ink for text and decoration — brown ink for text, diacritics in blue/yellow, voweling in mauve/purple, verse separators as gold and polychrome florets, surah headings in gold Kufic.
+- Also common in provincial Ottoman manuscripts, less luxurious Mamluk copies, and sub-imperial Mughal/Indian manuscripts.
 
 ### Mounting and special treatments
 
@@ -238,12 +301,30 @@ Binding FP descriptors (⚠ NOT page margin halkâr):
 | Term | Meaning |
 | --- | --- |
 | Doğu kâğıdı | Eastern paper |
-| kāġaz-i Ḫiṭāʾī (کاغذ خطایی) | Cathayan/Chinese paper |
-| kāġaz-i Čīn / Çin kâğıdı | Chinese paper |
+| kāġaz-i Ḫiṭāʾī (کاغذ خطایی) | Cathayan/Chinese paper — specifically refers to imported Chinese luxury paper (finished decorated sheets), not paper made using Chinese-derived techniques. The primary term used in Persian sources for imported Chinese papers found in 15th-c. Timurid manuscripts |
+| kāġaz-i Čīn / Çin kâğıdı | Chinese paper (general) |
+| paper mulberry / *Broussonetia papyrifera* / tūt kāġaẕı | Primary diagnostic fiber of Chinese paper. Long, strong fibers with characteristic transparent primary wall membrane that stains violet to bluish-purple with Herzberg stain |
+| ramie / hemp / bamboo | Secondary Chinese fiber types. Ramie: ribbon-like fibers with wide lumens. Bamboo: identifiable through SEM-EDX detection of silicified epidermis |
+| xuan paper | Chinese paper from Anhui Province, made from blue sandalwood bark (*Pteroceltis tatarinowii*) and rice straw |
 | Samarqandī | Samarkand paper |
 | âbâdî kâğıt | Abadi paper |
 | filigranli | Watermarked (European paper) |
 | kalın kağıt | Thick paper |
+
+### Chinese paper identification markers
+
+Chinese luxury paper in Islamic manuscripts is most commonly documented in 15th-century Timurid manuscripts, arriving through Ming diplomatic gifts (1412, 1417, 1419). At least 15 examples are currently documented in the published literature. Key identification markers:
+
+- **Fiber analysis** (definitive): The primary diagnostic fiber is paper mulberry (*Broussonetia papyrifera*), whose long fibers with transparent primary wall membranes stain violet/bluish-purple with Herzberg stain. Islamic rag fibers (linen, hemp, flax — also bast fibers) stain purplish pink to vivid red-purple. The distinction is fiber species and morphology, not fiber class: both traditions use bast fibers, but paper mulberry is absent from Islamic papermaking. Secondary Chinese fibers include ramie, bamboo, and cotton
+- **Sheet format**: Original Chinese horizontal sheets (~35 × 106 cm) cut for vertical Persian codex format. Gold-painted designs appear at **right angles to text direction** — the perpendicular orientation tell
+- **Surface treatment**: No diagonal burnishing lines (Islamic papers show these from agate/glass polishing). No watermarks (bamboo moulds cannot accommodate wire designs)
+- **Decoration motifs**: Chinese landscapes with mountains, pavilions, pine trees; gourd vines; pomegranates; bamboo; birds in flowering trees — subjects not found in Islamic paper decoration
+- **Color palette**: Vivid colors dyed on both sides: pink, mauve, olive green, light blue, orange, grey, dark purple, yellow-green
+- **Gold types**: Fine gold sprinkles + large gold flecks + painted gold compositions (overlapping with existing zerefşân/zerkâri categories, but combined with Chinese subject matter)
+- **Key confirmed corpus**: TIEM Inv. 1992, TIEM Inv. 41, BL Add.7759, BL Add.16561, Bodleian MS. Pers. E.26, Chester Beatty Per 127, NYPL Spencer Persian 41, Süleymaniye Ayasofya 4334, Sarikhani Collection Qur'an
+- **References**: Sturkenboom (ERC GLOBAL DECO PAPER project, LMU Munich); Soucek 1988 (*Ars Orientalis*); Blair 2000 (*Muqarnas* 17); Yu 2021 (University of Chicago Press); Helman-Ważny (fiber analysis)
+
+**⚠ Visual identification alone provides PROBABLE attribution, not confirmed.** Definitive identification requires fiber analysis. When visually suspected, record as "probable Chinese paper (kāġaẕ-i Ḫiṭāʾī)" with confidence ≤ 0.7 and note the need for fiber analysis.
 
 ## Binding Terms
 
@@ -387,15 +468,14 @@ These textual patterns signal production context with varying confidence:
 | Patron name without city | Workshop inferred from patron's known location | medium |
 | "Dârü's-selâm" or "Kostantiniyye" | Istanbul production stated | very high |
 
-### Historical Workshops and Schools
+For workshop and school identification, see `workshop-identification-guide.md`.
 
-| Workshop / School | Period (approx.) | Distinctive features |
-| --- | --- | --- |
-| Nakkaşhane-i hümayun, Istanbul | c. 1453 onwards | Rūmī-hatāyī synthesis, bulut bands, controlled palette; Bâki Nakkaş era c. 1550s; zerefşân paper standard in luxury production |
-| Herat school (Timurid) | c. 1400–1507 | Blue-and-gold palette, delicate hatāyī scrolls, lajvardina; Baysunghur's workshop c. 1420s |
-| Tabriz school (Safavid) | c. 1501–1555 | Intense lapis, more naturalistic hatāyī, Timurid synthesis; Shah Tahmāsp era peak |
-| Isfahan school (Safavid) | c. 1555 onwards | Post-Tabriz floral naturalism, polychrome margins, zer-ender-zer technique |
-| Qazvin school (Safavid) | c. 1555–1598 | Transitional Safavid, sparser decoration, elongated figures |
-| Shiraz school | 15th–17th c. | Commercial Timurid/Safavid production, quicker execution, wide export |
-| Mamluk Cairo | c. 1250–1517 | Geometric interlace, carpet-page Qurans, gold-and-black palette, angular kufic |
-| Ottoman Bursa / Edirne | c. 1400–1453 | Pre-Istanbul court production, strong Timurid influence |
+## Compositional Grammar
+
+Terms describing the structural logic and compositional techniques underlying Islamic manuscript illumination. These are not decoration "types" but rather the vocabulary for analyzing HOW illumination is constructed.
+
+- **münâvebe** (مناوبه, "alternation") — systematic alternation of ground colors within decorative panels. Adjacent *pafta* (compartments) alternate between gold and lapis blue (lâcivert), or gold and crimson. Achieved through *ayırma* motifs and *kapalı form*. Circulates more in oral workshop tradition than published glossaries.
+- **kapalı form** ("closed form") — enclosed compositional spaces created by interlocking stems. Each compartment can receive a different ground color, enabling münâvebe (alternation). The structural mechanism behind color variation in illuminated panels.
+- **ulama desen** — repeat/rapport pattern: infinitely tileable designs used in zahriye, koltuk, and cover decoration.
+- **lâcivert** (لاجورد) — not merely a color but a characteristic decorative ground: deep lapis lazuli blue serves as the fundamental partner to gold in classical tezhip. "Cobalt blue comes to the fore as the most commonly used background color after gold" (TDV İslâm Ansiklopedisi).
+- **mühür** (مهر) — seal impressions as accumulated decorative layers. **Vakıf mühürü** (waqf seal), **temellük mühürü** (ownership seal). Not a decoration TYPE applied by the maker, but seals accumulate on flyleaves, title pages, and colophon folios over centuries, sometimes in deliberate decorative arrangements. Known Ottoman waqf seal examples date to the early 8th/14th century.

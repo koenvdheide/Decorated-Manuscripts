@@ -12,7 +12,7 @@ Schema for a single folio analysis produced by `motif-classifier`. Return one ob
     "folio": { "type": "string", "examples": ["f1v", "f2r", "f3a"] },
     "decoration_type": {
       "type": "string",
-      "enum": ["serlevha", "zahriye", "margin", "carpet_page", "paper_decoration", "binding", "other"]
+      "enum": ["serlevha", "zahriye", "margin", "carpet_page", "shamsa_page", "finispiece", "tughra_page", "hilye", "calligraphic_panel", "paper_decoration", "binding", "other"]
     },
     "elements": {
       "type": "array",
@@ -34,7 +34,7 @@ Schema for a single folio analysis produced by `motif-classifier`. Return one ob
       "properties": {
         "type": {
           "type": "string",
-          "enum": ["gold_sprinkled", "gold_worked", "marbled", "colored", "halkar_margins", "illuminated_margins", "marginal_drawings", "framing_system", "silver_sprinkled", "edge_gilding", "mixed", "none", "other"]
+          "enum": ["gold_sprinkled", "gold_worked", "marbled", "colored", "halkar_margins", "illuminated_margins", "marginal_drawings", "framing_system", "silver_sprinkled", "edge_gilding", "stenciled", "silhouetted", "impressed", "block_printed", "cut_paper", "penwork", "lacquer", "mixed", "none", "other"]
         },
         "technique_terms": {
           "type": "object",
@@ -96,7 +96,7 @@ Schema for a single folio analysis produced by `motif-classifier`. Return one ob
 ### Decoration categories
 
 ```text
-gold_sprinkled | gold_worked | marbled | colored | halkar_margins | illuminated_margins | marginal_drawings | framing_system | silver_sprinkled | edge_gilding | mixed | none | other
+gold_sprinkled | gold_worked | marbled | colored | halkar_margins | illuminated_margins | marginal_drawings | framing_system | silver_sprinkled | edge_gilding | stenciled | silhouetted | impressed | block_printed | cut_paper | penwork | lacquer | mixed | none | other
 ```
 
 ### Confidence scores

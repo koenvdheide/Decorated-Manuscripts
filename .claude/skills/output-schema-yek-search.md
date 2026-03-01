@@ -36,7 +36,7 @@
               "decoration_field": { "type": ["string", "null"] },
               "classification": {
                 "type": "string",
-                "enum": ["gold_sprinkled", "gold_worked", "marbled", "colored", "halkar_margins", "illuminated_margins", "marginal_drawings", "framing_system", "silver_sprinkled", "edge_gilding", "mixed", "none", "other"]
+                "enum": ["gold_sprinkled", "gold_worked", "marbled", "colored", "halkar_margins", "illuminated_margins", "marginal_drawings", "framing_system", "silver_sprinkled", "edge_gilding", "stenciled", "silhouetted", "impressed", "block_printed", "cut_paper", "penwork", "lacquer", "mixed", "none", "other"]
               },
               "is_false_positive": { "type": "boolean" },
               "false_positive_reason": { "type": ["string", "null"] },
@@ -63,7 +63,7 @@
 ### Decoration categories
 
 ```text
-gold_sprinkled | gold_worked | marbled | colored | halkar_margins | illuminated_margins | marginal_drawings | framing_system | silver_sprinkled | edge_gilding | mixed | none | other
+gold_sprinkled | gold_worked | marbled | colored | halkar_margins | illuminated_margins | marginal_drawings | framing_system | silver_sprinkled | edge_gilding | stenciled | silhouetted | impressed | block_printed | cut_paper | penwork | lacquer | mixed | none | other
 ```
 
 ### Confidence scores

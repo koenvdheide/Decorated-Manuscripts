@@ -57,7 +57,7 @@ The primary output for the `catalog/` directory. One record per manuscript. Cont
           "type": "array",
           "items": {
             "type": "string",
-            "enum": ["gold_sprinkled", "gold_worked", "marbled", "colored", "halkar_margins", "illuminated_margins", "marginal_drawings", "framing_system", "silver_sprinkled", "edge_gilding", "mixed", "none", "other"]
+            "enum": ["gold_sprinkled", "gold_worked", "marbled", "colored", "halkar_margins", "illuminated_margins", "marginal_drawings", "framing_system", "silver_sprinkled", "edge_gilding", "stenciled", "silhouetted", "impressed", "block_printed", "cut_paper", "penwork", "lacquer", "mixed", "none", "other"]
           },
           "description": "All decoration types present in the manuscript"
         },
@@ -277,7 +277,7 @@ One entry per catalogued manuscript. Lightweight summary for comparative-analyst
 ### Decoration categories
 
 ```text
-gold_sprinkled | gold_worked | marbled | colored | halkar_margins | illuminated_margins | marginal_drawings | framing_system | silver_sprinkled | edge_gilding | mixed | none | other
+gold_sprinkled | gold_worked | marbled | colored | halkar_margins | illuminated_margins | marginal_drawings | framing_system | silver_sprinkled | edge_gilding | stenciled | silhouetted | impressed | block_printed | cut_paper | penwork | lacquer | mixed | none | other
 ```
 
 ### Confidence scores
