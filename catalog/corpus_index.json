@@ -1,6 +1,6 @@
 {
-  "generated": "2026-02-28T22:46:20.911Z",
-  "manuscript_count": 100,
+  "generated": "2026-03-01",
+  "manuscript_count": 108,
   "note": "Auto-maintained by metadata-generator. Do not edit manually.",
   "entries": [
     {
@@ -2080,7 +2080,7 @@
       "collection": "Süleymaniye Yazma Eser Kütüphanesi — Pertevniyal Koleksiyonu",
       "shelfmark": "00050",
       "title": "Muraqqaʿ / مرقع",
-      "date_ah": "late 12th/early 13th c. AH",
+      "date_ah": "late 12th/early 13th c.",
       "date_ce": "c. 1775–1806",
       "decoration_types": [
         "marbled",
@@ -2431,7 +2431,7 @@
       "shelfmark": "01454",
       "title": "Muraqqaʿāt / مرقعات",
       "author": null,
-      "date_ah": "AH 1138 (second text); AH 1204 (chronogram)",
+      "date_ah": "1138 (second text); AH 1204 (chronogram)",
       "date_ce": "1725-26 CE (second text); 1789-90 CE (chronogram)",
       "decoration_types": [
         "other",
@@ -3046,6 +3046,249 @@
       "workshop_centre": "Istanbul (presumed)",
       "confidence": 0.95,
       "catalogued_date": "2026-02-28"
+    },
+    {
+      "record_id": "yb_00312",
+      "collection": "Süleymaniye Kütüphanesi — Yazma Bağışlar Koleksiyonu",
+      "shelfmark": "00312",
+      "title": "Muraqqaʿāt",
+      "author": null,
+      "date_ah": null,
+      "date_ce": null,
+      "decoration_types": [
+        "marbled",
+        "halkar_margins",
+        "colored",
+        "framing_system"
+      ],
+      "paper_categories": [
+        "hatip ebru",
+        "battal ebru (çok paletli)",
+        "halkârî köşe bezemesi (renkli)",
+        "sarı mülevven",
+        "cetvelli"
+      ],
+      "key_features": [
+        "Most elaborate decorative program in Yazma Bağışlar murakka corpus: 5-technique combination",
+        "Multi-palette battal ebru (≥3 variants) distributed across album folios",
+        "Polychrome floral halkârî (red/pink/green/gold) in all four corners, every page",
+        "Hatip ebru cover — dark blue-green leaf/frond type"
+      ],
+      "visual_confirmation": "confirmed",
+      "primary_tradition": "ottoman",
+      "workshop_centre": "Istanbul",
+      "confidence": 0.95,
+      "catalogued_date": "2026-03-01"
+    },
+    {
+      "record_id": "yb_00313",
+      "collection": "Süleymaniye Kütüphanesi — Yazma Bağışlar Koleksiyonu",
+      "shelfmark": "00313",
+      "title": "Muraqqaʿāt",
+      "author": null,
+      "date_ah": "1125",
+      "date_ce": "1713",
+      "decoration_types": [
+        "marbled",
+        "colored",
+        "framing_system"
+      ],
+      "paper_categories": [
+        "hatip ebru (sarı çiçekli, çok renkli)",
+        "sarı mülevven (yazı zemini, tüm yapraklar)",
+        "mülevven çerçeve kâğıtları (somon/pembe ve yeşil)",
+        "cetvelli"
+      ],
+      "key_features": [
+        "Only dated specimen in Sub-Batch H: AH 1125 / 1713 CE (Tulip Era, Ahmed III)",
+        "Consistent yellow mülevven writing surface across all 16 calligraphy folios — clearest mülevven reference specimen in corpus",
+        "Polychrome hatip ebru cover with yellow multi-petal flowers matching interior yellow mülevven — deliberate chromatic program",
+        "Pedagogical hurûf-i meşkhī (letter-combination exercises) format — only such album in Yazma Bağışlar corpus"
+      ],
+      "visual_confirmation": "confirmed",
+      "primary_tradition": "ottoman",
+      "workshop_centre": "Istanbul",
+      "confidence": 0.95,
+      "catalogued_date": "2026-03-01"
+    },
+    {
+      "record_id": "yb_02788",
+      "collection": "Sueleymaniye Kuetuphanesi -- Yazma Bagislar Koleksiyonu",
+      "shelfmark": "02788",
+      "title": "Muraqqaat",
+      "author": null,
+      "date_ah": "1318",
+      "date_ce": "1900-01",
+      "decoration_types": [
+        "marbled",
+        "framing_system"
+      ],
+      "paper_categories": [
+        "battal ebru",
+        "gel-git ebru",
+        "vassale",
+        "cetvelli"
+      ],
+      "key_features": [
+        "Mixed-ebru program: minimum 5 distinct palettes across 10-leaf album",
+        "Battal + gel-git ebru subtypes both confirmed",
+        "Larger volume of matched pair with yb_02787 (identical binding + endpapers)",
+        "Hasan Riza, late Ottoman mesk muraqqaat, AH 1318"
+      ],
+      "visual_confirmation": "confirmed",
+      "primary_tradition": "ottoman",
+      "workshop_centre": "Istanbul",
+      "confidence": 0.97,
+      "catalogued_date": "2026-03-01"
+    },
+    {
+      "record_id": "yb_02787",
+      "collection": "Sueleymaniye Kuetuphanesi -- Yazma Bagislar Koleksiyonu",
+      "shelfmark": "02787",
+      "title": "Muraqqaat",
+      "author": null,
+      "date_ah": "1315",
+      "date_ce": "1897-98",
+      "decoration_types": [
+        "marbled",
+        "framing_system"
+      ],
+      "paper_categories": [
+        "battal ebru",
+        "gel-git ebru",
+        "vassale",
+        "cetvelli"
+      ],
+      "key_features": [
+        "Spectacular 4-color gel-git ebru on p007 (blue, green, coral, lavender) -- most colorful in corpus",
+        "Mixed-ebru program: 4 distinct palettes across 4-leaf album",
+        "Smaller and earlier volume of matched pair with yb_02788 (identical binding + endpapers)",
+        "Hasan Riza, late Ottoman mesk muraqqaat, AH 1315"
+      ],
+      "visual_confirmation": "confirmed",
+      "primary_tradition": "ottoman",
+      "workshop_centre": "Istanbul",
+      "confidence": 0.97,
+      "catalogued_date": "2026-03-01"
+    },
+    {
+      "record_id": "yb_00300",
+      "collection": "Süleymaniye Kütüphanesi — Yazma Bağışlar Koleksiyonu",
+      "shelfmark": "00300",
+      "title": "Muraqqaʿāt",
+      "author": "Uskudari Hasan (calligrapher)",
+      "date_ah": "1160",
+      "date_ce": "1747-48",
+      "decoration_types": [
+        "marbled",
+        "framing_system"
+      ],
+      "paper_categories": [
+        "hatip ebru",
+        "altın cetvel"
+      ],
+      "key_features": [
+        "Hatip ebru cover (green/yellow/pink leaf motifs on blue-green ground)",
+        "Cetvelli framing throughout; plain cream margins",
+        "Triage correction: NOT vassale - cover-only ebru"
+      ],
+      "visual_confirmation": "confirmed",
+      "primary_tradition": "ottoman",
+      "workshop_centre": "Istanbul",
+      "confidence": 0.9,
+      "catalogued_date": "2026-03-01"
+    },
+    {
+      "record_id": "yb_00303",
+      "collection": "Süleymaniye Kütüphanesi — Yazma Bağışlar Koleksiyonu",
+      "shelfmark": "00303",
+      "title": "Muraqqaʿāt",
+      "author": "Hafiz Osman (calligrapher, d. 1110/1698)",
+      "date_ah": "1106",
+      "date_ce": "1694-95",
+      "decoration_types": [
+        "marbled",
+        "framing_system",
+        "other"
+      ],
+      "paper_categories": [
+        "kalıplı kâğıt",
+        "battal ebru",
+        "vassale",
+        "altın cetvel"
+      ],
+      "key_features": [
+        "Block-printed/stenciled endpaper (gold stars on purple) - 2nd specimen in corpus",
+        "Gold semse binding with salbek and kosebent",
+        "Heterogeneous battal ebru vassale margins",
+        "Hafiz Osman ketebe AH 1106 - terminus ante quem for decorated paper"
+      ],
+      "visual_confirmation": "confirmed",
+      "primary_tradition": "ottoman",
+      "workshop_centre": "Istanbul",
+      "confidence": 0.93,
+      "catalogued_date": "2026-03-01"
+    },
+    {
+      "record_id": "vahid_pasa_01229",
+      "collection": "Kutahya Vahid Pasa Kutuphanesi",
+      "shelfmark": "1229",
+      "title": "Muraqqaat",
+      "author": "Nuh Ibn-i Bali (calligrapher)",
+      "date_ah": "1066",
+      "date_ce": "1655-56",
+      "decoration_types": [
+        "marbled",
+        "framing_system"
+      ],
+      "paper_categories": [
+        "hatip ebru",
+        "battal ebru",
+        "vassale",
+        "altın cetvel"
+      ],
+      "key_features": [
+        "Dual-ebru program: hatip ebru endpaper + battal ebru margins",
+        "Three distinct battal ebru palettes across openings",
+        "Celi divani script; dated AH 1066/1655-56",
+        "Triage correction: endpaper is hatip not battal ebru"
+      ],
+      "visual_confirmation": "confirmed",
+      "primary_tradition": "ottoman",
+      "workshop_centre": "Istanbul",
+      "confidence": 0.95,
+      "catalogued_date": "2026-03-01"
+    },
+    {
+      "record_id": "vahid_pasa_01226",
+      "collection": "Kutahya Vahid Pasa Kutuphanesi",
+      "shelfmark": "1226",
+      "title": "Muraqqaat",
+      "author": "Kadizade Mustafa (calligrapher, student of Sukruzade)",
+      "date_ah": "1177",
+      "date_ce": "1763-64",
+      "decoration_types": [
+        "colored",
+        "marbled",
+        "framing_system"
+      ],
+      "paper_categories": [
+        "mülevven sarı",
+        "mülevven yeşil",
+        "battal ebru",
+        "altın cetvel"
+      ],
+      "key_features": [
+        "Two-color mulevven: yellow endpaper + green margins throughout",
+        "Bonus: battal ebru doublures on both inside covers (not in triage)",
+        "Possible tarnished zerefsan on green margins (needs physical exam)",
+        "Sukruzade school; dated AH 1177/1763-64"
+      ],
+      "visual_confirmation": "confirmed",
+      "primary_tradition": "ottoman",
+      "workshop_centre": "Istanbul",
+      "confidence": 0.93,
+      "catalogued_date": "2026-03-01"
     }
   ]
 }
