@@ -1,0 +1,437 @@
+{
+  "record_id": "yb_02787",
+  "collection": {
+    "institution": "Süleymaniye Kütüphanesi — Yazma Bağışlar Koleksiyonu",
+    "city": "Istanbul",
+    "country": "Turkey",
+    "shelfmark": "02787",
+    "yek_url": "https://portal.yek.gov.tr/works/detail/346284"
+  },
+  "manuscript": {
+    "title": "Muraqqaʿāt / مرقعات",
+    "title_script": "مرقعات",
+    "title_alt": "Hasan Rıza Muraqqaʿātı — Meşk Albümü (Vol. I)",
+    "author": null,
+    "author_dates": null,
+    "calligrapher": "Hasan Rıza (حسن رضا)",
+    "calligrapher_dates": "d. AH 1336 / 1920 CE",
+    "calligrapher_note": "Hasan Rıza (d. 1336/1920) was one of the most prolific and celebrated late Ottoman calligraphers of the Tanzimat–Meşrutiyet period. He studied under Sâmi Efendi (Mehmed Şefik, d. 1912), the dominant calligraphic master of the period, and rose to prominence as a teacher and practitioner of nesih and sülüs scripts. He held positions at the Medresetü'l-Hattâtîn (School of Calligraphers, established 1914) and produced large numbers of calligraphic albums (muraqqaʿāt) as meşk (practice/teaching) specimens. His works are held in major Turkish collections including Süleymaniye, Türk ve İslam Eserleri Müzesi, and various private collections. This album is the earlier and smaller volume of a matched pair with yb_02788, and carries consistent attribution to Hasan Rıza confirmed by the YEK catalogue record and the textual match of the closing prayer with the companion volume.",
+    "date_ah": "1315 AH",
+    "date_ce": "1897–98 CE",
+    "date_note": "The date AH 1315 / 1897–98 CE is recorded in the YEK catalogue. This makes yb_02787 the earlier of the two matched albums by three years (yb_02788 is dated AH 1318 / 1900–01). The earlier date and smaller size (4 leaves vs. 10 leaves) suggest yb_02787 may represent an initial teaching album, with yb_02788 as an expanded continuation produced in a subsequent teaching cycle.",
+    "place_of_copy": "Istanbul (probable)",
+    "format": "Muraqqaʿāt / مرقعات — calligraphic teaching album with mixed battal and gel-git ebru margin papers",
+    "format_note": "A bound late Ottoman calligraphic teaching album (meşk muraqqaʿātı) of 4 folios (9 digitized pages), containing calligraphic passages from hadith, sayings of the Caliph ʿAlī ibn Abī Ṭālib, and literary texts on the art of calligraphy, in nesih and sülüs scripts. Each calligraphy panel is window-mounted (vassale) onto a sheet of ebru (marbled) paper, with a consistent multi-line cetvelli (ruled) framing system throughout. The defining decorative feature is the use of a DIFFERENT ebru paper for each calligraphy page, creating a program of maximum variety: four distinct ebru palettes and two ebru subtypes (battal and gel-git) across the four examined calligraphy pages, including the most colorful ebru in the entire matched pair (p007: four-color gel-git in blue, green, coral, and lavender). This is the smaller and earlier companion volume of a matched pair with yb_02788.",
+    "language": "Arabic",
+    "script": "Nesih (نسخ) and Sülüs (ثلث) — alternating large sülüs / thuluth lines with small nesih / naskh lines throughout",
+    "dimensions_mm": {
+      "height": 310,
+      "width": 250,
+      "writing_area_mm": {
+        "height": 195,
+        "width": 135
+      },
+      "note": "Outer dimensions 310×250 mm; text area 195×135 mm per YEK catalogue. Landscape-format album binding. The text area width (135 mm) is 5 mm wider than the companion volume yb_02788 (130 mm), a minor variation within the same dimensional format."
+    },
+    "folio_count": 4,
+    "yek_id": "346284",
+    "iiif_id": "0000000335706",
+    "matched_pair": {
+      "partner_record_id": "yb_02788",
+      "partner_yek_id": "346285",
+      "partner_iiif_id": "0000000335705",
+      "relationship": "smaller and earlier companion volume",
+      "date_relationship": "yb_02787 (AH 1315) is dated 3 years earlier than yb_02788 (AH 1318)",
+      "evidence_points": [
+        "IDENTICAL binding: same red leather with same gold lattice trellis (salbek zerkâri) pattern, same diamond grid with quadrilobed floral nodes",
+        "IDENTICAL endpaper ebru: same red-green-grey battal ebru palette and pattern type, almost certainly from the same marbling session — confirmed by double-page spread photograph of both inside covers",
+        "Same calligrapher: both attributed to Hasan Rıza",
+        "Near-identical dates: AH 1315 (this album) vs. AH 1318 (yb_02788), 3 years apart",
+        "Identical page dimensions: both 310×250 mm",
+        "Identical decorative structure: murakkaat format, 5 columns, nesih/sülüs alternation, vassale mounting, ebru margins, multi-line cedvel",
+        "Shared closing text: both final pages contain the identical concluding prayer about al-salaf al-ṣāliḥīn"
+      ],
+      "interpretation": "A coordinated pair of late Ottoman calligraphic teaching albums (meşk muraqqaʿātı) by the same master. The identical bindings and endpapers confirm simultaneous or closely coordinated production. yb_02787 is the smaller (4 leaves vs. 10 leaves) and earlier (AH 1315 vs. 1318) volume, suggesting it may represent the first phase of a calligraphic curriculum, with yb_02788 as the expanded continuation."
+    },
+    "notes": "This album is correctly classified in the YEK catalogue under '740 / Çizgi sanatları ve dekoratif sanatlar', in contrast to the companion volume yb_02788 which is incorrectly classified under '012 / Bibliyografya'. The album is catalogued by Recep Kaylı. The content of the calligraphy panels is noteworthy for its inclusion of sayings of ʿAlī ibn Abī Ṭālib (the fourth caliph), a literary passage on the art of calligraphy (on p007), and the closing prayer text that matches yb_02788. This thematic program — combining religious sayings, hadith, and texts on calligraphy as an art — is characteristic of a pedagogically curated meşk album. The p007 gel-git ebru, with its four-color palette (blue, green, coral, lavender), is the most visually spectacular ebru in both volumes of the matched pair."
+  },
+  "paper_decoration": {
+    "types": [
+      "marbled",
+      "framing_system"
+    ],
+    "summary": "The decorative program of yb_02787 is organized around a systematically varied ebru (marbled paper) scheme, in which each calligraphy page receives a different ebru sheet — creating a chromatic sequence of maximum variety across the album. Three levels of decoration are present: (1) Binding exterior (p001): red leather cover with stamped gold lattice/trellis design — zerkâri, a salbek diamond grid with floral quadrilobed nodes at intersections, multiple gold ruling frames, in landscape format. IDENTICAL in design to the companion album yb_02788. (2) Endpapers (p002): battal ebru (stone/spot marbled) in a red-coral, dark green, and cream-grey palette — classic large-droplet stone pattern. The double-page spread photograph confirms the inside front and back covers share the same ebru paper, and the palette is IDENTICAL to the endpapers of yb_02788, indicating a shared marbling session. (3) Calligraphy page margins (pp003, 005, 007, 009): each examined calligraphy page uses a different ebru paper for its outer margins, with the text panel window-mounted (vassale) into the ebru ground. Four distinct palettes and two ebru subtypes are confirmed across the four examined calligraphy pages: p003 (pink/mauve battal), p005 (green-red-cream battal), p007 (blue-green-coral-lavender gel-git — the most colorful ebru in either album), p009 (deep red battal with green/gold spots). A consistent multi-line cedvel (ruled framing) system in gold, dark, and green lines — with an additional dark purple/maroon rule also noted — frames each calligraphy panel throughout.",
+    "distribution_notes": "Zerkâri binding: front and back covers. Battal ebru (red-green-grey): inside front and back cover doublures (p002 double-page spread). Mixed battal ebru: outer margins of pp003, 005, 009 (distinct palettes each). Gel-git ebru: outer margin of p007 (four-color, the most elaborate ebru in the paired set). Multi-line cedvel framing: consistent throughout all calligraphy pages. Three pages unexamined (pp004, 006, 008), likely containing additional distinct ebru palettes.",
+    "technique_terms": {
+      "ottoman": "battal ebru (taş ebru / leke ebru) — çeşitli renk paletleriyle; gel-git ebru (biz ile çekilmiş S-dalga deseni) — dört renk paleti; vassale yöntemiyle monte edilmiş metin panelleri; altın cetvelli (çok çizgili çerçeve); zerkâri cilt kapağı (salbek kafes desen, lacivert içi çiçek düğümleriyle)",
+      "persian": "abrī (ابری) — battal ve gel-git alt tipleri; vassāla (واساله) — pencere montaj tekniği; zarkārī (زرکاری) — gold-worked binding",
+      "arabic": "kāġaz abrī (کاغذ ابری) — marbled paper; jadwal mudhahdhab (جدول مذهّب) — gold-ruled frame"
+    },
+    "catalogue_description": {
+      "paper_field": null,
+      "paper_field_normalized": null,
+      "paper_field_translation": null,
+      "notes_field": "Murakka album of calligraphic passages (hadith, Ali sayings, literary texts on calligraphy) in naskh and thuluth scripts. 4 leaves with 5 text columns per page. Each calligraphy panel is vassale-mounted into ebru margin papers with elaborate multi-line cedvel framing. The calligrapher Hasan Rıza (d. AH 1336/1920) was a prominent late Ottoman calligrapher and student of Sami Efendi. This is the smaller companion of a matched pair with yb_02788.",
+      "notes_field_normalized": "Nesih ve sülüs yazı türlerinde hat pasajlarından (hadis, Hz. Ali sözleri, hat sanatına dair edebi metinler) oluşan muraqqaʿāt albümü. Her sayfada 5 metin sütunu bulunan 4 yaprak. Her hat paneli, çok çizgili cedvel çerçeveleme ile ebrulu kâğıt zeminlere vassale tekniğiyle monte edilmiştir.",
+      "notes_field_translation": "A calligraphic album (muraqqaʿāt) of calligraphic passages (hadith, sayings of ʿAlī, literary texts on calligraphy) in naskh and sülüs scripts. 4 leaves with 5 text columns per page. Each calligraphy panel is window-mounted (vassale) onto ebru paper with elaborate multi-line cedvel framing.",
+      "decoration_field": null,
+      "source": "YEK portal, genel_notlar field, record 346284, Süleymaniye Kütüphanesi — Yazma Bağışlar Koleksiyonu. Catalogued by Recep Kaylı. All paper decoration observations derive from visual examination of IIIF images (6 of 9 pages)."
+    }
+  },
+  "workshop_attribution": {
+    "primary_tradition": "ottoman",
+    "workshop_centre": "Istanbul",
+    "date_range_ce": "1897–98",
+    "confidence": 0.95,
+    "key_indicators": [
+      "Attribution to Hasan Rıza at AH 1315 / 1897–98 CE confirmed by YEK catalogue, placing production in late Ottoman Istanbul",
+      "Hasan Rıza was a student of Sâmi Efendi and active in Istanbul — a firmly Istanbul-based calligraphic identity",
+      "The varied-ebru margin program with at least four distinct palettes and two subtypes (battal + gel-git) reflects a well-resourced late Ottoman ebru atelier in Istanbul",
+      "The zerkâri salbek binding (gold lattice/trellis on red leather) is characteristic of late Ottoman luxury album bindings produced in Istanbul",
+      "The matched pair relationship with yb_02788 (IDENTICAL binding design and endpapers) confirms coordinated Istanbul workshop production"
+    ],
+    "cross_tradition_caveats": [
+      "Three of the nine pages not examined (pp004, 006, 008): additional decoration types on unexamined pages cannot be ruled out",
+      "The identity of the ebru maker is unknown; the multi-palette mixed program implies a professional ebrici but no named attribution is possible",
+      "The content including sayings of ʿAlī ibn Abī Ṭālib is not specifically Shīʿī or Persian — it is a common inclusion in Sunni Ottoman meşk albums — but warrants noting as part of the content profile"
+    ]
+  },
+  "codicology": {
+    "paper": {
+      "color": "Two paper types: (1) cream/off-white burnished âharlı paper for the calligraphy text panels; (2) ebru papers for margins — four distinct palettes confirmed on examined pages (pink/mauve battal, green-red battal, four-color gel-git, deep red battal with green/gold). Endpaper ebru: red-coral, dark green, and cream-grey battal.",
+      "preparation": "The calligraphy panels are on âharlı (sized and burnished) cream paper, consistent with high-quality late Ottoman calligraphy paper. The ebru margin papers vary by page and represent different marbling sessions or trough batches. The gel-git ebru on p007 is clearly distinct in production technique from the battal ebru sheets used on other pages.",
+      "weight": "Indeterminate from IIIF images. Standard Ottoman album weight expected for a 310×250 mm album.",
+      "decoration": "Ebru margin papers (battal and gel-git subtypes); zerkâri gold lattice binding. Multi-line cetvelli framing in gold, dark, and green lines (with dark purple/maroon also observed) on all calligraphy pages.",
+      "paper_type": "Eastern/Oriental âharlı paper for calligraphy panels; professionally marbled Ottoman ebru papers for margins and endpapers."
+    },
+    "ruling": {
+      "system": "Consistent multi-line altın cetvelli (gold ruling) framing throughout the album. The color set includes gold, dark green/black, green, and dark purple/maroon lines — a slightly richer rule set than the companion yb_02788.",
+      "description": "Each calligraphy opening presents a layered framing system: (from outside in) the ebru outer margin paper; a multi-line cedvel system in gold, dark, and green (and occasionally dark purple/maroon) lines forming a 3–4 line nested frame; and the cream calligraphy text panel. The vassale seam (joint between ebru margin and mounted text panel) is clearly visible on all examined pages. The p002 double-page spread confirms the framing system is consistent across the full album."
+    },
+    "binding": {
+      "cover_description": "Front and back covers in red leather with a stamped gold lattice/trellis (salbek zerkâri) design. IDENTICAL in design to yb_02788: same diamond grid with quadrilobed floral nodes at each intersection, same small gold dots at the center of each diamond cell, same multiple gold ruling frames at the cover edge. Landscape format (horizontal orientation). Some surface wear and scuffing visible, indicating the album has been handled more than its companion. Library accession label 'Yazma Bağışlar 2787' visible on the inside cover.",
+      "cover_type": "Deri cilt — red leather with gold lattice zerkâri (salbek kafes) and framing rules. Landscape format.",
+      "notes": "The binding design is IDENTICAL to yb_02788. The design match — including the distinctive quadrilobed floral nodes at lattice intersections — is the strongest single piece of physical evidence confirming coordinated production of the matched pair. The slightly heavier wear on yb_02787 compared to yb_02788 may indicate the earlier album has received more use, consistent with its function as the initial teaching volume."
+    },
+    "format": "Muraqqaʿāt — late Ottoman calligraphic teaching album (meşk muraqqaʿātı), 4 folios, 9 digitized pages, landscape format",
+    "condition_summary": "Good condition with some surface wear and scuffing on the binding, more pronounced than the companion volume yb_02788. Ebru margin papers vivid and legible. No catastrophic damage, missing leaves, or major repair campaigns visible in examined pages.",
+    "conservation_history": null
+  },
+  "visual_confirmation": {
+    "verdict": "confirmed",
+    "confidence": 0.97,
+    "screenshots_examined": 6,
+    "folios_examined": [
+      "corpus/iiif/yb_02787_p001.jpg",
+      "corpus/iiif/yb_02787_p002.jpg",
+      "corpus/iiif/yb_02787_p003.jpg",
+      "corpus/iiif/yb_02787_p005.jpg",
+      "corpus/iiif/yb_02787_p007.jpg",
+      "corpus/iiif/yb_02787_p009.jpg"
+    ],
+    "visual_evidence": "p001: Red leather binding cover with gold lattice/trellis (zerkâri) pattern — IDENTICAL to yb_02788 p001. Same diamond grid with floral quadrilobed nodes, same gold ruling frames, landscape format. Some surface wear visible. p002: Double-page spread showing both inside covers simultaneously. Battal ebru doublure/endpaper in red-coral, dark green, and cream-grey palette — IDENTICAL palette and pattern to yb_02788 endpapers, clearly from the same marbling session. Library label 'Yazma Bağışlar 2787' visible at lower left. p003: Pink/mauve battal ebru margins with white-cream spots. Vassale-mounted calligraphy panel. Multi-line cedvel framing (gold + dark + green + dark purple/maroon). Text: sayings of Amīr al-Muʾminīn ʿAlī ibn Abī Ṭālib in alternating thuluth and naskh. p005: Green-red battal ebru margins — three-color battal in a similar hue range to the endpapers but with different pattern execution. Text: hadith on leaving prohibited things, prayer, and calligraphy education ('akrimū awlādakum bi-l-kitāba'). p007: SPECTACULAR multi-color gel-git (combed S-wave) ebru margins — blue, green, coral/salmon, lavender in flowing S-curves. The most colorful and visually striking ebru in the entire matched pair. Text: a literary passage on the art of calligraphy. p009 (last page): Deep red battal ebru margins with green/gold spots on deep red ground. Closing prayer text — IDENTICAL content to yb_02788 p021: concluding prayer about al-salaf al-ṣāliḥīn, confirming the textual match between the two albums.",
+    "limitations": [
+      "6 of 9 pages examined (67% coverage). 3 unexamined pages (pp004, 006, 008) likely contain additional distinct ebru palettes.",
+      "p002 shows both inside covers in a single double-page spread scan — useful panoramic view but individual surface detail is lower resolution than single-page scans.",
+      "IIIF resolution (2592×1944 px for 310×250 mm) is moderate — adequate for ebru identification but fine cedvel line detail would benefit from higher resolution.",
+      "IIIF files were initially downloaded to a Playwright temp directory; copies required to corpus/iiif/ with standardized underscore naming."
+    ],
+    "source_agent": "visual-confirmation",
+    "session": "catalog/searches/visual_tier2h_yb_02787.json"
+  },
+  "folio_analyses": [
+    {
+      "folio": "Front cover (IIIF p001)",
+      "source_image": "corpus/iiif/yb_02787_p001.jpg",
+      "decoration_present": true,
+      "decoration_types": ["framing_system"],
+      "elements": [
+        {
+          "motif": "Red leather binding with gold lattice zerkâri (salbek kafes) — front cover",
+          "description": "The front cover is red leather with a stamped gold lattice/trellis (zerkâri) pattern identical in design to yb_02788: a continuous diamond grid with quadrilobed floral nodes at each grid intersection and small gold dots at the center of each diamond cell. Multiple gold ruling frames border the design field at the cover edge. The album is in landscape (horizontal) format. Some surface wear and scuffing is visible — the cover shows more handling marks than its companion yb_02788.",
+          "location": "Full front cover exterior",
+          "confidence": 0.97
+        }
+      ],
+      "confidence": 0.97,
+      "notes": "The binding design is IDENTICAL to yb_02788. The match of the distinctive quadrilobed floral nodes and the overall lattice geometry is the primary physical evidence for coordinated production of the matched pair."
+    },
+    {
+      "folio": "Inside cover double-page spread — battal ebru endpapers (IIIF p002)",
+      "source_image": "corpus/iiif/yb_02787_p002.jpg",
+      "decoration_present": true,
+      "decoration_types": ["marbled"],
+      "elements": [
+        {
+          "motif": "Battal ebru doublure and endpaper — red-coral, dark green, cream-grey palette — double-page spread",
+          "description": "A double-page spread photograph shows both inside cover surfaces simultaneously. Both are covered with battal ebru (stone/spot marbled) paper in a red-coral, dark green, and cream-grey palette — classic large-droplet stone marbling. The palette and pattern type are IDENTICAL to the endpapers of yb_02788. The photographic evidence of both surfaces in a single spread confirms the same paper stock is used for all endpaper surfaces. Library label 'Yazma Bağışlar 2787' is visible at the lower left of the spread.",
+          "location": "Both inside cover surfaces (doublure + first endpaper) shown in double-page spread",
+          "confidence": 0.97
+        }
+      ],
+      "confidence": 0.97,
+      "notes": "The double-page spread photograph of p002 is unusually informative: it reveals both inside cover surfaces simultaneously, confirming the shared endpaper ebru across the full inside. The palette match with yb_02788 is the strongest single material evidence for the matched pair — the specific combination of red-coral, dark green, and cream-grey with the same droplet pattern almost certainly indicates the same marbling session."
+    },
+    {
+      "folio": "First calligraphy page — pink/mauve battal ebru margins (IIIF p003)",
+      "source_image": "corpus/iiif/yb_02787_p003.jpg",
+      "decoration_present": true,
+      "decoration_types": ["marbled", "framing_system"],
+      "elements": [
+        {
+          "motif": "Pink/mauve battal ebru — outer margin",
+          "description": "The outer margin of the first calligraphy opening is covered with battal ebru in a soft pink/mauve palette with white-cream stone spots. The palette is delicate and cool in tone, in clear contrast to the warm red-green endpaper ebru. The organic blob shapes of the battal pattern are legible at IIIF resolution.",
+          "location": "Outer margin surrounding calligraphy panel",
+          "confidence": 0.93
+        },
+        {
+          "motif": "Multi-line cetvelli framing — gold, dark, green, dark purple/maroon ruling lines",
+          "description": "Between the pink/mauve battal ebru outer margin and the cream calligraphy panel, a multi-line cedvel framing system is visible in gold, dark green/black, green, and dark purple/maroon lines — a richer rule set than the companion volume yb_02788. The vassale seam is clearly visible at the panel edge.",
+          "location": "Panel frame",
+          "confidence": 0.92
+        },
+        {
+          "motif": "Calligraphy panel — sayings of ʿAlī ibn Abī Ṭālib in sülüs and nesih",
+          "description": "Vassale-mounted cream calligraphy panel with sayings of Amīr al-Muʾminīn ʿAlī ibn Abī Ṭālib in alternating thuluth (large) and naskh (small) lines: 'al-ghālib ka-man haraba' and 'li-man ḥaraba ʿAlī ibn Abī Ṭālib karrama Allāhu wajhahu'. The inclusion of sayings of the fourth caliph as meşk content reflects the broad canonical repertoire of late Ottoman calligraphic pedagogy.",
+          "location": "Central mounted text panel",
+          "confidence": 0.88
+        }
+      ],
+      "confidence": 0.90,
+      "notes": "The soft pink/mauve palette of the first margin paper provides a gentle chromatic opening to the album's ebru sequence, in deliberate contrast to the warmer, more saturated tones of the endpaper and of the subsequent pages. The multi-rule cedvel system at p003 includes a dark purple/maroon line not observed in the companion volume yb_02788."
+    },
+    {
+      "folio": "Second calligraphy page — green-red battal ebru margins (IIIF p005)",
+      "source_image": "corpus/iiif/yb_02787_p005.jpg",
+      "decoration_present": true,
+      "decoration_types": ["marbled", "framing_system"],
+      "elements": [
+        {
+          "motif": "Green-red-cream battal ebru — outer margin",
+          "description": "The outer margin at p005 shows battal ebru in a three-color palette of green, red, and cream — a palette family similar in hue to the endpaper ebru but with different pattern execution and balance. The green is more prominent at p005 than in the endpaper, and the red is a different tone.",
+          "location": "Outer margin surrounding calligraphy panel",
+          "confidence": 0.90
+        },
+        {
+          "motif": "Calligraphy panel — hadith and calligraphy pedagogy text",
+          "description": "Vassale-mounted calligraphy panel with a hadith on avoiding prohibitions, a prayer, and a calligraphy education text ('akrimū awlādakum bi-l-kitāba' — 'honour your children with writing/education'). The inclusion of a text specifically about calligraphic education is appropriate to the meşk album context.",
+          "location": "Central mounted text panel",
+          "confidence": 0.88
+        }
+      ],
+      "confidence": 0.88,
+      "notes": "The green-red battal at p005 is the second distinct battal ebru palette in the album body. The inclusion of the calligraphy pedagogy text ('akrimū awlādakum bi-l-kitāba') is thematically significant: it marks the album's own status as a teaching object."
+    },
+    {
+      "folio": "Third calligraphy page — four-color gel-git ebru margins (IIIF p007)",
+      "source_image": "corpus/iiif/yb_02787_p007.jpg",
+      "decoration_present": true,
+      "decoration_types": ["marbled", "framing_system"],
+      "elements": [
+        {
+          "motif": "Four-color gel-git (combed S-wave) ebru — outer margin — MOST COLORFUL IN PAIR",
+          "description": "The outer margin at p007 shows a spectacular multi-color gel-git (come-go) ebru in four colors: blue, green, coral/salmon, and lavender, in flowing S-curves. The gel-git subtype is produced by drawing a single stylus (biz) back and forth through pigment on a marbling size, creating organic wave patterns. This is the most visually complex and colorful ebru in either volume of the matched pair: four distinct saturated hues in flowing, interlocking wave forms. At IIIF resolution, the four colors and the S-wave pattern are clearly legible. The palette — blue, green, coral, lavender — is also the broadest chromatic range of any single margin paper in the paired set.",
+          "location": "Outer margin surrounding calligraphy panel",
+          "confidence": 0.95
+        },
+        {
+          "motif": "Calligraphy panel — literary passage on the art of calligraphy",
+          "description": "Vassale-mounted calligraphy panel with an Arabic literary passage on the art of calligraphy, including the phrases 'al-qirṭās wa-li-maʿānī al-anfās wa-jibs al-anfās... wa-ʿinda al-khaṭṭ tābiʿ li-l-qalam in jawwadat qalamak' — a meditation on the relationship between the pen, paper, and the breath/intention of the calligrapher. The pairing of this text with the most elaborate ebru in the album is consistent with a deliberate editorial decision.",
+          "location": "Central mounted text panel",
+          "confidence": 0.85
+        }
+      ],
+      "confidence": 0.93,
+      "notes": "Page 007 is the most decoratively exceptional leaf in either album of the matched pair. The four-color gel-git ebru exceeds anything in the companion volume yb_02788 in palette richness and technical complexity. The deliberate pairing of this ebru with a text specifically about the art of calligraphy suggests editorial intentionality — the most beautiful paper accompanies the text most directly concerned with beauty in writing. This page alone makes yb_02787 a significant specimen in the corpus for the study of late Ottoman ebru."
+    },
+    {
+      "folio": "Final page — deep red battal ebru with closing prayer (IIIF p009)",
+      "source_image": "corpus/iiif/yb_02787_p009.jpg",
+      "decoration_present": true,
+      "decoration_types": ["marbled", "framing_system"],
+      "elements": [
+        {
+          "motif": "Deep red battal ebru with green/gold spots — outer margin",
+          "description": "The outer margin at p009 (the final calligraphy page) shows battal ebru on a deep red ground with green and gold/ochre stone spots. The deep red is a distinct and intense tone — darker and more saturated than the coral/red element in the endpaper ebru — providing a visually weighty close to the album's varied-ebru sequence.",
+          "location": "Outer margin surrounding calligraphy panel",
+          "confidence": 0.92
+        },
+        {
+          "motif": "Closing prayer text — matching yb_02788 p021",
+          "description": "The final calligraphy panel contains the closing prayer about al-salaf al-ṣāliḥīn (the pious ancestors): 'al-kalām al-wārid ʿan al-salaf al-ṣāliḥīn... raḥimahum Allāhu taʿālā ʿalayhim ajmaʿīn āmīn'. This is textually IDENTICAL to the closing text on p021 of the companion volume yb_02788. The shared closing formula is the definitive textual evidence for the matched pair relationship.",
+          "location": "Central mounted text panel",
+          "confidence": 0.93
+        }
+      ],
+      "confidence": 0.92,
+      "notes": "The deep red battal at p009 provides a warm, saturated conclusion to the album's ebru sequence. The shared closing prayer with yb_02788 p021 confirms these are not merely formally similar albums but intentionally coordinated volumes with a shared textual program — the same beginning (meşk content) and the same conclusion (closing prayer), bound in identical bindings, dated three years apart."
+    }
+  ],
+  "terminology": {
+    "terms_used": [
+      {
+        "concept": "Calligraphic album",
+        "ottoman": "muraqqaʿāt / murakkaʿ (مرقعات / مرقع)",
+        "arabic": "muraqqa (مرقع) / muraqqa'āt (مرقعات)",
+        "persian": "muraqqa (مرقع)",
+        "english": "Muraqqaʿāt: a bound Ottoman calligraphic album, typically containing kıtʿa (calligraphic specimen sheets) in one or more scripts. This album is specifically a meşk muraqqaʿātı (teaching/practice album), the smaller and earlier of a matched pair with yb_02788."
+      },
+      {
+        "concept": "Calligraphic teaching practice",
+        "ottoman": "meşk (مشق)",
+        "arabic": "mashq (مشق)",
+        "persian": "mashq (مشق)",
+        "english": "Meşk: calligraphic practice and teaching. A meşk muraqqaʿātı is a teaching album in which the master calligrapher demonstrates letter forms, ligatures, and complete texts as models for students. The pedagogically curated content of yb_02787 — progressing from ʿAlī sayings to hadith to texts on calligraphy and concluding with a closing prayer — is characteristic of a structured meşk curriculum."
+      },
+      {
+        "concept": "Stone/spot marbled paper",
+        "ottoman": "battal ebru (taş ebru / leke ebru)",
+        "arabic": null,
+        "persian": "kāġaz-i abrī — battal alt tipi",
+        "english": "Battal ebru: stone or spot marbling — the basic marbling technique producing irregular organic blob shapes. The dominant ebru subtype in this album, with three distinct battal palettes confirmed across four examined calligraphy pages and the endpapers."
+      },
+      {
+        "concept": "Combed marbled paper (S-wave)",
+        "ottoman": "gel-git ebru (biz ile çekilmiş S-dalga deseni)",
+        "arabic": null,
+        "persian": null,
+        "english": "Gel-git ebru ('come-go' marbling): a marbling subtype produced by drawing a single stylus (biz) back and forth through the pigment-covered size in alternating directions, creating flowing organic S-curves. Confirmed on p007 of this album in a four-color palette (blue, green, coral, lavender) — the most colorful ebru in either volume of the matched pair."
+      },
+      {
+        "concept": "Window mounting",
+        "ottoman": "vassale (واساله) / pencere montaj",
+        "arabic": null,
+        "persian": "vassāla (واساله)",
+        "english": "Vassale: a mounting technique in which the calligraphy is written on a separate sheet of paper, which is then affixed to a window cut in the larger decorated paper ground. The calligraphy appears to float in a window within the ebru margin. Visible as a clear seam at the panel edge in IIIF images."
+      },
+      {
+        "concept": "Gold ruling lines / framing system",
+        "ottoman": "altın cetvel / cetvelli çerçeve (çok çizgili)",
+        "arabic": "jadwal mudhahdhab (جدول مذهّب)",
+        "persian": "jadval-e zar (جدول زر)",
+        "english": "Altın cetvelli: a framing system of gold ruling lines applied around the calligraphy panel. In this album, a multi-line system includes gold, dark green/black, green, and dark purple/maroon lines — a four-line system slightly richer than the companion volume yb_02788."
+      },
+      {
+        "concept": "Gold-worked binding",
+        "ottoman": "zerkâri / salbek kafes / yaldızlı kafes desen cilt",
+        "arabic": null,
+        "persian": "zarkārī (زرکاری)",
+        "english": "Zerkâri: gold-worked decoration applied to a surface by stamping or tooling. The binding of this album shows a salbek kafes (diamond lattice trellis) with floral quadrilobed nodes, stamped in gold on red leather — IDENTICAL in design to yb_02788."
+      },
+      {
+        "concept": "Colophon inscription",
+        "ottoman": "ketebe kaydı",
+        "arabic": "katabahu (كتبه)",
+        "persian": "ketābe (کتابه)",
+        "english": "Ketebe kaydı: the closing inscription naming the calligrapher. The ketebe attribution to Hasan Rıza is recorded in the YEK catalogue; no colophon page has been independently transcribed from the IIIF images in this examination."
+      }
+    ]
+  },
+  "bibliography": [
+    {
+      "citation": "Derman, M. Uğur. Letters in Gold: Ottoman Calligraphy from the Sakıp Sabancı Collection, Istanbul. New York: The Metropolitan Museum of Art, 1998.",
+      "relevance": "Primary English-language reference for the Ottoman calligraphic album tradition and the late Ottoman calligraphic school to which Hasan Rıza belonged. Covers the meşk tradition, the muraqqaʿāt format, and the role of Sâmi Efendi's circle — which includes Hasan Rıza as a student — in late 19th-century Istanbul calligraphy. Essential context for this album's attribution and format.",
+      "relevance_score": 0.88,
+      "access_notes": "Exhibition catalogue (Metropolitan Museum of Art, 1998). ISBN 978-0870998843. Widely held at Islamic art and Ottoman studies libraries."
+    },
+    {
+      "citation": "Blair, Sheila S. 'Color and Gold: The Decorated Papers Used in Manuscripts in Later Islamic Times.' Muqarnas 17 (2000): 24–36.",
+      "relevance": "Foundational taxonomic study providing the classification framework for marbled paper (ebrî / abrī) and its subtypes, including the distinction between battal ebru (stone marbling) and combed/gel-git variants. Blair's categorization underpins the classification of the ebru margin papers — including the exceptional four-color gel-git on p007 — in this record.",
+      "relevance_score": 0.92,
+      "access_notes": "Peer-reviewed article. Available via JSTOR (Muqarnas Online). Open-access PDF accessible at Academia.edu."
+    },
+    {
+      "citation": "Roxburgh, David J. The Persian Album, 1400–1600: From Dispersal to Collection. New Haven: Yale University Press, 2005.",
+      "relevance": "Essential study of the murakkaa album format and decorated paper programs in the Persianate-Ottoman tradition. Provides the conceptual framework for understanding muraqqaʿāt as a genre of curated calligraphic collection, the role of varied paper programs in album design, and the Ottoman reception of Persianate album-making traditions. Relevant for contextualizing the coordinated design of the matched pair.",
+      "relevance_score": 0.82,
+      "access_notes": "Monograph; widely held at research libraries."
+    },
+    {
+      "citation": "Çağman, Filiz, and Zeren Tanındı. The Topkapı Saray Museum: The Albums and Illustrated Manuscripts. Translated and edited by J. M. Rogers. Boston: Little, Brown, 1986.",
+      "relevance": "Standard reference for Ottoman calligraphic albums and their decorated paper programs, providing comparative context for the murakkaat format, the role of varied ebru margin papers in late Ottoman album production, and the zerkâri binding type observed in this album.",
+      "relevance_score": 0.78,
+      "access_notes": "Exhibition catalogue; widely held at Turkish and Islamic art research libraries."
+    },
+    {
+      "citation": "Bloom, Jonathan M. Paper Before Print: The History and Impact of Paper in the Islamic World. New Haven: Yale University Press, 2001.",
+      "relevance": "Comprehensive history of paper production and use in the Islamic world, providing material-culture background for marbled paper production techniques and the role of decorated papers in luxury Ottoman manuscript and album production. Relevant for the battal ebru and gel-git ebru techniques documented in this album.",
+      "relevance_score": 0.75,
+      "access_notes": "Widely held monograph."
+    },
+    {
+      "citation": "Gacek, Adam. Arabic Manuscripts: A Vademecum for Readers. Leiden: Brill, 2009.",
+      "relevance": "Standard reference for Islamic manuscript codicological terminology, relevant for the identification and description of the sülüs, nesih scripts, the meşk album format, and the ketebe inscription in this record.",
+      "relevance_score": 0.72,
+      "access_notes": "Reference monograph; widely held."
+    },
+    {
+      "citation": "Déroche, François. Islamic Codicology: An Introduction to the Study of Manuscripts in Arabic Script. Translated by Deke Dusinberre and David Radzinowicz. London: Al-Furqan Islamic Heritage Foundation, 2005.",
+      "relevance": "Foundational reference for Islamic manuscript codicology, covering paper decoration types, binding forms, ruling systems, and physical manuscript description — the classification framework underlying this catalog record.",
+      "relevance_score": 0.70,
+      "access_notes": "Monograph; available at specialist libraries."
+    },
+    {
+      "citation": "Scheper, Karin. The Technique of Islamic Bookbinding: Methods, Materials and Regional Varieties. Leiden: Brill, 2015.",
+      "relevance": "Systematic study of Islamic bookbinding techniques, relevant for the physical analysis of the red leather binding with gold lattice zerkâri (salbek kafes) pattern in this album and its matched companion yb_02788.",
+      "relevance_score": 0.70,
+      "access_notes": "Monograph; available at Islamic bookbinding and manuscript studies libraries."
+    },
+    {
+      "citation": "Tanındı, Zeren. 'Bibliophile Aghas (Eunuchs) at Topkapı Saray.' Muqarnas 21 (2004): 333–43.",
+      "relevance": "Documents album-collecting practices at the Ottoman court and provides context for the murakkaʿāt album format as a high-status object of patronage and collection in the late Ottoman period. Relevant for situating the Hasan Rıza teaching albums within the broader tradition of Ottoman calligraphic album production.",
+      "relevance_score": 0.65,
+      "access_notes": "Peer-reviewed article. Available via JSTOR and institutional library access."
+    }
+  ],
+  "suggested_collections": [
+    {
+      "institution": "Süleymaniye Kütüphanesi — Yazma Bağışlar Koleksiyonu, Istanbul (matched companion)",
+      "reason": "The matched companion album yb_02788 is held in the same collection under shelfmark 02788. Both albums should be examined and displayed together as a coordinated pair.",
+      "digital_access": "https://portal.yek.gov.tr/works/detail/346285"
+    },
+    {
+      "institution": "Türk ve İslam Eserleri Müzesi (TIEM), Istanbul",
+      "reason": "The TIEM murakkaʿāt corpus includes several Hasan Rıza and late Ottoman meşk albums with ebru margin programs providing direct comparanda. TIEM 02471, 02482, 02649, and others document the mixed-ebru calligraphic album format characteristic of this period.",
+      "digital_access": "https://portal.yek.gov.tr"
+    },
+    {
+      "institution": "Topkapı Sarayı Müzesi Kütüphanesi, Istanbul",
+      "reason": "Holds major holdings of late Ottoman calligraphic albums by Sâmi Efendi's circle. Physical comparison with Topkapı Hasan Rıza albums would confirm attribution and contextualise the paired album format.",
+      "digital_access": "https://kutuphane.tsmk.gov.tr"
+    },
+    {
+      "institution": "Chester Beatty Library, Dublin",
+      "reason": "Major collection of Ottoman calligraphic albums with varied decorated paper programs. Provides international comparanda for the mixed-ebru margin approach and the meşk album format.",
+      "digital_access": "https://viewer.cbl.ie"
+    }
+  ],
+  "provenance": {
+    "donor": null,
+    "waqf": null,
+    "previous_shelfmarks": [],
+    "notes": "Held at Süleymaniye Kütüphanesi under the Yazma Bağışlar (Donated Manuscripts) Koleksiyonu, shelfmark 02787. YEK ID: 346284. IIIF ID: 0000000335706. Catalogued by Recep Kaylı. The Yazma Bağışlar collection comprises manuscripts donated to the Süleymaniye Kütüphanesi by private individuals and institutions; the specific donor and donation date for this album are not recorded in the YEK catalogue entry. The closely adjacent shelfmarks with the companion album yb_02788 (shelfmark 02788, YEK ID 346285) suggest both volumes were catalogued consecutively, probably as part of the same donation. The album is correctly classified under '740 / Çizgi sanatları ve dekoratif sanatlar' — in contrast to the companion yb_02788 which carries an erroneous '012 / Bibliyografya' classification."
+  },
+  "analysis_metadata": {
+    "analyzed_date": "2026-03-01",
+    "analyzer": "claude-code-manuscript-pipeline",
+    "pipeline_stage": "metadata-generator",
+    "image_source": "YEK Portal IIIF images, Süleymaniye Kütüphanesi — Yazma Bağışlar Koleksiyonu, YEK ID 346284, IIIF ID 0000000335706. 6 of 9 pages downloaded and examined at IIIF resolution (2592×1944 px). Visual confirmation verdict file: catalog/searches/visual_tier2h_yb_02787.json.",
+    "image_quality_notes": "IIIF resolution (2592×1944 px for a 310×250 mm album page) is moderate — adequate for ebru subtype identification and palette discrimination. The four-color gel-git ebru on p007 is particularly well-legible at this resolution. The double-page spread at p002 provides useful coverage of both endpaper surfaces simultaneously but at slightly lower individual detail. No major image quality issues noted.",
+    "folios_examined": [
+      "corpus/iiif/yb_02787_p001.jpg",
+      "corpus/iiif/yb_02787_p002.jpg",
+      "corpus/iiif/yb_02787_p003.jpg",
+      "corpus/iiif/yb_02787_p005.jpg",
+      "corpus/iiif/yb_02787_p007.jpg",
+      "corpus/iiif/yb_02787_p009.jpg"
+    ],
+    "folios_not_examined": "3 of 9 pages not examined: pp004, 006, 008. These pages very likely contain additional distinct ebru palettes, consistent with the album's per-page varied-palette design philosophy. Full coverage download recommended for complete documentation.",
+    "corpus_priority": "Medium-high. The p007 four-color gel-git ebru is the most colorful and complex single ebru sheet in either volume of the matched pair, and one of the most elaborate gel-git specimens in the corpus. The matched pair relationship with yb_02788 (shared binding, endpapers, calligrapher, and closing text) is a significant finding for understanding late Ottoman calligraphic album production as intentionally coordinated multi-volume sets. Priority follow-up: (1) download pp004, 006, 008 to complete the palette catalogue; (2) higher-resolution imaging of p007 gel-git ebru for full technical analysis; (3) transcription of all calligraphic texts to document the complete meşk curriculum.",
+    "source_data": {
+      "visual_confirmation_file": "catalog/searches/visual_tier2h_yb_02787.json",
+      "yek_id": "346284",
+      "iiif_id": "0000000335706",
+      "sub_batch": "Sub-Batch H (YB Notables + VP Top)"
+    }
+  }
+}

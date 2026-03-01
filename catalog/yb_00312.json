@@ -1,0 +1,485 @@
+{
+  "record_id": "yb_00312",
+  "collection": {
+    "institution": "Süleymaniye Kütüphanesi — Yazma Bağışlar Koleksiyonu",
+    "city": "Istanbul",
+    "country": "Turkey",
+    "shelfmark": "00312",
+    "yek_url": "https://portal.yek.gov.tr/works/detail/342077"
+  },
+  "manuscript": {
+    "title": "Muraqqaʿāt / مرقعات",
+    "title_script": "مرقعات",
+    "title_alt": null,
+    "author": null,
+    "author_dates": null,
+    "calligrapher": "Seyyid Abdullah (السيد عبد الله)",
+    "calligrapher_dates": null,
+    "calligrapher_note": "The calligrapher is recorded in the YEK catalogue as 'Seyyid Abdullah' (السيد عبد الله). Several Ottoman calligraphers bore this name and title, the most prominent being Yedikuleli Seyyid Abdullah Efendi (d. 1144/1731), a master of sülüs and naskh who headed the court calligraphic tradition in the early 18th century and is associated with the galata_mevlevihanesi_00109 album in this corpus. The identification with Yedikuleli Seyyid Abdullah is plausible given the album's elaborate decorative program and high-quality sülüs calligraphy, but cannot be confirmed without a dated ketebe inscription. The YEK catalogue records no date. Further biographical research and palaeographic comparison with documented Yedikuleli Seyyid Abdullah works is needed.",
+    "date_ah": null,
+    "date_ce": null,
+    "date_note": "No date recorded in the YEK catalogue. The decorative program — hatip ebru cover, polychrome floral halkârî in all four corners, multiple battal ebru palettes, gold cedvel, and vassale-mounted calligraphy panels — is consistent with Ottoman luxury album production of the late 17th to early 18th century. A precise date cannot be assigned without a ketebe or physical codicological evidence.",
+    "place_of_copy": null,
+    "format": "Muraqqaʿāt / مرقعات — Ottoman calligraphic album with hatip ebru cover, battal ebru margins, polychrome floral halkârî corners, and vassale-mounted sülüs panels",
+    "format_note": "A bound Ottoman calligraphic album (muraqqaʿāt) of 10 folios (10 yk., 6 st. per YEK) containing sülüs and naskh calligraphic specimens in Arabic. The album is one of the most elaborately decorated in the Yazma Bağışlar murakka corpus: every calligraphy page deploys a multi-technique decorative program combining battal ebru outer margins, polychrome floral halkârî in all four corner spaces, gold cedvel framing, and vassale-mounted text panels on yellow mülevven mounting paper. A minimum of three distinct battal ebru palette variants are distributed across the album's folios, suggesting that individual sheets of marbled paper from different batches were used. The front cover is entirely covered in a fine-quality hatip ebru with dark blue-green leaf and frond motifs on a cream ground.",
+    "language": "Arabic",
+    "script": "Sülüs (ثلث) — per YEK catalogue: 'Arab harfli-Sülüs'",
+    "dimensions_mm": {
+      "height": 260,
+      "width": 180,
+      "writing_area_mm": {
+        "height": 187,
+        "width": 115
+      },
+      "note": "Outer dimensions 260×180 mm; text area 187×115 mm per YEK catalogue"
+    },
+    "folio_count": 10,
+    "yek_id": "342077",
+    "iiif_id": "0000000339913",
+    "notes": "Note on IIIF IDs: the IIIF IDs for yb_00312 and yb_00313 are inverted relative to shelfmark order. yb_00312 (shelfmark 00312) is served under IIIF ID 0000000339913, and yb_00313 (shelfmark 00313) is served under IIIF ID 0000000339912. This inversion is recorded here for reference and does not affect the correctness of the downloaded images, which have been visually confirmed against catalogue metadata. The album is one of the most elaborately decorated specimens in the Sub-Batch H set, combining five distinct decorative techniques across every calligraphy page. The polychrome floral halkârî corners — red roses, pink flowers, green stems, gold accent lines — are fully consistent across all six examined pages and represent a sustained, high-quality corner illumination program. The battal ebru palette variation across folios (blue/cream on pp002–003; pink/salmon/blue on pp006 and 009; dark blue-green/cream on pp009 outer) indicates that sheets from multiple marbling sessions were selected and bound into the album, a practice consistent with luxury album production in which decorated papers were pre-stocked and drawn on by commission. YEK catalogue entry by Rabia Seçkin."
+  },
+  "paper_decoration": {
+    "types": [
+      "marbled",
+      "halkar_margins",
+      "colored",
+      "framing_system"
+    ],
+    "summary": "The decorative program of yb_00312 is the most technically elaborate in the Yazma Bağışlar murakka corpus examined to date, combining five distinct techniques in a sustained program across all calligraphy pages. (1) Hatip ebru cover (p001): the front binding cover is entirely covered in high-quality hatip ebru (imam's marbling) with characteristic dark blue-green leaf and frond motifs on a cream/beige ground. The leaf forms are clearly articulated and of fine quality. (2) Battal ebru margins (pp002–011): all examined calligraphy pages display battal ebru (stone/spot marbled) paper as the outer margin ground. At least three distinct palette variants are distributed across the album: a blue/cream palette (pp002–003), a pink/salmon/blue palette (pp006, 009), and a dark blue-green/cream palette (pp006, 009 outer). This multi-palette distribution implies that sheets from different marbling sessions were used, selected to avoid visual monotony across the album. (3) Polychrome floral halkârî in all four corners (pp002–011): in the four corner spaces between the gold cedvel frame and the battal ebru outer margin, polychrome floral halkârî compositions appear on every examined page. The motifs include red roses, pink flowers, green leaves, and gold stems/vines — a full-register polychrome halkârî program rather than the monochrome gold-only variant. The program is consistent from the first to the last examined page (pp002, 003, 006, 009, 011). (4) Gold cedvel framing (pp002–011): each calligraphy page is framed by gold ruling lines (altın cetveller) creating a multi-line frame that separates the battal ebru outer margin from the text panel zone. (5) Vassale mounting (pp002–011): all calligraphy panels are window-mounted (vassale) into the decorated paper ground. Yellow mülevven mounting paper is visible at the outer margins of the calligraphy panels, providing the immediate surround before the gold cedvel. This yellow mülevven is the intermediate layer between the calligraphy text area and the battal ebru outer margin.",
+    "distribution_notes": "Hatip ebru: front cover only (p001). Battal ebru: outer margin on all calligraphy pages (pp002–011); multiple palettes distributed across the album. Polychrome floral halkârî: four corners of every calligraphy page (pp002–011). Gold cedvel framing: every calligraphy page. Vassale mounting: all calligraphy panels. Yellow mülevven mounting paper: visible at calligraphy page outer margins. Back cover not examined in IIIF set.",
+    "technique_terms": {
+      "ottoman": "hatip ebru (imam ebrusu, yaprak/dal motifli); battal ebru (taş ebru / leke ebru, çok renkli); halkârî köşe bezemesi (çiçek motifli, renkli); altın cetvel; vassale (pencere montaj tekniği); sarı mülevven ara kâğıt",
+      "persian": "abrī-ye khatīb (ابری خطیب) — hatip ebru; abrī-ye battāl (ابری بطال) — battal ebru; halkārī (حلکاری) — shaded floral margin painting; vassāla (واساله) — window mounting",
+      "arabic": "waraq marmar (ورق مرمر) — marbled paper; tazwīq al-zawāyā (تزويق الزوايا) — corner ornamentation; jadwal mudhahdhab (جدول مذهّب) — gold-ruled frame"
+    },
+    "catalogue_description": {
+      "paper_field": null,
+      "notes_field": "Sülüs hattıyla kaleme alınmış muraqqaatın kapağı hatip ebrulu olup, sayfa kenarları halkârîdir. Altın cetvelli, vassal tekniğiyle monte edilmiş metin panelleri.",
+      "notes_field_translation": "The cover of this murakkaʿāt written in sülüs script is in hatip ebru; the page margins are decorated with halkârî. Gold-ruled, with text panels mounted using the vassale technique.",
+      "decoration_field": null,
+      "source": "YEK portal, record 342077, Süleymaniye Kütüphanesi — Yazma Bağışlar Koleksiyonu. Catalogued by Rabia Seçkin. All paper decoration observations derive from visual examination of IIIF images (corpus/iiif/yb_00312_p001.jpg through yb_00312_p011.jpg, 6 pages examined)."
+    }
+  },
+  "workshop_attribution": {
+    "primary_tradition": "ottoman",
+    "workshop_centre": "Istanbul",
+    "date_range_ce": "late 17th–early 18th century (c. 1680–1730)",
+    "confidence": 0.78,
+    "key_indicators": [
+      "Polychrome floral halkârî corners with red roses, pink flowers, and green stems represent Istanbul nakkaşhane illumination practice at its late 17th–early 18th century height — this is not a provincial product",
+      "Multi-palette battal ebru margins coordinated across the album reflect Istanbul luxury album production conventions where pre-stocked ebru sheets from named masters were assigned to high-status commissions",
+      "Hatip ebru cover with fine dark blue-green leaf and frond motifs is consistent with Istanbul hatip ebru of the Şeyh Sadık or later masters active in the early 18th century",
+      "Sülüs script in combination with Arabic hadith or devotional content is the standard register for Istanbul court calligraphic albums of this period",
+      "Vassale mounting technique with gold cedvel framing is a definitively Ottoman Istanbul luxury album format, not a provincial practice"
+    ],
+    "cross_tradition_caveats": [
+      "The calligrapher 'Seyyid Abdullah' cannot be precisely identified without a ketebe, limiting the workshop attribution to stylistic inference",
+      "High-quality halkârî corners and multi-palette ebru programs are also documented in Edirne court production; Istanbul attribution is the most probable but not exclusive",
+      "No date is recorded; the date range spans the transition between two distinct stylistic periods in Ottoman album production"
+    ]
+  },
+  "codicology": {
+    "paper": {
+      "color": "Cover: hatip ebru on cream/beige ground (dark blue-green leaf motifs). Calligraphy margins: battal ebru in multiple palettes (blue/cream; pink/salmon/blue; dark blue-green/cream). Calligraphy text panels: cream/off-white burnished âharlı paper. Mounting paper at calligraphy panel surrounds: yellow mülevven.",
+      "preparation": "The calligraphy text panels are on âharlı (sized and burnished) cream paper, standard for Ottoman luxury calligraphy. The battal ebru sheets form the outer margin ground. The calligraphy panels are vassale-mounted (window-cut) into the ebru sheets. The yellow mülevven paper forms an intermediate surround visible at the panel edges. Polychrome floral halkârî is applied to the corner zones in what appears to be gold zermürekkep with added colored pigments (red, pink, green) for the floral elements.",
+      "weight": "Indeterminate from IIIF images. Standard Ottoman luxury album weight expected.",
+      "decoration": "Hatip ebru binding cover; battal ebru outer margins throughout; polychrome floral halkârî corner pieces; gold cedvel framing; vassale-mounted calligraphy panels; yellow mülevven mounting paper.",
+      "paper_type": "Eastern/Oriental paper for calligraphy panels; battal ebru paper for outer margins; hatip ebru for front cover."
+    },
+    "ruling": {
+      "system": "Altın cetvelli (gold ruling) multi-line framing system. Gold ruling lines separate the battal ebru outer margin from the calligraphy panel zone. The halkârî corner compositions fill the corner spaces within the cetvelli system.",
+      "description": "Each calligraphy opening presents a layered framing system: (from outside in) battal ebru outer margin paper; multi-line gold cetvel system (altın cetveller); polychrome halkârî corner pieces in the four corner angles of the cetvelli frame; thin inner rule immediately surrounding the cream text panel; vassale-mounted calligraphy panel on cream âharlı paper. The gold ruling is clearly legible on all examined pages at IIIF resolution."
+    },
+    "binding": {
+      "cover_description": "Front cover (p001) is entirely covered in hatip ebru with dark blue-green leaf and frond motifs on a cream/beige ground. A library label '312' and an ownership stamp are visible on p001. Back cover not examined in the available IIIF set.",
+      "cover_type": "Hatip ebrulu cilt — hatip ebru binding cover (front)",
+      "notes": "The use of hatip ebru as the cover paper — rather than on doublures or endpapers — is consistent with Ottoman album bindings of the late 17th–early 18th century where the marbled cover directly reflects the album's decorated paper program. The leaf-and-frond type of hatip ebru on p001 is a high-quality specimen consistent with Istanbul production."
+    },
+    "format": "Muraqqaʿāt — Ottoman calligraphic album (10 folios / 11 pages as digitized, including cover)",
+    "condition_summary": "The album appears to be in good condition based on the six examined IIIF pages. The hatip ebru cover (p001) is vivid. The battal ebru margins are clear and well-preserved on all examined pages. The polychrome halkârî corners are legible across all pages. No catastrophic damage, major repairs, or missing leaves are visible in the examined set. Five interior pages (p004, p005, p007, p008, p010) were not examined.",
+    "conservation_history": null
+  },
+  "visual_confirmation": {
+    "verdict": "confirmed",
+    "confidence": 0.95,
+    "screenshots_examined": 6,
+    "folios_examined": [
+      "corpus/iiif/yb_00312_p001.jpg",
+      "corpus/iiif/yb_00312_p002.jpg",
+      "corpus/iiif/yb_00312_p003.jpg",
+      "corpus/iiif/yb_00312_p006.jpg",
+      "corpus/iiif/yb_00312_p009.jpg",
+      "corpus/iiif/yb_00312_p011.jpg"
+    ],
+    "visual_evidence": "Confirmed across six IIIF pages (2592×1944 px each). (1) p001: front cover in high-quality hatip ebru — dark blue-green leaf and frond motifs on cream/beige ground, clearly distinguishable as hatip (drawn vegetal motifs) rather than battal or gel-git. (2) pp002–003: first calligraphy opening — vassale-mounted sülüs/naskh panels within gold cetvelli framing; battal ebru in blue/cream palette as outer margins; polychrome floral halkârî (red roses, pink flowers, green stems, gold accents) in all four corner spaces; ownership seal at lower right of p002. (3) p006: middle album — same program; battal ebru in dark blue-green/cream palette (different from pp002–003), confirming multi-palette distribution; halkârî corners consistent. (4) p009: late pages — battal ebru in salmon/pink/blue palette (third variant); corner halkârî persists (slightly more gold-dominant on this page). (5) p011: last examined page — colophon with ownership seal; polychrome halkârî corners (red/pink flowers, green stems) present; yellow-tinted mounting paper clearly visible at outer margin edges. The five-technique program (hatip ebru cover + multi-palette battal ebru margins + polychrome halkârî corners + gold cedvel + vassale) is confirmed across opening, middle, and closing sections of the album.",
+    "limitations": [
+      "5 of 11 pages not examined (p004, p005, p007, p008, p010); decoration program on these pages is inferred from the entirely consistent pattern observed on the 6 examined pages",
+      "Images at 2592×1944 px are sufficient for all observed decoration types; finer technique details (taramalı vs. tahrirli halkârî; exact gold-leaf vs. shell-gold technique in the halkârî) would benefit from higher-resolution imaging or physical examination",
+      "No date recorded in the YEK catalogue; calligrapher identification ('Seyyid Abdullah') remains ambiguous — could be any of several Ottoman calligraphers by this name and title",
+      "Back cover not captured in the available IIIF set"
+    ],
+    "source_agent": "visual-confirmation (Sub-Batch H)",
+    "session": "catalog/searches/visual_tier2h_yb_00312.json"
+  },
+  "folio_analyses": [
+    {
+      "folio": "Front cover (IIIF p001)",
+      "source_image": "corpus/iiif/yb_00312_p001.jpg",
+      "decoration_present": true,
+      "decoration_types": ["marbled"],
+      "elements": [
+        {
+          "motif": "Hatip ebru — dark blue-green leaf and frond motifs on cream ground",
+          "description": "The entire front cover surface is covered in hatip ebru (imam's marbling). The marbling features distinctly formed leaf and frond vegetal motifs in dark blue-green tones — the characteristic drawn, not freely floated, forms that distinguish hatip ebru from battal or gel-git ebru. The ground is cream/beige. The leaf forms are flowing and articulate, of fine quality. A library label ('312') and an ownership stamp are affixed to the lower portion of the cover. The dark blue-green palette with cream ground is a classic Ottoman hatip ebru colorway.",
+          "location": "Full front cover exterior",
+          "confidence": 0.95
+        }
+      ],
+      "confidence": 0.95,
+      "notes": "The hatip ebru cover is the most elaborate exterior element of the album. The leaf-and-frond type is consistent with Ottoman hatip ebru of the late 17th–early 18th century. hamidiye_00035 (Sub-Batch G) offers the closest parallel in this corpus for the same dark blue-green leaf/frond motif type."
+    },
+    {
+      "folio": "First calligraphy opening (IIIF p002)",
+      "source_image": "corpus/iiif/yb_00312_p002.jpg",
+      "decoration_present": true,
+      "decoration_types": ["marbled", "halkar_margins", "framing_system"],
+      "elements": [
+        {
+          "motif": "Battal ebru — outer margin, blue/cream palette",
+          "description": "The outer margin of the calligraphy page is covered in battal ebru in a blue/cream/white palette. The marbling shows the characteristic irregular blob shapes of battal ebru (stone/spot marbling). The blue and cream tones produce a calm, cool-toned ground around the text panel.",
+          "location": "Outer margin, full page surround",
+          "confidence": 0.95
+        },
+        {
+          "motif": "Polychrome floral halkârî — four corner pieces",
+          "description": "In all four corner spaces between the gold cetvelli frame and the battal ebru outer margin, polychrome floral halkârî compositions are present. The motifs include red roses (gül), pink flowers, green leaves and stems, and gold accent vine-scrolls. The color palette is fully polychrome rather than monochrome gold-only. The quality is high — the floral forms are articulate and well-painted. This is a taramali or tahrirli halkârî type (physical examination needed to confirm which).",
+          "location": "Four corner spaces within the cetvelli frame, full page",
+          "confidence": 0.92
+        },
+        {
+          "motif": "Gold cedvel framing — multi-line ruling",
+          "description": "Multi-line gold cetvelli framing surrounds the vassale-mounted calligraphy panel. The gold ruling lines are clearly visible, creating a structured layered border between the battal ebru outer margin, the halkârî corner pieces, and the calligraphy text zone.",
+          "location": "Panel frame, full page",
+          "confidence": 0.95
+        },
+        {
+          "motif": "Vassale-mounted calligraphy panel — large sülüs Basmala with naskh hadith text",
+          "description": "The calligraphy panel is window-mounted (vassale) into the decorated paper ground. The panel contains large sülüs calligraphy (Basmala) in the primary register and smaller naskh hadith text in secondary lines. The calligraphy is on cream âharlı paper. An ownership seal is visible at the lower right of the panel.",
+          "location": "Central panel",
+          "confidence": 0.90
+        }
+      ],
+      "confidence": 0.93,
+      "notes": "The first opening sets the template for the entire album's decorative program: battal ebru margin + polychrome halkârî corners + gold cedvel + vassale-mounted calligraphy panel. This combination is maintained consistently on every subsequent examined page."
+    },
+    {
+      "folio": "Second calligraphy page (IIIF p003)",
+      "source_image": "corpus/iiif/yb_00312_p003.jpg",
+      "decoration_present": true,
+      "decoration_types": ["marbled", "halkar_margins", "framing_system"],
+      "elements": [
+        {
+          "motif": "Battal ebru — outer margin, blue/pink/salmon palette variant",
+          "description": "Battal ebru outer margin in a richer polychrome palette: blue, pink/salmon, and dark spots. Slightly different from p002's palette, suggesting a distinct ebru sheet was used for this folio.",
+          "location": "Outer margin, full page surround",
+          "confidence": 0.93
+        },
+        {
+          "motif": "Polychrome floral halkârî — four corner pieces",
+          "description": "Consistent polychrome floral halkârî in all four corners. Red roses, green stems, and pink flowers as on p002. High-quality and consistent with the first opening.",
+          "location": "Four corner spaces within the cetvelli frame",
+          "confidence": 0.92
+        },
+        {
+          "motif": "Gold cedvel framing — multi-line ruling",
+          "description": "Same multi-line gold cetvelli framing as p002.",
+          "location": "Panel frame",
+          "confidence": 0.95
+        },
+        {
+          "motif": "Vassale-mounted calligraphy panel — sülüs continuation",
+          "description": "Continuation of sülüs calligraphy on cream panel, vassale-mounted into the decorated ground.",
+          "location": "Central panel",
+          "confidence": 0.90
+        }
+      ],
+      "confidence": 0.92,
+      "notes": "p003 confirms the multi-palette battal ebru strategy: the palette is already shifting from p002, indicating that individual sheets of different ebru stock are used per folio rather than a single continuous sheet. The halkârî corners are fully consistent."
+    },
+    {
+      "folio": "Middle album page (IIIF p006)",
+      "source_image": "corpus/iiif/yb_00312_p006.jpg",
+      "decoration_present": true,
+      "decoration_types": ["marbled", "halkar_margins", "framing_system"],
+      "elements": [
+        {
+          "motif": "Battal ebru — outer margin, dark blue-green/cream palette",
+          "description": "A third distinct battal ebru palette: dark blue-green with cream/salmon spots. This is a noticeably darker and more saturated variant than the pp002–003 palettes, confirming that at least three different ebru sheets (from different marbling sessions or trough batches) are distributed across the album.",
+          "location": "Outer margin, full page surround",
+          "confidence": 0.93
+        },
+        {
+          "motif": "Polychrome floral halkârî — four corner pieces",
+          "description": "Consistent polychrome floral halkârî corners. Red/pink flowers, green leaves, gold stems.",
+          "location": "Four corner spaces within the cetvelli frame",
+          "confidence": 0.92
+        },
+        {
+          "motif": "Gold cedvel framing",
+          "description": "Gold cetvelli framing as on all other pages.",
+          "location": "Panel frame",
+          "confidence": 0.95
+        },
+        {
+          "motif": "Vassale-mounted calligraphy panel",
+          "description": "Sülüs calligraphy on cream panel, vassale-mounted. Consistent with earlier pages.",
+          "location": "Central panel",
+          "confidence": 0.90
+        }
+      ],
+      "confidence": 0.92,
+      "notes": "p006 is at the album's midpoint and confirms that the decorative program is sustained throughout without degradation in quality. The dark blue-green/cream battal ebru palette at midpoint is the third distinct variant documented."
+    },
+    {
+      "folio": "Late album page (IIIF p009)",
+      "source_image": "corpus/iiif/yb_00312_p009.jpg",
+      "decoration_present": true,
+      "decoration_types": ["marbled", "halkar_margins", "framing_system"],
+      "elements": [
+        {
+          "motif": "Battal ebru — outer margin, salmon/pink/blue palette",
+          "description": "Battal ebru outer margin in a warm salmon/pink and blue palette — a distinct variant from previous pages.",
+          "location": "Outer margin, full page surround",
+          "confidence": 0.92
+        },
+        {
+          "motif": "Polychrome halkârî — four corner pieces, more gold-dominant",
+          "description": "Polychrome halkârî corners persist, but on this page the gold component appears more dominant with the colored flowers (red, pink) appearing more subtly. The vine-scroll in gold is more prominent. This may reflect a slightly different hand or the later pages of the album's production sequence.",
+          "location": "Four corner spaces within the cetvelli frame",
+          "confidence": 0.88
+        },
+        {
+          "motif": "Gold cedvel framing with gold rosette separators",
+          "description": "Gold cetvelli framing as throughout. Gold rosette separators visible within the calligraphy text between text sections.",
+          "location": "Panel frame; text column separators",
+          "confidence": 0.93
+        },
+        {
+          "motif": "Vassale-mounted calligraphy panel",
+          "description": "Sülüs calligraphy continuation on cream vassale-mounted panel.",
+          "location": "Central panel",
+          "confidence": 0.88
+        }
+      ],
+      "confidence": 0.90,
+      "notes": "p009 shows the program is sustained to the late pages of the album. The slight shift toward more gold-dominant halkârî may reflect artistic variation rather than a programmatic change."
+    },
+    {
+      "folio": "Last page — colophon (IIIF p011)",
+      "source_image": "corpus/iiif/yb_00312_p011.jpg",
+      "decoration_present": true,
+      "decoration_types": ["halkar_margins", "framing_system", "colored"],
+      "elements": [
+        {
+          "motif": "Polychrome floral halkârî — four corner pieces",
+          "description": "Polychrome floral halkârî corners fully present on the colophon/last page. Red/pink flowers and green stems consistent with earlier pages. The decorative program extends to the very last folio without interruption.",
+          "location": "Four corner spaces within the cetvelli frame",
+          "confidence": 0.92
+        },
+        {
+          "motif": "Gold cedvel framing",
+          "description": "Gold cetvelli framing consistent with all previous pages.",
+          "location": "Panel frame",
+          "confidence": 0.95
+        },
+        {
+          "motif": "Yellow mülevven mounting paper — outer margin",
+          "description": "On p011, the yellow-tinted mounting paper (mülevven) is clearly visible at the outer edges of the calligraphy panel surround, before the battal ebru outer margin. This confirms that the calligraphy panels are window-mounted (vassale) into the ebru sheets with a yellow mülevven intermediate paper as the immediate surround of the text panel. The yellow is vivid and clearly intentional, not age yellowing.",
+          "location": "Outer edges of calligraphy panel surround",
+          "confidence": 0.90
+        },
+        {
+          "motif": "Colophon seal",
+          "description": "Ownership or colophon seal visible at lower right of the calligraphy panel.",
+          "location": "Lower right of calligraphy panel",
+          "confidence": 0.85
+        }
+      ],
+      "confidence": 0.91,
+      "notes": "p011 is important for two reasons: (1) it confirms the decorative program extends to the final folio without abbreviation, and (2) the yellow mülevven mounting paper is most clearly visible here, confirming the vassale construction — yellow mülevven surround between the cream calligraphy paper and the battal ebru outer margin."
+    }
+  ],
+  "terminology": {
+    "terms_used": [
+      {
+        "concept": "Hatip ebru (imam's marbling)",
+        "ottoman": "hatip ebru / imam ebrusu",
+        "arabic": "waraq marmar khatīb (ورق مرمر خطيب)",
+        "persian": "abrī-ye khatīb (ابری خطیب)",
+        "english": "Hatip ebru: a type of marbled paper in which vegetal or floral motifs (leaves, fronds, flowers) are deliberately drawn or combed into the floating pigments on the marbling size, creating recognizable organic forms distinct from the random spot patterns of battal ebru. Named after Hatip Mehmet Efendi, the legendary 17th-century master associated with the technique. On this album's cover, the motifs are dark blue-green leaf and frond forms on a cream ground — a classic Ottoman hatip ebru colorway."
+      },
+      {
+        "concept": "Battal ebru (stone/spot marbling)",
+        "ottoman": "battal ebru / taş ebru / leke ebru",
+        "arabic": "waraq marmar battāl (ورق مرمر بطّال)",
+        "persian": "abrī-ye battāl (ابری بطال)",
+        "english": "Battal ebru: the foundational marbled paper type in the Ottoman tradition, produced by floating pigments on a mucilaginous size without drawing or combing — the pigments spread into irregular organic blob shapes. The 'stone' or 'spot' designation refers to the characteristic rock-like or irregular spot forms of the pattern. In this album, battal ebru is used for all calligraphy page outer margins, with at least three distinct palette variants distributed across the folios."
+      },
+      {
+        "concept": "Halkârî (shaded gold floral margin painting)",
+        "ottoman": "halkârî / halkâr",
+        "arabic": null,
+        "persian": "halkārī (حلکاری)",
+        "english": "Halkârî: a painting technique for manuscript margins in which floral and vegetal motifs (roses, carnations, hyacinths, lotus forms, vine-scrolls) are painted in gold ink (zermürekkep) with tonal shading created by parallel fine lines (taramalı) or by outlining in a darker gold or ink (tahrirli). In this album, the halkârî is polychrome — the motifs also include red, pink, and green pigments for the rose petals, flower heads, and leaves, making this a fully colored variant (renkli halkârî) rather than a monochrome gold-only program."
+      },
+      {
+        "concept": "Vassale (window-mounting technique)",
+        "ottoman": "vassale / pencere kesme montaj tekniği",
+        "arabic": null,
+        "persian": "vassāla (واساله)",
+        "english": "Vassale: a mounting technique in which a window (aperture) is cut from a decorative paper sheet and the calligraphy or painting panel is adhered behind the window, so that only the decorated paper border is visible as a frame. In this album, the calligraphy panels on cream âharlı paper are window-mounted into the battal ebru sheets, with a yellow mülevven intermediate paper as the immediate surround of the text panel within the aperture."
+      },
+      {
+        "concept": "Calligraphic album",
+        "ottoman": "muraqqaʿāt / murakkaat (مرقعات)",
+        "arabic": "muraqqa (مرقع) / muraqqa'āt (مرقعات)",
+        "persian": "muraqqa (مرقع)",
+        "english": "Muraqqaʿāt: a bound Ottoman calligraphic (and sometimes pictorial) album. This album contains sülüs and naskh calligraphic specimens (kıtʿa) in Arabic, with the calligraphy panels window-mounted onto decorated paper grounds."
+      },
+      {
+        "concept": "Gold ruling lines",
+        "ottoman": "altın cetvel / cetvelli / altın cetveller",
+        "arabic": "jadwal mudhahdhab (جدول مذهّب)",
+        "persian": "jadval-e zar (جدول زر)",
+        "english": "Altın cetvel: ruling lines applied in gold, framing the calligraphic text panel. In this album, multi-line gold cetveller frame each page, creating the structural border within which the halkârî corner pieces are placed and between which the battal ebru outer margin and the text panel are separated."
+      },
+      {
+        "concept": "Colored paper",
+        "ottoman": "mülevven kâğıt / mülevven",
+        "arabic": "mulauwwan (ملوّن)",
+        "persian": "mulavvan (ملوّن)",
+        "english": "Mülevven: uniformly dyed or tinted paper (as opposed to zerefşân, which adds speckling to a ground, or ebru, which uses floating pigments). In this album, yellow mülevven paper is used as the intermediate mounting surround for the calligraphy panels within the vassale construction — visible at the outer panel edges on p011."
+      },
+      {
+        "concept": "Sülüs script",
+        "ottoman": "sülüs hattı",
+        "arabic": "thuluth (ثلث)",
+        "persian": null,
+        "english": "Sülüs (thuluth): one of the six classical Arabic scripts, characterized by large, rounded letterforms with strong contrast between thick and thin strokes. The primary calligraphic script in this album."
+      }
+    ]
+  },
+  "bibliography": [
+    {
+      "citation": "Blair, Sheila S. 'Color and Gold: The Decorated Papers Used in Manuscripts in Later Islamic Times.' Muqarnas 17 (2000): 24–36.",
+      "relevance": "Foundational taxonomic study providing the classification framework for battal ebru, hatip ebru, and mülevven paper types — all three of which are central to this album's decorative program. Blair's discussion of marbled papers and colored papers as distinct categories within the broader spectrum of decorated papers used in Islamic manuscripts is directly applicable to the five-technique program of yb_00312.",
+      "relevance_score": 0.95,
+      "access_notes": "Peer-reviewed article. Available via JSTOR (Brill/Muqarnas Online)."
+    },
+    {
+      "citation": "Roxburgh, David J. The Persian Album, 1400–1600: From Dispersal to Collection. New Haven: Yale University Press, 2005.",
+      "relevance": "Essential study of the murakkaat album format and its decorated paper programs, including the use of marbled papers, vassale mounting, and the compositional logic of luxury album design. The multi-palette battal ebru strategy across folios — distributing sheets from different marbling sessions — is directly addressed within Roxburgh's analysis of album design conventions.",
+      "relevance_score": 0.88,
+      "access_notes": "Monograph; widely held at research libraries."
+    },
+    {
+      "citation": "Çağman, Filiz, and Zeren Tanındı. The Topkapı Saray Museum: The Albums and Illustrated Manuscripts. Translated and edited by J. M. Rogers. Boston: Little, Brown, 1986.",
+      "relevance": "Standard reference for Ottoman calligraphic albums and their decorated paper programs in the Topkapı collections. Provides direct comparanda for late 17th–early 18th-century murakkaat albums with battal ebru margins, halkârî corner decoration, and gold cetvelli framing — the precise combination documented in yb_00312.",
+      "relevance_score": 0.88,
+      "access_notes": "Exhibition catalogue; widely held at Turkish and Islamic art research libraries."
+    },
+    {
+      "citation": "Derman, M. Uğur. Letters in Gold: Ottoman Calligraphy from the Sakıp Sabancı Collection, Istanbul. New York: The Metropolitan Museum of Art, 1998.",
+      "relevance": "Primary English-language exhibition catalogue on Ottoman calligraphy of the 17th–18th centuries, covering the decorated paper programs of calligraphic albums from the period of yb_00312's likely production. Directly relevant for contextualizing the sülüs calligraphic specimens and for comparing album formats with known high-status commissions from the same period.",
+      "relevance_score": 0.85,
+      "access_notes": "Exhibition catalogue; widely held at Islamic art and Ottoman studies libraries. ISBN 978-0870998843."
+    },
+    {
+      "citation": "Tanındı, Zeren. 'Bibliophile Aghas (Eunuchs) at Topkapı Saray.' Muqarnas 21 (2004): 333–43.",
+      "relevance": "Documents album-collecting and commissioning practices at the Ottoman court in the late 17th–early 18th century — the period of this album's likely production. Provides context for the patronage environment and decorated paper conventions of high-status Ottoman calligraphic album commissions from this era.",
+      "relevance_score": 0.78,
+      "access_notes": "Peer-reviewed article. Available via JSTOR and institutional library access."
+    },
+    {
+      "citation": "Bağcı, Serpil, Filiz Çağman, Günsel Renda, and Zeren Tanındı. Ottoman Painting. Ankara: Ministry of Culture and Tourism, 2006.",
+      "relevance": "Comprehensive survey of Ottoman visual arts including the album tradition and decorated paper programs of the 17th–18th centuries. Provides comparative context for the polychrome halkârî corner decoration program and the hatip ebru binding cover documented in this album.",
+      "relevance_score": 0.80,
+      "access_notes": "Museum publication; widely held at Turkish studies collections."
+    },
+    {
+      "citation": "Bloom, Jonathan M. Paper Before Print: The History and Impact of Paper in the Islamic World. New Haven: Yale University Press, 2001.",
+      "relevance": "Comprehensive history of paper production and use in the Islamic world, providing material-culture background for marbled paper and mülevven (colored paper) production techniques directly relevant to this album's decorative program.",
+      "relevance_score": 0.72,
+      "access_notes": "Widely held monograph."
+    },
+    {
+      "citation": "Gacek, Adam. Arabic Manuscripts: A Vademecum for Readers. Leiden: Brill, 2009.",
+      "relevance": "Standard reference for Islamic manuscript codicological terminology, including the vassale mounting technique, cetvelli framing systems, and kıtʿa format. Relevant for precise description of this album's physical structure.",
+      "relevance_score": 0.72,
+      "access_notes": "Reference monograph; widely held."
+    },
+    {
+      "citation": "Déroche, François. Islamic Codicology: An Introduction to the Study of Manuscripts in Arabic Script. Translated by Deke Dusinberre and David Radzinowicz. London: Al-Furqan Islamic Heritage Foundation, 2005.",
+      "relevance": "Foundational reference for Islamic manuscript codicology and physical description, providing the classification framework for paper decoration types, ruling systems, and binding forms used in this catalog record.",
+      "relevance_score": 0.70,
+      "access_notes": "Monograph; available at specialist libraries."
+    }
+  ],
+  "suggested_collections": [
+    {
+      "institution": "Topkapı Sarayı Müzesi Kütüphanesi, Istanbul",
+      "reason": "Holds the largest corpus of late Ottoman calligraphic albums with battal ebru, hatip ebru, and halkârî programs comparable to yb_00312. Essential for identifying the calligrapher 'Seyyid Abdullah' and for finding parallel albums with the same five-technique decorative program.",
+      "digital_access": "https://kutuphane.tsmk.gov.tr"
+    },
+    {
+      "institution": "Türk ve İslam Eserleri Müzesi (TIEM), Istanbul",
+      "reason": "The TIEM murakka corpus (93 positive albums in project corpus) contains multiple albums with comparable battal ebru + halkârî programs. TIEM 02471 (catalogued in this project) and related albums are the closest documented parallels.",
+      "digital_access": "https://portal.yek.gov.tr"
+    },
+    {
+      "institution": "Sakıp Sabancı Museum, Istanbul",
+      "reason": "Holds major collections of Ottoman calligraphic albums by named masters including potential candidates for 'Seyyid Abdullah'. Physical comparison of calligraphic hand is the most direct route to identifying the calligrapher.",
+      "digital_access": null
+    },
+    {
+      "institution": "Chester Beatty Library, Dublin",
+      "reason": "Major collection of Ottoman calligraphic albums with decorated papers, including albums with polychrome halkârî margins and battal ebru programs from the late 17th–early 18th century. Provides international comparanda.",
+      "digital_access": "https://viewer.cbl.ie"
+    },
+    {
+      "institution": "GlobalDecoPaper ERC Project, LMU Munich",
+      "reason": "Active research project on decorated papers in Islamic manuscripts. The multi-palette battal ebru distribution strategy in this album (at least three distinct palette variants across one album) is a research-worthy pattern relevant to the project's classification and provenance work.",
+      "digital_access": null
+    }
+  ],
+  "provenance": {
+    "donor": null,
+    "waqf": null,
+    "previous_shelfmarks": [],
+    "notes": "Held at Süleymaniye Kütüphanesi — Yazma Bağışlar Koleksiyonu, Istanbul, under shelfmark 00312. YEK ID: 342077. IIIF ID: 0000000339913. Note: the IIIF IDs for yb_00312 and yb_00313 are inverted relative to shelfmark order; yb_00312 is served under IIIF ID 0000000339913. The album entered the Yazma Bağışlar collection as a donation (bağış); donor details are not recorded in the YEK catalogue. Library label '312' and an ownership stamp are visible on p001. No waqf (endowment) information is available."
+  },
+  "analysis_metadata": {
+    "analyzed_date": "2026-03-01",
+    "analyzer": "claude-code-manuscript-pipeline",
+    "pipeline_stage": "metadata-generator",
+    "image_source": "YEK Portal IIIF images, Süleymaniye Kütüphanesi — Yazma Bağışlar Koleksiyonu, YEK ID 342077, IIIF ID 0000000339913. 6 of 11 pages downloaded and examined at native IIIF resolution (2592×1944 px).",
+    "image_quality_notes": "IIIF images at 2592×1944 px are sufficient for confident identification of all five decoration types: hatip ebru cover, battal ebru margins (including palette variant differentiation), polychrome halkârî corners, gold cedvel framing, and vassale mounting with yellow mülevven surround. Finer technique details (taramalı vs. tahrirli halkârî technique; precise gold medium used) require higher-resolution imaging or physical examination. Five interior pages (p004, p005, p007, p008, p010) not examined.",
+    "folios_examined": [
+      "corpus/iiif/yb_00312_p001.jpg",
+      "corpus/iiif/yb_00312_p002.jpg",
+      "corpus/iiif/yb_00312_p003.jpg",
+      "corpus/iiif/yb_00312_p006.jpg",
+      "corpus/iiif/yb_00312_p009.jpg",
+      "corpus/iiif/yb_00312_p011.jpg"
+    ],
+    "folios_not_examined": "5 of 11 pages not examined: p004, p005, p007, p008, p010. Decoration program on these pages is inferred from the entirely consistent five-technique program observed across all 6 examined pages (cover, first opening, middle, late, and last page). Back cover also not in available IIIF set.",
+    "corpus_priority": "High — one of the most elaborately decorated albums in the Yazma Bağışlar murakka corpus. The combination of hatip ebru cover + multi-palette battal ebru margins + fully polychrome floral halkârî corners + gold cedvel + vassale in a single album is exceptional. Priority follow-up: (1) download all 11 IIIF pages to map complete ebru palette distribution; (2) identify the calligrapher 'Seyyid Abdullah' via palaeographic comparison with documented Yedikuleli Seyyid Abdullah works; (3) physical examination to confirm halkârî technique subtype (taramalı vs. tahrirli).",
+    "source_data": {
+      "visual_confirmation_file": "catalog/searches/visual_tier2h_yb_00312.json",
+      "yek_id": "342077",
+      "iiif_id": "0000000339913",
+      "iiif_id_note": "IIIF IDs for yb_00312 and yb_00313 are inverted relative to shelfmark order. yb_00312 is correctly served under IIIF ID 0000000339913 (confirmed by visual examination).",
+      "batch": "Sub-Batch H (YB Notables + VP Top, 2026-03-01)"
+    }
+  }
+}

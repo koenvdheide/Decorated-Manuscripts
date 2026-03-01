@@ -1,0 +1,387 @@
+{
+  "record_id": "vahid_pasa_01229",
+  "collection": {
+    "institution": "Kütahya Vahid Paşa Kütüphanesi",
+    "city": "Kütahya",
+    "country": "Turkey",
+    "shelfmark": "1229",
+    "yek_url": "https://portal.yek.gov.tr/works/detail/520288"
+  },
+  "manuscript": {
+    "title": "Muraqqaʿāt / مرقعات",
+    "title_script": "مرقعات",
+    "title_alt": "Nuh İbn-i Bâlî Muraqqaʿı — Celî Dîvânî Meşk Muraqqaʿı",
+    "author": null,
+    "author_dates": null,
+    "calligrapher": "Nuh İbn-i Bâlî (نوح ابن بالي)",
+    "calligrapher_dates": "fl. mid-11th AH / mid-17th CE",
+    "calligrapher_note": "Nuh İbn-i Bâlî is recorded in the YEK catalogue as the calligrapher of this album, which is dated AH 1066/1655-56 CE. He is documented here as a practitioner of the celî dîvânî script, but biographical data is limited and he does not feature prominently in the standard biographical dictionaries of Ottoman calligraphers. The album provides primary evidence for his activity in the mid-17th century. Further archival and palaeographic research is required to situate him within the broader Ottoman dîvânî calligraphic tradition of that period.",
+    "date_ah": "1066",
+    "date_ce": "1655-56",
+    "date_note": "Date AH 1066 / 1655-56 CE recorded in the YEK catalogue. This is an explicit dated colophon or inscription, making this one of the precisely dated albums in the Vahid Paşa murakkaʿ corpus. The mid-17th-century date is consistent with the album's decorated paper program: battal ebru calligraphy margins and hatip ebru endpapers are well-attested in Ottoman album production of the AH 1050–1100 / 1640–1690 CE period.",
+    "place_of_copy": null,
+    "format": "Muraqqaʿ / مرقع — dated celî dîvânî calligraphic album with hatip ebru endpaper, multicolored battal ebru margins, gold cetvelli, and vassale mounting",
+    "format_note": "A bound Ottoman calligraphic album (muraqqaʿ) of 9 yaprak (leaves), totaling 10 IIIF pages including binding photographs. The album contains meşk (calligraphic exercise) leaves in the celî dîvânî hand — a large, stylized variant of the dîvânî script used in Ottoman imperial chancery documents. The decorative program combines two distinct marbling types in a dual-ebru arrangement: a single hatip ebru (imam's marbling) leaf used as the front endpaper, and battal ebru (stone marbling) applied as wide margin paper on all calligraphy openings via vassale (window-mounting) technique. Each calligraphy opening presents a unique palette of battal ebru, creating chromatic variation across the album's sequence. Gold cetvel framing is present throughout.",
+    "language": "Arabic",
+    "script": "Celî Dîvânî (جلي ديواني) — YEK catalogue: 'Arap harfli — Celi Divani'",
+    "dimensions_mm": {
+      "height": 320,
+      "width": 180,
+      "writing_area_mm": {
+        "height": 240,
+        "width": 110
+      },
+      "note": "Outer dimensions 320×180 mm; text area 240×110 mm per YEK catalogue. The album is an elongated vertical format, consistent with the proportions of celî dîvânî meşk albums."
+    },
+    "folio_count": 9,
+    "yek_id": "520288",
+    "iiif_id": "0000000502480",
+    "notes": "The album's dual-ebru program — hatip ebru endpaper paired with battal ebru calligraphy margins — is a coherent decorative strategy found across the VP murakkaʿ corpus and in the broader Ottoman album tradition of the mid-to-late 17th century. The critical correction from triage is essential: the endpaper (p001, right side) was initially misidentified as battal ebru but is definitively hatip ebru (imam's marbling) — the large-scale leaf and tulip motifs in blue-grey on a yellow ground are diagnostic hallmarks of the hatip technique, not the random stone-spotting of battal. This distinction matters for typological classification and for corpus-level comparisons. The wide battal ebru margins, each opening carrying a different color palette (red-dominant, blue-dominant, green-dominant sequences observed), indicate that the album was assembled using individually selected ebru sheets rather than a single batch of uniform paper. The back cover (p010) is dark reddish-brown leather with blind-tooled şemseli medallions and corner pieces (köşebend) — a standard conservative Ottoman album binding without gilded decoration. YEK IIIF constant confirmed: iiif_id (502480) = 1022768 − yek_id (520288), verified across 3 VP albums."
+  },
+  "paper_decoration": {
+    "types": [
+      "marbled",
+      "framing_system"
+    ],
+    "summary": "Vahid Paşa 1229 exhibits a dual-ebru decorative program of considerable quality for a dated mid-17th-century provincial album. Two distinct marbling techniques are deployed in complementary structural roles. (1) Hatip ebru endpaper (p001, right side): a full-page sheet of hatip (imam's) marbling in blue-grey on a yellow ground, featuring large-scale leaf and tulip-derived botanical motifs characteristic of the hatip technique. This sheet serves as the front endpaper, introducing the album's decorative program at the opening. The motifs are clearly recognizable as hatip-type — not the undifferentiated stone-spotting of battal ebru — confirming the triage correction recorded in the visual confirmation file. (2) Battal ebru calligraphy margins (pp002–009): wide outer-margin papers in multicolored stone marbling surround all calligraphy openings via vassale (window-mounting) technique. Three distinct battal ebru palettes were confirmed across sampled pages: red/green/yellow/grey/black (p002), blue/green/yellow/red/pink (p005), and green/yellow/red/blue/pink (p008). Each opening uses a different ebru sheet, creating a sequence of chromatic variation across the album's leaves. (3) Gold cetvelli framing system: gold ruling lines (altın cetvel) frame each vassale-mounted calligraphy panel within the battal ebru margins, providing a structured transition between the marbled ground and the calligraphy text area. The binding back cover (p010) adds a fourth material register: blind-tooled dark reddish-brown leather with şemseli medallions and corner pieces. The overall program is a well-executed mid-17th-century Ottoman album format, typologically consistent with documented hatip-plus-battal dual-ebru albums in the corpus (compare hamidiye_00018, hamidiye_00035).",
+    "distribution_notes": "Hatip ebru: right side of p001 opening only (front endpaper). Battal ebru: all calligraphy margin pages pp002–009 (8 pages, ~4 openings). Gold cetvelli framing: all calligraphy pages pp002–009. Binding: back cover p010 (blind-tooled leather). Pages 003, 004, 006, 007, 009 were not individually downloaded but are inferred to follow the battal ebru pattern from the confirmed sequence at pp002, 005, 008.",
+    "technique_terms": {
+      "ottoman": "hatip ebru (حاتب ابرو) — imam ebrusu; lâle ve yaprak motifli; sarı zemin üzerine mavi-gri; battal ebru — taş ebrusu; çok renkli ebrulu kenar kâğıdı; vassale yöntemiyle monte edilmiş; altın cetvel; soğuk şemseli deri cilt",
+      "persian": "abrī (ابری) — marbled paper; abrī-ye ḥaṭīb (امام طرزى ابرى) — imam's marbling; kāġaḏ-e abrī (کاغذ ابری) — marbled paper",
+      "arabic": "waraq marmar / waraq abrī (ورق مرمر / ورق ابری) — marbled paper; jadwal mudhahdhab (جدول مذهّب) — gold-ruled frame"
+    },
+    "catalogue_description": {
+      "paper_field": null,
+      "paper_field_normalized": null,
+      "paper_field_translation": null,
+      "notes_field": "Celi Divani",
+      "notes_field_normalized": "Celî Dîvânî",
+      "notes_field_translation": "Celî Dîvânî [script notation only; no paper decoration description in YEK notes field]",
+      "decoration_field": null,
+      "source": "YEK portal, record 520288, Kütahya Vahid Paşa Kütüphanesi. Catalogued by İleyha Tugçe Durmaz. Kâğıt özellikleri and tezhip/minyatür fields are null in the YEK record. All paper decoration observations derive from visual examination of IIIF images (5 of 10 pages at 1600px)."
+    }
+  },
+  "workshop_attribution": {
+    "primary_tradition": "ottoman",
+    "workshop_centre": "Istanbul",
+    "date_range_ce": "1655–1656",
+    "confidence": 0.75,
+    "key_indicators": [
+      "Explicitly dated AH 1066/1655-56 CE — a secure chronological anchor for the album's production",
+      "Celî dîvânî script is the characteristic Ottoman imperial chancery hand, associated with Istanbul training even when practiced provincially",
+      "Hatip-plus-battal dual-ebru album format is well-documented in mid-17th-century Ottoman Istanbul production",
+      "Battal ebru in multiple palettes across a single album, each opening unique, reflects deliberate selection practice associated with Istanbul ebru workshops",
+      "Gold cetvelli vassale framing is standard Istanbul luxury album production vocabulary of the mid-17th century"
+    ],
+    "cross_tradition_caveats": [
+      "The album is held at Kütahya (western Anatolia), a provincial center; production could be Istanbul (then acquired or donated to Kütahya) or could reflect provincial celî dîvânî training",
+      "Calligrapher Nuh İbn-i Bâlî is not documented in standard biographical dictionaries; his workshop affiliation is unknown",
+      "No dated comparanda for this calligrapher's work exist in the current corpus",
+      "Physical examination of paper stock and ebru composition would help distinguish Istanbul versus provincial Anatolian production"
+    ]
+  },
+  "codicology": {
+    "paper": {
+      "color": "Calligraphy panels: cream/off-white burnished âharlı paper. Endpaper: hatip ebru on yellow ground (p001 right). Margins: battal ebru in varied multicolor palettes (pp002–009). Binding exterior: dark reddish-brown leather (p010).",
+      "preparation": "Calligraphy panels are written on âharlı (sized and burnished) cream paper, standard for Ottoman luxury calligraphy. The hatip ebru endpaper is marbled paper with botanical motifs formed in the marbling trough (teknesi) using a comb or fine implement — the leaf/tulip shapes characteristic of the hatip technique. Battal ebru margin papers are stone-marbled (undifferentiated), produced by dropping pigments onto the marbling size and lifting without combing. Each battal sheet is unique.",
+      "weight": "Indeterminate from IIIF images at 1600px. Standard Ottoman album weight expected.",
+      "decoration": "Dual-ebru program (hatip endpaper + battal margins). Gold cetvelli ruling on all calligraphy pages. Vassale (window-mounting) technique for calligraphy panels into the ebru margin sheets.",
+      "paper_type": "Oriental (doğu kâğıdı) for calligraphy panels; hatip ebru and battal ebru papers for endpaper and margins."
+    },
+    "ruling": {
+      "system": "Altın cetvel (gold ruling) framing each vassale-mounted calligraphy panel within the battal ebru margins. A darker outer outline rule is also visible.",
+      "description": "Each calligraphy opening presents the calligraphy panel mounted via vassale technique into the battal ebru outer margin paper, framed by gold ruling lines (altın cetveller). A darker outer boundary line is visible in the IIIF images. The vassale mounting technique — in which a window is cut from the decorated margin paper and the calligraphy panel set into the opening — is the standard Ottoman album framing system of the 17th century."
+    },
+    "binding": {
+      "cover_description": "Back cover (p010): dark reddish-brown leather with blind-tooled (soğuk baskı) şemseli medallions and köşebend (corner pieces). The binding shows significant wear and aging. No gilding is present on the exterior — the decoration is entirely blind-tooled, a more conservative binding type compared to gilt-leather bindings common in Istanbul court production.",
+      "cover_type": "Deri cilt — dark reddish-brown leather with blind-tooled şemse and corner ornaments",
+      "notes": "The blind-tooled binding (soğuk şemse) without gilding is consistent with an album produced outside the most prestigious tier of court workshops, or with a binding replaced or retouched at a later provincial stage. Front cover not separately photographed in the IIIF set (p001 shows inside cover and endpaper)."
+    },
+    "format": "Muraqqaʿ — bound Ottoman celî dîvânî calligraphic album (9 yaprak / 10 IIIF pages including binding)",
+    "condition_summary": "The album shows significant wear and aging, particularly the binding (p010). The battal ebru margin papers (pp002, 005, 008) are legible at 1600px IIIF resolution. The hatip ebru endpaper (p001) is clear. No catastrophic damage, missing leaves, or major restoration campaigns are evident from the 5 pages examined.",
+    "conservation_history": null
+  },
+  "visual_confirmation": {
+    "verdict": "confirmed",
+    "confidence": 0.95,
+    "screenshots_examined": 5,
+    "folios_examined": [
+      "corpus/iiif/vahid_pasa_01229_p001.jpg",
+      "corpus/iiif/vahid_pasa_01229_p002.jpg",
+      "corpus/iiif/vahid_pasa_01229_p005.jpg",
+      "corpus/iiif/vahid_pasa_01229_p008.jpg",
+      "corpus/iiif/vahid_pasa_01229_p010.jpg"
+    ],
+    "visual_evidence": "CONFIRMED with high confidence (0.95). Five pages examined at 1600px IIIF resolution. (1) P001 right side: hatip ebru endpaper with large-scale leaf/tulip botanical motifs in blue-grey on yellow ground — unambiguously hatip technique, not battal. Triage identification of 'battal ebru' corrected. (2) P002: first calligraphy opening with red/green/yellow/grey/black battal ebru margins; vassale-mounted celî dîvânî panel; gold cetvelli framing confirmed. (3) P005: mid-album opening with blue/green/yellow/red/pink battal ebru margins; distinct palette from p002 confirms individually selected ebru sheets. (4) P008: later opening with green/yellow/red/blue/pink battal ebru; third distinct palette confirmed. (5) P010: back cover, dark reddish-brown leather with blind-tooled şemseli medallions and corner pieces. The dual-ebru program (hatip endpaper + battal margins) is a coherent and well-preserved decorative system.",
+    "limitations": [
+      "5 of 10 pages examined (50% coverage). Pages 003, 004, 006, 007, 009 not downloaded.",
+      "Images at 1600px wide (not native 3456px). Resolution adequate for marbling type identification and framing structure, but limits fine detail analysis.",
+      "Cannot independently confirm whether all calligraphy openings have battal ebru treatment — only 3 of approximately 4 openings examined.",
+      "Possible zerefşân on margins cannot be assessed at this resolution.",
+      "Front cover exterior not separately photographed; p001 left shows inside cover/library stamps, not exterior binding."
+    ],
+    "source_agent": "visual-confirmation",
+    "session": "catalog/searches/visual_tier2h_vahid_pasa_01229.json"
+  },
+  "folio_analyses": [
+    {
+      "folio": "Inside front cover + hatip ebru endpaper (IIIF p001)",
+      "source_image": "corpus/iiif/vahid_pasa_01229_p001.jpg",
+      "decoration_present": true,
+      "decoration_types": ["marbled"],
+      "elements": [
+        {
+          "motif": "Hatip ebru endpaper — leaf/tulip motifs, blue-grey on yellow ground (right page)",
+          "description": "The right side of the p001 opening is a full-page hatip ebru sheet. The ground is a warm yellow (sarı zemin). Large-scale botanical motifs — leaf forms and tulip-derived shapes — are formed in blue-grey pigment directly in the marbling trough (teknesi) using the hatip technique, in which a fine tool or stylus draws the pigment into recognizable botanical shapes before the paper is laid down. The result is a clearly figurative, patterned marbling as opposed to the random stone-spotting of battal ebru. This sheet serves as the album's front endpaper. The left side of the opening shows the inside front cover with library stamps and accession labels.",
+          "location": "Right page of p001 opening (front endpaper); left page is inside front cover",
+          "confidence": 0.95,
+          "triage_correction": "Triage identified this as 'battal ebru' — CORRECTED to hatip ebru based on visual examination. The large-scale leaf and tulip botanical motifs are diagnostic of the hatip (imam's marbling) technique."
+        }
+      ],
+      "confidence": 0.95,
+      "notes": "The hatip ebru endpaper establishes the dual-ebru decorative program: a high-craft botanical hatip sheet at the opening, followed by looser battal ebru margin papers throughout."
+    },
+    {
+      "folio": "First calligraphy opening — battal ebru margins, red-dominant palette (IIIF p002)",
+      "source_image": "corpus/iiif/vahid_pasa_01229_p002.jpg",
+      "decoration_present": true,
+      "decoration_types": ["marbled", "framing_system"],
+      "elements": [
+        {
+          "motif": "Battal ebru margins — red/green/yellow/grey/black palette",
+          "description": "Wide outer margins of both pages in the first calligraphy opening are covered with battal (stone) ebru in a multicolor palette dominated by red with green, yellow, grey, and black. The stone-marbling pattern is undifferentiated — irregular rounded spots and swirls of pigment — clearly distinct from the botanical hatip motifs of the endpaper. The battal ebru sheets are laid as full-width margin papers into which the calligraphy panels are window-mounted.",
+          "location": "Outer margins, both pages",
+          "confidence": 0.95
+        },
+        {
+          "motif": "Gold cetvelli framing and vassale mounting",
+          "description": "Gold ruling lines (altın cetveller) frame the calligraphy panel within the battal ebru margin paper. The celî dîvânî calligraphy is vassale-mounted: the text panel is a separate sheet set into a window cut from the ebru margin paper, then framed with gold lines to create a smooth visual integration. A darker outer outline rule is also present at the panel boundary.",
+          "location": "Panel frame, both pages",
+          "confidence": 0.92
+        },
+        {
+          "motif": "Celî dîvânî meşk calligraphy",
+          "description": "Large-scale celî dîvânî script on cream âharlı paper. The dîvânî hand is characterized by pronounced curves, stacked letter forms, and elaborate ligatures — the standard Ottoman imperial chancery script. The meşk (exercise) format presents varying letter sizes and combinations.",
+          "location": "Central calligraphy panels, both pages",
+          "confidence": 0.90
+        }
+      ],
+      "confidence": 0.93,
+      "notes": "The first calligraphy opening establishes the album's standard format: wide battal ebru margins with cetvelli-framed vassale calligraphy panels. The red-dominant palette of this opening is the most vivid in the sample examined."
+    },
+    {
+      "folio": "Mid-album calligraphy opening — battal ebru margins, blue-dominant palette (IIIF p005)",
+      "source_image": "corpus/iiif/vahid_pasa_01229_p005.jpg",
+      "decoration_present": true,
+      "decoration_types": ["marbled", "framing_system"],
+      "elements": [
+        {
+          "motif": "Battal ebru margins — blue/green/yellow/red/pink palette",
+          "description": "Wide outer margins in a battal ebru palette distinctly different from p002: blue and green are the dominant tones, with yellow, red, and pink as secondary colors. The shift in palette confirms that each opening uses a different, individually selected ebru sheet rather than a uniform batch. Blue-dominant battal ebru is associated with slightly higher prestige in the Ottoman tradition.",
+          "location": "Outer margins, both pages",
+          "confidence": 0.93
+        },
+        {
+          "motif": "Gold cetvelli framing and vassale mounting",
+          "description": "Consistent with p002: gold ruling lines frame the vassale-mounted celî dîvânî panels within the blue-dominant battal ebru margins.",
+          "location": "Panel frame, both pages",
+          "confidence": 0.92
+        }
+      ],
+      "confidence": 0.92,
+      "notes": "The palette shift from p002 (red-dominant) to p005 (blue-dominant) confirms the album's strategy of visual variety through individually selected ebru sheets."
+    },
+    {
+      "folio": "Later calligraphy opening — battal ebru margins, green-dominant palette (IIIF p008)",
+      "source_image": "corpus/iiif/vahid_pasa_01229_p008.jpg",
+      "decoration_present": true,
+      "decoration_types": ["marbled", "framing_system"],
+      "elements": [
+        {
+          "motif": "Battal ebru margins — green/yellow/red/blue/pink palette",
+          "description": "Outer margins in a third distinct palette: green and yellow are dominant, with red, blue, and pink as secondary colors. A third unique battal ebru sheet, maintaining the album's pattern of per-opening palette variation.",
+          "location": "Outer margins, both pages",
+          "confidence": 0.90
+        },
+        {
+          "motif": "Gold cetvelli framing and vassale mounting",
+          "description": "Consistent with earlier openings: gold cetvelli framing around vassale-mounted celî dîvânî panels.",
+          "location": "Panel frame, both pages",
+          "confidence": 0.90
+        }
+      ],
+      "confidence": 0.90,
+      "notes": "Three distinct battal ebru palettes confirmed across pp002, 005, 008. The green/yellow-dominant palette of p008 completes the trio: red → blue → green, suggesting a deliberate compositional sequence or simply the use of a diverse stock of pre-made ebru sheets."
+    },
+    {
+      "folio": "Back cover (IIIF p010)",
+      "source_image": "corpus/iiif/vahid_pasa_01229_p010.jpg",
+      "decoration_present": true,
+      "decoration_types": ["framing_system"],
+      "elements": [
+        {
+          "motif": "Dark reddish-brown leather with blind-tooled şemse and corner pieces",
+          "description": "The back cover exterior is dark reddish-brown leather (koyu kırmızı-kahve deri). Blind-tooled (soğuk baskı) decoration includes a central şemse (medallion) and köşebend (corner pieces) at the four corners. No gilding is present — the decoration is entirely impressed without gold or paint. The binding shows significant wear and aging consistent with a 17th-century album in regular use. The central şemse is an oval or almond-shaped impressed medallion form.",
+          "location": "Full back cover exterior",
+          "confidence": 0.90
+        }
+      ],
+      "confidence": 0.90,
+      "notes": "The conservative blind-tooled binding without gilding contrasts with the album's vibrant interior ebru decoration, suggesting either a provincial binding or a replacement binding applied at a later stage."
+    }
+  ],
+  "terminology": {
+    "terms_used": [
+      {
+        "concept": "Hatip ebru (imam's marbling)",
+        "ottoman": "hatip ebru / imam ebrusu — lâle ve yaprak motifli ebrî kâğıt",
+        "arabic": "waraq abrī ḥaṭībī (ورق ابری خطیبی) — imam's marbled paper",
+        "persian": "abrī-ye ḥaṭīb (ابری حطیب) — imam's marbling; kāġaḏ-e abrī (کاغذ ابری) — marbled paper",
+        "english": "Hatip (imam's) marbling: a marbling technique in which a stylus or fine comb is used to draw pigments floating on the marbling size (teknesi) into recognizable botanical shapes — most characteristically tulip (lâle), leaf (yaprak), and hyacinth forms — before the paper is laid to lift the pattern. Named for the Ottoman preacher (hatip/imam) Hatip Mehmet Efendi, credited as the technique's originator. Distinguished from battal ebru by its patterned, figurative character vs. battal's random stone-spotting."
+      },
+      {
+        "concept": "Battal ebru (stone marbling)",
+        "ottoman": "battal ebru — taş ebrusu; çok renkli ebrî kâğıt",
+        "arabic": "waraq abrī (ورق ابری) — marbled paper (generic)",
+        "persian": "kāġaḏ-e abrī (کاغذ ابری) — marbled paper",
+        "english": "Battal ebru (stone / spot marbling): the most fundamental marbling technique, in which pigments are dropped or scattered onto the marbling size without combing or figure-drawing, producing undifferentiated spotted or mottled patterns. 'Battal' (Ottoman: plain, uncorrected) contrasts with more refined comb techniques. In this album, battal ebru margin papers are used in multiple distinct color palettes — each opening's ebru sheet is unique."
+      },
+      {
+        "concept": "Dual-ebru album format",
+        "ottoman": "çift ebrulu muraqqaʿ — hatip ebrulu kapak/serlevha + battal ebrulu kenar kâğıtları",
+        "arabic": null,
+        "persian": null,
+        "english": "A documented Ottoman album format combining two distinct marbling types in complementary structural roles: a hatip (botanical) ebru sheet at the front endpaper or cover, and battal (stone) ebru as the calligraphy margin papers throughout. This format is attested in multiple albums in the project corpus, including hamidiye_00018 and hamidiye_00035."
+      },
+      {
+        "concept": "Vassale mounting",
+        "ottoman": "vassale — pencere montaj tekniği; vassale yöntemiyle ebrulu kâğıda monte edilmiş",
+        "arabic": null,
+        "persian": null,
+        "english": "Vassale: a window-mounting technique in which the decorated margin paper (here, battal ebru) has a rectangular window cut from it; the calligraphy panel (on separate cream paper) is set behind the window and secured, so the panel appears to float within the decorated margin. The boundary between panel and margin is then covered with ruling lines (cetvel). Standard Ottoman album production technique."
+      },
+      {
+        "concept": "Celî Dîvânî script",
+        "ottoman": "celî dîvânî hattı — büyük dîvânî; Osmanlı divanî hattının büyük şekli",
+        "arabic": "dīwānī jalī (ديواني جلي) — large dîvânî script",
+        "persian": null,
+        "english": "Celî dîvânî (large dîvânî): the grand, stylized version of the dîvânî script used in Ottoman imperial firmans and official documents. Characterized by pronounced curves, elaborate ligatures, and stacked letter forms filling the writing space. A prestige script requiring specialist training in the Ottoman chancery tradition."
+      },
+      {
+        "concept": "Calligraphic exercise album",
+        "ottoman": "muraqqaʿ / murakkaat — meşk muraqqaʿı (مرقعات)",
+        "arabic": "muraqqa (مرقع) / muraqqa'at (مرقعات)",
+        "persian": "muraqqa (مرقع)",
+        "english": "Muraqqaʿ: a bound Ottoman calligraphic album. This album contains meşk (calligraphic exercise) leaves in celî dîvânî script, dated AH 1066/1655-56 CE, attributed to Nuh İbn-i Bâlî."
+      },
+      {
+        "concept": "Blind-tooled binding",
+        "ottoman": "soğuk şemse — yaldızsız kabartma baskı cilt; soğuk baskı köşebend",
+        "arabic": "jild kādim al-ṭirrāz (جلد قديم الطراز) — binding with impressed decoration",
+        "persian": "jild-e naqsh-barjaste (جلد نقش برجسته) — relief-impressed binding",
+        "english": "Soğuk şemse: a binding with impressed (blind-stamped) medallion decoration applied without gilding — the ornament is formed by pressure alone, leaving a raised or indented impression in the leather. Less prestigious than gilt (yaldızlı) bindings."
+      }
+    ]
+  },
+  "bibliography": [
+    {
+      "citation": "Blair, Sheila S. 'Color and Gold: The Decorated Papers Used in Manuscripts in Later Islamic Times.' Muqarnas 17 (2000): 24–36.",
+      "relevance": "Foundational taxonomic study for decorated paper classification in later Islamic manuscripts. Blair's framework for distinguishing marbled, sprinkled, and colored papers — and for identifying subtypes within the marbled category — is the primary conceptual basis for classifying this album's hatip ebru and battal ebru components. Her documentation of the dual-technique album format in the Ottoman and Persian traditions provides direct comparanda.",
+      "relevance_score": 0.95,
+      "access_notes": "Peer-reviewed article. Available via JSTOR (Brill/Muqarnas Online)."
+    },
+    {
+      "citation": "Bloom, Jonathan M. Paper Before Print: The History and Impact of Paper in the Islamic World. New Haven: Yale University Press, 2001.",
+      "relevance": "Comprehensive history of paper production and decorated paper traditions in the Islamic world, providing material-culture background for understanding the marbling techniques and album paper programs of 17th-century Ottoman production.",
+      "relevance_score": 0.80,
+      "access_notes": "Widely held monograph."
+    },
+    {
+      "citation": "Roxburgh, David J. The Persian Album, 1400–1600: From Dispersal to Collection. New Haven: Yale University Press, 2005.",
+      "relevance": "Essential study of the murakkaat album format and its decorated paper programs, tracing the tradition from Timurid into Ottoman practice. Provides theoretical framework for understanding how dual-technique ebru programs in Ottoman albums relate to earlier Persianate album conventions of coordinated paper selection.",
+      "relevance_score": 0.82,
+      "access_notes": "Monograph; widely held at research libraries."
+    },
+    {
+      "citation": "Çağman, Filiz, and Zeren Tanındı. The Topkapı Saray Museum: The Albums and Illustrated Manuscripts. Translated and edited by J. M. Rogers. Boston: Little, Brown, 1986.",
+      "relevance": "Standard reference for Ottoman calligraphic albums and their decorated paper programs in the Topkapı collections. Provides comparanda for mid-17th-century Ottoman albums with hatip and battal ebru programs, vassale mounting, and gold cetvelli framing.",
+      "relevance_score": 0.85,
+      "access_notes": "Exhibition catalogue; widely held at Turkish and Islamic art research libraries."
+    },
+    {
+      "citation": "Derman, M. Uğur. Letters in Gold: Ottoman Calligraphy from the Sakıp Sabancı Collection, Istanbul. New York: The Metropolitan Museum of Art, 1998.",
+      "relevance": "Primary English-language catalogue for Ottoman calligraphy covering the celî dîvânî tradition and its album production context in the mid-17th century. Provides the biographical and stylistic framework for contextualizing Nuh İbn-i Bâlî's script and the album format.",
+      "relevance_score": 0.78,
+      "access_notes": "Exhibition catalogue; widely held."
+    },
+    {
+      "citation": "Bağcı, Serpil, Filiz Çağman, Günsel Renda, and Zeren Tanındı. Ottoman Painting. Ankara: Ministry of Culture and Tourism, 2006.",
+      "relevance": "Comprehensive survey of Ottoman visual arts covering the album tradition, calligraphic practices, and decorated paper programs of the 17th century, including the mid-century period in which this album was produced.",
+      "relevance_score": 0.72,
+      "access_notes": "Museum publication; widely held at Turkish studies collections."
+    },
+    {
+      "citation": "Gacek, Adam. Arabic Manuscripts: A Vademecum for Readers. Leiden: Brill, 2009.",
+      "relevance": "Standard reference for Islamic manuscript codicological terminology, script identification, and physical description conventions. Relevant for the description of the celî dîvânî script and the album's codicological format.",
+      "relevance_score": 0.70,
+      "access_notes": "Reference monograph; widely held."
+    },
+    {
+      "citation": "Déroche, François. Islamic Codicology: An Introduction to the Study of Manuscripts in Arabic Script. Translated by Deke Dusinberre and David Radzinowicz. London: Al-Furqan Islamic Heritage Foundation, 2005.",
+      "relevance": "Foundational reference for Islamic manuscript codicology, covering paper decoration types, binding forms, and physical manuscript description. The classification framework used throughout this catalog record.",
+      "relevance_score": 0.68,
+      "access_notes": "Monograph; available at specialist libraries."
+    }
+  ],
+  "suggested_collections": [
+    {
+      "institution": "Kütahya Vahid Paşa Kütüphanesi — broader corpus",
+      "reason": "The Vahid Paşa murakkaʿ sub-corpus contains at least three confirmed albums with dual-ebru programs (VP 01220, VP 01226, VP 01229). A systematic survey of the full Vahid Paşa calligraphic album holdings may reveal additional mid-17th-century hatip-plus-battal specimens and establish whether this format cluster reflects regional collecting patterns in Kütahya.",
+      "digital_access": "https://portal.yek.gov.tr"
+    },
+    {
+      "institution": "Türk ve İslam Eserleri Müzesi (TIEM), Istanbul",
+      "reason": "The TIEM murakkaʿ corpus (93 confirmed albums) contains multiple examples of hatip ebru, battal ebru, and dual-ebru album formats from the mid-to-late 17th century. Comparison with TIEM holdings is essential for situating the VP 1229 format within the broader Istanbul production tradition.",
+      "digital_access": "https://portal.yek.gov.tr"
+    },
+    {
+      "institution": "Topkapı Sarayı Müzesi Kütüphanesi, Istanbul",
+      "reason": "Holds the largest corpus of dated mid-17th-century Ottoman calligraphic albums, many with documented hatip and battal ebru programs. Physical comparison with Topkapı albums could establish workshop connections for the celî dîvânî script and ebru program.",
+      "digital_access": "https://kutuphane.tsmk.gov.tr"
+    },
+    {
+      "institution": "GlobalDecoPaper ERC Project, LMU Munich",
+      "reason": "Active research project on decorated papers in Islamic manuscripts, including marbling technique classification. The hatip-plus-battal dual-ebru format documented in this album is directly within the project's research scope.",
+      "digital_access": null
+    }
+  ],
+  "provenance": {
+    "donor": null,
+    "waqf": null,
+    "previous_shelfmarks": [],
+    "notes": "Held at Kütahya Vahid Paşa Kütüphanesi, Kütahya, Turkey, under shelfmark 1229. YEK ID: 520288. IIIF ID: 0000000502480 (formula: 1022768 − 520288 = 502480, confirmed). Catalogued by İleyha Tugçe Durmaz. No waqf, donor, or previous shelfmark information is available in the YEK record. The Kütahya Vahid Paşa Kütüphanesi is a provincial public library holding Ottoman manuscript collections; the library was named for the 19th-century Ottoman statesman and poet Mehmed Emin Vahid Paşa (1773–1828), who was born in Kütahya. How this mid-17th-century album entered the Vahid Paşa collection is not documented."
+  },
+  "analysis_metadata": {
+    "analyzed_date": "2026-03-01",
+    "analyzer": "claude-code-manuscript-pipeline",
+    "pipeline_stage": "metadata-generator",
+    "image_source": "YEK Portal IIIF images, Kütahya Vahid Paşa Kütüphanesi, YEK ID 520288, IIIF ID 0000000502480. 5 of 10 pages downloaded and examined at 1600px width.",
+    "image_quality_notes": "IIIF images at 1600px width (not native 3456px) are adequate for marbling type identification (hatip vs. battal), framing structure, and palette assessment. Fine details such as cetvelli line counts, possible zerefşân, and calligraphy text content are not fully assessable at this resolution. 50% page coverage: pages 003, 004, 006, 007, 009 not examined.",
+    "folios_examined": [
+      "corpus/iiif/vahid_pasa_01229_p001.jpg",
+      "corpus/iiif/vahid_pasa_01229_p002.jpg",
+      "corpus/iiif/vahid_pasa_01229_p005.jpg",
+      "corpus/iiif/vahid_pasa_01229_p008.jpg",
+      "corpus/iiif/vahid_pasa_01229_p010.jpg"
+    ],
+    "folios_not_examined": "Pages 003, 004, 006, 007, 009 (5 of 10 IIIF pages). These are inferred to show battal ebru margins and cetvelli framing consistent with the confirmed pattern at pp002, 005, 008.",
+    "source_data": {
+      "visual_confirmation_file": "catalog/searches/visual_tier2h_vahid_pasa_01229.json",
+      "yek_id": "520288",
+      "iiif_id": "0000000502480",
+      "iiif_constant": "1022768",
+      "iiif_formula": "iiif_id = 1022768 - yek_id",
+      "batch": "Sub-Batch H (VP Top albums, 2026-03-01)"
+    }
+  }
+}

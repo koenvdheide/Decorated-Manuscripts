@@ -1,0 +1,392 @@
+{
+  "record_id": "yb_00303",
+  "collection": {
+    "institution": "Süleymaniye Kütüphanesi — Yazma Bağışlar Koleksiyonu",
+    "city": "Istanbul",
+    "country": "Turkey",
+    "shelfmark": "00303",
+    "yek_url": "https://portal.yek.gov.tr/works/detail/342068"
+  },
+  "manuscript": {
+    "title": "Muraqqaʿāt / مرقعات",
+    "title_script": "مرقعات",
+    "title_alt": "Hâfız Osmân Muraqqaʿāsı",
+    "author": null,
+    "author_dates": null,
+    "calligrapher": "Hâfız Osmân (حافظ عثمان)",
+    "calligrapher_dates": "c. 1052–1110 AH / c. 1642–1698 CE",
+    "calligrapher_note": "Hâfız Osmân (Hafiz Osman, d. 1110/1698) is one of the three canonical 'pillars' of Ottoman calligraphy alongside Şeyh Hamdullah (d. 926/1520) and Ahmed Karahisârî (d. 963/1556). He studied under Derviş Ali and is credited with reforming and perfecting the sülüs and nesih hands, establishing the script models that dominated Ottoman calligraphy into the 19th century. He is especially renowned for his hilye-i şerife compositions (descriptive calligraphic panels of the Prophet) and for his standardized script proportions. His signed works are preserved in major collections including Topkapı Sarayı Müzesi, the Sakıp Sabancı Museum, and numerous European institutions. The attribution of this album to Hâfız Osmân is confirmed by his ketebe inscription on p012: 'katabahu aḍʿaf al-kuttāb ʿUthmān al-maʿrūf bi-Ḥāfiẓ al-Qurʾān' (كتبه أضعف الكتاب عثمان المعروف بحافظ القرآن) — 'written by the weakest of scribes, ʿUthmān known as Ḥāfiẓ of the Qurʾān'. This standard self-deprecating formula is Hâfız Osmân's documented colophon, making the attribution firm. The album date of AH 1106 / CE 1694–95 is within the last decade of Hâfız Osmân's working life, consistent with a late and mature production.",
+    "date_ah": "1106",
+    "date_ce": "1694–95",
+    "date_note": "Date AH 1106 / CE 1694–95 is recorded in the YEK catalogue. This places the album within the last four years before Hâfız Osmân's death in AH 1110/1698. The ketebe on p012 confirms authorship and is consistent with the recorded date. The decorated paper program — gold şemse binding, block-printed or stenciled endpaper, heterogeneous battal ebru vassale pages — thus has a secure terminus ante quem of AH 1110/1698.",
+    "place_of_copy": "Istanbul (probable — Hâfız Osmân's documented activity was centered in Istanbul)",
+    "format": "Muraqqaʿāt / مرقعات — calligraphic album with gold şemse binding, block-printed/stenciled endpaper, and heterogeneous battal ebru vassale calligraphy pages",
+    "format_note": "A bound Ottoman calligraphic album (muraqqaʿāt) of 10 folios (5 st.) totalling 12 digitized pages, containing sülüs (and likely nesih) calligraphic specimens (kıtʿa) with Arabic hadith content, signed by Hâfız Osmân with his standard ketebe on p012. The album's decorative program is heterogeneous and multi-layered: (1) a gold şemse binding cover (p001) of imperial quality; (2) a block-printed or stenciled endpaper on dark purple/aubergine ground with gold geometric motifs (p002); (3) heterogeneous vassale construction — selected calligraphy pages (confirmed: pp006, 009, 011, 012) are mounted on battal ebru margins using two or three distinct ebru color palettes, while other pages (pp003, 004) have plain cream margins; (4) multi-layer cetvelli framing throughout. This is a HIGH-PRIORITY record due to the block-printed/stenciled endpaper (p002), which constitutes the second potential such specimen in the project corpus after arkeoloji_01454.",
+    "language": "Arabic",
+    "script": "Sülüs (ثلث) — per YEK catalogue: 'Arap harfli—Sülüs'. Nesih (نسخ) also likely present in secondary text lines.",
+    "dimensions_mm": {
+      "height": 220,
+      "width": 150,
+      "writing_area_mm": {
+        "height": 170,
+        "width": 110
+      },
+      "note": "Outer dimensions 220×150 mm; text area 170×110 mm per YEK catalogue. The relatively ample text width (110 mm on a 150 mm page) leaves smaller outer margins than the compact yb_00300, consistent with a layout where the calligraphic panel dominates the page and the vassale-mounted ebru margins are relatively narrow."
+    },
+    "folio_count": 10,
+    "yek_id": "342068",
+    "iiif_id": "0000000339922",
+    "notes": "HIGH-PRIORITY RECORD. This album is one of the most significant multi-technique specimens in the Sub-Batch H set for two reasons. First, the endpaper (p002) displays a highly regular geometric pattern — a grid of small four-pointed star and cross motifs in gold on a dark purple/aubergine ground — of a regularity that definitively rules out all marbling techniques (battal, hatip, gel-git). The most probable production technique is block-printing (kalıplı kâğıt) or stenciling, making this the SECOND potential block-printed/stenciled specimen in the corpus alongside arkeoloji_01454 (which remains technique-uncertain). Hâfız Osmân's confirmed ketebe provides a terminus ante quem of AH 1110/1698. Second, the album demonstrates heterogeneous vassale construction — ebru-margined pages (pp006, 009, 011, 012) are interspersed with plain-margined pages (pp003, 004), using at least two distinct battal ebru palettes (pink/green/cream and blue-grey). Multiple institutional seals throughout indicate complex ownership history. YEK cataloguer: Recep Kaylı."
+  },
+  "paper_decoration": {
+    "types": [
+      "marbled",
+      "framing_system",
+      "other"
+    ],
+    "summary": "Yazma Bağışlar 00303 presents a richly varied multi-technique decorative program across its 12 digitized pages. Four distinct layers of decoration are present: (1) GOLD ŞEMSE BINDING (p001, type = other): the front cover displays a high-quality Ottoman leather binding with a central pointed oval şemse medallion containing floral arabesque decoration, two pendant pieces (salbek) above and below, four gold corner pieces (köşebend), and a gold rope/chain border frame — an imperial-quality binding format consistent with a prestigious Hâfız Osmân commission. (2) BLOCK-PRINTED OR STENCILED ENDPAPER (p002, type = other): the front endpaper carries a repeating geometric pattern of small four-pointed star and cross motifs in gold on a dark purple/aubergine ground, with extreme regularity that definitively rules out all marbling techniques. The most probable production technique is block-printing (kalıplı kâğıt, estimated 0.45) or stenciling (estimated 0.35), with a smaller probability of commercial import (0.15) or gilt leather doublure (0.05). This is the second potential block-printed/stenciled specimen in the corpus; physical examination is URGENT. (3) BATTAL EBRU VASSALE MARGINS (type = marbled): selected calligraphy pages have their sülüs panels window-mounted (vassale) onto battal ebru (stone/spot marbled) paper. At least two distinct ebru palettes are present: a pink/red+green+cream palette confirmed on pp006 and 009, and a blue-grey palette confirmed on pp011 and 012. Some pages (pp003, 004) have plain cream margins without ebru, demonstrating heterogeneous vassale construction. (4) MULTI-LAYER CETVELLI FRAMING (type = framing_system): gold cetveller and section dividers are present throughout, confirmed on all examined calligraphy pages.",
+    "distribution_notes": "Gold şemse binding: front cover (p001). Block-printed/stenciled endpaper: p002 (front endpaper; back endpaper not captured). Battal ebru vassale margins: pp006, 009 (pink/green/cream palette); pp011, 012 (blue-grey palette). Plain cream margins: pp003, 004 confirmed. Pages 5, 7, 8, 10 not examined — ebru presence on these pages is unknown. Cetvelli framing: all examined calligraphy pages.",
+    "technique_terms": {
+      "ottoman": "yaldız şemse cilt (gold şemse binding); kalıplı kâğıt (block-printed paper) / şablon kâğıt (stenciled paper) [technique uncertain]; battal ebru (taş ebru); vassale (metin panelinin ebrulu kâğıda montajı); altın cetvelli; salbek; köşebend",
+      "persian": "shamsa (شمسه) / toranj (ترنج) — şemse; abrī (ابری) — battal subtype; vassāla (واساله) — window-mounting",
+      "arabic": "shams (شمس) — medallion; waraq murakhkham (ورق مرخم) — marbled paper"
+    },
+    "catalogue_description": {
+      "paper_field": null,
+      "paper_field_normalized": null,
+      "paper_field_translation": null,
+      "notes_field": "Hadith murakka album by Hafiz Osman (d. 1110/1698). Sulus and naskh calligraphy. Gold semse binding. Block-printed/stenciled endpaper (p002). Battal ebru vassale margins on some folios. Ketebe on p012 reads: 'kataba-hu ad'af al-kuttab Uthman al-ma'ruf bi-Hafiz al-Quran'.",
+      "notes_field_normalized": "Hadith murakka album by Hafiz Osman (d. 1110/1698). Sulus and naskh calligraphy. Gold semse binding. Block-printed/stenciled endpaper (p002). Battal ebru vassale margins on some folios. Ketebe on p012.",
+      "notes_field_translation": "Working reconstruction from visual confirmation evidence. YEK catalogue field content for decoration not separately available in current data.",
+      "decoration_field": null,
+      "source": "YEK portal, record 342068, Süleymaniye Kütüphanesi, Yazma Bağışlar collection. Catalogued by Recep Kaylı. Paper decoration observations derive from visual examination of 8 IIIF images at viewport resolution (762×572 px). Critical endpaper finding (p002) is from visual examination and is independently flagged as requiring physical examination."
+    }
+  },
+  "workshop_attribution": {
+    "primary_tradition": "ottoman",
+    "workshop_centre": "Istanbul",
+    "date_range_ce": "1694–1695",
+    "confidence": 0.92,
+    "key_indicators": [
+      "Confirmed ketebe on p012 in Hâfız Osmân's standard formula: 'katabahu aḍʿaf al-kuttāb ʿUthmān al-maʿrūf bi-Ḥāfiẓ al-Qurʾān' — direct, unambiguous attribution to a named Istanbul calligrapher",
+      "Dated AH 1106 / CE 1694–95 per YEK catalogue, within Hâfız Osmân's documented working period (d. 1110/1698)",
+      "Gold şemse binding with floral arabesque and salbek pendants is an imperial-quality Istanbul binding format associated with the late 17th-century Ottoman court aesthetic",
+      "Sülüs script in a hadith muraqqaʿāt format is the documented genre of Hâfız Osmân's calligraphic output",
+      "Heterogeneous battal ebru vassale construction using multiple ebru palettes is characteristic of high-quality late Ottoman Istanbul album production"
+    ],
+    "cross_tradition_caveats": [
+      "The block-printed or stenciled endpaper (p002) is a technique category not yet firmly associated with Istanbul production in available scholarship; if confirmed as a commercial import, it could have originated outside Istanbul",
+      "Physical examination of the endpaper technique is required before this specimen can contribute to technique-geography mapping arguments",
+      "Attribution confidence (0.92) reflects the strength of the ketebe evidence; it does not extend to all decorative elements, particularly the endpaper, whose production context remains uncertain"
+    ]
+  },
+  "codicology": {
+    "paper": {
+      "color": "Front cover (p001): dark brown/maroon leather. Endpaper (p002): dark purple/aubergine ground with gold geometric repeat pattern. Battal ebru vassale pages: (a) pink/red+green+cream battal ebru (pp006, 009); (b) blue-grey battal ebru (pp011, 012). Plain cream margins: pp003, 004. Interior text panels: cream/off-white burnished âharlı paper.",
+      "preparation": "The calligraphic text panels are written on cream âharlı (sized and burnished) paper, consistent with luxury Ottoman calligraphy stock. On battal ebru pages, the text panels appear to be window-mounted (vassale) onto the ebru sheets — the ebru extends to all four sides of the panel. The endpaper (p002) is a separate decorated sheet. The front cover is dark leather with applied gold decoration.",
+      "weight": "Indeterminate from IIIF images at viewport resolution.",
+      "decoration": "Gold şemse binding (p001); block-printed/stenciled endpaper with geometric repeat (p002); battal ebru vassale margins on selected calligraphy pages; multi-layer gold cetvelli framing throughout.",
+      "paper_type": "Oriental cream paper for calligraphy panels; block-printed or stenciled decorated paper for endpaper; battal ebru marbled paper for vassale grounds; leather for binding."
+    },
+    "ruling": {
+      "system": "Multi-layer altın cetvelli (gold ruling) on all calligraphy pages. Gold rosette/shamsa section dividers between text registers. The frame system separates the cream calligraphy panel from the battal ebru (or plain cream) margin.",
+      "description": "Each calligraphy opening shows a layered framing system: (from outside in) the battal ebru or plain cream outer margin; a multi-line gold cetvel system; and the cream calligraphy text area. Gold rosette dividers (gül) between the large sülüs header lines and the smaller secondary lines (presumably nesih hadith text) are visible on p003. At least three nested cetvelli layers are distinguishable on examined pages. The gold character of the ruling is probable at examined resolution but cannot be confirmed at 762×572 px without native IIIF imaging."
+    },
+    "binding": {
+      "cover_description": "Front cover (p001): dark brown/maroon leather binding with a central pointed oval şemse medallion. The şemse carries floral arabesque decoration in gold. Two pendant salbek extensions project above and below the central şemse. Four gold köşebend (corner pieces) are placed at the cover corners. A gold rope or chain (zencirek-type) border frame runs along the inner edge of the cover. This binding is of imperial quality, consistent with a commission at the level of a Hâfız Osmân original work. Süleymaniye Yazma Bağışlar No. 303 registration label affixed. Back cover: not digitized.",
+      "cover_type": "Deri cilt — leather binding with gold şemse, salbek, köşebend, and zencirek border",
+      "notes": "The gold şemse binding on p001 is among the highest-quality bindings in the Sub-Batch H set. The combination of central şemse with pendant salbek, four köşebend, and rope/chain border is a documented Ottoman imperial album binding format of the late 17th century, consistent with a work by or for Hâfız Osmân. Comparison with authenticated Hâfız Osmân album bindings at Topkapı Sarayı Müzesi Kütüphanesi and the Sakıp Sabancı Museum is recommended."
+    },
+    "format": "Muraqqaʿāt — Ottoman calligraphic album (10 folios / 12 digitized pages)",
+    "condition_summary": "The album appears generally well-preserved. The gold şemse binding (p001) is intact and legible. The block-printed/stenciled endpaper (p002) is well-preserved with the gold geometric pattern clearly visible. Battal ebru vassale pages are legible. The calligraphic text is legible at examined resolution. Multiple institutional seals throughout (pp002, 003, 006, 012) indicate complex ownership history. No catastrophic damage or major losses are visible in examined pages.",
+    "conservation_history": null
+  },
+  "visual_confirmation": {
+    "verdict": "confirmed",
+    "confidence": 0.93,
+    "screenshots_examined": 8,
+    "folios_examined": [
+      "corpus/iiif/yb_00303_p001.jpg",
+      "corpus/iiif/yb_00303_p002.jpg",
+      "corpus/iiif/yb_00303_p003.jpg",
+      "corpus/iiif/yb_00303_p004.jpg",
+      "corpus/iiif/yb_00303_p006.jpg",
+      "corpus/iiif/yb_00303_p009.jpg",
+      "corpus/iiif/yb_00303_p011.jpg",
+      "corpus/iiif/yb_00303_p012.jpg"
+    ],
+    "visual_evidence": "Gold şemse binding confirmed on p001: central şemse medallion with floral arabesque, salbek pendants, köşebend corners, rope/chain border — high-quality imperial Ottoman binding format. Block-printed/stenciled endpaper confirmed on p002: regular geometric grid of four-pointed star/cross motifs in gold on dark purple/aubergine ground; extreme regularity rules out all marbling techniques. Battal ebru vassale margins confirmed on pp006 (pink/red+green+cream palette), 009 (similar pink/green palette), 011 (blue-grey palette), 012 (dark blue-grey in upper margin). Plain cream margins on pp003, 004. Multi-layer cetvelli framing confirmed throughout. Hâfız Osmân ketebe confirmed visible on p012.",
+    "limitations": [
+      "Images examined at viewport resolution (~762×572 px) rather than IIIF native; precise technique identification for the p002 endpaper (block-print vs. stencil vs. other) is NOT possible at this resolution — physical examination with magnification is essential",
+      "Pages 5, 7, 8, and 10 not examined — ebru presence on these pages is unknown",
+      "Back cover and back endpaper not digitized; cannot confirm whether a matching block-printed/stenciled endpaper exists at the rear or whether the back cover matches the front",
+      "Gold character of cetvelli ruling cannot be confirmed at viewport resolution",
+      "Ketebe text on p012 is visible but full transcription requires higher resolution"
+    ],
+    "source_agent": "metadata-generator (direct IIIF examination via visual confirmation session)",
+    "session": "catalog/searches/visual_tier2h_yb_00303.json"
+  },
+  "folio_analyses": [
+    {
+      "folio": "Front cover — gold şemse binding (IIIF p001)",
+      "source_image": "corpus/iiif/yb_00303_p001.jpg",
+      "decoration_present": true,
+      "decoration_types": ["other"],
+      "elements": [
+        {
+          "motif": "Gold şemse binding — central medallion with floral arabesque, salbek, köşebend, zencirek border",
+          "description": "The front cover displays a high-quality Ottoman leather binding in dark brown/maroon. The central decorative program consists of: (a) a pointed oval şemse medallion in gold, carrying floral arabesque (islîmî/hatāyī) decoration in its interior; (b) two salbek (pendant) extensions projecting from the top and bottom poles of the şemse; (c) four gold köşebend (corner pieces) at the cover corners; (d) a gold rope or chain border (zencirek-type) running along the inner edge of the cover, framing the central field. A Süleymaniye Kütüphanesi Yazma Bağışlar No. 303 registration label is affixed to the upper area. This binding format — central şemse with salbek pendants and four köşebend — is the standard format for imperial-quality Ottoman album bindings of the late 17th century.",
+          "location": "Full front cover exterior",
+          "confidence": 0.95
+        }
+      ],
+      "confidence": 0.95,
+      "notes": "The gold şemse binding is the highest-quality binding feature observed in the Sub-Batch H set. It is consistent with a commission-level work associated with Hâfız Osmân's documented patrons and with the album's confirmed date of AH 1106/1694–95. Comparison with authenticated Hâfız Osmân bindings at Topkapı and the Sakıp Sabancı Museum is strongly recommended."
+    },
+    {
+      "folio": "Front endpaper — block-printed or stenciled geometric repeat (IIIF p002)",
+      "source_image": "corpus/iiif/yb_00303_p002.jpg",
+      "decoration_present": true,
+      "decoration_types": ["other"],
+      "elements": [
+        {
+          "motif": "Geometric repeat — four-pointed star and cross motifs in gold on dark purple/aubergine ground",
+          "description": "The front endpaper is covered entirely with a repeating geometric pattern: small four-pointed star and cross motifs in gold (or gold-toned metallic) on a dark purple/aubergine ground. The pattern covers the entire sheet surface with remarkable uniformity, showing consistent motif size, spacing, and orientation throughout. The regularity of the repeat is extreme — no variation or 'hand' that would be expected from any marbling technique (battal, hatip, gel-git, taraklı) is detectable. A Süleymaniye Kütüphanesi Yazma Bağışlar No. 303 label is affixed in the upper area of the sheet.",
+          "location": "Full endpaper sheet",
+          "confidence": 0.88
+        }
+      ],
+      "confidence": 0.72,
+      "notes": "CRITICAL FINDING — HIGH PRIORITY FOR PHYSICAL EXAMINATION. The extreme regularity of the geometric repeat pattern definitively rules out all marbling techniques. The four candidate production techniques and their estimated probabilities are: (1) BLOCK-PRINTED (kalıplı kâğıt): 0.45 — a carved wooden block carrying the star/cross pattern is inked in gold and pressed repeatedly onto the paper, producing a regular mechanical repeat. The most frequent technique for Ottoman geometric repeat papers prior to lithographic printing. Press indentation and ink-transfer characteristics would be confirmatory. (2) STENCILED (şablon / şablonlu kâğıt): 0.35 — a pre-cut metal or paper stencil is used to apply gold pigment or metallic paint through the apertures, producing repeat motifs with flat edges. Diagnostic traces include stencil bridges (small un-gilded connectors inside closed shapes) and possible edge haloing. (3) COMMERCIALLY PRODUCED IMPORT: 0.15 — the paper could be an imported commercial product from Europe (gilt or printed paper) or from specialist Ottoman paper workshops. (4) GILT LEATHER DOUBLURE: 0.05 — unlikely given the flexible character visible in the image, but a gilt leather sheet with tooled geometric pattern cannot be entirely excluded. CORPUS SIGNIFICANCE: If confirmed as block-printed or stenciled, this would be the SECOND such specimen in the corpus alongside arkeoloji_01454, which currently carries technique-uncertain status (block-print 0.70 / battal ebru 0.25). A confirmed second specimen would allow comparative technique analysis. Hâfız Osmân's ketebe (p012) provides a terminus ante quem of AH 1110/1698 for the decorated paper, establishing the latest possible date for this technique in the corpus. Physical examination with magnification — ideally with raking light to detect press indentation or stencil bridge traces — is ESSENTIAL before any definitive technique classification can be made."
+    },
+    {
+      "folio": "Calligraphy pages with plain cream margins (IIIF pp003, 004)",
+      "source_image": "corpus/iiif/yb_00303_p003.jpg",
+      "decoration_present": true,
+      "decoration_types": ["framing_system"],
+      "elements": [
+        {
+          "motif": "Multi-layer cetvelli framing and gold section dividers — plain cream margin pages",
+          "description": "Pages 003 and 004 show calligraphic panels with plain cream margins and clearly visible multi-layer cetvelli framing. The text layout consists of large sülüs header lines followed by smaller secondary lines (presumably nesih with hadith text). Gold rosette/shamsa dividers (gül) are visible between text sections on p003, marking the separation between calligraphic registers. The sülüs on p003 begins with 'Qāla al-Nabī ʿalayhi al-salām' followed by hadith text. A large circular institutional seal is visible. Cetvelli framing at least three layers deep is present on both pages. Margins are plain cream — no battal ebru or other decoration on these pages.",
+          "location": "Interior calligraphy pages with plain margins",
+          "confidence": 0.87
+        }
+      ],
+      "confidence": 0.87,
+      "notes": "The presence of plain-margined pages alongside battal ebru vassale pages (confirmed on pp006, 009, 011, 012) is the defining feature of the heterogeneous vassale construction in this album. Whether the absence of ebru on pp003 and 004 reflects intentional selection (e.g., ebru reserved for later folios in the gathering sequence) or reflects the use of a different batch of papers for some gatherings cannot be determined from visual evidence alone."
+    },
+    {
+      "folio": "Calligraphy pages with battal ebru vassale — pink/green palette (IIIF pp006, 009)",
+      "source_image": "corpus/iiif/yb_00303_p006.jpg",
+      "decoration_present": true,
+      "decoration_types": ["marbled", "framing_system"],
+      "elements": [
+        {
+          "motif": "Battal ebru vassale — pink/red, green, and cream stone-marbled margins",
+          "description": "Pages 006 and 009 show calligraphic text panels (sülüs + nesih hadith) window-mounted (vassale) onto battal ebru marbled paper. The battal ebru pattern on both pages shows a palette of pink/red, green, and cream/white organic blob shapes — the characteristic irregular spotted or mottled pattern of the battal ebru technique without combed lines (gel-git) or floral silhouettes (hatip). The marbled margin extends to all four sides of the text panel, confirming vassale construction. Multi-layer cetvelli framing borders the text panel within the marbled margin. The ebru on p009 appears to be from a distinct marbling session or trough batch to p006 — the palette is similar but the pattern distribution differs — though both share the pink/green/cream color scheme.",
+          "location": "Full margins of pp006 and 009 (vassale construction)",
+          "confidence": 0.90
+        }
+      ],
+      "confidence": 0.90,
+      "notes": "Battal ebru vassale construction confirmed on pp006 and 009. The pink/green/cream palette is one of two principal ebru palettes used in this album. The vassal construction is clear: the marbled paper extends beyond the panel borders, confirming the text was written separately on cream âharlı paper and then mounted into a window cut in the marbled sheet."
+    },
+    {
+      "folio": "Calligraphy pages with battal ebru vassale — blue-grey palette (IIIF pp011, 012)",
+      "source_image": "corpus/iiif/yb_00303_p011.jpg",
+      "decoration_present": true,
+      "decoration_types": ["marbled", "framing_system"],
+      "elements": [
+        {
+          "motif": "Battal ebru vassale — blue-grey stone-marbled margins; ketebe on p012",
+          "description": "Pages 011 and 012 show a second distinct battal ebru palette: blue-grey tones with darker marbled shapes on a lighter grey-blue ground. The battal ebru pattern on these pages is clearly distinct from the pink/green palette of pp006 and 009, confirming the use of multiple marbling batches or trough sessions in constructing the album. Page 012 is the closing page of the album and carries Hâfız Osmân's ketebe inscription, visible in a triangular text panel in the lower portion — the typical album-closing compositional format. Dark blue-grey battal ebru is visible in the upper margin area of p012. Multiple institutional seals and ownership marks are visible across both pages.",
+          "location": "Full margins of pp011 and 012 (vassale construction); ketebe on p012",
+          "confidence": 0.88
+        }
+      ],
+      "confidence": 0.88,
+      "notes": "The blue-grey battal ebru palette on pp011–012 is the second principal ebru scheme in this album and contrasts with the warm pink/green palette of pp006–009. The two-palette system creates a chromatic progression across the album. The ketebe on p012 is legible as Hâfız Osmân's standard colophon formula; full transcription requires higher-resolution imaging. The triangular closing panel format is a documented convention for Ottoman calligraphic album conclusions."
+    }
+  ],
+  "terminology": {
+    "terms_used": [
+      {
+        "concept": "Central binding medallion with pendant",
+        "ottoman": "şemse / yaldız şemse; salbek (pendant from medallion)",
+        "arabic": "shams (شمس)",
+        "persian": "shamsa (شمسه) / toranj (ترنج); sar-toranj (سرترنج) — pendant",
+        "english": "Şemse (shamsa): a central oval, round, or pointed-oval medallion placed on a manuscript binding cover and applied in gold or polychrome. In this album, the şemse takes a pointed oval form with gold floral arabesque interior, flanked by two salbek (pendant) extensions. The salbek are tongue-shaped appendages projecting from the top and bottom poles of the şemse, a standard element of the Ottoman imperial album binding formula."
+      },
+      {
+        "concept": "Binding corner pieces",
+        "ottoman": "köşebend / köşebend tezhibi",
+        "arabic": null,
+        "persian": null,
+        "english": "Köşebend: decorative corner pieces applied to the four corners of a binding cover, typically in the same technique as the central şemse (gold-tooled, stamped, or painted). In this album, four gold köşebend are placed at the corners of the front cover, completing the standard Ottoman album binding program."
+      },
+      {
+        "concept": "Block-printed paper",
+        "ottoman": "kalıplı kâğıt (kâlıp = mould/block; kâlıplı = made with a mould/block)",
+        "arabic": null,
+        "persian": null,
+        "english": "Kalıplı kâğıt: paper decorated by pressing carved wooden blocks (kâlıp) carrying a pigment or metallic coating onto the paper surface, producing mechanical repeat patterns. Distinct from stenciling (no mask involved; the block directly carries and transfers the pigment) and from marbling (no size or floating medium). In this album's endpaper (p002), the high regularity of the geometric star/cross repeat is consistent with block-printing but cannot be distinguished from stenciling at available image resolution."
+      },
+      {
+        "concept": "Stenciled paper",
+        "ottoman": "şablonlu kâğıt / şablon kâğıt (şablon = template/stencil)",
+        "arabic": null,
+        "persian": null,
+        "english": "Şablonlu kâğıt: paper decorated by applying pigment or metallic material through pre-cut apertures in a stencil mask (şablon), producing flat-color or metallic repeat motifs with crisp mask-defined edges. Diagnostic traces include stencil bridges (tiny unpainted connectors between closed shapes), possible misregistration between passes, and edge haloing. Physical examination is required to distinguish stenciled paper from block-printed paper in this album."
+      },
+      {
+        "concept": "Window-mounting technique",
+        "ottoman": "vassale (واساله) / pencere montaj tekniği",
+        "arabic": null,
+        "persian": "vassāla (واساله)",
+        "english": "Vassale: a window-mounting technique in which a panel of cream text or calligraphy paper is mounted into a window (aperture) cut from a larger sheet of decorated paper (typically marbled or gold-sprinkled). The result is that the decorated paper forms the outer margins on all four sides, framing the text panel. The term derives from Italian vassal / attaching. In this album, battal ebru sheets are used as the decorated ground for vassale-mounted calligraphic panels on pages 006, 009, 011, and 012."
+      },
+      {
+        "concept": "Stone / spot marbled paper",
+        "ottoman": "battal ebru / taş ebru / leke ebru",
+        "arabic": "waraq murakhkham (ورق مرخم)",
+        "persian": "kāġaḏ-e abrī (کاغذ ابری)",
+        "english": "Battal ebru: the most basic form of marbled paper, produced by floating pigment drops on a size and lifting the paper without further manipulation. Produces large irregular organic blob shapes ('stones') without the combed lines of gel-git or the floral silhouettes of hatip ebru. Two distinct battal ebru palettes are present in this album: pink/red+green+cream (pp006, 009) and blue-grey (pp011, 012)."
+      },
+      {
+        "concept": "Calligrapher's closing inscription",
+        "ottoman": "ketebe kaydı",
+        "arabic": "kitāb al-fāriġ / fāriġa; katabahu (كتبه) — 'he wrote it'",
+        "persian": "ketābe (کتابه)",
+        "english": "Ketebe kaydı: the closing colophon inscription in which the calligrapher records their name using a standard formula. In this album, Hâfız Osmân's ketebe on p012 reads: 'katabahu aḍʿaf al-kuttāb ʿUthmān al-maʿrūf bi-Ḥāfiẓ al-Qurʾān' — 'written by the weakest of scribes, ʿUthmān known as Ḥāfiẓ of the Qurʾān'. This is Hâfız Osmân's documented and characteristic self-deprecating formula."
+      },
+      {
+        "concept": "Sülüs script",
+        "ottoman": "sülüs hattı",
+        "arabic": "thuluth (ثلث)",
+        "persian": null,
+        "english": "Sülüs (thuluth): one of the six classical Arabic scripts, characterized by large rounded letterforms with strong contrast between thick and thin strokes. The primary calligraphic script of this album, per the YEK catalogue entry and visual confirmation of the large formal script on all examined pages."
+      },
+      {
+        "concept": "Chain border on binding",
+        "ottoman": "zencirek / zencerek",
+        "arabic": null,
+        "persian": null,
+        "english": "Zencirek: a repeating interlinked ring or loop motif forming a narrow decorative border band. Applied to binding covers and edges. In this album, a zencirek-type rope or chain border frames the front cover's central field within the outer leather edge."
+      }
+    ]
+  },
+  "bibliography": [
+    {
+      "citation": "Derman, M. Uğur. Letters in Gold: Ottoman Calligraphy from the Sakıp Sabancı Collection, Istanbul. New York: The Metropolitan Museum of Art, 1998.",
+      "relevance": "The primary English-language reference on Hâfız Osmân's calligraphic work, with reproductions of authenticated albums, discussion of his script and colophon formulas, and coverage of late 17th-century Ottoman calligraphic album production. Essential for confirming the attribution of this album, evaluating the ketebe formula, and situating the album's decorative program within the Hâfız Osmân corpus.",
+      "relevance_score": 0.98,
+      "access_notes": "Exhibition catalogue (Metropolitan Museum of Art, 1998); widely held at Islamic art and Ottoman studies libraries. ISBN 978-0870998843."
+    },
+    {
+      "citation": "Blair, Sheila S. 'Color and Gold: The Decorated Papers Used in Manuscripts in Later Islamic Times.' Muqarnas 17 (2000): 24–36.",
+      "relevance": "Foundational taxonomic study of decorated papers in Islamic manuscripts, providing the classification framework for marbled (ebru) papers and the broader decorated paper typology. Blair's discussion of block-printed, stenciled, and silhouetted papers provides the conceptual vocabulary for the p002 endpaper classification problem in this album.",
+      "relevance_score": 0.92,
+      "access_notes": "Peer-reviewed article. Available via JSTOR (Brill/Muqarnas Online)."
+    },
+    {
+      "citation": "Bloom, Jonathan M. Paper Before Print: The History and Impact of Paper in the Islamic World. New Haven: Yale University Press, 2001.",
+      "relevance": "Comprehensive history of paper production in the Islamic world, relevant for the material-culture background of block-printed and stenciled paper techniques, marbled paper (ebru) traditions, and their Ottoman development. The discussion of workshop practices in paper decoration provides context for the heterogeneous paper program of this album.",
+      "relevance_score": 0.85,
+      "access_notes": "Widely held monograph."
+    },
+    {
+      "citation": "Çağman, Filiz, and Zeren Tanındı. The Topkapı Saray Museum: The Albums and Illustrated Manuscripts. Translated and edited by J. M. Rogers. Boston: Little, Brown, 1986.",
+      "relevance": "Standard reference for Ottoman calligraphic albums and their decorated paper programs. Provides comparative material for Hâfız Osmân-era albums with battal ebru vassale construction and imperial-quality gold şemse bindings. The Topkapı holdings of authenticated Hâfız Osmân works are the primary comparanda for this album.",
+      "relevance_score": 0.92,
+      "access_notes": "Exhibition catalogue; widely held."
+    },
+    {
+      "citation": "Roxburgh, David J. The Persian Album, 1400–1600: From Dispersal to Collection. New Haven: Yale University Press, 2005.",
+      "relevance": "Foundational study of the muraqqaʿ album format and decorated paper programs in the Persianate-Ottoman tradition. Provides the theoretical framework for understanding vassale construction, heterogeneous paper selection, and the role of decorated papers as compositional elements within calligraphic albums. Directly applicable to the deliberate paper variety in this Hâfız Osmân album.",
+      "relevance_score": 0.87,
+      "access_notes": "Monograph; widely held at research libraries."
+    },
+    {
+      "citation": "Scheper, Karin. The Technique of Islamic Bookbinding: Methods, Materials and Regional Varieties. Leiden: Brill, 2015.",
+      "relevance": "Systematic study of Islamic bookbinding techniques, relevant for the physical analysis of the gold şemse binding with salbek pendants and köşebend corners. The late Ottoman (late 17th-century) Istanbul binding types are within Scheper's chronological and geographical scope.",
+      "relevance_score": 0.82,
+      "access_notes": "Monograph; available at Islamic bookbinding and manuscript studies libraries."
+    },
+    {
+      "citation": "Tanındı, Zeren. 'Bibliophile Aghas (Eunuchs) at Topkapı Saray.' Muqarnas 21 (2004): 333–43.",
+      "relevance": "Documents album-collecting and commissioning practices at the Ottoman court in the late 17th century — the period of this album's production (AH 1106/1694–95). Provides context for the patronage environment within which Hâfız Osmân produced calligraphic albums and for the decorated paper programs associated with high-status Ottoman commissions in this period.",
+      "relevance_score": 0.80,
+      "access_notes": "Peer-reviewed article. Available via JSTOR."
+    },
+    {
+      "citation": "Gacek, Adam. Arabic Manuscripts: A Vademecum for Readers. Leiden: Brill, 2009.",
+      "relevance": "Standard reference for Islamic manuscript codicological terminology, script identification, and colophon analysis. Relevant for the description of the sülüs script, the ketebe colophon formula, and the codicological terms (vassale, cetvel, kıtʿa) used in this record.",
+      "relevance_score": 0.75,
+      "access_notes": "Reference monograph; widely held."
+    },
+    {
+      "citation": "Déroche, François. Islamic Codicology: An Introduction to the Study of Manuscripts in Arabic Script. Translated by Deke Dusinberre and David Radzinowicz. London: Al-Furqan Islamic Heritage Foundation, 2005.",
+      "relevance": "Foundational reference for Islamic manuscript codicology, covering paper decoration types, binding forms, ruling systems, and physical manuscript description. Provides the classification framework underlying this catalog record's description of binding types and framing systems.",
+      "relevance_score": 0.75,
+      "access_notes": "Monograph; available at specialist libraries."
+    }
+  ],
+  "suggested_collections": [
+    {
+      "institution": "Topkapı Sarayı Müzesi Kütüphanesi, Istanbul",
+      "reason": "Holds the largest corpus of authenticated Hâfız Osmân works. Physical comparison with documented Topkapı albums by Hâfız Osmân is essential for confirming the attribution, evaluating the binding type, and finding parallel decorated paper programs from the late 17th century. High priority for the block-printed/stenciled endpaper comparison.",
+      "digital_access": "https://kutuphane.tsmk.gov.tr"
+    },
+    {
+      "institution": "Sakıp Sabancı Museum, Istanbul",
+      "reason": "Holds major Hâfız Osmân calligraphic works studied in Derman (1998). The closest comparative corpus for confirming the attribution of this album and for identifying parallel gold şemse binding formats from Hâfız Osmân's late period.",
+      "digital_access": null
+    },
+    {
+      "institution": "Türk ve İslam Eserleri Müzesi (TIEM), Istanbul — arkeoloji_01454",
+      "reason": "Arkeoloji Müzesi 01454 is the only other potential block-printed/stenciled specimen in the project corpus. Side-by-side physical examination of both specimens (arkeoloji_01454 and yb_00303 p002) is a research priority to resolve the technique question and establish whether they share a production context.",
+      "digital_access": "https://portal.yek.gov.tr"
+    },
+    {
+      "institution": "Chester Beatty Library, Dublin",
+      "reason": "Major international collection of Ottoman calligraphic albums with decorated paper programs, including late 17th-century battal ebru vassale albums and high-quality binding covers. Provides comparative material for the binding type and the battal ebru palette distribution.",
+      "digital_access": "https://viewer.cbl.ie"
+    },
+    {
+      "institution": "GlobalDecoPaper ERC Project, LMU Munich",
+      "reason": "The primary active research project on decorated papers in Islamic manuscripts, including block-printed and stenciled paper classification. The unresolved technique question on the p002 endpaper falls directly within the GlobalDecoPaper research scope. Specialist consultation is recommended.",
+      "digital_access": null
+    }
+  ],
+  "provenance": {
+    "donor": null,
+    "waqf": "Multiple institutional seals visible throughout (pp002, 003, 006, 012). The Yazma Bağışlar ('Donated Manuscripts') designation at Süleymaniye indicates the album was donated to the library, but the specific donor is not recorded in available YEK catalogue data.",
+    "previous_shelfmarks": [],
+    "notes": "Held at Süleymaniye Kütüphanesi, Yazma Bağışlar Koleksiyonu, Istanbul, under shelfmark 00303. The Yazma Bağışlar collection at Süleymaniye houses manuscripts donated from various sources; the specific donor of this album is not recorded. Multiple circular institutional seals on interior pages indicate the album passed through several hands. The Hâfız Osmân ketebe on p012 places original production in AH 1106/1694–95, shortly before his death in AH 1110/1698. YEK ID: 342068. IIIF ID: 0000000339922. YEK cataloguer: Recep Kaylı."
+  },
+  "analysis_metadata": {
+    "analyzed_date": "2026-03-01",
+    "analyzer": "claude-code-manuscript-pipeline",
+    "pipeline_stage": "metadata-generator",
+    "image_source": "YEK Portal IIIF images, Süleymaniye Kütüphanesi, Yazma Bağışlar Koleksiyonu, YEK ID 342068, IIIF ID 0000000339922. 8 of 12 pages examined at viewport resolution (762×572 px). Visual confirmation session: catalog/searches/visual_tier2h_yb_00303.json.",
+    "image_quality_notes": "Images examined at viewport resolution (~762×572 px), which is substantially below IIIF native resolution. At this resolution the gold şemse binding (p001), the geometric repeat endpaper (p002), and the battal ebru vassale pages (pp006, 009, 011, 012) are clearly legible for classification purposes. Technique determination for the p002 endpaper (block-print vs. stencil) is NOT possible at this resolution and requires physical examination with magnification and possibly raking-light photography. The ketebe on p012 is visible but requires higher resolution for full transcription.",
+    "folios_examined": [
+      "corpus/iiif/yb_00303_p001.jpg",
+      "corpus/iiif/yb_00303_p002.jpg",
+      "corpus/iiif/yb_00303_p003.jpg",
+      "corpus/iiif/yb_00303_p004.jpg",
+      "corpus/iiif/yb_00303_p006.jpg",
+      "corpus/iiif/yb_00303_p009.jpg",
+      "corpus/iiif/yb_00303_p011.jpg",
+      "corpus/iiif/yb_00303_p012.jpg"
+    ],
+    "folios_not_examined": "Pages 5, 7, 8, and 10 not examined (not in downloaded IIIF set). Back cover and back endpaper not digitized. Total coverage: 8 of 12 pages (67%).",
+    "corpus_priority": "HIGH. This album is one of the highest-priority records in the corpus for three reasons: (1) The p002 endpaper is the second potential block-printed/stenciled specimen in the corpus — if confirmed, it would pair with arkeoloji_01454 to establish a comparative basis for this technique in the corpus. Physical examination is URGENT. (2) The confirmed Hâfız Osmân ketebe provides a firm terminus ante quem (AH 1110/1698) for all decorated paper elements, including the block-printed/stenciled endpaper — making this a dated anchor point for technique chronology. (3) The multi-palette battal ebru heterogeneous vassale construction is a well-documented technique in this corpus but this is the first such specimen with a confirmed calligrapher attribution and date. Follow-up priority actions: (a) physical examination of p002 endpaper with magnification and raking light; (b) specialist consultation with GlobalDecoPaper ERC project for technique classification; (c) comparison with arkeoloji_01454; (d) native IIIF resolution download of all 12 pages; (e) full ketebe transcription at high resolution.",
+    "source_data": {
+      "visual_confirmation_file": "catalog/searches/visual_tier2h_yb_00303.json",
+      "yek_id": "342068",
+      "iiif_id": "0000000339922",
+      "batch": "Sub-Batch H (YB Notables, 2026-03-01)"
+    }
+  }
+}

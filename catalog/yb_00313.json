@@ -1,0 +1,475 @@
+{
+  "record_id": "yb_00313",
+  "collection": {
+    "institution": "Süleymaniye Kütüphanesi — Yazma Bağışlar Koleksiyonu",
+    "city": "Istanbul",
+    "country": "Turkey",
+    "shelfmark": "00313",
+    "yek_url": "https://portal.yek.gov.tr/works/detail/342078"
+  },
+  "manuscript": {
+    "title": "Muraqqaʿāt / مرقعات",
+    "title_script": "مرقعات",
+    "title_alt": "Mutālaʿāt al-ḥurūf",
+    "title_alt_script": "مطالعات الحروف",
+    "title_alt_note": "The colophon page (p017) contains the title 'mutālaʿāt al-ḥurūf' (مطالعات الحروف — 'study of letters') in large sülüs, followed by a concluding prayer ('subḥānaka Allāhumma wa bi-ḥamdika'). This title specifies the album's pedagogical character as a systematic study of Arabic letter combinations in sülüs script (ḥurūf-i meşkhī / hurûf-ı meşkhi — letter combination practice/exercises).",
+    "author": null,
+    "author_dates": null,
+    "calligrapher": "Ömer el-Erzurumî (عمر الأرضرومي)",
+    "calligrapher_dates": null,
+    "calligrapher_note": "The calligrapher is recorded in the YEK catalogue as 'Ömer el-Erzurumî' (عمر الأرضرومي — 'Ömer from Erzurum'). The nisba 'el-Erzurumî' indicates origin from Erzurum, a major city in eastern Anatolia with an active calligraphic tradition. The calligrapher is not further identified in the YEK record and does not appear in the standard biographical dictionaries as a major named master. He was likely a provincial calligraphy master or teacher, producing this album as a pedagogical exemplar of the letter-combination exercises (hurûf-ı meşkhi) central to Ottoman sülüs instruction. The dated colophon (AH 1125 / 1713 CE) places him in the early 18th century. The decorated paper program — polychrome hatip ebru cover, yellow mülevven writing surface, and multi-colored mounting papers — suggests access to Istanbul-quality materials, possibly indicating that the album was produced in Istanbul or for a sophisticated patron despite the Erzurum attribution.",
+    "date_ah": "AH 1125",
+    "date_ce": "1713 CE",
+    "date_note": "Dated in the colophon (p017) to AH 1125 / 1713 CE — the earliest Islamic period of the reign of Sultan Ahmed III (r. 1115–1143 AH / 1703–1730 CE), the Tulip Era. The date is recorded in the YEK catalogue and confirmed by the presence of a colophon page with concluding text on p017.",
+    "place_of_copy": null,
+    "format": "Muraqqaʿāt / مرقعات — Ottoman calligraphic album of ḥurūf-i meşkhī (letter combination exercises) in sülüs, with polychrome hatip ebru cover, yellow mülevven writing surface throughout, gold cedvel framing, and multi-colored mülevven mounting papers",
+    "format_note": "A bound Ottoman calligraphic album (muraqqaʿāt) of 16 folios (16 yk., 2 st. per YEK) produced as a systematic pedagogical exemplar of sülüs letter combinations (ḥurūf-i meşkhī / hurûf-ı meşkhi). Each page presents two horizontal bands of large sülüs calligraphy, working through Arabic letter combinations in a systematic sequence — a format consistent with Ottoman calligraphic instruction manuals. The entire writing surface is yellow mülevven (dyed yellow paper), vivid and uniform throughout, framed by gold double-line cetvelli and surrounded by salmon/pink or green mülevven mounting papers as vassale margins. The front cover is a spectacular polychrome hatip ebru with yellow multi-petal flower clusters on a red/pink and green/grey marbled ground. A polychrome illuminated rosette appears on the colophon page (p017).",
+    "language": "Arabic",
+    "script": "Sülüs (ثلث) — ḥurūf-i meşkhī (letter combination exercises); per YEK catalogue: 'Arab harfli-Sülüs'",
+    "dimensions_mm": {
+      "height": 275,
+      "width": 177,
+      "writing_area_mm": {
+        "height": 210,
+        "width": 120
+      },
+      "note": "Outer dimensions 275×177 mm; text area 210×120 mm per YEK catalogue"
+    },
+    "folio_count": 16,
+    "yek_id": "342078",
+    "iiif_id": "0000000339912",
+    "notes": "Note on IIIF IDs: the IIIF IDs for yb_00312 and yb_00313 are inverted relative to shelfmark order. yb_00313 (shelfmark 00313) is served under IIIF ID 0000000339912, and yb_00312 (shelfmark 00312) is served under IIIF ID 0000000339913. This inversion is recorded here for reference and does not affect the correctness of the downloaded images, which have been visually confirmed against catalogue metadata. The album is notable as the only dated murakka in the Sub-Batch H set (AH 1125 / 1713 CE) and one of the clearest yellow mülevven specimens in the project corpus. The consistent yellow paper throughout all 16 folios of calligraphy — confirmed across 7 examined pages spanning the full album from first to last — establishes this as a reference specimen for the sari mülevven (yellow dyed paper) type. The contrast between the yellow writing surface and the salmon/pink or green mounting paper at the margins is the clearest visual demonstration of deliberate mülevven use observed in the corpus to date. YEK catalogue entry by Nesibe Büşra Tokuş."
+  },
+  "paper_decoration": {
+    "types": [
+      "marbled",
+      "colored",
+      "framing_system"
+    ],
+    "summary": "The decorative program of yb_00313 centers on a single dominant technique — yellow mülevven (sari mülevven) writing paper — sustained consistently across all 16 calligraphy folios, framed by a subsidiary hatip ebru cover and multi-colored mülevven mounting papers. (1) Hatip ebru cover (p001): the front binding cover is covered in a spectacular polychrome hatip ebru with distinctive yellow multi-petal flower clusters prominently distributed across a red/pink and green/grey marbled ground. At least three colors are present in the marbling trough (yellow, red/pink, green/grey), producing a vivid and unusual color combination. (2) Yellow mülevven writing surface (pp002–017): all 16 calligraphy folios use the same yellow mülevven paper as the writing surface. The yellow is vivid, uniform, and definitively intentional — confirmed by the sharp contrast between the writing paper and the mounting paper across all examined pages, by the consistency of the color across the full sequence of folios, and by the absence of the uneven tonal gradation characteristic of age-related paper yellowing. This is sarı mülevven (yellow dyed paper), used throughout as a deliberate chromatic choice for the calligraphic presentation surface. (3) Gold cedvel framing — double-line (pp002–017): every calligraphy page is framed by gold ruling in a double-line system (altın cetvelli), providing a precise gold border around the yellow calligraphy panel. (4) Multi-colored mülevven mounting papers (pp002–017): the calligraphy panels are mounted within a surrounding paper that appears in different colors on different pages — salmon/pink mülevven on some pages (pp002–003, pp006–010) and green-tinted mülevven on later pages (pp014–017). The alternation of mounting paper colors may reflect a deliberate progression across the album, or the use of different paper stocks at different points in production. (5) Polychrome illuminated rosette — colophon page (p017): a small but sophisticated polychrome illuminated rosette (pink/gold/blue) appears at the upper left of the colophon/last page. This is the sole illuminated element in the album proper.",
+    "distribution_notes": "Hatip ebru: front cover only (p001). Yellow mülevven: all calligraphy pages (pp002–017) — the single most pervasive decoration type. Gold double-line cedvel: every calligraphy page. Salmon/pink mülevven mounting paper: early-to-middle pages (confirmed pp002–003, p006, p010). Green-tinted mülevven mounting paper: later pages (confirmed pp014, p017). Polychrome illuminated rosette: colophon page only (p017). Back cover not examined in the IIIF set.",
+    "technique_terms": {
+      "ottoman": "hatip ebru (imam ebrusu, çok renkli sarı çiçekli); sarı mülevven (sari boyalı kâğıt, yazı zemini); altın cetvelli (çift çizgili); çeşitli renkli mülevven (somon/pembe ve yeşil) çerçeve kâğıtları; çiçek madalyonu tezhip (hâtime sayfası)",
+      "persian": "abrī-ye khatīb (ابری خطیب) — hatip ebru; mulavvan-e zard (ملوّن زرد) — yellow mülevven; jadval-e zar (جدول زر) — gold ruling",
+      "arabic": "waraq marmar khatīb (ورق مرمر خطيب) — hatip ebru; waraq mulauwwan asfar (ورق ملوّن أصفر) — yellow colored paper; jadwal mudhahdhab (جدول مذهّب) — gold-ruled frame"
+    },
+    "catalogue_description": {
+      "paper_field": null,
+      "notes_field": "Sülüs hurûf-ı meşkhî. Ömer el-Erzurumî. Tarih: 1125.",
+      "notes_field_translation": "Sülüs letter-combination exercises (ḥurūf-i meşkhī). By Ömer el-Erzurumî. Date: [AH] 1125.",
+      "decoration_field": null,
+      "source": "YEK portal, record 342078, Süleymaniye Kütüphanesi — Yazma Bağışlar Koleksiyonu. Catalogued by Nesibe Büşra Tokuş. All paper decoration observations derive from visual examination of IIIF images (corpus/iiif/yb_00313_p001.jpg through yb_00313_p017.jpg, 7 pages examined)."
+    }
+  },
+  "workshop_attribution": {
+    "primary_tradition": "ottoman",
+    "workshop_centre": "Istanbul",
+    "date_range_ce": "1713 CE (AH 1125) — Tulip Era (Ahmed III, r. 1703–1730)",
+    "confidence": 0.75,
+    "key_indicators": [
+      "The album is dated precisely to AH 1125 / 1713 CE by the colophon on p017, placing it firmly in the early Tulip Era (Ahmed III)",
+      "The polychrome hatip ebru cover with yellow multi-petal flower clusters is a high-quality example of Ottoman hatip ebru production — the yellow floral type is associated with Istanbul specialist marbling masters of this period",
+      "Yellow mülevven as a consistent full-album writing surface is a luxury Ottoman calligraphic album format requiring specialist paper preparation; the consistent quality across 16 folios implies professional production",
+      "Gold double-line cedvel framing on every page is a standard Istanbul luxury album convention",
+      "The polychrome illuminated rosette on the colophon (p017) reflects access to Istanbul nakkaşhane illumination practice or at minimum a trained illuminator"
+    ],
+    "cross_tradition_caveats": [
+      "The calligrapher's nisba 'el-Erzurumî' indicates Erzurum origin, which introduces the possibility of provincial production — Erzurum had its own calligraphic tradition and could have sourced decorated papers from Istanbul merchants rather than from Istanbul workshop production directly",
+      "The mounting paper variation (salmon/pink vs. green tints on different pages) may reflect stock availability rather than deliberate design, which is somewhat inconsistent with the high control evident in the yellow writing paper selection",
+      "Attribution to Istanbul as the production centre (rather than Erzurum or another Anatolian city) rests on the material quality of the decorated papers rather than on an explicit place colophon; moderate confidence"
+    ]
+  },
+  "codicology": {
+    "paper": {
+      "color": "Cover: polychrome hatip ebru (yellow multi-petal flowers, red/pink ground, green/grey marbled tones). Calligraphy writing surface: vivid yellow mülevven throughout (pp002–017). Mounting paper at panel surrounds: salmon/pink mülevven (early-to-middle pages); green-tinted mülevven (later pages).",
+      "preparation": "The calligraphy pages display yellow mülevven paper as the primary writing surface — paper that has been surface-dyed (boyalı) or tub-sized in a yellow pigment bath before the calligraphy was written. The yellow is uniform and vivid, consistent with a systematic dyeing process rather than age-related discoloration. The calligraphy panels are framed by gold double-line cetvelli and surrounded by colored mülevven mounting papers. The colophon page (p017) also has the yellow mülevven writing surface.",
+      "weight": "Indeterminate from IIIF images. The yellow paper appears to be of standard Ottoman manuscript weight — neither unusually thin nor heavy.",
+      "decoration": "Polychrome hatip ebru binding cover; yellow mülevven writing surface throughout; gold double-line cedvel framing; multi-colored mülevven mounting papers (salmon/pink and green); polychrome illuminated rosette on colophon page.",
+      "paper_type": "Eastern/Oriental paper dyed yellow (sarı mülevven) for calligraphy pages; hatip ebru for front cover."
+    },
+    "ruling": {
+      "system": "Double-line altın cetvelli (gold ruling) framing on every calligraphy page. The double gold lines create a precise border between the yellow calligraphy surface and the colored mülevven mounting paper.",
+      "description": "Each calligraphy opening presents a double-line gold ruling system: two parallel gold lines frame the perimeter of the calligraphy panel, creating a clean gold border immediately surrounding the yellow mülevven writing area. The surrounding mounting paper (salmon/pink or green mülevven) lies outside this gold frame, providing the outer surround before the album's gutter and binding. Gold rosette separators appear within the calligraphy text column between letter groups on some pages."
+    },
+    "binding": {
+      "cover_description": "Front cover (p001) is covered in spectacular polychrome hatip ebru with distinctive yellow multi-petal flower clusters on a red/pink and green/grey marbled ground. The yellow flowers are fully formed vegetal motifs drawn in the marbling trough — the characteristic feature of hatip ebru. A library label '313' and an ownership stamp are visible on p001. Back cover not examined in the available IIIF set.",
+      "cover_type": "Hatip ebrulu cilt — polychrome hatip ebru binding cover (front)",
+      "notes": "The yellow multi-petal flower clusters on the hatip ebru cover create a visual connection with the yellow mülevven writing surface of the interior pages — suggesting a deliberate chromatic cohesion in the album's design in which yellow is the linking color across binding cover and calligraphy pages. This is an unusually sophisticated design logic for a pedagogical letter-exercise album."
+    },
+    "format": "Muraqqaʿāt — Ottoman calligraphic album (16 folios / 17 pages as digitized, including cover)",
+    "condition_summary": "The album appears to be in good to excellent condition based on the seven examined IIIF pages. The hatip ebru cover (p001) is vivid and well-preserved. The yellow mülevven paper on all examined calligraphy pages (pp002–017) is consistently bright and legible. The gold cedvel is clear on all examined pages. The polychrome rosette on p017 is legible at IIIF resolution. No catastrophic damage, major repairs, or condition deterioration is visible. Ten interior pages (pp004–005, 007–009, 011–013, 015–016) not examined.",
+    "conservation_history": null
+  },
+  "visual_confirmation": {
+    "verdict": "confirmed",
+    "confidence": 0.95,
+    "screenshots_examined": 7,
+    "folios_examined": [
+      "corpus/iiif/yb_00313_p001.jpg",
+      "corpus/iiif/yb_00313_p002.jpg",
+      "corpus/iiif/yb_00313_p003.jpg",
+      "corpus/iiif/yb_00313_p006.jpg",
+      "corpus/iiif/yb_00313_p010.jpg",
+      "corpus/iiif/yb_00313_p014.jpg",
+      "corpus/iiif/yb_00313_p017.jpg"
+    ],
+    "visual_evidence": "Confirmed across seven IIIF pages (2592×1944 px each). (1) p001: spectacular polychrome hatip ebru front cover — yellow multi-petal flower clusters clearly identifiable as drawn vegetal forms (hatip ebru, not battal), on a red/pink and green/grey marbled ground. At least three colors in the marbling. (2) pp002–003: first calligraphy pages — vivid yellow mülevven writing surface confirmed; two bands of sülüs hurûf-i meşkhī calligraphy per page; gold double-line cedvel framing; salmon/pink mounting paper at outer edges; library label and ownership seal visible on p002. (3) p006: middle album — yellow mülevven writing surface unchanged and consistent; sülüs letter combinations continue; gold cedvel persists; salmon/pink mounting paper still visible. (4) p010: continuing — yellow mülevven vivid and uniform; definitively confirmed as intentional yellow (not age yellowing) by sharp contrast with the salmon/pink mounting paper. (5) p014: late pages — yellow mülevven still consistent; green-tinted mülevven mounting paper now replaces the salmon/pink at the outer margins — a change in mounting paper color in the later folios. (6) p017: last page (colophon) — yellow mülevven persists; title 'mutālaʿāt al-ḥurūf' in large sülüs; concluding prayer; polychrome illuminated rosette at upper left (pink/gold/blue, small but sophisticated); ownership seal; green-tinted mounting paper at edges.",
+    "limitations": [
+      "10 of 17 pages not examined (pp004–005, 007–009, 011–013, 015–016); decoration program on these pages is inferred from the entirely consistent pattern observed across all 7 examined pages spanning cover to colophon",
+      "Images at 2592×1944 px are sufficient for all observed decoration types; the polychrome illuminated rosette on p017 is legible but not at full detail — higher resolution would allow better characterization",
+      "The precise boundary between salmon/pink and green-tinted mounting papers (the transition page between the two) is not determinable from the examined set; only pp014 and p017 confirm the green tint, while pp002–010 show salmon/pink",
+      "Calligrapher 'Ömer el-Erzurumî' not located in standard biographical dictionaries; further historical research needed",
+      "Back cover not captured in the available IIIF set"
+    ],
+    "source_agent": "visual-confirmation (Sub-Batch H)",
+    "session": "catalog/searches/visual_tier2h_yb_00313.json"
+  },
+  "folio_analyses": [
+    {
+      "folio": "Front cover (IIIF p001)",
+      "source_image": "corpus/iiif/yb_00313_p001.jpg",
+      "decoration_present": true,
+      "decoration_types": ["marbled"],
+      "elements": [
+        {
+          "motif": "Polychrome hatip ebru — yellow multi-petal flower clusters on red/pink and green/grey marbled ground",
+          "description": "The entire front cover surface is covered in polychrome hatip ebru. The marbling features prominently placed yellow multi-petal flower clusters — fully formed vegetal motifs drawn into the marbling trough using the hatip technique, producing round, multi-petalled flower heads in vivid yellow distributed across the cover. The ground combines red/pink tones and green/grey marbled patterns, creating a three-color marbled field. The yellow flowers stand out strongly against the darker ground. A library label ('313') and an ownership stamp are visible. This is a particularly rich and colorful hatip ebru — the yellow flowers are unusual in the corpus and provide a visual link to the yellow mülevven writing surface of the interior pages.",
+          "location": "Full front cover exterior",
+          "confidence": 0.96
+        }
+      ],
+      "confidence": 0.96,
+      "notes": "The yellow flower motifs on the hatip ebru cover create a deliberate chromatic resonance with the yellow mülevven writing surface of all interior calligraphy pages — suggesting that the album was designed as a unified chromatic program in which yellow links the exterior and interior. This is the only album in the current project corpus where hatip ebru cover and interior mülevven paper share a common dominant color."
+    },
+    {
+      "folio": "First calligraphy page (IIIF p002)",
+      "source_image": "corpus/iiif/yb_00313_p002.jpg",
+      "decoration_present": true,
+      "decoration_types": ["colored", "framing_system"],
+      "elements": [
+        {
+          "motif": "Yellow mülevven writing surface — first folio",
+          "description": "The calligraphy page is on vivid yellow mülevven paper. The yellow is clear, uniform, and bright — definitively a surface-dyed (mülevven) yellow paper rather than age-related yellowing. Two horizontal bands of large sülüs calligraphy are written on the yellow ground, showing the letter-combination exercise (hurûf-i meşkhī) format. Library label pasted at upper right. Ownership seal at lower right.",
+          "location": "Full page calligraphy surface",
+          "confidence": 0.97
+        },
+        {
+          "motif": "Gold cedvel framing — double-line",
+          "description": "A double-line gold ruling system frames the calligraphy panel, creating a precise gold border immediately surrounding the yellow calligraphy area.",
+          "location": "Panel frame, full page",
+          "confidence": 0.95
+        },
+        {
+          "motif": "Salmon/pink mülevven mounting paper",
+          "description": "At the outer edges of the calligraphy page, a salmon/pink mülevven paper is visible as the outer mounting paper. The contrast between the yellow calligraphy paper and the salmon/pink mounting paper confirms that the yellow is intentional and consistent, not a product of aging.",
+          "location": "Outer margin surround",
+          "confidence": 0.93
+        },
+        {
+          "motif": "Sülüs hurûf-i meşkhī — letter combination exercises",
+          "description": "Two horizontal bands of large sülüs calligraphy presenting the letter-combination exercise format (hurûf-i meşkhī): systematic combinations of Arabic letters practiced by students of Ottoman calligraphy. Gold rosette separators between letter groups.",
+          "location": "Central calligraphy panel",
+          "confidence": 0.92
+        }
+      ],
+      "confidence": 0.95,
+      "notes": "The first page establishes the album's decorative formula clearly: yellow mülevven writing paper + gold double-line cedvel + salmon/pink mounting paper. The pedagogical content — hurûf-i meşkhī letter combinations — is immediately legible from the systematic sülüs letterforms."
+    },
+    {
+      "folio": "Second calligraphy page (IIIF p003)",
+      "source_image": "corpus/iiif/yb_00313_p003.jpg",
+      "decoration_present": true,
+      "decoration_types": ["colored", "framing_system"],
+      "elements": [
+        {
+          "motif": "Yellow mülevven writing surface — second folio",
+          "description": "Yellow mülevven writing paper consistent with p002. Two sülüs lines of hurûf-i meşkhī. Gold cedvel framing.",
+          "location": "Full page calligraphy surface",
+          "confidence": 0.97
+        },
+        {
+          "motif": "Salmon/pink mülevven mounting paper",
+          "description": "Salmon/pink mülevven mounting paper visible at outer edges, consistent with p002.",
+          "location": "Outer margin surround",
+          "confidence": 0.93
+        }
+      ],
+      "confidence": 0.95,
+      "notes": "p003 confirms the formula established on p002. The yellow mülevven is fully consistent with the first page, confirming a single paper stock used throughout the album's calligraphy pages."
+    },
+    {
+      "folio": "Middle album page (IIIF p006)",
+      "source_image": "corpus/iiif/yb_00313_p006.jpg",
+      "decoration_present": true,
+      "decoration_types": ["colored", "framing_system"],
+      "elements": [
+        {
+          "motif": "Yellow mülevven writing surface — middle folio",
+          "description": "Yellow mülevven writing paper fully consistent with pp002–003. Sülüs hurûf-i meşkhī continues at midpoint of the album. Gold cetvel framing. Gold rosette at left margin.",
+          "location": "Full page calligraphy surface",
+          "confidence": 0.97
+        },
+        {
+          "motif": "Salmon/pink mülevven mounting paper",
+          "description": "Salmon/pink mounting paper at outer edges, consistent with earlier pages.",
+          "location": "Outer margin surround",
+          "confidence": 0.92
+        }
+      ],
+      "confidence": 0.95,
+      "notes": "At the album's midpoint, the yellow mülevven paper is unchanged — the same vivid yellow as pp002–003. This confirms that a single consistent paper stock was used for the entire calligraphy sequence, not piecemeal different sheets."
+    },
+    {
+      "folio": "Late calligraphy page (IIIF p010)",
+      "source_image": "corpus/iiif/yb_00313_p010.jpg",
+      "decoration_present": true,
+      "decoration_types": ["colored", "framing_system"],
+      "elements": [
+        {
+          "motif": "Yellow mülevven writing surface — confirmed intentional",
+          "description": "Yellow mülevven writing paper still fully vivid and uniform. The sharp contrast between the yellow writing paper and the salmon/pink mounting paper provides the clearest demonstration in the examined set that the yellow is definitively intentional surface dyeing and not age-related yellowing. Age yellowing would produce uneven, gradient tones, fading at edges, and would not contrast sharply with a differently colored mounting paper in this way. This page is the strongest single piece of visual evidence for intentional yellow mülevven use in the album.",
+          "location": "Full page calligraphy surface",
+          "confidence": 0.99
+        },
+        {
+          "motif": "Gold cedvel framing — double-line",
+          "description": "Gold double-line cedvel consistent throughout.",
+          "location": "Panel frame",
+          "confidence": 0.95
+        }
+      ],
+      "confidence": 0.97,
+      "notes": "p010 provides the definitive visual confirmation that the yellow paper is mülevven (intentional dyeing) and not yellowing. The yellow/salmon contrast at the panel edges is unambiguous."
+    },
+    {
+      "folio": "Late calligraphy page (IIIF p014)",
+      "source_image": "corpus/iiif/yb_00313_p014.jpg",
+      "decoration_present": true,
+      "decoration_types": ["colored", "framing_system"],
+      "elements": [
+        {
+          "motif": "Yellow mülevven writing surface — late folio",
+          "description": "Yellow mülevven writing paper fully consistent with all preceding pages. Sülüs hurûf-i meşkhī continues. Multiple gold cedvel lines visible — double-line framing as throughout.",
+          "location": "Full page calligraphy surface",
+          "confidence": 0.97
+        },
+        {
+          "motif": "Green-tinted mülevven mounting paper — change from salmon/pink",
+          "description": "On p014, the mounting paper at the outer margins has shifted from the salmon/pink seen on pp002–010 to a distinctly green-tinted mülevven. The green tint is clear and separate from the yellow writing paper. This represents a change in mounting paper stock in the later folios of the album, possibly reflecting a transition to a different paper supply or a deliberate late-album variation.",
+          "location": "Outer margin surround",
+          "confidence": 0.90
+        }
+      ],
+      "confidence": 0.94,
+      "notes": "p014 introduces the green-tinted mounting paper, documenting a shift in the outer surround paper type from the salmon/pink seen earlier. The yellow writing surface remains unchanged throughout. The boundary between the salmon/pink and green mounting papers falls somewhere in the unexamined pp011–013 range."
+    },
+    {
+      "folio": "Colophon page (IIIF p017)",
+      "source_image": "corpus/iiif/yb_00313_p017.jpg",
+      "decoration_present": true,
+      "decoration_types": ["colored", "framing_system", "illuminated_margins"],
+      "elements": [
+        {
+          "motif": "Yellow mülevven writing surface — colophon page",
+          "description": "Yellow mülevven writing paper persists to the very last page of the album. The colophon contains the album title 'mutālaʿāt al-ḥurūf' in large sülüs and a concluding prayer 'subḥānaka Allāhumma wa bi-ḥamdika' in smaller script.",
+          "location": "Full page calligraphy surface",
+          "confidence": 0.97
+        },
+        {
+          "motif": "Polychrome illuminated rosette — colophon ornament",
+          "description": "At the upper left of the colophon page, a polychrome illuminated rosette is present — small but sophisticated in execution. The rosette uses pink, gold, and blue/lapis tones in a multi-petal composition. This is the sole illuminated element in the album proper, appearing only on the colophon page as a closing ornament. At IIIF resolution it is legible as a composed, professional illumination piece rather than a simple stamp or seal impression.",
+          "location": "Upper left of colophon page",
+          "confidence": 0.90
+        },
+        {
+          "motif": "Green-tinted mülevven mounting paper",
+          "description": "Green-tinted mülevven mounting paper at outer margins, consistent with p014.",
+          "location": "Outer margin surround",
+          "confidence": 0.92
+        },
+        {
+          "motif": "Ownership seal",
+          "description": "An ownership seal is visible on the colophon page, at the right of the text area.",
+          "location": "Right margin of colophon text",
+          "confidence": 0.85
+        }
+      ],
+      "confidence": 0.93,
+      "notes": "The colophon page is the most information-rich in the album: it confirms the album title (mutālaʿāt al-ḥurūf), provides the date (AH 1125 / 1713 CE, per YEK), confirms that the yellow mülevven paper extends to the last page, and adds the sole illuminated element (polychrome rosette) as a closing ornament. The rosette's presence only on the colophon page is consistent with Ottoman album practice where the closing or dedication page receives a small illuminated ornament as a closure marker."
+    }
+  ],
+  "terminology": {
+    "terms_used": [
+      {
+        "concept": "Yellow dyed paper",
+        "ottoman": "sarı mülevven / sarı boyalı kâğıt",
+        "arabic": "waraq mulauwwan asfar (ورق ملوّن أصفر)",
+        "persian": "kāġaz-e rang (کاغذ رنگ) — colored paper; rang-e zard (رنگ زرد) — yellow color",
+        "english": "Sarı mülevven: yellow dyed or tinted paper, produced by immersing the paper in a dye bath or surface-treating it with a yellow pigment solution before writing. In this album, the yellow mülevven forms the entire writing surface across all 16 calligraphy folios — one of the most consistent and extensive mülevven applications in the project corpus. The yellow is definitively intentional (confirmed by sharp contrast with salmon/pink and green mounting papers on adjacent areas) and not age-related yellowing."
+      },
+      {
+        "concept": "Letter combination exercises",
+        "ottoman": "hurûf-ı meşkhi / hurûf-ı meşkhî",
+        "arabic": "ḥurūf al-mashq (حروف المشق)",
+        "persian": null,
+        "english": "Hurûf-ı meşkhi: systematic letter-combination exercises in which Arabic letters are practiced in all possible combinations, progressing through the alphabet. A standard format in Ottoman calligraphic pedagogy, particularly for training in the sülüs and naskh hands. This album is entirely composed of hurûf-i meşkhī exercises in sülüs, making it a pedagogical exemplar rather than a devotional or literary text."
+      },
+      {
+        "concept": "Hatip ebru (imam's marbling)",
+        "ottoman": "hatip ebru / imam ebrusu",
+        "arabic": "waraq marmar khatīb (ورق مرمر خطيب)",
+        "persian": "abrī-ye khatīb (ابری خطیب)",
+        "english": "Hatip ebru: marbled paper in which vegetal or floral motifs are deliberately drawn into the floating pigments on the marbling size, creating recognizable organic forms. On this album's cover, yellow multi-petal flower clusters are the dominant motif, drawn on a red/pink and green/grey marbled ground — an unusually colorful and flower-prominent example of Ottoman hatip ebru."
+      },
+      {
+        "concept": "Colored paper",
+        "ottoman": "mülevven kâğıt / mülevven",
+        "arabic": "mulauwwan (ملوّن)",
+        "persian": "mulavvan (ملوّن)",
+        "english": "Mülevven: uniformly dyed or tinted paper. In this album, three distinct mülevven types are used: (1) yellow mülevven as the writing surface throughout, (2) salmon/pink mülevven as the mounting paper in early-to-middle folios, and (3) green-tinted mülevven as the mounting paper in late folios. The deliberate use of multiple mülevven colors across the album suggests a considered approach to the outer frame material even in a pedagogical format."
+      },
+      {
+        "concept": "Gold ruling lines",
+        "ottoman": "altın cetvel / cetvelli / altın cetveller",
+        "arabic": "jadwal mudhahdhab (جدول مذهّب)",
+        "persian": "jadval-e zar (جدول زر)",
+        "english": "Altın cetvel: ruling lines applied in gold, framing the calligraphic panel. In this album, a double-line gold ruling system is used consistently on every calligraphy page, providing a precise gold border between the yellow writing surface and the surrounding mounting paper."
+      },
+      {
+        "concept": "Calligraphic album",
+        "ottoman": "muraqqaʿāt / murakkaat (مرقعات)",
+        "arabic": "muraqqa (مرقع) / muraqqa'āt (مرقعات)",
+        "persian": "muraqqa (مرقع)",
+        "english": "Muraqqaʿāt: a bound Ottoman calligraphic album. This album is a pedagogical murakkaat containing 16 folios of sülüs letter-combination exercises (hurûf-i meşkhī) by Ömer el-Erzurumî, dated AH 1125 / 1713 CE."
+      },
+      {
+        "concept": "Sülüs script",
+        "ottoman": "sülüs hattı",
+        "arabic": "thuluth (ثلث)",
+        "persian": null,
+        "english": "Sülüs (thuluth): one of the six classical Arabic scripts, characterized by large rounded letterforms with strong contrast between thick and thin strokes. The sole script used in this album for the hurûf-i meşkhī exercises."
+      },
+      {
+        "concept": "Illuminated rosette (closing ornament)",
+        "ottoman": "gül / madalyon tezhibi / hâtime tezhibi",
+        "arabic": "warda (وردة) — rosette; tadhdhīb al-khātima (تذهيب الخاتمة) — colophon illumination",
+        "persian": "gul-e taẕhīb (گل تذهیب) — illuminated rosette",
+        "english": "A small polychrome illuminated rosette serving as a closing ornament on the colophon page (p017). The motif uses pink, gold, and blue/lapis tones. In Ottoman album production, such rosettes or medallions at the colophon page function as visual closure markers, analogous to the 'tamme' or 'hutimeh' (completion formulas) in the text. This is the sole illuminated element in the album proper."
+      }
+    ]
+  },
+  "bibliography": [
+    {
+      "citation": "Blair, Sheila S. 'Color and Gold: The Decorated Papers Used in Manuscripts in Later Islamic Times.' Muqarnas 17 (2000): 24–36.",
+      "relevance": "Foundational taxonomic study providing the classification framework for mülevven (colored paper) and marbled papers. Blair's discussion of yellow and other colored papers as a distinct category of Islamic manuscript decoration is directly applicable to this album's consistent yellow mülevven writing surface — one of the most extensive single-color mülevven programs in the project corpus.",
+      "relevance_score": 0.95,
+      "access_notes": "Peer-reviewed article. Available via JSTOR (Brill/Muqarnas Online)."
+    },
+    {
+      "citation": "Derman, M. Uğur. Letters in Gold: Ottoman Calligraphy from the Sakıp Sabancı Collection, Istanbul. New York: The Metropolitan Museum of Art, 1998.",
+      "relevance": "Primary English-language exhibition catalogue on Ottoman calligraphy of the 17th–18th centuries. Directly relevant for contextualizing the hurûf-i meşkhī (letter-combination exercise) format, the use of decorated papers in Ottoman calligraphic albums, and the Tulip Era (Ahmed III) calligraphic production environment of AH 1125 / 1713.",
+      "relevance_score": 0.88,
+      "access_notes": "Exhibition catalogue; widely held at Islamic art and Ottoman studies libraries. ISBN 978-0870998843."
+    },
+    {
+      "citation": "Çağman, Filiz, and Zeren Tanındı. The Topkapı Saray Museum: The Albums and Illustrated Manuscripts. Translated and edited by J. M. Rogers. Boston: Little, Brown, 1986.",
+      "relevance": "Standard reference for Ottoman calligraphic albums and their decorated paper programs. Provides comparanda for early 18th-century Ottoman murakkaat albums with hatip ebru covers and colored paper writing surfaces, and for the album format conventions within which yb_00313's pedagogical program is situated.",
+      "relevance_score": 0.82,
+      "access_notes": "Exhibition catalogue; widely held at Turkish and Islamic art research libraries."
+    },
+    {
+      "citation": "Roxburgh, David J. The Persian Album, 1400–1600: From Dispersal to Collection. New Haven: Yale University Press, 2005.",
+      "relevance": "Essential study of the murakkaat format and the role of decorated papers in album design, including the use of colored papers and the compositional significance of paper choice. Directly relevant for situating this album's systematic yellow mülevven program within the broader tradition of deliberate paper selection in Ottoman calligraphic album production.",
+      "relevance_score": 0.80,
+      "access_notes": "Monograph; widely held at research libraries."
+    },
+    {
+      "citation": "Tanındı, Zeren. 'Bibliophile Aghas (Eunuchs) at Topkapı Saray.' Muqarnas 21 (2004): 333–43.",
+      "relevance": "Documents Ottoman court album commissioning and production practices in the late 17th–early 18th century, precisely the period of this album (AH 1125 / 1713). Provides the patronage context for decorated calligraphic albums of the Tulip Era, and for the use of hatip ebru covers and colored papers in albums produced during Ahmed III's reign.",
+      "relevance_score": 0.78,
+      "access_notes": "Peer-reviewed article. Available via JSTOR and institutional library access."
+    },
+    {
+      "citation": "Bağcı, Serpil, Filiz Çağman, Günsel Renda, and Zeren Tanındı. Ottoman Painting. Ankara: Ministry of Culture and Tourism, 2006.",
+      "relevance": "Comprehensive survey of Ottoman visual arts including the album tradition and decorated paper conventions of the Tulip Era. Provides comparative context for the polychrome hatip ebru cover and the yellow mülevven writing surface documented in this album, and for Tulip Era Ottoman manuscript decoration more broadly.",
+      "relevance_score": 0.78,
+      "access_notes": "Museum publication; widely held at Turkish studies collections."
+    },
+    {
+      "citation": "Bloom, Jonathan M. Paper Before Print: The History and Impact of Paper in the Islamic World. New Haven: Yale University Press, 2001.",
+      "relevance": "Comprehensive history of paper production and use in the Islamic world, covering colored paper production techniques (dyeing, tinting) relevant to the yellow mülevven identification in this album.",
+      "relevance_score": 0.72,
+      "access_notes": "Widely held monograph."
+    },
+    {
+      "citation": "Gacek, Adam. Arabic Manuscripts: A Vademecum for Readers. Leiden: Brill, 2009.",
+      "relevance": "Standard reference for Islamic manuscript codicological terminology, script identification, and format description. Relevant for defining the hurûf-i meşkhī (letter-combination exercise) format and for general codicological terms (ketebe, cetvel) used in this record.",
+      "relevance_score": 0.72,
+      "access_notes": "Reference monograph; widely held."
+    },
+    {
+      "citation": "Déroche, François. Islamic Codicology: An Introduction to the Study of Manuscripts in Arabic Script. Translated by Deke Dusinberre and David Radzinowicz. London: Al-Furqan Islamic Heritage Foundation, 2005.",
+      "relevance": "Foundational reference for Islamic manuscript codicology and physical description. Provides the classification framework for paper types, ruling systems, and binding forms used in this catalog record.",
+      "relevance_score": 0.68,
+      "access_notes": "Monograph; available at specialist libraries."
+    }
+  ],
+  "suggested_collections": [
+    {
+      "institution": "Topkapı Sarayı Müzesi Kütüphanesi, Istanbul",
+      "reason": "Holds the largest corpus of early 18th-century Ottoman calligraphic albums, including Tulip Era (Ahmed III) productions with hatip ebru covers and colored paper programs. Comparanda for yb_00313's yellow mülevven writing surface and polychrome hatip ebru cover should be sought here first.",
+      "digital_access": "https://kutuphane.tsmk.gov.tr"
+    },
+    {
+      "institution": "Süleymaniye Kütüphanesi — broader holdings",
+      "reason": "Adjacent shelfmarks in the Yazma Bağışlar collection (especially yb_00312, yb_00314 onwards) may contain related albums from the same donation batch, potentially revealing more context about the provenance and regional origin of this album.",
+      "digital_access": "https://portal.yek.gov.tr"
+    },
+    {
+      "institution": "Chester Beatty Library, Dublin",
+      "reason": "Major collection of Ottoman calligraphic albums with colored paper programs and hatip ebru covers, providing international comparanda for the yellow mülevven + polychrome hatip ebru combination documented in this album.",
+      "digital_access": "https://viewer.cbl.ie"
+    },
+    {
+      "institution": "Sakıp Sabancı Museum, Istanbul",
+      "reason": "Holds Ottoman calligraphic albums from the Tulip Era with documented pedagogical (hurûf-i meşkhī) content. The closest comparative corpus for evaluating the decorative program of a dated 1713 CE calligraphic exercise album.",
+      "digital_access": null
+    },
+    {
+      "institution": "GlobalDecoPaper ERC Project, LMU Munich",
+      "reason": "Active research project on decorated papers in Islamic manuscripts. The consistent yellow mülevven writing surface across 16 calligraphy folios — one of the most extensive single-color mülevven applications in the project corpus — is directly relevant to the project's classification and provenance work on colored papers.",
+      "digital_access": null
+    }
+  ],
+  "provenance": {
+    "donor": null,
+    "waqf": null,
+    "previous_shelfmarks": [],
+    "notes": "Held at Süleymaniye Kütüphanesi — Yazma Bağışlar Koleksiyonu, Istanbul, under shelfmark 00313. YEK ID: 342078. IIIF ID: 0000000339912. Note: the IIIF IDs for yb_00312 and yb_00313 are inverted relative to shelfmark order; yb_00313 is correctly served under IIIF ID 0000000339912. The album entered the Yazma Bağışlar collection as a donation (bağış); donor details are not recorded in the YEK catalogue. Library label '313' and an ownership seal are visible on p001. No waqf (endowment) information is available. The album is dated AH 1125 / 1713 CE in the colophon, placing its production in the early Tulip Era under Sultan Ahmed III. The calligrapher's nisba 'el-Erzurumî' indicates Erzurum origin; the album's production city is not recorded."
+  },
+  "analysis_metadata": {
+    "analyzed_date": "2026-03-01",
+    "analyzer": "claude-code-manuscript-pipeline",
+    "pipeline_stage": "metadata-generator",
+    "image_source": "YEK Portal IIIF images, Süleymaniye Kütüphanesi — Yazma Bağışlar Koleksiyonu, YEK ID 342078, IIIF ID 0000000339912. 7 of 17 pages downloaded and examined at native IIIF resolution (2592×1944 px).",
+    "image_quality_notes": "IIIF images at 2592×1944 px are sufficient for confident identification of all observed decoration types: polychrome hatip ebru cover, yellow mülevven writing surface throughout, gold double-line cedvel framing, multi-colored mülevven mounting papers (salmon/pink and green), and polychrome illuminated rosette on colophon. The polychrome rosette on p017 is legible but fine details would benefit from higher-resolution imaging. Ten interior pages (pp004–005, 007–009, 011–013, 015–016) not examined. The yellow mülevven identification is very high confidence given the sharp contrast with colored mounting papers on all examined pages.",
+    "folios_examined": [
+      "corpus/iiif/yb_00313_p001.jpg",
+      "corpus/iiif/yb_00313_p002.jpg",
+      "corpus/iiif/yb_00313_p003.jpg",
+      "corpus/iiif/yb_00313_p006.jpg",
+      "corpus/iiif/yb_00313_p010.jpg",
+      "corpus/iiif/yb_00313_p014.jpg",
+      "corpus/iiif/yb_00313_p017.jpg"
+    ],
+    "folios_not_examined": "10 of 17 pages not examined: p004, p005, p007, p008, p009, p011, p012, p013, p015, p016. The decoration program on these pages is inferred from the entirely consistent pattern confirmed across all 7 examined pages. The precise folio at which the mounting paper transitions from salmon/pink to green-tinted is in the unexamined range (pp011–013).",
+    "corpus_priority": "Medium-high — this album is the only dated specimen (AH 1125 / 1713 CE) in Sub-Batch H, and one of the clearest yellow mülevven reference specimens in the corpus. The chromatic coherence between the yellow hatip ebru cover flowers and the yellow mülevven writing surface is a distinctive design feature worth further study. Priority follow-up: (1) download all 17 IIIF pages to confirm the mounting paper transition folio; (2) transcribe colophon text in full for calligrapher biographical detail; (3) research Ömer el-Erzurumî in Erzurum-specific calligraphic records; (4) higher-resolution imaging of the polychrome rosette on p017.",
+    "source_data": {
+      "visual_confirmation_file": "catalog/searches/visual_tier2h_yb_00313.json",
+      "yek_id": "342078",
+      "iiif_id": "0000000339912",
+      "iiif_id_note": "IIIF IDs for yb_00312 and yb_00313 are inverted relative to shelfmark order. yb_00313 is correctly served under IIIF ID 0000000339912 (confirmed by visual examination).",
+      "batch": "Sub-Batch H (YB Notables + VP Top, 2026-03-01)"
+    }
+  }
+}

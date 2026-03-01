@@ -1,0 +1,287 @@
+{
+  "record_id": "yb_00300",
+  "collection": {
+    "institution": "Süleymaniye Kütüphanesi — Yazma Bağışlar Koleksiyonu",
+    "city": "Istanbul",
+    "country": "Turkey",
+    "shelfmark": "00300",
+    "yek_url": "https://portal.yek.gov.tr/works/detail/342065"
+  },
+  "manuscript": {
+    "title": "Muraqqaʿāt / مرقعات",
+    "title_script": "مرقعات",
+    "title_alt": "Üsküdarlı Hasan Muraqqaʿāsı",
+    "author": null,
+    "author_dates": null,
+    "calligrapher": "Üsküdarlı Hasan (أسكداري حسن)",
+    "calligrapher_dates": null,
+    "calligrapher_note": "The YEK catalogue assigns this album to Üsküdarlı Hasan (literally 'Hasan of Üsküdar', also rendered Üsküdarlı Ḥasan). Üsküdar, on the Asian shore of the Bosphorus, was a significant centre of Ottoman calligraphic activity in the 18th century. No further biographical data on this calligrapher has been located in available references. The name implies a calligrapher active in or associated with the Üsküdar community, consistent with the album's date of AH 1160 / 1747–48 CE — a period of active Ottoman calligraphic production under the Tulip-Era and subsequent patronage traditions. Attribution rests solely on the YEK catalogue record by Recep Kaylı; no independent ketebe has been reported in the available catalogue notes.",
+    "date_ah": "1160",
+    "date_ce": "1747–48",
+    "date_note": "Date AH 1160 / CE 1747–48 is recorded in the YEK catalogue. No date verification from a ketebe inscription has been independently performed at available image resolution. The date places this album in the late Ottoman period, approximately half a century after the Tulip Era (1718–1730), during a phase of continued calligraphic album production.",
+    "place_of_copy": null,
+    "format": "Muraqqaʿāt / مرقعات — calligraphic album with hatip ebru front cover and cetvelli-framed sülüs panels",
+    "format_note": "A bound Ottoman calligraphic album (muraqqaʿāt) of 10 folios (5 st., i.e. 5 double-leaf gatherings or 10 leaves) totalling 12 digitized pages, containing sülüs and presumably naskh calligraphic specimens (kıtʿa) with hadith content. The album's distinguishing decorative feature is its hatip ebru (silhouetted floral-marbled) front cover. Interior calligraphy pages are framed by multi-layered cetvelli (ruled line systems) with plain cream margins throughout — CRITICAL CORRECTION: triage source claimed vassale construction ('hatip ebru endpapers throughout') but this is NOT confirmed by visual examination. No marbled endpapers or vassale mounting are present in the examined interior pages. The decoration program is therefore: hatip ebru cover + cetvelli framing.",
+    "language": "Arabic",
+    "script": "Sülüs (ثلث) — per YEK catalogue: 'Arap harfli—Sülüs'",
+    "dimensions_mm": {
+      "height": 195,
+      "width": 145,
+      "writing_area_mm": {
+        "height": 155,
+        "width": 60
+      },
+      "note": "Outer dimensions 195×145 mm; text area 155×60 mm per YEK catalogue. The relatively narrow text area (60 mm width) relative to the page width (145 mm) suggests substantial outer margins on each side of the text panel — consistent with a cetvelli album format where ruled margins frame narrow calligraphic columns."
+    },
+    "folio_count": 10,
+    "yek_id": "342065",
+    "iiif_id": "0000000339925",
+    "notes": "The album is of modest size (195×145 mm) and standard Ottoman hadith murakkaʿāt format. The hatip ebru front cover (p001) is the primary decorative feature: green, yellow, and pink leaf-and-floral motifs appear on a dark blue-green marbled ground, consistent with the classic Ottoman hatip ebru technique as practiced throughout the 17th–18th centuries. Interior calligraphy pages (examined: pp002–004, 006, 009–012) present multi-layered cetvelli framing and plain cream margins; no marbled paper in the interior has been observed. A circular vakıf (endowment) seal is present on p002, and multiple seals appear on p012 (the last digitized page), indicating institutional ownership history. The back cover was not digitized in the current IIIF sequence (total 12 pages). YEK cataloguer: Recep Kaylı."
+  },
+  "paper_decoration": {
+    "types": [
+      "marbled",
+      "framing_system"
+    ],
+    "summary": "The decorative program of Yazma Bağışlar 00300 is organized around two elements: (1) a hatip ebru (silhouetted floral-marbled) front binding cover, and (2) a multi-layered cetvelli (ruled line) framing system on the interior calligraphy pages. The front cover (p001) displays the characteristic hatip ebru pattern: leaf and floral silhouetted motifs in green, yellow, and pink on a dark blue-green marbled ground, created by floating pre-painted motifs on the marbling size so that the marbled pattern flows around them. This is a well-preserved and clearly legible example of hatip ebru cover decoration. The interior calligraphy pages (pp002–012) show plain cream margins framed by a multi-layered ruled-line (cetvelli) system consisting of at least three nested frame layers visible at examined resolution. CRITICAL CORRECTION from triage source: the triage record claimed 'hatip ebru cover/endpapers throughout' and 'vassale construction', but visual examination of 9 of 12 pages definitively does NOT confirm any marbled endpapers or vassale-mounted panels in the interior. Interior pages have plain cream margins with cetvelli framing only. The decoration program is therefore limited to the hatip ebru front cover and the cetvelli framing system, and should NOT be described as a marbled-interior or vassale album.",
+    "distribution_notes": "Hatip ebru: front cover only (p001). Cetvelli framing: all examined interior calligraphy pages (pp002–004, 006, 009–012). Back cover: not digitized; hatip ebru on back cover is possible but unconfirmed. No marbled endpapers, no vassale construction, no zerefşân observed in interior.",
+    "technique_terms": {
+      "ottoman": "hatip ebru (silüetli ebru / çiçekli ebru); altın cetvelli (gold ruling); cetvelli",
+      "persian": "abrī (ابری) — general marbled subtype; khaṭīb (خطیب) variant",
+      "arabic": "waraq murakhkham (ورق مرخم) — marbled paper (general)"
+    },
+    "catalogue_description": {
+      "paper_field": null,
+      "paper_field_normalized": null,
+      "paper_field_translation": null,
+      "notes_field": "Hadith murakka album in sulus and naskh scripts. Front cover has hatip ebru. Calligraphy pages have cetvelli framing. No back cover digitized.",
+      "notes_field_normalized": "Hadith murakka album in sulus and naskh scripts. Front cover has hatip ebru. Calligraphy pages have cetvelli framing. No back cover digitized.",
+      "notes_field_translation": "As recorded in visual confirmation session notes (YEK catalogue notes field content not separately available; above is a working reconstruction from visual_confirmation evidence).",
+      "decoration_field": null,
+      "source": "YEK portal, record 342065, Süleymaniye Kütüphanesi, Yazma Bağışlar collection. Catalogued by Recep Kaylı. Paper decoration observations derive from visual examination of 9 IIIF images at viewport resolution (762×572 px). Triage claim of 'vassale throughout' explicitly NOT confirmed and overridden by visual evidence."
+    }
+  },
+  "workshop_attribution": {
+    "primary_tradition": "ottoman",
+    "workshop_centre": "Istanbul",
+    "date_range_ce": "1747–1748",
+    "confidence": 0.78,
+    "key_indicators": [
+      "Dated AH 1160 / CE 1747–48 per YEK catalogue — places production firmly in the mid-18th century Ottoman period",
+      "Hatip ebru (silhouetted floral marbled paper) is a distinctively Ottoman technique developed and sustained in Istanbul workshops",
+      "Sülüs script with multi-layer cetvelli framing is the standard Istanbul calligraphic album format of the 17th–18th centuries",
+      "Hadith content in Arabic sülüs within a bound calligraphic album is a genre associated with Ottoman piety and court-adjacent patronage"
+    ],
+    "cross_tradition_caveats": [
+      "Calligrapher Üsküdarlı Hasan is not currently identified in available reference works — the attribution rests solely on the YEK catalogue entry; no independent corroboration from a ketebe inscription has been reported",
+      "Hatip ebru was produced across the Ottoman Empire and not limited to Istanbul workshops; the attribution to Istanbul is probable but not conclusive",
+      "No independent physical examination has been performed; the date and attribution cannot be verified from IIIF images alone"
+    ]
+  },
+  "codicology": {
+    "paper": {
+      "color": "Front cover (p001): dark blue-green marbled ground (hatip ebru). Interior calligraphy pages: cream/off-white burnished paper throughout.",
+      "preparation": "Interior calligraphy pages are written on âharlı (sized and burnished) cream paper, consistent with standard Ottoman luxury calligraphy stock. The text area (155×60 mm) is narrow relative to the page dimensions (195×145 mm), implying substantial framed margins on all sides. No decorated paper in the interior has been detected at available resolution.",
+      "weight": "Indeterminate from IIIF images at viewport resolution.",
+      "decoration": "Front cover: hatip ebru. Interior: multi-layer cetvelli framing.",
+      "paper_type": "Oriental paper for calligraphy panels; hatip ebru paper on front binding cover."
+    },
+    "ruling": {
+      "system": "Multi-layer cetvelli framing on all interior calligraphy pages. At least three nested frame layers are distinguishable at examined resolution: an outer ruling band, an intermediate narrow strip, and an inner frame immediately surrounding the text panel.",
+      "description": "Each calligraphy opening shows a layered framing system visible at viewport resolution: from outside in — the plain cream outer margin; a multi-line outer cetveller band; a narrow intermediate strip (color unclear at available resolution); an inner cetveller set; and the cream text area carrying the sülüs and presumed naskh lines. Gold and/or colored ruling lines are probable given the album's quality and period, but metallic character cannot be confirmed at 762×572 px resolution. Large circular seals are affixed to multiple pages (p002, p006, p012), indicating institutional registration."
+    },
+    "binding": {
+      "cover_description": "Front cover (p001): hatip ebru paper with leaf and floral silhouetted motifs in green, yellow, and pink on a dark blue-green marbled ground. A circular Süleymaniye Kütüphanesi Yazma Bağışlar 300 stamp/label is affixed to the upper area of the cover. The binding structure and board material are not separately identifiable at available resolution but appear to be a standard Ottoman album binding. Back cover: not digitized.",
+      "cover_type": "Hatip ebrulu cilt — hatip ebru cover binding",
+      "notes": "The hatip ebru front cover is the most distinctive decorative feature of the album. The Süleymaniye stamp visible on p001 indicates institutional registration. Whether the back cover also carries hatip ebru decoration is not determinable from current imaging."
+    },
+    "format": "Muraqqaʿāt — Ottoman calligraphic album (10 folios / 12 digitized pages)",
+    "condition_summary": "The album appears generally well-preserved based on examined pages. The hatip ebru cover (p001) shows clear, legible patterning without major losses. Interior calligraphy pages are clean with clearly legible text. No catastrophic damage, missing leaves, or major repair campaigns are visible in the examined pages. The back cover is not digitized and cannot be assessed.",
+    "conservation_history": null
+  },
+  "visual_confirmation": {
+    "verdict": "confirmed",
+    "confidence": 0.90,
+    "screenshots_examined": 9,
+    "folios_examined": [
+      "corpus/iiif/yb_00300_p001.jpg",
+      "corpus/iiif/yb_00300_p002.jpg",
+      "corpus/iiif/yb_00300_p003.jpg",
+      "corpus/iiif/yb_00300_p004.jpg",
+      "corpus/iiif/yb_00300_p006.jpg",
+      "corpus/iiif/yb_00300_p009.jpg",
+      "corpus/iiif/yb_00300_p010.jpg",
+      "corpus/iiif/yb_00300_p011.jpg",
+      "corpus/iiif/yb_00300_p012.jpg"
+    ],
+    "visual_evidence": "Hatip ebru confirmed on front cover (p001): leaf and floral silhouetted motifs in green, yellow, and pink clearly visible on a dark blue-green marbled ground. Classic hatip ebru technique. Cetvelli framing confirmed on all examined interior pages (pp002, 003, 004, 006, 009, 010, 011, 012): multi-layered ruled-line systems visible around calligraphy panels. Plain cream margins confirmed throughout — no marbled paper, no vassale construction, no zerefşân detected in interior pages.",
+    "limitations": [
+      "Images examined at viewport resolution (~762×572 px) rather than IIIF native resolution; metallic character of cetvelli ruling (gold vs. colored vs. plain) cannot be confirmed",
+      "Pages 5, 7, and 8 not examined — total page coverage is 9 of 12 (75%)",
+      "Back cover not digitized; whether hatip ebru is present on back cover is unknown",
+      "Triage source claimed 'vassale throughout' — this claim is explicitly NOT confirmed and is overridden by visual evidence showing plain cream margins throughout the interior"
+    ],
+    "source_agent": "metadata-generator (direct IIIF examination via visual confirmation session)",
+    "session": "catalog/searches/visual_tier2h_yb_00300.json"
+  },
+  "folio_analyses": [
+    {
+      "folio": "Front cover (IIIF p001)",
+      "source_image": "corpus/iiif/yb_00300_p001.jpg",
+      "decoration_present": true,
+      "decoration_types": ["marbled"],
+      "elements": [
+        {
+          "motif": "Hatip ebru front cover — leaf and floral motifs on dark blue-green ground",
+          "description": "The front cover displays a clearly legible hatip ebru (silhouetted floral-marbled paper) pattern. Leaf and floral silhouetted motifs in green, yellow, and pink are distributed across a dark blue-green marbled ground. The motifs are created by the hatip ebru technique: pre-painted paper shapes floated on the marbling size allow the marbled pattern to flow around the shapes, producing a ground of flowing marbled color with the floral motifs appearing as reserved (non-marbled) color islands. A circular Süleymaniye Kütüphanesi Yazma Bağışlar No. 300 registration stamp is affixed to the upper center of the cover. The hatip ebru is well-preserved and clearly legible at examined resolution.",
+          "location": "Full front cover exterior",
+          "confidence": 0.92
+        }
+      ],
+      "confidence": 0.92,
+      "notes": "Hatip ebru confirmed without ambiguity. The color palette — dark blue-green ground with green, yellow, and pink leaf/floral motifs — is typical of mid-to-late Ottoman hatip ebru production. The precise subtype (leaf form, stylistic attribution) cannot be assessed from a single image at viewport resolution."
+    },
+    {
+      "folio": "Interior calligraphy pages (IIIF pp002–004, 006, 009–012) — cetvelli framing",
+      "source_image": "corpus/iiif/yb_00300_p002.jpg",
+      "decoration_present": true,
+      "decoration_types": ["framing_system"],
+      "elements": [
+        {
+          "motif": "Multi-layer cetvelli framing — ruled-line system around sülüs calligraphy panels",
+          "description": "All examined interior calligraphy pages (pp002, 003, 004, 006, 009, 010, 011, 012) show a consistent multi-layer ruled-line (cetvelli) framing system surrounding the calligraphic text panels. At least three nested frame layers are distinguishable: an outer ruling band, an intermediate narrow strip, and an inner frame immediately enclosing the text column. The margins outside the frame system are plain cream with no decorative treatment. The text panels display sülüs script organized in multiple lines (large sülüs header lines plus smaller intermediate lines, presumably naskh). The text content is Arabic hadith, consistent with the YEK catalogue description. Large circular institutional seals are present on p002 (vakıf seal) and p012 (multiple seals).",
+          "location": "All interior calligraphy pages — frame system surrounding text panels",
+          "confidence": 0.88
+        }
+      ],
+      "confidence": 0.88,
+      "notes": "The cetvelli framing system is consistent across all examined interior pages, confirming the album's standard Ottoman calligraphic album format. No marbled paper is present in the interior — the 'vassale throughout' claim in the triage source is explicitly NOT confirmed and should be disregarded. The ruling line quality (gold vs. colored) cannot be determined at viewport resolution but is consistent with Ottoman luxury album production standards of the mid-18th century. Pages 5, 7, and 8 were not examined; their decoration is assumed consistent with the observed pattern but this assumption is not independently confirmed."
+    }
+  ],
+  "terminology": {
+    "terms_used": [
+      {
+        "concept": "Silhouetted floral marbled paper",
+        "ottoman": "hatip ebru / silüetli ebru / çiçekli ebru",
+        "arabic": "waraq murakhkham bi-al-zuhūr (ورق مرخم بالزهور)",
+        "persian": "kāġaḏ-e abrī-ye khaṭīb (کاغذ ابری خطیب)",
+        "english": "Hatip ebru (imam's marbling): a marbled paper technique in which pre-painted motifs (typically leaves, flowers, and stems) are floated on the marbling size before combing, so that the marbled pattern develops around the motifs, leaving them as non-marbled color reserves on a marbled ground. The result is a paper with naturalistic floral or vegetal silhouettes appearing against a flowing marbled background. Named after Hatip Mehmet Efendi, the early Ottoman master of the technique. Subtypes differ in motif vocabulary, palette, and stylistic period."
+      },
+      {
+        "concept": "Ruled line framing system",
+        "ottoman": "cetvelli / altın cetvel / cetvel sistemi",
+        "arabic": "jadwal (جدول) / jadwal mudhahdhab (جدول مذهّب)",
+        "persian": "jadval (جدول) / jadval-e zar (جدول زر)",
+        "english": "Cetvelli: a manuscript framing system of nested ruling lines (cetveller, sing. cetvel) drawn around the text panel or calligraphic column. In Ottoman luxury album production, multiple ruling lines are layered — typically in gold, red, and occasionally blue — creating a multi-line frame. The number and color of lines vary by period and quality of production."
+      },
+      {
+        "concept": "Calligraphic album",
+        "ottoman": "muraqqaʿāt / murakkaat (مرقعات)",
+        "arabic": "muraqqa (مرقع) / muraqqa'āt (مرقعات)",
+        "persian": "muraqqa (مرقع)",
+        "english": "Muraqqaʿāt: a bound Ottoman calligraphic (and sometimes pictorial) album. This album contains kıtʿa (calligraphic specimen sheets) in sülüs script, with Arabic hadith content, attributed to Üsküdarlı Hasan and dated AH 1160 / 1747–48 CE."
+      },
+      {
+        "concept": "Sülüs script",
+        "ottoman": "sülüs hattı",
+        "arabic": "thuluth (ثلث)",
+        "persian": null,
+        "english": "Sülüs (thuluth): one of the six classical Arabic scripts, characterized by large rounded letterforms with strong contrast between thick and thin strokes. The primary script of this album per the YEK catalogue entry 'Arap harfli—Sülüs'."
+      },
+      {
+        "concept": "Endowment / waqf seal",
+        "ottoman": "vakıf mührü",
+        "arabic": "khatm al-waqf (ختم الوقف)",
+        "persian": null,
+        "english": "Vakıf mührü: a circular or rectangular stamp recording the registration of a manuscript as a waqf (pious endowment) donation to a library or institution. A large circular vakıf seal is visible on p002 and additional seals appear on p012."
+      }
+    ]
+  },
+  "bibliography": [
+    {
+      "citation": "Derman, M. Uğur. Letters in Gold: Ottoman Calligraphy from the Sakıp Sabancı Collection, Istanbul. New York: The Metropolitan Museum of Art, 1998.",
+      "relevance": "The primary English-language exhibition catalogue on Ottoman calligraphy, with coverage of calligraphic albums, sülüs script tradition, and the production context of 17th–18th century Ottoman murakkaʿāt. Essential background for contextualizing this album's calligraphic format and dating.",
+      "relevance_score": 0.82,
+      "access_notes": "Exhibition catalogue (Metropolitan Museum of Art, 1998); widely held at Islamic art and Ottoman studies libraries. ISBN 978-0870998843."
+    },
+    {
+      "citation": "Blair, Sheila S. 'Color and Gold: The Decorated Papers Used in Manuscripts in Later Islamic Times.' Muqarnas 17 (2000): 24–36.",
+      "relevance": "Foundational taxonomic study of decorated papers in Islamic manuscripts, providing the classification framework for hatip ebru (silhouetted marbled paper) as a distinct category. Blair's discussion of marbled paper types and their distribution in Ottoman manuscripts is directly applicable to the hatip ebru cover of this album.",
+      "relevance_score": 0.88,
+      "access_notes": "Peer-reviewed article. Available via JSTOR (Brill/Muqarnas Online)."
+    },
+    {
+      "citation": "Bloom, Jonathan M. Paper Before Print: The History and Impact of Paper in the Islamic World. New Haven: Yale University Press, 2001.",
+      "relevance": "Comprehensive history of paper production and use in the Islamic world, with coverage of marbled paper (ebru) traditions and their Ottoman development. Provides material-culture background for the hatip ebru technique and its role in Ottoman luxury book production.",
+      "relevance_score": 0.78,
+      "access_notes": "Monograph; widely held."
+    },
+    {
+      "citation": "Çağman, Filiz, and Zeren Tanındı. The Topkapı Saray Museum: The Albums and Illustrated Manuscripts. Translated and edited by J. M. Rogers. Boston: Little, Brown, 1986.",
+      "relevance": "Standard reference for Ottoman calligraphic albums and their decorated covers. Provides comparative material for hatip ebru binding covers and cetvelli framing systems in the Topkapı album corpus, which is the primary comparanda for this album's format.",
+      "relevance_score": 0.78,
+      "access_notes": "Exhibition catalogue; widely held at Turkish and Islamic art research libraries."
+    },
+    {
+      "citation": "Gacek, Adam. Arabic Manuscripts: A Vademecum for Readers. Leiden: Brill, 2009.",
+      "relevance": "Standard reference for Islamic manuscript codicological terminology and script identification. Relevant for the identification of sülüs script, the description of cetvelli framing systems, and general codicological terms used in this record.",
+      "relevance_score": 0.72,
+      "access_notes": "Reference monograph; widely held."
+    },
+    {
+      "citation": "Déroche, François. Islamic Codicology: An Introduction to the Study of Manuscripts in Arabic Script. Translated by Deke Dusinberre and David Radzinowicz. London: Al-Furqan Islamic Heritage Foundation, 2005.",
+      "relevance": "Foundational reference for Islamic manuscript codicology, covering paper decoration types, binding forms, ruling systems, and physical manuscript description. Provides the classification framework used throughout this catalog record.",
+      "relevance_score": 0.72,
+      "access_notes": "Monograph; available at specialist libraries."
+    }
+  ],
+  "suggested_collections": [
+    {
+      "institution": "Süleymaniye Kütüphanesi — Yazma Bağışlar Koleksiyonu, Istanbul",
+      "reason": "The Yazma Bağışlar collection at Süleymaniye holds multiple 18th-century Ottoman calligraphic albums with decorated covers and framing systems, several of which have been catalogued in this project corpus. Physical comparison with sibling albums (e.g., yb_00303, yb_02955) would clarify the relationship between hatip ebru albums in this collection.",
+      "digital_access": "https://portal.yek.gov.tr"
+    },
+    {
+      "institution": "Topkapı Sarayı Müzesi Kütüphanesi, Istanbul",
+      "reason": "Holds the largest corpus of Ottoman calligraphic albums with hatip ebru covers and cetvelli framing from the 17th–18th centuries. Physical and digital comparison with Topkapı albums would provide context for Üsküdarlı Hasan's calligraphic tradition and the regional character of the hatip ebru cover.",
+      "digital_access": "https://kutuphane.tsmk.gov.tr"
+    },
+    {
+      "institution": "Chester Beatty Library, Dublin",
+      "reason": "Major international collection of Ottoman calligraphic albums with decorated paper programs, including 18th-century hatip ebru examples. Provides non-Turkish comparanda for the album format.",
+      "digital_access": "https://viewer.cbl.ie"
+    }
+  ],
+  "provenance": {
+    "donor": null,
+    "waqf": "Vakıf seal present on p002 (large circular seal). The Yazma Bağışlar ('Donated Manuscripts') designation at Süleymaniye indicates the album was donated to the library, but the specific donor is not recorded in available YEK catalogue data.",
+    "previous_shelfmarks": [],
+    "notes": "Held at Süleymaniye Kütüphanesi, Yazma Bağışlar Koleksiyonu, Istanbul, under shelfmark 00300. The 'Yazma Bağışlar' collection at Süleymaniye houses manuscripts donated to the library from various sources; the specific donor of this album is not recorded in the YEK catalogue. Circular vakıf/library registration seals visible on pp002 and 012. YEK ID: 342065. IIIF ID: 0000000339925. YEK cataloguer: Recep Kaylı."
+  },
+  "analysis_metadata": {
+    "analyzed_date": "2026-03-01",
+    "analyzer": "claude-code-manuscript-pipeline",
+    "pipeline_stage": "metadata-generator",
+    "image_source": "YEK Portal IIIF images, Süleymaniye Kütüphanesi, Yazma Bağışlar Koleksiyonu, YEK ID 342065, IIIF ID 0000000339925. 9 of 12 pages examined at viewport resolution (762×572 px). Visual confirmation session: catalog/searches/visual_tier2h_yb_00300.json.",
+    "image_quality_notes": "Images examined at viewport resolution (~762×572 px), which is substantially below IIIF native resolution. At this resolution the hatip ebru pattern on p001 is clearly legible. The cetvelli framing system is visible but the metallic character of ruling lines (gold vs. colored) cannot be confirmed. No decoration detail below the level of the overall framing system can be reliably assessed. The plain cream character of interior margins is confirmed at this resolution.",
+    "folios_examined": [
+      "corpus/iiif/yb_00300_p001.jpg",
+      "corpus/iiif/yb_00300_p002.jpg",
+      "corpus/iiif/yb_00300_p003.jpg",
+      "corpus/iiif/yb_00300_p004.jpg",
+      "corpus/iiif/yb_00300_p006.jpg",
+      "corpus/iiif/yb_00300_p009.jpg",
+      "corpus/iiif/yb_00300_p010.jpg",
+      "corpus/iiif/yb_00300_p011.jpg",
+      "corpus/iiif/yb_00300_p012.jpg"
+    ],
+    "folios_not_examined": "Pages 5, 7, and 8 not examined (not in downloaded IIIF set). Back cover not digitized in the 12-page IIIF sequence. Total coverage: 9 of 12 pages (75%).",
+    "corpus_priority": "Medium — a standard Ottoman hatip ebru murakkaʿāt without exceptional or rare decoration features. The confirmed overriding of the triage 'vassale throughout' claim is an important data quality correction. Future follow-up: (1) download native IIIF resolution to confirm metallic character of cetvelli ruling; (2) examine undigitized back cover for hatip ebru; (3) identify Üsküdarlı Hasan in calligraphic reference works.",
+    "source_data": {
+      "visual_confirmation_file": "catalog/searches/visual_tier2h_yb_00300.json",
+      "yek_id": "342065",
+      "iiif_id": "0000000339925",
+      "batch": "Sub-Batch H (YB Notables, 2026-03-01)"
+    }
+  }
+}

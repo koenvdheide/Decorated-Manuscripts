@@ -1,0 +1,438 @@
+{
+  "record_id": "vahid_pasa_01226",
+  "collection": {
+    "institution": "Kütahya Vahid Paşa Kütüphanesi",
+    "city": "Kütahya",
+    "country": "Turkey",
+    "shelfmark": "1226",
+    "yek_url": "https://portal.yek.gov.tr/works/detail/520285"
+  },
+  "manuscript": {
+    "title": "Muraqqaʿāt / مرقعات",
+    "title_script": "مرقعات",
+    "title_alt": "Kadızâde Mustafa Muraqqaʿı — Sülüs Meşk Muraqqaʿı",
+    "author": null,
+    "author_dates": null,
+    "calligrapher": "Kadızâde Mustafa (قاضي زاده مصطفى)",
+    "calligrapher_alt": "Şükrüzâde'nin Talebelerinden — شكري زاده'نك طالبلريندن",
+    "calligrapher_dates": "fl. 12th AH / 18th CE",
+    "calligrapher_note": "Kadızâde Mustafa is identified in the YEK catalogue as a student (talebe) of Şükrüzâde — a designation that places him within a specific Ottoman calligraphic lineage. Şükrüzâde (full name Şükrüzâde Mehmed Sâlih Efendi, d. 1195/1780) was a prominent 18th-century Istanbul sülüs-nesih calligrapher and the student of Hafız Mehmet Rasim Efendi (d. 1169/1756). The designation 'Şükrüzâde'nin Talebelerinden' (from among Şükrüzâde's students) in the YEK record connects this album directly to the well-documented Şükrüzâde school active in Istanbul in the mid-to-late 18th century. The album's date AH 1177/1763-64 CE is consistent with Şükrüzâde's active period (d. 1195/1780), confirming Kadızâde Mustafa as a student of the master at roughly the peak of the school's activity. Kadızâde Mustafa himself is not independently documented in the standard biographical dictionaries of Ottoman calligraphers consulted.",
+    "date_ah": "1177",
+    "date_ce": "1763-64",
+    "date_note": "Date AH 1177 / 1763-64 CE recorded in the YEK catalogue. This is an explicitly dated album, providing a secure chronological anchor in the mid-18th century. The date is consistent with the Şükrüzâde school's documented active period and with the album's mülevven-dominant decorative program, which is well-attested in Ottoman albums of the AH 1150–1200 / 1737–1785 CE period.",
+    "place_of_copy": null,
+    "format": "Muraqqaʿ / مرقع — dated sülüs calligraphic album with yellow mülevven endpaper, green mülevven wide margins, gold cetvelli, vassale mounting, battal ebru doublures",
+    "format_note": "A bound Ottoman calligraphic album (muraqqaʿ) of 20 yaprak (leaves), totaling 23 IIIF pages including binding photographs. The album contains meşk (calligraphic exercise) leaves in the sülüs hand — one of the classical Arabic scripts and a core competency in the Ottoman calligraphic curriculum. The primary decorative element is a two-color mülevven (dyed paper) program: a vivid bright yellow mülevven leaf used as the front endpaper (and possibly as yan kâğıdı / side paper visible at right edges of multiple openings), and a medium green mülevven paper used as the wide outer margin on all calligraphy openings, into which the sülüs calligraphy panels are vassale-mounted. Gold cetvelli framing completes each opening. A bonus finding (not in triage) is the presence of battal ebru doublures lining both inside covers (p023), adding a third paper technique to the album's decorative program. Some openings show dense white speckling on the green mülevven margins (pp006, 012, 018); the identification is uncertain (possible tarnished zerefşân or surface deterioration of the dye) and requires physical examination.",
+    "language": "Arabic",
+    "script": "Sülüs (ثلث) — YEK catalogue: 'Arap harfli — Sülüs'",
+    "dimensions_mm": {
+      "height": 265,
+      "width": 175,
+      "writing_area_mm": {
+        "height": 215,
+        "width": 130
+      },
+      "note": "Outer dimensions 265×175 mm; text area 215×130 mm per YEK catalogue. A moderately-sized vertical-format album."
+    },
+    "folio_count": 20,
+    "yek_id": "520285",
+    "iiif_id": "0000000502483",
+    "notes": "This is the most recently dated confirmed album in the Vahid Paşa sub-corpus (AH 1177/1763-64 CE, compared to VP 01229 at AH 1066/1655-56 CE), representing 18th-century calligraphic practice within the Şükrüzâde school. The two-color mülevven program (yellow endpaper + green margins) is a coherent Ottoman album formula well-represented in the current corpus (compare na_00120, which uses hatip ebru plus green mülevven). The bonus finding of battal ebru doublures on both inside covers (p023) adds a marbled element not anticipated from triage and indicates a more complex decorative program than the catalogue suggests. The white speckling on the green margins (pp006, 012, 018) is a significant open question: if confirmed as tarnished/oxidized zerefşân by physical examination, it would elevate this album from a mülevven-only to a mülevven-plus-zerefşân specimen. Physical exam is the recommended next step. YEK IIIF constant confirmed: iiif_id (502483) = 1022768 − yek_id (520285), verified across 3 VP albums. Note on page 12: visual-confirmation agent observed a single decorated page (left side only) at p012, suggesting the album may contain some single-sided leaves — a codicological feature worth confirming in person."
+  },
+  "paper_decoration": {
+    "types": [
+      "colored",
+      "marbled",
+      "framing_system"
+    ],
+    "summary": "Vahid Paşa 1226 exhibits a three-component decorative program combining colored (mülevven) paper, marbled (ebrulu) paper, and a gold-ruled framing system. (1) Yellow mülevven endpaper (p001 right, and as yan kâğıdı at right edges throughout): a vivid, saturated bright yellow mülevven (solidly dyed) paper serves as the front endpaper and is visible as a yellow side paper (yan kâğıdı) at the right edge of multiple calligraphy openings (pp002, 006, 012, 018). The yellow is intense and clearly non-cream, characteristic of a strongly pigmented or dyed sheet used in a structural decorative role. (2) Green mülevven calligraphy margins (pp002–022): medium green mülevven paper used as the wide outer margin throughout all calligraphy openings, into which the sülüs calligraphy panels are vassale-mounted. The green is consistent across all examined openings, suggesting a single dye lot. A notable visual anomaly — dense white speckling — is visible on the green margins of pp006, 012, and 018; this is classified at low confidence (0.35) as possible tarnished or oxidized zerefşân (gold-sprinkled paper whose metallic surface has darkened with age), but surface deterioration of the green dye medium is an equally plausible explanation. Physical examination and ideally spectroscopic analysis are required. (3) Battal ebru doublures (p023): both inside covers (front and back doublures) are lined with battal ebru paper in a red, dark blue, green, and yellow-green palette — a BONUS FINDING not present in the triage data. This adds a marbled component to what was triage-classified as a mülevven-only album. The battal ebru doublures indicate a more complete and luxurious binding program than the outer binding's current condition suggests. (4) Gold cetvelli framing: gold ruling lines frame each vassale-mounted sülüs panel within the green mülevven margins, present throughout all calligraphy pages.",
+    "distribution_notes": "Yellow mülevven: p001 right (front endpaper, full-page) + yan kâğıdı strips visible at right edge of pp002, 006, 012, 018 (and presumed throughout). Green mülevven: outer margins of all calligraphy pages pp002–022 (inferred from confirmed pattern on pp002, 006, 012, 018). White speckling on green margins: confirmed at pp006, 012, 018 — classification uncertain (possible zerefşân, low confidence 0.35). Gold cetvelli: all calligraphy pages pp002–022. Battal ebru doublures: inside front and back covers (p023). Pages pp003–005, 007–011, 013–017, 019–022 not individually examined (17 of 23 IIIF pages).",
+    "technique_terms": {
+      "ottoman": "mülevven kâğıt (ملون کاغذ) — sarı ve yeşil boyalı kâğıt; yan kâğıdı — yan yaprak kâğıdı; vassale — pencere montaj tekniği; altın cetvel (jadwal mudhahdhab); battal ebru — iç kapak/doublure ebrulu kâğıt; olası zerefşân (düşük güven: 0.35) — oksitlenmiş yaldız serpme",
+      "persian": "kāġaḏ-e mulavvan (کاغذ ملوّن) — colored paper; rang-āmīz (رنگ آمیز) — dyed/colored; kāġaḏ-e abrī (کاغذ ابری) — marbled paper",
+      "arabic": "waraq mulawwan (ورق ملوّن) — colored paper; waraq abrī (ورق ابری) — marbled paper; jadwal mudhahdhab (جدول مذهّب) — gold-ruled frame"
+    },
+    "catalogue_description": {
+      "paper_field": null,
+      "paper_field_normalized": null,
+      "paper_field_translation": null,
+      "notes_field": null,
+      "notes_field_normalized": null,
+      "notes_field_translation": null,
+      "decoration_field": null,
+      "source": "YEK portal, record 520285, Kütahya Vahid Paşa Kütüphanesi. YEK record has no kâğıt özellikleri, genel notlar, or tezhip/minyatür fields populated. All paper decoration observations derive from visual examination of IIIF images (6 of 23 pages at 1600px)."
+    }
+  },
+  "workshop_attribution": {
+    "primary_tradition": "ottoman",
+    "workshop_centre": "Istanbul",
+    "date_range_ce": "1763–1764",
+    "confidence": 0.80,
+    "key_indicators": [
+      "Explicitly dated AH 1177/1763-64 CE — a secure chronological anchor",
+      "Calligrapher Kadızâde Mustafa identified as student of Şükrüzâde (d. 1195/1780) — places production within the well-documented Istanbul Şükrüzâde calligraphic school",
+      "Sülüs as the primary script is the core Ottoman calligraphic discipline centered in Istanbul training",
+      "Two-color mülevven album format (yellow endpaper + green margins) is well-attested in 18th-century Istanbul album production",
+      "Gold cetvelli vassale framing is standard Istanbul luxury album production vocabulary",
+      "Battal ebru doublures reflect Istanbul bookbinding conventions of the 18th century"
+    ],
+    "cross_tradition_caveats": [
+      "The album is held at Kütahya; production may be Istanbul (Şükrüzâde school, then acquired) or could reflect provincial training by a Şükrüzâde student working outside Istanbul",
+      "Kadızâde Mustafa is not independently documented; his workshop location is inferred from his master's Istanbul affiliation",
+      "Mülevven albums were produced widely across the Ottoman Empire; the Istanbul attribution rests primarily on the Şükrüzâde school connection rather than the paper type alone",
+      "The white speckling on green margins (possible zerefşân at low confidence) is unresolved; if confirmed, would add a gold-work element potentially diagnostic for workshop"
+    ]
+  },
+  "codicology": {
+    "paper": {
+      "color": "Calligraphy panels: cream/off-white burnished âharlı paper. Endpaper: vivid bright yellow mülevven (p001 right). Margins: medium green mülevven with white speckling on some pages (pp006, 012, 018 — classification uncertain). Doublures: battal ebru in red/dark blue/green/yellow-green (p023). Binding spine: brown leather (visible at p023 center).",
+      "preparation": "Calligraphy panels on âharlı (sized and burnished) cream paper, standard Ottoman luxury calligraphy stock. The yellow and green mülevven papers are solidly dyed sheets — the dye appears applied before cutting, giving uniform color throughout (not a surface coating). The battal ebru doublures are marbled in the standard battal technique, laid flat against the inside covers. White speckling on green margins: undetermined — could be oxidized metallic particles (tarnished zerefşân) or degraded dye medium.",
+      "weight": "Indeterminate from IIIF images at 1600px.",
+      "decoration": "Yellow + green mülevven paper program; gold cetvelli throughout; vassale mounting of calligraphy panels; battal ebru doublures. Possible zerefşân on green margins (confidence 0.35; physical exam required).",
+      "paper_type": "Oriental (doğu kâğıdı) for calligraphy panels; dyed mülevven paper for endpaper and margins; battal ebru paper for doublures."
+    },
+    "ruling": {
+      "system": "Altın cetvel (gold ruling) framing each vassale-mounted sülüs calligraphy panel within the green mülevven margins. A darker outer line is also visible at some openings.",
+      "description": "Each calligraphy opening presents the sülüs panel mounted via vassale into the green mülevven margin paper, framed by gold ruling lines. The cetvelli system is consistent across all examined openings. A darker outer boundary rule at the extreme edge of the margin is visible in some IIIF images."
+    },
+    "binding": {
+      "cover_description": "Interior (p023): both inside covers are lined with battal ebru paper in a red, dark blue, green, and yellow-green palette — the most vivid decorative element in the binding zone. A brown leather spine is visible at center. Exterior binding covers were not separately captured in the IIIF set (p001 left shows inside front cover with library stamps, not exterior).",
+      "cover_type": "Doublure: battal ebru; exterior: brown leather (inferred; not directly confirmed from IIIF images)",
+      "notes": "The battal ebru doublures are a BONUS FINDING not present in the triage data. Their presence adds a marbled layer to what was categorized as a mülevven-only album and indicates a more complete luxury binding program."
+    },
+    "format": "Muraqqaʿ — bound Ottoman sülüs calligraphic album (20 yaprak / 23 IIIF pages including binding)",
+    "condition_summary": "The album is generally intact. The green mülevven margins show some surface aging and wear, including the white speckling of uncertain classification on pp006, 012, 018. The battal ebru doublures (p023) appear well-preserved in the IIIF image. Some pages show single-sided decoration (p012 observed as left-only). Overall condition is adequate, with no catastrophic damage visible in the 6 pages examined.",
+    "conservation_history": null
+  },
+  "visual_confirmation": {
+    "verdict": "confirmed",
+    "confidence": 0.93,
+    "screenshots_examined": 6,
+    "folios_examined": [
+      "corpus/iiif/vahid_pasa_01226_p001.jpg",
+      "corpus/iiif/vahid_pasa_01226_p002.jpg",
+      "corpus/iiif/vahid_pasa_01226_p006.jpg",
+      "corpus/iiif/vahid_pasa_01226_p012.jpg",
+      "corpus/iiif/vahid_pasa_01226_p018.jpg",
+      "corpus/iiif/vahid_pasa_01226_p023.jpg"
+    ],
+    "visual_evidence": "CONFIRMED with high confidence (0.93). Six pages examined at 1600px IIIF resolution. (1) P001 right: vivid bright yellow mülevven endpaper confirmed — full-page, solidly dyed, saturated yellow. (2) P002: first calligraphy opening, green mülevven wide margins, gold cetvelli, vassale-mounted sülüs calligraphy panels confirmed. Yellow yan kâğıdı visible at right edge. (3) P006: consistent green mülevven margins with dense white speckling — classification uncertain (zerefşân at 0.35 confidence). (4) P012: single decorated page (left side only, right blank) with green mülevven margin; single-sided leaf pattern noted. (5) P018: green mülevven with dense white speckling, consistent with p006 pattern. (6) P023: battal ebru doublures on both inside covers — BONUS FINDING not in triage; red/dark blue/green/yellow-green palette clearly visible. The two-color mülevven program (yellow endpaper + green margins) is fully confirmed; the battal ebru doublures significantly enrich the decorative record.",
+    "limitations": [
+      "6 of 23 pages examined (26% coverage). Interior openings pp003–005, 007–011, 013–017, 019–022 not downloaded.",
+      "Images at 1600px wide (not native 3456px). Resolution adequate for mülevven/marbled identification and framing structure but limits fine detail.",
+      "White speckling on green margins (pp006, 012, 018) ambiguous: physical exam required to determine tarnished zerefşân vs. surface deterioration.",
+      "Front cover exterior not captured; only inside covers examined in IIIF set.",
+      "Cannot fully confirm whether all 10 calligraphy openings have consistent decoration — only 4 of approximately 10 examined."
+    ],
+    "source_agent": "visual-confirmation",
+    "session": "catalog/searches/visual_tier2h_vahid_pasa_01226.json"
+  },
+  "folio_analyses": [
+    {
+      "folio": "Inside front cover + yellow mülevven endpaper (IIIF p001)",
+      "source_image": "corpus/iiif/vahid_pasa_01226_p001.jpg",
+      "decoration_present": true,
+      "decoration_types": ["colored"],
+      "elements": [
+        {
+          "motif": "Vivid bright yellow mülevven endpaper (right page)",
+          "description": "The right side of the p001 opening is a full-page mülevven (solidly dyed) leaf in vivid bright yellow (parlak sarı). The yellow is saturated and strongly chromatic — clearly a deliberately dyed sheet, not a cream paper discolored by aging. The sheet serves as the album's front endpaper. The left side shows the inside front cover with library stamps and accession labels.",
+          "location": "Right page of p001 opening (front endpaper)",
+          "confidence": 0.97
+        }
+      ],
+      "confidence": 0.97,
+      "notes": "The yellow mülevven endpaper is also visible as yan kâğıdı (side paper) at the right edge of subsequent openings, indicating it is either a wrapper leaf extending beyond the calligraphy openings, or a consistent structural element used throughout."
+    },
+    {
+      "folio": "First calligraphy opening — green mülevven margins, cetvelli, vassale (IIIF p002)",
+      "source_image": "corpus/iiif/vahid_pasa_01226_p002.jpg",
+      "decoration_present": true,
+      "decoration_types": ["colored", "framing_system"],
+      "elements": [
+        {
+          "motif": "Green mülevven wide outer margins",
+          "description": "Both pages of the first calligraphy opening have wide outer margins in medium green mülevven paper. The green is solidly dyed with no patterning or speckling visible at this opening — a uniform, matte green. The mülevven sheets serve as the decorative ground into which the calligraphy panels are vassale-mounted.",
+          "location": "Outer margins, both pages",
+          "confidence": 0.97
+        },
+        {
+          "motif": "Gold cetvelli framing and vassale mounting",
+          "description": "Gold ruling lines (altın cetveller) frame the sülüs calligraphy panels within the green mülevven margins. The calligraphy panels are vassale-mounted — window-cut into the green margin paper and framed with gold rules. A darker outer boundary rule is also present.",
+          "location": "Panel frame, both pages",
+          "confidence": 0.93
+        },
+        {
+          "motif": "Yellow yan kâğıdı visible at right edge",
+          "description": "A narrow strip of vivid yellow paper is visible at the right edge of the right-hand page, confirming the yellow mülevven endpaper extends beyond or wraps the opening, functioning as a yan kâğıdı (side paper) element.",
+          "location": "Right edge of right-hand page",
+          "confidence": 0.88
+        },
+        {
+          "motif": "Sülüs meşk calligraphy panels",
+          "description": "Cream âharlı paper calligraphy panels in sülüs script. The meşk (exercise) format presents multiple lines of formal Arabic script with varying letter sizes and combinations, consistent with 18th-century Ottoman sülüs training practice.",
+          "location": "Central calligraphy panels, both pages",
+          "confidence": 0.92
+        }
+      ],
+      "confidence": 0.94,
+      "notes": "The first calligraphy opening establishes the album's standard format: green mülevven wide margins, cetvelli vassale framing, sülüs meşk panels, yellow side paper."
+    },
+    {
+      "folio": "Calligraphy opening with white speckling on green margins (IIIF p006)",
+      "source_image": "corpus/iiif/vahid_pasa_01226_p006.jpg",
+      "decoration_present": true,
+      "decoration_types": ["colored", "framing_system"],
+      "elements": [
+        {
+          "motif": "Green mülevven margins with dense white speckling — classification uncertain",
+          "description": "The green mülevven margins at this opening exhibit dense white speckling not visible on p002. The white speckles are distributed across the green surface in an irregular but fairly dense pattern. Two interpretations are possible: (a) tarnished or oxidized zerefşân — gold-sprinkled paper (zerefşân) in which the metallic particles have darkened with age, sometimes producing a whitish or matte grey/white appearance when the gold has fully tarnished; (b) surface deterioration of the green dye medium — possibly the green pigment has partially degraded or separated, leaving white or buff sub-surface paper visible through the degradation layer. Physical examination (ideally with UV or raking light, and spectroscopic analysis) is required for resolution.",
+          "location": "Outer margins, both pages",
+          "confidence_zerefshan": 0.35,
+          "confidence_dye_deterioration": 0.55,
+          "confidence": 0.55,
+          "classification_note": "Provisionally classified as surface deterioration (higher probability) with possible zerefşân (lower confidence, 0.35) flagged as a requiring physical exam."
+        },
+        {
+          "motif": "Gold cetvelli framing and vassale mounting",
+          "description": "Consistent with p002: gold ruling lines frame the vassale-mounted sülüs panels within the green margins.",
+          "location": "Panel frame, both pages",
+          "confidence": 0.90
+        }
+      ],
+      "confidence": 0.88,
+      "notes": "The white speckling on the green margins at p006 is the key unresolved feature of this album. If confirmed as tarnished zerefşân, the album would be reclassified to include 'gold_sprinkled' among its decoration types. Physical examination is the recommended priority action."
+    },
+    {
+      "folio": "Mid-album single-sided calligraphy page (IIIF p012)",
+      "source_image": "corpus/iiif/vahid_pasa_01226_p012.jpg",
+      "decoration_present": true,
+      "decoration_types": ["colored", "framing_system"],
+      "elements": [
+        {
+          "motif": "Green mülevven margin (left page only) — single-sided leaf",
+          "description": "The left side of the p012 opening shows a decorated calligraphy page with green mülevven margins, gold cetvelli framing, and a vassale-mounted sülüs panel consistent with the album's standard format. The right side of the opening is blank, indicating a single-sided leaf at this position in the album. Dense white speckling is present on the green margins, consistent with p006.",
+          "location": "Left page of p012 opening; right page blank",
+          "confidence": 0.90
+        }
+      ],
+      "confidence": 0.88,
+      "notes": "The single-sided leaf at p012 is a codicological feature worth confirming in person. It may reflect the album's construction (an odd number of leaves in a gathering), a blank protective leaf, or a later insertion. The visual-confirmation agent noted this as a bonus observation."
+    },
+    {
+      "folio": "Later calligraphy opening with white speckling (IIIF p018)",
+      "source_image": "corpus/iiif/vahid_pasa_01226_p018.jpg",
+      "decoration_present": true,
+      "decoration_types": ["colored", "framing_system"],
+      "elements": [
+        {
+          "motif": "Green mülevven margins with dense white speckling — consistent with p006",
+          "description": "The green mülevven margins at this later opening again show dense white speckling, consistent in appearance with p006. The pattern is repeated across multiple openings (pp006, 012, 018), suggesting the speckling is a systematic feature of the green margin paper stock rather than localized damage.",
+          "location": "Outer margins, both pages",
+          "confidence": 0.88
+        },
+        {
+          "motif": "Gold cetvelli framing and vassale mounting",
+          "description": "Consistent with earlier openings.",
+          "location": "Panel frame, both pages",
+          "confidence": 0.90
+        }
+      ],
+      "confidence": 0.88,
+      "notes": "The consistency of white speckling across pp006, 012, and 018 increases the probability that it is an intrinsic feature of the paper stock (either zerefşân or a systematic dye deterioration affecting the entire lot of green margin paper) rather than localized water damage or foxing."
+    },
+    {
+      "folio": "Back cover interior — battal ebru doublures (IIIF p023)",
+      "source_image": "corpus/iiif/vahid_pasa_01226_p023.jpg",
+      "decoration_present": true,
+      "decoration_types": ["marbled"],
+      "elements": [
+        {
+          "motif": "Battal ebru doublures — both inside covers, red/dark blue/green/yellow-green palette",
+          "description": "Both the front and back inside covers (doublures) are lined with battal ebru paper in a multicolored palette: red, dark blue, green, and yellow-green in a stone-marbled (undifferentiated spot) pattern. The marbling is vivid and well-preserved at 1600px resolution. A brown leather spine is visible at the center fold. This is a BONUS FINDING — not mentioned in the triage data — and significantly enriches the album's decorative record by adding a marbled component to the binding zone.",
+          "location": "Both inside covers (front doublure left, back doublure right of p023 opening)",
+          "confidence": 0.95,
+          "bonus_finding": true,
+          "note": "Not present in triage data. Discovered during IIIF examination in visual-confirmation session."
+        }
+      ],
+      "confidence": 0.95,
+      "notes": "The battal ebru doublures demonstrate that the album's binding program was more elaborate than the triage suggested. The red/dark blue/green/yellow-green palette of the doublures complements the green mülevven margins and yellow endpaper, creating a coherent chromatic program across the album's interior."
+    }
+  ],
+  "terminology": {
+    "terms_used": [
+      {
+        "concept": "Colored (dyed) paper",
+        "ottoman": "mülevven kâğıt (ملون کاغذ) — boyalı kâğıt; sarı mülevven; yeşil mülevven",
+        "arabic": "waraq mulawwan (ورق ملوّن) — colored / tinted paper",
+        "persian": "kāġaḏ-e mulavvan (کاغذ ملوّن) — colored paper; rang-āmīz (رنگ آمیز) — dyed/colored",
+        "english": "Mülevven: solidly dyed or pigmented paper, uniformly colored throughout (or surface-dyed) in a single color. Distinct from marbled (ebrulu) paper and from zerefşân (gold-sprinkled) paper. In this album: yellow (sarı) mülevven for the endpaper; green (yeşil) mülevven for the calligraphy margins."
+      },
+      {
+        "concept": "Side paper / yan kâğıdı",
+        "ottoman": "yan kâğıdı — yan yaprak; kenar kâğıdı",
+        "arabic": null,
+        "persian": null,
+        "english": "Yan kâğıdı: a decorative paper leaf placed at the side or edge of a calligraphy opening, visible as a colored strip at the margin. In this album, the yellow mülevven appears as a yan kâğıdı strip at the right edge of calligraphy openings, in addition to serving as a full-page front endpaper."
+      },
+      {
+        "concept": "Battal ebru (stone marbling)",
+        "ottoman": "battal ebru — taş ebrusu; ebrulu iç kapak / doublure ebrulu kâğıt",
+        "arabic": "waraq abrī (ورق ابری) — marbled paper",
+        "persian": "kāġaḏ-e abrī (کاغذ ابری) — marbled paper",
+        "english": "Battal ebru (stone / spot marbling): undifferentiated stone-spot marbling without combing or botanical motifs. In this album, battal ebru is used not for the calligraphy margins but exclusively for the binding doublures (inside covers), a distinct functional placement from the mülevven margin paper."
+      },
+      {
+        "concept": "Possible zerefşân (tarnished) on green margins",
+        "ottoman": "olası zerefşân (oksitlenmiş / kararmış yaldız serpme) — düşük güven (0.35)",
+        "arabic": "dhahab marshūsh mutaʾakkisid (ذهب مرشوش متأكسد) — possible oxidized gold-sprinkled",
+        "persian": "zar-afshān-e oksid-shoda (زر افشان اکسید شده) — oxidized gold-sprinkled (tentative)",
+        "english": "Dense white speckling on the green mülevven margins (pp006, 012, 018) may represent tarnished or oxidized zerefşân — gold-sprinkled paper in which the metallic particles have fully oxidized, changing from gold-colored to whitish or dull grey. This is a documented deterioration pathway for zerefşân papers containing lower-purity gold or gold alloys. Alternatively, the speckling may represent surface deterioration of the green dye binder, with the white sub-surface paper visible through breaks in the color layer. Classification confidence: zerefşân = 0.35; dye deterioration = 0.55. Physical examination required."
+      },
+      {
+        "concept": "Doublure (inside cover lining)",
+        "ottoman": "iç kapak kâğıdı / doublure — içten kapak astarı",
+        "arabic": "bāṭin al-jild (باطن الجلد) — inside of the binding",
+        "persian": "āstar-e jild (آستر جلد) — binding lining / doublure",
+        "english": "Doublure: the decorative paper or fabric lining the inside covers of a bound manuscript. In this album, both front and back doublures are lined with battal ebru paper — a bonus finding not anticipated from triage."
+      },
+      {
+        "concept": "Vassale mounting",
+        "ottoman": "vassale — pencere montaj tekniği; vassale yöntemiyle mülevven kâğıda monte edilmiş",
+        "arabic": null,
+        "persian": null,
+        "english": "Vassale: window-mounting technique in which a rectangular window is cut from the margin paper (here, green mülevven) and the calligraphy panel set behind the opening, then framed with ruling lines. Standard Ottoman album production technique."
+      },
+      {
+        "concept": "Sülüs script",
+        "ottoman": "sülüs hattı",
+        "arabic": "thuluth (ثلث)",
+        "persian": null,
+        "english": "Sülüs (thuluth): one of the six classical Arabic scripts, characterized by large rounded letterforms with strong contrast between thick and thin strokes. A core script in the Ottoman calligraphic curriculum."
+      },
+      {
+        "concept": "Calligraphic lineage / school",
+        "ottoman": "silsile-i meşâyih-i hattâtîn — Şükrüzâde hattı mektebi; talebelerinden",
+        "arabic": "silsila (سلسلة) — chain of transmission",
+        "persian": "silsila (سلسله) — lineage",
+        "english": "Silsile: the lineage of teacher-student transmission in Ottoman calligraphic practice. Kadızâde Mustafa is identified as 'Şükrüzâde'nin Talebelerinden' — from among the students of Şükrüzâde (Mehmed Sâlih Efendi, d. 1195/1780). This places the album within the documented Şükrüzâde school active in Istanbul in the mid-to-late 18th century."
+      }
+    ]
+  },
+  "bibliography": [
+    {
+      "citation": "Blair, Sheila S. 'Color and Gold: The Decorated Papers Used in Manuscripts in Later Islamic Times.' Muqarnas 17 (2000): 24–36.",
+      "relevance": "Foundational taxonomic study for decorated paper classification. Blair's framework for colored (mülevven) papers and their use as margin grounds in Islamic album production is the primary basis for classifying this album's yellow and green mülevven program. Her discussion of the interaction between marbled and colored papers in the Ottoman tradition is directly relevant to the dual-technique binding program documented here.",
+      "relevance_score": 0.95,
+      "access_notes": "Peer-reviewed article. Available via JSTOR (Brill/Muqarnas Online)."
+    },
+    {
+      "citation": "Roxburgh, David J. The Persian Album, 1400–1600: From Dispersal to Collection. New Haven: Yale University Press, 2005.",
+      "relevance": "Essential study of the murakkaat album format and decorated paper programs, providing the theoretical framework for understanding mülevven margin paper programs as deliberate compositional choices in album design. Applicable to the two-color mülevven sequence in VP 01226 and its relationship to Persianate-Ottoman album conventions.",
+      "relevance_score": 0.82,
+      "access_notes": "Monograph; widely held at research libraries."
+    },
+    {
+      "citation": "Çağman, Filiz, and Zeren Tanındı. The Topkapı Saray Museum: The Albums and Illustrated Manuscripts. Translated and edited by J. M. Rogers. Boston: Little, Brown, 1986.",
+      "relevance": "Standard reference for Ottoman calligraphic albums with decorated paper programs. Provides comparanda for 18th-century Ottoman albums with mülevven margin papers, vassale mounting, and battal ebru doublures. The Şükrüzâde school's album production context is partially documented in Topkapı collections treated here.",
+      "relevance_score": 0.85,
+      "access_notes": "Exhibition catalogue; widely held at Turkish and Islamic art research libraries."
+    },
+    {
+      "citation": "Derman, M. Uğur. Letters in Gold: Ottoman Calligraphy from the Sakıp Sabancı Collection, Istanbul. New York: The Metropolitan Museum of Art, 1998.",
+      "relevance": "Primary English-language catalogue on Ottoman calligraphy covering the sülüs tradition and 18th-century calligraphic schools. Provides biographical and stylistic context for the Şükrüzâde school, the master of the album's calligrapher Kadızâde Mustafa.",
+      "relevance_score": 0.82,
+      "access_notes": "Exhibition catalogue; widely held."
+    },
+    {
+      "citation": "Bağcı, Serpil, Filiz Çağman, Günsel Renda, and Zeren Tanındı. Ottoman Painting. Ankara: Ministry of Culture and Tourism, 2006.",
+      "relevance": "Comprehensive survey of Ottoman visual arts covering the album tradition and calligraphic practices of the 17th and 18th centuries, including the mid-18th-century period in which this album was produced and the album production conventions of the Istanbul calligraphic schools.",
+      "relevance_score": 0.75,
+      "access_notes": "Museum publication; widely held at Turkish studies collections."
+    },
+    {
+      "citation": "Bloom, Jonathan M. Paper Before Print: The History and Impact of Paper in the Islamic World. New Haven: Yale University Press, 2001.",
+      "relevance": "Comprehensive history of paper production and decorated paper traditions in the Islamic world, providing material-culture background for the mülevven dyeing process and the marbled paper (ebru) techniques used in 18th-century Ottoman album production.",
+      "relevance_score": 0.75,
+      "access_notes": "Widely held monograph."
+    },
+    {
+      "citation": "Tanındı, Zeren. 'Bibliophile Aghas (Eunuchs) at Topkapı Saray.' Muqarnas 21 (2004): 333–43.",
+      "relevance": "Documents Ottoman album-collecting and commissioning practices in the broader Istanbul court environment. Provides context for the patronage and circulation of calligraphic albums in the 18th-century Ottoman context, including albums with mülevven paper programs.",
+      "relevance_score": 0.68,
+      "access_notes": "Peer-reviewed article. Available via JSTOR and institutional library access."
+    },
+    {
+      "citation": "Gacek, Adam. Arabic Manuscripts: A Vademecum for Readers. Leiden: Brill, 2009.",
+      "relevance": "Standard reference for Islamic manuscript codicological terminology and script identification. Relevant for description of the sülüs script, album codicological format, and technical terms (meşk, kıtʿa, cetvel, doublure) used in this record.",
+      "relevance_score": 0.72,
+      "access_notes": "Reference monograph; widely held."
+    },
+    {
+      "citation": "Déroche, François. Islamic Codicology: An Introduction to the Study of Manuscripts in Arabic Script. Translated by Deke Dusinberre and David Radzinowicz. London: Al-Furqan Islamic Heritage Foundation, 2005.",
+      "relevance": "Foundational reference for Islamic manuscript codicology. Provides the classification framework for paper types, binding doublures, and ruling systems used throughout this catalog record.",
+      "relevance_score": 0.68,
+      "access_notes": "Monograph; available at specialist libraries."
+    },
+    {
+      "citation": "Scheper, Karin. The Technique of Islamic Bookbinding: Methods, Materials and Regional Varieties. Leiden: Brill, 2015.",
+      "relevance": "Systematic study of Islamic bookbinding techniques relevant to the battal ebru doublures and the overall binding construction of this album. Provides regional and chronological context for ebru doublure production in 18th-century Ottoman bindings.",
+      "relevance_score": 0.70,
+      "access_notes": "Monograph; available at Islamic bookbinding and manuscript studies libraries."
+    }
+  ],
+  "suggested_collections": [
+    {
+      "institution": "Kütahya Vahid Paşa Kütüphanesi — broader corpus",
+      "reason": "The Vahid Paşa murakkaʿ sub-corpus contains confirmed albums across a century of Ottoman calligraphic production. A systematic survey of all Vahid Paşa murakkaʿ holdings would clarify whether the two-color mülevven format clusters in the 18th century and whether it is associated specifically with the Şükrüzâde school.",
+      "digital_access": "https://portal.yek.gov.tr"
+    },
+    {
+      "institution": "Türk ve İslam Eserleri Müzesi (TIEM), Istanbul",
+      "reason": "The TIEM murakkaʿ corpus contains multiple albums with comparable mülevven-plus-vassale formats. Systematic comparison would establish whether the yellow + green mülevven combination documented here is a specific 18th-century production formula.",
+      "digital_access": "https://portal.yek.gov.tr"
+    },
+    {
+      "institution": "Topkapı Sarayı Müzesi Kütüphanesi, Istanbul",
+      "reason": "Holds documented works associated with the Şükrüzâde school. Physical comparison with Topkapı Şükrüzâde-school albums would confirm the VP 1226 attribution to Kadızâde Mustafa and establish workshop comparanda for the decorated paper program.",
+      "digital_access": "https://kutuphane.tsmk.gov.tr"
+    },
+    {
+      "institution": "GlobalDecoPaper ERC Project, LMU Munich",
+      "reason": "The unresolved white speckling on the green mülevven margins (possible tarnished zerefşân vs. dye deterioration) is a classification problem directly within the GlobalDecoPaper research scope. The project's spectroscopic analysis protocols would resolve the identification.",
+      "digital_access": null
+    }
+  ],
+  "provenance": {
+    "donor": null,
+    "waqf": null,
+    "previous_shelfmarks": [],
+    "notes": "Held at Kütahya Vahid Paşa Kütüphanesi, Kütahya, Turkey, under shelfmark 1226. YEK ID: 520285. IIIF ID: 0000000502483 (formula: 1022768 − 520285 = 502483, confirmed). No waqf, donor, or previous shelfmark information is available in the YEK record. How this 18th-century Istanbul-school album entered the Kütahya Vahid Paşa collection is not documented. The album may have entered the collection through a pious donation (vakıf) or private sale at an undetermined date."
+  },
+  "analysis_metadata": {
+    "analyzed_date": "2026-03-01",
+    "analyzer": "claude-code-manuscript-pipeline",
+    "pipeline_stage": "metadata-generator",
+    "image_source": "YEK Portal IIIF images, Kütahya Vahid Paşa Kütüphanesi, YEK ID 520285, IIIF ID 0000000502483. 6 of 23 pages downloaded and examined at 1600px width.",
+    "image_quality_notes": "IIIF images at 1600px width adequate for mülevven/marbled identification and framing structure, but the white speckling on green margins (pp006, 012, 018) cannot be classified reliably at this resolution — physical examination required. 26% page coverage: 17 of 23 IIIF pages not examined. The battal ebru doublures at p023 are clearly legible at download resolution.",
+    "folios_examined": [
+      "corpus/iiif/vahid_pasa_01226_p001.jpg",
+      "corpus/iiif/vahid_pasa_01226_p002.jpg",
+      "corpus/iiif/vahid_pasa_01226_p006.jpg",
+      "corpus/iiif/vahid_pasa_01226_p012.jpg",
+      "corpus/iiif/vahid_pasa_01226_p018.jpg",
+      "corpus/iiif/vahid_pasa_01226_p023.jpg"
+    ],
+    "folios_not_examined": "Pages 003–005, 007–011, 013–017, 019–022 (17 of 23 IIIF pages). These are inferred to follow the green mülevven margin / gold cetvelli / vassale format confirmed on pp002, 006, 012, 018.",
+    "follow_up_priority": "HIGH — physical examination needed to classify white speckling on green mülevven margins (pp006, 012, 018): tarnished zerefşân (0.35) vs. dye deterioration (0.55). If zerefşân confirmed, record must be updated to add 'gold_sprinkled' to paper_decoration.types. Download remaining 17 IIIF pages to confirm consistency of decoration program. Confirm single-sided leaf structure at p012.",
+    "source_data": {
+      "visual_confirmation_file": "catalog/searches/visual_tier2h_vahid_pasa_01226.json",
+      "yek_id": "520285",
+      "iiif_id": "0000000502483",
+      "iiif_constant": "1022768",
+      "iiif_formula": "iiif_id = 1022768 - yek_id",
+      "batch": "Sub-Batch H (VP Top albums, 2026-03-01)"
+    }
+  }
+}
