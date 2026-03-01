@@ -129,8 +129,8 @@ Ottoman terminology groups all Qur'anic marginal markers under **mushaf gülleri
 | Term | Language | Meaning |
 | --- | --- | --- |
 | halkâr / halkârî | Ott./Pers. | Shaded gold floral painting (halkâr = noun, halkârî = adjectival form), typically in margins. Subtypes: **taramalı halkârî** (hatched/lined shading), **tahrirli halkârî** (outlined with darker gold/ink) |
-| zerefşân / serpme / yaldız serpme | Pers./Ott. | Gold-sprinkled (particles scattered on paper surface). Subtypes: **kalbur zerefşanı** (sieve-sprinkled, finer), **fırça zerefşanı** (brush-sprinkled, coarser). Surface variant: **şâykâllı zerefşân** (burnished/polished gold-sprinkled — particles compressed and polished, harder to read at low resolution; confirmed: Milli Kütüphane 614152) |
-| sim efşan / sim-efşan | Ott. | Silver-sprinkled (silver equivalent of zer-efşan; *sim* = silver). Distinct from *gümüş yaldız serpmeli* (the more common Ottoman term); found in Ali Emiri Belge berats (155133, 155116) |
+| zerefşân / serpme / yaldız serpme | Pers./Ott. | Gold-sprinkled (particles scattered on paper surface). Subtypes: **kalbur zerefşanı** (sieve-sprinkled, finer), **fırça zerefşanı** (brush-sprinkled, coarser). Surface variant: **şâykâllı zerefşân** (burnished/polished gold-sprinkled — particles compressed and polished, harder to read at low resolution) |
+| sim efşan / sim-efşan | Ott. | Silver-sprinkled (silver equivalent of zer-efşan; *sim* = silver). Distinct from *gümüş yaldız serpmeli* (the more common Ottoman term) |
 | zer-endûd | Pers. | Gold-painted / gold-applied surface |
 | zer-ender-zer | Pers. | Gold-on-gold: layered gold effects (gold motifs on gold ground) |
 | zerkâri | Pers. | Gold-worked (motifs worked into paper surface in gold) |
@@ -151,32 +151,26 @@ Ottoman terminology groups all Qur'anic marginal markers under **mushaf gülleri
 
 ### Gold-decorated papers
 
-- **serpme / zerefşân / yaldız serpme** — gold-sprinkled: fine metallic particles hand-scattered on paper surface
-- **şâykâllı zerefşân** — burnished/polished gold-sprinkled paper: particles compressed and polished after application; harder to detect at low image resolution (confirmed: Milli Kütüphane 614152 "saykalli zerefsan")
-- **sim efşan / sim-efşan** — silver-sprinkled; *sim* (silver) parallels *zer* (gold) in zer-efşan; found in Ottoman berat documents (Ali Emiri Belge 155133, 155116). Synonym: *gümüş yaldız serpmeli*
+Terms defined in Gold Techniques table above. YEK cataloguing phrases for these techniques:
+
 - **dendanlı olarak zer-efşanlıdır** — scalloped/crenellated gold-sprinkled (berat-specific phrase; *dendanlı* = toothed/crenellated, describing the edge or border treatment of the gold sprinkling)
-- **kenarları serpme oksitlenmiş yaldız** — margins with sprinkled oxidized gold (notes both application technique and oxidation state; confirmed: Konya Bölge BY00008884/3)
-- **ilk formaların derkenarları zerefşan tekniğiyle süslenmiştir** — margins of the first gatherings decorated with zerefşan technique (location-specific phrase; *forma* = quire/gathering; *derkenar* = margin; confirmed: Ragıp Paşa 00088)
-- **zerefşân kâğıtla kaplanmıştır** — (endpapers) covered/lined with gold-sprinkled paper (*kaplanmıştır* = is covered/lined; distinguishes applied gold-sprinkled paper from paper that received decoration directly; confirmed: Veliyyuddin Efendi 547179)
-- **dış pervazı kalbur zer-efşanlıdır** — outer border/frame is sieve-sprinkled gold (confirms **kalbur** sieve-technique in wild; *dış pervaz* = outer border/frame; confirmed: Ali Emiri Belge 155183)
-- **zerefşân taçlı salkım filigranı** — gold-sprinkled with a crown-bunch watermark; cataloguing phrase combining paper decoration type with watermark description in one field (confirmed: Milli Kütüphane 616781)
-- **zerkâri** — gold-worked: motifs (floral, geometric, chevron, medallion) worked in gold on paper
+- **kenarları serpme oksitlenmiş yaldız** — margins with sprinkled oxidized gold (notes both application technique and oxidation state)
+- **ilk formaların derkenarları zerefşan tekniğiyle süslenmiştir** — margins of the first gatherings decorated with zerefşan technique (*forma* = quire/gathering; *derkenar* = margin)
+- **zerefşân kâğıtla kaplanmıştır** — (endpapers) covered/lined with gold-sprinkled paper (*kaplanmıştır* = is covered/lined; distinguishes applied from directly decorated paper)
+- **dış pervazı kalbur zer-efşanlıdır** — outer border/frame is sieve-sprinkled gold (*dış pervaz* = outer border/frame)
+- **zerefşân taçlı salkım filigranı** — gold-sprinkled with a crown-bunch watermark; cataloguing phrase combining paper decoration type with watermark description in one field
 - **çeşitli zerkâri kâğıt** — various gold-worked paper (cataloguing phrase used when a volume contains assorted gold-worked papers)
 - **zerkâri-bordurlu** — with gold-worked border (combined descriptor for paper with gold-worked border treatment)
 - **ilk iki sayfa zerkâri** — first two pages gold-worked (location-specific cataloguing phrase)
-- **zer-endûd** — gold-applied / gold-painted surfaces
 - **zerendûddur / sûre isimleri zerendûddur** — "are gold-painted" / "surah titles are gold-painted" (Quran surah-header and colophon context)
 - **zer-ender-zer tekniği kullanılmıştır** — "gold-on-gold technique was used" (explicit genel_notlar phrasing for the zer-ender-zer technique)
-- **tamamı yaldız bezemeli** — entirely gold-decorated (high-precision paper field term; also listed in Gold Techniques table)
-- **altınlı kağıt / yaldızlı kağıt** — gilded paper (general cataloguing term)
-- **gümüş yaldız serpmeli** — silver-sprinkled (see also *sim efşan* above)
 
 ### Color-splashed papers (boya efşân)
 
 - **boya efşân / serpme-i boyalı** (بویا افشان) — pigment-sprinkled: colored paint or pigment particles hand-scattered onto paper surface using the same brush-flicking (fırça serpme) technique as zerefşân, but with colored pigment instead of gold leaf. The chromatic equivalent of zerefşân. Literally "color scattering" (*boya* = paint/dye, *efşân* = scattering, from Persian *afshān*). Also called *rangafshān* (رنگ‌افشان) in Persian ("color scattering").
 - **Diagnostic distinction from zerefşân**: speckles are matte colored pigment (pink, red, blue, etc.) rather than metallic gold particles. No shimmer or metallic lustre under any lighting.
 - **Diagnostic distinction from mülevven**: boya efşân produces scattered speckles on a cream/white ground; mülevven is uniformly dyed paper with no speckle pattern.
-- **Known corpus examples**: Vahid Paşa 01220 (confirmed — most systematic specimen: red/pink boya efşân as full-page endpapers pp001+008, AND as narrow border strips within compound cedvel framing pp002-007); Pertevniyal 00050 p007 (probable, confidence 0.70 — pink/rose speckles consistent with boya efşân; physical examination required to confirm).
+- **Known application patterns**: Full-page endpapers; narrow border strips within compound cedvel framing; scattered pink/rose speckles on individual folios.
 
 ### Marbled papers
 
@@ -188,7 +182,7 @@ Ottoman terminology groups all Qur'anic marginal markers under **mushaf gülleri
 - **vikaye yaprağı hatip ebrulu** — protective/guard flyleaf in hatip-marbled paper (flyleaf = vikaye yaprağı; confirms marbled paper at opening)
 - **yan kağıtları ebrulu** — marbled side/margin papers (distinct from text block; found at both ends of volume — check opening AND closing pages when searching)
 - **X.varak ebrulu kağıt üzeri yazılı** — folio X written on marbled paper (indicates scattered marbled leaves within a manuscript; targeted page navigation required)
-- **vassale yöntemiyle ebrulu kağıda monte edilmiştir** — text panel window-mounted onto marbled paper via vassale technique (text block is separate from the decorated paper ground; see also *vassale* in Mounting section)
+- **vassale yöntemiyle ebrulu kağıda monte edilmiştir** — text panel window-mounted onto marbled paper via vassale technique (text block is separate from the decorated paper ground; see also *vassale* under §Mounting and special treatments)
 - **[Master name]'nin ebrusu tarzında** — attributed hatip ebru in the manner of a named master (e.g. "Hatip Mehmet Efendi'nin neftli sarı örneği tarzındaki enfes ebrusu"); signals a named workshop or attribution claim
 - **ebrulu mukavva** — marbled board/cover (⚠ NOT paper decoration — binding only)
 - **ebrulu cilt** — marbled binding (⚠ NOT paper decoration)
@@ -200,9 +194,9 @@ Ottoman terminology groups all Qur'anic marginal markers under **mushaf gülleri
 - **mülevven** — colored paper. Simple standalone forms `Mülevven kağıt` (and `Abadî ve suyolu filigranli mülevven` — abadi paper with chain-line watermarks, colored) also used in kagit_ozellikleri
 - **mülevven cedid** — new colored paper
 - **boyalı** — dyed / painted paper
-- **sarı boyalı** — yellow-dyed paper (confirmed: Manisa 4620/1, 4633)
+- **sarı boyalı** — yellow-dyed paper
 - **renkli yaprak** — colored leaves (individual colored folios). Trailing forms: `yapraklar renkli` also used
-- **bazı yapraklar lacivert, yeşil, sarı ve mavi** — multi-colored scattered leaves (lapis, green, yellow, blue); the Manisa cataloguing phrase for manuscripts with leaves in multiple colors (Manisa 4408/1)
+- **bazı yapraklar lacivert, yeşil, sarı ve mavi** — multi-colored scattered leaves (lapis, green, yellow, blue)
 - **lacivert** — lapis blue (paper color)
 
 ### Stenciled, silhouetted, and impressed papers
@@ -227,11 +221,7 @@ No standardized Turkish cataloguing term exists for any of these techniques. Dis
 - **stencil-applied metallic** — gold leaf or shell-gold (zermürekkep) applied through stencil, producing gold repeat-patterns
 - **stencil borders as inserted leaves** — separate stencil-decorated leaves bound into or vassale-mounted in the manuscript
 
-**Key figures and collections:**
-
-- **Karamemi** (fl. 1545–66): chief illuminator of Sultan Süleyman's court; hand-painted naturalistic floral borders in Divan-ı Muhibbi (1565–66) later informed or paralleled stencil-based repeat patterns
-- **Known examples**: Stuttgart alba amicorum (Württembergische Landesbibliothek, 98 sheets), Coburg, Kassel, BnF Paris, John Rylands MS 7046 (1531–33)
-- **Global Deco Paper Project** (LMU Munich) — active research project on decorated paper classification including Ottoman material
+**Key figures:** Karamemi (fl. 1545–66), chief illuminator of Süleyman's court; naturalistic floral borders later informed or paralleled stencil-based repeat patterns. Reference: Global Deco Paper Project (LMU Munich).
 
 **⚠ Timeline:** Gold stencilling extends into the 19th century (1829 Ottoman manuscript, Shapero; commercial record, scholarly confirmation desirable) — not limited to the 16th-century "classic" period.
 
@@ -267,34 +257,21 @@ No standardized Turkish cataloguing term exists for any of these techniques. Dis
 
 #### Halkâr cataloguing phrases (genel_notlar)
 
-Genuine descriptors confirmed in YEK Batch 3:
+YEK cataloguers use varied grammatical forms; match on proximity of kenar/sayfa + halkâr keywords:
 
-- **ilk sayfa kenarı halkârî** — first-page margin halkâr (confirmed: Kastamonu 1569)
-- **sayfa kenarları çiçek motifli halkârî** — page margins with flower-motif halkâr (Ali Nihat Tarlan 00153)
-- **şükûfe halkârî nakış** — shükûfe (flower) halkâr painting (Milli Kütüphane FB 393)
-- **halkârî tezyinatlıdır** — has halkâr ornamentation (Yazma Bağışlar 08418)
-- **derkenar halkârileriyle bezelidir** — decorated with margin halkâr paintings (Muğlalı Hoca Mustafa Efendi 00035)
-- **kenarları halkârî yaldızlı** — margins with gold halkâr (Ankara 06 Hk 4663)
-- **halkârî bezemelerle süslenmiştir** — decorated with halkâr ornaments (Turhan Valide Sultan 00150M)
+- **ilk sayfa kenarı halkârî** — first-page margin halkâr
+- **derkenar halkârileriyle bezelidir** — decorated with margin halkâr paintings
+- **kenarları halkârî yaldızlı** — margins with gold halkâr
+- **halkârî bezemelerle süslenmiştir** — decorated with halkâr ornaments
 
 Binding FP descriptors (⚠ NOT page margin halkâr):
 
-- **halkârî gömme şemse** — halkâr sunken/recessed medallion (Tokat binding FP)
-- **halkârî salbek şemseli** — halkâr pendant-medallion (Tokat binding FP)
+- **halkârî gömme şemse** — halkâr sunken/recessed medallion (binding FP pattern)
+- **halkârî salbek şemseli** — halkâr pendant-medallion (binding FP pattern)
 
-#### Other margin decoration
+#### Other margin decoration terms
 
-- **halkâr kenar** — halkâr-adorned margin
-- **kenar suyu** / **dış pervaz** — outer border illumination band
-- **ara suyu** / **iç pervaz** — inner border illumination band
-- **hâşiye tezhibi** / **kenar suyu tezhibi** — marginal illumination
-- **kenar bezemeli** — border-decorated
-- **kenar tezhibi / kenar süsleme** — border illumination
-- **tezhipli kenar** — illuminated margin
-- **teşʿîr / tashʿīr** — fine-line gold marginal drawings
-- **altın cetvelli** / **cetvelli** — gold-ruled / ruled (framing system)
-- **süslemeli** — decorated (general)
-- **bezemeli** — ornamented (general)
+See §Page-level elements, §Border system, and §Marginal pictorial decoration above. Additional search-handle terms: kenar bezemeli, kenar tezhibi, kenar süsleme, tezhipli kenar, altın cetvelli, cetvelli, süslemeli, bezemeli.
 
 ## Paper Provenance Terms
 
@@ -316,12 +293,7 @@ Binding FP descriptors (⚠ NOT page margin halkâr):
 Chinese luxury paper in Islamic manuscripts is most commonly documented in 15th-century Timurid manuscripts, arriving through Ming diplomatic gifts (1412, 1417, 1419). At least 15 examples are currently documented in the published literature. Key identification markers:
 
 - **Fiber analysis** (definitive): The primary diagnostic fiber is paper mulberry (*Broussonetia papyrifera*), whose long fibers with transparent primary wall membranes stain violet/bluish-purple with Herzberg stain. Islamic rag fibers (linen, hemp, flax — also bast fibers) stain purplish pink to vivid red-purple. The distinction is fiber species and morphology, not fiber class: both traditions use bast fibers, but paper mulberry is absent from Islamic papermaking. Secondary Chinese fibers include ramie, bamboo, and cotton
-- **Sheet format**: Original Chinese horizontal sheets (~35 × 106 cm) cut for vertical Persian codex format. Gold-painted designs appear at **right angles to text direction** — the perpendicular orientation tell
-- **Surface treatment**: No diagonal burnishing lines (Islamic papers show these from agate/glass polishing). No watermarks (bamboo moulds cannot accommodate wire designs)
-- **Decoration motifs**: Chinese landscapes with mountains, pavilions, pine trees; gourd vines; pomegranates; bamboo; birds in flowering trees — subjects not found in Islamic paper decoration
-- **Color palette**: Vivid colors dyed on both sides: pink, mauve, olive green, light blue, orange, grey, dark purple, yellow-green
-- **Gold types**: Fine gold sprinkles + large gold flecks + painted gold compositions (overlapping with existing zerefşân/zerkâri categories, but combined with Chinese subject matter)
-- **Key confirmed corpus**: TIEM Inv. 1992, TIEM Inv. 41, BL Add.7759, BL Add.16561, Bodleian MS. Pers. E.26, Chester Beatty Per 127, NYPL Spencer Persian 41, Süleymaniye Ayasofya 4334, Sarikhani Collection Qur'an
+- **Visual identification markers**: See visual-identification-guide.md §Chinese paper for perpendicular orientation, burnishing absence, Chinese subject matter, color palette, and gold types
 - **References**: Sturkenboom (ERC GLOBAL DECO PAPER project, LMU Munich); Soucek 1988 (*Ars Orientalis*); Blair 2000 (*Muqarnas* 17); Yu 2021 (University of Chicago Press); Helman-Ważny (fiber analysis)
 
 **⚠ Visual identification alone provides PROBABLE attribution, not confirmed.** Definitive identification requires fiber analysis. When visually suspected, record as "probable Chinese paper (kāġaẕ-i Ḫiṭāʾī)" with confidence ≤ 0.7 and note the need for fiber analysis.
@@ -339,19 +311,14 @@ Chinese luxury paper in Islamic manuscripts is most commonly documented in 15th-
 
 ### Cover decoration
 
-- **şemse** / shamsa / toranj — central medallion
-- **köşebend** — corner pieces
-- **salbek** / sar-toranj — pendant from medallion
-- **zencirek / zencerek** — chain border (interlinked rings)
 - **soğuk şemse** — blind-stamped medallion (no gilding)
-- **ruganî / lake** — lacquer binding (Persian tradition: lacquer-painted covers, often with floral/figural scenes)
-- **çârkûşe** — binding cover style
+- **ruganî / lake** — lacquer binding (Persian tradition). See also roghanī under Paper Decoration Techniques for lacquer painting on paper.
+- Other cover terms (şemse, köşebend, salbek, zencirek, çârkûşe): see yek-playbook.md FP Detection Rules for binding-context identification.
 
 ### Edge and endpaper decoration
 
 - **yaldızlı kenar / ağız yaldızlı** — gilt edges (gold-leaf on bookblock edges)
-- **ebrulu mukavva** — marbled boards (⚠ NOT paper decoration — binding only)
-- **ebrulu iç kapak** — marbled doublures / endpapers (binding zone, but can indicate marbled paper use)
+- Marbled binding components (ebrulu mukavva, ebrulu iç kapak): see yek-playbook.md FP Detection Rules.
 
 ## Manuscript Format Terms
 
@@ -370,19 +337,7 @@ These format terms are useful as search co-anchors: luxury formats (murakkaa, k�
 
 Cataloguers are inconsistent with Turkish diacritics. Always search both forms. The YEK portal explicitly instructs "Arama yaparken Türk Alfabesini kullanınız" (use the Turkish alphabet).
 
-| Standard form | Common variants to also search |
-| --- | --- |
-| zerefşân | zerefşan, zerefsan, zer-efşan, zer efşan, zer-efşân, sahife kenarlar zerefşan (= zerefşān treatment extending to page margins; found in genel_notlar) |
-| ebrî | ebri, ebrû, ebru, ebrulu |
-| halkârî | halkari, halkâr, halkar |
-| zencirek | zencerek |
-| cedvel | cetvel |
-| cetvelli | cetvelli (stable, but also try: altın cetvel, altın cetvelli) |
-| nestaʿlîk | nestalik, nesta'lik, nasta'lik, nestaʿlik |
-| taʿlîk | talik, ta'lik |
-| murakkaʿ | murakka, murakkaa |
-| kıt'a | kıta, katı', kati |
-| teşʿîr | teşir, teş'ir |
+For the full spelling variant rotation table with search-behavior notes (diacritics, hyphens, spaces), see yek-playbook.md §Protocol E.
 
 ## YEK Cataloguing Field Terminology
 
@@ -403,9 +358,8 @@ These describe features OTHER than decorated paper:
 - **ebrulu mukavva** — marbled board covers (not marbled paper)
 - **ebrulu cilt** — marbled binding (not marbled paper)
 - **filigran** — watermark description (not paper decoration)
-- **serpme tezhiplidir / serpme tarzında tezhip** — "*serpme*" here modifies "*tezhip*" (illumination), meaning illumination motifs scattered between text sections, NOT gold-sprinkled paper. Confirmed by visual examination: Konya Bölge BY0000001267 has plain paper with illuminated palmettes/rosettes scattered in text columns
-- **İran işi zerefşân ... mıkleli cilt / deri cilt** — Iranian-style gold-sprinkled leather binding; the full phrase confirms a gold-sprinkled cover, not paper decoration. Formula: "İran işi zerefşân [colour] deri mıkleli cilt" (confirmed: Kastamonu 459737)
-- **siyah serpme boyalı** — black sprinkled paint (*siyah* = black); a painting technique on covers or other surfaces, not gold-sprinkled decorated paper
+- **serpme tezhiplidir / serpme tarzında tezhip** — "*serpme*" here modifies "*tezhip*" (illumination), meaning illumination motifs (palmettes/rosettes) scattered between text sections on plain paper, NOT gold-sprinkled paper
+- **İran işi zerefşân ... mıkleli cilt / deri cilt** — Iranian-style gold-sprinkled leather binding; the full phrase confirms a gold-sprinkled cover, not paper decoration. Formula: "İran işi zerefşân [colour] deri mıkleli cilt" - **siyah serpme boyalı** — black sprinkled paint (*siyah* = black); a painting technique on covers or other surfaces, not gold-sprinkled decorated paper
 - **serpme şekilde** — "in a scattered/dispersed manner"; *şekilde* = "in the manner of"; describes arrangement or layout, not physical gold sprinkling
 
 ## Workshop Attribution Vocabulary

@@ -84,8 +84,6 @@ Reference for identifying paper decoration types in manuscript screenshots. Used
 - **Battal ebru** (stone marbling): Irregular spotted or mottled pattern. Random distribution of color droplets. Can look like speckled stone.
 - **Gel-git / taraklı ebru** (combed marbling): Parallel wavy lines from combing through the size. Regular repeating wave or zigzag pattern.
 
-**Resolution sensitivity:** LOW — marbling patterns are large-scale and usually clearly visible.
-
 **Distinguish from:**
 
 - Colored paper (uniform color, no pattern)
@@ -101,8 +99,6 @@ Reference for identifying paper decoration types in manuscript screenshots. Used
 - Common colors: blue (lacivert), green, orange, pink, yellow, purple
 - May vary between folios (different colored leaves interspersed)
 - Surface is uniformly colored (tinted through, or surface-dyed)
-
-**Resolution sensitivity:** LOW — color is usually obvious even at low resolution.
 
 **Distinguish from:**
 
@@ -126,8 +122,6 @@ Reference for identifying paper decoration types in manuscript screenshots. Used
 - **Taramalı halkârî** (hatched shading): Shading built up from parallel hatched/lined strokes. Close inspection reveals fine parallel lines creating tonal gradients.
 - **Tahrirli halkârî** (outlined): Motifs outlined with a darker gold or ink line, then filled. The outlines give a crisper, more defined appearance compared to the softer taramalı technique. Can sometimes appear outside the margins.
 
-**Resolution sensitivity:** MEDIUM — overall presence is visible at moderate resolution, but fine details of brushwork require higher resolution.
-
 **Distinguish from:**
 
 - Simple gold ruling (cetveller) — straight lines only, no floral motifs
@@ -146,8 +140,6 @@ Reference for identifying paper decoration types in manuscript screenshots. Used
 - May fill the full margin or appear in bands (kenar suyu / dış pervaz)
 - Dense, fully saturated color — typically lapis blue, vermillion, green, white, gold
 - Often appears on the same opening as an illuminated headpiece, extending the headpiece program into the margins
-
-**Resolution sensitivity:** MEDIUM — the saturated colors and gold leaf are visible at moderate resolution, but distinguishing this from halkâr requires enough resolution to see the technique (flat pigment vs. shaded brushwork).
 
 **Distinguish from:**
 
@@ -201,8 +193,6 @@ Reference for identifying paper decoration types in manuscript screenshots. Used
 - Runs along page edges, around calligraphy panels, or on binding edges
 - Regular, rhythmic, linked-chain pattern — distinct from other border types
 
-**Resolution sensitivity:** MEDIUM — the repeating pattern is usually visible at moderate resolution, though fine details of the interlinking may blur.
-
 **Distinguish from:**
 
 - Other geometric borders (girih-style) — zencirek is specifically linked rings/loops, not angular interlace
@@ -220,8 +210,6 @@ Reference for identifying paper decoration types in manuscript screenshots. Used
 - Complex framing systems are a strong indicator of luxury production
 - The space between inner and outer frames is where halkâr, teşʿîr, or illuminated motifs appear
 - Zencirek (chain border) may appear as one of the framing bands — see the Zencirek section above for its distinctive visual pattern
-
-**Resolution sensitivity:** LOW — ruling lines and frame structures are visible even at low resolution.
 
 **Specific border elements within framing systems:**
 
@@ -246,18 +234,14 @@ Reference for identifying paper decoration types in manuscript screenshots. Used
 
 **Identifying features:**
 
-- Shiny gold along the bookblock edges (visible when the book is closed)
+- Shiny gold along bookblock edges (visible only when the book is closed or from edge-on angles)
 - May be smooth (plain gilt) or patterned/tooled (gauffered edges)
-- Only visible in closed-book images or edge-on photographs
-
-**Resolution sensitivity:** LOW when visible, but requires specific camera angle. Most YEK folio captures show pages open, so edge gilding is rarely visible. Only detectable from closed-book or spine images.
+- Rarely visible in standard YEK open-folio captures; only detectable from closed-book or spine images
 
 **Distinguish from:**
 
 - Age-darkened page edges (brownish, not metallic)
-- Paper color visible at edges (no metallic sheen)
-- Gold-tooled board edges (on the binding covers, not the bookblock — check if the gold is on cardboard/leather or on paper edges)
-- Painted or decorated fore-edges (Western tradition, figural scenes visible when pages are fanned — not typically found in Islamic manuscripts)
+- Gold-tooled board edges (on binding covers, not the bookblock)
 
 ### Stenciled paper
 
@@ -282,7 +266,7 @@ Reference for identifying paper decoration types in manuscript screenshots. Used
 - **Pigment pooling** — slightly heavier color deposits at mask edges where pigment accumulated against the stencil wall
 - **Stencil bridges** — see above; look for tiny interruptions in outlines of enclosed shapes
 
-**Resolution sensitivity:** MEDIUM-HIGH — overall motif presence is visible at moderate resolution, but the key diagnostic features (stencil bridges, misregistration, edge haloing) require higher resolution to detect. At low resolution, stenciled paper may be indistinguishable from hand-painted decoration.
+**Resolution sensitivity:** MEDIUM-HIGH — overall motif presence is visible at moderate resolution, but key diagnostic features (stencil bridges, misregistration, edge haloing, pigment pooling) require higher resolution to detect. At low resolution, stenciled paper may be indistinguishable from hand-painted decoration.
 
 **Distinguish from:**
 
@@ -346,8 +330,6 @@ Reference for identifying paper decoration types in manuscript screenshots. Used
 - Ink or pigment transfer may be slightly uneven: heavier at edges of the block, lighter in center
 - Repeated motifs may show slight positional variation from hand-placement of the block
 
-**Resolution sensitivity:** MEDIUM — block-printed patterns are usually visible at moderate resolution, but press indentation requires higher resolution to confirm.
-
 **Distinguish from:**
 
 - Stenciled paper — no press indentation; stenciling leaves pigment on the surface without deforming the paper
@@ -365,8 +347,6 @@ Vassale is not a decoration type but a mounting technique — text is cut out an
 - Surrounding paper often shows a different texture, color, or decoration from the text area
 - Common in albums (murakkaʿ) and mounted calligraphy specimens (kıt'a, levha)
 
-**Resolution sensitivity:** MEDIUM — the seam is visible at moderate resolution if the image captures the margin-to-text transition area.
-
 **Distinguish from:**
 
 - Natural paper edges or tears — vassale seams are straight and intentional
@@ -382,8 +362,6 @@ Vassale is not a decoration type but a mounting technique — text is cut out an
 - Central compositions often based on stars (8-pointed *khatam*, hexagons, octagons) surrounded by concentric frames
 - **No continuous body text** — the critical distinction from serlevha/ʿunwān pages which contain readable text below the headpiece
 - Brief Qur'anic inscriptions may appear in small rectangular panels at top and bottom
-
-**Resolution sensitivity:** LOW — full-page illumination patterns are large-scale and visible even at low resolution.
 
 **Tradition-specific variants:**
 
@@ -406,8 +384,6 @@ Vassale is not a decoration type but a mounting technique — text is cut out an
 - Forms: 8-pointed star, 12-pointed star, circular rosette, or lobed/scalloped medallion
 - Central panel contains an inscription — owner's name, dedication, title, or pious invocation
 - Surrounded by arabesques, florals, or vegetal motifs in gold and lapis
-
-**Resolution sensitivity:** LOW — the large central medallion is visible even at low resolution.
 
 **Distinguish from:**
 
@@ -445,8 +421,6 @@ Vassale is not a decoration type but a mounting technique — text is cut out an
 - In Ottoman practice, the scribe often switched from naskh to **dīwānī** script for the colophon — a distinctive convention
 - Records scribe's name, date, location, and patron; illuminator signatures are rare
 
-**Resolution sensitivity:** LOW-MEDIUM — the triangular text shape and surrounding decoration are visible at moderate resolution.
-
 **Distinguish from:**
 
 - Serlevha/ʿunwān — elaborate headpiece ABOVE beginning text; finispiece shows text narrowing to a point at the END
@@ -461,8 +435,6 @@ Vassale is not a decoration type but a mounting technique — text is cut out an
   - **Cloud bands (bulut/abr-i band):** contour bands following the rise and fall of letters, with gold, flowers, or crosshatching filling the space between bands
   - **Floral/geometric panels:** white floral sprays on blue ground or gilt sprays filling interlinear spaces
 - **Particularly associated with Safavid/Persian luxury production** — "text within cloud bands in gold" is a strong indicator
-
-**Resolution sensitivity:** MEDIUM — overall presence visible at moderate resolution; fine details of cloud band contouring require higher resolution.
 
 **Distinguish from:**
 
@@ -502,8 +474,6 @@ Vassale is not a decoration type but a mounting technique — text is cut out an
 - Simple geometric borders, pen-drawn florets and vine scrolls, marginal dividers
 - Flat, single-layer execution — quick and affordable alternative to full illumination
 
-**Resolution sensitivity:** MEDIUM — ink patterns are visible at moderate resolution, though distinguishing from simple rulings requires some detail.
-
 **Most developed in the Maghribi tradition:** North African Qur'ans characteristically use polychrome ink for text AND decoration — brown ink for text, diacritics in blue/yellow, voweling in mauve/purple.
 
 **Distinguish from:**
@@ -521,8 +491,6 @@ Vassale is not a decoration type but a mounting technique — text is cut out an
 - Network cracking pattern — distinct from paint flaking (shellac cracks in a fine web pattern)
 - Deeply saturated colors with a luminous quality from the sandwich structure (pigment between two shellac layers)
 - Often on pasteboard substrate rather than paper
-
-**Resolution sensitivity:** MEDIUM — the glossy sheen may be visible at moderate resolution depending on lighting and photography angle. Network cracking requires higher resolution.
 
 **Distinguish from:**
 
@@ -574,8 +542,6 @@ Vassale is not a decoration type but a mounting technique — text is cut out an
 - Fine gold sprinkles + large gold flecks + painted gold compositions (overlapping with zerefşân/zerkâri)
 - Absence of diagonal burnishing lines (often visible on Islamic papers from agate/glass polishing; their absence supports but does not confirm Chinese origin)
 
-**Resolution sensitivity:** MEDIUM — vivid colors and gold compositions visible at moderate resolution; the perpendicular orientation is detectable if designs are clear enough to determine directionality.
-
 **⚠ Visual identification provides PROBABLE attribution only.** Definitive identification requires fiber analysis (paper mulberry, ramie, hemp). When visually suspected, record as "probable Chinese paper (kāġaẕ-i Ḫiṭāʾī)" with confidence ≤ 0.7.
 
 **Distinguish from:**
@@ -599,24 +565,15 @@ When multiple types are present, identify each individually. The output category
 
 ## Screenshot Coverage Assessment
 
-### Standard YEK 5-folio capture
+Standard YEK 5-folio capture covers: front board (skip), doublure/flyleaf (check endpapers), first leaf, opening text pages. Most decorated paper is concentrated in this window.
 
-| Folio position | Typically contains | Relevant for paper decoration? |
-| --- | --- | --- |
-| 1 (cover) | Front board, binding | No — skip for paper decoration (but note marbled covers) |
-| 2 (inside cover) | Doublure, flyleaf | Maybe — check for marbled doublures, endpapers |
-| 3 (first leaf) | Flyleaf or opening text | Yes — may show paper color, sprinkling, margins |
-| 4–5 (opening pages) | Text opening, possibly illuminated | Yes — most likely to show decorated paper |
+**Common gaps** — catalogue descriptions indicating decoration BEYOND the 5-folio window:
 
-### Common coverage gaps
-
-These catalogue descriptions often indicate decoration BEYOND the 5-folio window:
-
-- "ilk iki sayfa zerkârî" — first two TEXT pages may be f3a–f4a, not f1–f2
-- "kenarları halkâr" — may only appear at certain section openings deeper in the manuscript
-- "yan kağıtları ebrulu" — side papers may only be visible at certain page edges
-- "renkli yaprak" — colored leaves may be scattered throughout, not concentrated at the beginning
-- "son sayfa" — decoration on final pages (never captured in first-5 sequence)
+- "ilk iki sayfa zerkârî" — first two TEXT pages may be deeper than f1–f2
+- "kenarları halkâr" — may only appear at certain section openings
+- "yan kağıtları ebrulu" — check both opening AND closing pages
+- "renkli yaprak" — colored leaves may be scattered throughout
+- "son sayfa" — final pages never in first-5 capture
 
 When the claimed decoration is likely beyond the capture window, verdict should be `inconclusive` with a specific recommendation for targeted navigation.
 
@@ -634,10 +591,10 @@ When the claimed decoration is likely beyond the capture window, verdict should 
 | Medium (150–300 DPI) | ✅ motifs visible; ⚠ bridges may be missed | ✅ shadow visible; ⚠ edge quality unclear | ⚠ subtle deformation hard to detect | ✅ motifs visible; ⚠ indentation unclear |
 | Low (<150 DPI / thumbnails) | ⚠ motifs visible but indistinguishable from hand-painted | ⚠ may resemble staining | ❌ not discernible | ⚠ motifs visible but technique unclear |
 
-| Quality level | Carpet page | Shamsa page | Verse markers | Finispiece | Interlinear illum. | Cut paper | Penwork | Lacquer | Dendân-ı mûşî | Hurde-nakş | Chinese paper |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| High (>300 DPI equiv.) | ✅ visible | ✅ visible | ✅ all markers visible | ✅ visible | ✅ cloud bands visible | ✅ seams detectable | ✅ ink patterns clear | ✅ sheen + cracking | ✅ zigzag clear | ✅ nested motifs visible | ✅ orientation + motifs |
-| Medium (150–300 DPI) | ✅ visible | ✅ visible | ⚠ large markers only; durak may be missed | ✅ visible | ✅ presence visible | ⚠ may appear as calligraphy | ✅ patterns visible | ⚠ sheen may be missed | ⚠ zigzag visible; fineness unclear | ❌ appears as standard illumination | ✅ color + gold compositions visible |
-| Low (<150 DPI / thumbnails) | ✅ usually visible | ✅ usually visible | ⚠ surah headbands only | ⚠ triangular shape may be visible | ⚠ may miss interlinear detail | ❌ indistinguishable from writing | ⚠ may resemble simple ruling | ❌ not discernible | ❌ merges with border lines | ❌ not discernible | ⚠ color visible; detail lost |
+| Quality level | Carpet page | Shamsa page | Verse markers | Finispiece | Interlinear illum. | Cut paper | Penwork | Lacquer | Dendân-ı mûşî | Hurde-nakş | Chinese paper | Vassale |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| High (>300 DPI equiv.) | ✅ visible | ✅ visible | ✅ all markers visible | ✅ visible | ✅ cloud bands visible | ✅ seams detectable | ✅ ink patterns clear | ✅ sheen + cracking | ✅ zigzag clear | ✅ nested motifs visible | ✅ orientation + motifs | ✅ seam + texture change visible |
+| Medium (150–300 DPI) | ✅ visible | ✅ visible | ⚠ large markers only; durak may be missed | ✅ visible | ✅ presence visible | ⚠ may appear as calligraphy | ✅ patterns visible | ⚠ sheen may be missed | ⚠ zigzag visible; fineness unclear | ❌ appears as standard illumination | ✅ color + gold compositions visible | ✅ seam visible at margin-text transition |
+| Low (<150 DPI / thumbnails) | ✅ usually visible | ✅ usually visible | ⚠ surah headbands only | ⚠ triangular shape may be visible | ⚠ may miss interlinear detail | ❌ indistinguishable from writing | ⚠ may resemble simple ruling | ❌ not discernible | ❌ merges with border lines | ❌ not discernible | ⚠ color visible; detail lost | ⚠ texture difference may hint at mounting |
 
 When resolution limits identification, always note this in the verdict limitations rather than marking `not_confirmed`.
